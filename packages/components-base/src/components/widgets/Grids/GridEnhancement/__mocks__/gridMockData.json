@@ -1,0 +1,1829 @@
+[
+  {
+    "settings":{
+      "type":"gridwidget",
+      "uid":"00000173-6b19-dc3e-ad7b-6bbbd0ac000e",
+      "title":null,
+      "titleLink":null,
+      "lazyLoaded":false,
+      "seeMoreLink":null,
+      "listTitle":"Más Noticias",
+      "listGrid":true,
+      "personalizationType":null
+    },
+    "analyticsData":{
+      "widget":{
+        "widget_pos":1,
+        "widget_title":"no title - 00000173-6b19-dc3e-ad7b-6bbbd0ac000e",
+        "widget_type":"grid widget"
+      }
+    },
+    "content":[
+      {
+        "type":"livestream",
+        "uid":"00000153-1fa6-dc48-a77f-5ff6b9000001",
+        "uri":"https://uat.tudn.com/tudn-livestream-24-7",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        "title":"FUTBOL RETRO |  Alemania elimina a Italia de la Eurocopa 2016, en penales",
+        "description":"Revive el partido entre alemanes e italianos en los cuartos de final de la Eurocopa 2016.",
+        "image":{
+          "type":"image",
+          "uid":"00000172-5d0f-d7c3-ab7b-dfef27e30000",
+          "title":"Germany v Italy - Quarter Final: UEFA Euro 2016",
+          "caption":"BORDEAUX, FRANCE - JULY 02: Germany players dash to celebrate their win through the penalty shootout after Jonas Hector scores to win the game after the UEFA EURO 2016 quarter final match between Germany and Italy at Stade Matmut Atlantique on July 2, 2016 in Bordeaux, France. (Photo by Claudio Villa/Getty Images)",
+          "credit":"Claudio Villa/Getty Images",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/4c/3f/6efb678b4cc181a3f76eec386bb1/gettyimages-544392358.jpg",
+              "width":1024,
+              "height":683,
+              "focusPoint":{
+                "x":0.51619824894151,
+                "y":0.25183823529411764
+              }
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":"EN VIVO",
+        "updateDate":"2020-07-15T21:20:45-04:00",
+        "publishDate":"2016-02-26T17:26:42-05:00",
+        "expirationDate":"3000-01-01T00:00:00-05:00",
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          }
+        ],
+        "disableReactions":false,
+        "livestreamId":"YwMmM0eDof1e733Uv9OhNLkbcRiRyVIM117",
+        "autoPlay":true,
+        "tvssUrl":"auth.univision.com",
+        "mainImage":"https://uvn-brightspot.s3.amazonaws.com/4c/3f/6efb678b4cc181a3f76eec386bb1/gettyimages-544392358.jpg",
+        "unauthenticatedVideoTvssUrl":"https://auth.univision.com/api/v1/video-auth/neulion-url-signature-token",
+        "hlsRenditionUrl":"https://usapr-i.akamaihd.net/hls/live/702697/tudn247/master.m3u8",
+        "liveStreamType":null,
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/QmKp102dfrL",
+              "isFeedDialog":false,
+              "title":"FUTBOL RETRO |  Alemania elimina a Italia de la Eurocopa 2016, en penales",
+              "description":"Revive el partido entre alemanes e italianos en los cuartos de final de la Eurocopa 2016.",
+              "imageUrl":null,
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/QmKp102dfrL",
+              "title":"FUTBOL RETRO |  Alemania elimina a Italia de la Eurocopa 2016, en penales",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/QmKp102dfrL",
+              "message":"FUTBOL RETRO |  Alemania elimina a Italia de la Eurocopa 2016, en penales"
+            },
+            "mail":{
+              "subject":"FUTBOL RETRO |  Alemania elimina a Italia de la Eurocopa 2016, en penales",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFUTBOL RETRO |  Alemania elimina a Italia de la Eurocopa 2016, en penales\n\nEncuéntralo en este enlace:http://uni.vi/QmKp102dfrL\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "enableDai":false,
+        "jwRecommendationChannel":"kv7nEgyM",
+        "isDigitalChannelLiveStream":false,
+        "auth":true,
+        "active":true,
+        "primaryTag":{
+          "name":"Deportes",
+          "link":"https://uat.x.univision.com/temas/deportes"
+        }
+      },
+      {
+        "type":"article",
+        "uid":"00000173-368b-d6d1-a177-3fab6f0c0002",
+        "uri":"https://uat.tudn.com/futbol/liga-mx/miguel-herrera-acepta-que-le-estan-buscando-remplazo-a-renato-ibarra",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri":"https://uat.tudn.com/futbol/liga-mx",
+          "name":"liga mx",
+          "title":"Liga MX"
+        },
+        "title":"Miguel Herrera acepta que le están buscando remplazo a Renato Ibarra",
+        "description":"En el América no le cierran la puerta a la llegada de un extranjero que juegue por la banda derecha.",
+        "image":{
+          "type":"image",
+          "uid":"00000173-36a6-d8bd-ad7f-bee6487e0000",
+          "title":"Renato Ibarra",
+          "caption":"Ibarra dejó un hueco en el plantel del América.",
+          "credit":"Jorge Martinez/MEXSPORT",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/5b/a6/25ef1bfc47c6a8dc910951c6474c/20191208-2359.jpg",
+              "width":4000,
+              "height":2667
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":"ÚLTIMA HORA",
+        "updateDate":"2020-08-05T17:48:20-04:00",
+        "publishDate":"2020-07-09T23:10:12-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+            "uri":"https://uat.tudn.com/futbol",
+            "name":"futbol",
+            "title":"Fútbol"
+          },
+          {
+            "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+            "uri":"https://uat.tudn.com/futbol/liga-mx",
+            "name":"liga mx",
+            "title":"Liga MX"
+          }
+        ],
+        "disableReactions":true,
+        "contentPriority":"BREAKING_NEWS",
+        "leadType":"image",
+        "articleType":"Standard",
+        "body":[
+          {
+            "type":"text",
+            "value":"<p><b>Miguel Herrera</b>, entrenador del <b>América</b>, aceptó que están buscando un jugador en el mercado que pueda suplir a <b>Renato Ibarra</b>, <a href=\"https://www.univision.com/deportes/futbol/liga-mx/oficial-renato-ibarra-refuerza-al-atlas-para-el-apertura-2020\" target=\"_blank\">quien salió al Atlás como préstamo</a> para el siguiente torneo.</p>"
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "dynamicPlaylist":false,
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/A8ED102irjz",
+              "isFeedDialog":false,
+              "title":"Miguel Herrera acepta que le están buscando remplazo a Renato Ibarra",
+              "description":"En el América no le cierran la puerta a la llegada de un extranjero que juegue por la banda derecha.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/5b/a6/25ef1bfc47c6a8dc910951c6474c/20191208-2359.jpg",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/A8ED102irjz",
+              "title":"Miguel Herrera acepta que le están buscando remplazo a Renato Ibarra",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/A8ED102irjz",
+              "message":"Miguel Herrera acepta que le están buscando remplazo a Renato Ibarra"
+            },
+            "mail":{
+              "subject":"Miguel Herrera acepta que le están buscando remplazo a Renato Ibarra",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMiguel Herrera acepta que le están buscando remplazo a Renato Ibarra\n\nEncuéntralo en este enlace:http://uni.vi/A8ED102irjz\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "useWebviewInApps":false,
+        "primaryTag":{
+          "name":"Liga MX",
+          "link":"https://uat.tudn.com/futbol/liga-mx"
+        }
+      },
+      {
+        "type":"article",
+        "uid":"00000173-2a93-de6d-a177-ab9f0f2f0002",
+        "uri":"https://uat.tudn.com/patrick-mahomes-podria-comprar-equipos-de-liga-mx-laliga-premier-league-y-serie-a",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        "title":"Varios Raúl Jiménez, varios equipos de Liga MX y todo lo que Pat Mahomes podría comprar",
+        "description":"El QB de Kansas City es el nuevo multimillonario del deporte con su nuevo contrato por 10 años y más de 500 millones de dólares.",
+        "image":{
+          "type":"image",
+          "uid":"00000172-bdf4-d302-a572-fdfc86ff0000",
+          "title":"Patrick Mahomes",
+          "caption":"Patrick Mahomes es el nuevo multimillonario del deporte con su ostentoso contrato.",
+          "credit":"David J. Phillip/AP",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/c9/5a/2d1c10a3457b8b887ca1b75483e1/ap-20034161495055.jpg",
+              "width":4174,
+              "height":2782,
+              "focusPoint":{
+                "x":0.48193407754805473,
+                "y":0.6000066021853233
+              }
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-15T06:19:40-04:00",
+        "publishDate":"2020-07-07T14:46:32-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          }
+        ],
+        "disableReactions":false,
+        "contentPriority":"STANDARD",
+        "leadType":"video",
+        "articleType":"Standard",
+        "body":[
+          {
+            "type":"text",
+            "value":"<p><b>Patrick Mahomes</b> se convirtió desde ya en el nuevo magnate del deporte mundial y <a href=\"https://www.univision.com/deportes/mas-deportes/los-mejores-deportistas-del-mundo-en-modo-ancianos-fotos\">lo hizo al firmar un ostentoso contrato de <b>503 millones de dólares</b> por los próximos 10 años</a> con los <b>Kansas City Chiefs</b> de la <b> NFL.</b></p>"
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "dynamicPlaylist":false,
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/tArR102ihXf",
+              "isFeedDialog":false,
+              "title":"Patrick Mahomes podría comprar equipos de Liga MX, LaLiga, Premier League y Serie A",
+              "description":"El QB de Kansas City es el nuevo multimillonario del deporte con su nuevo contrato por 10 años y más de 500 millones de dólares.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/32/a8/1cd398bd422fa6099b02f8a79545/933318c441bb498885bbd9408d989c8d",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/tArR102ihXf",
+              "title":"Patrick Mahomes podría comprar equipos de Liga MX, LaLiga, Premier League y Serie A",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/tArR102ihXf",
+              "message":"Patrick Mahomes podría comprar equipos de Liga MX, LaLiga, Premier League y Serie A"
+            },
+            "mail":{
+              "subject":"Patrick Mahomes podría comprar equipos de Liga MX, LaLiga, Premier League y Serie A",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPatrick Mahomes podría comprar equipos de Liga MX, LaLiga, Premier League y Serie A\n\nEncuéntralo en este enlace:http://uni.vi/tArR102ihXf\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "useWebviewInApps":false,
+        "primaryTag":{
+          "name":"NFL",
+          "link":"https://uat.x.univision.com/temas/nfl"
+        }
+      },
+      {
+        "type":"article",
+        "uid":"00000173-339c-dc31-a77b-779df68a0002",
+        "uri":"https://uat.tudn.com/boxeo/dillian-whyte-ofende-a-andy-ruiz-ve-a-comer-pastel-te-veo-luego-gordo",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-525e-d945-a1ed-7afeaf4d0000",
+          "uri":"https://uat.tudn.com/boxeo",
+          "name":"boxeo",
+          "title":"Boxeo"
+        },
+        "title":"Dillian Whyte ofende a Andy Ruiz: “Ve a comer pastel, te veo luego gordo”",
+        "description":"El peleador británico externó su molestia con el mexicano luego de que éste cuestionara si valía la pena una pelea.",
+        "image":{
+          "type":"image",
+          "uid":"00000173-33c2-d082-a9ff-ffca19890000",
+          "title":"fe342e660a2a4f6797f80363171ba76d",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/9f/b9/754ed2454ba39d2078618737fb5d/fe342e660a2a4f6797f80363171ba76d",
+              "width":1920,
+              "height":1080
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-13T08:40:23-04:00",
+        "publishDate":"2020-07-09T08:52:38-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-525e-d945-a1ed-7afeaf4d0000",
+            "uri":"https://uat.tudn.com/boxeo",
+            "name":"boxeo",
+            "title":"Boxeo"
+          }
+        ],
+        "disableReactions":false,
+        "contentPriority":"STANDARD",
+        "leadType":"video",
+        "articleType":"Standard",
+        "body":[
+          {
+            "type":"text",
+            "value":"<p>El excampeón de peso completo, <b> Andy Ruiz</b>, fue ofendido por el peleador británico <b>Dillian Whyte</b>, luego de que este cuestionaria en <b>Twitter</b> a sus fanáticos si valía la pena una pelea.</p>"
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "dynamicPlaylist":false,
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/oWiD102ipF0",
+              "isFeedDialog":false,
+              "title":"Dillian Whyte ofende a Andy Ruiz: “Ve a comer pastel, te veo luego gordo”",
+              "description":"El peleador británico externó su molestia con el mexicano luego de que éste cuestionara si valía la pena una pelea.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/9f/b9/754ed2454ba39d2078618737fb5d/fe342e660a2a4f6797f80363171ba76d",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/oWiD102ipF0",
+              "title":"Dillian Whyte ofende a Andy Ruiz: “Ve a comer pastel, te veo luego gordo”",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/oWiD102ipF0",
+              "message":"Dillian Whyte ofende a Andy Ruiz: “Ve a comer pastel, te veo luego gordo”"
+            },
+            "mail":{
+              "subject":"Dillian Whyte ofende a Andy Ruiz: “Ve a comer pastel, te veo luego gordo”",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDillian Whyte ofende a Andy Ruiz: “Ve a comer pastel, te veo luego gordo”\n\nEncuéntralo en este enlace:http://uni.vi/oWiD102ipF0\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "useWebviewInApps":false,
+        "primaryTag":{
+          "name":"Boxeo",
+          "link":"https://uat.tudn.com/boxeo"
+        }
+      },
+      {
+        "type":"article",
+        "uid":"00000173-361d-d8bd-ad7f-beff1ead0002",
+        "uri":"https://uat.tudn.com/futbol-femenino/liga-mx-femenil/jocelyn-orejel-y-veronica-perez-son-refuerzo-del-america-femenil",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000015e-9ab0-de08-a9ff-bff818870000",
+          "uri":"https://uat.tudn.com/futbol-femenino/liga-mx-femenil",
+          "name":"liga mx femenil",
+          "title":"Liga MX Femenil"
+        },
+        "title":"¡Bombas en la Liga MX Femenil! Jocelyn Orejel y Verónica Pérez al América",
+        "description":"El conjunto azulcrema refuerza su plantel con dos jugadoras material de selección mexicana.",
+        "image":{
+          "type":"image",
+          "uid":"00000173-36ca-d281-affb-76da33350000",
+          "title":"63d3bc8df18841baac7b878335d4b0e1",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/58/7c/ab3467cf44fe91743b926e45cf9c/63d3bc8df18841baac7b878335d4b0e1",
+              "width":1281,
+              "height":720
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-12T07:23:22-04:00",
+        "publishDate":"2020-07-09T20:58:21-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+            "uri":"https://uat.tudn.com/futbol",
+            "name":"futbol",
+            "title":"Fútbol"
+          },
+          {
+            "uuid":"0000015e-9ab0-de08-a9ff-bff818870000",
+            "uri":"https://uat.tudn.com/futbol-femenino/liga-mx-femenil",
+            "name":"liga mx femenil",
+            "title":"Liga MX Femenil"
+          }
+        ],
+        "disableReactions":true,
+        "contentPriority":"STANDARD",
+        "leadType":"video",
+        "articleType":"Standard",
+        "body":[
+          {
+            "type":"text",
+            "value":"<p><b>América</b> ha hecho oficial la contratación de <b>Jocelyn Orejel</b> y <b>Verónica Pérez</b> procedentes de <b>Xolos de Tijuana</b>, de esta manera el equipo de Leonardo Cuéllar se sigue reforzándose de cara al <b> Apertura 2020</b> que <a href=\"https://www.univision.com/deportes/futbol-femenino/liga-mx-femenil/el-inicio-de-la-liga-mx-femenil-se-aplaza-hasta-agosto\" target=\"_blank\">iniciará en agosto</a>.</p>"
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "dynamicPlaylist":false,
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/QYBl102ircC",
+              "isFeedDialog":false,
+              "title":"Jocelyn Orejel y Verónica Pérez son refuerzo del América Femenil",
+              "description":"El conjunto azulcrema refuerza su plantel con dos jugadoras material de selección mexicana.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/58/7c/ab3467cf44fe91743b926e45cf9c/63d3bc8df18841baac7b878335d4b0e1",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/QYBl102ircC",
+              "title":"Jocelyn Orejel y Verónica Pérez son refuerzo del América Femenil",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/QYBl102ircC",
+              "message":"Jocelyn Orejel y Verónica Pérez son refuerzo del América Femenil"
+            },
+            "mail":{
+              "subject":"Jocelyn Orejel y Verónica Pérez son refuerzo del América Femenil",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nJocelyn Orejel y Verónica Pérez son refuerzo del América Femenil\n\nEncuéntralo en este enlace:http://uni.vi/QYBl102ircC\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "useWebviewInApps":false,
+        "primaryTag":{
+          "name":"Liga MX Femenil",
+          "link":"https://uat.tudn.com/futbol-femenino/liga-mx-femenil"
+        }
+      },
+      {
+        "type":"soccermatch",
+        "uid":"0000016f-1b7e-d587-a97f-3b7fcb7f0000",
+        "uri":"https://uat.tudn.com/futbol/liga-mx/monarcas-morelia-vs-queretaro-liga-mx-clausura-2020-03-13",
+        "vertical":null,
+        "parent":null,
+        "title":"EN VIVO | Triunfo contundente de Monarcas, al desplumar a los Gallos",
+        "description":"Monarcas y Gallos no atraviesan su mejor momento en el Clausura 2020. Esta noche deben cambiar su historia.",
+        "image":{
+          "type":"image",
+          "uid":"00000170-d740-dacd-a776-ffdfe6d40000",
+          "title":"_LMX_MOR_QRO_",
+          "caption":"during the game Morelia vs Queretaro, corresponding to Day 10 of the Torneo Clausura 2020 of the Liga BBVA MX, at Morelos Stadium, on March 13, 2020. <br><br> durante el partido Morelia vs Queretaro, correspondiente a la Jornada 10 del Torneo Clausura 2020 de la Liga BBVA MX, en el Estadio Morelos, el 13 de Marzo de 2020.",
+          "credit":"Isaac Ortiz/MEXSPORT",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/90/f7/1f3d24194ee8ae159e9017ff0c67/20200313-4728.jpg",
+              "width":4000,
+              "height":2667,
+              "focusPoint":{
+                "x":0.7890847229168485,
+                "y":0.18304431599229287
+              }
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":"EN VIVO",
+        "updateDate":"2020-08-06T10:49:36-04:00",
+        "publishDate":"2019-12-18T19:11:31-05:00",
+        "expirationDate":null,
+        "hierarchy":[
+
+        ],
+        "disableReactions":false,
+        "streamId":"univision-tudn",
+        "shortTitle":"MOR vs QRO",
+        "matchId":2044159,
+        "soccerCompetitionSeason":{
+          "seasonId":"2019",
+          "seasonName":"Liga MX (Clausura) | 2019",
+          "soccerCompetition":{
+            "id":"385",
+            "name":"Liga MX (Clausura)",
+            "league":{
+              "type":"league",
+              "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "uri":"https://uat.tudn.com/futbol/liga-mx",
+              "id":"l.femexfut.mx.primera",
+              "image":{
+                "type":null,
+                "uid":null,
+                "title":null,
+                "caption":null,
+                "credit":null,
+                "renditions":null
+              },
+              "logo":{
+                "type":"image",
+                "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+                "title":"80x80_liga_mx.png",
+                "caption":"Liga MX",
+                "credit":null,
+                "renditions":{
+                  "original":{
+                    "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                    "width":144,
+                    "height":144
+                  }
+                }
+              },
+              "abbreviation":"Liga MX",
+              "includesVideo":true,
+              "coverage":"Performance",
+              "activeSoccerCompetitionURL":null,
+              "hierarchy":[
+                {
+                  "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                  "uri":"https://uat.tudn.com",
+                  "name":"deportes",
+                  "title":"Deportes"
+                },
+                {
+                  "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                  "uri":"https://uat.tudn.com/futbol",
+                  "name":"futbol",
+                  "title":"Fútbol"
+                },
+                {
+                  "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                  "uri":"https://uat.tudn.com/futbol/liga-mx",
+                  "name":"liga mx",
+                  "title":"Liga MX"
+                }
+              ]
+            },
+            "hasBracketsSupport":true
+          }
+        },
+        "homeTeamSeason":{
+          "type":"teamseason",
+          "uid":"0000016f-1b7e-d587-a97f-3b7fa40c0000",
+          "uri":null,
+          "vertical":null,
+          "parent":null,
+          "title":"Mazatlán FC | Liga MX (Clausura) | 2019",
+          "description":"Mazatlán FC | Liga MX (Clausura) | 2019",
+          "image":{
+            "type":"image",
+            "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title":"Univision Fallback Image",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width":1200,
+                "height":630
+              }
+            }
+          },
+          "authors":[
+
+          ],
+          "cardLabel":null,
+          "updateDate":"2019-12-18T19:11:21-05:00",
+          "publishDate":"2019-12-18T19:11:21-05:00",
+          "expirationDate":null,
+          "hierarchy":[
+
+          ],
+          "disableReactions":false,
+          "teamId":1289,
+          "teamName":"Mazatlán FC",
+          "teamAbbreviatedName":"MOR",
+          "teamLogo":{
+            "type":"image",
+            "uid":"00000172-a492-d8f5-a572-a59f23930000",
+            "title":"Mazatlán FC escudo",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/96/e8/8b42a32a4aaa8a9e4f95102f4f4e/mazatlanfc-72-x72-2x.png",
+                "width":144,
+                "height":144
+              }
+            }
+          },
+          "soccerCompetitionSeason":{
+            "seasonId":"2019",
+            "seasonName":"Liga MX (Clausura) | 2019",
+            "soccerCompetition":{
+              "id":"385",
+              "name":"Liga MX (Clausura)",
+              "league":{
+                "type":"league",
+                "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri":"https://uat.tudn.com/futbol/liga-mx",
+                "id":"l.femexfut.mx.primera",
+                "image":{
+                  "type":null,
+                  "uid":null,
+                  "title":null,
+                  "caption":null,
+                  "credit":null,
+                  "renditions":null
+                },
+                "logo":{
+                  "type":"image",
+                  "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+                  "title":"80x80_liga_mx.png",
+                  "caption":"Liga MX",
+                  "credit":null,
+                  "renditions":{
+                    "original":{
+                      "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                      "width":144,
+                      "height":144
+                    }
+                  }
+                },
+                "abbreviation":"Liga MX",
+                "includesVideo":true,
+                "coverage":"Performance",
+                "activeSoccerCompetitionURL":null,
+                "hierarchy":[
+                  {
+                    "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                    "uri":"https://uat.tudn.com",
+                    "name":"deportes",
+                    "title":"Deportes"
+                  },
+                  {
+                    "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                    "uri":"https://uat.tudn.com/futbol",
+                    "name":"futbol",
+                    "title":"Fútbol"
+                  },
+                  {
+                    "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                    "uri":"https://uat.tudn.com/futbol/liga-mx",
+                    "name":"liga mx",
+                    "title":"Liga MX"
+                  }
+                ]
+              },
+              "hasBracketsSupport":true
+            }
+          }
+        },
+        "awayTeamSeason":{
+          "type":"teamseason",
+          "uid":"0000016f-1b7e-d587-a97f-3b7fa6090000",
+          "uri":null,
+          "vertical":null,
+          "parent":null,
+          "title":"Querétaro | Liga MX (Clausura) | 2019",
+          "description":"Querétaro | Liga MX (Clausura) | 2019",
+          "image":{
+            "type":"image",
+            "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title":"Univision Fallback Image",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width":1200,
+                "height":630
+              }
+            }
+          },
+          "authors":[
+
+          ],
+          "cardLabel":null,
+          "updateDate":"2019-12-18T19:11:22-05:00",
+          "publishDate":"2019-12-18T19:11:22-05:00",
+          "expirationDate":null,
+          "hierarchy":[
+
+          ],
+          "disableReactions":false,
+          "teamId":4047,
+          "teamName":"Querétaro",
+          "teamAbbreviatedName":"QRO",
+          "teamLogo":{
+            "type":"image",
+            "uid":"0000014d-0879-ddc6-a5dd-19ffc15f0000",
+            "title":"Querétaro Logo",
+            "caption":"Querétaro",
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/6c/72/a4011c3547d48a2e0001a97b0a44/queretano-2x.png",
+                "width":144,
+                "height":144
+              }
+            }
+          },
+          "soccerCompetitionSeason":{
+            "seasonId":"2019",
+            "seasonName":"Liga MX (Clausura) | 2019",
+            "soccerCompetition":{
+              "id":"385",
+              "name":"Liga MX (Clausura)",
+              "league":{
+                "type":"league",
+                "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri":"https://uat.tudn.com/futbol/liga-mx",
+                "id":"l.femexfut.mx.primera",
+                "image":{
+                  "type":null,
+                  "uid":null,
+                  "title":null,
+                  "caption":null,
+                  "credit":null,
+                  "renditions":null
+                },
+                "logo":{
+                  "type":"image",
+                  "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+                  "title":"80x80_liga_mx.png",
+                  "caption":"Liga MX",
+                  "credit":null,
+                  "renditions":{
+                    "original":{
+                      "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                      "width":144,
+                      "height":144
+                    }
+                  }
+                },
+                "abbreviation":"Liga MX",
+                "includesVideo":true,
+                "coverage":"Performance",
+                "activeSoccerCompetitionURL":null,
+                "hierarchy":[
+                  {
+                    "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                    "uri":"https://uat.tudn.com",
+                    "name":"deportes",
+                    "title":"Deportes"
+                  },
+                  {
+                    "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                    "uri":"https://uat.tudn.com/futbol",
+                    "name":"futbol",
+                    "title":"Fútbol"
+                  },
+                  {
+                    "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                    "uri":"https://uat.tudn.com/futbol/liga-mx",
+                    "name":"liga mx",
+                    "title":"Liga MX"
+                  }
+                ]
+              },
+              "hasBracketsSupport":true
+            }
+          }
+        }
+      },
+      {
+        "type":"soccermatch",
+        "uid":"00000164-4fb7-da08-a9f6-efbfd5570000",
+        "uri":"https://uat.tudn.com/futbol/uefa-nations-league/bulgaria-vs-noruega-uefa-nations-league-2018-09-09",
+        "vertical":null,
+        "parent":null,
+        "title":"Bulgaria vs Noruega",
+        "description":"Bulgaria vs Noruega",
+        "image":{
+          "type":"image",
+          "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title":"Univision Fallback Image",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width":1200,
+              "height":630
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":"EN VIVO",
+        "updateDate":"2020-08-06T11:19:38-04:00",
+        "publishDate":"2018-08-21T17:28:29-04:00",
+        "expirationDate":"3000-01-01T00:00:00-05:00",
+        "hierarchy":[
+
+        ],
+        "disableReactions":false,
+        "streamId":"univision-tudn",
+        "shortTitle":"BGR vs NOR",
+        "matchId":972992,
+        "soccerCompetitionSeason":{
+          "seasonId":"2018",
+          "seasonName":"Season 2018/2019",
+          "soccerCompetition":{
+            "id":"941",
+            "name":"UEFA Nations League",
+            "league":{
+              "type":"league",
+              "uid":"00000164-a998-d809-a96c-bdbd1c520000",
+              "uri":"https://uat.tudn.com/futbol/uefa-nations-league",
+              "id":"l.uefa.org.nations",
+              "image":{
+                "type":null,
+                "uid":null,
+                "title":null,
+                "caption":null,
+                "credit":null,
+                "renditions":null
+              },
+              "logo":{
+                "type":null,
+                "uid":null,
+                "title":null,
+                "caption":null,
+                "credit":null,
+                "renditions":null
+              },
+              "abbreviation":"UEFA Nations",
+              "includesVideo":true,
+              "coverage":"Performance",
+              "activeSoccerCompetitionURL":null,
+              "hierarchy":[
+                {
+                  "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                  "uri":"https://uat.tudn.com",
+                  "name":"deportes",
+                  "title":"Deportes"
+                },
+                {
+                  "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                  "uri":"https://uat.tudn.com/futbol",
+                  "name":"futbol",
+                  "title":"Fútbol"
+                },
+                {
+                  "uuid":"00000164-a998-d809-a96c-bdbd1c520000",
+                  "uri":"https://uat.tudn.com/futbol/uefa-nations-league",
+                  "name":"uefa nations league",
+                  "title":"UEFA Nations League"
+                }
+              ]
+            },
+            "hasBracketsSupport":true
+          }
+        },
+        "homeTeamSeason":{
+          "type":"teamseason",
+          "uid":"00000164-4fb7-da08-a9f6-efbfb9c90000",
+          "uri":null,
+          "vertical":null,
+          "parent":null,
+          "title":"Bulgaria | UEFA Nations League | 2018",
+          "description":"Bulgaria | UEFA Nations League | 2018",
+          "image":{
+            "type":"image",
+            "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title":"Univision Fallback Image",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width":1200,
+                "height":630
+              }
+            }
+          },
+          "authors":[
+
+          ],
+          "cardLabel":null,
+          "updateDate":null,
+          "publishDate":null,
+          "expirationDate":"3000-01-01T00:00:00-05:00",
+          "hierarchy":[
+
+          ],
+          "disableReactions":false,
+          "teamId":502,
+          "teamName":"Bulgaria",
+          "teamAbbreviatedName":"BGR",
+          "teamLogo":{
+            "type":"image",
+            "uid":"0000015e-96aa-d10d-af5f-ffaa83f90000",
+            "title":"Bulgaria National Team",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/25/88/a829e7bd4b8b964facdc6e73ba80/bulgaria-2x.png",
+                "width":144,
+                "height":144
+              }
+            }
+          },
+          "soccerCompetitionSeason":{
+            "seasonId":"2018",
+            "seasonName":"Season 2018/2019",
+            "soccerCompetition":{
+              "id":"941",
+              "name":"UEFA Nations League",
+              "league":{
+                "type":"league",
+                "uid":"00000164-a998-d809-a96c-bdbd1c520000",
+                "uri":"https://uat.tudn.com/futbol/uefa-nations-league",
+                "id":"l.uefa.org.nations",
+                "image":{
+                  "type":null,
+                  "uid":null,
+                  "title":null,
+                  "caption":null,
+                  "credit":null,
+                  "renditions":null
+                },
+                "logo":{
+                  "type":null,
+                  "uid":null,
+                  "title":null,
+                  "caption":null,
+                  "credit":null,
+                  "renditions":null
+                },
+                "abbreviation":"UEFA Nations",
+                "includesVideo":true,
+                "coverage":"Performance",
+                "activeSoccerCompetitionURL":null,
+                "hierarchy":[
+                  {
+                    "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                    "uri":"https://uat.tudn.com",
+                    "name":"deportes",
+                    "title":"Deportes"
+                  },
+                  {
+                    "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                    "uri":"https://uat.tudn.com/futbol",
+                    "name":"futbol",
+                    "title":"Fútbol"
+                  },
+                  {
+                    "uuid":"00000164-a998-d809-a96c-bdbd1c520000",
+                    "uri":"https://uat.tudn.com/futbol/uefa-nations-league",
+                    "name":"uefa nations league",
+                    "title":"UEFA Nations League"
+                  }
+                ]
+              },
+              "hasBracketsSupport":true
+            }
+          }
+        },
+        "awayTeamSeason":{
+          "type":"teamseason",
+          "uid":"00000164-4fb7-da08-a9f6-efbfbce10000",
+          "uri":null,
+          "vertical":null,
+          "parent":null,
+          "title":"Noruega | UEFA Nations League | 2018",
+          "description":"Noruega | UEFA Nations League | 2018",
+          "image":{
+            "type":"image",
+            "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title":"Univision Fallback Image",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width":1200,
+                "height":630
+              }
+            }
+          },
+          "authors":[
+
+          ],
+          "cardLabel":null,
+          "updateDate":null,
+          "publishDate":null,
+          "expirationDate":null,
+          "hierarchy":[
+
+          ],
+          "disableReactions":false,
+          "teamId":363,
+          "teamName":"Noruega",
+          "teamAbbreviatedName":"NOR",
+          "teamLogo":{
+            "type":"image",
+            "uid":"0000014d-089a-ddc6-a5dd-199ecd860000",
+            "title":"Noruega National Team",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/f8/19/db6700054f29ace8894d70298a22/norway-2x.png",
+                "width":144,
+                "height":144
+              }
+            }
+          },
+          "soccerCompetitionSeason":{
+            "seasonId":"2018",
+            "seasonName":"Season 2018/2019",
+            "soccerCompetition":{
+              "id":"941",
+              "name":"UEFA Nations League",
+              "league":{
+                "type":"league",
+                "uid":"00000164-a998-d809-a96c-bdbd1c520000",
+                "uri":"https://uat.tudn.com/futbol/uefa-nations-league",
+                "id":"l.uefa.org.nations",
+                "image":{
+                  "type":null,
+                  "uid":null,
+                  "title":null,
+                  "caption":null,
+                  "credit":null,
+                  "renditions":null
+                },
+                "logo":{
+                  "type":null,
+                  "uid":null,
+                  "title":null,
+                  "caption":null,
+                  "credit":null,
+                  "renditions":null
+                },
+                "abbreviation":"UEFA Nations",
+                "includesVideo":true,
+                "coverage":"Performance",
+                "activeSoccerCompetitionURL":null,
+                "hierarchy":[
+                  {
+                    "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                    "uri":"https://uat.tudn.com",
+                    "name":"deportes",
+                    "title":"Deportes"
+                  },
+                  {
+                    "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                    "uri":"https://uat.tudn.com/futbol",
+                    "name":"futbol",
+                    "title":"Fútbol"
+                  },
+                  {
+                    "uuid":"00000164-a998-d809-a96c-bdbd1c520000",
+                    "uri":"https://uat.tudn.com/futbol/uefa-nations-league",
+                    "name":"uefa nations league",
+                    "title":"UEFA Nations League"
+                  }
+                ]
+              },
+              "hasBracketsSupport":true
+            }
+          }
+        }
+      }
+    ],
+    "breakingNewsMode":false,
+    "id":"00000173-6b19-dc3e-ad7b-6bbbd0ac000e",
+    "type":"GridWidget",
+    "commonRootSection":{
+      "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+      "uri":"https://uat.tudn.com",
+      "name":"deportes",
+      "title":"Deportes"
+    }
+  },
+  {
+    "settings":{
+      "type":"gridwidget",
+      "uid":"0000016e-8390-d0cb-a1ee-dfb3150d0000",
+      "title":"EXTRA CANCHA",
+      "titleLink":{
+        "href":"https://uat.x.univision.com/deportes/extra-cancha",
+        "target":"_self",
+        "text":"Extra Cancha",
+        "uid":"00000168-bee3-dc85-a3fb-bfefd2200001"
+      },
+      "lazyLoaded":false,
+      "seeMoreLink":null,
+      "listTitle":null,
+      "listGrid":false,
+      "personalizationType":null
+    },
+    "analyticsData":{
+      "widget":{
+        "widget_pos":18,
+        "widget_title":"extra cancha",
+        "widget_type":"grid widget"
+      }
+    },
+    "content":[
+      {
+        "type":"slideshow",
+        "uid":"00000173-31a0-d526-a97f-f5ec05d70068",
+        "uri":"https://uat.tudn.com/extra-cancha/megan-de-luca-la-mujer-que-ha-enamorado-a-millones-fotos",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        },
+        "title":"Megan de Luca, la mujer que ha enamorado a millones",
+        "description":"La modelo nacida en Philadelphia se volverá la ama y señora de tu alma.",
+        "image":{
+          "type":"image",
+          "uid":"0000016f-6884-dc86-ad6f-6ee6f4100001",
+          "title":"70061438_2584961584859046_1309078425455062812_n.jpg",
+          "caption":"La modelo nacida en Philadelphia se volverá la ama y señora de tu alma.",
+          "credit":"Instagram|@megmdxoxo_",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/a9/b6/98f967cc44a7abfbadabde709c12/70061438-2584961584859046-1309078425455062812-n.jpg",
+              "width":1080,
+              "height":1349
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-09T17:47:50-04:00",
+        "publishDate":"2020-07-09T17:47:50-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+            "uri":"https://uat.tudn.com/extra-cancha",
+            "name":"extra cancha",
+            "title":"Extra Cancha"
+          }
+        ],
+        "disableReactions":false,
+        "contentPriority":"STANDARD",
+        "slideshowType":"verticalslideshow",
+        "slideCount":51,
+        "cardImages":[
+          {
+            "type":"image",
+            "uid":"0000016f-6884-dc86-ad6f-6ee6f4100001",
+            "title":"70061438_2584961584859046_1309078425455062812_n.jpg",
+            "caption":"La modelo nacida en Philadelphia se volverá la ama y señora de tu alma.",
+            "credit":"Instagram|@megmdxoxo_",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/a9/b6/98f967cc44a7abfbadabde709c12/70061438-2584961584859046-1309078425455062812-n.jpg",
+                "width":1080,
+                "height":1349
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"0000016f-6884-dc86-ad6f-6ee6f4400001",
+            "title":"72092416_509113719674430_3474956882480936345_n.jpg",
+            "caption":"La modelo nacida en Philadelphia se volverá la ama y señora de tu alma.",
+            "credit":"Instagram|@megmdxoxo_",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/e5/a7/ab57f4d945f3a5ca48662a29ec1e/72092416-509113719674430-3474956882480936345-n.jpg",
+                "width":1080,
+                "height":1079
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"0000016f-6884-dc86-ad6f-6ee6f3aa0001",
+            "title":"66368474_156716585515211_253701570504808846_n.jpg",
+            "caption":"La modelo nacida en Philadelphia se volverá la ama y señora de tu alma.",
+            "credit":"Instagram|@megmdxoxo_",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/ee/a6/31a9711e4ac2bce6d83e2fa5fe8a/66368474-156716585515211-253701570504808846-n.jpg",
+                "width":1080,
+                "height":1350
+              }
+            }
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/wo6i102iqX4",
+              "isFeedDialog":false,
+              "title":"Megan de Luca, la mujer que ha enamorado a millones",
+              "description":"La modelo nacida en Philadelphia se volverá la ama y señora de tu alma.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/a9/b6/98f967cc44a7abfbadabde709c12/70061438-2584961584859046-1309078425455062812-n.jpg",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/wo6i102iqX4",
+              "title":"Megan de Luca, la mujer que ha enamorado a millones",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/wo6i102iqX4",
+              "message":"Megan de Luca, la mujer que ha enamorado a millones"
+            },
+            "mail":{
+              "subject":"Megan de Luca, la mujer que ha enamorado a millones",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMegan de Luca, la mujer que ha enamorado a millones\n\nEncuéntralo en este enlace:http://uni.vi/wo6i102iqX4\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "primaryTag":{
+          "name":"Extra Cancha",
+          "link":"https://uat.tudn.com/extra-cancha"
+        }
+      },
+      {
+        "type":"slideshow",
+        "uid":"00000173-3199-d526-a97f-f5dd4cc50084",
+        "uri":"https://uat.tudn.com/extra-cancha/caroline-zalog-la-mujer-que-domina-como-disfrutar-las-playas-fotos",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        },
+        "title":"Caroline Zalog, la mujer que domina cómo disfrutar las playas",
+        "description":"La modelo estadounidense con figura de ensueño te enamorará con sus incríbles fotos en bikini.",
+        "image":{
+          "type":"image",
+          "uid":"0000016f-6862-dabc-adff-efef7f080001",
+          "title":"69370972_101796111163522_8811709266329221668_n.jpg",
+          "caption":"La modelo estadounidense con figura de ensueño te enamorará con sus incríbles fotos en bikini.",
+          "credit":"Instagram|@carolinezalog",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/ed/ec/ec2fc2f947a797377c21db86908d/69370972-101796111163522-8811709266329221668-n.jpg",
+              "width":1080,
+              "height":1350
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-09T13:33:22-04:00",
+        "publishDate":"2020-07-09T13:33:22-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+            "uri":"https://uat.tudn.com/extra-cancha",
+            "name":"extra cancha",
+            "title":"Extra Cancha"
+          }
+        ],
+        "disableReactions":false,
+        "contentPriority":"STANDARD",
+        "slideshowType":"verticalslideshow",
+        "slideCount":65,
+        "cardImages":[
+          {
+            "type":"image",
+            "uid":"0000016f-6862-dabc-adff-efef7f080001",
+            "title":"69370972_101796111163522_8811709266329221668_n.jpg",
+            "caption":"La modelo estadounidense con figura de ensueño te enamorará con sus incríbles fotos en bikini.",
+            "credit":"Instagram|@carolinezalog",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/ed/ec/ec2fc2f947a797377c21db86908d/69370972-101796111163522-8811709266329221668-n.jpg",
+                "width":1080,
+                "height":1350
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"0000016f-6862-dabc-adff-efef7ff60001",
+            "title":"72907273_549621785873845_7917117134277548170_n.jpg",
+            "caption":"La modelo estadounidense con figura de ensueño te enamorará con sus incríbles fotos en bikini.",
+            "credit":"Instagram|@carolinezalog",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/ba/6b/e70f0e3141b9a9ad85e07b968a10/72907273-549621785873845-7917117134277548170-n.jpg",
+                "width":1080,
+                "height":1350
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"0000016f-6862-dabc-adff-efef7ea10001",
+            "title":"67124272_419800135558656_3563839097204603641_n.jpg",
+            "caption":"La modelo estadounidense con figura de ensueño te enamorará con sus incríbles fotos en bikini.",
+            "credit":"Instagram|@carolinezalog",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/b5/bf/670198b249d4ab966ac55644d41a/67124272-419800135558656-3563839097204603641-n.jpg",
+                "width":1080,
+                "height":1350
+              }
+            }
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/p4Qb102iqyt",
+              "isFeedDialog":false,
+              "title":"Caroline Zalog, la mujer que domina cómo disfrutar las playas",
+              "description":"La modelo estadounidense con figura de ensueño te enamorará con sus incríbles fotos en bikini.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/ed/ec/ec2fc2f947a797377c21db86908d/69370972-101796111163522-8811709266329221668-n.jpg",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/p4Qb102iqyt",
+              "title":"Caroline Zalog, la mujer que domina cómo disfrutar las playas",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/p4Qb102iqyt",
+              "message":"Caroline Zalog, la mujer que domina cómo disfrutar las playas"
+            },
+            "mail":{
+              "subject":"Caroline Zalog, la mujer que domina cómo disfrutar las playas",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCaroline Zalog, la mujer que domina cómo disfrutar las playas\n\nEncuéntralo en este enlace:http://uni.vi/p4Qb102iqyt\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "primaryTag":{
+          "name":"Extra Cancha",
+          "link":"https://uat.tudn.com/extra-cancha"
+        }
+      },
+      {
+        "type":"slideshow",
+        "uid":"00000173-3191-d526-a97f-f5dd3eea0078",
+        "uri":"https://uat.tudn.com/extra-cancha/bri-lauren-la-mujer-que-confundiras-con-un-angel-fotos",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        },
+        "title":"Bri Lauren, la mujer que confundirás con un ángel ",
+        "description":"La modelo y amante del fitness estadounidense te dejará boquiabierto al ver su figura.",
+        "image":{
+          "type":"image",
+          "uid":"0000016f-687c-dabc-adff-efff4fc90000",
+          "title":"71118782_3176073939087009_8622474974912705969_n.jpg",
+          "caption":"La modelo y amante del fitness estadounidense te dejará boquiabierto al ver su figura.",
+          "credit":"Instagram|@brilaurennn",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/ff/f9/f2b61bac4619a0a27851a4342c44/71118782-3176073939087009-8622474974912705969-n.jpg",
+              "width":1080,
+              "height":920
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-09T08:58:49-04:00",
+        "publishDate":"2020-07-09T08:58:49-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+            "uri":"https://uat.tudn.com/extra-cancha",
+            "name":"extra cancha",
+            "title":"Extra Cancha"
+          }
+        ],
+        "disableReactions":false,
+        "contentPriority":"STANDARD",
+        "slideshowType":"verticalslideshow",
+        "slideCount":59,
+        "cardImages":[
+          {
+            "type":"image",
+            "uid":"0000016f-687c-dabc-adff-efff4fc90000",
+            "title":"71118782_3176073939087009_8622474974912705969_n.jpg",
+            "caption":"La modelo y amante del fitness estadounidense te dejará boquiabierto al ver su figura.",
+            "credit":"Instagram|@brilaurennn",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/ff/f9/f2b61bac4619a0a27851a4342c44/71118782-3176073939087009-8622474974912705969-n.jpg",
+                "width":1080,
+                "height":920
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"0000016f-687c-dabc-adff-efff4f890000",
+            "title":"67451480_708344049635078_4350500258778596786_n.jpg",
+            "caption":"La modelo y amante del fitness estadounidense te dejará boquiabierto al ver su figura.",
+            "credit":"Instagram|@brilaurennn",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/2e/37/a1488cfa46ccb7cb335820dd5099/67451480-708344049635078-4350500258778596786-n.jpg",
+                "width":1080,
+                "height":1350
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"0000016f-687c-dabc-adff-efff51090000",
+            "title":"80306921_470822297131710_2301823241135179989_n.jpg",
+            "caption":"La modelo y amante del fitness estadounidense te dejará boquiabierto al ver su figura.",
+            "credit":"Instagram|@brilaurennn",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/eb/b9/3d54d4d5472aacb07d2273311cfa/80306921-470822297131710-2301823241135179989-n.jpg",
+                "width":1080,
+                "height":1080
+              }
+            }
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/T7i0102ipFB",
+              "isFeedDialog":false,
+              "title":"Bri Lauren, la mujer que confundirás con un ángel ",
+              "description":"La modelo y amante del fitness estadounidense te dejará boquiabierto al ver su figura.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/ff/f9/f2b61bac4619a0a27851a4342c44/71118782-3176073939087009-8622474974912705969-n.jpg",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/T7i0102ipFB",
+              "title":"Bri Lauren, la mujer que confundirás con un ángel ",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/T7i0102ipFB",
+              "message":"Bri Lauren, la mujer que confundirás con un ángel "
+            },
+            "mail":{
+              "subject":"Bri Lauren, la mujer que confundirás con un ángel ",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nBri Lauren, la mujer que confundirás con un ángel \n\nEncuéntralo en este enlace:http://uni.vi/T7i0102ipFB\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "primaryTag":{
+          "name":"Extra Cancha",
+          "link":"https://uat.tudn.com/extra-cancha"
+        }
+      },
+      {
+        "type":"slideshow",
+        "uid":"00000173-2b04-d813-abf7-2b369e8c0001",
+        "uri":"https://uat.tudn.com/extra-cancha/alejandra-diaz-palestini-la-musa-sudamericana-de-sensualidad-irresistible-fotos",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        },
+        "title":"Alejandra Díaz Palestini, la musa sudamericana de sensualidad irresistible",
+        "description":"La auténtica belleza del Cono Sur que te elevará la temperatura en un instante.",
+        "image":{
+          "type":"image",
+          "uid":"00000173-2b06-d382-a9ff-6f4e73810000",
+          "title":"Alejandra Díaz (4).jpg",
+          "caption":"Ella es la auténtica belleza del Cono Sur hará que te elevará la temperatura en tu instante.",
+          "credit":"Instagram Alejandra Díaz | @alediazpalestini",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/71/fc/c5a212a44a588cdafa345787c05b/alejandra-diaz-4.jpg",
+              "width":916,
+              "height":1145,
+              "focusPoint":{
+                "x":0.5346952042434516,
+                "y":0.20413026922904623
+              }
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-08T18:26:26-04:00",
+        "publishDate":"2020-07-08T17:57:38-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+            "uri":"https://uat.tudn.com/extra-cancha",
+            "name":"extra cancha",
+            "title":"Extra Cancha"
+          }
+        ],
+        "disableReactions":false,
+        "contentPriority":"STANDARD",
+        "slideshowType":"verticalslideshow",
+        "slideCount":33,
+        "cardImages":[
+          {
+            "type":"image",
+            "uid":"00000173-2b06-d382-a9ff-6f4e73810000",
+            "title":"Alejandra Díaz (4).jpg",
+            "caption":"Ella es la auténtica belleza del Cono Sur hará que te elevará la temperatura en tu instante.",
+            "credit":"Instagram Alejandra Díaz | @alediazpalestini",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/71/fc/c5a212a44a588cdafa345787c05b/alejandra-diaz-4.jpg",
+                "width":916,
+                "height":1145,
+                "focusPoint":{
+                  "x":0.5346952042434516,
+                  "y":0.20413026922904623
+                }
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"00000173-2b06-d382-a9ff-6f4e74530000",
+            "title":"Alejandra Díaz (31).jpg",
+            "caption":"Ella es la auténtica belleza del Cono Sur hará que te elevará la temperatura en tu instante.",
+            "credit":"Instagram Alejandra Díaz | @alediazpalestini",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/99/ad/11dc367b45b2ac6f8946fd94cdf3/alejandra-diaz-31.jpg",
+                "width":853,
+                "height":853,
+                "focusPoint":{
+                  "x":0.3658289656408189,
+                  "y":0.3715629619674775
+                }
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"00000173-2b06-d382-a9ff-6f4e73e20000",
+            "title":"Alejandra Díaz (17).jpg",
+            "caption":"Ella es la auténtica belleza del Cono Sur hará que te elevará la temperatura en tu instante.",
+            "credit":"Instagram Alejandra Díaz | @alediazpalestini",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/df/84/60361c484dc2b5361b4e943ab03d/alejandra-diaz-17.jpg",
+                "width":800,
+                "height":1000,
+                "focusPoint":{
+                  "x":0.5346952042434516,
+                  "y":0.20986426555570487
+                }
+              }
+            }
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/kPKA102imLn",
+              "isFeedDialog":false,
+              "title":"Alejandra Díaz Palestini, la musa sudamericana de sensualidad irresistible",
+              "description":"La auténtica belleza del Cono Sur que te elevará la temperatura en un instante.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/71/fc/c5a212a44a588cdafa345787c05b/alejandra-diaz-4.jpg",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/kPKA102imLn",
+              "title":"Alejandra Díaz Palestini, la musa sudamericana de sensualidad irresistible",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/kPKA102imLn",
+              "message":"Alejandra Díaz Palestini, la musa sudamericana de sensualidad irresistible"
+            },
+            "mail":{
+              "subject":"Alejandra Díaz Palestini, la musa sudamericana de sensualidad irresistible",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAlejandra Díaz Palestini, la musa sudamericana de sensualidad irresistible\n\nEncuéntralo en este enlace:http://uni.vi/kPKA102imLn\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "primaryTag":{
+          "name":"Extra Cancha",
+          "link":"https://uat.tudn.com/extra-cancha"
+        }
+      },
+      {
+        "type":"slideshow",
+        "uid":"00000173-2ae7-d54d-a573-6be7eb520001",
+        "uri":"https://uat.tudn.com/extra-cancha/ura-janssen-la-modelo-que-esta-en-boca-de-todos-fotos",
+        "vertical":"Deportes",
+        "parent":{
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        },
+        "title":"Ura Janssen, la modelo que está en boca de todos",
+        "description":"Ella es la exitosa empresaria que ha dado de qué hablar no sólo por su despampanante figura.",
+        "image":{
+          "type":"image",
+          "uid":"00000173-2aea-d0ee-a7ff-baff7a5a0001",
+          "title":"Ura Janssen (4).jpg",
+          "caption":"Ella es la exitosa empresaria ha dado de qué hablar no sólo por su despampanante figura.",
+          "credit":"Instagram Ura Janssen | @ura_janssen_",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/c0/5e/b0a4bcc34ada8549e7e600d90202/ura-janssen-4.jpg",
+              "width":1080,
+              "height":1350,
+              "focusPoint":{
+                "x":0.6164046590474107,
+                "y":0.3474801773955114
+              }
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-07-08T14:11:41-04:00",
+        "publishDate":"2020-07-08T14:11:41-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+          {
+            "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+            "uri":"https://uat.tudn.com",
+            "name":"deportes",
+            "title":"Deportes"
+          },
+          {
+            "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+            "uri":"https://uat.tudn.com/extra-cancha",
+            "name":"extra cancha",
+            "title":"Extra Cancha"
+          }
+        ],
+        "disableReactions":false,
+        "contentPriority":"STANDARD",
+        "slideshowType":"verticalslideshow",
+        "slideCount":45,
+        "cardImages":[
+          {
+            "type":"image",
+            "uid":"00000173-2aea-d0ee-a7ff-baff7a5a0001",
+            "title":"Ura Janssen (4).jpg",
+            "caption":"Ella es la exitosa empresaria ha dado de qué hablar no sólo por su despampanante figura.",
+            "credit":"Instagram Ura Janssen | @ura_janssen_",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/c0/5e/b0a4bcc34ada8549e7e600d90202/ura-janssen-4.jpg",
+                "width":1080,
+                "height":1350,
+                "focusPoint":{
+                  "x":0.6164046590474107,
+                  "y":0.3474801773955114
+                }
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"00000173-2aea-d0ee-a7ff-baff7ae60000",
+            "title":"Ura Janssen (21).jpg",
+            "caption":"Ella es la exitosa empresaria ha dado de qué hablar no sólo por su despampanante figura.",
+            "credit":"Instagram Ura Janssen | @ura_janssen_",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/ed/f1/46d2443e4466815fb626a89e763f/ura-janssen-21.jpg",
+                "width":1080,
+                "height":1350,
+                "focusPoint":{
+                  "x":0.711015606715153,
+                  "y":0.4415177171527124
+                }
+              }
+            }
+          },
+          {
+            "type":"image",
+            "uid":"00000173-2aea-d0ee-a7ff-baff7a8d0000",
+            "title":"Ura Janssen (10).jpg",
+            "caption":"Ella es la exitosa empresaria ha dado de qué hablar no sólo por su despampanante figura.",
+            "credit":"Instagram Ura Janssen | @ura_janssen_",
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/b0/5c/a1b126a9454faee0a32782998dd0/ura-janssen-10.jpg",
+                "width":1080,
+                "height":1127,
+                "focusPoint":{
+                  "x":0.5794726454714669,
+                  "y":0.31078260090489623
+                }
+              }
+            }
+          }
+        ],
+        "jwRecommendationChannel":"3xQGeJjl",
+        "sharing":{
+          "options":{
+            "facebook":{
+              "url":"http://uni.vi/kcLB102immu",
+              "isFeedDialog":false,
+              "title":"Ura Janssen, la modelo que está en boca de todos",
+              "description":"Ella es la exitosa empresaria que ha dado de qué hablar no sólo por su despampanante figura.",
+              "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/c0/5e/b0a4bcc34ada8549e7e600d90202/ura-janssen-4.jpg",
+              "appId":"645138725541385"
+            },
+            "twitter":{
+              "url":"http://uni.vi/kcLB102immu",
+              "title":"Ura Janssen, la modelo que está en boca de todos",
+              "via":"Univision"
+            },
+            "whatsapp":{
+              "url":"http://uni.vi/kcLB102immu",
+              "message":"Ura Janssen, la modelo que está en boca de todos"
+            },
+            "mail":{
+              "subject":"Ura Janssen, la modelo que está en boca de todos",
+              "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nUra Janssen, la modelo que está en boca de todos\n\nEncuéntralo en este enlace:http://uni.vi/kcLB102immu\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "primaryTag":{
+          "name":"Extra Cancha",
+          "link":"https://uat.tudn.com/extra-cancha"
+        }
+      }
+    ],
+    "breakingNewsMode":false,
+    "id":"0000016e-8390-d0cb-a1ee-dfb3150d0000",
+    "type":"GridWidget",
+    "commonRootSection":{
+      "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+      "uri":"https://uat.tudn.com",
+      "name":"deportes",
+      "title":"Deportes"
+    }
+  }
+]

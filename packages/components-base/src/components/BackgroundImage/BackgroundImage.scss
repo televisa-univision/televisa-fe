@@ -1,0 +1,45 @@
+.background {
+  background: $grey center center no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  &.dark {
+    background-color: $black-20;
+    background-blend-mode: overlay;
+  }
+
+  .blur & {
+    background-color: $black-20;
+    background-blend-mode: overlay;
+    filter: blur(30px);
+    transform: scale(1.5);
+  }
+}
+
+.blur {
+  overflow: hidden;
+}
+
+.absolute {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.backgroundWithGradient {
+  background: $grey center center no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  &:before {
+    background: linear-gradient(180deg, rgba(0,0,0,0.22) 0%, rgba(0,0,0,0.46) 61.54%, #000000 100%);
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}

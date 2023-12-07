@@ -1,0 +1,9 @@
+.match {
+  width: auto;
+  @include media-breakpoint-up('sm') {
+    width: 442px;
+  }
+  @include media-breakpoint-up('md') {
+    width: 602px;
+  }
+}

@@ -1,0 +1,64 @@
+.carousel {
+  min-height: 64px;
+  height: 64px;
+
+  @include media-breakpoint-down('xxs') {
+    margin-left: -20px;
+    margin-right: -20px;
+    min-height: 64px;
+  }
+}
+
+.mask {
+  @include media-breakpoint-down('xxs') {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: -16px;
+  }
+  @include media-breakpoint-up('sm') {
+    padding-bottom: 6px;
+    padding-left: 4px;
+    padding-right: 4px;
+    min-width: calc(100% + 10px);
+    margin-left: -4px;
+  }
+}
+
+.item {
+  overflow: visible !important;
+}
+
+div.leftArrow {
+  left: 0;
+
+  button {
+    width: 42px;
+
+    svg {
+      margin: 0;
+    }
+  }
+
+  &:global(.hidden) {
+    visibility: visible;
+  }
+}
+
+
+div.rightArrow {
+  right: 0;
+
+  button {
+    width: 42px;
+
+    svg {
+      margin: 0;
+    }
+  }
+
+  &:global(.hidden) {
+    visibility: visible;
+  }
+}

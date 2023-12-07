@@ -1,0 +1,390 @@
+{
+  "type": "section",
+  "uid": "00000153-8613-dddf-a9f3-e7932bd70000",
+  "uri": "https://www.univision.com/shows/novelas",
+  "vertical": "Entretenimiento",
+  "parent": {
+    "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+    "uri": "https://www.univision.com/shows",
+    "name": "shows",
+    "title": "Shows"
+  },
+  "title": "Novelas",
+  "description": "Encuentra capítulos completos gratis, sinopsis, videos, fotos, exclusivas, resúmenes y mucho más de las telenovelas de Univision.",
+  "updateDate": "2019-07-31T12:13:30-04:00",
+  "publishDate": "2016-03-23T11:00:18-04:00",
+  "expirationDate": null,
+  "adSettings": {
+    "disable3rdPartyAds": false,
+    "disableAds": false,
+    "disableVideoAds": false,
+    "adTagValue": "section_entretenimiento/shows",
+    "targeting": {
+      "vertical": "entretenimiento"
+    },
+    "contentSpecificSettings": {}
+  },
+  "tracking": {
+    "analytics": {
+      "data": {
+        "adtag_value": "section_entretenimiento/shows",
+        "all_tags": [],
+        "canonical_url": "https://www.univision.com/shows/novelas",
+        "content_created_date": "2016-03-23",
+        "content_id": "00000153-8613-dddf-a9f3-e7932bd70000",
+        "content_modified_date": "2019-07-31",
+        "content_type": "section",
+        "content_vertical": "entretenimiento",
+        "environment_name": "prod",
+        "nielsenVcid": "c04",
+        "permalink": "https://www.univision.com/shows/novelas",
+        "platform": "website",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "shows",
+          "novelas"
+        ],
+        "section_level1": "shows",
+        "section_level2": "novelas",
+        "show_type": "novelas",
+        "title": "novelas",
+        "uci_division": "entertainment"
+      }
+    },
+    "nielsen": {
+      "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+      "vcid": "c04",
+      "environment": "prod",
+      "primaryTopic": "Shows"
+    }
+  },
+  "analyticsData": {
+    "apps": {
+      "common": {
+        "adtag_value": "section_entretenimiento/shows",
+        "all_tags": [],
+        "content_created_date": "2016-03-23",
+        "content_id": "00000153-8613-dddf-a9f3-e7932bd70000",
+        "content_type": "section",
+        "section": "novelas",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "shows",
+          "novelas"
+        ],
+        "section_level1": "shows",
+        "section_level2": "novelas",
+        "show_type": "novelas",
+        "title": "novelas"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "00000153-8613-dddf-a9f3-e7932bd70000",
+          "section": "section",
+          "type": "static",
+          "vcid": "c04"
+        },
+        "contentSpecific": {}
+      }
+    },
+    "web": {
+      "common": {
+        "adtag_value": "section_entretenimiento/shows",
+        "all_tags": [],
+        "content_created_date": "2016-03-23",
+        "content_id": "00000153-8613-dddf-a9f3-e7932bd70000",
+        "content_modified_date": "2019-07-31",
+        "content_type": "section",
+        "content_vertical": "entretenimiento",
+        "permalink": "https://www.univision.com/shows/novelas",
+        "platform": "website",
+        "section": "novelas",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "shows",
+          "novelas"
+        ],
+        "section_level1": "shows",
+        "section_level2": "novelas",
+        "seo_optimized ": false,
+        "show_type": "novelas",
+        "title": "novelas",
+        "uci_division": "entertainment"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "00000153-8613-dddf-a9f3-e7932bd70000",
+          "section": "section",
+          "type": "static",
+          "vcid": "c04"
+        },
+        "contentSpecific": {}
+      }
+    }
+  },
+  "metaTagData": {
+    "openGraph": {
+      "type": null,
+      "title": "Novelas",
+      "description": "Encuentra capítulos completos gratis, sinopsis, videos, fotos, exclusivas, resúmenes y mucho más de las telenovelas de Univision.",
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/3522223/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+      "url": "https://www.univision.com/shows/novelas",
+      "siteName": "Univision"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Novelas",
+      "description": "Encuentra capítulos completos gratis, sinopsis, videos, fotos, exclusivas, resúmenes y mucho más de las telenovelas de Univision.",
+      "creator": null,
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/3522223/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg"
+    },
+    "facebook": {
+      "pages": null
+    }
+  },
+  "seo": {
+    "title": "Novelas | Univision",
+    "description": "Encuentra capítulos completos gratis, sinopsis, videos, fotos, exclusivas, resúmenes y mucho más de las telenovelas de Univision. | Univision",
+    "canonicalUrl": "https://www.univision.com/shows/novelas",
+    "keywords": null,
+    "robots": [],
+    "news_keywords": []
+  },
+  "hierarchy": [
+    {
+      "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+      "uri": "https://www.univision.com/shows",
+      "name": "shows",
+      "title": "Shows"
+    },
+    {
+      "uuid": "00000153-8613-dddf-a9f3-e7932bd70000",
+      "uri": "https://www.univision.com/shows/novelas",
+      "name": "novelas",
+      "title": "Novelas"
+    }
+  ],
+  "externalWidgets": null,
+  "widgets": [
+    {
+      "settings": {
+        "type": "highimpactwidget",
+        "uid": "0000016c-48cd-d4c0-a57f-4efd0094001a",
+        "title": "La Reina Soy Yo",
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016c-48cd-d4c0-a57f-4efd0094001a",
+      "type": "LFHighImpactWidget",
+      "contents": [
+        {
+          "type": "show",
+          "uid": "0000016a-0382-d91d-a1ef-43f7aa480000",
+          "uri": "https://www.univision.com/shows/la-reina-soy-yo",
+          "vertical": null,
+          "parent": null,
+          "title": "La Reina Soy Yo",
+          "description": "Yamelí tiene un gran talento para la composición musical y después de ser traicionada por el hombre que ama, es condenada injustamente a prisión. Después de 17 años, Yamelí sale de la cárcel tras llegar a un acuerdo con la DEA para infiltrarse en una organización criminal. Con una nueva identidad comenzará su venganza contra aquellos que arruinaron su vida.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-0e0f-d91d-a1ef-4eff050b0000",
+            "title": "La Reina soy Yo promo universal ",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/45/c3/1e02b8934b11aecd5f8c98803432/lareinasoyyo-featuredshows-2x.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/ed5c6e5/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/64c5954/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/0f4f669/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/1468c73/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/5f65c60/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/dd730ba/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/21c8e72/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/276775f/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-31T21:31:36-04:00",
+          "publishDate": "2019-04-09T15:14:43-04:00",
+          "expirationDate": null,
+          "airTime": "Lun- Vie 8PM/7C",
+          "headerLogo": {
+            "type": "image",
+            "uid": "0000016a-94f7-d52f-af7a-96ffa6fc0000",
+            "title": "logo-la-reinasoyyo.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/e0/d3/13525b8c4adbbb3e77cc1353b17d/logo-la-reinasoyyo.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/93bde0c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/e6e6975/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/3d3d449/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/9ac1b51/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/1ecd3ea/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/9214327/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/f2dff4b/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/51e648c/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "highImpactImages": {
+            "mobile": {
+              "type": "image",
+              "uid": "0000016c-48cf-d4c0-a57f-4eff67120000",
+              "title": "LaReinaSoyYo.jpg",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/f0/c7/9f8e2e6d47ae962b69537ad0ea6a/lareinasoyyo.jpg",
+                  "width": 414,
+                  "height": 233
+                }
+              }
+            },
+            "desktop": {
+              "type": "image",
+              "uid": "0000016c-48cf-d4c0-a57f-4eff67100000",
+              "title": "La Reina Soy Yo.jpg",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/82/41/b51a8a344d8fb07cf042fd9513ac/la-reina-soy-yo.jpg",
+                  "width": 1440,
+                  "height": 466
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "source": "Univision",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "https://www.univision.com/shows/novelas",
+        "isFeedDialog": false,
+        "title": "Novelas",
+        "description": "Encuentra capítulos completos gratis, sinopsis, videos, fotos, exclusivas, resúmenes y mucho más de las telenovelas de Univision.",
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "https://www.univision.com/shows/novelas",
+        "title": "Novelas",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "https://www.univision.com/shows/novelas",
+        "message": "Novelas"
+      },
+      "mail": {
+        "subject": "Novelas",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNovelas\n\nEncuéntralo en este enlace:https://www.univision.com/shows/novelas\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "secondaryTags": null,
+  "sectionType": "section",
+  "socialNetworks": [
+    {
+      "text": "Uninovelas Youtube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/uninovelas",
+      "target": "_blank"
+    },
+    {
+      "text": "Uninovelas Facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/UniNovelas",
+      "target": "_blank"
+    },
+    {
+      "text": "UniNovelas Twitter",
+      "name": "Twitter",
+      "url": "https://twitter.com/UniNovelas",
+      "target": "_blank"
+    }
+  ],
+  "jwRecommendationChannel": "78MDrZDv",
+  "dynamicPlaylist": false,
+  "ttl": 300,
+  "comscore": "pageview_candidate",
+  "feedGeneratedAt": "2019-08-01T19:48:58-04:00"
+}

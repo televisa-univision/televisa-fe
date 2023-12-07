@@ -1,0 +1,68 @@
+.pollOptions {
+  display: flex;
+  padding: 18px 18px;
+  justify-content: space-between;
+}
+
+.pollOption {
+  align-items: center;
+  background-color: #1D1D1D;
+  border-radius: 2px;
+  border: 1px solid #171717;
+  box-shadow: 0 1px 0.5px 0 rgba(0,0,0,0.74);
+  color: $white;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0;
+  font-size: 12px;
+  height: 54px;
+  justify-content: space-around;
+  transition: all 0.2s;
+
+  > div {
+    display: flex;
+    height: 29px;
+    width: 29px;
+    > svg {
+      height: 29px;
+      width: 29px;
+    }
+  }
+
+  &:not(:first-child) {
+    margin-left: 2px;
+  }
+
+  &:disabled {
+    cursor: initial;
+  }
+
+  &:hover {
+    background-color: $black;
+  }
+
+}
+
+.active {
+  animation: fillMode 1s;
+  animation-fill-mode: forwards;
+  cursor: default;
+  @include media-breakpoint-down('md') {
+    position: relative;
+    top: 1px;
+  }
+}
+
+.inactive {
+  opacity: 0.8;
+  cursor: default;
+  filter: grayscale(100%);
+  &:hover {
+    background-color: #1D1D1D;
+  }
+}
+
+@keyframes fillMode {
+  from {opacity: 0.5;}
+  to {opacity: initial;}
+}

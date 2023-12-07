@@ -1,0 +1,537 @@
+{
+  "settings": {
+    "type": "allvideoplaylistvideo",
+    "uid": "00000174-7dca-df03-a1f7-7fdb6d8c0001",
+    "otherTabs": [
+      null
+    ],
+    "mainTabLabel": null,
+    "soccerMatch": {
+      "type": "soccermatch",
+      "uid": "0000014c-b48a-d928-a7ec-b49b0f000000",
+      "uri": "https://uat.tudn.com/futbol/liga-mx-apertura/atlas-vs-chiapas-fc-liga-mx-apertura-2014-08-02",
+      "vertical": null,
+      "parent": null,
+      "title": "Atlas vs Chiapas F.C.",
+      "description": "Atlas vs Chiapas F.C.",
+      "image": {
+        "type": "image",
+        "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title": "Univision Fallback Image",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2019-12-05T09:52:52-05:00",
+      "publishDate": "2018-11-27T21:31:19-05:00",
+      "expirationDate": "3000-01-01T00:00:00-05:00",
+      "hierarchy": [],
+      "disableReactions": false,
+      "streamId": "univision-tudn",
+      "shortTitle": "ATL vs JAG",
+      "matchId": 752548,
+      "soccerCompetitionSeason": {
+        "seasonId": "2014",
+        "seasonName": "Season 2014/2015",
+        "soccerCompetition": {
+          "id": "199",
+          "name": "Liga MX (Apertura)",
+          "league": {
+            "type": "league",
+            "uid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+            "uri": "https://uat.tudn.com/futbol/liga-mx",
+            "id": "l.femexfut.mx.primera",
+            "image": {
+              "type": null,
+              "uid": null,
+              "title": null,
+              "caption": null,
+              "credit": null,
+              "renditions": null
+            },
+            "logo": {
+              "type": "image",
+              "uid": "0000014d-9ccc-d49d-a35f-fccec1000000",
+              "title": "80x80_liga_mx.png",
+              "caption": "Liga MX",
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                  "width": 144,
+                  "height": 144
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/a14725a/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/c90c0a1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/d997074/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/9900925/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/2cdbd7e/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width": 30,
+                  "height": 17
+                }
+              }
+            },
+            "abbreviation": "Liga MX",
+            "includesVideo": true,
+            "coverage": "Performance",
+            "activeSoccerCompetitionURL": null,
+            "hierarchy": [
+              {
+                "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri": "https://uat.tudn.com",
+                "name": "deportes",
+                "title": "Deportes"
+              },
+              {
+                "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri": "https://uat.tudn.com/futbol",
+                "name": "futbol",
+                "title": "Fútbol"
+              },
+              {
+                "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri": "https://uat.tudn.com/futbol/liga-mx",
+                "name": "liga mx",
+                "title": "Liga MX"
+              }
+            ]
+          },
+          "hasBracketsSupport": true
+        }
+      },
+      "homeTeamSeason": {
+        "type": "teamseason",
+        "uid": "0000014c-47f6-d0b2-a3cf-4fffb4480000",
+        "uri": null,
+        "vertical": null,
+        "parent": null,
+        "title": "Atlas | Liga MX (Apertura) | 2014",
+        "description": "Atlas | Liga MX (Apertura) | 2014",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": null,
+        "publishDate": null,
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "hierarchy": [],
+        "disableReactions": false,
+        "teamId": 1284,
+        "teamName": "Atlas",
+        "teamAbbreviatedName": "ATL",
+        "teamLogo": {
+          "type": "image",
+          "uid": "0000014d-0869-ddc6-a5dd-19ffcf170000",
+          "title": "Atlas Logo",
+          "caption": "Atlas",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/d2/fd/8db248b04bd19ff790641e00f037/alatas-2x.png",
+              "width": 144,
+              "height": 144
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/5354637/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd2%2Ffd%2F8db248b04bd19ff790641e00f037%2Falatas-2x.png",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/55a8d0e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd2%2Ffd%2F8db248b04bd19ff790641e00f037%2Falatas-2x.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/051269f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd2%2Ffd%2F8db248b04bd19ff790641e00f037%2Falatas-2x.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/c3de950/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd2%2Ffd%2F8db248b04bd19ff790641e00f037%2Falatas-2x.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/6c9b72a/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd2%2Ffd%2F8db248b04bd19ff790641e00f037%2Falatas-2x.png",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "soccerCompetitionSeason": {
+          "seasonId": "2014",
+          "seasonName": "Season 2014/2015",
+          "soccerCompetition": {
+            "id": "199",
+            "name": "Liga MX (Apertura)",
+            "league": {
+              "type": "league",
+              "uid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "uri": "https://uat.tudn.com/futbol/liga-mx",
+              "id": "l.femexfut.mx.primera",
+              "image": {
+                "type": null,
+                "uid": null,
+                "title": null,
+                "caption": null,
+                "credit": null,
+                "renditions": null
+              },
+              "logo": {
+                "type": "image",
+                "uid": "0000014d-9ccc-d49d-a35f-fccec1000000",
+                "title": "80x80_liga_mx.png",
+                "caption": "Liga MX",
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                    "width": 144,
+                    "height": 144
+                  },
+                  "16x9-med": {
+                    "href": "https://uat2.x.univision.com/dims4/default/a14725a/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href": "https://uat2.x.univision.com/dims4/default/c90c0a1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/d997074/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-tablet": {
+                    "href": "https://uat2.x.univision.com/dims4/default/9900925/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-loading": {
+                    "href": "https://uat2.x.univision.com/dims4/default/2cdbd7e/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 30,
+                    "height": 17
+                  }
+                }
+              },
+              "abbreviation": "Liga MX",
+              "includesVideo": true,
+              "coverage": "Performance",
+              "activeSoccerCompetitionURL": null,
+              "hierarchy": [
+                {
+                  "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                  "uri": "https://uat.tudn.com",
+                  "name": "deportes",
+                  "title": "Deportes"
+                },
+                {
+                  "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                  "uri": "https://uat.tudn.com/futbol",
+                  "name": "futbol",
+                  "title": "Fútbol"
+                },
+                {
+                  "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+                  "uri": "https://uat.tudn.com/futbol/liga-mx",
+                  "name": "liga mx",
+                  "title": "Liga MX"
+                }
+              ]
+            },
+            "hasBracketsSupport": true
+          }
+        }
+      },
+      "awayTeamSeason": {
+        "type": "teamseason",
+        "uid": "0000014c-47f7-d0b2-a3cf-4fffa1d80000",
+        "uri": null,
+        "vertical": null,
+        "parent": null,
+        "title": "Chiapas F.C. | Liga MX (Apertura) | 2014",
+        "description": "Chiapas F.C. | Liga MX (Apertura) | 2014",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": null,
+        "publishDate": null,
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "hierarchy": [],
+        "disableReactions": false,
+        "teamId": 1958,
+        "teamName": "Chiapas F.C.",
+        "teamAbbreviatedName": "JAG",
+        "teamLogo": {
+          "type": "image",
+          "uid": "0000014d-086c-ddc6-a5dd-19fe10900000",
+          "title": "Chiapas F.C. Logo",
+          "caption": "Chiapas F.C.",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/1d/96/5f600bfb4d9e95d3db9c628a6475/499-eb.png",
+              "width": 100,
+              "height": 100
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/45b60cb/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F96%2F5f600bfb4d9e95d3db9c628a6475%2F499-eb.png",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/3baad33/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F96%2F5f600bfb4d9e95d3db9c628a6475%2F499-eb.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/ba0a7e2/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F96%2F5f600bfb4d9e95d3db9c628a6475%2F499-eb.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/a48fc10/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F96%2F5f600bfb4d9e95d3db9c628a6475%2F499-eb.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/1378011/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F96%2F5f600bfb4d9e95d3db9c628a6475%2F499-eb.png",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "soccerCompetitionSeason": {
+          "seasonId": "2014",
+          "seasonName": "Season 2014/2015",
+          "soccerCompetition": {
+            "id": "199",
+            "name": "Liga MX (Apertura)",
+            "league": {
+              "type": "league",
+              "uid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "uri": "https://uat.tudn.com/futbol/liga-mx",
+              "id": "l.femexfut.mx.primera",
+              "image": {
+                "type": null,
+                "uid": null,
+                "title": null,
+                "caption": null,
+                "credit": null,
+                "renditions": null
+              },
+              "logo": {
+                "type": "image",
+                "uid": "0000014d-9ccc-d49d-a35f-fccec1000000",
+                "title": "80x80_liga_mx.png",
+                "caption": "Liga MX",
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                    "width": 144,
+                    "height": 144
+                  },
+                  "16x9-med": {
+                    "href": "https://uat2.x.univision.com/dims4/default/a14725a/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href": "https://uat2.x.univision.com/dims4/default/c90c0a1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/d997074/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-tablet": {
+                    "href": "https://uat2.x.univision.com/dims4/default/9900925/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-loading": {
+                    "href": "https://uat2.x.univision.com/dims4/default/2cdbd7e/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                    "width": 30,
+                    "height": 17
+                  }
+                }
+              },
+              "abbreviation": "Liga MX",
+              "includesVideo": true,
+              "coverage": "Performance",
+              "activeSoccerCompetitionURL": null,
+              "hierarchy": [
+                {
+                  "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                  "uri": "https://uat.tudn.com",
+                  "name": "deportes",
+                  "title": "Deportes"
+                },
+                {
+                  "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                  "uri": "https://uat.tudn.com/futbol",
+                  "name": "futbol",
+                  "title": "Fútbol"
+                },
+                {
+                  "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+                  "uri": "https://uat.tudn.com/futbol/liga-mx",
+                  "name": "liga mx",
+                  "title": "Liga MX"
+                }
+              ]
+            },
+            "hasBracketsSupport": true
+          }
+        }
+      },
+      "isAuth": false,
+      "optaId": 752548
+    },
+    "title": "Match livestream",
+    "titleLink": null,
+    "lazyLoaded": false
+  },
+  "analyticsData": {
+    "widget": {
+      "widget_pos": 0,
+      "widget_title": "match livestream",
+      "widget_type": "all - video playlist - video"
+    }
+  },
+  "contents": [],
+  "breakingNewsMode": false,
+  "id": "00000174-7dca-df03-a1f7-7fdb6d8c0001",
+  "type": "AllVideoPlaylistVideo",
+  "commonRootSection": null
+}

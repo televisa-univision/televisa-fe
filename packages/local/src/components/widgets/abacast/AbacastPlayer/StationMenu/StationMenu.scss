@@ -1,0 +1,46 @@
+.toggle {
+  position: relative;
+}
+
+.menu {
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 0;
+  width: 168px;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  background-color: $black;
+  border-radius: 2px;
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 100ms linear;
+  z-index: $zindex-above-navigation;
+
+  &.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+.menuItem {
+  display: block;
+  padding: 0.25rem 0;
+  color: $white;
+  font-size: 12px;
+  text-align: left;
+  background-color: transparent;
+
+  &:hover {
+    color: $white;
+    opacity: 0.7;
+  }
+
+  & svg {
+    margin-right: 0.75rem;
+    transform: translateY(-1px);
+    path {
+      fill: $white;
+    }
+  }
+}

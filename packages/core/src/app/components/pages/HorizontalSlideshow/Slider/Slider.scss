@@ -1,0 +1,172 @@
+.container {
+  background-color: $black;
+  height: calc(100vh - 50px - 135px); // viewport height, header height, ad height
+  min-height: 350px;
+  outline: 0;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  @include media-breakpoint-up('sm') {
+    height: 600px;
+  }
+
+  @include media-breakpoint-up('md') {
+    width: calc(100% - 325px);
+    margin-bottom: 0;
+    margin-right: 2px;
+  }
+}
+
+.inline {
+  margin-bottom: 10px;
+  background-color: $very-light-grey;
+  min-height: auto;
+  position: relative;
+  padding-top: 100%;
+  height: auto;
+
+  @include media-breakpoint-up('xs') {
+    width: 100%;
+  }
+
+  @include media-breakpoint-up('sm') {
+    padding-top: 66.66%;
+    margin: 0 0 10px;
+    // This rule is set to make sure the 3:2 aspect ratio on firefox and edge browsers is the correct
+    min-height: 555px;
+  }
+
+  .track {
+    position: absolute;
+  }
+
+  .arrow {
+    animation-name: none;
+    background: none;
+    display: block;
+    height: 64px;
+    width: 48px;
+  }
+
+  .slide {
+    position: relative;
+  }
+}
+
+.track {
+  display: flex;
+  height: 100%;
+  position: relative;
+  top: 0;
+}
+
+.slide {
+  height: 100%;
+  user-select: none;
+  -webkit-user-select: none;
+  &.endSlide {
+    pointer-events: auto;
+  }
+  &.inlineSlide {
+    > div {
+      > div:nth-child(3) {
+        display: none;
+      }
+    }
+  }
+}
+
+@mixin centerArrow {
+  top: calc(50% - 33.5px);
+}
+
+.arrow {
+  background: fade-out($black, 0.4);
+  height: 67px;
+  position: absolute;
+  top: calc(40% - 33.5px);
+  width: 67px;
+  z-index: 1;
+
+  @include media-breakpoint-up('xs') {
+    @include centerArrow;
+  }
+}
+
+.arrowCentered {
+  @include centerArrow;
+}
+
+.arrowContent {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.prev {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+.endContainer {
+  height: 100%;
+  width: 100%;
+
+  .prev {
+    display: none;
+  }
+
+  @include media-breakpoint-up('md') {
+    max-height: 680px;
+  }
+}
+
+.flexColumnCenter {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.loadingOverlayContainer {
+  @extend .flexColumnCenter;
+  background-color: $black-70;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  > div {
+    @extend .flexColumnCenter;
+    font-size: 11px;
+    font-weight: normal;
+    text-transform: uppercase;
+
+    > span {
+      margin-top: 0.5rem;
+    }
+  }
+}
+
+.nextSlideshowClue {
+  position: absolute;
+  z-index: 1;
+  top: calc(40% + 33.5px);
+  right: 0;
+  transform: translateX(100%);
+  transition: transform 0.25s ease-out;
+
+  @include media-breakpoint-up('md') {
+    top: calc(50% + 33.5px);
+  }
+}
+
+.showNextSlideshowClue {
+  transform: translateX(0%);
+  transition: transform 0.25s ease-out 0.5s;
+}

@@ -1,0 +1,573 @@
+{
+  "data": {
+      "page": {
+          "data": {
+              "type": "section",
+              "uid": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+              "uri": "https://uat.mulher.com.br",
+              "vertical": "Vix",
+              "parent": {
+                  "uuid": null,
+                  "uri": null,
+                  "name": null,
+                  "title": null
+              },
+              "title": "Mulher Home Page",
+              "description": "",
+              "cardLabel": null,
+              "updateDate": "2022-02-23T12:08:10-05:00",
+              "publishDate": "2022-02-18T10:54:57-05:00",
+              "expirationDate": null,
+              "sharing": {
+                  "options": {
+                      "facebook": {
+                          "url": "https://uat.mulher.com.br",
+                          "isFeedDialog": false,
+                          "title": "Mulher Home Page",
+                          "description": "",
+                          "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                          "appId": "1007833782615811"
+                      },
+                      "twitter": {
+                          "url": "https://uat.mulher.com.br",
+                          "title": "Mulher Home Page",
+                          "via": "Univision"
+                      },
+                      "whatsapp": {
+                          "url": "https://uat.mulher.com.br",
+                          "message": "Mulher Home Page"
+                      },
+                      "mail": {
+                          "subject": "Mulher Home Page",
+                          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMulher Home Page\n\nEncuéntralo en este enlace:https://uat.mulher.com.br\n\nVisítanos https://www.univision.com"
+                      }
+                  }
+              },
+              "hierarchy": [
+                  {
+                      "uuid": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                      "uri": "https://uat.mulher.com.br",
+                      "name": "mulher home page",
+                      "title": "Mulher Home Page"
+                  }
+              ],
+              "featuredTags": [],
+              "disableReactions": false,
+              "adSettings": {
+                  "disable3rdPartyAds": false,
+                  "disableAds": false,
+                  "disableVideoAds": false,
+                  "adTagValue": "section_vix",
+                  "targeting": {
+                      "vertical": "vix"
+                  },
+                  "contentSpecificSettings": {}
+              },
+              "tracking": {
+                  "analytics": {
+                      "data": {
+                          "adtag_value": "section_vix",
+                          "all_tags": [],
+                          "canonical_url": "https://uat.mulher.com.br",
+                          "content_created_date": "2022-02-18",
+                          "content_id": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                          "content_modified_date": "2022-02-23",
+                          "content_type": "section",
+                          "content_vertical": "vix",
+                          "environment_name": "qa",
+                          "nielsenVcid": "c02",
+                          "permalink": "https://uat.mulher.com.br",
+                          "platform": "website",
+                          "section_category": "navigation taxonomy",
+                          "section_full_hierarchy": [
+                              "mulher home page"
+                          ],
+                          "section_level1": "mulher home page",
+                          "seo_optimized": "true",
+                          "title": "mulher home page"
+                      }
+                  },
+                  "nielsen": {
+                      "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+                      "vcid": "c02",
+                      "environment": "qa",
+                      "primaryTopic": "Mulher Home Page"
+                  }
+              },
+              "analyticsData": {
+                  "apps": {
+                      "common": {
+                          "adtag_value": "section_vix",
+                          "all_tags": [],
+                          "content_author": "",
+                          "content_created_date": "2022-02-18",
+                          "content_id": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                          "content_type": "section",
+                          "section": "mulher home page",
+                          "section_full_hierarchy": [
+                              "mulher home page"
+                          ],
+                          "section_level1": "mulher home page",
+                          "title": "mulher home page",
+                          "tudnxtra": "false"
+                      },
+                      "contentSpecific": {
+                          "section_category": "navigation taxonomy"
+                      },
+                      "nielsen": {
+                          "common": {
+                              "assetid": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                              "section": "section",
+                              "segB": "noticias",
+                              "type": "static",
+                              "vcid": "c02"
+                          },
+                          "contentSpecific": {
+                              "segB": "noticias"
+                          }
+                      }
+                  },
+                  "web": {
+                      "common": {
+                          "adtag_value": "section_vix",
+                          "all_tags": [],
+                          "content_author": "",
+                          "content_created_date": "2022-02-18",
+                          "content_id": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                          "content_modified_date": "2022-02-23",
+                          "content_type": "section",
+                          "content_vertical": "vix",
+                          "permalink": "https://uat.mulher.com.br",
+                          "platform": "website",
+                          "publish_user": "carlos neira",
+                          "section": "mulher home page",
+                          "section_full_hierarchy": [
+                              "mulher home page"
+                          ],
+                          "section_level1": "mulher home page",
+                          "seo_focus_keyword": "not defined",
+                          "seo_optimized": 0,
+                          "title": "mulher home page",
+                          "tudnxtra": "false"
+                      },
+                      "contentSpecific": {
+                          "section_category": "navigation taxonomy"
+                      },
+                      "nielsen": {
+                          "common": {
+                              "assetid": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                              "section": "section",
+                              "segB": "noticias",
+                              "type": "static",
+                              "vcid": "c02"
+                          },
+                          "contentSpecific": {
+                              "segB": "noticias"
+                          }
+                      }
+                  }
+              },
+              "metaTagData": {
+                  "openGraph": {
+                      "type": null,
+                      "title": "Mulher Home Page",
+                      "description": null,
+                      "imageUrl": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+                      "url": "https://uat.mulher.com.br",
+                      "siteName": "Univision"
+                  },
+                  "twitter": {
+                      "card": "summary_large_image",
+                      "title": "Mulher Home Page",
+                      "description": null,
+                      "creator": null,
+                      "imageUrl": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg"
+                  },
+                  "facebook": {
+                      "pages": null
+                  }
+              },
+              "seo": {
+                  "title": "Mulher Home Page | Univision",
+                  "description": "Mulher Home Page | Univision",
+                  "canonicalUrl": "https://uat.mulher.com.br",
+                  "keywords": null,
+                  "robots": [
+                      "noindex"
+                  ],
+                  "language": "es",
+                  "ld_json": null,
+                  "news_keywords": []
+              },
+              "externalWidgets": null,
+              "widgets": [
+                  {
+                      "settings": {
+                          "type": "listwidget",
+                          "uid": "0000017f-0d93-d225-a77f-fddba59f000d",
+                          "title": null,
+                          "titleLink": null,
+                          "lazyLoaded": false,
+                          "flavor": null
+                      },
+                      "analyticsData": {
+                          "widget": {
+                              "widget_pos": 0,
+                              "widget_title": "no title - 0000017f-0d93-d225-a77f-fddba59f000d",
+                              "widget_type": "list widget"
+                          }
+                      },
+                      "contents": [],
+                      "breakingNewsMode": false,
+                      "id": "0000017f-0d93-d225-a77f-fddba59f000d",
+                      "type": "ListWidget",
+                      "commonRootSection": null
+                  }
+              ],
+              "source": "Univision",
+              "secondaryTags": null,
+              "globalWidgets": [],
+              "sectionType": "section",
+              "socialNetworks": [],
+              "jwRecommendationChannel": "NO_PLAYLIST",
+              "dynamicPlaylist": false,
+              "ttl": 120,
+              "feedGeneratedAt": "2022-02-23T12:08:30-05:00",
+              "tagHierarchy": [
+                  {
+                      "uuid": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                      "uri": "https://uat.mulher.com.br",
+                      "name": "mulher home page",
+                      "title": "Mulher Home Page"
+                  }
+              ],
+              "primaryTag": {
+                  "uuid": "0000017f-0d8a-d225-a77f-fdca3c5e0000",
+                  "uri": "https://uat.mulher.com.br",
+                  "name": "mulher home page",
+                  "title": "Mulher Home Page",
+                  "link": "https://uat.mulher.com.br"
+              },
+              "isSensitive": false
+          },
+          "loading": false,
+          "error": null,
+          "env": "test",
+          "device": "desktop",
+          "config": {
+              "deploy": {
+                  "env": "test",
+                  "multiSite": true
+              },
+              "dims": {
+                  "baseUrl": "https://uat2.x.univision.com/dims4/default/",
+                  "sharedSecret": "2bbd31304d3e4a2a72bd064722797943"
+              },
+              "graphql": "https://uat-graphql.dev-univision.com",
+              "ssoIframeUrl": "https://sso-uat.webapp.univision.com",
+              "syndicator": {
+                  "uri": "https://uat.x.univision.com",
+                  "content": "https://uat.x.univision.com/web-api/content",
+                  "video": "https://uat.x.univision.com/feed/video-api",
+                  "search": "https://uat.x.univision.com/web-api/search",
+                  "widget": "https://uat.x.univision.com/web-api/widget",
+                  "webAppState": "/proxy/api/cached/web-app-state",
+                  "localMarketContent": "https://uat.x.univision.com/web-api/local-market-content"
+              },
+              "videoHub": {
+                  "env": "prod",
+                  "profile": "ab111068-ca31-4ca5-bfa3-3b97e556ecaf"
+              },
+              "tracking": {
+                  "spaMonitoring": false
+              }
+          },
+          "uaDevice": "pc",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+          "requestParams": {
+              "url": "https://uat.mulher.com.br/",
+              "from": "nextjs"
+          },
+          "sites": {
+              "univision": "https://uat.x.univision.com",
+              "tudn": "https://uat.tudn.com"
+          },
+          "domain": "https://uat.mulher.com.br",
+          "headers": {
+              "x-is-user-loc-eu": "false"
+          },
+          "originalUrl": "https://uat.mulher.com.br/",
+          "requestId": "393d8dd0-94cb-11ec-8370-1b1527f6656f",
+          "language": "es",
+          "theme": {
+              "card": {
+                  "isDark": {
+                      "audio": true,
+                      "default": false,
+                      "horoscopos": true,
+                      "podcastseries": true,
+                      "radiostation": true,
+                      "section": true,
+                      "show": true,
+                      "slideshow": true,
+                      "soccermatch": true,
+                      "tvstation": true,
+                      "video": true,
+                      "videoInline": false
+                  },
+                  "headlineFont": {
+                      "default": "uvs-font-b-bold"
+                  }
+              },
+              "globalNavBackgroundColor": "#2E2E2E",
+              "headlineFont": {
+                  "default": "uvs-font-a-bold"
+              },
+              "gradient": {
+                  "end": "#30344b",
+                  "start": "#333333"
+              },
+              "isBrandedHeaderBlack": false,
+              "primary": "#000000",
+              "secondary": "#000000",
+              "alphaGradient": "linear-gradient(to top, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0) 50%)",
+              "solidGradient": "linear-gradient(to bottom, #000000 0%, #000000 100%)",
+              "horizontalGradient": "linear-gradient(to right, #000000 0%, #000000 100%)",
+              "horizontalLeftGradient": "linear-gradient(to left, #000000 0%, #000000 100%)"
+          },
+          "pageCategory": "univision",
+          "isAmp": false,
+          "isSpa": false,
+          "isTudn": false,
+          "site": "mulher",
+          "headerTitle": "Mulher Home Page",
+          "navData": {
+              "theme": {
+                  "primary": "#3a3a3a",
+                  "secondary": "#000000",
+                  "custom": {
+                      "a": "#23a2ee",
+                      "a:hover": "#23a2ee"
+                  }
+              },
+              "globalHeader": true,
+              "logoDesktop": "/assets/styles/images/logo-univision-color.49f6b4c4450cea582fa78cbc00dee7d8.svg",
+              "logoMobile": "/assets/styles/images/tulip-color.21c63a7e99b474a951680dc9e407e566.svg",
+              "sectionTitle": "Mulher Home Page",
+              "variant": "light",
+              "baseUrl": "/",
+              "links": {
+                  "primary": [],
+                  "secondary": [
+                      {
+                          "name": "Entretenimiento",
+                          "link": "/entretenimiento",
+                          "contents": [
+                              {
+                                  "name": "Estilo de vida",
+                                  "link": "/estilo-de-vida"
+                              },
+                              {
+                                  "name": "Horóscopos",
+                                  "link": "/entretenimiento/horoscopos"
+                              },
+                              {
+                                  "name": "Radio",
+                                  "link": "/musica/uforia-music/radio"
+                              },
+                              {
+                                  "name": "Musica",
+                                  "link": "/musica"
+                              },
+                              {
+                                  "name": "Podcasts",
+                                  "link": "/musica/podcast-uforia-on-demand"
+                              }
+                          ]
+                      },
+                      {
+                          "name": "Televisión",
+                          "link": "/",
+                          "contents": [
+                              {
+                                  "name": "Programas",
+                                  "link": "/programas/shows/shows-programas-y-noticiero"
+                              },
+                              {
+                                  "name": "Shows",
+                                  "link": "/shows"
+                              },
+                              {
+                                  "name": "Novelas",
+                                  "link": "/novelas"
+                              },
+                              {
+                                  "name": "Series",
+                                  "link": "/series"
+                              },
+                              {
+                                  "name": "Guía de TV",
+                                  "link": "/entretenimiento/longform/univision-guia-programacion-de-television-shows-novelas-y-series"
+                              },
+                              {
+                                  "name": "TV en vivo",
+                                  "link": "/entretenimiento/longform/senal-en-vivo-univision-tv-en-vivo"
+                              }
+                          ]
+                      },
+                      {
+                          "name": "Noticias",
+                          "link": "/noticias",
+                          "contents": [
+                              {
+                                  "name": "Política",
+                                  "link": "/noticias/politica"
+                              },
+                              {
+                                  "name": "Inmigración",
+                                  "link": "/noticias/inmigracion"
+                              },
+                              {
+                                  "name": "América Latina",
+                                  "link": "/noticias/america-latina"
+                              },
+                              {
+                                  "name": "México",
+                                  "link": "/noticias/mexico"
+                              },
+                              {
+                                  "name": "Salud",
+                                  "link": "/noticias/salud"
+                              },
+                              {
+                                  "name": "Educación",
+                                  "link": "/noticias/educacion"
+                              },
+                              {
+                                  "name": "Dinero",
+                                  "link": "/noticias/dinero"
+                              },
+                              {
+                                  "name": "Planeta",
+                                  "link": "/noticias/medio-ambiente"
+                              },
+                              {
+                                  "name": "Trending",
+                                  "link": "/noticias/trending"
+                              },
+                              {
+                                  "name": "Detector de mentiras",
+                                  "link": "/noticias/detector-de-mentiras"
+                              },
+                              {
+                                  "name": "Tu Ciudad",
+                                  "link": "/sitios-locales"
+                              }
+                          ]
+                      },
+                      {
+                          "name": "Deportes",
+                          "link": "/",
+                          "site": "tudn",
+                          "contents": [
+                              {
+                                  "name": "Liga MX",
+                                  "link": "/futbol/liga-mx",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "Mundial Rusia 2018",
+                                  "link": "/mundial-rusia-2018",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "Fútbol",
+                                  "link": "/futbol",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "Ligas y torneos",
+                                  "link": "/futbol/ligas-y-torneos",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "NBA",
+                                  "link": "/nba",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "NFL",
+                                  "link": "/futbol-americano/national-football-league",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "MLS",
+                                  "link": "/futbol/mls",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "UDN Radio",
+                                  "link": "/univision-deportes-radio",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "Boxeo",
+                                  "link": "/boxeo",
+                                  "site": "tudn"
+                              },
+                              {
+                                  "name": "Fórmula 1",
+                                  "link": "/formula-1",
+                                  "site": "tudn"
+                              }
+                          ]
+                      }
+                  ]
+              }
+          }
+      },
+      "headerConf": {
+          "brandableType": null,
+          "isHamburgerMenuOpen": false,
+          "isMarketSelectorOpen": false,
+          "isSearchFieldOpen": false,
+          "userLogIn": false,
+          "activePath": "https://uat.mulher.com.br",
+          "brandedNavLogoUri": "/",
+          "contentType": "section",
+          "links": [],
+          "shouldRenderMVPD": true,
+          "subNavType": "emptySubNav",
+          "vertical": "Vix",
+          "title": {
+              "name": "Mulher Home Page",
+              "link": "/",
+              "logo": null,
+              "target": "_self"
+          }
+      },
+      "local": {
+          "isCelsius": null,
+          "marketByLocation": {
+              "currentMarket": null,
+              "contents": {}
+          },
+          "loadingLocalMarket": false
+      },
+      "search": {
+          "dateFilter": null,
+          "filter": null,
+          "page": 1,
+          "query": "",
+          "ready": false,
+          "results": [],
+          "totalPages": 1,
+          "totalResults": 1
+      },
+      "sports": {
+          "playerProfile": {},
+          "error": null,
+          "status": null
+      }
+  }
+}

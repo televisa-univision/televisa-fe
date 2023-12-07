@@ -1,0 +1,56 @@
+.nameSizeTop {
+  width: 177px;
+  padding: 2px 0 0 0;
+  @include media-breakpoint-up("sm") {
+    width: 250px;
+  }
+  @include media-breakpoint-up("md") {
+    width: 350px;
+  }
+}
+
+.number {
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  @include media-breakpoint-up("sm") {
+    width: 50px;
+  }
+}
+
+.squadTop {
+  height: 55px;
+  color: $grey-black;
+  font-size: rem(14px);
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid $light-grey;
+  @include uvs-font('a', 'bold');
+  padding: 10px 8px 0 8px;
+
+  @include media-breakpoint-up("sm") {
+    padding: 20px 10px 0 10px;
+    height: 60px;
+    font-size: rem(16px);
+  }
+}
+
+.stat {
+  display: flex;
+  flex: 1 1 0;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2px;
+}
+
+.hideMobile {
+  display: none;
+  @include media-breakpoint-up("sm") {
+    display: flex;
+  }
+}
+
+.hide {
+  display: none;
+}

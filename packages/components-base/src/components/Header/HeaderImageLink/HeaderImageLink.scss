@@ -1,0 +1,40 @@
+.wrapper {
+  display: flex;
+  justify-content: start;
+  flex-direction: row;
+  text-align: center;
+
+  @include media-breakpoint-up("lg") {
+    flex-direction: column;
+    flex: 1 1 25%;
+  }
+
+  a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 11px;
+    margin: 0;
+    color: $white;
+    line-height: 14px;
+    display: inline;
+    flex-direction: row;
+    &:hover, &:active {
+      color: $grey;
+    }
+  }
+
+  &.light a {
+    color: $black-grey;
+  }
+}
+
+.imageCont {
+  text-align: center;
+  margin-top: 8px;
+
+  @include media-breakpoint-up("sm") {
+    text-align: end;
+    align-self: flex-end;
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "cities": {
+    "data": {
+      "apploiCities": [
+        {
+          "city": "Brookhaven",
+          "state": "New York",
+          "state_abbr": "NY"
+        },
+        {
+          "city": "Pleasantville",
+          "state": "New Jersey",
+          "state_abbr": "NJ"
+        },
+        {
+          "city": "Vineland",
+          "state": "New Jersey",
+          "state_abbr": "NJ"
+        },
+        {
+          "city": "Lincoln Park",
+          "state": "New Jersey",
+          "state_abbr": "NJ"
+        }
+      ]
+    }
+  },
+  "jobs": {
+    "data": {
+    "apploiJobs": [
+      {
+        "id": "468002",
+        "uid": "468002",
+        "name": "Certified Nursing Assistant (CNA)",
+        "brand_name": "Bellhaven Center",
+        "description": "<p>A<strong>t Bellhaven Center for Rehabilitation &amp; Nursing Care we are committed to providing the best life for our residents.</strong></p><p><strong>C.NA day shift : <u>7am-3pm</u>,  3pm-11pm (5 %diff) , 11pm-7am (5%diff) Starting rate dependent upon experience. Higher rate for weekend only position. </strong><br/></p><p>We are in search of caring and passionate individuals who want to be a part of making a difference for those we serve. If this sounds like you, and you are looking to be a part of a dynamic team, we would love to meet you!</p><p>The Certified Nursing Assistant (CNA) serves as a source of emotional and physical support while assisting residents with their activities of daily living. Under the supervision of the RNs and LPNs, the Certified Nursing Assistant (CNA) provides the highest quality of care and service to each resident towards the highest quality of life. All shifts 7am-3pm, 3pm-11pm, 11pm-7am<br/></p><p>CNA Responsibilities:<br/>•        Care for residents in a manner conducive to their safety and comfort, under the direction of a licensed nurse<br/>•        Perform all duties in accordance with facility and Federal and State standards<br/>•        Assist RNs and LPNs in admitting, admitting assessments, discharging, and transferring residents<br/>•        Perform ADLs, such as: bathing, dressing, serving meals, feeding, ambulating, turning and positioning<br/>•        Maintain clean living conditions for residents and report on resident status or family concerns to a licensed nurse<br/>•        Collect charts, records and reports to be given to the LPNs<br/>•        Ensure that all residents receive the highest quality of service in a caring and compassionate environment, which recognizes the individuals needs and rights<br/>•        Performs other related job duties as required<br/></p><p>CNA Qualifications:<br/>•        Must have an <strong><u>active Certification as a Certified Nursing Assistant (CNA) in the State of NY</u></strong><br/>•        High School Degree or Equivalent<br/></p><p>Benefits offered including: Vacation, PTO, 401K, Health Insurance, Dental, Vision<br/></p><p>Equal Opportunity Employer<br/></p><p>Job Types: Full-time</p>",
+        "location": {
+          "lat": "40.7715761",
+          "lon": "-72.9334145"
+        },
+        "published_date": "2020-06-25",
+        "published": true,
+        "aggregated": false,
+        "preferred": true,
+        "hidden": false,
+        "backfilled": false,
+        "job_type": "All",
+        "industry": "Healthcare",
+        "state": "New York",
+        "address": "110 Beaver Dam Rd, Brookhaven, NY 11719, USA",
+        "source": null,
+        "company_logo_url": "http://d37o2t2slkqywt.cloudfront.net/d9e0a8e1-3777-41f3-c06e-13af7bb85c8a",
+        "external_url": null,
+        "job_code": "bellhavencenter-468002",
+        "team_id": 37320,
+        "doc_type": "preferredjob",
+        "name_es": null,
+        "description_es": null,
+        "redirect_apply_url": "https://jobs-staging.apploi.com/view/468002?utm_source=default&utm_campaign=integration&utm_medium=elasticsearch_api",
+        "city": "Brookhaven"
+      },
+      {
+        "id": "585586",
+        "uid": "585586",
+        "name": "Senior backend Python/MySQL developer",
+        "brand_name": "Apploi Tech",
+        "description": "<p><a href=\"https://www.apploi.com/\">Apploi</a> is hiring a <strong>backend developer to work on a Python application</strong> to work <strong>remotely</strong> OR out of our <a href=\"https://www.wework.com/buildings/25-broadway--new-york-city--NY\">WeWork office in downtown Manhattan in NYC</a>.&nbsp;<br /><br />Python experience is <strong>not</strong> absolutely necessary, but rather experience with scaling, query optimizations, writing quality/reusable/readable code, robust exception handling/alerting/monitoring, passion for writing automated tests, and experience with complex and hard-to-find edge cases. Experience in any framework or language (Ruby, PHP, .NET, Java, etc) is acceptable if you have the desire to learn Python from our experienced team.&nbsp;</p>\n<p>Our main goals for this position are:</p>\n<ol>\n<li>Scale our MySQL database performance using techniques such as read replicas, partitioning , federation, etc</li>\n<li>Query optimization using <a href=\"https://www.sqlalchemy.org/\">SQLAlchemy</a> and New Relic</li>\n<li>Scale our Heroku-based microservices architecture using <a href=\"https://mrq.readthedocs.io/en/latest/\">mrq</a> and Heroku</li>\n</ol>\n<p>Our microservices architecture consists of Django, React.js, <a style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\" href=\"https://reflect.run/\">Reflect automated testing,</a><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">&nbsp;Heroku, Travis, </span><a style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\" href=\"https://codeclimate.com/\">CodeClimate</a><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">, </span><a style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\" href=\"https://www.elastic.co/home\">ElasticSearch</a><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">), co-existing alongside a data analytics warehouse/engine built on Redshift, dbt, Sisense, and </span><a style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\" href=\"https://segment.com/\">Segment.io.</a></p>\n<hr />\n<h3><strong>About Apploi's Tech/Product team</strong></h3>\n<p>Apploi is building one of the best user experiences on the market for recruiters to hire hourly workers with an emphasis on nurses. The team consists of experienced React, Python, and SQL engineers that are very passionate and skilled in software engineering. Our developers have spoken at conference such as <a href=\"https://www.pycon.co/en/talks/6/\">NodeConf</a> ,&nbsp;<a href=\"https://www.pycon.co/en/talks/12/\">PyCon 2020</a>, and more.</p>\n<p>We pride ourselves in a fun, fast paced, and positive work environment where we learn from each other and always attempt to implement modern software best practices. In summary, the team is a bunch of <em>like minded, cooperative people wanting to build awesome things as a team</em>. We also do <a href=\"https://medium.com/apploi/apploi-in-tech-hub-of-columbia-9786b6b6f66d\">fun things together</a> such as car racing, trampolines, hiking, and more. Here are <a href=\"https://www.youtube.com/user/TheApploi/videos\">some videos</a> from our customers, and also <a href=\"https://www.youtube.com/watch?v=BuUioOuBo44\">a video with Frank our QA engineer</a>. Last,&nbsp;<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">Inc. magazine recently ranked Apploi as the</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">&nbsp;</span><a style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\" href=\"https://medium.com/apploi/it-takes-a-village-98ff1620307d\">139th fastest growing private software company in 2020.</a></p><p></p>",
+        "location": {
+          "lat": "40.7054843",
+          "lon": "-74.0137577"
+        },
+        "published_date": "2020-09-13",
+        "published": true,
+        "aggregated": false,
+        "preferred": true,
+        "hidden": false,
+        "backfilled": false,
+        "job_type": "Full Time",
+        "industry": "Retail",
+        "state": "New York",
+        "address": "25 Broadway, New York, NY 10004, USA",
+        "source": null,
+        "company_logo_url": "http://d37o2t2slkqywt.cloudfront.net/bfbb29c8-c3fc-41f5-ab5b-e51b1e2d2e67",
+        "external_url": null,
+        "job_code": "apploitech-585586",
+        "team_id": 32770,
+        "doc_type": "preferredjob",
+        "name_es": null,
+        "description_es": null,
+        "redirect_apply_url": "https://jobs-staging.apploi.com/view/585586?utm_source=default&utm_campaign=integration&utm_medium=elasticsearch_api",
+        "city": "New York"
+      },
+      {
+        "id": "468035",
+        "uid": "468035",
+        "name": "RN Supervisor 11-7, Part Time. ",
+        "brand_name": "Our Lady's Center",
+        "description": "<p>$10,000 sign on bonus</p><p>The primary purpose of this position is to supervise and coordinate activities of nursing personnel and (ancillary staff when needed) during the assigned shift in conjunction with the Director of Nursing. The Supervision will be in accordance with current Federal, State and Local standards, regulations, OSHA and HIPAA guidelines. <br/></p><p>- Follow established facility policies and procedures that govern the facility. <br/> - Assure that the highest degree of quality care is provided to our residents at all times. <br/> - Must be a person with imagination and possess the creative skills necessary to work with a variety of people. <br/> - Should have an empathetic approach to illness and ill-elderly. <br/> - Must be an able leader in group situations and have a pleasant, friendly personality. <br/> - Must be able to execute independent judgment in the absence of management. <br/> - Responsible for overseeing staff. <br/> - Ensures that full respect is rendered to all residents, visitors’ co-workers and management. <br/> - Routinely interacts with Medical and Other Professionals<br/></p><p>Shift: 11PM- 7AM </p>",
+        "location": {
+          "lat": "39.3898388",
+          "lon": "-74.5240422"
+        },
+        "published_date": "2020-07-16",
+        "published": true,
+        "aggregated": false,
+        "preferred": true,
+        "hidden": false,
+        "backfilled": false,
+        "job_type": "Full Time",
+        "industry": "Healthcare",
+        "state": "New Jersey",
+        "address": "Pleasantville, NJ, USA",
+        "source": null,
+        "company_logo_url": "http://d37o2t2slkqywt.cloudfront.net/31ee7596-b14e-4947-9ff3-6b0a4076a029",
+        "external_url": null,
+        "job_code": "ourladyscenter-468035",
+        "team_id": 37316,
+        "doc_type": "preferredjob",
+        "name_es": null,
+        "description_es": null,
+        "redirect_apply_url": "https://jobs-staging.apploi.com/view/468035?utm_source=default&utm_campaign=integration&utm_medium=elasticsearch_api",
+        "city": "Pleasantville"
+      },
+      {
+        "id": "468033",
+        "uid": "468033",
+        "name": "Licensed Practical Nurse / Registered Nurse LPN / RN FULL TIME 3-11 SHIFT",
+        "brand_name": "Bishop McCarthy Center",
+        "description": "<p>Bishop McCarthy Center is looking for experienced LPNs and experienced RNs.  Long term care experience is preferred.  We are seeking an RN/LPN for our full time 3-11 shift (every other weekend is required).<br/></p><p>Our team of seasoned staff works together to offer excellent service and care to each resident. <br/></p><p>The Licensed Practical Nurse (LPN) delivers excellent nursing care while adhering to the Department of Health regulations and Federal Health Care Administration. The Licensed Practical Nurse (LPN) assists with nursing assessments and care planning, administers direct resident care, and supervises resident care provided by unlicensed staff.<br/></p><p>Licensed Practical Nurse (LPN) Responsibilities:<br/>•\tProvides quality nursing care to residents to maintain or attain the highest practical level of functioning<br/>•\tAssesses residents for any decline of condition, signs of change in condition, weight loss, decline in ambulation, change in ADLs, development of skin breakdown, etc.<br/>•\tNotifies appropriate staff per facility protocol of the need for evaluation and informs staff on any changes in assessment when appropriate<br/>•\tAdministers medications and treatments to residents which includes; monitoring administration of intravenous fluids and placing orders for medication<br/>•\tConfer with residents and families on any issues relating to care and services<br/>•\tMake referrals to other departments when appropriate<br/>•\tComplete employee and resident incident reports and complete follow-up investigation forms<br/>•\tMaintain accountability for controlled substances by reviewing inventory medications with another licensed nurse and notifying supervisors of any discrepancies<br/>•\tSupervise the CNAs and the unit clerk in regards to work procedures, expediting work flow, evaluations, counseling and discipline<br/>•\tPerforms other related job duties as required<br/></p><p>Licensed Practical Nurse (LPN) Qualifications:<br/>•\tMust have an active license as a Licensed Practical Nurse (LPN) in the State of New Jersey<br/>•\tGraduate from an accredited School of Nursing<br/></p><p>Benefits offered including: Vacation, PTO, 401K, Health Insurance, Dental, Vision<br/></p><p>Full time and part time shifts are available.   <br/></p><p>Equal Opportunity Employer</p>",
+        "location": {
+          "lat": "39.477211",
+          "lon": "-75.0119176"
+        },
+        "published_date": "2020-08-17",
+        "published": true,
+        "aggregated": false,
+        "preferred": true,
+        "hidden": false,
+        "backfilled": false,
+        "job_type": "Full Time",
+        "industry": "Retail",
+        "state": "New Jersey",
+        "address": "1045 E Chestnut Ave, Vineland, NJ 08360, USA",
+        "source": null,
+        "company_logo_url": "http://d37o2t2slkqywt.cloudfront.net/0bd4e359-3ebb-435c-b61c-97dc2213d9e3",
+        "external_url": null,
+        "job_code": "bishopmccarthycenter-468033",
+        "team_id": 37315,
+        "doc_type": "preferredjob",
+        "name_es": null,
+        "description_es": null,
+        "redirect_apply_url": "https://jobs-staging.apploi.com/view/468033?utm_source=default&utm_campaign=integration&utm_medium=elasticsearch_api",
+        "city": "Vineland"
+      },
+      {
+        "id": "468075",
+        "uid": "468075",
+        "name": "Recreation Assistant",
+        "brand_name": "Lincoln Park Care Center",
+        "description": "<p>  </p><p>Skilled Rehabilitation and Nursing Facility is seeking an individual to join the Recreation Department. </p><p>Qualifications :</p><p>- Must be able to read / write in the English language</p><p>- Highschool Diploma/ G.E.D</p><p>- Computer skills-People Oriented and Friendly </p><p>Job Description: </p><p>1. Document all activities timely and appropriately in Pro-Activity attendance</p><p>2. Reviews individual resident attendance and participation records with therapist</p><p>.3. Meets with Recreation Therapist for input and guidance regularly. </p><p>FACILITY-WIDE RESPONSIBILITIES &amp; STANDARDS </p><p>1. Leads group activities for residents in a variety of recreational pursuits. i.e. parties, sing-a-longs, bingo, exercises, cooking, crafts, church activities, food related socials and Sensory Programs.</p><p>2. Adequately determines and accommodates resident needs, abilities and interests regarding leisure involvement.</p><p>3. Invites and escorts residents to appropriate unit programs.</p><p>4. Regularly provides and documents meaningful 1:1 in- room resident visits if indicated</p><p>5. Posts a written monthly activities schedule on assigned wing, near the nurses’ station and in Resident rooms.</p><p>6. Implements, in coordination with Program Director and Administrator, policies and procedures as they relate to the Therapeutic Recreation Department</p><p>7. Preparation for specialized Recreation programs. </p><p>PHYSICAL REQUIREMENTS OF THE JOB ACTIVITY </p><p>1. Demonstrate ability to handle stressful situations. </p><p>2. Must be able to write &amp; speak the English language in an understandable manner. </p><p>3. Ability to relate and work with the physically and emotionally challenged resident </p><p>Job Type: Full-time</p>",
+        "location": {
+          "lat": "40.9157116",
+          "lon": "-74.3051756"
+        },
+        "published_date": "2020-06-25",
+        "published": true,
+        "aggregated": false,
+        "preferred": true,
+        "hidden": false,
+        "backfilled": false,
+        "job_type": "Part Time",
+        "industry": "Healthcare",
+        "state": "New Jersey",
+        "address": "499 Pine Brook Rd, Lincoln Park, NJ 07035, USA",
+        "source": null,
+        "company_logo_url": "http://d37o2t2slkqywt.cloudfront.net/540ffad0-5ea8-41e4-fff5-050a6d1cb215",
+        "external_url": null,
+        "job_code": "lincolnparkcarecenter-468075",
+        "team_id": 37314,
+        "doc_type": "preferredjob",
+        "name_es": null,
+        "description_es": null,
+        "redirect_apply_url": "https://jobs-staging.apploi.com/view/468075?utm_source=default&utm_campaign=integration&utm_medium=elasticsearch_api",
+        "city": "Lincoln Park"
+      },
+      {
+        "id": "468003",
+        "uid": "468003",
+        "name": "Licensed Practical Nurse (LPN)",
+        "brand_name": "Bellhaven Center",
+        "description": "<p>Welcome to the <strong>Bellhaven Center for Rehabilitation &amp; Nursing Care!</strong> Our team of seasoned staff work together to offer excellent service and care to each resident. We are seeking new members. <strong><em><u>New graduates are very welcome to join us</u></em></strong>.  : . <strong><u>LPN- FT (12 hours shifts available.)  7pm - 7am</u></strong> <u><em>(</em></u><strong><u><em>5% dif for 11pm-7am shift) </em>. </u><em>Compensation dependent upon experience</em>.</strong><br/></p><p>The Licensed Practical Nurse (LPN) delivers excellent nursing care while adhering to the Department of Health regulations and Federal Health Care Administration. The Licensed Practical Nurse (LPN) assists with nursing assessments and care planning, administers direct resident care, and supervises resident care provided by unlicensed staff.<br/></p><p>Licensed Practical Nurse (LPN) Responsibilities:<br/>•\tProvides quality nursing care to residents to maintain or attain the highest practical level of functioning<br/>•\tObserves residents for any decline of condition, signs of change in condition, weight loss, decline in ambulation, change in ADLs, development of skin breakdown, etc.<br/>•\tNotifies appropriate staff per facility protocol of the need for evaluation and informs staff on any changes in assessment when appropriate<br/>•\tAdministers medications and treatments to residents which includes; monitoring administration of intravenous fluids and placing orders for medication<br/>•\tConfer with residents and families on any issues relating to care and services<br/>•\tMake referrals to other departments when appropriate<br/>•\tComplete employee and resident incident reports and complete follow-up investigation forms<br/>•\tMaintain accountability for controlled substances by reviewing inventory medications with another licensed nurse and notifying supervisors of any discrepancies<br/>•\tSupervise the CNAs and the unit clerk in regards to work procedures, expediting work flow, evaluations, counseling and discipline<br/>•\tPerforms other related job duties as required<br/></p><p>Licensed Practical Nurse (LPN) Qualifications:<br/>•\tMust have an active license as a Licensed Practical Nurse (LPN) in the State of New York<br/>•\tGraduate from an accredited School of Nursing<br/></p><p>Benefits offered including: Generous compensation package : Vacation, PTO, 401K, Health Insurance, Dental, Vision<br/></p><p>Equal Opportunity Employer</p>",
+        "location": {
+          "lat": "40.7715761",
+          "lon": "-72.9334145"
+        },
+        "published_date": "2020-06-25",
+        "published": true,
+        "aggregated": false,
+        "preferred": true,
+        "hidden": false,
+        "backfilled": false,
+        "job_type": "Full Time",
+        "industry": "Healthcare",
+        "state": "New York",
+        "address": "110 Beaver Dam Rd, Brookhaven, NY 11719, USA",
+        "source": null,
+        "company_logo_url": "http://d37o2t2slkqywt.cloudfront.net/d9e0a8e1-3777-41f3-c06e-13af7bb85c8a",
+        "external_url": null,
+        "job_code": "bellhavencenter-468003",
+        "team_id": 37320,
+        "doc_type": "preferredjob",
+        "name_es": null,
+        "description_es": null,
+        "redirect_apply_url": "https://jobs-staging.apploi.com/view/468003?utm_source=default&utm_campaign=integration&utm_medium=elasticsearch_api",
+        "city": "Brookhaven"
+      },
+      {
+        "id": "468037",
+        "uid": "468037",
+        "name": "Licensed Practical Nurse ( LPN)  ALL SHIFTS ",
+        "brand_name": "Our Lady's Center",
+        "description": "<p>Our team of seasoned staff works together to offer excellent service and care to each resident.<br/></p><p>The Licensed Practical Nurse (LPN) delivers excellent nursing care while adhering to the Department of Health regulations and Federal Health Care Administration. The Licensed Practical Nurse (LPN) assists with nursing assessments and care planning, administers direct resident care, and supervises resident care provided by unlicensed staff.<br/></p><p>Licensed Practical Nurse (LPN) Responsibilities:<br/>•\tProvides quality nursing care to residents to maintain or attain the highest practical level of functioning<br/>•\tAssesses/ Valuate, residents for any decline of condition, signs of change in condition, weight loss, decline in ambulation, change in ADLs, development of skin breakdown, etc.<br/>•\tNotifies appropriate staff per facility protocol of the need for evaluation and informs staff on any changes in assessment when appropriate<br/>•\tAdministers medications and treatments to residents which includes; monitoring administration of intravenous fluids and placing orders for medication<br/>•\tConfer with residents and families on any issues relating to care and services<br/>•\tMake referrals to other departments when appropriate<br/>•\tComplete employee and resident incident reports and complete follow-up investigation forms<br/>•\tMaintain accountability for controlled substances by reviewing inventory medications with another licensed nurse and notifying supervisors of any discrepancies<br/>•\tSupervise the CNAs and the unit clerk in regards to work procedures, expediting work flow, evaluations, counseling and discipline<br/>•\tPerforms other related job duties as required<br/></p><p>Licensed Practical Nurse (LPN) Qualifications:<br/>•\tMust have an active license as a Licensed Practical Nurse (LPN) in the State of New Jersey<br/>•\tGraduate from an accredited School of Nursing<br/></p><p>Benefits offered including: Vacation, PTO, 401K, Health Insurance, Dental, Vision<br/></p><p>Equal Opportunity Employer</p>",
+        "location": {
+          "lat": "39.3799884",
+          "lon": "-74.5285679"
+        },
+        "published_date": "2020-07-16",
+        "published": true,
+        "aggregated": false,
+        "preferred": true,
+        "hidden": false,
+        "backfilled": false,
+        "job_type": "Full Time",
+        "industry": "Healthcare",
+        "state": "New Jersey",
+        "address": "1100 Clematis Ave, Pleasantville, NJ 08232, USA",
+        "source": null,
+        "company_logo_url": "http://d37o2t2slkqywt.cloudfront.net/31ee7596-b14e-4947-9ff3-6b0a4076a029",
+        "external_url": null,
+        "job_code": "ourladyscenter-468037",
+        "team_id": 37316,
+        "doc_type": "preferredjob",
+        "name_es": null,
+        "description_es": null,
+        "redirect_apply_url": "https://jobs-staging.apploi.com/view/468037?utm_source=default&utm_campaign=integration&utm_medium=elasticsearch_api",
+        "city": "Pleasantville"
+      }]}
+  },
+  "industries": {
+    "data": {
+      "apploiIndustries": [
+        {
+          "es": "Contabilidad"
+        },
+        {
+          "es": "Administrador"
+        },
+        {
+          "es": "Publicidad"
+        },
+        {
+          "es": "Automotora"
+        },
+        {
+          "es": "Aviación"
+        },
+        {
+          "es": "Bancario"
+        }
+      ]
+    }
+  }
+}

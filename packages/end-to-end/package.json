@@ -1,0 +1,48 @@
+{
+  "private": true,
+  "name": "univision-fe-automation",
+  "version": "10.682.0",
+  "description": "Automated e2e testing for univision webapps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision/univision-fe-automation.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "lint": "eslint --fix --config .eslintrc './**/*.js'",
+    "cypressRetry": "CYPRESS_RETRIES=2 cypress",
+    "cypress:open:desktop": "cypress open --project ./cypress --env target=desktop",
+    "cypress:open:mobile": "cypress open --project ./cypress --env target=mobile",
+    "cypress:run:desktop": "cypress run --project ./cypress --env target=desktop --browser chrome",
+    "cypress:run:mobile": "cypress run --project ./cypress --env target=mobile --browser chrome",
+    "cypress:run:all": "npm-run-all --continue-on-error cypress:run:mobile cypress:run:desktop"
+  },
+  "author": "UVN Platform Engineers",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^5.0.1",
+    "@testing-library/cypress": "^4.0.4",
+    "@univision/fe-commons": "^10.680.2",
+    "@univision/fe-components-base": "^10.682.0",
+    "amphtml-validator": "^1.0.23",
+    "browsermob-proxy-api": "^0.4.0",
+    "cypress": "^3.4.1",
+    "cypress-plugin-retries": "^1.5.0",
+    "cypress-wait-until": "^1.2.3",
+    "dotenv": "^6.2.0",
+    "eslint-plugin-cypress": "^2.7.0",
+    "firefox-profile": "^1.2.0",
+    "foxdriver": "^0.1.0",
+    "npm-run-all": "^4.1.5",
+    "object-assign": "^4.1.1",
+    "request": "^2.88.0",
+    "sha1": "^1.1.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "cypress-plugin-retries": "^1.2.2",
+    "eslint": "6.5.1"
+  }
+}

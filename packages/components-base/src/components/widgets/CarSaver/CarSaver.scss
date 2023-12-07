@@ -1,0 +1,37 @@
+.container {
+  background: $white;
+}
+.horizontal {
+  min-height: 107px;
+
+  @include media-breakpoint-down('sm') {
+    min-height: 270px;
+  }
+
+  :global {
+    #carsaver-widget-search-new-car .row {
+      flex-wrap: nowrap;
+      @media screen and (max-width:399px) {
+        flex-wrap: wrap;
+      }
+    }
+
+    @media screen and (max-width:399px) {
+      #carsaver-widget-new-car_submit {
+        width: 50px;
+      }
+    }
+  }
+}
+
+.vertical {
+  min-height: 330px;
+  :global {
+    .button-container-for-tablet {
+      flex-grow: 1;
+    }
+    #carsaver-widget-new-car_submit {
+      width: calc(100% - 12px);
+    }
+  }
+}

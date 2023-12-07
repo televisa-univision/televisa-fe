@@ -1,0 +1,19 @@
+{
+  "image": {
+    "type": "image",
+    "uid": "00000171-5c3d-df91-a5f5-5f3d46380000",
+    "title": "radar_satelite_loop_Atlanta_WUGV.gif",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://cdn1.uvnimg.com/weather-widget/radar_satelite_loop_Atlanta_WUGV.gif",
+        "width": 890,
+        "height": 502
+      }
+    }
+  },
+  "slideCount": 3,
+  "title": "Gráficos y Mapas",
+  "uri": "https://qa.x.univision.com/local/san-francisco-kdtv/graficos-y-mapas-fotos"
+}

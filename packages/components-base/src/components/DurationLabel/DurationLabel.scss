@@ -1,0 +1,87 @@
+.durationLabel {
+  background: fade-out($black, .3);
+  color: $white;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+
+  &.showInPlaylist {
+    align-items: center;
+    background: transparent;
+    color: $white;
+    display: flex;
+    font-family: $font-c-family;
+    font-size: rem(10px);
+    letter-spacing: 1px;
+    line-height: rem(16px);
+    padding: 0;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 6px;
+    left: 8px;
+    z-index: 1;
+
+    .videoLabel, .durationText {
+      margin-right: 6px;
+    }
+
+    path {
+     fill: $white;
+    }
+  }
+  &.light {
+    background: fade-out($white, .3);
+    color: $black;
+  }
+}
+
+.playIcon {
+  margin-right: 4px;
+}
+
+// Sizes
+.small {
+  font-size: rem(9px);
+  line-height: rem(9px);
+}
+
+.medium {
+  font-size: rem(11px);
+  line-height: rem(13px);
+}
+
+.large {
+  font-size: rem(16px);
+  line-height: rem(22px);
+}
+
+
+// Positions
+.topLeft, .topRight, .bottomRight, .bottomLeft {
+    position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.topLeft {
+  left: 0;
+  top: 0;
+}
+
+.topRight {
+  right: 0;
+  top: 0;
+}
+
+.bottomRight {
+  right: 0;
+  bottom: 0;
+}
+
+.bottomLeft {
+  left: 0;
+  bottom: 0;
+}
+

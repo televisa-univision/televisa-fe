@@ -1,0 +1,219 @@
+.container {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  top: 0;
+
+  @include media-breakpoint-up('sm') {
+    display: flex;
+  }
+
+  picture {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-justify-content: center;
+    max-height: 400px;
+    height: 100%;
+    @include media-breakpoint-up('sm') {
+      max-height: initial;
+    }
+  }
+
+  img {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    @include media-breakpoint-up('sm') {
+      max-width: 100%;
+      max-height: 600px;
+      flex-shrink: 0;
+    }
+  }
+}
+
+.contentContainer {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.truncateOpened {
+  .mobileCaption,
+  .reactionCaption.reactionCaption {
+    &::before {
+      height: calc(100vh - 160px);
+      bottom: 0;
+      top: initial;
+      background: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0.5) 50%,
+        #000000 100%
+      );
+    }
+  }
+}
+
+.verticalImg {
+  img {
+    width: initial;
+    max-height: 100%;
+  }
+}
+
+.horizontalImg {
+  img {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    @include media-breakpoint-up('sm') {
+      width: initial;
+      top: 0;
+      left: initial;
+      transform: initial;
+    }
+  }
+  &.inline {
+    img {
+      @include media-breakpoint-up('sm') {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+    }
+  }
+}
+
+.background {
+  position: absolute;
+}
+
+.inner {
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  @include media-breakpoint-up('sm') {
+    height: 100%;
+    padding-top: 0;
+    width: 100%;
+  }
+}
+
+.credit {
+  bottom: 0;
+  color: $white;
+  display: inline-block;
+  font-size: rem(10px);
+  line-height: rem(13px);
+  margin-left: 59px;
+  margin-top: 8px;
+  position: relative;
+  z-index: 1;
+
+  @include media-breakpoint-up('md') {
+    color: $white;
+    padding: rem(5px);
+    background-color: rgba(0, 0, 0, 0.3);
+    bottom: rem(4px);
+    right: 0;
+    margin-top: 0;
+    margin-left: 0;
+    position: absolute;
+  }
+}
+
+.reactionCaption.reactionCaption {
+  &::before {
+    bottom: 0;
+    height: 110%;
+    top: initial;
+  }
+  .statusText {
+    justify-content: left;
+  }
+}
+
+.mobileCaption {
+  position: absolute;
+  background: $black-fade-bottom-left-to-top-right;
+  bottom: 0;
+  padding-top: 100px;
+  width: 100%;
+  z-index: 1;
+  &::before {
+    background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0.66) 30%,
+      #000000 100%
+    );
+    content: ' ';
+    height: 100vh;
+    left: 0;
+    opacity: 0.9;
+    position: absolute;
+    top: -100px;
+    width: 100%;
+    z-index: 1;
+  }
+  a {
+    color: $white;
+    text-decoration: underline;
+  }
+  p,
+  div {
+    color: $white;
+    justify-content: left;
+    position: relative;
+    z-index: 10;
+  }
+}
+
+.pollQuestion {
+  color: $white;
+  font-size: rem(14px);
+  line-height: rem(17px);
+  position: relative;
+  z-index: 10;
+  @include uvs-font('a', 'bold');
+}
+
+.statusText {
+  color: $white;
+  display: flex;
+  font-size: rem(11px);
+  justify-content: center;
+  line-height: rem(13px);
+  margin: 10px 0;
+  position: relative;
+  z-index: 10;
+  @include uvs-font('a', 'bold');
+  em {
+    font-style: normal;
+    @include uvs-font('a', 'bold');
+  }
+}
+
+//needed to remove absolute positioning in Picture with preload avail
+.blurOverride {
+  position: initial;
+  div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  z-index: 0;
+}
+
+.slideHeader {
+  position: absolute;
+}

@@ -1,0 +1,47 @@
+{
+  "url": "/radio/los-angeles-klve-fm?pipRadio=true",
+  "ads": {
+    "mobile": {
+      "topAd": "client=mobile&pos=TOP&seq=M-320-1&vertical=localradio&tag=local%2Cromantico%2Cpopespanol%2Cbalada%2Camorgenre&contenttype=section&bkpt=320"
+    },
+    "desktop": {
+      "topAd": "client=desktop&pos=TOP&seq=D-F728-1&vertical=localradio&tag=local%2Cromantico%2Cpopespanol%2Cbalada%2Camorgenre&contenttype=section&bkpt=1024"
+    }
+  },
+  "tracking": {
+    "dataLayer": {
+      "mobile": {
+        "adtag_value": "section_local/radio/losangeles/klvefm/inicio",
+        "content_type": "radiostation",
+        "content_vertical": "localradio",
+        "platform": "website",
+        "spa": "true",
+        "section": "k love 107 5",
+        "title": "k-love 107.5"
+      },
+      "desktop": {
+        "adtag_value": "section_local/radio/losangeles/klvefm/inicio",
+        "content_type": "radiostation",
+        "content_vertical": "localradio",
+        "platform": "website",
+        "spa": "true",
+        "section": "k love 107 5",
+        "title": "k-love 107.5"
+      }
+    }
+  },
+  "selectors": {
+    "chevronDown": "div#mediaplayer-video-anchor-portal +div img[alt=chevronDown]",
+    "chevronUp": "div#mediaplayer-video-anchor-portal +div img[alt=chevronUp]",
+    "closePopup": "div#mediaplayer-video-anchor-portal +div > div > div:nth-child(4) > div > div img[alt=close]",
+    "pauseSticky": "div#mediaplayer-video-anchor-portal +div img[alt=pause]",
+    "playButton": ".uvn-nowplaying div:nth-child(2) > div > div:nth-child(2) > div > div:nth-child(2) > div",
+    "playSticky": "div#mediaplayer-video-anchor-portal +div img[alt=play]",
+    "popup": "div#mediaplayer-video-anchor-portal +div > div > div:nth-child(4) > div",
+    "share": "div#mediaplayer-video-anchor-portal +div img[alt=share]",
+    "stickyRadio": "div#mediaplayer-video-anchor-portal +div",
+    "volumeHigh": "div#mediaplayer-video-anchor-portal +div img[alt=volumeHigh]",
+    "volumeLow": "div#mediaplayer-video-anchor-portal +div img[alt=volumeLow]",
+    "volumeOff": "div#mediaplayer-video-anchor-portal +div img[alt=volumeOff]"
+  }
+}

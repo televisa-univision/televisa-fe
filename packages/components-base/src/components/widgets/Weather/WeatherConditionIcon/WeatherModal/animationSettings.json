@@ -1,0 +1,37 @@
+{
+  "hidden": {
+    "scale": 0,
+    "y": -38,
+    "x": -70,
+    "transition": {
+      "type": "spring",
+      "stiffness": 1000,
+      "damping": 55,
+      "restSpeed": 1,
+      "restDelta": 1,
+      "x": {
+        "type": "spring",
+        "stiffness": 250,
+        "damping": 35,
+        "restSpeed": 20
+      }
+    }
+  },
+  "visible": {
+    "scale": 1,
+    "x": 0,
+    "y": 0,
+    "transition": {
+      "type": "spring",
+      "stiffness": 600,
+      "damping": 50,
+      "restSpeed": 0.1,
+      "restDelta": 0.5,
+      "x": {
+        "type": "spring",
+        "stiffness": 330,
+        "damping": 35
+      }
+    }
+  }
+}

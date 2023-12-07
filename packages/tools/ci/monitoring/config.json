@@ -1,0 +1,37 @@
+{
+  "resultsPath": "/results",
+  "disableThirdParties": true,
+  "bucketName": {
+    "uat": "webapp-performance-dev.univision.com",
+    "dev": "webapp-performance-dev.univision.com",
+    "prod": "webapp-performance-prod.univision.com"
+  },
+  "domains": {
+    "tudn": {
+      "uat": "https://sls-uat.tudn.com",
+      "dev": "https://sls-dev.tudn.com",
+      "prod": "https://www.tudn.com"
+    },
+    "uvn": {
+      "uat": "https://uat2.x.univision.com",
+      "dev": "https://sls-dev.x.univision.com",
+      "prod": "https://www.univision.com"
+    }
+  },
+  "paths": {
+    "tudn": {
+      "article": "/nfl/nfl-prohibe-intercambio-de-jerseys-richard-sherman-se-mofa",
+      "section": "",
+      "section2": "/futbol/mexico",
+      "slideshow": "/futbol/luz-y-sombra-para-los-mexicanos-en-europa-fotos",
+      "video": "/futbol/uefa-champions-league/todo-listo-para-el-sorteo-de-la-champions-league-de-cara-a-la-fase-final-video"
+    },
+    "uvn": {
+      "article": "/noticias/salud/pertenecer-a-una-minoria-el-otro-factor-de-riesgo-para-el-covid-19",
+      "section": "",
+      "section2": "/noticias/mexico",
+      "slideshow": "/famosos/alfredo-adame-ya-no-quiere-que-su-hijo-mayor-lleve-su-apellido-porque-no-es-digno-de-el-fotos",
+      "video": "/shows/hoy/dulce-maria-revela-que-su-embarazo-no-fue-planeado-y-que-llego-a-confundirlo-con-una-enfermedad-video"
+    }
+  }
+}

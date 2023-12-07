@@ -1,0 +1,61 @@
+/*
+ * Ads that are embedded inside content or sidebars
+ */
+.wrapper {
+  padding: $ads-inside-content-margin-vertical 0;
+  text-align: center;
+  clear: both;
+  position: relative;
+}
+
+.stripedBg {
+  background: url('../../assets/images/striped-background.svg');
+  background-size: 10px;
+  padding: 8px 0;
+}
+
+/*
+ * Ads wrapped in parent `...-ad-full-width` inherit default margins
+ * Padding is removed to avoid double spacing between margins set on parent and surrounding elements
+ */
+:global(.#{$namespace}ad-full-width) .wrapper{
+  margin-bottom: $ads-inside-content-margin-vertical;
+  margin-top: $ads-inside-content-margin-vertical;
+  &:not(.stripedBg) {
+    padding: 0;
+  }
+}
+
+/*
+ * Ads that are their own parents and are typically displayed directly after a widget
+ */
+div[data-widget-type] + :global(.#{$namespace}ad-full-width) .wrapper, // for widgets wrapped in a parent div
+:global(.#{$namespace}widget) + :global(.#{$namespace}ad-full-width) .wrapper, {
+  @include media-breakpoint-down('sm') {
+    margin-bottom: $ads-margin-vertical-mobile;
+    margin-top: $ads-margin-vertical-mobile;
+  }
+  /**
+    * Ads located below widgets and will now subtract the default bottom margin for widgets on desktop
+    * from it's own top margin. This is to ensure the spacing between ads/widgets on mobile and desktop are consistent.
+    */
+  @include media-breakpoint-up('md') {
+    margin-bottom: $ads-margin-vertical-desktop;
+    margin-top: -($widgets-margin-bottom-desktop - $ads-margin-vertical-desktop)
+  }
+}
+
+.label {
+  font-size: 0.4rem;
+  line-height: 0.6875rem;
+  color: #9B9B9B;
+  padding-bottom: 10px;
+  display: block;
+  text-transform: uppercase;
+}
+.empty {
+  display: none;
+}
+.special {
+  height: 0;
+}

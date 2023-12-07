@@ -1,0 +1,17 @@
+{
+  "uri": "/temas/jorge-ramos",
+  "selectors": {
+    "footer": "footer",
+    "mainAd": ".uvs-ad-ready:first",
+    "searchInput": "> input",
+    "searchPageContainer": "div[data-element-name='search-page-container']",
+    "searchPageResult": "> form ~ div:first > ul > li",
+    "searchPagePagination": "> form ~ div:last",
+    "searchPagePaginationNext": "> form ~ div:last div:nth-child(4) button"
+  },
+  "tracking": {
+    "dataLayer": {
+      "adtag_value": "univision_section_global/search"
+    }
+  }
+}

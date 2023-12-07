@@ -1,0 +1,2024 @@
+{
+  "type": "section",
+  "uid": "0000014c-ba66-d983-a57d-feefe0140000",
+  "uri": "https://performance.univision.com/horoscopos",
+  "vertical": "Entretenimiento",
+  "parent": {
+    "uuid": null,
+    "uri": null,
+    "name": null,
+    "title": null
+  },
+  "title": "Horóscopos",
+  "description": "Univision Horóscopos Gratis - Amor, Tarot y Predicciones",
+  "updateDate": "2019-06-05T22:23:25-04:00",
+  "publishDate": "2015-04-14T20:11:11-04:00",
+  "expirationDate": null,
+  "adSettings": {
+    "disable3rdPartyAds": false,
+    "disableAds": false,
+    "disableVideoAds": false,
+    "adTagValue": "section_entretenimiento/horoscopos/inicio",
+    "targeting": {
+      "vertical": "entretenimiento"
+    },
+    "contentSpecificSettings": {}
+  },
+  "tracking": {
+    "analytics": {
+      "data": {
+        "adtag_value": "section_entretenimiento/horoscopos/inicio",
+        "all_tags": [],
+        "canonical_url": "https://performance.univision.com/horoscopos",
+        "content_created_date": "2015-04-14",
+        "content_id": "0000014c-ba66-d983-a57d-feefe0140000",
+        "content_modified_date": "2019-06-05",
+        "content_type": "section",
+        "content_vertical": "entretenimiento",
+        "environment_name": "qa",
+        "nielsenVcid": "c02",
+        "permalink": "https://performance.univision.com/horoscopos",
+        "platform": "website",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "horoscopos"
+        ],
+        "section_level1": "horoscopos",
+        "title": "horoscopos",
+        "uci_division": "entertainment",
+        "adtag_platform_prefix": "/rm",
+        "page_title": "Univision Horóscopos gratis: Amor, Tarot, Predicciones, Horóscopo Chino, y mucho más | Univision"
+      }
+    },
+    "nielsen": {
+      "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+      "vcid": "c02",
+      "environment": "qa",
+      "primaryTopic": "Horóscopos"
+    }
+  },
+  "analyticsData": {
+    "apps": {
+      "common": {
+        "adtag_value": "section_entretenimiento/horoscopos/inicio",
+        "all_tags": [],
+        "content_created_date": "2015-04-14",
+        "content_id": "0000014c-ba66-d983-a57d-feefe0140000",
+        "content_type": "section",
+        "section": "horoscopos",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "horoscopos"
+        ],
+        "section_level1": "horoscopos",
+        "title": "horoscopos"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014c-ba66-d983-a57d-feefe0140000",
+          "section": "section",
+          "type": "static",
+          "vcid": "c02"
+        },
+        "contentSpecific": {}
+      }
+    },
+    "web": {
+      "common": {
+        "adtag_value": "section_entretenimiento/horoscopos/inicio",
+        "all_tags": [],
+        "content_created_date": "2015-04-14",
+        "content_id": "0000014c-ba66-d983-a57d-feefe0140000",
+        "content_modified_date": "2019-06-05",
+        "content_type": "section",
+        "content_vertical": "entretenimiento",
+        "permalink": "https://performance.univision.com/horoscopos",
+        "platform": "website",
+        "section": "horoscopos",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "horoscopos"
+        ],
+        "section_level1": "horoscopos",
+        "seo_optimized ": true,
+        "title": "horoscopos",
+        "uci_division": "entertainment"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014c-ba66-d983-a57d-feefe0140000",
+          "section": "section",
+          "type": "static",
+          "vcid": "c02"
+        },
+        "contentSpecific": {}
+      }
+    }
+  },
+  "metaTagData": {
+    "openGraph": {
+      "type": null,
+      "title": "Horóscopos",
+      "description": "Univision Horóscopos Gratis - Amor, Tarot y Predicciones",
+      "imageUrl": "https://cdn1.performance.univision.com/dims4/default/cf2cdc7/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F17%2F64%2Ffa44b2f042759c3b815779f96bef%2Fhoroscopes-entry-point.14.49%20PM.png",
+      "url": "https://performance.univision.com/horoscopos",
+      "siteName": "Univision"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Horóscopos",
+      "description": "Univision Horóscopos Gratis - Amor, Tarot y Predicciones",
+      "creator": null,
+      "imageUrl": "https://cdn1.performance.univision.com/dims4/default/cf2cdc7/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F17%2F64%2Ffa44b2f042759c3b815779f96bef%2Fhoroscopes-entry-point.14.49%20PM.png"
+    },
+    "facebook": {
+      "pages": null
+    }
+  },
+  "seo": {
+    "title": "Univision Horóscopos gratis: Amor, Tarot, Predicciones, Horóscopo Chino, y mucho más | Univision",
+    "description": "Predicciones sobre tu signo y toda la información del horóscopo, lectura de tarot, calculadora de amor para ver la compatibilidad entre tu y tu pareja, horóscopo chino según el año que naciste y mucho más. | Univision",
+    "canonicalUrl": "https://performance.univision.com/horoscopos",
+    "keywords": [
+      "amor",
+      "horoscopo",
+      "predicciones",
+      "tarot",
+      "horoscopo chino"
+    ],
+    "robots": [],
+    "news_keywords": []
+  },
+  "hierarchy": [
+    {
+      "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+      "uri": "https://performance.univision.com/horoscopos",
+      "name": "horoscopos",
+      "title": "Horóscopos"
+    }
+  ],
+  "externalWidgets": null,
+  "widgets": [
+    {
+      "settings": {
+        "type": "allcarouseliconpromo",
+        "uid": "00000168-be95-dc85-a3fb-bffdffa30004",
+        "title": "Encuentra tu signo",
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "00000168-be95-dc85-a3fb-bffdffa30004",
+      "type": "AllCarouselIconPromo",
+      "contents": [
+        {
+          "type": "section",
+          "uid": "0000014c-ce4f-da2f-a56e-ee4fee510000",
+          "uri": "https://performance.univision.com/horoscopos/aries",
+          "vertical": null,
+          "parent": null,
+          "title": "Aries",
+          "description": "Aries sign page",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd792370000",
+            "title": "Aries.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/5d/14/604d63034df7946557934a5c5bd7/aries.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/aa2073a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2898418/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/5aa57fe/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e498713/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/a6a0ba9/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ac59ece/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/3b428ab/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/dfc91a2/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5d%2F14%2F604d63034df7946557934a5c5bd7%2Faries.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T16:59:49-04:00",
+          "publishDate": "2015-04-18T16:58:41-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e447-d74c-adde-fed7e8e00000",
+          "uri": "https://performance.univision.com/horoscopos/tauro",
+          "vertical": null,
+          "parent": null,
+          "title": "Tauro",
+          "description": "Aprende sobre el signo zodiacal Tauro: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd792940000",
+            "title": "Tauro.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/ff/ea/fb24d1bb429295dba1b67b56448e/tauro.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/94c7cc5/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e696367/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e60e283/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7f46c76/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fb50420/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/295958c/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0e7180d/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b071972/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fff%2Fea%2Ffb24d1bb429295dba1b67b56448e%2Ftauro.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T17:01:38-04:00",
+          "publishDate": "2015-04-22T23:18:25-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e440-dc8f-ab4d-fce43bd10000",
+          "uri": "https://performance.univision.com/horoscopos/geminis",
+          "vertical": null,
+          "parent": null,
+          "title": "Géminis",
+          "description": "Aprende sobre el signo zodiacal Géminis: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd792610000",
+            "title": "Geminis.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/99/9d/39203fea4eb6b2b408505a740975/geminis.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/869e40c/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/31de438/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/1fbbe7c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0a0779a/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/710340e/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/273a198/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9771b01/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7e6da81/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F9d%2F39203fea4eb6b2b408505a740975%2Fgeminis.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T17:01:26-04:00",
+          "publishDate": "2015-04-22T23:10:00-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e444-dc8f-ab4d-fce4275a0000",
+          "uri": "https://performance.univision.com/horoscopos/cancer",
+          "vertical": null,
+          "parent": null,
+          "title": "Cáncer",
+          "description": "Aprende sobre el signo zodiacal Cáncer: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd792410000",
+            "title": "Cancer.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/22/d2/1fb0bb214cdfb630ebd474a3ea30/cancer.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/a2c51f2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c26e978/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/53efdcb/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c498fe6/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/41534a1/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/538f05a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/689a9b6/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/36f2968/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F22%2Fd2%2F1fb0bb214cdfb630ebd474a3ea30%2Fcancer.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T11:16:53-04:00",
+          "publishDate": "2015-04-22T23:14:13-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e43c-d74c-adde-febf61fe0000",
+          "uri": "https://performance.univision.com/horoscopos/leo",
+          "vertical": null,
+          "parent": null,
+          "title": "Leo",
+          "description": "Aprende sobre el signo zodiacal Leo: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd7926c0000",
+            "title": "Leo.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/ce/b0/6c5da86c4cdeaa4c04e995adcc36/leo.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ddf383e/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7b45b3b/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/48c93e5/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e85d45a/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/cbbfcd7/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/f7c8628/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/59ec24e/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/05ce2ed/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fce%2Fb0%2F6c5da86c4cdeaa4c04e995adcc36%2Fleo.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-05-16T07:57:35-04:00",
+          "publishDate": "2015-04-22T23:05:39-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e41c-d74c-adde-fe9f83a00000",
+          "uri": "https://performance.univision.com/horoscopos/virgo",
+          "vertical": null,
+          "parent": null,
+          "title": "Virgo",
+          "description": "Aprende sobre el signo zodiacal Virgo: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd7929e0000",
+            "title": "Virgo.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/d3/a8/cac4ec2044649efc3b96c6713b01/virgo.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/6b5b714/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/376148f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0f2fb69/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/5932cfd/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/833cf52/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/19029e8/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/970127c/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/6068826/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2Fa8%2Fcac4ec2044649efc3b96c6713b01%2Fvirgo.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-03T20:14:09-04:00",
+          "publishDate": "2015-04-22T22:51:30-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e439-d74c-adde-febf88a80000",
+          "uri": "https://performance.univision.com/horoscopos/libra",
+          "vertical": null,
+          "parent": null,
+          "title": "Libra",
+          "description": "Aprende sobre el signo zodiacal Libra: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd792760000",
+            "title": "Libra.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/99/e0/d915091642be8857eb71fea10e79/libra.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fdeb962/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2c502d2/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/118149a/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/3280e7e/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0900666/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c50d2ea/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/02050e2/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/25c47a7/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2Fe0%2Fd915091642be8857eb71fea10e79%2Flibra.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-08T23:38:17-04:00",
+          "publishDate": "2015-04-22T23:02:23-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e463-d74c-adde-fef7c7530000",
+          "uri": "https://performance.univision.com/horoscopos/escorpion",
+          "vertical": null,
+          "parent": null,
+          "title": "Escorpión",
+          "description": "Aprende sobre el signo zodiacal Escorpión: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd792550000",
+            "title": "Escorpio.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/d6/c9/b77715c94461a054a2ddaa69a91d/escorpio.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/88422ea/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/3e6d15a/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b214d29/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c312f4b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/13d1d7c/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/bf192e8/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ce01063/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/621e9c9/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd6%2Fc9%2Fb77715c94461a054a2ddaa69a91d%2Fescorpio.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T17:03:30-04:00",
+          "publishDate": "2015-04-22T23:48:38-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e433-dc8f-ab4d-fcb715640000",
+          "uri": "https://performance.univision.com/horoscopos/sagitario",
+          "vertical": null,
+          "parent": null,
+          "title": "Sagitario",
+          "description": "Aprende sobre el signo zodiacal Sagitario: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd7928a0000",
+            "title": "Sagitario.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/79/31/9d76fbc04bb5986eb1aa9365ba33/sagitario.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4b23124/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/10ac185/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/5db2de6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/54022bc/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/92f11ab/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9a7c9ed/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b12aaff/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/eeabbca/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F79%2F31%2F9d76fbc04bb5986eb1aa9365ba33%2Fsagitario.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-18T00:49:14-04:00",
+          "publishDate": "2015-04-22T22:55:54-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e453-d74c-adde-fed7cb310000",
+          "uri": "https://performance.univision.com/horoscopos/capricornio",
+          "vertical": null,
+          "parent": null,
+          "title": "Capricornio",
+          "description": "Aprende sobre el signo zodiacal Capricornio: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-b90d-daed-abee-bbed7d060001",
+            "title": "Horosocopo iconos del zodiaco SVG icon promo widget",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/a5/f1/031530af45208c2d41fc8635483c/capricornio.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b1c4cb0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/5e55c76/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b81802e/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/34c4f70/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/af8bd47/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8e00987/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/faeb5b3/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c72ae60/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff1%2F031530af45208c2d41fc8635483c%2Fcapricornio.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T17:04:47-04:00",
+          "publishDate": "2015-04-22T23:31:52-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e45e-d74c-adde-fedf6c650000",
+          "uri": "https://performance.univision.com/horoscopos/acuario",
+          "vertical": null,
+          "parent": null,
+          "title": "Acuario",
+          "description": "Aprende sobre el signo zodiacal Acuario: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd7922b0000",
+            "title": "Acuario.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/af/b3/1c504e4c49e19136081d300bf5d2/acuario.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4502393/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/11212c2/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/bef16a9/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9e51203/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/aabdb3f/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/35e2b66/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c1fb63d/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/6cce478/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2Fb3%2F1c504e4c49e19136081d300bf5d2%2Facuario.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T17:05:20-04:00",
+          "publishDate": "2015-04-22T23:43:30-04:00",
+          "expirationDate": null
+        },
+        {
+          "type": "section",
+          "uid": "0000014c-e435-d74c-adde-feb7cc2f0000",
+          "uri": "https://performance.univision.com/horoscopos/piscis",
+          "vertical": null,
+          "parent": null,
+          "title": "Piscis",
+          "description": "Aprende sobre el signo zodiacal Piscis: su aspecto positivo, compatibilidad amorosa, horoscopo del dia y mas.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-be95-dbca-abfb-ffd792800000",
+            "title": "Piscis.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/ef/a9/93d8146a460ba27a80962f494ad0/piscis.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/deb10c1/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/3c0b568/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4cefb7a/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0daeb4b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/d4df2fe/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c46cbaa/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0a64c74/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/1a2df9f/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2Fa9%2F93d8146a460ba27a80962f494ad0%2Fpiscis.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-04T17:05:37-04:00",
+          "publishDate": "2015-04-22T22:58:31-04:00",
+          "expirationDate": null
+        }
+      ]
+    },
+    {
+      "settings": {
+        "fullWidth": true,
+        "lazyLoadUrl": "https://static.univision.com/external-content/embed.js?path=%2Ffragments%2Fentretenimiento%2Fbanner-turbo-internet%2Findex.html&display=iframe&fullWidth=true",
+        "display": "iframe",
+        "html": "<script src=\"https://static.univision.com/external-content/embed.js?path=%2Ffragments%2Fentretenimiento%2Fbanner-turbo-internet%2Findex.html&display=iframe&fullWidth=true\"></script>",
+        "type": "allexternalembed",
+        "lazyLoad": false,
+        "url": "https://static.univision.com/fragments/entretenimiento/banner-turbo-internet/index.html?fullWidth=true",
+        "title": "Turbo Internet",
+        "titleLink": null,
+        "uid": "00000167-eb82-dddd-afff-ff82c8700001",
+        "lazyLoaded": false
+      },
+      "id": "00000167-eb82-dddd-afff-ff82c8700001",
+      "type": "AllExternalEmbed",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "horoscoposinteractivelovecalculator",
+        "uid": "00000167-eb84-dddd-afff-ff8467e90068",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "00000167-eb84-dddd-afff-ff8467e90068",
+      "type": "HoroscoposInteractiveLoveCalculator",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allvideoplaylistvideo",
+        "uid": "0000016a-2219-df76-a17a-36dd8243000f",
+        "otherTabs": [
+          null
+        ],
+        "mainTabLabel": null,
+        "title": "Curso de numerología",
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016a-2219-df76-a17a-36dd8243000f",
+      "type": "AllVideoPlaylistVideo",
+      "contents": [
+        {
+          "type": "video",
+          "uid": "0000016b-1de8-df0a-a3ff-bffb15b40000",
+          "uri": "https://performance.univision.com/horoscopos/curso-de-numerologia-los-anos-personales-pte-2-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de numerología | Los años personales pte. 2",
+          "description": "Durante la lección 8 de nuestro curso gratuito de numerología el Profesor Zellagro nos habla del significado de nuestro número personal.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-1de9-d607-a1fb-3dffe27b0000",
+            "title": "7de6cdfc3a9f48b295c4da68893b4b2e",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/72/44/7e8a03464c529d24ccc29db89a70/7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e60a9e3/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2Fresizes%2F500%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/14296a0/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2Fresizes%2F500%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/68cfb25/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2Fresizes%2F500%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/daccb2b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/24e5c63/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/836661e/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2Fresizes%2F500%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8865509/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/90c9974/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F44%2F7e8a03464c529d24ccc29db89a70%2Fresizes%2F500%2F7de6cdfc3a9f48b295c4da68893b4b2e",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-03T11:16:35-04:00",
+          "publishDate": "2019-06-03T08:00:00-04:00",
+          "expirationDate": "2029-05-30T17:38:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3690217",
+          "durationString": "10:00",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/Nmc8101Cify",
+                "isFeedDialog": false,
+                "title": "Curso de numerología | Los años personales pte. 2",
+                "description": "Durante la lección 8 de nuestro curso gratuito de numerología el Profesor Zellagro nos habla del significado de nuestro número personal.",
+                "imageUrl": "https://st1.uvnimg.com/72/44/7e8a03464c529d24ccc29db89a70/7de6cdfc3a9f48b295c4da68893b4b2e",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/Nmc8101Cify",
+                "title": "Curso de numerología | Los años personales pte. 2",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/Nmc8101Cify",
+                "message": "Curso de numerología | Los años personales pte. 2"
+              },
+              "mail": {
+                "subject": "Curso de numerología | Los años personales pte. 2",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de numerología | Los años personales pte. 2\n\nEncuéntralo en este enlace:http://uni.vi/Nmc8101Cify\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Numerologia",
+            "link": "https://performance.univision.com/temas/numerologia"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-0444-d962-a56f-be7425210000",
+          "uri": "https://performance.univision.com/horoscopos/curso-de-numerologia-los-anos-personales-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de numerología | Los años personales",
+          "description": "Durante la séptima lección del curso gratuito de numerología, el Profesor Zellagro nos explica cómo sacar nuestro año personal y la importancia que tiene",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-0445-d27e-a7eb-8f4df4c00000",
+            "title": "e73c6a44b0704e7b9ade3c507ee0670a",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/e1/1c/01dd02c345b7948ebb11cb7a3cd4/e73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/62ab029/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fresizes%2F500%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e606de9/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fresizes%2F500%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/eff15d1/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fresizes%2F500%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/12c2a3b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/bca83a2/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/add57ac/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fresizes%2F500%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/55b05ec/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/a5a5c7a/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2F1c%2F01dd02c345b7948ebb11cb7a3cd4%2Fresizes%2F500%2Fe73c6a44b0704e7b9ade3c507ee0670a",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-05-29T11:47:01-04:00",
+          "publishDate": "2019-05-29T10:08:00-04:00",
+          "expirationDate": "2029-05-28T10:08:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3688819",
+          "durationString": "8:06",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/67NP101BVG8",
+                "isFeedDialog": false,
+                "title": "Curso de numerología | Los años personales",
+                "description": "Durante la séptima lección del curso gratuito de numerología, el Profesor Zellagro nos explica cómo sacar nuestro año personal y la importancia que tiene",
+                "imageUrl": "https://st1.uvnimg.com/e1/1c/01dd02c345b7948ebb11cb7a3cd4/e73c6a44b0704e7b9ade3c507ee0670a",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/67NP101BVG8",
+                "title": "Curso de numerología | Los años personales",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/67NP101BVG8",
+                "message": "Curso de numerología | Los años personales"
+              },
+              "mail": {
+                "subject": "Curso de numerología | Los años personales",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de numerología | Los años personales\n\nEncuéntralo en este enlace:http://uni.vi/67NP101BVG8\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Numerologia",
+            "link": "https://performance.univision.com/temas/numerologia"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016a-d634-d2a7-a56b-f6f436d20000",
+          "uri": "https://performance.univision.com/horoscopos/curso-de-numerologia-el-sendero-de-la-vida-pte-4-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de numerología | El sendero de la vida pte. 4",
+          "description": "En esta sexta lección del curso de numerología el Profesor Zellagro nos habla sobre la interpretación de los Senderos de la vida 7, 8 y 9.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-d6a0-d6e3-a96f-debd92d60000",
+            "title": "9771a55f355149118504fad232d2c281",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/fe/32/aedc202940a38dae2c17efc77008/9771a55f355149118504fad232d2c281",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/677fac3/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2Fresizes%2F500%2F9771a55f355149118504fad232d2c281",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7e18816/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2Fresizes%2F500%2F9771a55f355149118504fad232d2c281",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2e084e6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2Fresizes%2F500%2F9771a55f355149118504fad232d2c281",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/24981ae/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2F9771a55f355149118504fad232d2c281",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/507e2a2/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2F9771a55f355149118504fad232d2c281",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7114663/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2Fresizes%2F500%2F9771a55f355149118504fad232d2c281",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b6b4914/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2F9771a55f355149118504fad232d2c281",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4054b60/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F32%2Faedc202940a38dae2c17efc77008%2Fresizes%2F500%2F9771a55f355149118504fad232d2c281",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-05-20T15:03:28-04:00",
+          "publishDate": "2019-05-20T08:10:00-04:00",
+          "expirationDate": "2029-05-16T19:10:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3683966",
+          "durationString": "10:50",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/kWBD101B7gZ",
+                "isFeedDialog": false,
+                "title": "Curso de numerología | El sendero de la vida pte. 4",
+                "description": "En esta sexta lección del curso de numerología el Profesor Zellagro nos habla sobre la interpretación de los Senderos de la vida 7, 8 y 9.",
+                "imageUrl": "https://st1.uvnimg.com/fe/32/aedc202940a38dae2c17efc77008/9771a55f355149118504fad232d2c281",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/kWBD101B7gZ",
+                "title": "Curso de numerología | El sendero de la vida pte. 4",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/kWBD101B7gZ",
+                "message": "Curso de numerología | El sendero de la vida pte. 4"
+              },
+              "mail": {
+                "subject": "Curso de numerología | El sendero de la vida pte. 4",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de numerología | El sendero de la vida pte. 4\n\nEncuéntralo en este enlace:http://uni.vi/kWBD101B7gZ\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Numerologia",
+            "link": "https://performance.univision.com/temas/numerologia"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016a-b1ad-d4e4-a3ea-f1fdb8e20000",
+          "uri": "https://performance.univision.com/horoscopos/curso-de-numerologia-el-sendero-de-la-vida-pte-3-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de numerología | El sendero de la vida pte. 3",
+          "description": "En esta quinta lección del curso de numerología el Profesor Zellagro nos habla sobre la interpretación de los Senderos de la vida 4, 5 y 6.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-b1ae-d60f-a9fe-fdefd6af0000",
+            "title": "4ac208f6d1784b279e0087ef52d3c39c",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/59/5d/d7dba3224b02b41180db29ed1bc5/4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ecbead2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2Fresizes%2F500%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0b4e430/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2Fresizes%2F500%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/97c1a1f/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2Fresizes%2F500%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2e4be46/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8ceb70d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9d6214e/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2Fresizes%2F500%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4754488/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/012c9ce/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F5d%2Fd7dba3224b02b41180db29ed1bc5%2Fresizes%2F500%2F4ac208f6d1784b279e0087ef52d3c39c",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-05-13T10:53:05-04:00",
+          "publishDate": "2019-05-13T08:00:00-04:00",
+          "expirationDate": "2029-05-09T16:13:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3680596",
+          "durationString": "10:18",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/6Evl101AtrY",
+                "isFeedDialog": false,
+                "title": "Curso de numerología | El sendero de la vida pte. 3",
+                "description": "En esta quinta lección del curso de numerología el Profesor Zellagro nos habla sobre la interpretación de los Senderos de la vida 4, 5 y 6.",
+                "imageUrl": "https://st1.uvnimg.com/59/5d/d7dba3224b02b41180db29ed1bc5/4ac208f6d1784b279e0087ef52d3c39c",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/6Evl101AtrY",
+                "title": "Curso de numerología | El sendero de la vida pte. 3",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/6Evl101AtrY",
+                "message": "Curso de numerología | El sendero de la vida pte. 3"
+              },
+              "mail": {
+                "subject": "Curso de numerología | El sendero de la vida pte. 3",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de numerología | El sendero de la vida pte. 3\n\nEncuéntralo en este enlace:http://uni.vi/6Evl101AtrY\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Numerologia",
+            "link": "https://performance.univision.com/temas/numerologia"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016a-8e0b-d20f-a3ee-cfeba8af0000",
+          "uri": "https://performance.univision.com/horoscopos/cursi-de-numerologia-el-sendero-de-la-vida-pte-2-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de Numerología | El sendero de la vida, pte. 2",
+          "description": "Durante la cuarta lección de este curso gratuito, El Profesor Zellagro nos da el significado de los números que tenemos como resultado en nuestro sendero de la vida.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-8e8e-d946-affa-becfad510000",
+            "title": "3ba813eeff82427ebf3dc8fc96771e6f",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/57/ae/aac733604249a0e8e75cd09bacf0/3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/72dd5e4/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2Fresizes%2F500%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/a703d5d/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2Fresizes%2F500%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/60a0e37/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2Fresizes%2F500%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/1b21674/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c72ed32/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ea2911d/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2Fresizes%2F500%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/6526cf9/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/3a12669/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fae%2Faac733604249a0e8e75cd09bacf0%2Fresizes%2F500%2F3ba813eeff82427ebf3dc8fc96771e6f",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-05-06T15:32:45-04:00",
+          "publishDate": "2019-05-06T10:15:00-04:00",
+          "expirationDate": "2029-04-30T10:15:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3675524",
+          "durationString": "10:26",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/M6n1101zVMS",
+                "isFeedDialog": false,
+                "title": "Curso de Numerología | El sendero de la vida, pte. 2",
+                "description": "Durante la cuarta lección de este curso gratuito, El Profesor Zellagro nos da el significado de los números que tenemos como resultado en nuestro sendero de la vida.",
+                "imageUrl": "https://st1.uvnimg.com/57/ae/aac733604249a0e8e75cd09bacf0/3ba813eeff82427ebf3dc8fc96771e6f",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/M6n1101zVMS",
+                "title": "Curso de Numerología | El sendero de la vida, pte. 2",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/M6n1101zVMS",
+                "message": "Curso de Numerología | El sendero de la vida, pte. 2"
+              },
+              "mail": {
+                "subject": "Curso de Numerología | El sendero de la vida, pte. 2",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de Numerología | El sendero de la vida, pte. 2\n\nEncuéntralo en este enlace:http://uni.vi/M6n1101zVMS\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Numerologia",
+            "link": "https://performance.univision.com/temas/numerologia"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016a-69b2-d950-af7a-7bb2c5540000",
+          "uri": "https://performance.univision.com/horoscopos/curso-de-numerologia-el-sendero-de-la-vida-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de numerología | El sendero de la vida",
+          "description": "En la tercera lección de nuestro curso de numerología, el Profesor Zellagro nos explica cómo sacar nuestro número del sendero de la vida y sacarle el mayor provecho.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-69b8-db0f-af7a-fbbf159d0000",
+            "title": "4b760add28414afab67ee2e54c686c66",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/69/4f/0ef73fb64837a9f66505d5a47b74/4b760add28414afab67ee2e54c686c66",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/1d0d590/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2Fresizes%2F500%2F4b760add28414afab67ee2e54c686c66",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7cd945f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2Fresizes%2F500%2F4b760add28414afab67ee2e54c686c66",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7d8342a/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2Fresizes%2F500%2F4b760add28414afab67ee2e54c686c66",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/477ba63/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2F4b760add28414afab67ee2e54c686c66",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c62b8bb/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2F4b760add28414afab67ee2e54c686c66",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/560dac2/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2Fresizes%2F500%2F4b760add28414afab67ee2e54c686c66",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/024f444/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2F4b760add28414afab67ee2e54c686c66",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/eb3f7b4/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F69%2F4f%2F0ef73fb64837a9f66505d5a47b74%2Fresizes%2F500%2F4b760add28414afab67ee2e54c686c66",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-29T13:05:06-04:00",
+          "publishDate": "2019-04-29T08:00:00-04:00",
+          "expirationDate": "2029-04-24T17:05:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3672853",
+          "durationString": "13:52",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/7eOi101zqlY",
+                "isFeedDialog": false,
+                "title": "Curso de numerología | El sendero de la vida",
+                "description": "En la tercera lección de nuestro curso de numerología, el Profesor Zellagro nos explica cómo sacar nuestro número del sendero de la vida y sacarle el mayor provecho.",
+                "imageUrl": "https://st1.uvnimg.com/69/4f/0ef73fb64837a9f66505d5a47b74/4b760add28414afab67ee2e54c686c66",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/7eOi101zqlY",
+                "title": "Curso de numerología | El sendero de la vida",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/7eOi101zqlY",
+                "message": "Curso de numerología | El sendero de la vida"
+              },
+              "mail": {
+                "subject": "Curso de numerología | El sendero de la vida",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de numerología | El sendero de la vida\n\nEncuéntralo en este enlace:http://uni.vi/7eOi101zqlY\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Numerologia",
+            "link": "https://performance.univision.com/temas/numerologia"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016a-45c1-d784-a5ee-edd52dec0000",
+          "uri": "https://performance.univision.com/horoscopos/curso-de-numerologia-el-numero-de-nacimiento-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de numerología | El número de nacimiento",
+          "description": "En la segunda lección de nuestro curso de numerología, el Profesor Zellagro nos explica la importancia e impacto que tiene en nuestras vidas nuestro número de nacimiento.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-45c1-d85c-a17a-fdedeea40000",
+            "title": "c95f3917205f49b198925f0993269dd2",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/ee/5b/b7ffa9044decb5be45c44c6652e1/c95f3917205f49b198925f0993269dd2",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/17ed583/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fresizes%2F500%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/63b2048/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fresizes%2F500%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b054c21/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fresizes%2F500%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/000e083/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/01668a4/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/52f75bf/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fresizes%2F500%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c3e7ded/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/d3243df/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F5b%2Fb7ffa9044decb5be45c44c6652e1%2Fresizes%2F500%2Fc95f3917205f49b198925f0993269dd2",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-22T11:54:58-04:00",
+          "publishDate": "2019-04-22T08:00:00-04:00",
+          "expirationDate": "2029-04-17T15:48:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3669594",
+          "durationString": "11:59",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/jJMm101yUin",
+                "isFeedDialog": false,
+                "title": "Curso de numerología | El número de nacimiento",
+                "description": "En la segunda lección de nuestro curso de numerología, el Profesor Zellagro nos explica la importancia e impacto que tiene en nuestras vidas nuestro número de nacimiento.",
+                "imageUrl": "https://st1.uvnimg.com/ee/5b/b7ffa9044decb5be45c44c6652e1/c95f3917205f49b198925f0993269dd2",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/jJMm101yUin",
+                "title": "Curso de numerología | El número de nacimiento",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/jJMm101yUin",
+                "message": "Curso de numerología | El número de nacimiento"
+              },
+              "mail": {
+                "subject": "Curso de numerología | El número de nacimiento",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de numerología | El número de nacimiento\n\nEncuéntralo en este enlace:http://uni.vi/jJMm101yUin\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Numerologia",
+            "link": "https://performance.univision.com/temas/numerologia"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016a-21bf-d7a9-ab6e-a5bf68c00000",
+          "uri": "https://performance.univision.com/horoscopos/curso-de-numerologia-leccion-1-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+            "uri": "https://performance.univision.com/horoscopos",
+            "name": "horóscopos",
+            "title": "Horóscopos"
+          },
+          "title": "Curso de numerología | Lección 1",
+          "description": "En esta primera lección el Profesor Zellagro nos habla sobre cómo reducir cualquier número a un dígito y para qué sirve esto.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-21c0-d7a9-ab6e-a5e9a9100000",
+            "title": "038b651917d54c64a9ed40f2999ea18d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/a0/9d/8f7cc3834845a17ecab39f2161c0/038b651917d54c64a9ed40f2999ea18d",
+                "width": 1200,
+                "height": 675
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/02fb4e3/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2Fresizes%2F500%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7b6fe7b/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2Fresizes%2F500%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2d252a1/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2Fresizes%2F500%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b7e5d27/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/97ce211/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/cf6aa63/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2Fresizes%2F500%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9e89230/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/269145f/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F9d%2F8f7cc3834845a17ecab39f2161c0%2Fresizes%2F500%2F038b651917d54c64a9ed40f2999ea18d",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-04-15T13:38:18-04:00",
+          "publishDate": "2019-04-15T12:00:00-04:00",
+          "expirationDate": "2029-04-11T13:20:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3666569",
+          "durationString": "8:36",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/l7vd101yqp2",
+                "isFeedDialog": false,
+                "title": "Curso de numerología | Lección 1",
+                "description": "En esta primera lección el Profesor Zellagro nos habla sobre cómo reducir cualquier número a un dígito y para qué sirve esto.",
+                "imageUrl": "https://st1.uvnimg.com/a0/9d/8f7cc3834845a17ecab39f2161c0/038b651917d54c64a9ed40f2999ea18d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/l7vd101yqp2",
+                "title": "Curso de numerología | Lección 1",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/l7vd101yqp2",
+                "message": "Curso de numerología | Lección 1"
+              },
+              "mail": {
+                "subject": "Curso de numerología | Lección 1",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCurso de numerología | Lección 1\n\nEncuéntralo en este enlace:http://uni.vi/l7vd101yqp2\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Horóscopos",
+            "link": "https://performance.univision.com/temas/horoscopos"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "horoscoposinteractivechinese",
+        "uid": "00000167-eb84-dddd-afff-ff8467e9003a",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": true
+      },
+      "id": "00000167-eb84-dddd-afff-ff8467e9003a",
+      "type": "HoroscoposInteractiveChineseHoroscopes",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allvideoplaylistvideo",
+        "uid": "00000167-eb84-dddd-afff-ff8467e90059",
+        "otherTabs": [
+          null
+        ],
+        "mainTabLabel": null,
+        "title": "TIPS ANGELICALES",
+        "titleLink": null,
+        "lazyLoaded": true
+      },
+      "id": "00000167-eb84-dddd-afff-ff8467e90059",
+      "type": "AllVideoPlaylistVideo",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allbannermovingbanner",
+        "uid": "00000168-c7c3-d4b0-a9fc-d7f3eda40000",
+        "title": "ENCUENTRA TU SIGNO",
+        "titleLink": {
+          "href": "https://performance.univision.com/horoscopos",
+          "target": "_self",
+          "text": "Horóscopos",
+          "uid": "00000167-eb82-dddd-afff-ff821ecf0000"
+        },
+        "lazyLoaded": false
+      },
+      "id": "00000168-c7c3-d4b0-a9fc-d7f3eda40000",
+      "type": "AllBannerMovingBanner",
+      "contents": []
+    }
+  ],
+  "source": "Univision",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "isFeedDialog": false,
+        "title": "Calculadora Del Amor: aries - aries",
+        "description": "Univision Horóscopos Gratis - Amor, Tarot y Predicciones",
+        "imageUrl": null,
+        "appId": "645138725541385",
+        "body": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "subject": "Calculadora Del Amor: aries - aries"
+      },
+      "twitter": {
+        "url": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "title": "Calculadora Del Amor: aries - aries",
+        "via": "Univision",
+        "body": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "subject": "Calculadora Del Amor: aries - aries"
+      },
+      "whatsapp": {
+        "url": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "message": "Horóscopos",
+        "body": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "title": "Calculadora Del Amor: aries - aries",
+        "subject": "Calculadora Del Amor: aries - aries"
+      },
+      "mail": {
+        "subject": "Calculadora Del Amor: aries - aries",
+        "body": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "url": "https://performance.univision.com/entretenimiento/aries/aries-vs-aries",
+        "title": "Calculadora Del Amor: aries - aries"
+      }
+    }
+  },
+  "secondaryTags": null,
+  "sectionType": "section",
+  "socialNetworks": [
+    {
+      "text": "Horóscopos Youtube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/user/UnivisionHoroscopos",
+      "target": "_blank"
+    },
+    {
+      "text": "Horóscopos Facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/univisionhoroscopos/",
+      "target": "_blank"
+    }
+  ],
+  "jwRecommendationChannel": "dy1wHZR4",
+  "dynamicPlaylist": false,
+  "ttl": 60,
+  "feedGeneratedAt": "2019-07-23T18:09:41-04:00",
+  "tagHierarchy": [
+    {
+      "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+      "uri": "https://performance.univision.com/horoscopos",
+      "name": "horoscopos",
+      "title": "Horóscopos"
+    }
+  ],
+  "primaryTag": {
+    "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+    "uri": "https://performance.univision.com/horoscopos",
+    "name": "horoscopos",
+    "title": "Horóscopos",
+    "link": "https://performance.univision.com/horoscopos"
+  }
+}

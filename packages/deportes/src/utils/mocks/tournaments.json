@@ -1,0 +1,101 @@
+[
+  {
+    "id": "t1",
+    "name": "UEFA Champions League",
+    "url": "https://www.univision.com/deportes/futbol/uefa-champions-league",
+    "logo": "https://cdn2.uvnimg.com/75/8c/155e581a4702b7dde50d48b97b9f/champions-league-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+      }
+  },
+  {
+    "id": "t2",
+    "name": "UEFA Europa League",
+    "url": "https://www.univision.com/deportes/futbol/uefa-europa-league",
+    "logo": "https://cdn2.uvnimg.com/76/f8/b03f5d6b4171bf0ecfac978252d2/uefa-europa-league-2x-1.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "t3",
+    "name": "UEFA Nations League",
+    "url": "https://www.univision.com/deportes/futbol/uefa-nations-league",
+    "logo": "https://cdn2.uvnimg.com/be/78/e630ed1f4c59adf47f9deb371cdc/uefa-nations-league-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "t4",
+    "name": "Copa Libertadores",
+    "url": "https://www.univision.com/deportes/futbol/copa-libertadores",
+    "logo": "https://cdn3.uvnimg.com/c8/1f/556fb8e0403a8dabab6fb3e9d568/conmebol-libertadores-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "t5",
+    "name": "Copa MX",
+    "url": "https://www.univision.com/deportes/futbol/copa-mx",
+    "logo": "https://cdn3.uvnimg.com/47/a6/76e729a842ef946e8d93bab23cd6/copamx-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "t6",
+    "name": "CONCACAF Champions League",
+    "url": "https://www.univision.com/deportes/futbol/liga-campeones-concacaf",
+    "logo": "https://cdn2.uvnimg.com/98/b9/2b76ec1b458890d57352a23afa0d/scotiabannk-champions-league-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "t7",
+    "name": "CONCACAF League",
+    "url": "https://www.univision.com/deportes/futbol/concacaf-mundial-eliminatorias",
+    "logo": "https://cdn1.uvnimg.com/ff/a7/212782e74175b6f1281c97aa3ce1/concacaf-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "t8",
+    "name": "Copa América",
+    "url": "https://www.univision.com/deportes/futbol/copa-america",
+    "logo": "https://cdn4.uvnimg.com/b6/b4/f9e91d0f4c108c2a8951815f19bf/copa-america-brasil-2019-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "t10",
+    "name": "Copa Oro",
+    "url": "https://www.univision.com/deportes/futbol/copa-oro",
+    "logo": "https://cdn3.uvnimg.com/81/04/513bf4c2451383b7580c7000fd32/copa-oro-2x.png",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  }
+]

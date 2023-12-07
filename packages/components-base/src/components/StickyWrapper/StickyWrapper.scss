@@ -1,0 +1,64 @@
+.animated {
+  animation-duration: 0.2s;
+  animation-fill-mode: both;
+}
+
+.stickyWrapper {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: $zindex-navigation + 1;
+}
+
+@media screen and (max-width: 767px) and (orientation: landscape) {
+  .stickyWrapper {
+    position: initial;
+  }
+}
+
+// remove the sticky header when video is sticky
+:global(.video-sticky) {
+  .stickyWrapper {
+    position: initial;
+  }
+}
+
+//Fix issue with anchors
+:global(:target) {
+  &:before {
+    content: "";
+    display: block;
+    height: 57px;
+    margin: -57px 0 0;
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInDown {
+  animation-name: fadeInDown;
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+.fadeOut {
+  animation-name: fadeOut;
+}

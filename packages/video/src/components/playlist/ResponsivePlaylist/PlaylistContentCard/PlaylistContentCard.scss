@@ -1,0 +1,115 @@
+.currentItem {
+  pointer-events: none;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  border-radius: 4px;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: fade-out($black, 0.5);
+  color: $white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-family: $font-c-family;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 14px;
+  z-index: 2;
+}
+
+.playlistCard {
+  align-items: stretch;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 125px;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.25s ease-in-out;
+  width: 100%;
+
+  img {
+    height: 100%;
+    max-height: 125px;
+    object-fit: cover;
+    transition: transform 1s ease-in-out;
+  }
+
+  &:hover,
+  &.active {
+    h3 > span {
+      color: $grey;
+    }
+  }
+
+  .playlistContentCard & > div {
+    &:last-child {
+      padding: 8px;
+      justify-content: inherit;
+    }
+
+    &:first-child {
+      border-radius: 0;
+      > span > div > img {
+        width: 45px;
+      }
+    }
+  }
+}
+
+.horizontal {
+  align-items: baseline;
+  display: flex;
+  flex-grow: 1;
+}
+
+.horizontalPlaylistView {
+  .overlay {
+    font-size: rem(9px);
+  }
+
+  &.playlistCard {
+    flex-direction: column;
+
+    &.dark:hover,
+    &.dark.active {
+      > div:last-child h3 span {
+        color: $black !important;
+      }
+    }
+
+    &:not(.active) {
+      opacity: 0.5;
+    }
+
+    &:hover {
+      opacity: 1;
+    }
+
+    > div {
+      &:first-child {
+        width: 100%;
+        margin-bottom: 0;
+      }
+
+      &:last-child {
+        h3 {
+          padding-right: 0;
+        }
+
+        width: 100%;
+        padding-left: 0;
+        margin-top: 5px;
+      }
+    }
+  }
+}

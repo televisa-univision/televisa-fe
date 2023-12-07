@@ -1,0 +1,23 @@
+// Font Mixin to allow font inclusion on sass files
+// @include font('b', 'regular');
+
+@mixin uvs-font($name, $weight) {
+  @if $name == "a" {
+    font-family: $font-a-family, sans-serif;
+  } @else if $name == "b" {
+    font-family: $font-b-family, sans-serif;
+  } @else if $name == "c" {
+    font-family: $font-c-family, sans-serif;
+  }
+  @if $weight == "light" {
+    font-weight: 300;
+  } @else if $weight == "regular" {
+    font-weight: 400;
+  } @else if $weight == "medium" {
+    font-weight: 500;
+  } @else if $weight == "bold" {
+    font-weight: 700;
+  } @else if $weight == "black" {
+    font-weight: 900;
+  }
+}

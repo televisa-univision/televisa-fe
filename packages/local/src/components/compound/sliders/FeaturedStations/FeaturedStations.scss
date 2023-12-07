@@ -1,0 +1,115 @@
+.fullWidthModifier {
+  display: flex !important;
+  justify-content: center;
+  overflow: hidden;
+  background-color: $black;
+}
+
+.container {
+  padding: rem(40px) 0 .5rem;
+  position: relative;
+  width: 100%;
+  @include media-breakpoint-up('md') {
+    max-width: 1440px;
+    margin: 0 -10px;
+    padding: rem(40px) 4rem 1rem;
+  }
+}
+
+.placeholderContainer {
+  height: 305px;
+}
+
+
+.background {
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, .5);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  bottom: -40px;
+  filter: blur(20px);
+  left: -40px;
+  pointer-events: none;
+  position: absolute;
+  right: -40px;
+  top: -40px;
+  z-index: 0;
+  opacity: .5;
+}
+
+.carousel {
+  position: relative;
+  z-index: 1;
+}
+
+.card {
+  margin: 0 4px;
+  padding: 0 4px;
+  transform: translateY(2rem);
+  transition: transform 200ms ease;
+}
+
+.active {
+  padding: 0;
+  transform: translateY(0);
+
+  .infoWrap {
+    height: 144px;
+  }
+
+  .description {
+    opacity: 1;
+  }
+}
+
+.image {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 100%;
+  width: 100%;
+}
+
+.infoWrap {
+  height: 84px;
+  overflow: hidden;
+}
+
+.info,
+.infoWrap > span {
+  background-color: $theme-default-primary;
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  line-height: 16px;
+  height: 144px;
+  padding: 10px 0;
+
+  img {
+    margin: 10px auto 0;
+    width: 60%;
+  }
+}
+
+.description {
+  align-items: center;
+  color: $white;
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  margin-top: 10px;
+  padding: 0 14px;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 150ms linear;
+}
+
+.callToAction {
+  color: $white;
+  display: flex;
+  justify-content: center;
+  margin: -13px 0 16px 0;
+  font-size: rem(14px);
+  line-height: rem(17px);
+}

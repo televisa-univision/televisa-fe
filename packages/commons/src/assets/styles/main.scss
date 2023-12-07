@@ -1,0 +1,10 @@
+@import '~bootstrap/scss/reboot';
+@import '~bootstrap/scss/grid';
+
+// Overriding some bootstrap mixins
+@import 'mixins/bootstrap';
+@import 'global/fonts';
+@import 'global/content';
+
+// Video SDK
+@import 'global/video-player';

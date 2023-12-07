@@ -1,0 +1,121 @@
+{
+  "type": "video",
+  "uid": "0000016d-13d6-da6d-a3ff-5bf6e9330001",
+  "uri": "https://www.univision.com/shows/aqui-y-ahora/huyeron-de-sus-paises-para-salvar-sus-vidas-y-ahora-viven-con-el-temor-de-que-los-maten-en-eeuu-por-ser-hispanos-video",
+  "vertical": "Noticias",
+  "parent": {
+    "uuid": "00000147-fd58-d2f9-a347-fd5e45150000",
+    "uri": "https://www.univision.com/shows/aqui-y-ahora",
+    "name": "aquí y ahora",
+    "title": "Aquí y Ahora"
+  },
+  "title": "Huyeron de sus países para salvar sus vidas y ahora viven con el temor de que los maten en EEUU por ser hispanos. Luego de la matanza de El Paso, Texas,",
+  "description": "Luego de la matanza de El Paso, Texas, muchos latinos viven con pánico. Sienten que se han convertido en blanco del odio de algunos. Acciones cotidianas como ir a trabajar o hacer la compra se han convertido en un reto para ellos.",
+  "image": {
+    "type": "image",
+    "uid": "0000016d-13d7-da6d-a3ff-5bf71ec50000",
+    "title": "95b2be7a7c4449fbb841d89276f8f525",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://st1.uvnimg.com/c7/67/665758034396b5321c9fea7adf50/95b2be7a7c4449fbb841d89276f8f525",
+        "width": 1920,
+        "height": 1080,
+        "focusPoint": {
+          "x": 0.6587490102929533,
+          "y": 0.45
+        }
+      },
+      "16x9-med": {
+        "href": "https://st1.uvnimg.com/dims4/default/9327a4d/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc7%2F67%2F665758034396b5321c9fea7adf50%2Fresizes%2F500%2F95b2be7a7c4449fbb841d89276f8f525",
+        "width": 400,
+        "height": 225
+      },
+      "16x9": {
+        "href": "https://st1.uvnimg.com/dims4/default/874ee7e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc7%2F67%2F665758034396b5321c9fea7adf50%2Fresizes%2F1500%2F95b2be7a7c4449fbb841d89276f8f525",
+        "width": 1240,
+        "height": 698
+      },
+      "16x9-mobile": {
+        "href": "https://st1.uvnimg.com/dims4/default/58005c7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc7%2F67%2F665758034396b5321c9fea7adf50%2Fresizes%2F500%2F95b2be7a7c4449fbb841d89276f8f525",
+        "width": 480,
+        "height": 270
+      },
+      "16x9-sm": {
+        "href": "https://st1.uvnimg.com/dims4/default/5a087f7/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc7%2F67%2F665758034396b5321c9fea7adf50%2Fresizes%2F500%2F95b2be7a7c4449fbb841d89276f8f525",
+        "width": 246,
+        "height": 138
+      },
+      "16x9-tablet": {
+        "href": "https://st1.uvnimg.com/dims4/default/0e71561/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc7%2F67%2F665758034396b5321c9fea7adf50%2Fresizes%2F1500%2F95b2be7a7c4449fbb841d89276f8f525",
+        "width": 1024,
+        "height": 576
+      },
+      "16x9-extended": {
+        "href": "https://st1.uvnimg.com/dims4/default/953956c/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc7%2F67%2F665758034396b5321c9fea7adf50%2Fresizes%2F1500%2F95b2be7a7c4449fbb841d89276f8f525",
+        "width": 1440,
+        "height": 810
+      },
+      "16x9-loading": {
+        "href": "https://st1.uvnimg.com/dims4/default/737e6cb/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc7%2F67%2F665758034396b5321c9fea7adf50%2Fresizes%2F500%2F95b2be7a7c4449fbb841d89276f8f525",
+        "width": 30,
+        "height": 17
+      }
+    }
+  },
+  "authors": [],
+  "cardLabel": "EN VIVO",
+  "updateDate": "2019-09-08T22:25:40-04:00",
+  "publishDate": "2019-09-08T22:17:00-04:00",
+  "expirationDate": "2029-09-07T22:17:00-04:00",
+  "contentPriority": "STANDARD",
+  "mcpid": "3738925",
+  "durationString": "8:15",
+  "episodeNo": null,
+  "authRequired": false,
+  "longform": false,
+  "longformPlayList": false,
+  "hasNextEpisode": false,
+  "source": "Univision",
+  "previewUrl": "2029-09-08_3738925.mp4",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "http://uni.vi/Crsl101L9hl",
+        "isFeedDialog": false,
+        "title": "Huyeron de sus países para salvar sus vidas y ahora viven con el temor de que los maten en EEUU por ser hispanos",
+        "description": "Luego de la matanza de El Paso, Texas, muchos latinos viven con pánico. Sienten que se han convertido en blanco del odio de algunos. Acciones cotidianas como ir a trabajar o hacer la compra se han convertido en un reto para ellos.",
+        "imageUrl": "https://st1.uvnimg.com/c7/67/665758034396b5321c9fea7adf50/95b2be7a7c4449fbb841d89276f8f525",
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "http://uni.vi/Crsl101L9hl",
+        "title": "Huyeron de sus países para salvar sus vidas y ahora viven con el temor de que los maten en EEUU por ser hispanos",
+        "via": "aquiyahorashow"
+      },
+      "whatsapp": {
+        "url": "http://uni.vi/Crsl101L9hl",
+        "message": "Huyeron de sus países para salvar sus vidas y ahora viven con el temor de que los maten en EEUU por ser hispanos"
+      },
+      "mail": {
+        "subject": "Huyeron de sus países para salvar sus vidas y ahora viven con el temor de que los maten en EEUU por ser hispanos",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nHuyeron de sus países para salvar sus vidas y ahora viven con el temor de que los maten en EEUU por ser hispanos\n\nEncuéntralo en este enlace:http://uni.vi/Crsl101L9hl\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "primaryTag": {
+    "name": "Aquí y Ahora",
+    "link": "https://www.univision.com/shows/aqui-y-ahora"
+  },
+  "feedConsumer": "UNIVISION",
+  "schedule": null,
+  "analyticsData": {
+    "web": {
+      "common": {
+        "uid": "test"
+      },
+      "contentSpecific": {}
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "redirectApplyUrl": "www.google.com",
+      "brandName": "Mount Sinai Hospital",
+      "city": "Nueva Jersey",
+      "publishedDate": "2020-03-30",
+      "jobType": "Tempo Completo",
+      "name": {
+        "en": "Regional Nurse Consultant *North Manhattan*",
+        "es": "Regional Nurse Consultant *North Manhattan*"
+      },
+      "description": {
+        "en": "The primary responsibility of the Qualified Medication Aide (QMA) is to provide care for the residents under the direction of the nursing and medical staff.            ESSENTIAL DUTIES AND RESPONSIBILITIES: Obtains and records patient's vital signs and weight, Administers and documents medications given by following specifically written physicians orders, including oral, topical, and suppository medications, as well as eye and ear drops.",
+        "es": "The primary responsibility of the Qualified Medication Aide (QMA) is to provide care for the residents under the direction of the nursing and medical staff.            ESSENTIAL DUTIES AND RESPONSIBILITIES: Obtains and records patient's vital signs and weight, Administers and documents medications given by following specifically written physicians orders, including oral, topical, and suppository medications, as well as eye and ear drops."
+      }
+    },
+    {
+      "id": "2",
+      "redirectApplyUrl": "www.google.com",
+      "brandName": "Hapvida Hospital",
+      "city": "New York",
+      "publishedDate": "2020-05-19",
+      "jobType": "Tempo Completo",
+      "name": {
+        "en": "Regional Nurse Consultant *North Manhattan*",
+        "es": "Regional Nurse Consultant *North Manhattan*"
+      },
+      "description": {
+        "en": "The primary responsibility of the Qualified Medication Aide (QMA) is to provide care for the residents under the direction of the nursing and medical staff.            ESSENTIAL DUTIES AND RESPONSIBILITIES: Obtains and records patient's vital signs and weight, Administers and documents medications given by following specifically written physicians orders, including oral, topical, and suppository medications, as well as eye and ear drops.",
+        "es": "The primary responsibility of the Qualified Medication Aide (QMA) is to provide care for the residents under the direction of the nursing and medical staff.            ESSENTIAL DUTIES AND RESPONSIBILITIES: Obtains and records patient's vital signs and weight, Administers and documents medications given by following specifically written physicians orders, including oral, topical, and suppository medications, as well as eye and ear drops."
+      }
+    },
+    {
+      "id": "3",
+      "redirectApplyUrl": "www.google.com",
+      "brandName": "Unimed Hospital",
+      "city": "San Francisco",
+      "publishedDate": "2020-09-14",
+      "jobType": "Tempo Completo",
+      "name": {
+        "en": "Regional Nurse Consultant *North Manhattan*",
+        "es": "Regional Nurse Consultant *North Manhattan*"
+      },
+      "description": {
+        "en": "The primary responsibility of the Qualified Medication Aide (QMA) is to provide care for the residents under the direction of the nursing and medical staff.            ESSENTIAL DUTIES AND RESPONSIBILITIES: Obtains and records patient's vital signs and weight, Administers and documents medications given by following specifically written physicians orders, including oral, topical, and suppository medications, as well as eye and ear drops.",
+        "es": "The primary responsibility of the Qualified Medication Aide (QMA) is to provide care for the residents under the direction of the nursing and medical staff.            ESSENTIAL DUTIES AND RESPONSIBILITIES: Obtains and records patient's vital signs and weight, Administers and documents medications given by following specifically written physicians orders, including oral, topical, and suppository medications, as well as eye and ear drops."
+      }
+    }
+  ]
+}

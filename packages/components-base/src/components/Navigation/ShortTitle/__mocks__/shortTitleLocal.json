@@ -1,0 +1,1169 @@
+{
+  "status": "success",
+  "data": {
+    "type": "section",
+    "uid": "0000014d-070d-ddc6-a5dd-179f207d0000",
+    "uri": "/local/los-angeles-kmex",
+    "vertical": "Local",
+    "parent": {
+      "uri": "/local",
+      "name": "tu ciudad",
+      "title": "Tu Ciudad"
+    },
+    "title": "Univision 34 Los Angeles",
+    "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+    "updateDate": "2019-07-02T15:18:24-04:00",
+    "publishDate": "2015-11-26T15:00:00-05:00",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "adSettings": {
+      "disable3rdPartyAds": false,
+      "disableAds": false,
+      "disableVideoAds": false,
+      "adTagValue": "section_local/tv/losangeles/kmex/inicio",
+      "targeting": {
+        "vertical": "local"
+      },
+      "contentSpecificSettings": {}
+    },
+    "tracking": {
+      "analytics": {
+        "data": {
+          "adtag_value": "section_local/tv/losangeles/kmex/inicio",
+          "all_tags": [],
+          "brand": "univision 34 los angeles",
+          "brand_market": "los angeles",
+          "brand_station_call_letters": "kmex",
+          "brand_station_name": "univision 34 los angeles",
+          "brand_station_type": "tvstation",
+          "canonical_url": "https://www.univision.com/local/los-angeles-kmex",
+          "content_created_date": "2015-11-26",
+          "content_id": "0000014d-070d-ddc6-a5dd-179f207d0000",
+          "content_modified_date": "2019-07-02",
+          "content_type": "tvstation",
+          "content_vertical": "local",
+          "environment_name": "prod",
+          "nielsenVcid": "c05",
+          "permalink": "https://www.univision.com/local/los-angeles-kmex",
+          "platform": "website",
+          "section_category": "navigation taxonomy",
+          "section_full_hierarchy": [
+            "local",
+            "kmex"
+          ],
+          "section_level1": "local",
+          "section_level2": "kmex",
+          "title": "univision 34 los angeles",
+          "uci_division": "local:los angeles:kmex"
+        }
+      },
+      "nielsen": {
+        "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid": "c05",
+        "environment": "prod",
+        "primaryTopic": "Tu Ciudad"
+      }
+    },
+    "analyticsData": {
+      "apps": {
+        "common": {
+          "adtag_value": "section_local/tv/losangeles/kmex/inicio",
+          "all_tags": [],
+          "brand_station_call_letters": "kmex",
+          "content_created_date": "2015-11-26",
+          "content_id": "0000014d-070d-ddc6-a5dd-179f207d0000",
+          "content_type": "tvstation",
+          "section": "kmex",
+          "section_category": "navigation taxonomy",
+          "section_full_hierarchy": [
+            "local",
+            "kmex"
+          ],
+          "section_level1": "local",
+          "section_level2": "kmex",
+          "title": "univision 34 los angeles"
+        },
+        "contentSpecific": {},
+        "nielsen": {
+          "common": {
+            "assetID": "0000014d-070d-ddc6-a5dd-179f207d0000",
+            "section": "tvstation",
+            "type": "static",
+            "vcid": "c05"
+          },
+          "contentSpecific": {}
+        }
+      },
+      "web": {
+        "common": {
+          "adtag_value": "section_local/tv/losangeles/kmex/inicio",
+          "all_tags": [],
+          "brand_market": "los angeles",
+          "brand_station_call_letters": "kmex",
+          "brand_station_name": "univision 34 los angeles",
+          "brand_station_type": "tvstation",
+          "content_created_date": "2015-11-26",
+          "content_id": "0000014d-070d-ddc6-a5dd-179f207d0000",
+          "content_modified_date": "2019-07-02",
+          "content_type": "tvstation",
+          "content_vertical": "local",
+          "permalink": "https://www.univision.com/local/los-angeles-kmex",
+          "platform": "website",
+          "section": "kmex",
+          "section_category": "navigation taxonomy",
+          "section_full_hierarchy": [
+            "local",
+            "kmex"
+          ],
+          "section_level1": "local",
+          "section_level2": "kmex",
+          "seo_optimized ": true,
+          "title": "univision 34 los angeles",
+          "uci_division": "local:los angeles:kmex"
+        },
+        "contentSpecific": {},
+        "nielsen": {
+          "common": {
+            "assetID": "0000014d-070d-ddc6-a5dd-179f207d0000",
+            "section": "tvstation",
+            "type": "static",
+            "vcid": "c05"
+          },
+          "contentSpecific": {}
+        }
+      }
+    },
+    "metaTagData": {
+      "openGraph": {
+        "type": null,
+        "title": "Univision 34 Los Angeles",
+        "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+        "imageUrl": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+        "url": "https://www.univision.com/local/los-angeles-kmex",
+        "siteName": "Univision"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Univision 34 Los Angeles",
+        "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+        "creator": null,
+        "imageUrl": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48"
+      },
+      "facebook": {
+        "pages": null
+      }
+    },
+    "seo": {
+      "title": "Univision 34 Los Angeles, CA - Noticias, Servicios - Estacion KMEX | Univision",
+      "description": "Univision 34 Los Angeles, CA - Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en San Los Angeles | Univision",
+      "canonicalUrl": "https://www.univision.com/local/los-angeles-kmex",
+      "keywords": [
+        "34",
+        "kmex",
+        "ls",
+        "loteria",
+        "local",
+        "inmigracion",
+        "servicios",
+        "trafico",
+        "noticias",
+        "tiempo",
+        "univision",
+        "horoscopo",
+        "california",
+        "estacion",
+        "los angeles",
+        "ca"
+      ],
+      "robots": [],
+      "news_keywords": []
+    },
+    "hierarchy": [
+      {
+        "uri": "/local",
+        "name": "tu ciudad",
+        "title": "Tu Ciudad"
+      },
+      {
+        "uri": "/local/los-angeles-kmex",
+        "name": "univision 34 los angeles",
+        "title": "Univision 34 Los Angeles"
+      }
+    ],
+    "externalWidgets": null,
+    "widgets": [
+      {
+        "settings": {
+          "highlightedCompetitionSeasons": [],
+          "title": " Scorecells Genéricos",
+          "titleLink": null,
+          "type": "deportescardsoccermatchscorecells",
+          "uid": "0000016b-99dc-dd0e-a56b-9dfd3e0e0010",
+          "lazyLoaded": false
+        },
+        "id": "0000016b-99dc-dd0e-a56b-9dfd3e0e0010",
+        "type": "DeportesCardSoccerMatchScorecells",
+        "contents": []
+      },
+      {
+        "settings": {
+          "type": "allvideoplaylistvideo",
+          "uid": "0000016b-758f-d573-ad7f-758f39660010",
+          "livestream": {
+            "type": "livestream",
+            "uid": "0000015a-d837-d37d-ad5f-f9ff02d60000",
+            "uri": "/local/los-angeles-kmex/los-angeles/kmex/edicion-digital-california-livestream",
+            "vertical": "Local",
+            "parent": {
+              "uri": "/local/los-angeles-kmex",
+              "name": "univision 34 los angeles",
+              "title": "Univision 34 Los Angeles"
+            },
+            "title": "Edición Digital California",
+            "description": "Edición Digital California",
+            "image": {
+              "type": "image",
+              "uid": "00000168-8769-dbde-ade8-efff80820001",
+              "title": "ED_CALIFORNIA_SPLASH.jpg",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/60/80/af23d9c648da8afab012a5c2c514/ed-california-splash.jpg",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/26b9480/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://st1.uvnimg.com/dims4/default/f709956/2147483647/crop/495x281%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://st1.uvnimg.com/dims4/default/55f469b/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://st1.uvnimg.com/dims4/default/388f139/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F1500%2Fed-california-splash.jpg",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://st1.uvnimg.com/dims4/default/70a6685/2147483647/crop/1499x844%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F1500%2Fed-california-splash.jpg",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://st1.uvnimg.com/dims4/default/39e79f8/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://st1.uvnimg.com/dims4/default/42b4c45/2147483647/crop/1500x844%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F1500%2Fed-california-splash.jpg",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/dd36bdb/2147483647/crop/281x281%2B89%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "updateDate": "2019-03-21T16:43:41-04:00",
+            "publishDate": "2017-03-16T14:07:24-04:00",
+            "expirationDate": "3000-01-01T00:00:00-05:00",
+            "livestreamId": "201703161343",
+            "autoPlay": true,
+            "tvssUrl": "auth.univision.com",
+            "mainImage": "https://st1.uvnimg.com/60/80/af23d9c648da8afab012a5c2c514/ed-california-splash.jpg",
+            "active": true,
+            "auth": false,
+            "isAuth": false,
+            "player": "JW"
+          },
+          "otherTabs": [
+            null
+          ],
+          "mainTabLabel": null,
+          "title": null,
+          "titleLink": null,
+          "lazyLoaded": false
+        },
+        "id": "0000016b-758f-d573-ad7f-758f39660010",
+        "type": "AllVideoPlaylistVideo",
+        "contents": []
+      },
+      {
+        "settings": {
+          "type": "allbannermovingbanner",
+          "uid": "0000016b-6f92-dc91-a9eb-efd22f9a0000",
+          "title": null,
+          "titleLink": null,
+          "lazyLoaded": false
+        },
+        "id": "0000016b-6f92-dc91-a9eb-efd22f9a0000",
+        "type": "AllBannerMovingBanner",
+        "contents": []
+      },
+      {
+        "settings": {
+          "type": "allvideoplaylistvideo",
+          "uid": "00000167-eb85-dddd-afff-ff858c550039",
+          "otherTabs": [
+            null
+          ],
+          "mainTabLabel": null,
+          "title": "VISTO EN EL 34",
+          "titleLink": null,
+          "lazyLoaded": false
+        },
+        "id": "00000167-eb85-dddd-afff-ff858c550039",
+        "type": "AllVideoPlaylistVideo",
+        "contents": [
+          {
+            "type": "video",
+            "uid": "0000016b-b358-d4d9-a1eb-bbd9bbc20000",
+            "uri": "/local/los-angeles-kmex/ahora-los-empleados-sin-plan-de-retiro-pueden-ahorrar-para-su-jubilacion-en-california-video",
+            "vertical": "Local",
+            "parent": {
+              "uri": "/local/los-angeles-kmex",
+              "name": "univision 34 los angeles",
+              "title": "Univision 34 Los Angeles"
+            },
+            "title": "Ahora los empleados sin plan de retiro pueden ahorrar para su jubilación en California",
+            "description": "La ley SB-1234 permite que las empresas que no ofrecen servicios para que los trabajadores ahorren para su vejez, puedan inscribirse en el programa CalSavers, donde les pueden descontar el 5% del salario para generar un presupuesto programado con ese fin.",
+            "image": {
+              "type": "image",
+              "uid": "0000016b-b359-dc80-a7eb-fb79271c0000",
+              "title": "c50ea0a40d4a4470a194655bfcd548b5",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/34/29/11cc8597459899edb89916703256/c50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/f2a7288/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://st1.uvnimg.com/dims4/default/3eb5beb/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://st1.uvnimg.com/dims4/default/1fa3c6e/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://st1.uvnimg.com/dims4/default/c491f5d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F1500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://st1.uvnimg.com/dims4/default/3fb2625/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F1500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://st1.uvnimg.com/dims4/default/c966008/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://st1.uvnimg.com/dims4/default/f6a5e04/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F1500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/4b5ffa1/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F29%2F11cc8597459899edb89916703256%2Fresizes%2F500%2Fc50ea0a40d4a4470a194655bfcd548b5",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "updateDate": "2019-07-02T11:44:22-04:00",
+            "publishDate": "2019-07-02T11:24:00-04:00",
+            "expirationDate": "2029-07-01T11:24:00-04:00",
+            "contentPriority": "STANDARD",
+            "mcpid": "3705955",
+            "durationString": "0:55",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/2sh6101EPgh",
+                  "isFeedDialog": false,
+                  "title": "Ahora los empleados sin plan de retiro pueden ahorrar para su jubilación en California",
+                  "description": "La ley SB-1234 permite que las empresas que no ofrecen servicios para que los trabajadores ahorren para su vejez, puedan inscribirse en el programa CalSavers, donde les pueden descontar el 5% del salario para generar un presupuesto programado con ese fin.",
+                  "imageUrl": "https://st1.uvnimg.com/34/29/11cc8597459899edb89916703256/c50ea0a40d4a4470a194655bfcd548b5",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/2sh6101EPgh",
+                  "title": "Ahora los empleados sin plan de retiro pueden ahorrar para su jubilación en California",
+                  "via": "Univision34LA"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/2sh6101EPgh",
+                  "message": "Ahora los empleados sin plan de retiro pueden ahorrar para su jubilación en California"
+                },
+                "mail": {
+                  "subject": "Ahora los empleados sin plan de retiro pueden ahorrar para su jubilación en California",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAhora los empleados sin plan de retiro pueden ahorrar para su jubilación en California\n\nEncuéntralo en este enlace:http://uni.vi/2sh6101EPgh\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Ahorrar",
+              "link": "/local/los-angeles-kmex/temas/ahorrar"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "0000016b-b35e-d183-af6b-fb5fb90a0000",
+            "uri": "/local/los-angeles-kmex/fanaticos-rinden-tributo-al-beisbolista-tyler-skaggs-afuera-del-angel-stadium-de-anaheim-video",
+            "vertical": "Local",
+            "parent": {
+              "uri": "/local/los-angeles-kmex",
+              "name": "univision 34 los angeles",
+              "title": "Univision 34 Los Angeles"
+            },
+            "title": "Fanáticos rinden tributo al beisbolista Tyler Skaggs afuera del Angel Stadium de Anaheim",
+            "description": "Los seguidores del lanzador, de 27 años, improvisaron un altar en memoria del deportista, que fue encontrado muerto este lunes en la habitación del hotel donde se encontraba con su equipo en Texas. Su deceso ha conmocionado a las Grandes Ligas.",
+            "image": {
+              "type": "image",
+              "uid": "0000016b-b35f-dc80-a7eb-fb7fea500000",
+              "title": "624b8894229c48568d319343bdcd59a5",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/c2/5d/1ea0e34f4cdc8c0b15a06948c146/624b8894229c48568d319343bdcd59a5",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/30f6afb/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://st1.uvnimg.com/dims4/default/cb8032b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://st1.uvnimg.com/dims4/default/61cd2f7/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://st1.uvnimg.com/dims4/default/18fa58d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F1500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://st1.uvnimg.com/dims4/default/acc3b40/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F1500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://st1.uvnimg.com/dims4/default/a5bbd00/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://st1.uvnimg.com/dims4/default/1164197/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F1500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/76bd95f/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc2%2F5d%2F1ea0e34f4cdc8c0b15a06948c146%2Fresizes%2F500%2F624b8894229c48568d319343bdcd59a5",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "updateDate": "2019-07-02T11:49:01-04:00",
+            "publishDate": "2019-07-02T11:05:00-04:00",
+            "expirationDate": "2029-07-01T11:05:00-04:00",
+            "contentPriority": "STANDARD",
+            "mcpid": "3705947",
+            "durationString": "0:43",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/3jxO101EPlP",
+                  "isFeedDialog": false,
+                  "title": "Fanáticos rinden tributo al beisbolista Tyler Skaggs afuera del Angel Stadium de Anaheim",
+                  "description": "Los seguidores del lanzador, de 27 años, improvisaron un altar en memoria del deportista, que fue encontrado muerto este lunes en la habitación del hotel donde se encontraba con su equipo en Texas. Su deceso ha conmocionado a las Grandes Ligas.",
+                  "imageUrl": "https://st1.uvnimg.com/c2/5d/1ea0e34f4cdc8c0b15a06948c146/624b8894229c48568d319343bdcd59a5",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/3jxO101EPlP",
+                  "title": "Fanáticos rinden tributo al beisbolista Tyler Skaggs afuera del Angel Stadium de Anaheim",
+                  "via": "Univision34LA"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/3jxO101EPlP",
+                  "message": "Fanáticos rinden tributo al beisbolista Tyler Skaggs afuera del Angel Stadium de Anaheim"
+                },
+                "mail": {
+                  "subject": "Fanáticos rinden tributo al beisbolista Tyler Skaggs afuera del Angel Stadium de Anaheim",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFanáticos rinden tributo al beisbolista Tyler Skaggs afuera del Angel Stadium de Anaheim\n\nEncuéntralo en este enlace:http://uni.vi/3jxO101EPlP\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Homenajes y Reconocimientos",
+              "link": "/local/los-angeles-kmex/temas/homenajes-y-reconocimientos"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "0000016b-b361-dc80-a7eb-fb618cae0000",
+            "uri": "/local/los-angeles-kmex/arrestan-a-tres-personas-durante-un-operativo-contra-cultivos-ilegales-de-marihuana-en-riverside-video",
+            "vertical": "Local",
+            "parent": {
+              "uri": "/local/los-angeles-kmex",
+              "name": "univision 34 los angeles",
+              "title": "Univision 34 Los Angeles"
+            },
+            "title": "Arrestan a tres personas durante un operativo contra cultivos ilegales de marihuana en Riverside",
+            "description": "Dos hombres y una mujer fueron detenidos luego de que la policía encontrara más de 400 plantas de cannabis dentro de una vivienda y en otra más de 500 plantaciones, un arma y municiones. En las dos propiedades se habían hecho peligrosas modificaciones de las redes eléctricas para, al parecer, robar energía.",
+            "image": {
+              "type": "image",
+              "uid": "0000016b-b364-daaa-afff-f77764950000",
+              "title": "977ad4edd3bb494181b303c943bed751",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/35/0b/d72ae288408ca7fc05da06341a6c/977ad4edd3bb494181b303c943bed751",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/7adfbaa/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://st1.uvnimg.com/dims4/default/9f5f40c/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://st1.uvnimg.com/dims4/default/48aea31/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://st1.uvnimg.com/dims4/default/482f8dd/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F1500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://st1.uvnimg.com/dims4/default/1a42f16/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F1500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://st1.uvnimg.com/dims4/default/c8c83e6/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://st1.uvnimg.com/dims4/default/1c0c0dc/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F1500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/063f614/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F0b%2Fd72ae288408ca7fc05da06341a6c%2Fresizes%2F500%2F977ad4edd3bb494181b303c943bed751",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "updateDate": "2019-07-02T11:55:23-04:00",
+            "publishDate": "2019-07-02T11:01:00-04:00",
+            "expirationDate": "2029-07-01T11:01:00-04:00",
+            "contentPriority": "STANDARD",
+            "mcpid": "3705946",
+            "durationString": "0:26",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/9hTz101EPmp",
+                  "isFeedDialog": false,
+                  "title": "Arrestan a tres personas durante un operativo contra cultivos ilegales de marihuana en Riverside",
+                  "description": "Dos hombres y una mujer fueron detenidos luego de que la policía encontrara más de 400 plantas de cannabis dentro de una vivienda y en otra más de 500 plantaciones, un arma y municiones. En las dos propiedades se habían hecho peligrosas modificaciones de las redes eléctricas para, al parecer, robar energía.",
+                  "imageUrl": "https://st1.uvnimg.com/35/0b/d72ae288408ca7fc05da06341a6c/977ad4edd3bb494181b303c943bed751",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/9hTz101EPmp",
+                  "title": "Arrestan a tres personas durante un operativo contra cultivos ilegales de marihuana en Riverside",
+                  "via": "Univision34LA"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/9hTz101EPmp",
+                  "message": "Arrestan a tres personas durante un operativo contra cultivos ilegales de marihuana en Riverside"
+                },
+                "mail": {
+                  "subject": "Arrestan a tres personas durante un operativo contra cultivos ilegales de marihuana en Riverside",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nArrestan a tres personas durante un operativo contra cultivos ilegales de marihuana en Riverside\n\nEncuéntralo en este enlace:http://uni.vi/9hTz101EPmp\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Criminalidad y  Justicia",
+              "link": "/local/los-angeles-kmex/temas/criminalidad-y-justicia"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "0000016b-b331-d183-af6b-fb3f73020000",
+            "uri": "/local/los-angeles-kmex/rapido-y-sabroso-te-ensenamos-a-preparar-tres-platillos-en-los-que-te-demoraras-pocos-minutos-video",
+            "vertical": "Local",
+            "parent": {
+              "uri": "/local/los-angeles-kmex",
+              "name": "univision 34 los angeles",
+              "title": "Univision 34 Los Angeles"
+            },
+            "title": "Rápido y sabroso: te enseñamos a preparar tres platillos en los que te demorarás pocos minutos",
+            "description": "El chef Juan Mondragón explica cómo elaborar aguachile de coco, tostadas de pollo, ensalada de zanahoria, una aguafresca de alfalfa y piña.",
+            "image": {
+              "type": "image",
+              "uid": "0000016b-b332-dc80-a7eb-fb328f210001",
+              "title": "423f23e9f75441d69a6922f93c8b3c86",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/77/d2/2aae23c442a9b6439a8962ca76c3/423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/56dc36a/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://st1.uvnimg.com/dims4/default/a1f0c49/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://st1.uvnimg.com/dims4/default/d7b79a2/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://st1.uvnimg.com/dims4/default/6aca9b2/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F1500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://st1.uvnimg.com/dims4/default/e0b2b33/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F1500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://st1.uvnimg.com/dims4/default/b97ba45/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://st1.uvnimg.com/dims4/default/505be7a/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F1500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/5d8933b/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F77%2Fd2%2F2aae23c442a9b6439a8962ca76c3%2Fresizes%2F500%2F423f23e9f75441d69a6922f93c8b3c86",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "updateDate": "2019-07-02T10:59:32-04:00",
+            "publishDate": "2019-07-02T10:01:00-04:00",
+            "expirationDate": "2029-07-01T10:01:00-04:00",
+            "contentPriority": "STANDARD",
+            "mcpid": "3705919",
+            "durationString": "3:08",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/Yj1k101EP26",
+                  "isFeedDialog": false,
+                  "title": "Rápido y sabroso: te enseñamos a preparar tres platillos en los que te demorarás pocos minutos",
+                  "description": "El chef Juan Mondragón explica cómo elaborar aguachile de coco, tostadas de pollo, ensalada de zanahoria, una aguafresca de alfalfa y piña.",
+                  "imageUrl": "https://st1.uvnimg.com/77/d2/2aae23c442a9b6439a8962ca76c3/423f23e9f75441d69a6922f93c8b3c86",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/Yj1k101EP26",
+                  "title": "Rápido y sabroso: te enseñamos a preparar tres platillos en los que te demorarás pocos minutos",
+                  "via": "Univision34LA"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/Yj1k101EP26",
+                  "message": "Rápido y sabroso: te enseñamos a preparar tres platillos en los que te demorarás pocos minutos"
+                },
+                "mail": {
+                  "subject": "Rápido y sabroso: te enseñamos a preparar tres platillos en los que te demorarás pocos minutos",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRápido y sabroso: te enseñamos a preparar tres platillos en los que te demorarás pocos minutos\n\nEncuéntralo en este enlace:http://uni.vi/Yj1k101EP26\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Comida",
+              "link": "/local/los-angeles-kmex/temas/comida"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "0000016b-b311-d2cb-a56b-ffd3a5320000",
+            "uri": "/local/los-angeles-kmex/un-chef-te-ensena-lo-que-debes-ponerle-a-una-ensalada-y-lo-que-debes-evitar-para-tener-un-plato-saludable-y-delicioso-video",
+            "vertical": "Local",
+            "parent": {
+              "uri": "/local/los-angeles-kmex",
+              "name": "univision 34 los angeles",
+              "title": "Univision 34 Los Angeles"
+            },
+            "title": "Un chef te enseña lo que debes ponerle a una ensalada y lo que debes evitar para tener un plato saludable y delicioso",
+            "description": "El chef Juan Mondragón asegura que no se deben usar embutidos como el pavo o el jamón, que comúnmente vienen en latas, por su alto contenido de sodio. Además de no agregar pan, pasta ni harinas procesadas. En su lugar dice que se debe optar por vegetales, semillas, frutas y proteínas frescas, así como por vinagretas hechas en casa.",
+            "image": {
+              "type": "image",
+              "uid": "0000016b-b313-d7b8-affb-b77fbe890000",
+              "title": "15c123de7d22428c93d1f49e160f3570",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://st1.uvnimg.com/41/29/e46efd2f48e792ecbcb4f250512f/15c123de7d22428c93d1f49e160f3570",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/4c68c14/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://st1.uvnimg.com/dims4/default/6de665b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://st1.uvnimg.com/dims4/default/65c6df5/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://st1.uvnimg.com/dims4/default/cf4c7b5/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F1500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://st1.uvnimg.com/dims4/default/4f7bb02/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F1500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://st1.uvnimg.com/dims4/default/7d55b40/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://st1.uvnimg.com/dims4/default/d7f7de2/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F1500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://st1.uvnimg.com/dims4/default/a5a31c5/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F41%2F29%2Fe46efd2f48e792ecbcb4f250512f%2Fresizes%2F500%2F15c123de7d22428c93d1f49e160f3570",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "updateDate": "2019-07-02T10:26:35-04:00",
+            "publishDate": "2019-07-02T09:54:00-04:00",
+            "expirationDate": "2029-07-01T09:54:00-04:00",
+            "contentPriority": "STANDARD",
+            "mcpid": "3705915",
+            "durationString": "4:47",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/3ojW101EOTV",
+                  "isFeedDialog": false,
+                  "title": "Un chef te enseña lo que debes ponerle a una ensalada y lo que debes evitar para tener un plato saludable y delicioso",
+                  "description": "El chef Juan Mondragón asegura que no se deben usar embutidos como el pavo o el jamón, que comúnmente vienen en latas, por su alto contenido de sodio. Además de no agregar pan, pasta ni harinas procesadas. En su lugar dice que se debe optar por vegetales, semillas, frutas y proteínas frescas, así como por vinagretas hechas en casa.",
+                  "imageUrl": "https://st1.uvnimg.com/41/29/e46efd2f48e792ecbcb4f250512f/15c123de7d22428c93d1f49e160f3570",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/3ojW101EOTV",
+                  "title": "Un chef te enseña lo que debes ponerle a una ensalada y lo que debes evitar para tener un plato saludable y delicioso",
+                  "via": "Univision34LA"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/3ojW101EOTV",
+                  "message": "Un chef te enseña lo que debes ponerle a una ensalada y lo que debes evitar para tener un plato saludable y delicioso"
+                },
+                "mail": {
+                  "subject": "Un chef te enseña lo que debes ponerle a una ensalada y lo que debes evitar para tener un plato saludable y delicioso",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nUn chef te enseña lo que debes ponerle a una ensalada y lo que debes evitar para tener un plato saludable y delicioso\n\nEncuéntralo en este enlace:http://uni.vi/3ojW101EOTV\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Recetas de Familia",
+              "link": "/local/los-angeles-kmex/temas/recetas-de-familia"
+            }
+          }
+        ]
+      },
+      {
+        "settings": {
+          "type": "agnosticepisodeswidget",
+          "uid": "0000016b-b3d0-dff4-afef-bff2de00001c",
+          "title": "TV Shows: Capítulos Gratis",
+          "titleLink": {
+            "href": "https://www.univision.com/shows",
+            "target": "_self",
+            "text": "Shows",
+            "uid": "0000016b-b3d0-dff4-afef-bff2ddf50001"
+          },
+          "lazyLoaded": true
+        },
+        "id": "0000016b-b3d0-dff4-afef-bff2de00001c",
+        "type": "ShowsLFGridAgnosticEpisodes",
+        "contents": []
+      },
+      {
+        "settings": {
+          "type": "allcarouselhighimpact",
+          "uid": "00000167-eb85-dddd-afff-ff858c550059",
+          "title": "NOTICIAS EN IMÁGENES",
+          "titleLink": null,
+          "lazyLoaded": true
+        },
+        "id": "00000167-eb85-dddd-afff-ff858c550059",
+        "type": "AllCarouselHighImpact",
+        "contents": []
+      },
+      {
+        "settings": {
+          "type": "allbannermovingbanner",
+          "uid": "0000016b-b3d1-df49-abfb-b7f765d30000",
+          "title": null,
+          "titleLink": null,
+          "lazyLoaded": false
+        },
+        "id": "0000016b-b3d1-df49-abfb-b7f765d30000",
+        "type": "AllBannerMovingBanner",
+        "contents": []
+      }
+    ],
+    "source": "Univision",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "https://www.univision.com/local/los-angeles-kmex",
+          "isFeedDialog": false,
+          "title": "Univision 34 Los Angeles",
+          "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+          "imageUrl": null,
+          "appId": "645138725541385"
+        },
+        "twitter": {
+          "url": "https://www.univision.com/local/los-angeles-kmex",
+          "title": "Univision 34 Los Angeles",
+          "via": "Univision34LA"
+        },
+        "whatsapp": {
+          "url": "https://www.univision.com/local/los-angeles-kmex",
+          "message": "Univision 34 Los Angeles"
+        },
+        "mail": {
+          "subject": "Univision 34 Los Angeles",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nUnivision 34 Los Angeles\n\nEncuéntralo en este enlace:https://www.univision.com/local/los-angeles-kmex\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "secondaryTags": null,
+    "sectionType": "tvstation",
+    "socialNetworks": [
+      {
+        "text": "Univision 34 Facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Univision34/",
+        "target": "_blank"
+      },
+      {
+        "text": "Univision 34 Twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/Univision34LA",
+        "target": "_blank"
+      },
+      {
+        "text": "Univision 34 YouTube",
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCzOrrheF99HIxv9Do2K5ghw",
+        "target": "_blank"
+      }
+    ],
+    "jwRecommendationChannel": "FxAiYXAY",
+    "dynamicPlaylist": true,
+    "tvStation": {
+      "type": "tvstation",
+      "uid": "0000014d-070d-ddc6-a5dd-179f207d0000",
+      "uri": "/local/los-angeles-kmex",
+      "vertical": null,
+      "parent": null,
+      "title": "Univision 34 Los Angeles",
+      "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+      "image": {
+        "type": "image",
+        "uid": "0000014c-9ee5-d8b4-ab7c-fef5363e0000",
+        "title": "KMEX Univision 3 Los Ángeles",
+        "caption": "KMEX Univision 3 Los Ángeles",
+        "credit": "Univision 34",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/b4/eb/cd4db9b2464aa05faec538cd84ed/e71289572ec1476cb90b58ce96881b48",
+            "width": 323,
+            "height": 216
+          },
+          "16x9-mobile": {
+            "href": "https://st1.uvnimg.com/dims4/default/6956fec/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://st1.uvnimg.com/dims4/default/0cacb43/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://st1.uvnimg.com/dims4/default/c0ca7e3/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://st1.uvnimg.com/dims4/default/3737518/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://st1.uvnimg.com/dims4/default/5b55b07/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://st1.uvnimg.com/dims4/default/b677c11/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://st1.uvnimg.com/dims4/default/c8e8765/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "updateDate": "2019-07-02T15:18:24-04:00",
+      "publishDate": "2015-11-26T15:00:00-05:00",
+      "expirationDate": "3000-01-01T00:00:00-05:00",
+      "call": "KMEX",
+      "logo": {
+        "type": "image",
+        "uid": "0000014c-9ee5-d8b4-ab7c-fef5363e0000",
+        "title": "KMEX Univision 3 Los Ángeles",
+        "caption": "KMEX Univision 3 Los Ángeles",
+        "credit": "Univision 34",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/b4/eb/cd4db9b2464aa05faec538cd84ed/e71289572ec1476cb90b58ce96881b48",
+            "width": 323,
+            "height": 216
+          },
+          "16x9-mobile": {
+            "href": "https://st1.uvnimg.com/dims4/default/6956fec/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://st1.uvnimg.com/dims4/default/0cacb43/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://st1.uvnimg.com/dims4/default/c0ca7e3/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://st1.uvnimg.com/dims4/default/3737518/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://st1.uvnimg.com/dims4/default/5b55b07/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://st1.uvnimg.com/dims4/default/b677c11/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://st1.uvnimg.com/dims4/default/c8e8765/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "alternativeLogo": {
+        "type": null,
+        "uid": null,
+        "title": null,
+        "caption": null,
+        "credit": null,
+        "renditions": null
+      },
+      "localMarket": {
+        "title": "Los Angeles",
+        "zipCodes": [
+          "90034"
+        ]
+      },
+      "localMarketFooter": {
+        "title": "PÁGINAS DE LOS ÁNGELES",
+        "links": [
+          {
+            "href": "https://cdn4.uvnimg.com/74/be/7344f06547afb3a73dd5b5671223/tv-radio-combined-eeo-public-file-report-local-media-la-8-1-17-through-7-31-18.pdf",
+            "target": "_blank",
+            "text": "Univision LA EEO Report",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0000"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/tv-profile/kmex-dt",
+            "target": "_blank",
+            "text": "Univision 34 LA Public File",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0001"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/fm-profile/klve",
+            "target": "_blank",
+            "text": "Online Public File KLVE",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0002"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/am-profile/ktnq",
+            "target": "_blank",
+            "text": "Online Public File KTNQ (AM)",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0003"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/fm-profile/ksca",
+            "target": "_blank",
+            "text": "Online Public File KSCA",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0004"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/fm-profile/krcv",
+            "target": "_blank",
+            "text": "Online Public File KRCV",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0005"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/fm-profile/krcd",
+            "target": "_blank",
+            "text": "Online Public File KRCD",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0006"
+          },
+          {
+            "href": "https://www.univision.com/los-angeles/kmex/univision-y-unimas-aviso-del-servicio-de-subtitulos-closed-captioning",
+            "target": "_blank",
+            "text": "Aviso de subtítulos e información para personas con discapacidad",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0007"
+          },
+          {
+            "href": "https://www.univision.com/los-angeles/kmex/somos-univision-34-los-angeles",
+            "target": "_blank",
+            "text": "Somos Univision 34, Los Angeles",
+            "uid": "00000168-8769-dbde-ade8-efffe7cc0008"
+          }
+        ]
+      },
+      "contact": {
+        "aboutStation": "/local/los-angeles-kmex/los-angeles/kmex/somos-univision-34-los-angeles"
+      }
+    },
+    "ttl": 90,
+    "feedGeneratedAt": "2019-07-02T15:39:55-04:00"
+  }
+}

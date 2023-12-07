@@ -1,0 +1,103 @@
+.title {
+  border-left: 10px solid;
+  line-height: 1.25;
+  margin-bottom: 1rem;
+  padding-left: 14px;
+  text-transform: uppercase;
+
+  a {
+    color: $black;
+  }
+}
+
+.dark {
+  background-color: $black;
+} 
+
+.mobile {
+  margin: 0;
+  display: flex;
+}
+
+// Keep the xs structure
+.colMobile.colMobile {
+  flex: 0 0 50%;
+  max-width: 50%;
+  &:nth-child(even) {
+    padding-right: 8px;
+  }
+  &:nth-child(odd) {
+    padding-left: 8px;
+  }
+}
+
+.desktopColumn {
+  margin-bottom: 10px;
+}
+
+.card {
+  margin-bottom: 16px;
+  &.withAd {
+    margin-bottom: 0; // Ad already inserts a bottom spacing
+  }
+
+  @include media-breakpoint-down('sm') {
+    &:last-of-type {
+      margin-bottom: 0; // Prevenets double spacing on bottom of widget for mobile
+    }
+  }
+
+  @include media-breakpoint-down('xxs') {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  @include media-breakpoint-up('sm') {
+    margin-bottom: 10px;
+  }
+}
+
+.adCardMobile {
+  margin: 16px 0;
+}
+
+.desktopColumn {
+  > div {
+    margin-bottom: 10px;
+  }
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.container {
+  .tablet,
+  .desktop {
+    display: none;
+  }
+
+  @include media-breakpoint-up('sm') {
+    .tablet {
+      display: flex;
+    }
+
+    .mobile,
+    .desktop {
+      display: none;
+    }
+  }
+
+  @include media-breakpoint-up('md') {
+    .desktop {
+      display: flex;
+    }
+
+    .mobile,
+    .tablet {
+      display: none;
+    }
+  }
+}

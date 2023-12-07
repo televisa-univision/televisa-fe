@@ -1,0 +1,15 @@
+.leftArrow {
+  button {
+    @include gradient-horizontal(fade-out($black, 0.3), fade-out($black, 1));
+  }
+
+  svg {
+    margin-left: 0;
+  }
+}
+
+.rightArrow {
+  button {
+    @include gradient-horizontal(fade-out($black, 1), fade-out($black, 0.3));
+  }
+}

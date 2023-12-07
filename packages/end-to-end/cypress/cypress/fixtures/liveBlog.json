@@ -1,0 +1,28 @@
+{
+  "uri": "/musica/k-love-live-wisin-carlos-rivera-christian-nodal-k-love-1075-los-angeles",
+  "ads": {
+    "mobile": {
+      "topAd": "prev_scp=client=mobile&pos=TOP&seq=M-320-1&vertical=entretenimiento&tag=musica%2Clocal&contenttype=liveblog&bkpt=320"
+    },
+    "desktop": {
+      "topAd": "prev_scp=client=desktop&pos=TOP&seq=D-F728-1&vertical=entretenimiento&tag=musica%2Clocal&contenttype=liveblog&bkpt=1024"
+    }
+  },
+  "selectors": {
+    "feed": "div[data-component-name='feed']",
+    "nextPage": "[data-component-name='pagination'] div:nth-child(4) button",
+    "opening": "div[data-component-name='opening']",
+    "pagination": "div[data-component-name='pagination']",
+    "topAd": ".uvs-ad-full-width:first"
+  },
+  "tracking": {
+    "dataLayer": {
+      "mobile": {
+        "adtag_value": "liveblog_entretenimiento/musica"
+      },
+      "desktop": {
+        "adtag_value": "liveblog_entretenimiento/musica"
+      }
+    }
+  }
+}

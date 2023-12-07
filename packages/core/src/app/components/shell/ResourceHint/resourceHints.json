@@ -1,0 +1,255 @@
+{
+  "preload" : [],
+  "prefetch": [],
+  "prerender": [],
+  "dns-prefetch": [
+    {
+      "href": "https://www.googletagservices.com"
+    },
+    {
+      "href": "https://securepubads.g.doubleclick.net"
+    },
+    {
+      "href": "https://cdn1.uvnimg.com"
+    },
+    {
+      "href": "https://cdn2.uvnimg.com"
+    },
+    {
+      "href": "https://cdn3.uvnimg.com"
+    },
+    {
+      "href": "https://cdn4.uvnimg.com"
+    },
+    {
+      "href": "https://cdn5.uvnimg.com"
+    },
+    {
+      "href": "https://cdn6.uvnimg.com"
+    },
+    {
+      "href": "https://cdn7.uvnimg.com"
+    },
+    {
+      "href": "https://st1.uvnimg.com"
+    },
+    {
+      "href": "https://tags.bluekai.com"
+    },
+    {
+      "href": "https://tags.tiqcdn.com"
+    },
+    {
+      "href": "//c.amazon-adsystem.com"
+    },
+    {
+      "href": "https://beacon.krxd.net"
+    },
+    {
+      "href": "https://0914.global.ssl.fastly.net"
+    },
+    {
+      "href": "https://www.lightboxcdn.com"
+    },
+    {
+      "href": "https://webapp.univision.com"
+    },
+    {
+      "href": "https://b.scorecardresearch.com"
+    },
+    {
+      "href": "https://ping.chartbeat.net"
+    },
+    {
+      "href": "https://cdn.krxd.net"
+    },
+    {
+      "href": "https://api.vmh.univision.com"
+    },
+    {
+      "href": "https://usprauth.univision.com"
+    },
+    {
+      "href": "https://usaplusauth.univision.com"
+    },
+    {
+      "href": "https://pubads.g.doubleclick.net"
+    },
+    {
+      "href": "https://stats.g.doubleclick.net"
+    },
+    {
+      "href": "https://ads.rubiconproject.com"
+    },
+    {
+      "href": "https://prebid-server.rubiconproject.com"
+    },
+    {
+      "href": "https://prebid-a.rubiconproject.com"
+    },
+    {
+      "href": "https://ib.adnxs.com"
+    },
+    {
+      "href": "//entitlements.jwplayer.com"
+    },
+    {
+      "href": "https://cdn.jwplayer.com"
+    },
+    {
+      "href": "https://content.jwplatform.com"
+    },
+    {
+      "href": "https://syndicator.univision.com"
+    },
+    {
+      "href": "https://static.chartbeat.com"
+    },
+    {
+      "href": "https://js.adsrvr.org"
+    },
+    {
+      "href": "https://insight.adsrvr.org"
+    },
+    {
+      "href": "https://www.googletagmanager.com"
+    },
+    {
+      "href": "https://g-univision.akamaized.net"
+    },
+    {
+      "href": "https://jwpltx.com"
+    },
+    {
+      "href": "//ssl.p.jwpcdn.com"
+    },
+    {
+      "href": "https://tkx.apis.anvato.net"
+    }
+  ],
+  "preconnect": [
+    {
+      "href": "https://www.googletagservices.com"
+    },
+    {
+      "href": "https://securepubads.g.doubleclick.net"
+    },
+    {
+      "href": "https://cdn1.uvnimg.com"
+    },
+    {
+      "href": "https://cdn2.uvnimg.com"
+    },
+    {
+      "href": "https://cdn3.uvnimg.com"
+    },
+    {
+      "href": "https://cdn4.uvnimg.com"
+    },
+    {
+      "href": "https://cdn5.uvnimg.com"
+    },
+    {
+      "href": "https://cdn6.uvnimg.com"
+    },
+    {
+      "href": "https://cdn7.uvnimg.com"
+    },
+    {
+      "href": "https://st1.uvnimg.com"
+    },
+    {
+      "href": "https://tags.bluekai.com"
+    },
+    {
+      "href": "https://tags.tiqcdn.com"
+    },
+    {
+      "href": "https://ads.yahoo.com"
+    },
+    {
+      "href": "//c.amazon-adsystem.com"
+    },
+    {
+      "href": "https://beacon.krxd.net"
+    },
+    {
+      "href": "https://www.lightboxcdn.com"
+    },
+    {
+      "href": "https://webapp.univision.com"
+    },
+    {
+      "href": "https://b.scorecardresearch.com"
+    },
+    {
+      "href": "https://ping.chartbeat.net"
+    },
+    {
+      "href": "https://cdn.krxd.net"
+    },
+    {
+      "href": "https://api.vmh.univision.com"
+    },
+    {
+      "href": "https://usprauth.univision.com"
+    },
+    {
+      "href": "https://usaplusauth.univision.com"
+    },
+    {
+      "href": "https://pubads.g.doubleclick.net"
+    },
+    {
+      "href": "https://stats.g.doubleclick.net"
+    },
+    {
+      "href": "https://ads.rubiconproject.com"
+    },
+    {
+      "href": "https://prebid-server.rubiconproject.com"
+    },
+    {
+      "href": "https://prebid-a.rubiconproject.com"
+    },
+    {
+      "href": "https://ib.adnxs.com"
+    },
+    {
+      "href": "//entitlements.jwplayer.com"
+    },
+    {
+      "href": "https://cdn.jwplayer.com"
+    },
+    {
+      "href": "https://content.jwplatform.com"
+    },
+    {
+      "href": "https://syndicator.univision.com"
+    },
+    {
+      "href": "https://static.chartbeat.com"
+    },
+    {
+      "href": "https://js.adsrvr.org"
+    },
+    {
+      "href": "https://insight.adsrvr.org"
+    },
+    {
+      "href": "https://www.googletagmanager.com"
+    },
+    {
+      "href": "https://g-univision.akamaized.net"
+    },
+    {
+      "href": "https://jwpltx.com"
+    },
+    {
+      "href": "//ssl.p.jwpcdn.com"
+    },
+    {
+      "href": "https://tkx.apis.anvato.net"
+    }
+  ]
+}

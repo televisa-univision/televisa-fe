@@ -1,0 +1,80 @@
+{
+  "default": {
+    "API_ENV": "uat2",
+    "APP_VERSION": "2",
+    "ASSETS_PREFIX": "https://webapp-static-dev.univision.com",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-dev.univision.com",
+    "CMS_API_URL": "https://uat2.x.univision.com",
+    "DEPLOY_ENV": "development",
+    "DD_FORWARDER": "arn:aws:lambda:us-east-1:127705864914:function:DatadogForwarder-common-dev",
+    "GRAPHQL_API_URL": "https://uat-graphql.dev-univision.com",
+    "SSO_IFRAME_URL": "https://sso-uat.webapp.univision.com",
+    "NODE_ENV": "production",
+    "PROXY_API_URL": "https://uat2.x.univision.com"
+  },
+  "dev": {
+    "API_ENV": "uat2",
+    "APP_VERSION": "2",
+    "ASSETS_PREFIX": "https://webapp-static-dev.univision.com",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-dev.univision.com",
+    "CMS_API_URL": "https://uat2.x.univision.com",
+    "DD_FORWARDER": "arn:aws:lambda:us-east-1:127705864914:function:DatadogForwarder-common-dev",
+    "DEPLOY_ENV": "development",
+    "GRAPHQL_API_URL": "https://uat-graphql.dev-univision.com",
+    "SSO_IFRAME_URL": "https://sso-uat.webapp.univision.com",
+    "NODE_ENV": "production",
+    "PROXY_API_URL": "https://int.webapp.univision.com"
+  },
+  "integration": {
+    "API_ENV": "uat2",
+    "APP_VERSION": "2",
+    "ASSETS_PREFIX": "https://webapp-static-dev.univision.com",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-dev.univision.com",
+    "CMS_API_URL": "https://uat2.x.univision.com",
+    "DEPLOY_ENV": "development",
+    "DD_FORWARDER": "arn:aws:lambda:us-east-1:127705864914:function:DatadogForwarder-common-dev",
+    "GRAPHQL_API_URL": "https://int-graphql.dev-univision.com",
+    "SSO_IFRAME_URL": "https://int.webapp.univision.com/sso-iframe",
+    "NODE_ENV": "production",
+    "PROXY_API_URL": "https://int.webapp.univision.com"
+  },
+  "uat": {
+    "API_ENV": "uat2",
+    "APP_VERSION": "2",
+    "ASSETS_PREFIX": "",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-prod.univision.com",
+    "CMS_API_URL": "https://uat2.x.univision.com",
+    "DD_FORWARDER": "arn:aws:lambda:us-east-1:626604290616:function:DatadogForwarder-common-prod",
+    "DEPLOY_ENV": "test",
+    "GRAPHQL_API_URL": "https://uat-graphql.dev-univision.com",
+    "SSO_IFRAME_URL": "https://sso-uat.webapp.univision.com",
+    "NODE_ENV": "production",
+    "PROXY_API_URL": "https://uat2.x.univision.com"
+  },
+  "perf": {
+    "API_ENV": "performance",
+    "APP_VERSION": "2",
+    "ASSETS_PREFIX": "https://webapp-static-dev.univision.com",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-dev.univision.com",
+    "CMS_API_URL": "https://syndicator.performance.univision.com",
+    "DD_FORWARDER": "arn:aws:lambda:us-east-1:127705864914:function:DatadogForwarder-common-dev",
+    "DEPLOY_ENV": "test",
+    "GRAPHQL_API_URL": "https://graphql.test-univision.com",
+    "SSO_IFRAME_URL": "https://sso-performance.webapp.univision.com",
+    "NODE_ENV": "production",
+    "PROXY_API_URL": "https://performance.univision.com"
+  },
+  "prod": {
+    "API_ENV": "prod",
+    "APP_VERSION": "2",
+    "ASSETS_PREFIX": "",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-prod.univision.com",
+    "CMS_API_URL": "https://syndicator.univision.com",
+    "DD_FORWARDER": "arn:aws:lambda:us-east-1:626604290616:function:DatadogForwarder-common-prod",
+    "DEPLOY_ENV": "production",
+    "GRAPHQL_API_URL": "https://graphql.univision.com",
+    "SSO_IFRAME_URL": "https://sso.univision.com",
+    "NODE_ENV": "production",
+    "PROXY_API_URL": "https://www.univision.com"
+  }
+}

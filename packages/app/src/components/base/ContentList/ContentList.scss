@@ -1,0 +1,7 @@
+.item {
+  &:first-child {
+      > div {
+          border-top: 0;
+      }
+  }
+}

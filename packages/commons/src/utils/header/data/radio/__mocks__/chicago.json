@@ -1,0 +1,2213 @@
+{
+  "type": "section",
+  "uid": "0000014d-009c-d6f3-a16d-aadf79a60000",
+  "uri": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+  "vertical": "Local Radio",
+  "parent": {
+    "uuid": "0000015d-b7b1-d99b-a97f-f7fd93a60000",
+    "uri": "https://www.univision.com/radio",
+    "name": "estaciones de radio",
+    "title": "Estaciones de Radio"
+  },
+  "title": "Amor 106.7 FM",
+  "description": "Máxima Variedad Musical",
+  "updateDate": "2019-07-04T17:03:43-04:00",
+  "publishDate": "2015-04-28T11:20:08-04:00",
+  "expirationDate": "3000-01-01T00:00:00-05:00",
+  "adSettings": {
+    "disable3rdPartyAds": false,
+    "disableAds": false,
+    "disableVideoAds": false,
+    "adTagValue": "section_local/radio/chicago/wppnfm/inicio",
+    "targeting": {
+      "vertical": "localradio",
+      "tag": ["local", "romantico", "ranchera", "balada", "adultocontemporaneo"]
+    },
+    "contentSpecificSettings": {}
+  },
+  "tracking": {
+    "analytics": {
+      "data": {
+        "adtag_value": "section_local/radio/chicago/wppnfm/inicio",
+        "all_tags": [
+          "local",
+          "romantico",
+          "ranchera",
+          "balada",
+          "adulto contemporaneo"
+        ],
+        "brand": "amor 106.7 fm",
+        "brand_market": "chicago",
+        "brand_station_call_letters": "wppn-fm",
+        "brand_station_name": "amor 106.7 fm",
+        "brand_station_type": "radiostation",
+        "canonical_url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+        "content_created_date": "2015-04-28",
+        "content_id": "0000014d-009c-d6f3-a16d-aadf79a60000",
+        "content_modified_date": "2019-07-04",
+        "content_type": "radiostation",
+        "content_vertical": "localradio",
+        "environment_name": "prod",
+        "nielsenVcid": "c05",
+        "permalink": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+        "platform": "website",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": ["estaciones de radio", "amor 106 7 fm"],
+        "section_level1": "estaciones de radio",
+        "section_level2": "amor 106 7 fm",
+        "title": "amor 106.7 fm",
+        "uci_division": "local:chicago:wppn-fm"
+      }
+    },
+    "nielsen": {
+      "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+      "vcid": "c05",
+      "environment": "prod",
+      "primaryTopic": "Estaciones de Radio"
+    }
+  },
+  "analyticsData": {
+    "apps": {
+      "common": {
+        "adtag_value": "section_local/radio/chicago/wppnfm/inicio",
+        "all_tags": [
+          "local",
+          "romantico",
+          "ranchera",
+          "balada",
+          "adulto contemporaneo"
+        ],
+        "brand_station_call_letters": "wppn-fm",
+        "content_created_date": "2015-04-28",
+        "content_id": "0000014d-009c-d6f3-a16d-aadf79a60000",
+        "content_type": "radiostation",
+        "section": "amor 106 7 fm",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": ["estaciones de radio", "amor 106 7 fm"],
+        "section_level1": "estaciones de radio",
+        "section_level2": "amor 106 7 fm",
+        "title": "amor 106.7 fm"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014d-009c-d6f3-a16d-aadf79a60000",
+          "section": "radiostation",
+          "type": "static",
+          "vcid": "c05"
+        },
+        "contentSpecific": {}
+      }
+    },
+    "web": {
+      "common": {
+        "adtag_value": "section_local/radio/chicago/wppnfm/inicio",
+        "all_tags": [
+          "local",
+          "romantico",
+          "ranchera",
+          "balada",
+          "adulto contemporaneo"
+        ],
+        "brand_market": "chicago",
+        "brand_station_call_letters": "wppn-fm",
+        "brand_station_name": "amor 106.7 fm",
+        "brand_station_type": "radiostation",
+        "content_created_date": "2015-04-28",
+        "content_id": "0000014d-009c-d6f3-a16d-aadf79a60000",
+        "content_modified_date": "2019-07-04",
+        "content_type": "radiostation",
+        "content_vertical": "localradio",
+        "permalink": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+        "platform": "website",
+        "section": "amor 106 7 fm",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": ["estaciones de radio", "amor 106 7 fm"],
+        "section_level1": "estaciones de radio",
+        "section_level2": "amor 106 7 fm",
+        "seo_optimized ": false,
+        "title": "amor 106.7 fm",
+        "uci_division": "local:chicago:wppn-fm"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014d-009c-d6f3-a16d-aadf79a60000",
+          "section": "radiostation",
+          "type": "static",
+          "vcid": "c05"
+        },
+        "contentSpecific": {}
+      }
+    }
+  },
+  "metaTagData": {
+    "openGraph": {
+      "type": null,
+      "title": "Amor 106.7 FM",
+      "description": "Máxima Variedad Musical",
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/a854113/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+      "url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+      "siteName": "Univision"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Amor 106.7 FM",
+      "description": "Máxima Variedad Musical",
+      "creator": null,
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/a854113/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg"
+    },
+    "facebook": { "pages": null }
+  },
+  "seo": {
+    "title": "Amor 106.7 FM | Univision",
+    "description": "Máxima Variedad Musical | Univision",
+    "canonicalUrl": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+    "keywords": null,
+    "robots": [],
+    "news_keywords": []
+  },
+  "hierarchy": [
+    {
+      "uuid": "0000015d-b7b1-d99b-a97f-f7fd93a60000",
+      "uri": "https://www.univision.com/radio",
+      "name": "estaciones de radio",
+      "title": "Estaciones de Radio"
+    },
+    {
+      "uuid": "0000014d-009c-d6f3-a16d-aadf79a60000",
+      "uri": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+      "name": "amor 106.7 fm",
+      "title": "Amor 106.7 FM"
+    }
+  ],
+  "externalWidgets": null,
+  "widgets": [
+    {
+      "settings": {
+        "type": "allbannermovingbanner",
+        "uid": "00000167-eb85-dddd-afff-ff85965a000c",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "00000167-eb85-dddd-afff-ff85965a000c",
+      "type": "AllBannerMovingBanner",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allvideoplaylistvideo",
+        "uid": "00000167-eb85-dddd-afff-ff85965a002a",
+        "otherTabs": [null],
+        "mainTabLabel": null,
+        "title": "Entretenimiento",
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "00000167-eb85-dddd-afff-ff85965a002a",
+      "type": "AllVideoPlaylistVideo",
+      "contents": [
+        {
+          "type": "video",
+          "uid": "0000016c-3f20-d399-a57c-ffa06f340000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/en-la-arena-con-tacones-y-bailando-conga-thalia-y-gloria-estefan-arman-su-propia-fiesta-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "En la arena con tacones y bailando conga, Thalía y Gloria Estefan arman su propia fiesta",
+          "description": "La intérprete de ‘No me acuerdo’ y su esposo compartieron grandes momentos divirtiéndose al lado sus amigos Gloria y Emilio Estefan en una elegante fiesta en East Hampton el pasado fin de semana.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-3f20-d86a-afff-ff6e9d0b0000",
+            "title": "127c6683b0074c19838c1bec26010c17",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/2f/c0/af6038b24111bb7de16540e6a2dd/127c6683b0074c19838c1bec26010c17",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/b04bfb5/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/ab68c35/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/52b9f95/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/69d8b32/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F1500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/41c9582/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F1500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/ccb6f9f/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/62a5d5b/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F1500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/be295a3/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fc0%2Faf6038b24111bb7de16540e6a2dd%2Fresizes%2F500%2F127c6683b0074c19838c1bec26010c17",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-29T15:09:56-04:00",
+          "publishDate": "2019-07-29T14:43:00-04:00",
+          "expirationDate": "2029-07-28T14:43:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3718213",
+          "durationString": "1:23",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/CJLN101Hgzb",
+                "isFeedDialog": false,
+                "title": "En la arena con tacones y bailando conga, Thalía y Gloria Estefan arman su propia fiesta",
+                "description": "La intérprete de ‘No me acuerdo’ y su esposo compartieron grandes momentos divirtiéndose al lado sus amigos Gloria y Emilio Estefan en una elegante fiesta en East Hampton el pasado fin de semana.",
+                "imageUrl": "https://st1.uvnimg.com/2f/c0/af6038b24111bb7de16540e6a2dd/127c6683b0074c19838c1bec26010c17",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/CJLN101Hgzb",
+                "title": "En la arena con tacones y bailando conga, Thalía y Gloria Estefan arman su propia fiesta",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/CJLN101Hgzb",
+                "message": "En la arena con tacones y bailando conga, Thalía y Gloria Estefan arman su propia fiesta"
+              },
+              "mail": {
+                "subject": "En la arena con tacones y bailando conga, Thalía y Gloria Estefan arman su propia fiesta",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn la arena con tacones y bailando conga, Thalía y Gloria Estefan arman su propia fiesta\n\nEncuéntralo en este enlace:http://uni.vi/CJLN101Hgzb\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-3ee9-d5fb-a77d-7ffde9c80000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/ana-brenda-recuerda-los-sacrificios-que-ha-hecho-por-su-carrera-al-ver-un-video-de-cuando-tenia-14-anos-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "Ana Brenda recuerda los sacrificios que ha hecho por su carrera al ver un video de cuando tenía 14 años",
+          "description": "Ana Brenda publicó un video cantando cuando tenía 14 años, en las imágenes la actriz se encuentra interpretando una canción de Shakira. Su mamá reaccionó a esta publicación y felicitó a su hija.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-3eea-d399-a57c-feea69780000",
+            "title": "2dabb96613ac4bd5a4ba4733c75572e0",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/83/2c/829b9d6c4550a6bd59ee53900d74/2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/733e3d9/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/ffe9699/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/f195499/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/56b60d7/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F1500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/cae884b/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F1500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/b77c8ac/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/4664aed/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F1500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/e9ecd43/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2F2c%2F829b9d6c4550a6bd59ee53900d74%2Fresizes%2F500%2F2dabb96613ac4bd5a4ba4733c75572e0",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-29T14:11:27-04:00",
+          "publishDate": "2019-07-29T13:48:00-04:00",
+          "expirationDate": "2029-07-28T13:48:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3718179",
+          "durationString": "1:36",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/FG4s101Hgq0",
+                "isFeedDialog": false,
+                "title": "Ana Brenda recuerda los sacrificios que ha hecho por su carrera al ver un video de cuando tenía 14 años",
+                "description": "Ana Brenda publicó un video cantando cuando tenía 14 años, en las imágenes la actriz se encuentra interpretando una canción de Shakira. Su mamá reaccionó a esta publicación y felicitó a su hija.",
+                "imageUrl": "https://st1.uvnimg.com/83/2c/829b9d6c4550a6bd59ee53900d74/2dabb96613ac4bd5a4ba4733c75572e0",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/FG4s101Hgq0",
+                "title": "Ana Brenda recuerda los sacrificios que ha hecho por su carrera al ver un video de cuando tenía 14 años",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/FG4s101Hgq0",
+                "message": "Ana Brenda recuerda los sacrificios que ha hecho por su carrera al ver un video de cuando tenía 14 años"
+              },
+              "mail": {
+                "subject": "Ana Brenda recuerda los sacrificios que ha hecho por su carrera al ver un video de cuando tenía 14 años",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAna Brenda recuerda los sacrificios que ha hecho por su carrera al ver un video de cuando tenía 14 años\n\nEncuéntralo en este enlace:http://uni.vi/FG4s101Hgq0\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-3ede-d5fb-a77d-7fdf03230000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/noticias/edicion-digital/meghan-markle-destaca-el-papel-de-la-mujer-en-la-sociedad-en-su-mas-reciente-trabajo-como-editora-de-la-revista-vogue-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000157-0fd4-d0c4-a977-efd79c140000",
+            "uri": "https://www.univision.com/noticias/edicion-digital",
+            "name": "edicion digital ",
+            "title": "Edicion Digital "
+          },
+          "title": "Meghan Markle destaca el papel de la mujer en la sociedad en su más reciente trabajo como editora de la revista Vogue",
+          "description": "La esposa del príncipe Harry, fue la editora invitada de septiembre de la icónica revista de moda en el Reino Unido. El número, titulado \"Fuerzas de cambio\", destaca a 15 mujeres \"unidas por su valentía rompiendo barreras\", incluyendo a la actriz mexicana Salma Hayek.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-3ede-d574-a77e-7ffe11090000",
+            "title": "b326ecbdca81449aa44c70724731ba82",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/18/56/ec72df134ba7bc80c1965765ed55/b326ecbdca81449aa44c70724731ba82",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/6b831f4/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/4e058e4/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/410da30/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/94740e4/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F1500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/52ae707/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F1500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/3993023/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/7f75023/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F1500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/6c2e205/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F18%2F56%2Fec72df134ba7bc80c1965765ed55%2Fresizes%2F500%2Fb326ecbdca81449aa44c70724731ba82",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-29T13:56:14-04:00",
+          "publishDate": "2019-07-29T13:30:00-04:00",
+          "expirationDate": "2029-07-28T13:30:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3718167",
+          "durationString": "1:58",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/ztpx101HgnE",
+                "isFeedDialog": false,
+                "title": "Meghan Markle destaca el papel de la mujer en la sociedad en su más reciente trabajo como editora de la revista Vogue",
+                "description": "La esposa del príncipe Harry, fue la editora invitada de septiembre de la icónica revista de moda en el Reino Unido. El número, titulado \"Fuerzas de cambio\", destaca a 15 mujeres \"unidas por su valentía rompiendo barreras\", incluyendo a la actriz mexicana Salma Hayek.",
+                "imageUrl": "https://st1.uvnimg.com/18/56/ec72df134ba7bc80c1965765ed55/b326ecbdca81449aa44c70724731ba82",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/ztpx101HgnE",
+                "title": "Meghan Markle destaca el papel de la mujer en la sociedad en su más reciente trabajo como editora de la revista Vogue",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/ztpx101HgnE",
+                "message": "Meghan Markle destaca el papel de la mujer en la sociedad en su más reciente trabajo como editora de la revista Vogue"
+              },
+              "mail": {
+                "subject": "Meghan Markle destaca el papel de la mujer en la sociedad en su más reciente trabajo como editora de la revista Vogue",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMeghan Markle destaca el papel de la mujer en la sociedad en su más reciente trabajo como editora de la revista Vogue\n\nEncuéntralo en este enlace:http://uni.vi/ztpx101HgnE\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Edicion Digital ",
+            "link": "https://www.univision.com/noticias/edicion-digital"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-3ed2-d86a-afff-fffee31c0000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/danilo-carrera-ya-pasea-como-en-familia-con-michelle-renaud-y-su-hijo-en-bicicleta-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "Danilo Carrera ya pasea como en familia con Michelle Renaud y su hijo en bicicleta",
+          "description": "A casi dos meses de haber confirmado su romance, Danilo Carrera y Michelle Renaud ya pasean en familia junto con el pequeño Marcelo, hijo de la actriz. El domingo los tres recorrieron la Ciudad de México en bicicleta.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-3ed2-d86a-afff-fffee6870000",
+            "title": "680764a1d3b84b23af591a1c6de3c87d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/03/01/ce310e444fceaa0027084711dd8a/680764a1d3b84b23af591a1c6de3c87d",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/ea571dd/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/7bf052b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/674e410/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/2c08e10/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F1500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/9de475e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F1500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/09a5bc3/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/cc3f469/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F1500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/d7c810c/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F03%2F01%2Fce310e444fceaa0027084711dd8a%2Fresizes%2F500%2F680764a1d3b84b23af591a1c6de3c87d",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-29T13:47:44-04:00",
+          "publishDate": "2019-07-29T12:52:00-04:00",
+          "expirationDate": "2029-07-28T12:52:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3718150",
+          "durationString": "0:50",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/rVqy101HgkB",
+                "isFeedDialog": false,
+                "title": "Danilo Carrera ya pasea como en familia con Michelle Renaud y su hijo en bicicleta",
+                "description": "A casi dos meses de haber confirmado su romance, Danilo Carrera y Michelle Renaud ya pasean en familia junto con el pequeño Marcelo, hijo de la actriz. El domingo los tres recorrieron la Ciudad de México en bicicleta.",
+                "imageUrl": "https://st1.uvnimg.com/03/01/ce310e444fceaa0027084711dd8a/680764a1d3b84b23af591a1c6de3c87d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/rVqy101HgkB",
+                "title": "Danilo Carrera ya pasea como en familia con Michelle Renaud y su hijo en bicicleta",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/rVqy101HgkB",
+                "message": "Danilo Carrera ya pasea como en familia con Michelle Renaud y su hijo en bicicleta"
+              },
+              "mail": {
+                "subject": "Danilo Carrera ya pasea como en familia con Michelle Renaud y su hijo en bicicleta",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDanilo Carrera ya pasea como en familia con Michelle Renaud y su hijo en bicicleta\n\nEncuéntralo en este enlace:http://uni.vi/rVqy101HgkB\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-3ed5-d399-a57c-fed5f0fa0000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/angela-aguilar-admite-que-se-sintio-muy-vulnerable-cuando-canto-shallow-de-lady-gaga-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "Ángela Aguilar admite que se sintió muy vulnerable cuando cantó ‘Shallow’ de Lady Gaga",
+          "description": "La hija de Pepe Aguilar compartió en su canal de Youtube la experiencia de haber hecho una versión de 'Shallow', tema con el que Lady Gaga obtuvo el premio Oscar a 'Mejor canción original'. Ángela dijo que se sintió vulnerable al grabar un tema en inglés, idioma que domina, pero en el que no acostumbra a cantar. Si quieren ver la experiencia completa de la artista, \n<a href=\"https://www.youtube.com/watch?v=RQY5Cztp_iE\" target=\"_blank\">den clic aquí</a>.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-3ed5-d399-a57c-fed5f3fe0000",
+            "title": "5e795e3195894010b44b5f8a63e99952",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/c9/b5/45a361a5439fa2c64aa333a892a7/5e795e3195894010b44b5f8a63e99952",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/1d14861/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/efe3efc/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/ac5745f/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/d4afa17/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F1500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/9acd25b/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F1500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/4620123/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/580c9bd/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F1500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/a9b77f7/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fb5%2F45a361a5439fa2c64aa333a892a7%2Fresizes%2F500%2F5e795e3195894010b44b5f8a63e99952",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-29T13:58:06-04:00",
+          "publishDate": "2019-07-29T12:41:00-04:00",
+          "expirationDate": "2029-07-28T12:41:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3718134",
+          "durationString": "1:04",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/v0RR101HgkZ",
+                "isFeedDialog": false,
+                "title": "Ángela Aguilar admite que se sintió muy vulnerable cuando cantó ‘Shallow’ de Lady Gaga",
+                "description": "La hija de Pepe Aguilar compartió en su canal de Youtube la experiencia de haber hecho una versión de 'Shallow', tema con el que Lady Gaga obtuvo el premio Oscar a 'Mejor canción original'. Ángela dijo que se sintió vulnerable al grabar un tema en inglés, idioma que domina, pero en el que no acostumbra a cantar. Si quieren ver la experiencia completa de la artista, den clic aquí.",
+                "imageUrl": "https://st1.uvnimg.com/c9/b5/45a361a5439fa2c64aa333a892a7/5e795e3195894010b44b5f8a63e99952",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/v0RR101HgkZ",
+                "title": "Ángela Aguilar admite que se sintió muy vulnerable cuando cantó ‘Shallow’ de Lady Gaga",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/v0RR101HgkZ",
+                "message": "Ángela Aguilar admite que se sintió muy vulnerable cuando cantó ‘Shallow’ de Lady Gaga"
+              },
+              "mail": {
+                "subject": "Ángela Aguilar admite que se sintió muy vulnerable cuando cantó ‘Shallow’ de Lady Gaga",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nÁngela Aguilar admite que se sintió muy vulnerable cuando cantó ‘Shallow’ de Lady Gaga\n\nEncuéntralo en este enlace:http://uni.vi/v0RR101HgkZ\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-3e8c-d04e-a36c-3eced1590000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/geraldine-bazan-se-reencuentra-en-miami-con-un-galan-de-mira-quien-baila-que-no-es-santiago-ramundo-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "Geraldine Bazán se reencuentra en Miami con un galán de Mira Quién Baila (que no es Santiago Ramundo)",
+          "description": "En 2018, Santiago Ramundo participó en Mira Quién Baila, al igual que lo hizo hace varios años Geraldine Bazán. Ahora que volvió de Europa, la actriz se reunió en Miami, pero no con su pretendiente, sino con otro galán que participó en el mismo año que ella en el concurso.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-3e8d-d86a-afff-ffef28b80000",
+            "title": "368bd9281ae84c8fb41e99b06ea3af09",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/76/f3/4faa382144f8a4edf10588c003c0/368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/b41bfef/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/3417c3d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/0c47469/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/82cd77d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F1500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/ae925d0/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F1500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/edf27a5/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/c1d1441/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F1500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/6955753/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F76%2Ff3%2F4faa382144f8a4edf10588c003c0%2Fresizes%2F500%2F368bd9281ae84c8fb41e99b06ea3af09",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-29T12:27:43-04:00",
+          "publishDate": "2019-07-29T11:38:00-04:00",
+          "expirationDate": "2029-07-28T11:38:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3718096",
+          "durationString": "1:53",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/CS5p101Hg2y",
+                "isFeedDialog": false,
+                "title": "Geraldine Bazán se reencuentra en Miami con un galán de Mira Quién Baila (que no es Santiago Ramundo)",
+                "description": "En 2018, Santiago Ramundo participó en Mira Quién Baila, al igual que lo hizo hace varios años Geraldine Bazán. Ahora que volvió de Europa, la actriz se reunió en Miami, pero no con su pretendiente, sino con otro galán que participó en el mismo año que ella en el concurso.",
+                "imageUrl": "https://st1.uvnimg.com/76/f3/4faa382144f8a4edf10588c003c0/368bd9281ae84c8fb41e99b06ea3af09",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/CS5p101Hg2y",
+                "title": "Geraldine Bazán se reencuentra en Miami con un galán de Mira Quién Baila (que no es Santiago Ramundo)",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/CS5p101Hg2y",
+                "message": "Geraldine Bazán se reencuentra en Miami con un galán de Mira Quién Baila (que no es Santiago Ramundo)"
+              },
+              "mail": {
+                "subject": "Geraldine Bazán se reencuentra en Miami con un galán de Mira Quién Baila (que no es Santiago Ramundo)",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nGeraldine Bazán se reencuentra en Miami con un galán de Mira Quién Baila (que no es Santiago Ramundo)\n\nEncuéntralo en este enlace:http://uni.vi/CS5p101Hg2y\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-3a79-d04e-a36c-3a7fb8fb0000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/chiquis-rivera-dispara-contra-quienes-piensan-que-cambio-y-ahora-es-mala-y-ruda-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "Chiquis Rivera dispara contra quienes piensan que cambió y ahora es “mala” y “ruda”",
+          "description": "Temprano este domingo, tras leer la meditación del día, la recién casada artista contó que algunas personas insisten en decir que ella ha cambiado. Y aunque admitió que sí, que ya no es la misma, la esposa de Lorenzo Méndez destacó que todo ha sido para bien.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-3a79-d5fb-a77d-7b7dedc70000",
+            "title": "e5a8012aad274ea9a356870ae7bd0840",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/71/37/6b02e10644d79362561fed862b0d/e5a8012aad274ea9a356870ae7bd0840",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/d25930e/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/23fef81/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/6bedb12/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/dcc9cb4/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F1500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/ac494a8/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F1500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/2796b31/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/92e5f04/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F1500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/8cf3e2e/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F37%2F6b02e10644d79362561fed862b0d%2Fresizes%2F500%2Fe5a8012aad274ea9a356870ae7bd0840",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-28T17:27:06-04:00",
+          "publishDate": "2019-07-28T16:14:00-04:00",
+          "expirationDate": "2029-07-27T16:14:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3717876",
+          "durationString": "1:16",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/SLW8101HcDB",
+                "isFeedDialog": false,
+                "title": "Chiquis Rivera dispara contra quienes piensan que cambió y ahora es “mala” y “ruda”",
+                "description": "Temprano este domingo, tras leer la meditación del día, la recién casada artista contó que algunas personas insisten en decir que ella ha cambiado. Y aunque admitió que sí, que ya no es la misma, la esposa de Lorenzo Méndez destacó que todo ha sido para bien.",
+                "imageUrl": "https://st1.uvnimg.com/71/37/6b02e10644d79362561fed862b0d/e5a8012aad274ea9a356870ae7bd0840",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/SLW8101HcDB",
+                "title": "Chiquis Rivera dispara contra quienes piensan que cambió y ahora es “mala” y “ruda”",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/SLW8101HcDB",
+                "message": "Chiquis Rivera dispara contra quienes piensan que cambió y ahora es “mala” y “ruda”"
+              },
+              "mail": {
+                "subject": "Chiquis Rivera dispara contra quienes piensan que cambió y ahora es “mala” y “ruda”",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nChiquis Rivera dispara contra quienes piensan que cambió y ahora es “mala” y “ruda”\n\nEncuéntralo en este enlace:http://uni.vi/SLW8101HcDB\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-396b-d04e-a36c-396f49e00000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/ver-para-creer-sebastian-rulli-evidencio-una-grave-falla-de-seguridad-en-el-aeropuerto-de-mexico-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "Ver para creer: Sebastián Rulli evidenció una grave falla de seguridad en el aeropuerto de México",
+          "description": "El actor argentino, de 44 años, se disponía a viajar de la Ciudad de México a Veracruz, pero momentos antes de abordar el avión se dio cuenta de que su boleto tenía un error mayúsculo y aún así logró pasar por todos los filtros de seguridad en el aeropuerto internacional Benito Juárez.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-396b-d86a-afff-ff6f6fac0000",
+            "title": "80eb974604c54af3a338d4a889d8a50c",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/86/52/df61f1a741b6a1d4b0bf60ea964a/80eb974604c54af3a338d4a889d8a50c",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/74b3c20/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/bc55e1b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/79cf8a1/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/7c398af/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F1500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/eba1b13/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F1500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/f205a56/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/8b44563/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F1500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/1ad2d11/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F52%2Fdf61f1a741b6a1d4b0bf60ea964a%2Fresizes%2F500%2F80eb974604c54af3a338d4a889d8a50c",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-28T12:34:34-04:00",
+          "publishDate": "2019-07-28T12:04:00-04:00",
+          "expirationDate": "2029-07-27T12:04:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3717831",
+          "durationString": "1:09",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/vSG1101Hcan",
+                "isFeedDialog": false,
+                "title": "Ver para creer: Sebastián Rulli evidenció una grave falla de seguridad en el aeropuerto de México",
+                "description": "El actor argentino, de 44 años, se disponía a viajar de la Ciudad de México a Veracruz, pero momentos antes de abordar el avión se dio cuenta de que su boleto tenía un error mayúsculo y aún así logró pasar por todos los filtros de seguridad en el aeropuerto internacional Benito Juárez.",
+                "imageUrl": "https://st1.uvnimg.com/86/52/df61f1a741b6a1d4b0bf60ea964a/80eb974604c54af3a338d4a889d8a50c",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/vSG1101Hcan",
+                "title": "Ver para creer: Sebastián Rulli evidenció una grave falla de seguridad en el aeropuerto de México",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/vSG1101Hcan",
+                "message": "Ver para creer: Sebastián Rulli evidenció una grave falla de seguridad en el aeropuerto de México"
+              },
+              "mail": {
+                "subject": "Ver para creer: Sebastián Rulli evidenció una grave falla de seguridad en el aeropuerto de México",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nVer para creer: Sebastián Rulli evidenció una grave falla de seguridad en el aeropuerto de México\n\nEncuéntralo en este enlace:http://uni.vi/vSG1101Hcan\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016c-347f-d574-a77e-7f7f4af50000",
+          "uri": "https://www.univision.com/radio/chicago-wppn-fm/famosos/no-todo-es-drama-en-la-vida-de-frida-sofia-le-dio-una-divertida-catedra-de-baile-a-andrea-escalona-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-4216-dd50-a166-e73f34130000",
+            "uri": "https://www.univision.com/famosos",
+            "name": "famosos",
+            "title": "Famosos"
+          },
+          "title": "No todo es drama en la vida de Frida Sofía: le dio una divertida cátedra de baile a Andrea Escalona",
+          "description": "Frida Sofía fue entrevistada por Andrea Escalona en Miami, y la emergente estrella de música urbana le enseñó cómo mover la cadera. La conductora del programa Hoy lo hizo tan bien, que su orgullosa maestra le aplaudió.",
+          "image": {
+            "type": "image",
+            "uid": "0000016c-347f-d5fb-a77d-7d7f526e0000",
+            "title": "50134831ffc543c0b1eab02889bc6d5f",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/02/fc/80d7036342a0a7a9d87cd6368beb/50134831ffc543c0b1eab02889bc6d5f",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/5615268/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/74bc63d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/61b9462/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/590c353/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F1500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/fd5fc0e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F1500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/f8bc1ee/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/08d92dd/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F1500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/bfe7d3e/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2Ffc%2F80d7036342a0a7a9d87cd6368beb%2Fresizes%2F500%2F50134831ffc543c0b1eab02889bc6d5f",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-27T13:35:59-04:00",
+          "publishDate": "2019-07-27T13:11:00-04:00",
+          "expirationDate": "2029-07-26T13:11:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3717617",
+          "durationString": "1:09",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/SEfw101H8st",
+                "isFeedDialog": false,
+                "title": "No todo es drama en la vida de Frida Sofía: le dio una divertida cátedra de baile a Andrea Escalona",
+                "description": "Frida Sofía fue entrevistada por Andrea Escalona en Miami, y la emergente estrella de música urbana le enseñó cómo mover la cadera. La conductora del programa Hoy lo hizo tan bien, que su orgullosa maestra le aplaudió.",
+                "imageUrl": "https://st1.uvnimg.com/02/fc/80d7036342a0a7a9d87cd6368beb/50134831ffc543c0b1eab02889bc6d5f",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/SEfw101H8st",
+                "title": "No todo es drama en la vida de Frida Sofía: le dio una divertida cátedra de baile a Andrea Escalona",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/SEfw101H8st",
+                "message": "No todo es drama en la vida de Frida Sofía: le dio una divertida cátedra de baile a Andrea Escalona"
+              },
+              "mail": {
+                "subject": "No todo es drama en la vida de Frida Sofía: le dio una divertida cátedra de baile a Andrea Escalona",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNo todo es drama en la vida de Frida Sofía: le dio una divertida cátedra de baile a Andrea Escalona\n\nEncuéntralo en este enlace:http://uni.vi/SEfw101H8st\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Famosos",
+            "link": "https://www.univision.com/famosos"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "radioSchedule": [
+          { "program": "Mau Mauricio", "time-slot": "6 AM - 10 AM" },
+          { "program": "Vicky Aguilera", "time-slot": "10 AM - 3 PM" },
+          { "program": "La Chula y La Bestia", "time-slot": "3 PM -7 PM" },
+          {
+            "program": "Por El Placer de Vivir con el Dr. César Lozano",
+            "time-slot": "7 PM - 8 PM"
+          },
+          { "program": "Música con buen gusto", "time-slot": "8 PM - 12 AM" }
+        ],
+        "title": "Programación",
+        "titleLink": null,
+        "type": "radiobannerstationschedule",
+        "uid": "00000167-eb85-dddd-afff-ff85965a003a",
+        "lazyLoaded": false
+      },
+      "id": "00000167-eb85-dddd-afff-ff85965a003a",
+      "type": "RadioBannerStationSchedule",
+      "contents": []
+    }
+  ],
+  "source": "Univision Radio",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+        "isFeedDialog": false,
+        "title": "Amor 106.7 FM",
+        "description": "Máxima Variedad Musical",
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+        "title": "Amor 106.7 FM",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+        "message": "Amor 106.7 FM"
+      },
+      "mail": {
+        "subject": "Amor 106.7 FM",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmor 106.7 FM\n\nEncuéntralo en este enlace:https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "secondaryTags": [
+    { "name": "Local", "link": "https://www.univision.com/temas/local" },
+    {
+      "name": "Romántico",
+      "link": "https://www.univision.com/temas/romantico"
+    },
+    {
+      "name": "Ranchera",
+      "link": "https://www.univision.com/temas/ranchera"
+    },
+    { "name": "Balada", "link": "https://www.univision.com/temas/balada" },
+    {
+      "name": "Adulto Contemporáneo",
+      "link": "https://www.univision.com/temas/adulto-contemporaneo"
+    }
+  ],
+  "sectionType": "radiostation",
+  "socialNetworks": [
+    {
+      "text": "Chicago Amor 106.7 Twitter",
+      "name": "Twitter",
+      "url": "https://twitter.com/amor1067",
+      "target": "_blank"
+    },
+    {
+      "text": "Chicago Amor 106.7 Instagram",
+      "name": "Instagram",
+      "url": "https://instagram.com/amor1067/",
+      "target": "_blank"
+    },
+    {
+      "text": "Chicago Amor 106.7 Facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/amor1067",
+      "target": "_blank"
+    }
+  ],
+  "jwRecommendationChannel": "usbn2Hem",
+  "dynamicPlaylist": false,
+  "radioStation": {
+    "type": "radiostation",
+    "uid": "0000014d-009c-d6f3-a16d-aadf79a60000",
+    "uri": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+    "vertical": null,
+    "parent": null,
+    "title": "Amor 106.7 FM",
+    "description": "Máxima Variedad Musical",
+    "image": {
+      "type": "image",
+      "uid": "00000155-50a1-de54-a9ff-f9ad15a50000",
+      "title": "LOGO EMISORAS CHICAGO",
+      "caption": "LOGO EMISORAS CHICAGO",
+      "credit": "LOGO EMISORAS CHICAGO",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/b1/86/725411cf4c2baf4ad5105ced8bdd/2.jpg",
+          "width": 298,
+          "height": 168
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/72925af/2147483647/crop/294x165%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/d64b391/2147483647/crop/296x168%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/bba65b3/2147483647/crop/298x167%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/05b9a79/2147483647/crop/294x165%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/8148455/2147483647/crop/294x165%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-med": {
+          "href": "https://st1.uvnimg.com/dims4/default/3d501aa/2147483647/crop/294x165%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9-extended": {
+          "href": "https://st1.uvnimg.com/dims4/default/74e75a8/2147483647/crop/294x165%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-person-profile": {
+          "href": "https://st1.uvnimg.com/dims4/default/79429e3/2147483647/crop/168x168%2B55%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb1%2F86%2F725411cf4c2baf4ad5105ced8bdd%2F2.jpg",
+          "width": 182,
+          "height": 182
+        }
+      }
+    },
+    "authors": [],
+    "updateDate": "2019-07-04T17:03:43-04:00",
+    "publishDate": "2015-04-28T11:20:08-04:00",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "frequency": 106.7,
+    "band": "FM",
+    "call": "WPPN-FM",
+    "nowPlayingId": 2871,
+    "logo": {
+      "type": "image",
+      "uid": "0000014d-2b00-d9f3-af5d-aff961c20000",
+      "title": "106.7_Chicago logo",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/1d/1e/e8599f7a4d97a97c03b8feb154b7/chicago-amor-106.7@2x.png",
+          "width": 393,
+          "height": 223
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/c313781/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/d8dc46e/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/f36a9d6/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/af463ca/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/c1fe8df/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-med": {
+          "href": "https://st1.uvnimg.com/dims4/default/521d407/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 400,
+          "height": 225
+        },
+        "16x9-extended": {
+          "href": "https://st1.uvnimg.com/dims4/default/1bcf54e/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-person-profile": {
+          "href": "https://st1.uvnimg.com/dims4/default/e1dd12b/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1d%2F1e%2Fe8599f7a4d97a97c03b8feb154b7%2Fchicago-amor-106.7%402x.png",
+          "width": 182,
+          "height": 182
+        }
+      }
+    },
+    "alternativeLogo": {
+      "type": "image",
+      "uid": "0000015d-ec55-dfe2-a1fd-fe5d95c20000",
+      "title": "Amor 106.7 White",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/cc/7f/643cc3de432e930616391f5f4b34/amor-106.7FM.svg",
+          "width": 0,
+          "height": 0
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/b4b118a/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/dbd9abf/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/0735625/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/9c93720/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/4c74cec/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-med": {
+          "href": "https://st1.uvnimg.com/dims4/default/35e7e4b/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9-extended": {
+          "href": "https://st1.uvnimg.com/dims4/default/df3019a/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-person-profile": {
+          "href": "https://st1.uvnimg.com/dims4/default/00b59ad/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcc%2F7f%2F643cc3de432e930616391f5f4b34%2Famor-106.7FM.svg",
+          "width": 182,
+          "height": 182
+        }
+      }
+    },
+    "abacast": {
+      "id": 2298,
+      "demoId": 278,
+      "aacStreamiOS": "https://live.wostreaming.net/playlist/univision-wppnfmaac-imc1.m3u?source=UforiaiOS",
+      "aacStreamAndroid": "https://live.wostreaming.net/playlist/univision-wppnfmaac-imc1.m3u?source=UforiaAndroid",
+      "mp3Stream": "https://live.wostreaming.net/playlist/univision-wppnfmaac-imc1.m3u"
+    },
+    "localMarket": { "title": "Chicago", "zipCodes": ["60611"] },
+    "genres": ["Adulto Contemporáneo"],
+    "socialNetworks": [
+      {
+        "text": "Chicago Amor 106.7 Twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/amor1067",
+        "target": "_blank"
+      },
+      {
+        "text": "Chicago Amor 106.7 Instagram",
+        "name": "Instagram",
+        "url": "https://instagram.com/amor1067/",
+        "target": "_blank"
+      },
+      {
+        "text": "Chicago Amor 106.7 Facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/amor1067",
+        "target": "_blank"
+      }
+    ],
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+          "isFeedDialog": false,
+          "title": "Amor 106.7 FM",
+          "description": "Máxima Variedad Musical",
+          "imageUrl": null,
+          "appId": "645138725541385"
+        },
+        "twitter": {
+          "url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+          "title": "Amor 106.7 FM",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm",
+          "message": "Amor 106.7 FM"
+        },
+        "mail": {
+          "subject": "Amor 106.7 FM",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmor 106.7 FM\n\nEncuéntralo en este enlace:https://www.univision.com/radio/chicago-wppn-fm/amor-106-7-fm\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "exclusive": false,
+    "primaryBroadcastLanguage": "es",
+    "contact": {
+      "aboutStation": "https://www.univision.com/radio/chicago-wppn-fm/somos-amor-106-7"
+    },
+    "relatedStations": [
+      {
+        "type": "radiostation",
+        "uid": "0000014d-00eb-d6f3-a16d-aaef0a6a0000",
+        "uri": "https://www.univision.com/radio/miami-wamr-fm",
+        "vertical": null,
+        "parent": null,
+        "title": "Amor 107.5",
+        "description": "Amor 107.5 FM es la estación de radio en Miami donde escuchas tus canciones favoritas de los principales artistas de la música Romántica, Pop, Baladas y",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/32508af/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/558aa4c/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/fd4e070/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/402797d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/3522223/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/a627980/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/1ab7dac/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/9f3fc06/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "authors": [],
+        "updateDate": "2019-07-08T09:27:54-04:00",
+        "publishDate": "2015-04-28T12:48:04-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "frequency": 107.5,
+        "band": "FM",
+        "call": "WAMR-FM",
+        "nowPlayingId": 2896,
+        "logo": {
+          "type": "image",
+          "uid": "00000157-0b69-d910-a957-0f7d2dc90000",
+          "title": "MIAMI RADIO STATIONS NUEVO LOGO NEW LOGO",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/64/0f/08c50d1e4979a91f7298dc257ffe/amor-1075-393x223.png",
+              "width": 392,
+              "height": 223
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/57acb31/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/72fb11f/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/ee75f80/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/b6e40fe/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/7414695/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/a310317/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/ad1d468/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/9a6dc17/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "alternativeLogo": {
+          "type": "image",
+          "uid": "0000015d-ec8e-d662-a97d-fece5ba60000",
+          "title": "Amor 107.5 white",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/ef/20/118ef0564223b407872833f2f665/amor-107.5.svg",
+              "width": 0,
+              "height": 0
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/38f89c1/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/65d4117/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/23c8230/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/4e9b3d0/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/a72d5b1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/e95caa4/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/1bc743b/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/c954afc/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "abacast": {
+          "id": 2324,
+          "demoId": 296,
+          "aacStreamiOS": "https://live.wostreaming.net/playlist/univision-wamrfmaac-imc1.m3u?source=UforiaiOS",
+          "aacStreamAndroid": "https://live.wostreaming.net/playlist/univision-wamrfmaac-imc1.m3u?source=UforiaAndroid",
+          "mp3Stream": "https://live.wostreaming.net/playlist/univision-wamrfmaac-imc1.m3u"
+        },
+        "localMarket": { "title": "Miami", "zipCodes": ["33130"] },
+        "genres": ["Amor Genre"],
+        "socialNetworks": [
+          {
+            "text": "Miami Amor 107.5 Twitter",
+            "name": "Twitter",
+            "url": "https://twitter.com/1075amor",
+            "target": "_blank"
+          },
+          {
+            "text": "Miami Amor 107.5 Instagram",
+            "name": "Instagram",
+            "url": "http://instagram.com/1075amor",
+            "target": "_blank"
+          },
+          {
+            "text": "Miami Amor 107.5 Facebook",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/1075amor",
+            "target": "_blank"
+          }
+        ],
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/radio/miami-wamr-fm",
+              "isFeedDialog": false,
+              "title": "Amor 107.5",
+              "description": "Amor 107.5 FM es la estación de radio en Miami donde escuchas tus canciones favoritas de los principales artistas de la música Romántica, Pop, Baladas y",
+              "imageUrl": null,
+              "appId": "645138725541385"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/radio/miami-wamr-fm",
+              "title": "Amor 107.5",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/radio/miami-wamr-fm",
+              "message": "Amor 107.5"
+            },
+            "mail": {
+              "subject": "Amor 107.5",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmor 107.5\n\nEncuéntralo en este enlace:https://www.univision.com/radio/miami-wamr-fm\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "exclusive": false
+      },
+      {
+        "type": "radiostation",
+        "uid": "0000014d-00ec-d9c5-a3ef-06fde4180000",
+        "uri": "https://www.univision.com/radio/los-angeles-klve-fm",
+        "vertical": null,
+        "parent": null,
+        "title": "K-Love 107.5",
+        "description": "Aquí encontrarás la mejor música romántica POP del momento",
+        "image": {
+          "type": "image",
+          "uid": "0000016b-474e-d6c0-a7ff-7f5ecf620000",
+          "title": "107.5.jpg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/bb/ec/4839a9064ad980a1d134c1a6813f/107.5.jpg",
+              "width": 201,
+              "height": 300
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/d76cca0/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/7aa8edc/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/46ebcc5/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/6ebebfc/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/1bb361a/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/dca7da3/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/e740fe1/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/0da56ac/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbb%2Fec%2F4839a9064ad980a1d134c1a6813f%2F107.5.jpg",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "authors": [],
+        "updateDate": "2019-07-04T15:55:58-04:00",
+        "publishDate": "2015-04-28T12:53:44-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "frequency": 107.5,
+        "band": "FM",
+        "call": "KLVE-FM",
+        "nowPlayingId": 2910,
+        "logo": {
+          "type": "image",
+          "uid": "00000157-0b68-d302-a157-3ffa30630001",
+          "title": "LOS ANGELES LA RADIO STATIONS NUEVO LOGO NEW LOGO",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/c1/79/a93d1cc74c64b000a4b41f5300be/los-angeles-107.5@2x.png",
+              "width": 0,
+              "height": 0
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/dd2c353/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/da4378b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/797e438/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/b72a808/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/b4e0e8b/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/d9d679f/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/5ea40ac/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/706cac7/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "alternativeLogo": {
+          "type": "image",
+          "uid": "0000015d-9a90-deeb-af7f-ffb0cba20001",
+          "title": "K-love_207.5.svg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/46/54/bb519bde4f4682af215e59d446e2/k-love-207.5.svg",
+              "width": 0,
+              "height": 0
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/b600e78/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/8e550a6/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/00fd7fb/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/1d2f248/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/46facfe/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/2e62e8f/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/5836680/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/bb9d41e/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "abacast": {
+          "id": 2315,
+          "demoId": 292,
+          "aacStreamiOS": "https://live.wostreaming.net/playlist/univision-klvefmaac-ibc2.m3u?source=UforiaiOS",
+          "aacStreamAndroid": "https://live.wostreaming.net/playlist/univision-klvefmaac-ibc2.m3u?source=UforiaAndroid",
+          "mp3Stream": "https://live.wostreaming.net/playlist/univision-klvefmaac-imc2.m3u"
+        },
+        "localMarket": { "title": "Los Angeles", "zipCodes": ["90034"] },
+        "genres": ["Amor Genre"],
+        "socialNetworks": [
+          {
+            "text": "K-LOVE 107.5 Facebook",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/iloveklove",
+            "target": "_blank"
+          },
+          {
+            "text": "K-LOVE 107.5 Instagram",
+            "name": "Instagram",
+            "url": "https://instagram.com/iloveklove",
+            "target": "_blank"
+          },
+          {
+            "text": "K-LOVE 107.5 Twitter",
+            "name": "Twitter",
+            "url": "https://twitter.com/iloveklove",
+            "target": "_blank"
+          }
+        ],
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/radio/los-angeles-klve-fm",
+              "isFeedDialog": false,
+              "title": "K-Love 107.5",
+              "description": "Aquí encontrarás la mejor música romántica POP del momento",
+              "imageUrl": null,
+              "appId": "645138725541385"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/radio/los-angeles-klve-fm",
+              "title": "K-Love 107.5",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/radio/los-angeles-klve-fm",
+              "message": "K-Love 107.5"
+            },
+            "mail": {
+              "subject": "K-Love 107.5",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nK-Love 107.5\n\nEncuéntralo en este enlace:https://www.univision.com/radio/los-angeles-klve-fm\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "exclusive": false
+      },
+      {
+        "type": "radiostation",
+        "uid": "00000150-e3d0-d0a3-ab71-ebf8eaa40000",
+        "uri": null,
+        "vertical": null,
+        "parent": null,
+        "title": "Amor Celestial ",
+        "description": "",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/32508af/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/558aa4c/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/fd4e070/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/402797d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/3522223/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/a627980/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/1ab7dac/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/9f3fc06/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "authors": [],
+        "updateDate": "2019-07-05T11:26:03-04:00",
+        "publishDate": "2015-11-07T16:18:50-05:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "frequency": null,
+        "band": "Online",
+        "call": "KLVEHD2FM",
+        "nowPlayingId": 2872,
+        "logo": {
+          "type": "image",
+          "uid": "00000168-7258-dc86-a97d-7f7fb7670000",
+          "title": "amorcelestiallogocolor.svg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/a4/0f/e54b7cf946ba9c61c0f8e4e8507c/amorcelestiallogocolor.svg",
+              "width": 0,
+              "height": 0
+            },
+            "16x9-mobile": {
+              "href": "https://st1.uvnimg.com/dims4/default/a966d4d/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://st1.uvnimg.com/dims4/default/ea916fc/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://st1.uvnimg.com/dims4/default/a3d1166/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://st1.uvnimg.com/dims4/default/a323d48/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://st1.uvnimg.com/dims4/default/8b599f2/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://st1.uvnimg.com/dims4/default/433d997/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9-extended": {
+              "href": "https://st1.uvnimg.com/dims4/default/b6e18da/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 1440,
+              "height": 810
+            },
+            "1x1-person-profile": {
+              "href": "https://st1.uvnimg.com/dims4/default/7ead57e/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2F0f%2Fe54b7cf946ba9c61c0f8e4e8507c%2Famorcelestiallogocolor.svg",
+              "width": 182,
+              "height": 182
+            }
+          }
+        },
+        "alternativeLogo": {
+          "type": null,
+          "uid": null,
+          "title": null,
+          "caption": null,
+          "credit": null,
+          "renditions": null
+        },
+        "abacast": {
+          "id": 2328,
+          "demoId": 300,
+          "aacStreamiOS": "http://stream.abacast.net/playlist/univision-amorcelestialaac-ibc2.m3u?source=UforiaiOS",
+          "aacStreamAndroid": "http://stream.abacast.net/playlist/univision-amorcelestialaac-ibc2.m3u?source=UforiaAndroid",
+          "mp3Stream": "http://stream.abacast.net/playlist/univision-amorcelestialmp3-ibc2.m3u"
+        },
+        "localMarket": null,
+        "genres": ["Exclusive Stations"],
+        "socialNetworks": [],
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": null,
+              "isFeedDialog": false,
+              "title": "Amor Celestial ",
+              "description": null,
+              "imageUrl": null,
+              "appId": "645138725541385"
+            },
+            "twitter": {
+              "url": null,
+              "title": "Amor Celestial ",
+              "via": "Univision"
+            },
+            "whatsapp": { "url": null, "message": "Amor Celestial " },
+            "mail": {
+              "subject": "Amor Celestial ",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmor Celestial \n\nEncuéntralo en este enlace:null\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "exclusive": true
+      }
+    ],
+    "schedule": [
+      { "program": "Mau Mauricio", "time-slot": "6 AM - 10 AM" },
+      { "program": "Vicky Aguilera", "time-slot": "10 AM - 3 PM" },
+      { "program": "La Chula y La Bestia", "time-slot": "3 PM -7 PM" },
+      {
+        "program": "Por El Placer de Vivir con el Dr. César Lozano",
+        "time-slot": "7 PM - 8 PM"
+      },
+      { "program": "Música con buen gusto", "time-slot": "8 PM - 12 AM" }
+    ],
+    "localMarketFooter": {
+      "title": "PÁGINAS DE CHICAGO",
+      "links": [
+        {
+          "href": "https://www.univision.com/global/univision-chicago-online-public-files6",
+          "target": "_self",
+          "text": "Univision Chicago",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70000"
+        },
+        {
+          "href": "https://cdn1.uvnimg.com/75/aa/501802f64e4a94350c1788601826/fcc-eeo-public-report-chicago-8-2017-to-7-2018.pdf",
+          "target": "_blank",
+          "text": "EEO Report",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70001"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/tv-profile/wgbo-dt",
+          "target": "_blank",
+          "text": "Univision Chicago Online Public Files",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70002"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/fm-profile/wppn",
+          "target": "_blank",
+          "text": "Online Public Files WPPN",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70003"
+        },
+        {
+          "href": "https://www.univision.com/chicago/wgbo/aviso-de-subtitulos-chicago-univision-unimas",
+          "target": "_blank",
+          "text": "Aviso de subtítulos e información para personas con discapacidad",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70004"
+        }
+      ]
+    }
+  },
+  "ttl": 300,
+  "comscore": "pageview_candidate",
+  "feedGeneratedAt": "2019-07-29T15:34:54-04:00"
+}

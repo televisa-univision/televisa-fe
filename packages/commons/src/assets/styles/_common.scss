@@ -1,0 +1,37 @@
+/*******************************************************************************************************
+
+
+    $$$$$$$\                   $$$$$$\                                 $$$$$$\            $$\ $$\
+    $$  __$$\                 $$  __$$\                               $$  __$$\           $$ |$$ |
+    $$ |  $$ | $$$$$$\        $$ /  \__| $$$$$$\   $$$$$$\   $$$$$$\  $$ /  \__|$$\   $$\ $$ |$$ |
+    $$$$$$$\ |$$  __$$\       $$ |       \____$$\ $$  __$$\ $$  __$$\ $$$$\     $$ |  $$ |$$ |$$ |
+    $$  __$$\ $$$$$$$$ |      $$ |       $$$$$$$ |$$ |  \__|$$$$$$$$ |$$  _|    $$ |  $$ |$$ |$$ |
+    $$ |  $$ |$$   ____|      $$ |  $$\ $$  __$$ |$$ |      $$   ____|$$ |      $$ |  $$ |$$ |$$ |
+    $$$$$$$  |\$$$$$$$\       \$$$$$$  |\$$$$$$$ |$$ |      \$$$$$$$\ $$ |      \$$$$$$  |$$ |$$ |
+    \_______/  \_______|       \______/  \_______|\__|       \_______|\__|       \______/ \__|\__|
+
+
+    DO NOT: Add any mixing or sass rule that print something, otherwise will be compiled for every
+            sass file in the app.
+
+/*******************************************************************************************************/
+
+// This file is for dependencies used everywhere
+// Path must be relative to the root since this file is used by
+// sass-resources-loader and webpack context is root
+
+// https://github.com/jtangelder/sass-loader#imports
+// using  advanced mechanism to resolve files
+// a path like this can be used for bootstrap dependencies
+// @import '~bootstrap/scss/variables';
+
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+
+@import 'variables/global';
+@import 'variables/bootstrap';
+@import 'mixins/font-face';
+@import 'mixins/fonts-mixin';
+@import 'mixins/gradients';
+@import 'mixins/utils';

@@ -1,0 +1,34 @@
+{
+  "uri": "/shows/despierta-america/",
+  "ads": {
+    "mobile": {
+      "topAd": "client=mobile&pos=TOP"
+    },
+    "desktop": {
+      "topAd": "client=desktop&pos=TOP"
+    }
+  },
+  "tracking": {
+    "dataLayer": {
+      "mobile": {
+        "adtag_value": "section_entretenimiento/shows/despiertaamerica/inicio"
+      },
+      "desktop": {
+        "adtag_value": "section_entretenimiento/shows/despiertaamerica/inicio"
+      }
+    }
+  },
+  "selectors": {
+    "footer": "footer",
+    "main": "div[data-content-loaded]",
+    "topAd": ".uvs-ad-full-width:first",
+    "tablists": ".uvs-container ul:first li",
+    "longFormVideoContent": "div[data-widget-type='LongFormVideoList']",
+    "longFormVideoList": "> div > div:nth-child(2) > div",
+    "widgetLead": ".uvs-widget-lead"
+  },
+  "data": {
+    "defaultTabSelected": 1,
+    "unselectedTab": 0
+  }
+}

@@ -1,0 +1,299 @@
+.borderBottom {
+  border-bottom: 1px solid $white-grey;
+}
+.borderTop {
+  border-top: 1px solid $white-grey;
+}
+
+.mobileHamburger {
+  background: white;
+  @extend .borderTop;
+  bottom: 0;
+  height: calc(100vh - 46px);
+  left: 0;
+  overflow-x: hidden;
+  overflow: scroll;
+  padding-bottom: 46px;
+  position: fixed;
+  top: 88px;
+  transform: translateX(-100%);
+  transition: transform .2s ease-in;
+  width: 100%;
+  z-index: $zindex-navigation;
+  &.open {
+    transform: translateX(0);
+  }
+  :global(.sections-mobile-open-sticky) & {
+    top: 46px;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  a, p {
+    margin: 0;
+    font-size: rem(13px);
+    color: $darker-grey;
+    display: inline-block;
+  }
+
+  .parentSection {
+    > li {
+      > a, > p {
+        @include uvs-font('a', 'bold');
+        @include uvn-now-logo('medium');
+        width: 100%;
+        text-align: left;
+        &.tv-en-vivo {
+          &:after {
+            vertical-align: baseline;
+          }
+        }
+      }
+      &.withSpander > a {
+        width: 70%;
+      }
+    }
+  }
+
+  li.section, li.child > a, li.child > p {
+    z-index: 1;
+    @extend .borderBottom;
+  }
+
+  .section,
+  .child, .child > div {
+    position: relative;
+    transition: all .3s;
+  }
+
+  .section, .child > div {
+    > a, > p {
+      padding: 18px 15px;
+      text-transform: uppercase;
+
+    }
+  }
+
+  .bold {
+    > a:first-of-type, > p:first-of-type {
+      @include uvs-font('a', 'bold');
+    }
+  }
+
+  .childrenBold.parentSection > li {
+    > a, > p {
+      @include uvs-font('a', 'bold');
+    }
+  }
+
+  .section {
+    display: flex;
+    flex-flow: row wrap;
+
+    > a, > p {
+      z-index: 2;
+      position: relative;
+      padding-right: 0;
+    }
+  }
+  ul.section {
+    background: $very-light-grey;
+    overflow: hidden;
+    padding: 0 8px;
+  }
+
+  .child {
+    flex: 1 40%;
+    padding: 0 8px;
+    text-align: left;
+
+    > a, > p {
+      display: flex;
+      height: 52px;
+      width: 100%;
+      padding: 16px 1px;
+      font-size: rem(14px);
+      line-height: rem(19px);
+      justify-content: center;
+      flex-direction: column;
+      text-align: left;
+    }
+  }
+
+  .parentchild {
+    text-align: left;
+    @extend .bold;
+    flex: 1 100%;
+
+    > a, > p {
+      font-size: rem(14px);
+      line-height: rem(17px);
+      text-transform: uppercase;
+      padding: 16px 8px;
+    }
+  }
+
+  .grandchild {
+    > a {
+      padding: 0 14px;
+      line-height: rem(44px);
+    }
+  }
+
+  .highlighted {
+    background-color: $very-light-grey;
+  }
+}
+
+.column {
+  display: flex;
+  flex-flow: row wrap;
+  ul {
+    flex: 1;
+    padding: 0 8px;
+
+    li.child {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+.arrow {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0;
+  transition: transform .3s;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+
+  svg {
+    fill: $darker-grey;
+    right: 10px;
+    top: 16px;
+    position: absolute;
+  }
+}
+.arrowText {
+  position: absolute;
+  font-size: rem(9px);
+  line-height: rem(11px);
+  text-transform: uppercase;
+  padding: 3px 16px;
+  right: 30px;
+  top: 20px;
+
+  &:before {
+    content: '';
+    position: absolute;
+    height: 16px;
+    border-right: 1px solid $white-grey;
+    left: 0px;
+    top: calc(50% - 8px);
+  }
+}
+
+button.arrow {
+  height: 55px;
+}
+
+.leftIcon {
+  z-index: $zindex-base;
+  display: inline-block;
+  margin-right: 15px;
+  svg {
+    margin: 0;
+    fill: $black;
+  }
+}
+
+.expanded {
+  > .expander .arrow svg {
+    transform: rotate(-180deg);
+    transform-origin: center;
+  }
+  ul, .child {
+    height: auto;
+    position: relative;
+    li, > div {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+}
+
+.collapsed {
+  ul, .child {
+    height: 0;
+    overflow: hidden;
+    li, > div {
+      transform: translateY(-44px);
+      opacity: 0;
+    }
+  }
+}
+
+.localMarket,
+.localMarketDefault {
+  font-size: rem(12px);
+  @include uvs-font('a', 'bold');
+
+  a {
+    color: $grey-black;
+    text-transform: uppercase;
+  }
+}
+
+:global(.sections-mobile-open) {
+  height: 100%;
+  overflow-y: hidden;
+  position: relative;
+  width: 100%;
+}
+
+:global(.sections-mobile-open-sticky) {
+  height: 100%;
+  overflow-y: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.icon {
+  margin: 0;
+  svg {
+    width: 16px;
+    height: 16px;
+  }
+  path {
+    fill: $darker-grey;
+    .dark &,
+    .theme & {
+      fill: $white;
+    }
+  }
+}
+
+.search {
+  width: 100%;
+  background:  $very-light-grey;
+  padding: 9px;
+  & > form {
+    border: 0;
+    position: relative;
+    > span {
+      padding: 5px 6px;
+      width: 20px;
+      text-align: left;
+    }
+    > input {
+      color: $darker-grey;
+      padding: 5px 10px
+    }
+  }
+}

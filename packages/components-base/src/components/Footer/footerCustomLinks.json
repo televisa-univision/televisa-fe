@@ -1,0 +1,274 @@
+{
+  "/local/dallas-kuvn": {
+    "links": [
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/dallas-kuvn/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/los-angeles-kmex": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/los-angeles-kmex/los-angeles/kmex/somos-univision-34-los-angeles",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/los-angeles-kmex/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/nueva-york-wxtv": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/nueva-york-wxtv/quienes-somos-univision-41-nueva-york",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/nueva-york-wxtv/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/houston-kxln": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/houston-kxln/somos-univision-45-houston",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/houston-kxln/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/miami-wltv": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/miami-wltv/somos-univision-23-miami",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/miami-wltv/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/san-francisco-kdtv": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/san-francisco-kdtv/somos-univision-14",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/san-francisco-kdtv/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/chicago-wgbo": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/chicago-wgbo/quienes-somos-univision-chicago",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/chicago-wgbo/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/puerto-rico-wlii": {
+    "links": [
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/puerto-rico-wlii/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/atlanta-wuvg": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/atlanta-wuvg/somos-univision-34-atlanta",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/atlanta-wuvg/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/philadelphia-wuvp": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/philadelphia-wuvp/philadelphia/wuvp/nosotros-somos-univision-65-philadelphia",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/philadelphia-wuvp/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/san-antonio-kwex": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/san-antonio-kwex/quienes-somos-en-univision-san-antonio",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/san-antonio-kwex/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/austin-kakw": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/austin-kakw/somos-univision62",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/austin-kakw/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/arizona-ktvw": {
+    "links": [
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/arizona-ktvw/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/sacramento-kuvs": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/sacramento-kuvs/somos-univision-19",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/sacramento-kuvs/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/north-carolina-wuvc": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/north-carolina-wuvc/somos-univision-40-north-carolina",
+        "target": "_self"
+      },
+      {
+        "text": "Nuestro Equipo",
+        "position": 10,
+        "href": "/local/north-carolina-wuvc/nuestro-equipo",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/bakersfield-kabe": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/bakersfield-kabe/somos-univision-bakersfield",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/fresno-kftv": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/fresno-kftv/somos-univision-fresno",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/orlando-wven": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/orlando-wven/contactenos-en-univision-orlando",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/tampa-wvea": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/tampa-wvea/contactenos-en-univision-tampa-bay",
+        "target": "_self"
+      }
+    ]
+  },
+  "/local/washington-dc-wfdc": {
+    "links": [
+      {
+        "text": "Departamento de ventas",
+        "position": 10,
+        "href": "/local/washington-dc-wfdc/contactenos-en-univision-washington-dc",
+        "target": "_self"
+      }
+    ]
+  }
+}

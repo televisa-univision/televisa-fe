@@ -1,0 +1,195 @@
+.buttonWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.container {
+  align-self: center;
+  justify-content: center;
+  display: flex;
+  position: relative;
+}
+.voteAMAS {
+  background-image: url('./assets/ButtonVote.png');
+  background-position: center;
+  background-size: cover;
+  background-color: transparent;
+  border: none;
+  border-radius: 4px;
+  height: 30px;
+  min-height: 30px;
+  margin-left: 8px;
+  padding: 4px 8px;
+  justify-content: center;
+  min-width: 70px;
+  @media (max-width: 375px) {
+    margin-left: -20px;
+  }
+  span {
+    padding-top: 2px;
+    font-family: 'Roboto Condensed';
+    font-size: rem(12px);
+    font-style: normal;
+    line-height: rem(14px);
+    color: $black;
+  }
+  svg {
+      height: 16px;
+      margin-right: 4px;
+      width: 16px;
+      @media (max-width: 405px) {
+        display: none;
+      }
+  }
+  &Btn {
+    border: none;
+    height: 100%;
+    padding: 0;
+    span {
+      padding-top: 2px;
+    }
+    @include media-breakpoint-up('md') {
+      padding: 0;
+    }
+  }
+}
+
+.ticketAMAS {
+  background-image: url('./assets/ButtonTickets.png');
+  background-position: center;
+  background-size: cover;
+  background-color: transparent;
+  border: none;
+  border-radius: 4px;
+  height: 30px;
+  min-height: 30px;
+  margin-left: 8px;
+  padding: 4px 8px;
+  justify-content: center;
+  min-width: 95px;
+
+  span {
+    padding-top: 2px;
+    font-family: 'Roboto Condensed';
+    font-size: rem(12px);
+    font-style: normal;
+    line-height: rem(14px);
+    color: $black;
+  }
+  svg {
+      height: 16px;
+      margin-right: 4px;
+      width: 16px;
+      @media (max-width: 405px) {
+        display: none;
+      }
+  }
+  &Btn {
+    border: none;
+    height: 100%;
+    padding: 0;
+    span {
+      padding-top: 2px;
+    }
+    @include media-breakpoint-up('md') {
+      padding: 0;
+    }
+  }
+}
+
+.PLN {
+  background: linear-gradient(182.1deg, #FFC130 18.54%, #FFDF97 84%);
+  border: none;
+  border-radius: 4px;
+  height: 30px;
+  min-height: 30px;
+  margin-left: 8px;
+  padding: 4px 8px;
+  justify-content: center;
+  @media (max-width: 405px) {
+    min-width: 50px;
+  }
+
+  span {
+    padding-top: 2px;
+    font-family: 'Roboto Condensed';
+    font-size: rem(12px);
+    font-style: normal;
+    line-height: rem(14px);
+    color: $black;
+  }
+  svg {
+      height: 16px;
+      margin-right: 4px;
+      width: 16px;
+      @media (max-width: 405px) {
+        display: none;
+      }
+  }
+  &Btn {
+    border: none;
+    height: 100%;
+    padding: 0;
+    span {
+      padding-top: 2px;
+    }
+    @include media-breakpoint-up('md') {
+      padding: 0;
+    }
+  }
+}
+
+.PJ {
+  background: linear-gradient(180deg, #4F24BD 40%, #3C178D, #310F73, #28095E, #22054E);
+  border-radius: 80px;
+  border: none;
+  box-shadow: 0px 1px 3px $black;
+  color: $white;
+  height: 30px;
+  justify-content: center;
+  margin-left: 8px;
+  min-height: 30px;
+  padding: 4px 12px;
+
+  @media (max-width: 405px) {
+    min-width: 50px;
+  }
+
+  span {
+    padding-top: 2px;
+    font-family: 'Roboto Condensed';
+    font-size: rem(12px);
+    font-style: normal;
+    line-height: rem(14px);
+    color: $white;
+  }
+  svg {
+      height: 16px;
+      margin-right: 4px;
+      width: 16px;
+      @media (max-width: 405px) {
+        display: none;
+      }
+      path {
+        stroke: $white!important;
+      }
+  }
+  &Btn {
+    border: none;
+    height: 100%;
+    padding: 0;
+    span {
+      padding-top: 2px;
+    }
+    @include media-breakpoint-up('md') {
+      padding: 0;
+    }
+  }
+
+  &.plane {
+    svg path {
+      fill: $white!important;
+    }
+  }
+}
+

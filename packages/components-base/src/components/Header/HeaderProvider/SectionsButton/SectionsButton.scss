@@ -1,0 +1,76 @@
+.container {
+  @include media-breakpoint-up('md') {
+    position: relative;
+  }
+}
+
+.sectionsBtn {
+  white-space:nowrap;
+  text-transform:uppercase;
+  font-size: rem(9px);
+  letter-spacing: 0.5px;
+  @include uvs-font('a', 'bold');
+  color: $darker-grey;
+  padding: 8px;
+  margin-right: 8px;
+  width: 40px;
+  height: 40px;
+
+  &.dark,
+  &.theme {
+    color: $white;
+  }
+
+  &.light {
+    color: $darker-grey;
+  }
+
+  &.hasLabel {
+    text-align: left;
+  }
+
+  @include media-breakpoint-up('md') {
+    letter-spacing: 0;
+    font-size: rem(10px);
+    width: auto;
+    padding: 12px 16px 12px 12px;
+  }
+
+  svg {
+    fill: $darker-grey;
+    height: 14px;
+    vertical-align: sub;
+  }
+
+  &.dark {
+    svg {
+      fill: $white;
+    }
+  }
+
+  &.light {
+    svg {
+      fill: $darker-grey;
+    }
+  }
+}
+
+svg + .labelExtraMargin {
+  margin-left: 16px;
+  display:none;
+  line-height: 24px;
+
+  @include media-breakpoint-up('md') {
+    display: inline-block;
+  }
+}
+
+svg + .sectionsLabel {
+  margin-left: 8px;
+  display:none;
+  line-height: 24px;
+
+  @include media-breakpoint-up('md') {
+    display: inline-block;
+  }
+}

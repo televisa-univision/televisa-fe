@@ -1,0 +1,638 @@
+[
+  {
+    "uid": "00000163-da72-de00-a577-dffe72630000",
+    "uri": "https://www.univision.com/entretenimiento/aries",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Aries: 21 de marzo - 19 de abril",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b490001",
+      "title": "Aries Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn1.uvnimg.com/11/27/34ceabd94a608192706e79160183/thumb-aries-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/71166c3/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F11%2F27%2F34ceabd94a608192706e79160183%2Fthumb-aries-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/01c7f0d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F11%2F27%2F34ceabd94a608192706e79160183%2Fthumb-aries-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/f577c60/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F11%2F27%2F34ceabd94a608192706e79160183%2Fthumb-aries-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/c27de47/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F11%2F27%2F34ceabd94a608192706e79160183%2Fthumb-aries-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/6c2d4e4/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F11%2F27%2F34ceabd94a608192706e79160183%2Fthumb-aries-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/be1a29c/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F11%2F27%2F34ceabd94a608192706e79160183%2Fthumb-aries-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72630001",
+    "uri": "https://www.univision.com/entretenimiento/tauro",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Tauro: 20 de abril - 20 de mayo",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b420000",
+      "title": "Tauro Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn1.uvnimg.com/38/9b/f30d3fae477f86d3ebd37f52d0e4/thumb-tauro-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/4384977/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F38%2F9b%2Ff30d3fae477f86d3ebd37f52d0e4%2Fthumb-tauro-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/555a14a/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F38%2F9b%2Ff30d3fae477f86d3ebd37f52d0e4%2Fthumb-tauro-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/7b38011/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F38%2F9b%2Ff30d3fae477f86d3ebd37f52d0e4%2Fthumb-tauro-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/ccd36a9/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F38%2F9b%2Ff30d3fae477f86d3ebd37f52d0e4%2Fthumb-tauro-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/b86567a/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F38%2F9b%2Ff30d3fae477f86d3ebd37f52d0e4%2Fthumb-tauro-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/364e9c8/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F38%2F9b%2Ff30d3fae477f86d3ebd37f52d0e4%2Fthumb-tauro-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72630002",
+    "uri": "https://www.univision.com/entretenimiento/geminis",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Géminis: 21 de mayo - 20 de junio",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b440001",
+      "title": "Geminis Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn3.uvnimg.com/5d/25/7ecd131c4a4babddefb03f7bc232/thumb-geminis-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/7fed17c/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F5d%2F25%2F7ecd131c4a4babddefb03f7bc232%2Fthumb-geminis-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/a6d1051/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F5d%2F25%2F7ecd131c4a4babddefb03f7bc232%2Fthumb-geminis-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/4b17ae6/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F5d%2F25%2F7ecd131c4a4babddefb03f7bc232%2Fthumb-geminis-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/45c7e79/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F5d%2F25%2F7ecd131c4a4babddefb03f7bc232%2Fthumb-geminis-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/0d1f393/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F5d%2F25%2F7ecd131c4a4babddefb03f7bc232%2Fthumb-geminis-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/2fefdcd/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F5d%2F25%2F7ecd131c4a4babddefb03f7bc232%2Fthumb-geminis-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72630003",
+    "uri": "https://www.univision.com/entretenimiento/horoscopos-cancer",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Cáncer: 21 de junio - 22 de julio",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b3f0001",
+      "title": "Cancer Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn4.uvnimg.com/3e/32/cce013064d87aac2dfa7155fc757/thumb-cancer-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/7bd2a39/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F3e%2F32%2Fcce013064d87aac2dfa7155fc757%2Fthumb-cancer-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/ede2806/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F3e%2F32%2Fcce013064d87aac2dfa7155fc757%2Fthumb-cancer-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/ae0e135/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F3e%2F32%2Fcce013064d87aac2dfa7155fc757%2Fthumb-cancer-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/087d993/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F3e%2F32%2Fcce013064d87aac2dfa7155fc757%2Fthumb-cancer-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/4e48328/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F3e%2F32%2Fcce013064d87aac2dfa7155fc757%2Fthumb-cancer-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/5fb9d2f/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F3e%2F32%2Fcce013064d87aac2dfa7155fc757%2Fthumb-cancer-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72630004",
+    "uri": "https://www.univision.com/entretenimiento/leo",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Leo: 23 de julio - 22 de agosto",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b4c0001",
+      "title": "Leo Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn1.uvnimg.com/b7/a4/997c8e68436abd484c740ec47e3c/thumb-leo-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/fc36786/2147483647/crop/1194x672%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb7%2Fa4%2F997c8e68436abd484c740ec47e3c%2Fthumb-leo-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/effe5e5/2147483647/crop/1193x672%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb7%2Fa4%2F997c8e68436abd484c740ec47e3c%2Fthumb-leo-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/eaf04e6/2147483647/crop/1194x672%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb7%2Fa4%2F997c8e68436abd484c740ec47e3c%2Fthumb-leo-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/b6e8d30/2147483647/crop/1197x671%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb7%2Fa4%2F997c8e68436abd484c740ec47e3c%2Fthumb-leo-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/8a3ede0/2147483647/crop/1194x672%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb7%2Fa4%2F997c8e68436abd484c740ec47e3c%2Fthumb-leo-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/77dff50/2147483647/crop/672x672%2B220%2B0/resize/480x480/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb7%2Fa4%2F997c8e68436abd484c740ec47e3c%2Fthumb-leo-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72640000",
+    "uri": "https://www.univision.com/entretenimiento/virgo",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Virgo: 23 de agosto - 22 de septiembre",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b580001",
+      "title": "Virgo Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn2.uvnimg.com/a8/3f/71db65ce469e845cdbd6f0b8faf6/thumb-virgo-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn1.performance.univision.com/dims4/default/0e90ed0/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F3f%2F71db65ce469e845cdbd6f0b8faf6%2Fthumb-virgo-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn1.performance.univision.com/dims4/default/aee9072/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F3f%2F71db65ce469e845cdbd6f0b8faf6%2Fthumb-virgo-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn1.performance.univision.com/dims4/default/6864fb7/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F3f%2F71db65ce469e845cdbd6f0b8faf6%2Fthumb-virgo-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn1.performance.univision.com/dims4/default/ddf950a/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F3f%2F71db65ce469e845cdbd6f0b8faf6%2Fthumb-virgo-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn1.performance.univision.com/dims4/default/38edb06/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F3f%2F71db65ce469e845cdbd6f0b8faf6%2Fthumb-virgo-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn1.performance.univision.com/dims4/default/597a79b/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F3f%2F71db65ce469e845cdbd6f0b8faf6%2Fthumb-virgo-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72640001",
+    "uri": "https://www.univision.com/entretenimiento/libra",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Libra: 23 de septiembre - 22 de octubre",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b510000",
+      "title": "Libra Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn2.uvnimg.com/be/cc/4ee3b3034393aa3ba4d29d37cb82/thumb-libra-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/5b177de/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fbe%2Fcc%2F4ee3b3034393aa3ba4d29d37cb82%2Fthumb-libra-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/3727929/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fbe%2Fcc%2F4ee3b3034393aa3ba4d29d37cb82%2Fthumb-libra-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/56889e0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fbe%2Fcc%2F4ee3b3034393aa3ba4d29d37cb82%2Fthumb-libra-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/dd18eb1/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fbe%2Fcc%2F4ee3b3034393aa3ba4d29d37cb82%2Fthumb-libra-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/b070ee5/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fbe%2Fcc%2F4ee3b3034393aa3ba4d29d37cb82%2Fthumb-libra-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/8182680/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fbe%2Fcc%2F4ee3b3034393aa3ba4d29d37cb82%2Fthumb-libra-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72640002",
+    "uri": "https://www.univision.com/entretenimiento/escorpion",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Escorpión: 23 de octubre - 21 de noviembre",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b530001",
+      "title": "Escorpión Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn1.uvnimg.com/65/b7/ee05614a4613bdfdcaf42e7387ec/thumb-escorpion-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/b0be0dc/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F65%2Fb7%2Fee05614a4613bdfdcaf42e7387ec%2Fthumb-escorpion-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/296fa5f/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F65%2Fb7%2Fee05614a4613bdfdcaf42e7387ec%2Fthumb-escorpion-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/5f7b5e2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F65%2Fb7%2Fee05614a4613bdfdcaf42e7387ec%2Fthumb-escorpion-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/516f7b2/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F65%2Fb7%2Fee05614a4613bdfdcaf42e7387ec%2Fthumb-escorpion-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/41b0863/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F65%2Fb7%2Fee05614a4613bdfdcaf42e7387ec%2Fthumb-escorpion-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn3.performance.univision.com/dims4/default/675759b/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F65%2Fb7%2Fee05614a4613bdfdcaf42e7387ec%2Fthumb-escorpion-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72640003",
+    "uri": "https://www.univision.com/entretenimiento/sagitario",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Sagitario: 22 de noviembre - 21 de diciembre",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b560001",
+      "title": "Sagitarious Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn3.uvnimg.com/c8/a0/0e78cb4a43c18d0204ca507675ac/thumb-sagitario-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/a20ac37/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fc8%2Fa0%2F0e78cb4a43c18d0204ca507675ac%2Fthumb-sagitario-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/4c55f99/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fc8%2Fa0%2F0e78cb4a43c18d0204ca507675ac%2Fthumb-sagitario-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/cf1c980/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fc8%2Fa0%2F0e78cb4a43c18d0204ca507675ac%2Fthumb-sagitario-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/4524d64/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fc8%2Fa0%2F0e78cb4a43c18d0204ca507675ac%2Fthumb-sagitario-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/644d7d0/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fc8%2Fa0%2F0e78cb4a43c18d0204ca507675ac%2Fthumb-sagitario-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/b31084c/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fc8%2Fa0%2F0e78cb4a43c18d0204ca507675ac%2Fthumb-sagitario-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72640004",
+    "uri": "https://www.univision.com/entretenimiento/capricornio",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Capricornio: 22 de diciembre - 19 de enero",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b470000",
+      "title": "Capricornio Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn3.uvnimg.com/7b/5c/d82bd703459f8f22704d8ab5d4a1/thumb-capricornio-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/0aaa048/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7b%2F5c%2Fd82bd703459f8f22704d8ab5d4a1%2Fthumb-capricornio-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/8ba0302/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7b%2F5c%2Fd82bd703459f8f22704d8ab5d4a1%2Fthumb-capricornio-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/ea38de0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7b%2F5c%2Fd82bd703459f8f22704d8ab5d4a1%2Fthumb-capricornio-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/28fdba1/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7b%2F5c%2Fd82bd703459f8f22704d8ab5d4a1%2Fthumb-capricornio-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/e997f7a/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7b%2F5c%2Fd82bd703459f8f22704d8ab5d4a1%2Fthumb-capricornio-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn5.performance.univision.com/dims4/default/01995bd/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7b%2F5c%2Fd82bd703459f8f22704d8ab5d4a1%2Fthumb-capricornio-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72640005",
+    "uri": "https://www.univision.com/entretenimiento/acuario",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Acuario: 20 de enero - 18 de febrero",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b4e0001",
+      "title": "Acuario Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn3.uvnimg.com/3f/27/45fb30924fd385dc01ca5e7e358b/thumb-acuario-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/b58d951/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2F27%2F45fb30924fd385dc01ca5e7e358b%2Fthumb-acuario-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/569b9de/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2F27%2F45fb30924fd385dc01ca5e7e358b%2Fthumb-acuario-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/d67ee50/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2F27%2F45fb30924fd385dc01ca5e7e358b%2Fthumb-acuario-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/9829010/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2F27%2F45fb30924fd385dc01ca5e7e358b%2Fthumb-acuario-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/ac05894/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2F27%2F45fb30924fd385dc01ca5e7e358b%2Fthumb-acuario-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn4.performance.univision.com/dims4/default/9e67fa3/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2F27%2F45fb30924fd385dc01ca5e7e358b%2Fthumb-acuario-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  },
+  {
+    "uid": "00000163-da72-de00-a577-dffe72650000",
+    "uri": "https://www.univision.com/entretenimiento/piscis",
+    "type": "externalcontent",
+    "updateDate": null,
+    "publishDate": null,
+    "title": "Piscis: 19 de febrero - 20 de marzo",
+    "description": null,
+    "image": {
+      "type": "image",
+      "uid": "00000161-ae4f-d703-a3f3-afdf8b3c0000",
+      "title": "Piscis Promo Image",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn2.uvnimg.com/22/fd/22dcbdaa44359bf82fa69beccebb/thumb-piscis-1.jpg",
+          "width": 1200,
+          "height": 672
+        },
+        "16x9-med": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/1f57de4/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F22%2Ffd%2F22dcbdaa44359bf82fa69beccebb%2Fthumb-piscis-1.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/4acb6b9/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F22%2Ffd%2F22dcbdaa44359bf82fa69beccebb%2Fthumb-piscis-1.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/99cb01a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F22%2Ffd%2F22dcbdaa44359bf82fa69beccebb%2Fthumb-piscis-1.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/a07bc75/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F22%2Ffd%2F22dcbdaa44359bf82fa69beccebb%2Fthumb-piscis-1.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-extended": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/0ca2a42/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F22%2Ffd%2F22dcbdaa44359bf82fa69beccebb%2Fthumb-piscis-1.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href": "https://cdn2.performance.univision.com/dims4/default/a45ba1e/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F22%2Ffd%2F22dcbdaa44359bf82fa69beccebb%2Fthumb-piscis-1.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    }
+  }
+]

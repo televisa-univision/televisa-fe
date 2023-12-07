@@ -1,0 +1,137 @@
+{
+    "status": "success",
+    "data": {
+      "uid": "0000014d-489f-d733-abdd-6adf51f50000",
+      "uri": "https://performance.univision.com/search",
+      "type": "portalsearchpage",
+      "updateDate": "2018-04-25T10:31:11-04:00",
+      "publishDate": "2015-05-12T10:55:18-04:00",
+      "expirationDate": null,
+      "adSettings": {
+        "adTagValue": "custom_",
+        "targeting": {
+          "channel": "portal",
+          "subchannel": "Portal Search Page",
+          "section": "homepage",
+          "client": "desktop"
+        },
+        "disableAds": false,
+        "disableVideoAds": false,
+        "freewheel": {
+          "sectionId": "search",
+          "assetId": null,
+          "adValue": null,
+          "test": {
+            "displayAdProfilePath": "univision_linktag2_live",
+            "host": "https://1b656.v.fwmrm.net",
+            "linkTag2Profile": "univision_linktag2_live",
+            "networkCode": "111976",
+            "profilePath": "univision_Live_HTML5"
+          },
+          "production": {
+            "displayAdProfilePath": "univision_test",
+            "host": "https://1b656.v.fwmrm.net",
+            "linkTag2Profile": "univision_linktag2_live",
+            "networkCode": "111976",
+            "profilePath": "univision_Live_HTML5"
+          }
+        },
+        "dfp": {
+          "adValue": "/search",
+          "production": {
+            "desktopAdValuePrefix": "d.",
+            "mobileAdValuePrefix": "m.",
+            "networkCode": "7009"
+          },
+          "test": {
+            "desktopAdValuePrefix": "d.",
+            "mobileAdValuePrefix": "m.",
+            "networkCode": "7009"
+          }
+        }
+      },
+      "tracking": {
+        "tealium": {
+          "account": "main",
+          "environment": "dev",
+          "data": {
+            "content_created_date": "1431442518646",
+            "content_creator": "0000014a-bfef-dd70-a5fe-ffefd3900001",
+            "content_id": "0000014d-489f-d733-abdd-6adf51f50000",
+            "content_modified_date": "1524666671147",
+            "content_type": "portalsearchpage",
+            "environment_name": "staging",
+            "language": "es",
+            "page_name": "portalsearchpage",
+            "permalink": "https://performance.univision.com/search",
+            "portal_theme": "tv",
+            "uci_division": "",
+            "website": "univision",
+            "uni_platform": "Website"
+          }
+        },
+        "nielsen": {
+          "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+          "vcid": "c02",
+          "environment": "dev",
+          "primaryTopic": null
+        }
+      },
+      "seo": {
+        "title": "BSP View - Univision",
+        "description": "Search over Univision & Uvideos sites",
+        "keywords": null,
+        "robots": [
+
+        ],
+        "tagHierarchy": [
+
+        ]
+      },
+      "widgets": [
+
+      ],
+      "brandable": null,
+      "tagHierarchy": [
+
+      ],
+      "typeFilters": [
+        {
+          "code": "video",
+          "label": "Video"
+        },
+        {
+          "code": "slideshow",
+          "label": "Foto"
+        },
+        {
+          "code": "article",
+          "label": "Artículo"
+        }
+      ],
+      "dateFilters": [
+        {
+          "code": "today",
+          "label": "Today"
+        },
+        {
+          "code": "week",
+          "label": "This Week"
+        },
+        {
+          "code": "month",
+          "label": "This Month"
+        },
+        {
+          "code": "year",
+          "label": "This Year"
+        },
+        {
+          "code": "all",
+          "label": "Any Date"
+        }
+      ],
+      "ttl": 3600,
+      "feedGeneratedAt": "2018-04-25T12:12:23-04:00"
+    }
+  }

@@ -1,0 +1,32 @@
+@mixin full {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  display: block;
+}
+
+.full-xl {
+  // xl needs to include 1440px and up, so we use media-breakpoint-up
+  @include media-breakpoint-up('xl') {
+    @include full;
+  }
+}
+
+.full-xxs {
+  // xxs needs to include 480px and below, so we use media-breakpoint-down
+  @include media-breakpoint-down('xxs') {
+    @include full;
+  }
+}
+
+@each $name in ('xs', 'sm', 'md', 'lg'){
+  // applies only to the specific breakpoint, so we use media-breakpoint-only
+  @include media-breakpoint-only($name) {
+    .full-#{$name} {
+      @include full;
+    }
+  }
+}

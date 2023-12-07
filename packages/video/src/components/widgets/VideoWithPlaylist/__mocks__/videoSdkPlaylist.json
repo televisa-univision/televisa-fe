@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "univision-3361422",
+    "createdDate": "2017-08-27T20:59:52+00:00",
+    "modifiedDate": "2020-05-02T05:46:07+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3361422",
+        "dateCreated": "2017-08-26T22:27:19+00:00",
+        "dateReleased": "2017-08-26T22:26:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2027-08-26T22:26:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2017-08-26T22:00:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-PG",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2017
+        },
+        "series": {
+          "name": {
+            "es": "San Antonio"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/320"
+        },
+        "registryEntries": [],
+        "description": {
+          "es": "Desde temprano, miles de residentes se acercaron a refugios para prestar ayuda como voluntarios. Los damnificados señalan que han tenido las mejores atenciones."
+        },
+        "headline": {
+          "es": "Comunidad de San Antonio respondió el llamado de ayuda a los damnificados por la tormenta tropical Harvey"
+        },
+        "keywords": [
+          "actionId.20201",
+          "San Antonio"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Comunidad de San Antonio respondió el llamado de ayuda a los damnificados por la tormenta tropical Harvey"
+        },
+        "transcriptLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/18F/307/18F307D8410E4D56B3F7B8C95896B583.dfxp?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682980103&Signature=E3MzzjQwaYVsRwO4ZSQ6wCSw1Kz2dQeffY5aq7bEOdyWfCAYTC2%2FTq3M57l7ACsFjDaetau%2By8vdG82KurC4pW3R5ri3pN1AzlGlTb3rYCYhv9s5zNPNdDSQikBTTj3Ftm%2FxsDadxExLzcF7Ppnvulgqel1FUf9PikGZKOYtqkPHfIg5ZD5r3aU5OqUbjTTN9%2F1gvlSTrqtSJRy7TL1Mo0nmT0YPerw6sC0p7l%2FwrHWhuCVV744en1BMjFF8qj%2FOTLmGYkyR4xuM2vsN1S8YktAYSlweATEp2e%2BVka99t3mTHLNfVPZD5BWKLreP3j0Ok%2F9NLvWaJyBAa02SyZmC2Q%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/dfxp/es",
+            "linkQuals_fmg": {
+              "contentType": "DFXP",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/AD6/E45/AD6E45074ED846CAAE076244D352ABD4.json?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682980103&Signature=BGd3iimPmUJF7hJZaY9cAN9nzIJYL7dF2p6OcQsQw6C4TDJPLjnXd2QE6Imw8XpfXVcFnxcoy98UMlD9ap16lZIVEsf14XoCT5T5hboSHSsRbZscLM3zfoIaQjRbwxK0spFEQC%2FliumpuTQFTzwIOPX14ltrGzCU6ODZaxFzTIoYkVP7qUqPA3rSMeDoiytBQ0KOjLT%2F4cNgkPZnECXEJG738Gdveijx9WBC6jGpjg0R1%2B1bsxKWNNDcGll0hpB0CSet%2FkJkT3IyRsU8dfCHlHlFIeHx3WRQNU1VtsEr84iAJ%2Fzih%2BKhICLspfQjLMhDo%2FRe9vW1FITEowYWzlysXg%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/json/es",
+            "linkQuals_fmg": {
+              "contentType": "JSON",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/797/053/797053F43C2C4E73A51AF423B8A1DB1A.scc?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682980103&Signature=l1P8r7yivOL%2Fu2N%2FQuf4LWeAuwbc7SaZ9quzauHLi2uPiiNSQfbNtQKFATMbtEro%2BE0o%2FcceuH0LqPgpOIHiF%2BMraGp5KL897m8Q%2FsoQhZiVyTYs3KAcZldoLjpAz59h6n%2Bi%2BIGQ7wrLSwOL%2Fsq%2BZ7CoE%2FzMzBje%2B3vSYP2Ul7tG3RfWktBLW1ovgd2G9huz8CrCmW%2FoODG0zHZPGQQL0EJHkBjClQZoBG1lCp%2FWqEMFqXcV4OJkTuf0ZbE8r79BgiibKPrKShLkq0CbOwvAxSJQ0HcwREUBfFed4Re9Kb5JunneKbn9o6JyoHVX%2FONXGJvCTTZFP2iQygRX%2FJbLgw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/scc/es",
+            "linkQuals_fmg": {
+              "contentType": "SCC",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/C62/7D3/C627D33C156A49038D7AC60443522A38.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682980103&Signature=kWgCOD3M9mCOQ86taUGXMmsU%2BAe7ZkqO8p3bbay6eFwf8KMq7hMznZ9chOwjaigMZ0EgMaPpFWmTZ45RmwBk0Z20qY%2FlRGWIvLFWTcZmTbJoShBKAjFAwqiHx2ctXzoFgP5gvftPWjZS%2Fa1CHxA4WoMYhB1JTrGCwCUrBnBBY5Fsw4OU5rWuABf1jZoyLRFY2B2nAOv52QETFV0yOZB45mO3cxH%2BF%2BFO%2BYcmxWlPrH2rPaFzI8HZuKbvLtVTCHoLXxcJI%2FzWfV1PfR9OFY3jv90nrZEDMSFVrXCvUu1wmc9VYSdK1B2MzWDQdCKphvoRPGDE6y9l6Nnkiy79lyVLlQ%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/smpte-tt/es",
+            "linkQuals_fmg": {
+              "contentType": "SMPTE-TT",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/7CA/A79/7CAA79197F6A421C8CDC749C388BFDE3.vtt?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682980103&Signature=O%2FQxqoP3O5W%2BOVOrDygUtyJBdfocDvVahYuR2ezTUzoDNzrbum4hW0Ig6p6FtJuzUChZx%2F1i1eIeGjvnBTcF%2BieDlyGAmgsgDBE%2FbT9LhnwPk14rZ1hdh9Z4Wkgv96LDjSRFUu2V5aqTEHnaJuuEMwlC%2Fv%2B%2Fm4LaQjL81KKv7xF%2BuaGCqO7owsHuTKBsq9SxSgFgwxhMcwIr4rvQ9xcwHUK3%2BmR7OKz9i4pSO3kxIXNgpUUaRf22a31OEKafN9azuFyM%2F%2FcS0tYrT3PXlH9tysN3zesE%2F9DhJhXVEJ61j7PqlDZIXKhJR1Mdt1obi5lrnOc4MrymsX1TrHuXMYkofg%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/vtt/es",
+            "linkQuals_fmg": {
+              "contentType": "VTT",
+              "language": "es"
+            }
+          }
+        ],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captures/1CC/00F/1CC00F639744454EBEDBC250BF9A39EA.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682980103&Signature=T%2Bu4NkmspFXHqquuykoNmqkxP0I8kySirq3dxvajmw7qdV4j2rqSicfmNvr2KVdM1ds9LPM%2BNZWWMMtmbrlROfNcqw0HuffR7D%2FmnISaVIHo7KrhdKkmjD88%2F9bDPRsotTrIzFYZD7MVJktuGk0aH3XMt0G7j%2FONHz%2Bn%2FFHH1l%2Bxi8d2BsMNhQjiyY6ee4XRHvxlDOJJygcTf%2BctbU6TaLDRzEgAq%2FnMhRBarcDq9hzvEYknkUcW0urmdv2n7de3z4YLZyCtD3j2kC9Eykhmt906MQGrl1UKC5Q6iMDc4sJyH53SPy7nW424WNlrRm2h6MaZtC3zpc26oYjP%2FdSb%2FA%3D%3D",
+            "role": "preview"
+          }
+        ],
+        "cloudinaryLink": {
+          "link": "https://cdn7.uvnimg.com/univision-media/image/upload/v1559107295/prod/3361422.jpg"
+        },
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "San Antonio: KWEX"
+          }
+        },
+        "fileDuration": "live",
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 9932
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://g-univision.akamaized.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_500.mp4?Expires=1682980103&KeyName=mcpkey1&Signature=2j9xEP8vOWiInJWUsfoKkdA8QNQ",
+            "frameSize": {
+              "widthPixels": 512,
+              "heightPixels": 288
+            },
+            "videoBitrate": "500",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://g-univision.akamaized.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_800.mp4?Expires=1682980103&KeyName=mcpkey1&Signature=ib4MrY-72udntJRWOLM87ePowoM",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "800",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_350.m3u8?Expires=1682980103&KeyName=mcpkey1&Signature=ssVNlCeatL96L5sxS8kHi_xlQ18",
+            "frameSize": {
+              "widthPixels": 368,
+              "heightPixels": 208
+            },
+            "videoBitrate": "350",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_750.m3u8?Expires=1682980103&KeyName=mcpkey1&Signature=zRYOKnYzWBVPHlXpCj05W0Foar8",
+            "frameSize": {
+              "widthPixels": 480,
+              "heightPixels": 272
+            },
+            "videoBitrate": "750",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_1500.m3u8?Expires=1682980103&KeyName=mcpkey1&Signature=tygBKjh-Ai3q33Fcfzf6VzeudCg",
+            "frameSize": {
+              "widthPixels": 720,
+              "heightPixels": 404
+            },
+            "videoBitrate": "1500",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_2250.m3u8?Expires=1682980103&KeyName=mcpkey1&Signature=o-TCNtzxobsB7hGI5rSjqltveX8",
+            "frameSize": {
+              "widthPixels": 960,
+              "heightPixels": 540
+            },
+            "videoBitrate": "2250",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_3400.m3u8?Expires=1682980103&KeyName=mcpkey1&Signature=JUV6rpGVcOGCinm7EKoFJhZCNw4",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "3400",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_4500.m3u8?Expires=1682980103&KeyName=mcpkey1&Signature=RLHFB1S3eszVi4MzcaGIRn7mikg",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "4500",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361422/170826_3361422_Comunidad_de_San_Antonio_respondio_el_llamad_1503786554_6000.m3u8?Expires=1682980103&KeyName=mcpkey1&Signature=77-AHhVWZmJ9aM8TX-lM7AsGkW4",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "6000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3361422?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "Sports",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "E5Dhb2eh",
+        "primaryTopic": "",
+        "categories": [
+          "Locales",
+          "Noticias",
+          "Television"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://cdn7.uvnimg.com/univision-media/image/upload/w_300,h_168,q_auto:best,f_auto,c_fit/v1559107295/prod/3361422.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3361422.xml"
+    }
+  },
+  {
+    "id": "univision-3361420",
+    "createdDate": "2017-08-27T20:59:58+00:00",
+    "modifiedDate": "2020-05-02T05:31:50+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3361420",
+        "dateCreated": "2017-08-26T22:24:27+00:00",
+        "dateReleased": "2017-08-26T22:24:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2027-08-26T22:24:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2017-08-26T22:00:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-PG",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2017
+        },
+        "series": {
+          "name": {
+            "es": "San Antonio"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/320"
+        },
+        "registryEntries": [],
+        "description": {
+          "es": "Acompañado de su esposa, el alcalde Ron Nirenberg estuvo en el estudio de Univision 41 y rindió reporte de los trabajos para reducir los efectos de Harvey."
+        },
+        "headline": {
+          "es": "Alcalde de San Antonio llama a los residentes a seguir en alerta por la tormenta tropical Harvey"
+        },
+        "keywords": [
+          "San Antonio"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Alcalde de San Antonio llama a los residentes a seguir en alerta por la tormenta tropical Harvey"
+        },
+        "transcriptLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/1C0/44C/1C044C3406694564BA5950B751CBC4C4.dfxp?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682979898&Signature=cP4qUFRJOuLzBqaeioF2ryN51WrHvNU46sLg%2B8%2FoJu%2FHhOXIwcEVA7R6SNA2PS7zr52dCrsJezcA1%2FEY%2BNygsTCPwnZCH2E%2BnC0u2Jqod7mrDlxDtJ5uR2r5U%2B4kdDvntMRnvjAQR2j9pf9C2zJ4Ge%2FjHwxMutSZ6nrF%2BPlwkqubhDvXjq%2FXzAAuAqxEm6OG8UiehWy2PkWR%2Fnf4I6GdbxbSD3rQlXP1qXyeHZIWZGJBKxm1zx2iHjMeGwG1NcSp60mR%2F3Kh44dbozFG79FbKkO1Q%2B4psdyNtV2JxL6hFCd3sSfC%2FpG%2Fj2y5NN5LFabwGRHgQ%2FTElKZ1uckiHvtJRQ%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/dfxp/es",
+            "linkQuals_fmg": {
+              "contentType": "DFXP",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/6D4/8FE/6D48FEDB23A6413E99C170CE73E71531.json?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682979898&Signature=mAKMZG9SRvj7S%2F9Qy7LGZ9wmMIdJLb4TLaAXoA5img7M7ZKbsBnCOI7c%2FerGEbfjikQbws4dlvWJ3P%2BJB4C2OAW8VJ4KoV2diDSkTPWfoEm4Jjtk79HPeBnDdiD7dhmRh7ZJ0v0FAtnm1mCvX6%2BvAQT%2BCz60I%2B2%2F0L1BvgUzg5Ernw7ugbGKc%2F6INv2lc7IQxJwsxTZ5dxN%2BKV4M33UrymCTxkzu2EfALyq6XSJosJeHoRxYt6U061p%2FozAGDZLocYzIucozZSzi%2FIqoMzw44%2FGRNbcT65UQHOoc4zIK1%2FIr5OZFwT5OC6ZPKVMfvFQ5ItvV3MeQ%2FbvoieL45esioA%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/json/es",
+            "linkQuals_fmg": {
+              "contentType": "JSON",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/02D/A94/02DA9411E0B14701AF3A7C03E1DA0BFA.scc?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682979898&Signature=O3weR0qD7w5lk6z%2ByL0dNfr203Xp2AbQsVeJa%2FyD%2F%2FPlsf8aSTS%2FbT1mXpU9%2FrwZ8CusAHigmg58h97hYrRuFLZBEajkC1pFkjskJ0jmiT%2BcQmebSaolpIlVevLpKdJXvnwkhTQCC95jEHkNEfz1D%2FmJ%2Bgp5w85k6bMlGSLavZz633KMIKT4ALMfTaVhIwDeG%2Buq6wIN6lsMHtzuGswt33PO5wLsdWjoM1BhjgdGHdGuONKkjC3tqS4DZi0jSR%2F2WhVNcDJzg0qjU17%2FRO1ZcLzW3kFw8K%2BZI3sMPjbDubsdp%2Fk7EiBYMndGRPkBMySVQY%2Faw2iU%2BDIPiWjQ0X1L%2FQ%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/scc/es",
+            "linkQuals_fmg": {
+              "contentType": "SCC",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/0B8/97F/0B897F4A036E415FAECE3E8EE7D5F032.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682979898&Signature=eXFSuBk%2B5S8XqKP4q%2FZ1EqO4gpmXJbjCo4ezN3ZAC6G%2F3Ws%2FuDprj5Y43mn9YD86IR%2FanMBE1WMy2NTMO81nQ%2FbSx78Sy%2Fqkzfon14JyD9fCG9i9ypr5VEp7xlg0ftqmq%2BV9iT0XMxnJM%2Fd76O7Nw0llLvXnGTGxMSLNKcpYyoU7PJbKxbxn44PdtoB%2Ftvy23LaFg5DFNGhs5OLuSOTRt%2FWiVIFnXTiA7gnDIAT%2BLy3l04zcy8OItzdS9ZhIZNnytigghJjhkfkXgvM6R%2FxDdqo1wuG4B7HGBvWDL5drnkI8E9z1iFLsUu%2FejRiVQ9dcZNsJWzh97oXGlnkwiMwVIw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/smpte-tt/es",
+            "linkQuals_fmg": {
+              "contentType": "SMPTE-TT",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/A60/8C6/A608C6995AAD40A2A40DE99968A20FF3.vtt?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682979898&Signature=LPrCzhEfB0kjo3nUyokD2TAXM301bYciZYlpHBVg5bafjtzkIAJZtsuoGKCFYsTvLkZMGjbTZjf0R1mefzJdBXCZbF97cTwKplDcEbXcW6on%2FeGh%2FxbVpxqkVAvJ25wYpD1XSx1IsTXXKdS9fzL9H5Sk9gOP5WvOqRLnRoJ03AIUpI78m5cDZ0aAD4UBhE4BWLWAxUwI41AcOoJlHl7zG%2FL%2BFHzbBiT3rgqS4KArN%2FX%2Fd4vTdgCeuALR%2FWXxYZxjx2QEJBCTzvQJJAUVvWsoS9oYwWM27xQ5dNuKAWHLr4aKz8eGz4RRRj3y%2B79NpdyLmKtY1IXQhie1G2A1o3K5KQ%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/vtt/es",
+            "linkQuals_fmg": {
+              "contentType": "VTT",
+              "language": "es"
+            }
+          }
+        ],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captures/83E/FDF/83EFDF0E67984D49B3BDA3F9805FCB38.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1682979898&Signature=L8qVvDya8CNdTRJyEDBJZxfHyY%2F7j7zHVJ20GB7tHiYDO%2FMnpEpjsDSICPacXkc%2BHl1qjwvY2kjB%2B0QX5r1jkxE%2FiPbiSJOrVLBR6g2IiKkcA6U9V7d6moiloSeX3cQDtCxHiJebmFvT0nMqfvQ30I72jSIrgTQN7ZBxmtehvDtbxr3E%2Bfw9GinkRrZ9nr4US8XU5CdzWBhNDGFSr5Mc9iu4yYVJ4LWrz6%2FEfjEnLbqr7uYNDBQlyLay2nMwmg2Lvh%2BpBIxRLwD8CmRK31z%2BEQ3xBcFFPRpK769xgPLwl%2BZvw0IWV8jnPtzpVHj%2BSt%2BOjXqvk4XzUyUZ67R6XR68yQ%3D%3D",
+            "role": "preview"
+          }
+        ],
+        "cloudinaryLink": {
+          "link": "https://cdn7.uvnimg.com/univision-media/image/upload/v1559122451/prod/3361420.jpg"
+        },
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "San Antonio: KWEX"
+          }
+        },
+        "fileDuration": 406,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 10084
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://g-univision.akamaized.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_500.mp4?Expires=1682979898&KeyName=mcpkey1&Signature=bVNGppKafsnqUNmtmdxsSCubiQY",
+            "frameSize": {
+              "widthPixels": 512,
+              "heightPixels": 288
+            },
+            "videoBitrate": "500",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://g-univision.akamaized.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_800.mp4?Expires=1682979898&KeyName=mcpkey1&Signature=HrcIT9spRpJVjEZXY5qFUPg_ycQ",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "800",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_350.m3u8?Expires=1682979898&KeyName=mcpkey1&Signature=FkM9sAekwz0D0q7N-aAEiMFUUgc",
+            "frameSize": {
+              "widthPixels": 368,
+              "heightPixels": 208
+            },
+            "videoBitrate": "350",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_750.m3u8?Expires=1682979898&KeyName=mcpkey1&Signature=qoYJsEaazJH5-kVinJ4-9sESayE",
+            "frameSize": {
+              "widthPixels": 480,
+              "heightPixels": 272
+            },
+            "videoBitrate": "750",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_1500.m3u8?Expires=1682979898&KeyName=mcpkey1&Signature=qHSoRZy4IvkEkaY5jDm7B6h_Kw0",
+            "frameSize": {
+              "widthPixels": 720,
+              "heightPixels": 404
+            },
+            "videoBitrate": "1500",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_2250.m3u8?Expires=1682979898&KeyName=mcpkey1&Signature=D2S8y9MR_BQcKDEJspAqZsfyIyA",
+            "frameSize": {
+              "widthPixels": 960,
+              "heightPixels": 540
+            },
+            "videoBitrate": "2250",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_3400.m3u8?Expires=1682979898&KeyName=mcpkey1&Signature=m9BET9ehexnB-z80MOpeyPFioQU",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "3400",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_4500.m3u8?Expires=1682979898&KeyName=mcpkey1&Signature=4vIAky8SRz1sEortWSq-rU8Hr-8",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "4500",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/320/17/08/26/3361420/170826_3361420_Alcalde_de_San_Antonio_llama_a_los_residente_1503786492_6000.m3u8?Expires=1682979898&KeyName=mcpkey1&Signature=hmnvTqnZnRuMDWVw1MGwJ1tnidQ",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "6000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3361420?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "Sports",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "DaFOBNR1",
+        "primaryTopic": "",
+        "categories": [
+          "Locales",
+          "Noticias",
+          "Television"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://cdn7.uvnimg.com/univision-media/image/upload/w_300,h_168,q_auto:best,f_auto,c_fit/v1559122451/prod/3361420.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3361420.xml"
+    }
+  },
+  {
+    "id": "univision-3361417",
+    "createdDate": "2017-08-27T20:58:48+00:00",
+    "modifiedDate": "2020-08-18T02:50:07+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3361417",
+        "dateCreated": "2017-08-26T22:21:32+00:00",
+        "dateReleased": "2017-08-26T22:21:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2027-08-26T22:21:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2017-08-26T22:00:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-G",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2017
+        },
+        "series": {
+          "name": {
+            "es": "Miami"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/195"
+        },
+        "registryEntries": [
+          {
+            "assetIdentifier": "Accidente",
+            "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/seo/friendly-key"
+          }
+        ],
+        "description": {
+          "es": "En una rápida acción, la policía de Homestead logró capturarlo minutos después del incidente. Una de las víctimas se encuentra en condición crítica."
+        },
+        "headline": {
+          "es": "Conductor atropelló a una pareja que viajaba en motocicleta y luego se dio a la fuga"
+        },
+        "keywords": [
+          "actionId.20202",
+          "MIAMI",
+          "Radiomambi710am",
+          "Miamigeo",
+          "WQBA1140am",
+          "Sucesos",
+          "heridos",
+          "hispanos",
+          "Homestead",
+          "accidentes",
+          "Mercede apris"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Conductor atropelló a una pareja que viajaba en motocicleta y luego se dio a la fuga"
+        },
+        "transcriptLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/E43/CC6/E43CC6F700AA4CEA862D44B928B362D9.dfxp?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1692326938&Signature=cXsgC%2F%2B9OOl8g9HKQneuWzc1JmvKckbaLF8OgR8U%2FBRdqowuTzZAaBOBWppp4zuO1RgVhP4l1tySZhjx%2Bz0DypxeuqY45yWtU8SBZevgOMgDJMSILyOVINkQSIzE3OHahaZgUs8SLa0A6PPIPHMyxeGcqxIr809a%2B9bstOJAxjiVr1oQEY0vHI5jDDd2XhXmJD49mxrFhtpQy97gwKzsKD2vWf3iBrYuPtsAN1hV3FoepgVf6RiC7yaW%2BnI9BCtmLuwagQIrpzYAxnu18ka2A5FEBqq7kH4AwgukGbmLzCfFaioNTchSGrIXY3cz%2F%2BUleXO7XUGJEE%2BJTwGtdmUZbQ%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/dfxp/es",
+            "linkQuals_fmg": {
+              "contentType": "DFXP",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/FB0/E84/FB0E846B3EB74C59B1B6587B73DBF8F9.json?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1692326938&Signature=Besw%2BtcZaIY9Wi1t5NhN1eMShNcH7dtCFB0d9Ec2t9sxjCiPC8NnF8cQufcyDrmJLrwavsXL3E1hmxWdJtWfAK%2BVFmbCBBVmH4Ii8FyHTWMiAQnZSoxDik07j69vv8gbmYYCMaXNqb%2BILZZIzicns9F0TIQ5WlsiwaM4%2Fq5z91KBIf8LtgB4nDAKcvijBLzD%2FP2W9fJnfcsakBtlIKDOjTZRyBI9Xd%2BvIgVzLc3tNfcW6o0eMbt7Sf6y8oT0X5ZqAuVmAlwPk0dDP12HnUpakqM9Q8bplLr3B9wL67TJB2IlEjEkeourzPgZgSxDYOQK9u%2B0g0H%2BhqrT2yylychYjw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/json/es",
+            "linkQuals_fmg": {
+              "contentType": "JSON",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/EEB/2EB/EEB2EB93643D4724AF96895220BF6044.scc?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1692326938&Signature=zn39gxl9%2BKWko%2BVY8LwFFU9jTmo9oWD%2BzLrEkRQkDFFKq0kSaxHAPQutgSFqq7Mle7YbG3Pd%2FO7zl6iJjJQWoL6yvd15ZEkgWTCTHTWogjoDFKR0sFYIoau1yrcKk8kbAN8NZMoixrk3LDvk3yNaUlzqav4EoAOxiWmALMfJhwAjxims12i2zplQeuGiDLzrJhteR6zYvN7loLuRZJ4hdjQHmOKgt0ofpXDwabkCQ1k9fo4MT9J8nSR5VQxeGN6bctfXTpsoMRkHZ3LhFoYyQImJPT%2FCqrVuFrA5h8%2BFrgLNqYlq%2BPKYfI03NGJwmqysYxs46hiZ4jURhASX8zr4wg%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/scc/es",
+            "linkQuals_fmg": {
+              "contentType": "SCC",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/500/C6D/500C6D6D62694536BF4ACEA59514DC6A.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1692326938&Signature=FiqDb9htcffVET%2FEI45xCW8fwTSFwMoS79X9DqNjMlopGM0cCoW%2Fc3HFTqTmn%2B8NnJ4s2cn15X%2F6V1IXnhImTC1HboTAHhrLGtYKK4I9HCqjhkKHWKAzi4dgKxsc8ynDLdbCXgv63u5NtqoYIF0A7ev2WLPMhql4EMDBVI2QiqDSpfqZdq7ogfcw5c5k7%2BkVbwhH3Yg7LLHzNSIr2Z4hUInoE1W%2FUyFDARykhmB3jG4Qy97Iudljl3SqVH823bc2p%2BDQtxUaqOzVSL6vfLIMWJ%2BPs2%2BCY5vNfKRaEwhbrZA3O2B6ssncchXg5ooxnkdGvc62eR0zdEvFPoldASgdIQ%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/smpte-tt/es",
+            "linkQuals_fmg": {
+              "contentType": "SMPTE-TT",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/193/690/1936901CB47149ADB1922001EC301B92.vtt?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1692326938&Signature=nUh%2BLIkNBGHzqRNaaFFNIFr6WmX9bLUrBRR1vk49%2BD9IbEOduqwYxFVArO90QbcWz09re%2FjuwUXN8sIEMepNwmG5l06cSXXI2SkH8S8HKQfmJVUShBiODYPILW8gy%2FbMwxtGGQN%2FZtMnluOpNcfwU5wx8%2FY5W4I3TPcZGgTES3Om35FaChDj75apx%2Fh5wA5VEmbdrZm0qldXJ%2FHunKaJ4vVUPHsKiRbae369BKSNQrLQ%2B9JekIr6ItIgvj7ExRWH6lEcNanlxczPTzb9VAKXmXH8aWXw23EyKLl7PDFRg%2FJkEh%2FXPfcyKiQzy%2B0RqISh7okX%2BB6ytMkEir5EN19%2BZw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/vtt/es",
+            "linkQuals_fmg": {
+              "contentType": "VTT",
+              "language": "es"
+            }
+          }
+        ],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/iupl/A6B/DFD/A6BDFDC9D0364D50923F2698B04B20AB.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1692326938&Signature=be4XRMtAPYLOP5mC0jONlzJBx8VdhkCUDqjJAeXYETMsUp1XkttchpJCbEbP%2B4aAXe90IMIoa914yGTJAXpbcUsBdxKx8BSGSggKXhU4L8GVuOzIICTSKENRfhsu%2FX8KBAtoem9ueoVF%2BbgnYBR7guUt3s7rJMwKBp9MVj4lg7fnRoMHHJbvDT1dAK%2FrJZ6HN3St9E6NEagrZTYvxq3PBFVCzeU%2FUyN4TBFwA8vn%2Buquacx%2Byk9l%2BD96g1%2FmpvlclUVWsIICM1zHYzzlGWV37XmoVKu%2BsZJr67DS1huNoGiPe35zgpNI8cz7WmuPi9TBF0NDR1m4lYyy1iiqUsHV4A%3D%3D",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3361417/A6BDFDC9D0364D50923F2698B04B20AB_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "fileDuration": 119,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 9989
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://g-univision.akamaized.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_500.mp4?Expires=1692326938&KeyName=mcpkey1&Signature=DgrV0-QCfwcr7PNKg6K25a9bsW0",
+            "frameSize": {
+              "widthPixels": 512,
+              "heightPixels": 288
+            },
+            "videoBitrate": "500",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://g-univision.akamaized.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_800.mp4?Expires=1692326938&KeyName=mcpkey1&Signature=lsvs1cRNaZxD7ArJJgUjUXEjWuc",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "800",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_350.m3u8?Expires=1692326938&KeyName=mcpkey1&Signature=V2-KuhpOGqViAVkyA-r3JuDYVTo",
+            "frameSize": {
+              "widthPixels": 368,
+              "heightPixels": 208
+            },
+            "videoBitrate": "350",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_750.m3u8?Expires=1692326938&KeyName=mcpkey1&Signature=I5XMIjplkAfeAyMijKbjrCPTenQ",
+            "frameSize": {
+              "widthPixels": 480,
+              "heightPixels": 272
+            },
+            "videoBitrate": "750",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_1500.m3u8?Expires=1692326938&KeyName=mcpkey1&Signature=yr4jTygWKobO6rzKjNiYqdliEXE",
+            "frameSize": {
+              "widthPixels": 720,
+              "heightPixels": 404
+            },
+            "videoBitrate": "1500",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_2250.m3u8?Expires=1692326938&KeyName=mcpkey1&Signature=RNOVIjc49GRgSJ7AjEokNI2x0wI",
+            "frameSize": {
+              "widthPixels": 960,
+              "heightPixels": 540
+            },
+            "videoBitrate": "2250",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_3400.m3u8?Expires=1692326938&KeyName=mcpkey1&Signature=ArUV5KgbQjxPl7koH2rV5QktFnw",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "3400",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_4500.m3u8?Expires=1692326938&KeyName=mcpkey1&Signature=fI6AmUlqQuzw0svMhL5SOCCq-10",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "4500",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/195/17/08/26/3361417/170826_3361417_Conductor_atropello_a_una_pareja_que_viajaba_1503786504_6000.m3u8?Expires=1692326938&KeyName=mcpkey1&Signature=nEUfQlCF2VwQn_6hioUDBSk-WgU",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "6000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3361417?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "News",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "jUECXysk",
+        "digitalType": "Clipped",
+        "primaryTopic": "",
+        "categories": [
+          "Locales",
+          "Noticias",
+          "Television"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3361417/A6BDFDC9D0364D50923F2698B04B20AB_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3361417.xml"
+    }
+  },
+  {
+    "id": "univision-unidepp56016",
+    "createdDate": "2019-06-01T23:42:23+00:00",
+    "modifiedDate": "2020-08-16T09:09:51+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "unidepp56016",
+        "dateCreated": "2019-06-01T23:42:05+00:00",
+        "dateReleased": "2019-06-01T23:41:10+00:00",
+        "episode": {
+          "number": 1
+        },
+        "publicationEvents": [
+          {
+            "date": "2029-05-29T23:42:05+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2019-06-01T23:41:10+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-Y",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2019
+        },
+        "series": {
+          "name": {
+            "es": "MLS Live"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/819"
+        },
+        "registryEntries": [
+          {
+            "assetIdentifier": "88216930-450e-3de4-8c94-85b9d05c24aa",
+            "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/mcp/external-id"
+          }
+        ],
+        "description": {
+          "es": "Tiro desviado de Nicolás Gaitán on June 1, 2019"
+        },
+        "headline": {
+          "es": "Tiro desviado de Nicolás Gaitán"
+        },
+        "keywords": [
+          "actionid2121461103",
+          "eventdisparoyafuera",
+          "eventid33",
+          "gametime62:20",
+          "leagueus_ml",
+          "matchg1040106",
+          "playerid56491",
+          "playernicolasgaitan",
+          "sportsAction",
+          "sportsHighlight",
+          "teamatlantaunitedfc",
+          "teamchicagofire",
+          "tournamentID98",
+          "clip"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Tiro desviado de Nicolás Gaitán"
+        },
+        "transcriptLinks": [],
+        "snapshotLinks": [
+          {
+            "link": "https://neulionmdnyc-a.akamaihd.net/u/univisiondeportes/thumbs/2019/06/01/56016_eb.jpg",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3690599/56016_eb_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "Univision Deportes Network"
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Univision Deportes Network"
+          }
+        },
+        "fileDuration": 15,
+        "frameSize": {
+          "widthPixels": 960,
+          "heightPixels": 540
+        },
+        "videoBitrate": 0
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://nlds501.cdnllnwnl.neulion.com/nlds_vod/univisiondeportes/vod/2019/06/01/36914/2_36914_a01_atlanta_2019_b_discrete_2121461103_disparoyafuera_1_1600.mp4",
+            "frameSize": {
+              "widthPixels": 960,
+              "heightPixels": 640
+            },
+            "videoBitrate": "1600",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://nlds501.cdnllnwnl.neulion.com/nlds_vod/univisiondeportes/vod/2019/06/01/36914/2_36914_a01_atlanta_2019_b_discrete_2121461103_disparoyafuera_1_1600.mp4",
+            "frameSize": {
+              "widthPixels": 960,
+              "heightPixels": 540
+            },
+            "videoBitrate": "1200",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://nlds501.cdnllnwnl.neulion.com/nlds_vod/univisiondeportes/vod/2019/06/01/36914/2_36914_a01_atlanta_2019_b_discrete_2121461103_disparoyafuera_1_800.mp4",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "800",
+            "fileFormat": "mp4"
+          },
+          {
+            "url": "https://nlds501.cdnllnwnl.neulion.com/nlds_vod/univisiondeportes/vod/2019/06/01/36914/2_36914_a01_atlanta_2019_b_discrete_2121461103_disparoyafuera_1_androidtab.mp4.m3u8",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          },
+          {
+            "url": "http://smb.cdnak.neulion.com/fs/univisiondeportes/mcp/2019/06/01/56016.smil",
+            "frameSize": {
+              "widthPixels": 960,
+              "heightPixels": 540
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "smil"
+          },
+          {
+            "url": "https://nlds501.cdnllnwnl.neulion.com/nlds_vod/univisiondeportes/vod/2019/06/01/36914/2_36914_a01_atlanta_2019_b_discrete_2121461103_disparoyafuera_1.mp4/Manifest",
+            "frameSize": {
+              "widthPixels": 960,
+              "heightPixels": 540
+            },
+            "videoBitrate": "0",
+            "fileFormat": "ism"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Allow"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "Liveclip",
+        "adContentType": "Entertainment",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "hBHaPo6m",
+        "primaryTag": {
+          "id": "00000152-3cae-d5cc-affa-7dafe52e0000",
+          "title": "DEPORTES"
+        },
+        "primaryTopic": "",
+        "categories": [
+          "Futbol",
+          "Deportes"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3690599/56016_eb_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "unidepp56016.xml"
+    }
+  },
+  {
+    "id": "univision-3884700",
+    "createdDate": "2020-07-09T23:45:14+00:00",
+    "modifiedDate": "2020-07-09T23:48:31+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3884700",
+        "dateCreated": "2020-07-09T23:19:02+00:00",
+        "dateReleased": "2020-07-09T23:12:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2030-07-09T23:12:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2020-07-09T23:12:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-PG",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2020
+        },
+        "series": {
+          "name": {
+            "es": "Noticias Original Digital"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/650"
+        },
+        "registryEntries": [],
+        "description": {
+          "es": "Un tornado irrumpió de repente en el condado de Otter Tail, en Minnesota, dejando al menos un muerto y varios heridos y varias casas destruidas por completo. Mas noticias aquí."
+        },
+        "headline": {
+          "es": "En video: Al menos una persona muerta tras el azote de un gigantesco tornado"
+        },
+        "keywords": [
+          "Noticias Univision",
+          "Video",
+          "Univision",
+          "Noticias",
+          "News",
+          "noticiasoriginaldigital"
+        ],
+        "language": "es",
+        "title": {
+          "es": "En video: Al menos una persona muerta tras el azote de un gigantesco tornado"
+        },
+        "transcriptLinks": [],
+        "snapshotLinks": [
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884700/015669ABD11B44DC8C33421C845AF420_190x107.jpg",
+            "role": "preview"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "fileDuration": 59,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 9468
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usaplusauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884700/200709_3884700_En_video__Al_menos_una_persona_muerta_tras_e_1594338256_100.m3u8?Expires=1688946505&KeyName=mcpkey1&Signature=xfP2THobhcFvb3BXKKaMoJRxr0c",
+            "frameSize": {
+              "widthPixels": 360,
+              "heightPixels": 204
+            },
+            "videoBitrate": "100",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884700/200709_3884700_En_video__Al_menos_una_persona_muerta_tras_e_1594338256_140.m3u8?Expires=1688946505&KeyName=mcpkey1&Signature=QEfmvZyigyH8CiERKOqw10DPPzE",
+            "frameSize": {
+              "widthPixels": 428,
+              "heightPixels": 240
+            },
+            "videoBitrate": "140",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884700/200709_3884700_En_video__Al_menos_una_persona_muerta_tras_e_1594338256_360.m3u8?Expires=1688946505&KeyName=mcpkey1&Signature=H6I3Ij-JSo4c2VQPOdXVS3M2eSc",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "360",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884700/200709_3884700_En_video__Al_menos_una_persona_muerta_tras_e_1594338256_950.m3u8?Expires=1688946505&KeyName=mcpkey1&Signature=Q2e_hAeXvZbzrIo9lvuvlBPVrpc",
+            "frameSize": {
+              "widthPixels": 856,
+              "heightPixels": 480
+            },
+            "videoBitrate": "950",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884700/200709_3884700_En_video__Al_menos_una_persona_muerta_tras_e_1594338256_2000.m3u8?Expires=1688946505&KeyName=mcpkey1&Signature=eqcpj4kngRzpUYfOZcvfcdIBoJA",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "2000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884700/200709_3884700_En_video__Al_menos_una_persona_muerta_tras_e_1594338256_4200.m3u8?Expires=1688946505&KeyName=mcpkey1&Signature=vKYTQaWo6Sey2iysTa19gflOaho",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "4200",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3884700?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "USA Plus",
+            "access": "public",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "MX"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "News",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "aBkMbO3u",
+        "primaryTag": {
+          "id": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "title": "NOTICIAS"
+        },
+        "secondaryTags": [
+          {
+            "id": "0000016c-6847-d3bb-a17c-ecf7291e0000",
+            "title": "TAGS"
+          }
+        ],
+        "primaryTopic": "",
+        "categories": [
+          "Noticias"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884700/015669ABD11B44DC8C33421C845AF420_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3884700.xml"
+    }
+  },
+  {
+    "id": "univision-3884334",
+    "createdDate": "2020-07-09T11:58:01+00:00",
+    "modifiedDate": "2020-07-09T11:59:35+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3884334",
+        "dateCreated": "2020-07-09T11:49:11+00:00",
+        "dateReleased": "2020-07-09T11:47:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2030-07-09T11:47:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2020-07-09T11:47:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-PG",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2020
+        },
+        "series": {
+          "name": {
+            "es": "Noticias Original Digital"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/650"
+        },
+        "registryEntries": [],
+        "description": {
+          "es": "En otras noticias, buscan a la actriz Naya Rivera desaparecida en un lago de California; Trump amenaza a los gobernadores con retirarles fondos si no abren las escuelas pese al coronavirus y el gobierno propone negar asilo a personas procedentes de países con enfermedades contagiosas. Más información en UnivisionNoticias.com."
+        },
+        "headline": {
+          "es": "En un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria"
+        },
+        "keywords": [
+          "Noticias Univision",
+          "Video",
+          "Univision",
+          "Noticias",
+          "News",
+          "noticiasoriginaldigital",
+          "amlo",
+          "trump",
+          "muro",
+          "inmigración",
+          "reunión",
+          "casa blanca",
+          "t-mec"
+        ],
+        "language": "es",
+        "title": {
+          "es": "En un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria"
+        },
+        "transcriptLinks": [],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/iupl/48E/86B/48E86B5096AD4A6986DD798388ACB53F.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688903963&Signature=s2NJclCLWoMG7IzrKk%2FDrlGvbPUcWhEkYVwh%2FrBSq0FnoRMUjfef%2FsZElFkRNiVn3NFLb290QBp0I44dvRZ4pOP%2FST04PHiia4I8tgd5cLaR39gIPWuIlaQ3KdQWec3AEjUx8xwcN9fJRQKBJJgt7Nyag2DCFKhbwX6DLnBjPQtCByf37QA34ADOeIlCUxcqE%2Fvlz3nYrXoxp1VVt3FeS8%2Bgfo1t8ncopFvS1RwxiGEr4nzoa2SeQV5SK9LmyEnliKp4FKnUrrmNkmTR%2BIjZBijJhKmtMhgSBg7UKs6b6Xr1rI4sLvVvRaziw7eJlXknyS%2BSVJhW9jndHSum5WW%2ByA%3D%3D",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884334/48E86B5096AD4A6986DD798388ACB53F_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "fileDuration": 73,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 9813
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usaplusauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884334/200709_3884334_En_un_minuto__Trump_y_AMLO_se_deshacen_en_el_1594295767_100.m3u8?Expires=1688903964&KeyName=mcpkey1&Signature=dHkGUU38umMzU-w0MLkUhd5OUCE",
+            "frameSize": {
+              "widthPixels": 360,
+              "heightPixels": 204
+            },
+            "videoBitrate": "100",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884334/200709_3884334_En_un_minuto__Trump_y_AMLO_se_deshacen_en_el_1594295767_140.m3u8?Expires=1688903964&KeyName=mcpkey1&Signature=dnu24_Xcj-Dyf3bOFEtXhti_bxo",
+            "frameSize": {
+              "widthPixels": 428,
+              "heightPixels": 240
+            },
+            "videoBitrate": "140",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884334/200709_3884334_En_un_minuto__Trump_y_AMLO_se_deshacen_en_el_1594295767_360.m3u8?Expires=1688903964&KeyName=mcpkey1&Signature=DTkeTwpksLZ-mkxR1gtnlvzx-qk",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "360",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884334/200709_3884334_En_un_minuto__Trump_y_AMLO_se_deshacen_en_el_1594295767_950.m3u8?Expires=1688903964&KeyName=mcpkey1&Signature=hXx1owsAPQ_xpsA2IUBaPPPhNn4",
+            "frameSize": {
+              "widthPixels": 856,
+              "heightPixels": 480
+            },
+            "videoBitrate": "950",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884334/200709_3884334_En_un_minuto__Trump_y_AMLO_se_deshacen_en_el_1594295767_2000.m3u8?Expires=1688903964&KeyName=mcpkey1&Signature=_xQj6-jzUpQyHMydwlVuwrSPYEs",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "2000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/650/20/07/09/3884334/200709_3884334_En_un_minuto__Trump_y_AMLO_se_deshacen_en_el_1594295767_4200.m3u8?Expires=1688903964&KeyName=mcpkey1&Signature=Dbldb2zCYMuQk8dNydX0GbRJSTc",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "4200",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3884334?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "USA Plus",
+            "access": "public",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "MX"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "News",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "G3JTr9mZ",
+        "primaryTag": {
+          "id": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "title": "NOTICIAS"
+        },
+        "secondaryTags": [
+          {
+            "id": "0000016c-6847-d3bb-a17c-ecf7291e0000",
+            "title": "TAGS"
+          }
+        ],
+        "primaryTopic": "",
+        "categories": [
+          "Noticias"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884334/48E86B5096AD4A6986DD798388ACB53F_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3884334.xml"
+    }
+  }
+]

@@ -1,0 +1,53 @@
+.errorPageContainer {
+  color: $white;
+  margin: auto;
+  min-height: 400px;
+  padding-top: 151px;
+  position: relative;
+  text-align: center;
+  z-index: $zindex-base-screen + 1;
+}
+
+.titlesContainer {
+  margin-bottom: 16px;
+}
+
+.title {
+  font-size: 26px;
+  line-height: 31px;
+  margin-bottom: 18px;
+}
+
+.subTitle {
+  font-size: 15px;
+  line-height: 19px;
+}
+
+.homeLink {
+  color: #9B9B9B;
+  font-size: 10px;
+}
+
+.homeLink, .title {
+  text-transform: uppercase;
+}
+
+.errorPageCover {
+  & > div:first-child {
+    background-color: $darker-grey;
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+  }
+  padding: 20px 0px;
+}
+
+.widgetsContainer {
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.titlesContainer, .widgetsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

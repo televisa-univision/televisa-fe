@@ -1,0 +1,20 @@
+{
+  "desktopArticleBodySettings": {
+    "articleAdInterval": 15,
+    "articleAdMinCharacterCount": 700,
+    "articleAdMaxCharacterCount": 1500,
+    "articleAdLastMinCharacterCount": 300
+  },
+  "tabletArticleBodySettings": {
+    "articleAdInterval": 15,
+    "articleAdMinCharacterCount": 700,
+    "articleAdMaxCharacterCount": 1500,
+    "articleAdLastMinCharacterCount": 300
+  },
+  "mobileArticleBodySettings": {
+    "articleAdInterval": 8,
+    "articleAdMinCharacterCount": 500,
+    "articleAdMaxCharacterCount": 1000,
+    "articleAdLastMinCharacterCount": 100
+  }
+}

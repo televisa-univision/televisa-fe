@@ -1,0 +1,22 @@
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="1.11022302e-14%" y1="100%" x2="116.808197%" y2="36.281922%" id="linearGradient-1">
+            <stop stop-color="#1D1DEA" offset="0%"></stop>
+            <stop stop-color="#C626B6" offset="32.5802365%"></stop>
+            <stop stop-color="#666FD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card-/-Horoscope-/-Portrait" transform="translate(-258.000000, -95.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group">
+                <g id="Background-image">
+                    <g id="Group-2" transform="translate(0.000000, 64.000000)">
+                        <g id="Avatar" transform="translate(258.000000, 31.000000)">
+                            <path d="M51,102 C22.8334778,102 0,79.1665222 0,51 C0,22.8334778 22.8334778,0 51,0 C79.1665222,0 102,22.8334778 102,51 C102,79.1665222 79.1665222,102 51,102 Z M51,100 C78.0619527,100 100,78.0619527 100,51 C100,23.9380473 78.0619527,2 51,2 C23.9380473,2 2,23.9380473 2,51 C2,78.0619527 23.9380473,100 51,100 Z" id="Oval"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

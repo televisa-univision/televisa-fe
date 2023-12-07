@@ -1,0 +1,21 @@
+{
+  "source": "./src",
+  "destination": "./doc",
+  "experimentalProposal": {
+    "classProperties": true,
+    "objectRestSpread": true,
+    "decorators": true,
+    "doExpressions": true,
+    "functionBind": true,
+    "asyncGenerators": true,
+    "exportExtensions": true,
+    "dynamicImport": true
+  },
+  "styles": ["./doc/css/style.css"],
+  "test": {
+    "type": "mocha",
+    "source": "./src"
+  },
+  "unexportIdentifier": true,
+  "lint": false
+}

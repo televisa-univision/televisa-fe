@@ -1,0 +1,6 @@
+{
+  "pageloadPerformance": "pageload_performance",
+  "slideAdvance": "slide_advance",
+  "slideshowPageView": "view_slideshow",
+  "navigationClick": "navigation_click"
+}

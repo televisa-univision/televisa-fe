@@ -1,0 +1,38 @@
+.mainContainer {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  color: $white;
+  margin-right: 5px;
+
+  @include media-breakpoint-up('md') {
+    margin-right: 10px;
+  }
+
+  span {
+    font-size: rem(14px);
+    line-height: 17px;
+    padding-left: 2px;
+  }
+}
+
+.light {
+  color: $black;
+
+  &:hover {
+    color: $black;
+  }
+}
+
+.dark {
+  color: $white;
+
+  &:hover {
+    color: $white;
+  }
+}
+
+.iconContainer {
+  width: 32px;
+  height: 32px;
+}

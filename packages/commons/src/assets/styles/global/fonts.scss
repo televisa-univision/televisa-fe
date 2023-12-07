@@ -1,0 +1,65 @@
+// Override legacy font family definition font-b
+$font-b-family: "Roboto Slab" !global;
+
+// Roboto light
+@include font-face($font-a-family, '#{$fonts-path}roboto-light', 300);
+
+// Roboto regular
+@include font-face($font-a-family, '#{$fonts-path}roboto-regular', 400);
+
+// Roboto medium
+@include font-face($font-a-family, '#{$fonts-path}roboto-medium', 500);
+
+// Roboto bold
+@include font-face($font-a-family, '#{$fonts-path}roboto-bold', 700);
+
+// Roboto black
+@include font-face($font-a-family, '#{$fonts-path}roboto-black', 900);
+
+.#{$font-a} {
+  &-light {
+    @include uvs-font('a', 'light');
+  }
+  &-regular {
+    @include uvs-font('a', 'regular');
+  }
+  &-medium {
+    @include uvs-font('a', 'medium');
+  }
+  &-bold {
+    @include uvs-font('a', 'bold');
+  }
+  &-black {
+    @include uvs-font('a', 'black');
+  }
+}
+
+// Roboto Slab regular
+@include font-face($font-b-family, '#{$fonts-path}roboto-slab-regular', 400);
+
+// Roboto Slab bold
+@include font-face($font-b-family, '#{$fonts-path}roboto-slab-bold', 700);
+
+.#{$font-b} {
+  &-regular {
+    @include uvs-font('b', 'regular');
+  }
+  &-bold {
+    @include uvs-font('b', 'bold');
+  }
+}
+
+// Roboto Condensed regular
+@include font-face($font-c-family, '#{$fonts-path}roboto-condensed-regular', 400);
+
+// Roboto Condensed bold
+@include font-face($font-c-family, '#{$fonts-path}roboto-condensed-bold', 700);
+
+.#{$font-c} {
+  &-regular {
+    @include uvs-font('c', 'regular');
+  }
+  &-bold {
+    @include uvs-font('c', 'bold');
+  }
+}

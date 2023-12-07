@@ -1,0 +1,42 @@
+{
+  "uri": {
+    "withoutStitching": "/famosos/la-reina-letizia-de-espana-por-poco-echa-a-perder-su-encuentro-con-el-principe-carlos-de-inglaterra-fotos?VSS=false",
+    "withStitching": "/noticias/politica/uno-de-estos-20-democratas-podria-ser-el-contendor-de-donald-trump-fotos-fotos?mode=prod"
+  },
+  "ads": {
+    "withoutStitching": {
+      "mobile": {
+        "top": "client=mobile&pos=TOP&seq=M-320-1&vertical=entretenimiento&tag=reinaletiziaortiz%2Cprincipecarlos%2Crealeza%2Cfamiliareal&contenttype=slideshow&type=verticalslideshow&bkpt=320",
+        "mid": "client=mobile&pos=MID&seq=M-320-2&vertical=entretenimiento&tag=reinaletiziaortiz%2Cprincipecarlos%2Crealeza%2Cfamiliareal&contenttype=slideshow&type=verticalslideshow&bkpt=320"
+      },
+      "desktop": {
+        "top": "client=desktop&pos=TOP&seq=D-728-1&vertical=entretenimiento&tag=reinaletiziaortiz%2Cprincipecarlos%2Crealeza%2Cfamiliareal&contenttype=slideshow&type=verticalslideshow&bkpt=1024",
+        "mid": "client=desktop&pos=MID&seq=D-728-2&vertical=entretenimiento&tag=reinaletiziaortiz%2Cprincipecarlos%2Crealeza%2Cfamiliareal&contenttype=slideshow&type=verticalslideshow&bkpt=1024"
+      }
+    },
+    "withStitching": {
+      "firstSlideshow": {
+        "mobile": {
+          "top": "client=mobile&pos=TOP&seq=M-320-1&vertical=noticias&tag=politica&contenttype=slideshow&type=verticalslideshow&bkpt=320",
+          "mid1": "client=mobile&pos=MID&seq=M-320-2&vertical=noticias&tag=politica&contenttype=slideshow&type=verticalslideshow&bkpt=320",
+          "mid2": "client=mobile&pos=MID&seq=M-300-3&vertical=noticias&tag=politica&contenttype=slideshow&type=verticalslideshow&bkpt=320"
+        }
+      },
+      "secondSlideshow": {
+        "mobile": {
+          "mid1": "client=mobile&pos=MID&seq=M-320-21&vertical=noticias&tag=politica&contenttype=slideshow&type=verticalslideshow&bkpt=320",
+          "mid2": "client=mobile&pos=MID&seq=M-300-22&vertical=noticias&tag=politica&contenttype=slideshow&type=verticalslideshow&bkpt=320"
+        }
+      }
+    }
+  },
+  "selectors": {
+    "adContainer": "div[class*='VerticalSlideshowWrapper__adContainer']",
+    "adReady": ".uvs-ad-ready",
+    "endCard": "[data-element-name='vertical-slideshow-end-card']",
+    "headerTitle": "[data-element-name='vertical-slideshow-header'] [itemprop='headline']",
+    "nextSlideContainer": ".uvs-container:nth-child(3) + div",
+    "fifthSlide": "[data-element-name='vertical-slideshow-item']:nth-child(5)",
+    "slide": "[data-element-name='vertical-slideshow-item']"
+  }
+}

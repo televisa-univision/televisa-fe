@@ -1,0 +1,29 @@
+.container {
+  width: 100%;
+  @include media-breakpoint-up("sm") {
+    height: 296px;
+  }
+}
+
+.scorers {
+  display: flex;
+  flex-direction: row;
+  padding: 14px 8px 16px 8px;
+}
+
+.noInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 0;
+  text-transform: uppercase;
+  font-size: rem(14px);
+  height: 150px;
+  @include media-breakpoint-up("sm") {
+    height: 200px;
+  }
+}
+
+.withBorder {
+  border-right: 1px solid $white-grey;
+}

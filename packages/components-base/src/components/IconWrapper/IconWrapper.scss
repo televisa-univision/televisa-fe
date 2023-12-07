@@ -1,0 +1,22 @@
+.iconWrapper {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba($white, 0.5);
+  &.dark {
+    background: rgba($black, 0.5);
+  }
+  &.content {
+    span {
+      color: $white;
+      font-size: rem(11px);
+    }
+    .icon {
+      margin-left: 4px;
+    }
+  }
+}

@@ -1,0 +1,1007 @@
+{
+    "sports-content":
+    {
+        "xmlns": "http://iptc.org/std/SportsML/2008-04-01/",
+        "xmlns:xts": "http://www.xmlteam.com",
+        "xmlns:bbc": "http://www.bbc.co.uk/sport/sports-data",
+        "sports-metadata":
+        {
+            "doc-id": "xt.opta.commentary-esl-20171105195455-1084933760-920517",
+            "date-time": "2017-11-05T19:54:55Z",
+            "language": "es-419",
+            "fixture-key": "event-commentary",
+            "fixture-name": "Event Commentary",
+            "document-class": "event-summary",
+            "sports-content-codes":
+            {
+                "sports-content-code": [
+                {
+                    "code-name": "Opta",
+                    "code-key": "optasports.com",
+                    "code-type": "publisher"
+                },
+                {
+                    "code-name": "XML Team Solutions, Inc.",
+                    "code-key": "xmlteam.com",
+                    "code-type": "distributor"
+                },
+                {
+                    "code-name": "Soccer",
+                    "code-key": "15054000",
+                    "code-type": "sport"
+                },
+                {
+                    "code-name": "opta-sport-feed",
+                    "code-key": "Soccer::F13",
+                    "code-type": "article-ref"
+                },
+                {
+                    "code-key": "199",
+                    "code-type": "tournament"
+                },
+                {
+                    "code-name": "Liga MX (Apertura)",
+                    "code-key": "l.femexfut.mx.primera",
+                    "code-type": "league",
+                    "code-source": "xmlteam.com"
+                },
+                {
+                    "code-key": "2017",
+                    "code-type": "season"
+                },
+                {
+                    "code-key": "1287",
+                    "code-type": "team"
+                },
+                {
+                    "code-key": "1297",
+                    "code-type": "team"
+                }]
+            },
+            "sports-property": [
+            {
+                "formal-name": "compound-key",
+                "value": "soccer:2017:199:event-commentary:es-419:920517"
+            }]
+        },
+        "sports-event":
+        {
+            "event-metadata":
+            {
+                "event-key": "920517",
+                "event-status": "post-event",
+                "event-status-note": "Result",
+                "start-date-time": "2017-11-05T18:00:00Z",
+                "event-name": "Pumas UNAM v Santos Laguna",
+                "event-outcome-type": "regular",
+                "event-metadata-soccer":
+                {
+                    "week": "16",
+                    "minutes-elapsed": 90,
+                    "time-adjustment":
+                    {
+                        "period-extra-time-elapsed": "4'"
+                    }
+                }
+            },
+            "team": [
+            {
+                "id": "t.1287",
+                "team-metadata":
+                {
+                    "team-key": "1287",
+                    "alignment": "away",
+                    "name":
+                    {
+                        "first": "Santos Laguna",
+                        "full": "Santos Laguna",
+                        "nickname": "Santos Laguna",
+                        "abbreviation": "Santos Laguna"
+                    }
+                },
+                "team-stats":
+                {
+                    "score": "2",
+                    "score-opposing": "2",
+                    "event-outcome": "tie"
+                }
+            },
+            {
+                "id": "t.1297",
+                "team-metadata":
+                {
+                    "team-key": "1297",
+                    "alignment": "home",
+                    "name":
+                    {
+                        "first": "Pumas UNAM",
+                        "full": "Pumas UNAM",
+                        "nickname": "Pumas UNAM",
+                        "abbreviation": "Pumas UNAM"
+                    }
+                },
+                "team-stats":
+                {
+                    "score": "2",
+                    "score-opposing": "2",
+                    "event-outcome": "tie"
+                }
+            }],
+            "event-actions":
+            {
+                "event-actions-soccer":
+                {
+                    "action-soccer-penalty": [
+                    {
+                        "id": "a.1127460156",
+                        "minutesElapsed": "93",
+                        "period-time": "2",
+                        "comment": "Julio Furch (Santos Laguna) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                        "penalty-level": "yellow-card"
+                    },
+                    {
+                        "id": "a.1504637945",
+                        "minutesElapsed": "91",
+                        "period-time": "2",
+                        "comment": "Alan Mendoza (Pumas UNAM) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                        "penalty-level": "yellow-card"
+                    },
+                    {
+                        "id": "a.1366498008",
+                        "minutesElapsed": "72",
+                        "period-time": "2",
+                        "comment": "David Cabrera (Pumas UNAM) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                        "penalty-level": "yellow-card"
+                    },
+                    {
+                        "id": "a.1575503058",
+                        "minutesElapsed": "31",
+                        "period-time": "1",
+                        "comment": "Luis Quintana (Pumas UNAM) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                        "penalty-level": "yellow-card"
+                    }],
+                    "action-soccer-score": [
+                    {
+                        "id": "a.1555782577",
+                        "minutesElapsed": "84",
+                        "period-time": "2",
+                        "comment": "�Gooooool!  Pumas UNAM 2, Santos Laguna 2. Jes�s Gallardo (Pumas UNAM) zurdazo a quemarropa desde el lado derecho por el lado derecho de la porter�a. Asistencia de Pablo Barrera despu�s de un pase en profundidad.",
+                        "score-attempt-type": "regular"
+                    },
+                    {
+                        "id": "a.1780382319",
+                        "minutesElapsed": "69",
+                        "period-time": "2",
+                        "comment": "�Gooooool!  Pumas UNAM 1, Santos Laguna 2. Djaniny (Santos Laguna) Disparo con la derecha sin �ngulo desde la derecha por el centro del arco. Asistencia de Brian Lozano despu�s de un pase en profundidad.",
+                        "score-attempt-type": "regular"
+                    },
+                    {
+                        "id": "a.1513144116",
+                        "minutesElapsed": "66",
+                        "period-time": "2",
+                        "comment": "Gooooooooool!  Pumas UNAM 1, Santos Laguna 1. Alan Mendoza (Pumas UNAM) marca de tiro libre directo, zurdazo por el lado derecho de la porter�a.",
+                        "score-attempt-type": "regular"
+                    },
+                    {
+                        "id": "a.2112447694",
+                        "minutesElapsed": "55",
+                        "period-time": "2",
+                        "comment": "�Gooooool!  Pumas UNAM 0, Santos Laguna 1. Julio Furch (Santos Laguna) disparo de cabeza a quemarropa desde el lado derecho al �ngulo superior izquierdo. Asistencia de Osvaldo Mart�nez con un centro al �rea tras un saque de esquina.",
+                        "score-attempt-type": "regular"
+                    }],
+                    "action-soccer-substitution": [
+                    {
+                        "id": "a.1924802710",
+                        "minutesElapsed": "82",
+                        "period-time": "2",
+                        "comment": "Cambio en Santos Laguna, ingresa al campo Javier Cort�s sustituyendo a Brian Lozano."
+                    },
+                    {
+                        "id": "a.1717909154",
+                        "minutesElapsed": "81",
+                        "period-time": "2",
+                        "comment": "Cambio en Santos Laguna, ingresa al campo Jorge Flores Villafa�a sustituyendo a Gerardo Arteaga."
+                    },
+                    {
+                        "id": "a.1193808888",
+                        "minutesElapsed": "80",
+                        "period-time": "2",
+                        "comment": "Cambio en Pumas UNAM, ingresa al campo Bryan Rabello sustituyendo a David Cabrera."
+                    },
+                    {
+                        "id": "a.2041974112",
+                        "minutesElapsed": "69",
+                        "period-time": "2",
+                        "comment": "Cambio en Pumas UNAM, ingresa al campo Pablo Barrera sustituyendo a Mauro Formica."
+                    },
+                    {
+                        "id": "a.1748939963",
+                        "minutesElapsed": "52",
+                        "period-time": "2",
+                        "comment": "Cambio en Pumas UNAM, ingresa al campo Abraham Gonz�lez sustituyendo a Brian Figueroa."
+                    }],
+                    "action-soccer-play": [
+                    {
+                        "id": "a.1084933760",
+                        "minutesElapsed": "94",
+                        "period-time": "2",
+                        "comment": "Final del partido' Pumas UNAM 2, Santos Laguna 2."
+                    },
+                    {
+                        "id": "a.2105993794",
+                        "minutesElapsed": "94",
+                        "period-time": "2",
+                        "comment": "Final segunda parte' Pumas UNAM 2, Santos Laguna 2.",
+                        "play-type": "period-end"
+                    },
+                    {
+                        "id": "a.2082592348",
+                        "minutesElapsed": "93",
+                        "period-time": "2",
+                        "comment": "Alan Acosta (Pumas UNAM) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1143556633",
+                        "minutesElapsed": "93",
+                        "period-time": "2",
+                        "comment": "Falta de Julio Furch (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1754557237",
+                        "minutesElapsed": "92",
+                        "period-time": "2",
+                        "comment": "disparo que sale desviado de Carlos Izquierd�z (Santos Laguna) Disparo con la derecha desde el centro del �rea que sale rozando el travesa�o. Asistencia de Djaniny tras el cobro de una falta.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1949927276",
+                        "minutesElapsed": "92",
+                        "period-time": "2",
+                        "comment": "Remate rechazado de Julio Furch (Santos Laguna),  disparo de cabeza desde el centro del �rea. Asistencia de Javier Cort�s con un centro al �rea.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "blocked"
+                    },
+                    {
+                        "id": "a.1637068808",
+                        "minutesElapsed": "91",
+                        "period-time": "2",
+                        "comment": "Falta de Alan Mendoza (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1323929735",
+                        "minutesElapsed": "91",
+                        "period-time": "2",
+                        "comment": "Julio Furch (Santos Laguna) ha recibido una falta en la banda derecha.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1519798656",
+                        "minutesElapsed": "91",
+                        "period-time": "2",
+                        "comment": "Tiro atajado por abajo a la izquierda. Alan Mendoza (Pumas UNAM) zurdazo desde m�s de 30 metros. Asistencia de Abraham Gonz�lez.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1389976389",
+                        "minutesElapsed": "90",
+                        "period-time": "2",
+                        "comment": "disparo que sale desviado de Jes�s Gallardo (Pumas UNAM) zurdazo desde el lado izquierdo dentro del �rea el bal�n se pierde por el lado derecho de la porter�a. Asistencia de Bryan Rabello.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1261309974",
+                        "minutesElapsed": "90",
+                        "period-time": "2",
+                        "comment": "Saque de esquina,  Santos Laguna. Saque de esquina cometido por Luis Quintana.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1893872809",
+                        "minutesElapsed": "87",
+                        "period-time": "2",
+                        "comment": "Fuera de lugar, Santos Laguna. Javier Cort�s intent� un pase en profundidad pero Jonathan Rodr�guez estaba en posici�n adelantada.",
+                        "play-type": "offside"
+                    },
+                    {
+                        "id": "a.1634760159",
+                        "minutesElapsed": "86",
+                        "period-time": "2",
+                        "comment": "Saque de esquina,  Santos Laguna. Saque de esquina cometido por Luis Quintana.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1532950003",
+                        "minutesElapsed": "83",
+                        "period-time": "2",
+                        "comment": "Pablo Barrera (Pumas UNAM) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1369547855",
+                        "minutesElapsed": "83",
+                        "period-time": "2",
+                        "comment": "Falta de Jorge Flores Villafa�a (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1460192966",
+                        "minutesElapsed": "83",
+                        "period-time": "2",
+                        "comment": "Mano de Marcelo D�az (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.2115393396",
+                        "minutesElapsed": "81",
+                        "period-time": "2",
+                        "comment": "Alan Mendoza (Pumas UNAM) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1368546829",
+                        "minutesElapsed": "81",
+                        "period-time": "2",
+                        "comment": "Falta de Brian Lozano (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.2110811246",
+                        "minutesElapsed": "80",
+                        "period-time": "2",
+                        "comment": "Se reanuda el partido.",
+                        "play-type": "delayed-end"
+                    },
+                    {
+                        "id": "a.2102243517",
+                        "minutesElapsed": "80",
+                        "period-time": "2",
+                        "comment": "El juego est� detenido  debido a una lesi�n de Carlos Izquierd�z (Santos Laguna).",
+                        "play-type": "delayed-start"
+                    },
+                    {
+                        "id": "a.1182519114",
+                        "minutesElapsed": "79",
+                        "period-time": "2",
+                        "comment": "Falta de Jes�s Gallardo (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.2024631472",
+                        "minutesElapsed": "79",
+                        "period-time": "2",
+                        "comment": "Carlos Izquierd�z (Santos Laguna) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1509200100",
+                        "minutesElapsed": "78",
+                        "period-time": "2",
+                        "comment": "Tiro atajado raso al centro del arco. Alan Acosta (Pumas UNAM) Disparo con la derecha desde el centro del �rea. Asistencia de Jes�s Gallardo.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1290290294",
+                        "minutesElapsed": "77",
+                        "period-time": "2",
+                        "comment": "disparo que sale desviado de Jonathan Rodr�guez (Santos Laguna) Disparo con la derecha desde el lado derecho dentro del �rea que se va alto y desviado por la derecha. Asistencia de N�stor Ara�jo pase largo.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1178168185",
+                        "minutesElapsed": "76",
+                        "period-time": "2",
+                        "comment": "disparo que sale desviado de Osvaldo Mart�nez (Santos Laguna) Disparo con la derecha desde fuera del �rea sale rozando por arriba a la derecha. Asistencia de Jonathan Rodr�guez.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.2060637253",
+                        "minutesElapsed": "75",
+                        "period-time": "2",
+                        "comment": "Tiro atajado raso al centro del arco. David Cabrera (Pumas UNAM) zurdazo desde fuera del �rea. Asistencia de Pablo Barrera.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1707021774",
+                        "minutesElapsed": "75",
+                        "period-time": "2",
+                        "comment": "Pablo Barrera (Pumas UNAM) remata al poste izquierdo,  Disparo con la derecha desde el lado derecho dentro del �rea. Asistencia de Abraham Gonz�lez.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "off-post"
+                    },
+                    {
+                        "id": "a.1423166848",
+                        "minutesElapsed": "74",
+                        "period-time": "2",
+                        "comment": "Falta de Jes�s Gallardo (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.2082187150",
+                        "minutesElapsed": "74",
+                        "period-time": "2",
+                        "comment": "N�stor Ara�jo (Santos Laguna) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1515331997",
+                        "minutesElapsed": "72",
+                        "period-time": "2",
+                        "comment": "Falta de David Cabrera (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1094516649",
+                        "minutesElapsed": "72",
+                        "period-time": "2",
+                        "comment": "Djaniny (Santos Laguna) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1213362989",
+                        "minutesElapsed": "71",
+                        "period-time": "2",
+                        "comment": "David Cabrera (Pumas UNAM) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1760710526",
+                        "minutesElapsed": "71",
+                        "period-time": "2",
+                        "comment": "Falta de Brian Lozano (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1502362595",
+                        "minutesElapsed": "65",
+                        "period-time": "2",
+                        "comment": "Jos� Van Rankin (Pumas UNAM) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.2126745694",
+                        "minutesElapsed": "65",
+                        "period-time": "2",
+                        "comment": "Falta de Brian Lozano (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1924228767",
+                        "minutesElapsed": "64",
+                        "period-time": "2",
+                        "comment": "Luis Quintana (Pumas UNAM) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1949066828",
+                        "minutesElapsed": "64",
+                        "period-time": "2",
+                        "comment": "Falta de Brian Lozano (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1586920974",
+                        "minutesElapsed": "62",
+                        "period-time": "2",
+                        "comment": "disparo que sale desviado de Jonathan Rodr�guez (Santos Laguna) Disparo con la derecha desde el lado izquierdo dentro del �rea sale rozando por arriba a la derecha. Asistencia de Osvaldo Mart�nez pase largo tras un contragolpe.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1236495586",
+                        "minutesElapsed": "59",
+                        "period-time": "2",
+                        "comment": "Jos� Van Rankin (Pumas UNAM) ha recibido una falta en la banda derecha.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1711347682",
+                        "minutesElapsed": "59",
+                        "period-time": "2",
+                        "comment": "Falta de Jonathan Rodr�guez (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1615439034",
+                        "minutesElapsed": "55",
+                        "period-time": "2",
+                        "comment": "Saque de esquina,  Santos Laguna. Saque de esquina cometido por Alan Mendoza.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1176881920",
+                        "minutesElapsed": "54",
+                        "period-time": "2",
+                        "comment": "Falta de Gerardo Alcoba (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1737411719",
+                        "minutesElapsed": "54",
+                        "period-time": "2",
+                        "comment": "Jonathan Rodr�guez (Santos Laguna) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1346610533",
+                        "minutesElapsed": "52",
+                        "period-time": "2",
+                        "comment": "Falta de Marcelo D�az (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1585117808",
+                        "minutesElapsed": "52",
+                        "period-time": "2",
+                        "comment": "N�stor Ara�jo (Santos Laguna) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1116774514",
+                        "minutesElapsed": "50",
+                        "period-time": "2",
+                        "comment": "disparo que sale desviado de Djaniny (Santos Laguna) disparo de cabeza desde el centro del �rea que sale rozando el travesa�o. Asistencia de Brian Lozano con un centro al �rea tras un saque de esquina.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1253081414",
+                        "minutesElapsed": "50",
+                        "period-time": "2",
+                        "comment": "Saque de esquina,  Santos Laguna. Saque de esquina cometido por Luis Quintana.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1632428539",
+                        "minutesElapsed": "47",
+                        "period-time": "2",
+                        "comment": "Saque de esquina,  Pumas UNAM. Saque de esquina cometido por Carlos Izquierd�z.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1552828725",
+                        "minutesElapsed": "46",
+                        "period-time": "2",
+                        "comment": "Empieza segunda parte Pumas UNAM 0, Santos Laguna 0.",
+                        "play-type": "period-start"
+                    },
+                    {
+                        "id": "a.1120015222",
+                        "minutesElapsed": "46",
+                        "period-time": "1",
+                        "comment": "Final primera parte' Pumas UNAM 0, Santos Laguna 0.",
+                        "play-type": "period-end"
+                    },
+                    {
+                        "id": "a.2121748161",
+                        "minutesElapsed": "45",
+                        "period-time": "1",
+                        "comment": "Tiro atajado por abajo a la izquierda. Luis Quintana (Pumas UNAM) Disparo con la derecha desde el centro del �rea. Asistencia de Gerardo Alcoba.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1971661446",
+                        "minutesElapsed": "45",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Gerardo Alcoba (Pumas UNAM) Disparo con la derecha desde el lado izquierdo dentro del �rea el bal�n se pierde por el lado derecho de la porter�a. Asistencia de David Cabrera con un centro al �rea tras un saque de esquina.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.2132609021",
+                        "minutesElapsed": "44",
+                        "period-time": "1",
+                        "comment": "Saque de esquina,  Pumas UNAM. Saque de esquina cometido por Carlos Izquierd�z.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1476239440",
+                        "minutesElapsed": "44",
+                        "period-time": "1",
+                        "comment": "Tiro atajado junto al lado derecho de la porter�a. Djaniny (Santos Laguna) disparo de cabeza desde fuera del �rea. Asistencia de Osvaldo Mart�nez con un centro al �rea.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1598868582",
+                        "minutesElapsed": "42",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Julio Furch (Santos Laguna) disparo de cabeza desde el centro del �rea que se va alto y desviado por la derecha. Asistencia de Brian Lozano pase largo tras el cobro de una falta.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1796853187",
+                        "minutesElapsed": "41",
+                        "period-time": "1",
+                        "comment": "Falta de David Cabrera (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1526149949",
+                        "minutesElapsed": "41",
+                        "period-time": "1",
+                        "comment": "Brian Lozano (Santos Laguna) ha recibido una falta en la banda derecha.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.2084920021",
+                        "minutesElapsed": "40",
+                        "period-time": "1",
+                        "comment": "Saque de esquina,  Pumas UNAM. Saque de esquina cometido por N�stor Ara�jo.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1168276487",
+                        "minutesElapsed": "37",
+                        "period-time": "1",
+                        "comment": "Falta de David Cabrera (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1298969484",
+                        "minutesElapsed": "37",
+                        "period-time": "1",
+                        "comment": "Julio Furch (Santos Laguna) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1522033700",
+                        "minutesElapsed": "36",
+                        "period-time": "1",
+                        "comment": "Mano de Marcelo D�az (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1836236265",
+                        "minutesElapsed": "35",
+                        "period-time": "1",
+                        "comment": "Fuera de lugar, Santos Laguna. Brian Lozano intent� un pase en profundidad pero Carlos Izquierd�z estaba en posici�n adelantada.",
+                        "play-type": "offside"
+                    },
+                    {
+                        "id": "a.1691409288",
+                        "minutesElapsed": "34",
+                        "period-time": "1",
+                        "comment": "Falta de David Cabrera (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1808191048",
+                        "minutesElapsed": "34",
+                        "period-time": "1",
+                        "comment": "Gerardo Arteaga (Santos Laguna) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1968436843",
+                        "minutesElapsed": "32",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Osvaldo Mart�nez (Santos Laguna) Disparo con la derecha desde fuera del �rea muy cerca del palo derecho pero sali� ligeramente desviado de tiro libre directo.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1256077576",
+                        "minutesElapsed": "31",
+                        "period-time": "1",
+                        "comment": "Falta de Luis Quintana (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1273762352",
+                        "minutesElapsed": "31",
+                        "period-time": "1",
+                        "comment": "Djaniny (Santos Laguna) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1330723176",
+                        "minutesElapsed": "30",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Brian Lozano (Santos Laguna) Disparo con la derecha desde fuera del �rea que se va alto y por la izquierda de tiro libre directo.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1589043974",
+                        "minutesElapsed": "28",
+                        "period-time": "1",
+                        "comment": "Falta de Alan Mendoza (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1694186258",
+                        "minutesElapsed": "28",
+                        "period-time": "1",
+                        "comment": "Jonathan Rodr�guez (Santos Laguna) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1948930216",
+                        "minutesElapsed": "27",
+                        "period-time": "1",
+                        "comment": "Mauro Formica (Pumas UNAM) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1077766011",
+                        "minutesElapsed": "27",
+                        "period-time": "1",
+                        "comment": "Falta de Ulises Rivas (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1801584070",
+                        "minutesElapsed": "25",
+                        "period-time": "1",
+                        "comment": "Fuera de lugar, Santos Laguna. Ulises Rivas intent� un pase en profundidad pero Djaniny estaba en posici�n adelantada.",
+                        "play-type": "offside"
+                    },
+                    {
+                        "id": "a.1487423641",
+                        "minutesElapsed": "24",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Jonathan Rodr�guez (Santos Laguna) zurdazo desde fuera del �rea sale rozando por arriba a la derecha.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1543850801",
+                        "minutesElapsed": "24",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Mauro Formica (Pumas UNAM) Disparo con la derecha desde fuera del �rea que se le va demasiado alto. Asistencia de Jos� Van Rankin.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1598741580",
+                        "minutesElapsed": "23",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Alan Mendoza (Pumas UNAM) zurdazo desde la banda izquierda que se le va demasiado alto. Asistencia de Marcelo D�az.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1968434872",
+                        "minutesElapsed": "21",
+                        "period-time": "1",
+                        "comment": "Osvaldo Mart�nez (Santos Laguna) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.2102758415",
+                        "minutesElapsed": "21",
+                        "period-time": "1",
+                        "comment": "Falta de Jes�s Gallardo (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1612202184",
+                        "minutesElapsed": "19",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de David Cabrera (Pumas UNAM) Disparo con la derecha desde el lado derecho dentro del �rea que se le va demasiado alto. Asistencia de Jos� Van Rankin.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1266962456",
+                        "minutesElapsed": "18",
+                        "period-time": "1",
+                        "comment": "Falta de Julio Furch (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1247862654",
+                        "minutesElapsed": "18",
+                        "period-time": "1",
+                        "comment": "Alan Mendoza (Pumas UNAM) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1592537996",
+                        "minutesElapsed": "18",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Brian Figueroa (Pumas UNAM) Disparo con la derecha desde fuera del �rea que se le va demasiado alto. Asistencia de David Cabrera despu�s de un pase en profundidad.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1670181549",
+                        "minutesElapsed": "17",
+                        "period-time": "1",
+                        "comment": "Tiro atajado raso al centro del arco. Brian Figueroa (Pumas UNAM) Disparo con la derecha desde fuera del �rea. Asistencia de Mauro Formica pase largo.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1356967246",
+                        "minutesElapsed": "17",
+                        "period-time": "1",
+                        "comment": "Remate rechazado de Ulises Rivas (Santos Laguna),  zurdazo desde fuera del �rea.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "blocked"
+                    },
+                    {
+                        "id": "a.1381238722",
+                        "minutesElapsed": "16",
+                        "period-time": "1",
+                        "comment": "Djaniny (Santos Laguna) ha recibido una falta en la banda izquierda.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1290143927",
+                        "minutesElapsed": "16",
+                        "period-time": "1",
+                        "comment": "Falta de Jos� Van Rankin (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1914664894",
+                        "minutesElapsed": "15",
+                        "period-time": "1",
+                        "comment": "Remate rechazado de Julio Furch (Santos Laguna),  Disparo con la derecha desde el centro del �rea. Asistencia de Carlos Izquierd�z con un pase de cabeza.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "blocked"
+                    },
+                    {
+                        "id": "a.1408348768",
+                        "minutesElapsed": "15",
+                        "period-time": "1",
+                        "comment": "Saque de esquina,  Santos Laguna. Saque de esquina cometido por Luis Quintana.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.2063523462",
+                        "minutesElapsed": "14",
+                        "period-time": "1",
+                        "comment": "Tiro atajado junto al lado derecho de la porter�a. Marcelo D�az (Pumas UNAM) zurdazo desde fuera del �rea. Asistencia de Brian Figueroa.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1189865644",
+                        "minutesElapsed": "12",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de David Cabrera (Pumas UNAM) zurdazo desde fuera del �rea que se va alto y por la izquierda.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.2085657861",
+                        "minutesElapsed": "11",
+                        "period-time": "1",
+                        "comment": "Luis Quintana (Pumas UNAM) ha recibido una falta en la zona defensiva.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1932296391",
+                        "minutesElapsed": "11",
+                        "period-time": "1",
+                        "comment": "Falta de Julio Furch (Santos Laguna).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1546298825",
+                        "minutesElapsed": "11",
+                        "period-time": "1",
+                        "comment": "Falta de Gerardo Alcoba (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.1115393959",
+                        "minutesElapsed": "11",
+                        "period-time": "1",
+                        "comment": "Djaniny (Santos Laguna) ha recibido una falta en campo contrario.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1174186632",
+                        "minutesElapsed": "10",
+                        "period-time": "1",
+                        "comment": "Tiro atajado por abajo a la izquierda. Brian Figueroa (Pumas UNAM) Disparo con la derecha desde fuera del �rea. Asistencia de David Cabrera.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "saved"
+                    },
+                    {
+                        "id": "a.1879232659",
+                        "minutesElapsed": "5",
+                        "period-time": "1",
+                        "comment": "disparo que sale desviado de Gerardo Arteaga (Santos Laguna) zurdazo desde fuera del �rea que se le va demasiado alto. Asistencia de Ulises Rivas.",
+                        "play-type": "shot",
+                        "score-attempt-type": "regular",
+                        "score-attempt-result": "missed"
+                    },
+                    {
+                        "id": "a.1737338087",
+                        "minutesElapsed": "4",
+                        "period-time": "1",
+                        "comment": "Saque de esquina,  Santos Laguna. Saque de esquina cometido por Luis Quintana.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1680631586",
+                        "minutesElapsed": "4",
+                        "period-time": "1",
+                        "comment": "Saque de esquina,  Santos Laguna. Saque de esquina cometido por Alan Mendoza.",
+                        "play-type": "corner",
+                        "score-attempt-type": "corner-kick"
+                    },
+                    {
+                        "id": "a.1194930863",
+                        "minutesElapsed": "3",
+                        "period-time": "1",
+                        "comment": "Falta de Gerardo Alcoba (Pumas UNAM).",
+                        "play-type": "foul"
+                    },
+                    {
+                        "id": "a.2010467673",
+                        "minutesElapsed": "3",
+                        "period-time": "1",
+                        "comment": "Gerardo Arteaga (Santos Laguna) ha recibido una falta en la banda izquierda.",
+                        "play-type": "free-kick"
+                    },
+                    {
+                        "id": "a.1406278886",
+                        "minutesElapsed": "0",
+                        "period-time": "1",
+                        "comment": "Empieza primera parte.",
+                        "play-type": "game-start"
+                    },
+                    {
+                        "id": "a.1138330374",
+                        "comment": "Alineaciones confirmadas por parte de ambos equipos. Los protagonistas saltan al campo para iniciar los ejercicios de calentamiento",
+                        "play-type": "line-up-announcement"
+                    }]
+                }
+            }
+        }
+    }
+}

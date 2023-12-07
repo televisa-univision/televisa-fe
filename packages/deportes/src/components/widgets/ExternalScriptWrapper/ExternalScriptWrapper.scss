@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  height: auto;
+}
+
+.stats, .ranking, .player {
+  margin-top: 16px;
+  @include media-breakpoint-up('sm') {
+    margin-top: 0;
+  }
+}

@@ -1,0 +1,275 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-bottom: 1px solid $light-grey;
+  margin: 12px 0;
+  @include media-breakpoint-up("md") {
+    border-bottom: none;
+  }
+  &.livestreamPage {
+    margin: 0;
+    @include media-breakpoint-up("md") {
+      margin: 12px 0;
+    }
+  }
+  &.simple {
+    border-bottom: none;
+  }
+}
+
+.title {
+  /* Video Page - Livestream Page */
+  font-size: rem(16px);
+  line-height: rem(19px);
+  margin: 0;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  @include media-breakpoint-up("md") {
+    font-size: rem(20px);
+    line-height: rem(24px);
+  }
+
+  /* Anchor Collapse/Expanded */
+  .smallVersion & {
+    font-size: rem(12px);
+    line-height: rem(16px);
+    display: inline-flex;
+    margin-left: 4px;
+    @include media-breakpoint-up("xl") {
+      font-size: rem(14px);
+      line-height: rem(18px);
+    }
+  }
+}
+
+.channelLogo {
+  padding-right: 12px;
+  margin-right: 12px;
+  border-right: 1px solid rgba(255,255,255,0.1);
+
+  svg {
+    width: 102px;
+    height: 16px;
+  }
+
+  @include media-breakpoint-up("md") {
+    svg {
+      width: 127px;
+      height: 20px;
+    }
+
+    padding-right: 24px;
+    margin-right: 24px;
+  }
+}
+
+.channelLogo {
+  border-right: 1px solid rgba(255,255,255,0.1);
+  box-sizing: border-box;
+  padding-right: 12px;
+  position: relative;
+  margin-right: 12px;
+  width: 108px;
+
+  > a:after {
+    content: "";
+    height: 80px;
+    top: -30px;
+    position: absolute;
+    right: 0;
+    width: 100%;
+  }
+
+  @include media-breakpoint-up("md") {
+    width: 158px;
+    padding-right: 24px;
+    margin-right: 24px;
+  }
+}
+
+/* label 'En Vivo' */
+.label {
+  display: flex;
+  width: 60px;
+  height: 20px;
+  margin-right: 8px;
+  > div {
+    display: flex;
+  }
+
+  .smallVersion & {
+    display: inline-flex;
+    height: 16px;
+    margin: 2px 8px 4px 0;
+    vertical-align: middle;
+    width: auto;
+    > div {
+      display: inline-block;
+      > svg {
+        height: 10px;
+        width: 10px;
+      }
+    }
+    @include media-breakpoint-up("xl") {
+      display: inline-flex;
+      width: 60px;
+      height: 20px;
+      margin: 0 8px 2px 0;
+      > div {
+        display: flex;
+        > svg {
+          height: 16px;
+          width: 16px;
+        }
+      }
+    }
+  }
+
+  .smallVersion.expanded & {
+    display: inline-flex;
+    width: 60px;
+    height: 20px;
+    margin: 0 2px 2px 0;
+    > div {
+      display: flex;
+      > svg {
+        height: 16px;
+        width: 16px;
+      }
+    }
+  }
+}
+
+.description {
+  font-size: rem(14px);
+  line-height: rem(20px);
+  margin-bottom: 0;
+  color: $black-grey;
+  @include media-breakpoint-only("sm") {
+    > button {
+      // TODO - @@abstract into component variant
+      display: block;
+      margin-top: 23px;
+      font-size: rem(12px);
+      line-height: rem(14px);
+      text-transform: uppercase;
+    }
+  }
+}
+
+.programTime {
+  font-size: rem(10px);
+  font-weight: normal;
+  line-height: rem(14px);
+  margin-top: 2px;
+  opacity: 0.6;
+  text-transform: uppercase;
+  @include media-breakpoint-only("sm") {
+    font-size: rem(12px);
+    line-height: rem(14px);
+  }
+}
+
+.category {
+  display: inline-block;
+  font-size: rem(12px);
+  letter-spacing: 1px;
+  line-height: rem(14px);
+  margin-bottom: 16px;
+  text-transform: uppercase;
+}
+
+.infoMetaWrapper {
+  margin-top: 16px;
+  .simple & {
+    margin-top: 0;
+  }
+}
+
+.authorsWrapper {
+  align-items: center;
+  display: flex;
+}
+
+.actionBarWrapper {
+  margin-top: 5px;
+  margin-left: -20px;
+  margin-right: -20px;
+  width: calc(100% + 40px);
+  @include media-breakpoint-up("sm") {
+    margin: 0;
+    width: auto;
+  }
+}
+
+.shareBar {
+  @include media-breakpoint-up("sm") {
+    float: right;
+  }
+}
+
+/* variant (dark/light) - header */
+.variant_dark {
+  color: $white;
+  a {
+    color: $white;
+  }
+
+  span {
+    color: $light-grey;
+  }
+
+  .category {
+    color: $white;
+  }
+
+  .description {
+    color: $white;
+    > button {
+      color: $white;
+    }
+  }
+
+  .authorDark {
+    color: $white;
+    span {
+      color: $white;
+    }
+  }
+}
+
+.variant_light {
+  color: $black-grey;
+  border-bottom-color: $darker-grey;
+
+  a {
+    color: $black-grey;
+  }
+}
+
+.isWorldCupMVP {
+  font-family: 'Roboto Flex', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: rem(16px);
+  line-height: rem(20px);
+  @include media-breakpoint-up("md") {
+    font-size: rem(26px);
+    line-height: rem(40px);
+  }
+}
+
+.isWorldCupMVP_description {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: rem(12px);
+  line-height: rem(20px);
+  @include media-breakpoint-up("md") {
+    font-weight: 400;
+    font-size: rem(14px);
+    line-height: rem(27px);
+  }
+}

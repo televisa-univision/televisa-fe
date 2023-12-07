@@ -1,0 +1,15 @@
+{
+  "areaId": "CAZ048",
+  "areaName": "San Bernardino and Riverside County Valleys",
+  "eventDescription": "Advertencia de calor por todo la ciudad",
+  "severity": "Moderate",
+  "issueTimeLocal": "2020-06-10T11:00:00-07:00",
+  "issueTimeLocalTimeZone": "PDT",
+  "effectiveTimeLocal": "2020-06-10T11:00:00-07:00",
+  "effectiveTimeLocalTimeZone": "PDT",
+  "texts": [
+    {
+      "description": "...HEAT ADVISORY IN EFFECT FROM 11 AM THIS MORNING TO 7 PM PDT THIS EVENING...\n\n* WHAT...Temperatures up to 100 expected.\n\n* WHERE...Orange County coastal and inland areas, San Diego County coastal and valley areas, and the Inland Empire.\n\n* WHEN...From 11 AM this morning to 7 PM PDT this evening.\n\n* IMPACTS...Hot temperatures may cause heat illnesses to occur.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\nDrink plenty of fluids, stay in an air-conditioned room, stay out of the sun, and check up on relatives and neighbors. Young children and pets should never be left unattended in vehicles under any circumstances.\n\nTake extra precautions if you work or spend time outside. When possible reschedule strenuous activities to early morning or evening. Know the signs and symptoms of heat exhaustion and heat stroke. Wear lightweight and loose fitting clothing when possible. To reduce risk during outdoor work, the Occupational Safety and Health Administration recommends scheduling frequent rest breaks in shaded or air conditioned environments. Anyone overcome by heat should be moved to a cool and shaded location. Heat stroke is an emergency! Call 9 1 1."
+    }
+  ]
+}

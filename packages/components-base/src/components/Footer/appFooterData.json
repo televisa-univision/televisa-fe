@@ -1,0 +1,542 @@
+{
+  "/local/dallas-kuvn": [
+    {
+      "text": "Univision 23",
+      "href": "/local/dallas-kuvn/aplicacion-noticias",
+      "icon": "dallasApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/los-angeles-kmex": [
+    {
+      "text": "Univision 34",
+      "href": "/local/los-angeles-kmex/aplicacion-noticias",
+      "icon": "losAngelesApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/nueva-york-wxtv": [
+    {
+      "text": "Univision 41",
+      "href": "/local/nueva-york-wxtv/aplicacion-noticias",
+      "icon": "newYorkApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/houston-kxln": [
+    {
+      "text": "Univision 45",
+      "href": "/local/houston-kxln/aplicacion-noticias",
+      "icon": "houstonApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/miami-wltv": [
+    {
+      "text": "Univision 23",
+      "href": "/local/miami-wltv/aplicacion-noticias",
+      "icon": "miamiApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/san-francisco-kdtv": [
+    {
+      "text": "Univision 14",
+      "href": "/local/san-francisco-kdtv/aplicacion-noticias",
+      "icon": "bayAreaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/chicago-wgbo": [
+    {
+      "text": "Univision Chicago",
+      "href": "/local/chicago-wgbo/aplicacion-noticias",
+      "icon": "chicagoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/atlanta-wuvg": [
+    {
+      "text": "Univision Atlanta",
+      "href": "/local/atlanta-wuvg/aplicacion-noticias",
+      "icon": "atlantaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/philadelphia-wuvp": [
+    {
+      "text": "Univision 65",
+      "href": "/local/philadelphia-wuvp/aplicacion-noticias",
+      "icon": "philadelphiaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/puerto-rico-wlii": [
+    {
+      "text": "Univision PR",
+      "href": "/local/puerto-rico-wlii/aplicacion-noticias",
+      "icon": "puertoRicoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/fresno-kftv": [
+    {
+      "text": "Univision 21",
+      "href": "/local/fresno-kftv/aplicacion-noticias",
+      "icon": "fresnoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/sacramento-kuvs": [
+    {
+      "text": "Univision 19",
+      "href": "/local/sacramento-kuvs/aplicacion-noticias",
+      "icon": "sacramentoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/north-carolina-wuvc": [
+    {
+      "text": "Univision 40",
+      "href": "/local/north-carolina-wuvc/aplicacion-noticias",
+      "icon": "northCarolinaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/arizona-ktvw": [
+    {
+      "text": "Univision Arizona",
+      "href": "/local/arizona-ktvw/aplicacion-noticias",
+      "icon": "arizonaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/austin-kakw": [
+    {
+      "text": "Univision 62",
+      "href": "/local/austin-kakw/aplicacion-noticias",
+      "icon": "austinApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/bakersfield-kabe": [
+    {
+      "text": "Univision 39",
+      "href": "/local/bakersfield-kabe/aplicacion-noticias",
+      "icon": "bakersfieldApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/san-antonio-kwex": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/local/salt-lake-city-kuth": [
+    {
+      "text": "Univision 32",
+      "href": "/local/salt-lake-city-kuth/aplicacion-noticias",
+      "icon": "saltLakeCityApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/austin-klja-fm/amor-107-7": [
+    {
+      "text": "Univision 62",
+      "href": "/local/austin-kakw/aplicacion-noticias",
+      "icon": "austinApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/austin-klqb-fm/que-buena-104-3-fm": [
+    {
+      "text": "Univision 62",
+      "href": "/local/austin-kakw/aplicacion-noticias",
+      "icon": "austinApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/chicago-wrto-am": [
+    {
+      "text": "Univision Chicago",
+      "href": "/local/chicago-wgbo/aplicacion-noticias",
+      "icon": "chicagoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/chicago-wojo-fm/que-buena-105-1-fm": [
+    {
+      "text": "Univision Chicago",
+      "href": "/local/chicago-wgbo/aplicacion-noticias",
+      "icon": "chicagoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/chicago-wppn-fm/amor-106-7-fm": [
+    {
+      "text": "Univision Chicago",
+      "href": "/local/chicago-wgbo/aplicacion-noticias",
+      "icon": "chicagoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/chicago-wviv-fm": [
+    {
+      "text": "Univision Chicago",
+      "href": "/local/chicago-wgbo/aplicacion-noticias",
+      "icon": "chicagoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/dallas-kflc-am": [
+    {
+      "text": "Univision 23",
+      "href": "/local/dallas-kuvn/aplicacion-noticias",
+      "icon": "dallasApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/dallas-kdxx-fm": [
+    {
+      "text": "Univision 23",
+      "href": "/local/dallas-kuvn/aplicacion-noticias",
+      "icon": "dallasApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/dallas-kfzo-fm": [
+    {
+      "text": "Univision 23",
+      "href": "/local/dallas-kuvn/aplicacion-noticias",
+      "icon": "dallasApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/dallas-klno-fm": [
+    {
+      "text": "Univision 23",
+      "href": "/local/dallas-kuvn/aplicacion-noticias",
+      "icon": "dallasApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/fresno-klle-fm/zona-mx-107-9": [
+    {
+      "text": "Univision 21",
+      "href": "/local/fresno-kftv/aplicacion-noticias",
+      "icon": "fresnoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/fresno-kond-fm/la-jefa-107-5": [
+    {
+      "text": "Univision 21",
+      "href": "/local/fresno-kftv/aplicacion-noticias",
+      "icon": "fresnoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/fresno-krda-fm/amor-92-1": [
+    {
+      "text": "Univision 21",
+      "href": "/local/fresno-kftv/aplicacion-noticias",
+      "icon": "fresnoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/houston-klat-am": [
+    {
+      "text": "Univision 45",
+      "href": "/local/houston-kxln/aplicacion-noticias",
+      "icon": "houstonApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/houston-kama-fm": [
+    {
+      "text": "Univision 45",
+      "href": "/local/houston-kxln/aplicacion-noticias",
+      "icon": "houstonApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/houston-kltn-fm": [
+    {
+      "text": "Univision 45",
+      "href": "/local/houston-kxln/aplicacion-noticias",
+      "icon": "houstonApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/los-angeles-ktnq-am": [
+    {
+      "text": "Univision 34",
+      "href": "/local/los-angeles-kmex/aplicacion-noticias",
+      "icon": "losAngelesApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/los-angeles-ksca-fm": [
+    {
+      "text": "Univision 34",
+      "href": "/local/los-angeles-kmex/aplicacion-noticias",
+      "icon": "losAngelesApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/los-angeles-krcd-fm": [
+    {
+      "text": "Univision 34",
+      "href": "/local/los-angeles-kmex/aplicacion-noticias",
+      "icon": "losAngelesApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/los-angeles-klve-fm": [
+    {
+      "text": "Univision 34",
+      "href": "/local/los-angeles-kmex/aplicacion-noticias",
+      "icon": "losAngelesApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/miami-wqba-am": [
+    {
+      "text": "Univision 23",
+      "href": "/local/miami-wltv/aplicacion-noticias",
+      "icon": "miamiApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/miami-wamr-fm": [
+    {
+      "text": "Univision 23",
+      "href": "/local/miami-wltv/aplicacion-noticias",
+      "icon": "miamiApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/miami-waqi-am": [
+    {
+      "text": "Univision 23",
+      "href": "/local/miami-wltv/aplicacion-noticias",
+      "icon": "miamiApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/miami-wrto-fm": [
+    {
+      "text": "Univision 23",
+      "href": "/local/miami-wltv/aplicacion-noticias",
+      "icon": "miamiApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/nueva-york-wado-am": [
+    {
+      "text": "Univision 41",
+      "href": "/local/nueva-york-wxtv/aplicacion-noticias",
+      "icon": "newYorkApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/nueva-york-wqbu-fm": [
+    {
+      "text": "Univision 41",
+      "href": "/local/nueva-york-wxtv/aplicacion-noticias",
+      "icon": "newYorkApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/nueva-york-wxny-fm": [
+    {
+      "text": "Univision 41",
+      "href": "/local/nueva-york-wxtv/aplicacion-noticias",
+      "icon": "newYorkApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/arizona-kqmr-fm": [
+    {
+      "text": "Univision Arizona",
+      "href": "/local/arizona-ktvw/aplicacion-noticias",
+      "icon": "arizonaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/arizona-khot-fm": [
+    {
+      "text": "Univision Arizona",
+      "href": "/local/arizona-ktvw/aplicacion-noticias",
+      "icon": "arizonaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/arizona-komr-fm": [
+    {
+      "text": "Univision Arizona",
+      "href": "/local/arizona-ktvw/aplicacion-noticias",
+      "icon": "arizonaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/puerto-rico-wkaq-fm": [
+    {
+      "text": "Univision PR",
+      "href": "/local/puerto-rico-wlii/aplicacion-noticias",
+      "icon": "puertoRicoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/puerto-rico-wkaq-am/wkaq-580-am": [
+    {
+      "text": "Univision PR",
+      "href": "/local/puerto-rico-wlii/aplicacion-noticias",
+      "icon": "puertoRicoApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-antonio-kcor-am": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-antonio-kmyo-fm": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-antonio-kbbt-fm": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-antonio-krom-fm/que-buena-92-9-fm": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-antonio-kxtn-fm": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-diego-klnv-fm/que-buena-106-5-fm": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-diego-klqv-fm/amor-102-9": [
+    {
+      "text": "Univision 41",
+      "href": "/local/san-antonio-kwex/aplicacion-noticias",
+      "icon": "sanAntonioApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-francisco-kbrg-fm": [
+    {
+      "text": "Univision 14",
+      "href": "/local/san-francisco-kdtv/aplicacion-noticias",
+      "icon": "bayAreaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-francisco-ksol-fm/que-buena-98-9-99-1-fm": [
+    {
+      "text": "Univision 14",
+      "href": "/local/san-francisco-kdtv/aplicacion-noticias",
+      "icon": "bayAreaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ],
+  "/radio/san-francisco-kvvf-fm/hot-105-7-fm": [
+    {
+      "text": "Univision 14",
+      "href": "/local/san-francisco-kdtv/aplicacion-noticias",
+      "icon": "bayAreaApp",
+      "target": "_blank",
+      "site": "univision"
+    }
+  ]
+}

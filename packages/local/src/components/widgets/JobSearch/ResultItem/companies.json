@@ -1,0 +1,74 @@
+[
+	{
+	  "name": "C&S Wholesale Grocers",
+	  "image": "https://st1.uvnimg.com/b5/50/c065203a47bf9c4e2cd93bd1761e/gs-tri-logo-2-5x3.jpg",
+	  "city": "miami",
+	  "contact": "eeoadmin@cswg.com | (603) 354-7000",
+	  "address": "3300 NW 123rd St., Miami, FL 33167",
+	  "detailLink": "https://www.univision.com/local/miami-wltv/trabajos/c-s-wholesale-grocers"
+	},
+	{
+	  "name": "C&S WHOLESALE GROCERS",
+	  "image": "https://st1.uvnimg.com/b5/50/c065203a47bf9c4e2cd93bd1761e/gs-tri-logo-2-5x3.jpg",
+	  "city": "dallas",
+	  "contact": "603) 354-7000",
+	  "address": "2121 E. Grauwyler Rd., Irving, TX 75061, 777 Freeport Pkwy, Coppell, TX 75019",
+	  "detailLink": "https://www.univision.com/local/dallas-kuvn/trabajos/g-s-wholesale"
+	},
+	{
+	  "name": "C&S WHOLESALE GROCERS",
+	  "image": "https://st1.uvnimg.com/b5/50/c065203a47bf9c4e2cd93bd1761e/gs-tri-logo-2-5x3.jpg",
+	  "city": "houston",
+	  "contact": "(603) 354-7000",
+	  "address": "3002 Holcombe Blvd., Houston, TX 77021, 3100 E. Holcombe Blvd., Houston, TX 77021",
+	  "detailLink": "https://www.univision.com/local/houston-kxln/trabajos/g-s-wholesale"
+	},
+	{
+	  "name": "Catholic Cemeteries & Mortuaries",
+	  "image": "https://st1.uvnimg.com/20/b4/a216a4e34f0d8f5952ebe9b1cbf9/ccm-logo-002.png",
+	  "city": "los angeles",
+	  "contact": "(213) 637-7624 | https://catholiccm.org/ | Contact@CatholicCM.org",
+	  "address": "Los Angeles",
+	  "detailLink": "https://www.univision.com/local/los-angeles-kmex/trabajos/catholic-cemeteries-mortuaries"
+	},
+	{
+	  "name": "Best Candidates LLC",
+	  "image": "https://st1.uvnimg.com/20/b4/a216a4e34f0d8f5952ebe9b1cbf9/ccm-logo-002.png",
+	  "city": "los angeles",
+	  "contact": "(305)-477-0443 | https://www.bestcandidatesinc.com/",
+	  "address": "Oficina Doral : 7297 NW 36th St., Miami, FL 33166",
+	  "detailLink": "https://www.univision.com/local/miami-wltv/temas/best-candidates-inc"
+	},
+	{
+	  "name": "Pollo Tropical",
+	  "image": "https://st1.uvnimg.com/ee/d8/129a60c54c4e9eceb9fe0bdb2041/pollo-tropical.png",
+	  "city": "miami",
+	  "contact": "(866) 769-7696 | recruiting@pollotropical.com",
+	  "address": "Corporate Office: 7255 Corporate Center Dr. Suite C, Miami, FL 33126",
+	  "detailLink": "https://www.univision.com/local/miami-wltv/temas/pollo-tropical"
+	},
+	{
+	  "name": "Pollo Tropical",
+	  "image": "https://st1.uvnimg.com/ee/d8/129a60c54c4e9eceb9fe0bdb2041/pollo-tropical.png",
+	  "city": "miami",
+	  "contact": "(866) 769-7696 | recruiting@pollotropical.com",
+	  "address": "Corporate Office: 7255 Corporate Center Dr. Suite C, Miami, FL 33126",
+	  "detailLink": "https://www.univision.com/local/miami-wltv/temas/pollo-tropical"
+	},
+	{
+	  "name": "Taco Cabana",
+	  "image": "https://st1.uvnimg.com/ec/a7/0bd45cde466db72a7117bfd10e8c/tc-logo.jpg",
+	  "city": "dallas",
+	  "contact": "rhawthorne@tacocabana.com | Business Phone 210-612-3674 | Danielle Alva – 210-243-7772",
+	  "address": "1077 Central Parkway South, San Antonio, TX, 78232",
+	  "detailLink": "https://www.univision.com/local/dallas-kuvn/trabajos/taco-cabana"
+	},
+	{
+	  "name": "Western Extrusions",
+	  "image": "https://st1.uvnimg.com/2c/e3/831e84d549f595211e6f3a988ac1/we-logo-2.png",
+	  "city": "dallas",
+	  "contact": "info@westernextrusions.com | (972) 389-7605",
+	  "address": "1735 Sandy Lake Rd, Carrollton, TX 75006",
+	  "detailLink": "https://www.univision.com/local/dallas-kuvn/trabajos/western-extrusions"
+	}
+]

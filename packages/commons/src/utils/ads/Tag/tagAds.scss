@@ -1,0 +1,11 @@
+.container {
+  margin: 0 0 5px 0;
+  @include media-breakpoint-up('sm') {
+    background-image: url('../../../assets/images/striped-background.svg');
+    margin: 5px 0 30px 0;
+  }
+}
+
+.adTag {
+  margin: 5px 0;
+}

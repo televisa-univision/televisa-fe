@@ -1,0 +1,2135 @@
+{
+  "type": "relatedcollection",
+  "uid": "00000175-477a-da66-a1ff-d7ff50520000",
+  "title": "Más sobre Delicioso",
+  "titleLink": {
+    "href": "https://performance.univision.com/delicioso",
+    "target": "_self",
+    "text": "Delicioso",
+    "uid": "00000175-477a-da66-a1ff-d7ff50550001"
+  },
+  "contents": [
+    {
+      "type": "slideshow",
+      "uid": "00000173-33ef-dc31-a77b-77ff23430001",
+      "uri": "https://performance.univision.com/noticias/salud/imagenes-de-una-sala-de-emergencias-en-texas-cuando-los-casos-de-covid-19-aumentan-fotos",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "Imágenes de una sala de emergencias en Texas cuando los casos de covid-19 aumentan",
+      "description": "Los casos de <a href=\"https://www.univision.com/temas/coronavirus\" data-cms-id=\"0000016f-df17-df98-a5ef-df5f37170000\" data-cms-href=\"/temas/coronavirus\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000147-f3a5-d4ea-a95f-fbb7f52b0000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1594307424158,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;00000154-5458-dc91-a1fd-7c7ae0710000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1594307424158,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;00000154-5458-dc91-a1fd-7c7ae0710000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;attributes&quot;:[],&quot;item&quot;:{&quot;_ref&quot;:&quot;0000016f-df17-df98-a5ef-df5f37170000&quot;,&quot;_type&quot;:&quot;bbf9906e-66fc-3f76-8f60-63451501d52a&quot;},&quot;_id&quot;:&quot;00000173-3420-dc31-a77b-76b98e570001&quot;,&quot;_type&quot;:&quot;c3f0009d-3dd9-3762-acac-88c3a292c6b2&quot;},&quot;linkText&quot;:&quot;covid-19&quot;,&quot;_id&quot;:&quot;00000173-3420-dc31-a77b-76b98e570000&quot;,&quot;_type&quot;:&quot;809caec9-30e2-3666-8b71-b32ddbffc288&quot;}\">covid-19</a>  se están multiplicando en Texas a un ritmo que preocupa a las autoridades y al personal de salud. El registro de día en la rutina de un pequeño hospital del norte de Houston, ahora una de las ciudades más afectadas, muestra la amarga verdad de la pandemia. <a href=\"https://www.univision.com/noticias/salud/trump-presiona-para-reabrir-escuelas-mientras-aprovecha-el-coronavirus-para-intentar-negar-asilo-a-ciertos-migrantes\" style=\"text-decoration:none;\"><u>Siga aquí nuestra cobertura del coronavirus</u></a>",
+      "image": {
+        "type": "image",
+        "uid": "00000173-33ef-d119-a7f3-37efef840000",
+        "title": "Diego Montelongo",
+        "caption": "Medical student Diego Montelongo closes his eyes briefly as he watches others attempt to save the life of a patient inside the Coronavirus Unit at United Memorial Medical Center, Monday, July 6, 2020, in Houston. Despite all their efforts, the patient died. (AP Photo/David J. Phillip)",
+        "credit": "David J. Phillip/AP",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/e9/da/5d5f139f4990809d164c42dff7f1/ap-20189844748789.jpg",
+            "width": 5000,
+            "height": 3333,
+            "focusPoint": {
+              "x": 0.5248748718567209,
+              "y": 0.6377755007735117
+            }
+          },
+          "slideshow-mobile-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/4072972/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F1500%2Fap-20189844748789.jpg",
+            "width": 414,
+            "height": 550
+          },
+          "slideshow-4x3-vertical": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/a9df89f/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F1500%2Fap-20189844748789.jpg",
+            "width": 1093,
+            "height": 820
+          },
+          "horizontal-slideshow-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/48a2119/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F500%2Fap-20189844748789.jpg",
+            "width": 150,
+            "height": 50
+          },
+          "16x9": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/00ce8cb/2147483647/crop/1500x844%2B0%2B155/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F1500%2Fap-20189844748789.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/031d722/2147483647/crop/500x281%2B0%2B51/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F500%2Fap-20189844748789.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/fb810be/2147483647/crop/1500x844%2B0%2B156/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F1500%2Fap-20189844748789.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "slideshow-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/9e7bfc9/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F1500%2Fap-20189844748789.jpg",
+            "width": 935,
+            "height": 645
+          },
+          "16x9-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/c33c2f3/2147483647/crop/500x283%2B0%2B49/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F500%2Fap-20189844748789.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "slideshow-4x3-vertical-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/06bf26b/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5d5f139f4990809d164c42dff7f1%2Fresizes%2F1500%2Fap-20189844748789.jpg",
+            "width": 420,
+            "height": 620
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-08-24T08:47:01-04:00",
+      "publishDate": "2020-07-09T11:56:33-04:00",
+      "expirationDate": null,
+      "hierarchy": [],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "slideshowType": "verticalslideshow",
+      "slideCount": 12,
+      "cardImages": [
+        {
+          "type": "image",
+          "uid": "00000173-33ef-d119-a7f3-37efefb30001",
+          "title": "Dr. Joseph Varon",
+          "caption": "Dr. Joseph Varon preforms a procedure on a COVID-19 patient inside the Coronovirus Unit at United Memorial Medical Center, Monday, July 6, 2020, in Houston. (AP Photo/David J. Phillip)",
+          "credit": "David J. Phillip/AP",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/04/95/9697a82e4304aa4e71cbaf2248d3/ap-20190438195863.jpg",
+              "width": 4292,
+              "height": 2861,
+              "focusPoint": {
+                "x": 0.48971168599703846,
+                "y": 0.5001908665340646
+              }
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/a1e5729/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F1500%2Fap-20190438195863.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/9dafa94/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F1500%2Fap-20190438195863.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/498139e/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F500%2Fap-20190438195863.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/2cf3aa0/2147483647/crop/1500x844%2B0%2B78/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F1500%2Fap-20190438195863.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/bd9a52a/2147483647/crop/500x281%2B0%2B25/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F500%2Fap-20190438195863.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/3cbc4ba/2147483647/crop/1500x844%2B0%2B78/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F1500%2Fap-20190438195863.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/ecad251/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F1500%2Fap-20190438195863.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1e03af8/2147483647/crop/500x283%2B0%2B24/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F500%2Fap-20190438195863.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/cdf3be9/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F04%2F95%2F9697a82e4304aa4e71cbaf2248d3%2Fresizes%2F1500%2Fap-20190438195863.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000173-33ef-d119-a7f3-37efefa40000",
+          "title": "Dr. Joseph Varon",
+          "caption": "Dr. Joseph Varon conducts a procedure on a patient inside the Coronavirus Unit at United Memorial Medical Center, Monday, July 6, 2020, in Houston. (AP Photo/David J. Phillip)",
+          "credit": "David J. Phillip/AP",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/e1/f6/1b8070f84316b5aa0d05daf834ca/ap-20190402208411-1.jpg",
+              "width": 6000,
+              "height": 4000,
+              "focusPoint": {
+                "x": 0.5171561237411807,
+                "y": 0.5889136680529604
+              }
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/d7c543a/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F1500%2Fap-20190402208411-1.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/ee94e9e/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F1500%2Fap-20190402208411-1.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/d20c6e6/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F500%2Fap-20190402208411-1.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/e103183/2147483647/crop/1500x844%2B0%2B155/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F1500%2Fap-20190402208411-1.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/ec7dc17/2147483647/crop/500x281%2B0%2B51/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F500%2Fap-20190402208411-1.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1c210dd/2147483647/crop/1500x844%2B0%2B156/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F1500%2Fap-20190402208411-1.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/0542601/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F1500%2Fap-20190402208411-1.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1918d42/2147483647/crop/500x283%2B0%2B49/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F500%2Fap-20190402208411-1.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/35dec82/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe1%2Ff6%2F1b8070f84316b5aa0d05daf834ca%2Fresizes%2F1500%2Fap-20190402208411-1.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000173-3416-d119-a7f3-351f73280000",
+          "title": "Dr. Joseph Varon",
+          "caption": "Dr. Joseph Varon, top with JV on shield, leads a team as they tried without success to save the life of a patient inside the Coronavirus Unit at United Memorial Medical Center, Monday, July 6, 2020, in Houston. Cases of COVID-19 are rising in Southern cities like Houston and leaving hospitals at a crisis point. (AP Photo/David J. Phillip)",
+          "credit": "David J. Phillip/AP",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/6d/89/4cb7bb9c441f943fb0e1e1709242/ap-20191015730210.jpg",
+              "width": 5326,
+              "height": 3188,
+              "focusPoint": {
+                "x": 0.457979054855374,
+                "y": 0.48824904638858124
+              }
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/9be0950/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F1500%2Fap-20191015730210.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/40d92b6/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F1500%2Fap-20191015730210.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/319b267/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F500%2Fap-20191015730210.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/c7c4464/2147483647/crop/1500x844%2B0%2B16/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F1500%2Fap-20191015730210.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/a221737/2147483647/crop/500x281%2B0%2B5/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F500%2Fap-20191015730210.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/0003aea/2147483647/crop/1500x844%2B0%2B16/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F1500%2Fap-20191015730210.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/2f257d8/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F1500%2Fap-20191015730210.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/49d4e4a/2147483647/crop/500x283%2B0%2B4/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F500%2Fap-20191015730210.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/f913ea0/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2F89%2F4cb7bb9c441f943fb0e1e1709242%2Fresizes%2F1500%2Fap-20191015730210.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/9xxa102iq8g",
+            "isFeedDialog": false,
+            "title": "Imágenes de una sala de emergencias en Texas cuando los casos de covid-19 aumentan",
+            "description": "Los casos de covid-19 se están multiplicando en Texas a un ritmo que preocupa a las autoridades y al personal de salud. El registro de día en la rutina de un pequeño hospital del norte de Houston, ahora una de las ciudades más afectadas, muestra la amarga verdad de la pandemia. Siga aquí nuestra cobertura del coronavirus",
+            "imageUrl": "https://st1.uvnimg.com/04/95/9697a82e4304aa4e71cbaf2248d3/ap-20190438195863.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/9xxa102iq8g",
+            "title": "Imágenes de una sala de emergencias en Texas cuando los casos de covid-19 aumentan",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/9xxa102iq8g",
+            "message": "Imágenes de una sala de emergencias en Texas cuando los casos de covid-19 aumentan"
+          },
+          "mail": {
+            "subject": "Imágenes de una sala de emergencias en Texas cuando los casos de covid-19 aumentan",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nImágenes de una sala de emergencias en Texas cuando los casos de covid-19 aumentan\n\nEncuéntralo en este enlace:http://uni.vi/9xxa102iq8g\n\nVisítanos https://www.univision.com"
+          }
+        }
+      }
+    },
+    {
+      "type": "liveblog",
+      "uid": "00000173-19e6-df43-a9ff-ffe7284e0000",
+      "uri": "https://performance.univision.com/noticias/salud/no-creo-que-se-pueda-decir-que-lo-estamos-haciendo-muy-bien-dice-fauci-sobre-la-reapertura-en-eeuu",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "“No creo que se pueda decir que lo estamos haciendo muy bien\" dice Fauci sobre la reapertura en EEUU",
+      "description": "Sigue aquí las últimas noticias de la pandemia del coronavirus.<br/><b><a href=\"https://www.univision.com/noticias/salud/mapas-del-nuevo-coronavirus-se-reportan-17-muertos-en-eeuu-y-suben-los-casos-en-america-latina\" data-cms-id=\"0000016f-d063-d9e1-abff-f27709d80002\" data-cms-href=\"/noticias/salud/mapas-del-nuevo-coronavirus-se-reportan-17-muertos-en-eeuu-y-suben-los-casos-en-america-latina\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000147-f3a5-d4ea-a95f-fbb7f52b0000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1583614279414,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;00000150-62f8-debe-ad50-ebf924f50013&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1583614279414,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;00000150-62f8-debe-ad50-ebf924f50013&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;attributes&quot;:[],&quot;item&quot;:{&quot;_ref&quot;:&quot;0000016f-d063-d9e1-abff-f27709d80002&quot;,&quot;_type&quot;:&quot;4f8e492c-6f2f-390e-bc61-f176d3a37ab9&quot;},&quot;_id&quot;:&quot;00000170-9a92-dfb1-ad70-9ffe22dd0000&quot;,&quot;_type&quot;:&quot;c3f0009d-3dd9-3762-acac-88c3a292c6b2&quot;},&quot;linkText&quot;:&quot;El covid-19 en gráficos: estos mapas te muestran el impacto del coronavirus&quot;,&quot;_id&quot;:&quot;00000170-9a92-dfb1-ad70-9ffe22d90000&quot;,&quot;_type&quot;:&quot;809caec9-30e2-3666-8b71-b32ddbffc288&quot;}\" style=\"box-sizing: border-box; color: rgb(35, 88, 191); text-decoration: none; background-color: transparent;\">El coronavirus en gráficos: estos mapas te muestran el impacto global</a></b>",
+      "image": {
+        "type": "image",
+        "uid": "00000173-0119-d3b9-a77f-615955100000",
+        "title": "US-POLITICS-HEALTH-VIRUS-HEARING",
+        "caption": "El Director del Instituto Nacional de Alergias y Enfermedades Infecciosas, el doctor Anthony Fauci, dijo que es \"cautelosamente optimista\" sobre la pronta llegada de una vacuna contra el covid-19.",
+        "credit": "KEVIN DIETSCH/AFP via Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/fe/2a/45d4816747158e708de4e75882ff/gettyimages-1222127298.jpg",
+            "width": 1024,
+            "height": 721,
+            "focusPoint": {
+              "x": 0.49782751531336766,
+              "y": 0.42003853564547206
+            }
+          },
+          "16x9-med": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/9a11816/2147483647/crop/500x281%2B0%2B7/resize/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F2a%2F45d4816747158e708de4e75882ff%2Fresizes%2F500%2Fgettyimages-1222127298.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/6631925/2147483647/crop/500x281%2B0%2B7/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F2a%2F45d4816747158e708de4e75882ff%2Fresizes%2F500%2Fgettyimages-1222127298.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/7321590/2147483647/crop/500x280%2B0%2B7/resize/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F2a%2F45d4816747158e708de4e75882ff%2Fresizes%2F500%2Fgettyimages-1222127298.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/fcc5df6/2147483647/crop/1024x576%2B0%2B14/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F2a%2F45d4816747158e708de4e75882ff%2Fgettyimages-1222127298.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/0f134b0/2147483647/crop/500x283%2B0%2B6/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffe%2F2a%2F45d4816747158e708de4e75882ff%2Fresizes%2F500%2Fgettyimages-1222127298.jpg",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": "LIVEBLOG",
+      "updateDate": "2020-09-08T07:51:39-04:00",
+      "publishDate": "2020-07-09T06:34:05-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mostRecentPostPublishDate": "2020-07-09T23:30:59-04:00",
+      "recentPostTitles": [
+        "Trump asegura que la mayoría de los casos de coronavirus se \"curan automáticamente\"",
+        "Chile, sexto país del mundo por número de casos, reporta 109 muertes en la última jornada",
+        "Brasil se acerca a los 70,000 muertos por coronavirus"
+      ],
+      "recentTitledPosts": [
+        {
+          "type": "liveblogpost",
+          "uid": "00000173-36ac-d8bd-ad7f-beeecfc60000",
+          "uri": "https://performance.univision.com/noticias/salud/no-creo-que-se-pueda-decir-que-lo-estamos-haciendo-muy-bien-dice-fauci-sobre-la-reapertura-en-eeuu?postId=AAABczas2L2tf77uz8YAAA#AAABczas2L2tf77uz8YAAA",
+          "vertical": null,
+          "parent": null,
+          "title": "Trump asegura que la mayoría de los casos de coronavirus se \"curan automáticamente\"",
+          "description": null,
+          "image": null,
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-08-26T09:12:37-04:00",
+          "publishDate": "2020-07-09T23:30:59-04:00",
+          "expirationDate": null,
+          "hierarchy": [],
+          "disableReactions": false,
+          "shortId": "AAABczas2L2tf77uz8YAAA"
+        },
+        {
+          "type": "liveblogpost",
+          "uid": "00000173-3680-d6d1-a177-3fa87bcc0000",
+          "uri": "https://performance.univision.com/noticias/salud/no-creo-que-se-pueda-decir-que-lo-estamos-haciendo-muy-bien-dice-fauci-sobre-la-reapertura-en-eeuu?postId=AAABczaA1tGhdz-oe8wAAA#AAABczaA1tGhdz-oe8wAAA",
+          "vertical": null,
+          "parent": null,
+          "title": "Chile, sexto país del mundo por número de casos, reporta 109 muertes en la última jornada",
+          "description": null,
+          "image": null,
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-07-09T22:27:08-04:00",
+          "publishDate": "2020-07-09T22:27:08-04:00",
+          "expirationDate": null,
+          "hierarchy": [],
+          "disableReactions": false,
+          "shortId": "AAABczaA1tGhdz-oe8wAAA"
+        },
+        {
+          "type": "liveblogpost",
+          "uid": "00000173-3667-d8bd-ad7f-bee77a740000",
+          "uri": "https://performance.univision.com/noticias/salud/no-creo-que-se-pueda-decir-que-lo-estamos-haciendo-muy-bien-dice-fauci-sobre-la-reapertura-en-eeuu?postId=AAABczZn2L2tf77nenQAAA#AAABczZn2L2tf77nenQAAA",
+          "vertical": null,
+          "parent": null,
+          "title": "Brasil se acerca a los 70,000 muertos por coronavirus",
+          "description": null,
+          "image": null,
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-07-09T22:15:24-04:00",
+          "publishDate": "2020-07-09T22:15:24-04:00",
+          "expirationDate": null,
+          "hierarchy": [],
+          "disableReactions": false,
+          "shortId": "AAABczZn2L2tf77nenQAAA"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy"
+    },
+    {
+      "type": "article",
+      "uid": "00000173-2f66-d7da-a7fb-6f773d620002",
+      "uri": "https://performance.univision.com/noticias/salud/acusan-a-padre-e-hijos-de-vender-blanqueador-como-cura-milagrosa-para-el-coronavirus",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "Acusan a padre e hijos de vender blanqueador como cura \"milagrosa\" para el coronavirus",
+      "description": "Los acusados supuestamente intentaron evitar la regulación gubernamental vendiendo productos a través de una empresa que denominaron &#39;La Iglesia Génesis II&#39;. El presidente Trump promovió la idea de inyectar desinfectante como una posible cura para el covid-19 en abril.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2fc0-d7da-a7fb-6fd783b40000",
+        "title": "MMS.jpg",
+        "caption": "La Iglesia Genesis II vendió botellas de MMS, como si fuera un sacramento.",
+        "credit": "https://g2sacraments.org/",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/e6/e7/4e26f8004b4e94cc97e1988c6e63/mms.jpg",
+            "width": 3000,
+            "height": 1688
+          },
+          "article-lead-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/b54106c/2147483647/thumbnail/414x156%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2Fe7%2F4e26f8004b4e94cc97e1988c6e63%2Fresizes%2F500%2Fmms.jpg",
+            "width": 414,
+            "height": 156
+          },
+          "16x9-med": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/6ee5c07/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2Fe7%2F4e26f8004b4e94cc97e1988c6e63%2Fresizes%2F500%2Fmms.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "article-lead-md": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/438c364/2147483647/thumbnail/1024x384%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2Fe7%2F4e26f8004b4e94cc97e1988c6e63%2Fresizes%2F1500%2Fmms.jpg",
+            "width": 1024,
+            "height": 384
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/e107de5/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2Fe7%2F4e26f8004b4e94cc97e1988c6e63%2Fresizes%2F500%2Fmms.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/b5add78/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2Fe7%2F4e26f8004b4e94cc97e1988c6e63%2Fresizes%2F500%2Fmms.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/c9f7a40/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2Fe7%2F4e26f8004b4e94cc97e1988c6e63%2Fresizes%2F1500%2Fmms.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "article-lead-xl": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/8bef4a6/2147483647/thumbnail/1440x540%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2Fe7%2F4e26f8004b4e94cc97e1988c6e63%2Fresizes%2F1500%2Fmms.jpg",
+            "width": 1440,
+            "height": 540
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "David C Adams",
+          "image": {
+            "type": "image",
+            "uid": "00000154-a02b-d3c9-a37e-ecbb365d0000",
+            "title": "David Adams",
+            "caption": "Senior editor, Univision News (in English)",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/10/96/c649796f4607ac14edfc3c10fdac/adamsbiofullsizerender-12.jpg",
+                "width": 319,
+                "height": 225,
+                "focusPoint": {
+                  "x": 41.57706093189964,
+                  "y": 41.08108108108108
+                }
+              },
+              "1x1-xxs-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ffa26b3/2147483647/crop/225x225%2B20%2B0/resize/80x80/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2F96%2Fc649796f4607ac14edfc3c10fdac%2Fadamsbiofullsizerender-12.jpg",
+                "width": 80,
+                "height": 80
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0489cd6/2147483647/crop/319x179%2B0%2B2/resize/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2F96%2Fc649796f4607ac14edfc3c10fdac%2Fadamsbiofullsizerender-12.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fe9cad6/2147483647/crop/319x179%2B0%2B2/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2F96%2Fc649796f4607ac14edfc3c10fdac%2Fadamsbiofullsizerender-12.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/5b6c9bd/2147483647/crop/319x179%2B0%2B2/resize/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2F96%2Fc649796f4607ac14edfc3c10fdac%2Fadamsbiofullsizerender-12.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/684ab28/2147483647/crop/319x179%2B0%2B2/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2F96%2Fc649796f4607ac14edfc3c10fdac%2Fadamsbiofullsizerender-12.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "1x1-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/888f9ff/2147483647/crop/225x225%2B20%2B0/resize/480x480/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2F96%2Fc649796f4607ac14edfc3c10fdac%2Fadamsbiofullsizerender-12.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          "uri": "https://performance.univision.com/temas/david-adams",
+          "socialNetworks": {
+            "facebookUrl": null,
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/dadams7308",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Senior Editor, Univision News",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T16:48:11-04:00",
+      "publishDate": "2020-07-08T14:45:26-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "readTime": null,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Los fiscales federales en Miami <a href=\"https://www.justice.gov/usao-sdfl/pr/father-and-sons-charged-miami-federal-court-selling-toxic-bleach-fake-miracle-cure\" target=\"_blank\">acusaron este miércoles a cuatro residentes de Florida</a> que supuestamente comercializaron \"Miracle Mineral Solution\" (\"MMS\") de un blanqueador tóxico, como una cura para el covid-19.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/bqja102imqa",
+            "isFeedDialog": false,
+            "title": "Acusan a padre e hijos de vender blanqueador como cura \"milagrosa\" para el coronavirus",
+            "description": "Los acusados supuestamente intentaron evitar la regulación gubernamental vendiendo productos a través de una empresa que denominaron 'La Iglesia Génesis II'. El presidente Trump promovió la idea de inyectar desinfectante como una posible cura para el covid-19 en abril.",
+            "imageUrl": "https://st1.uvnimg.com/e6/e7/4e26f8004b4e94cc97e1988c6e63/mms.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/bqja102imqa",
+            "title": "Acusan a padre e hijos de vender blanqueador como cura \"milagrosa\" para el coronavirus",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/bqja102imqa",
+            "message": "Acusan a padre e hijos de vender blanqueador como cura \"milagrosa\" para el coronavirus"
+          },
+          "mail": {
+            "subject": "Acusan a padre e hijos de vender blanqueador como cura \"milagrosa\" para el coronavirus",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAcusan a padre e hijos de vender blanqueador como cura \"milagrosa\" para el coronavirus\n\nEncuéntralo en este enlace:http://uni.vi/bqja102imqa\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false
+    },
+    {
+      "type": "slideshow",
+      "uid": "00000173-2f1e-d7da-a7fb-6f5f210e0001",
+      "uri": "https://performance.univision.com/noticias/salud/estos-multimillonarios-estadounidenses-se-han-hecho-mas-ricos-en-la-pandemia-fotos",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "Estos multimillonarios estadounidenses se han hecho más ricos en la pandemia",
+      "description": "Varios estudios han encontrado que un grupo de multimillonarios estadounidenses aumentó su fortuna desde el comienzo de la crisis pandémica. Mientras millones pidieron ayuda por desempleo y decenas de tiendas minoristas se declararon en bancarrota, la pandemia recompensó a las empresas más grandes y centradas en la tecnología. <a href=\"https://www.univision.com/noticias/salud/eeuu-sobrepasa-los-3-millones-de-casos-registrados-y-rompe-nuevo-record-con-60-000-nuevos-contagios-en-un-dia\" style=\"text-decoration:none;\"><u>Siga aquí nuestra cobertura del coronavirus</u></a>",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2f72-d7da-a7fb-6f777db60000",
+        "title": "PromoBillonarios.jpg",
+        "caption": null,
+        "credit": "Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/e6/78/e16f4eeb48479ee8b99f5bdb651f/promobillonarios.jpg",
+            "width": 3000,
+            "height": 1688
+          },
+          "slideshow-mobile-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/0094346/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F1500%2Fpromobillonarios.jpg",
+            "width": 414,
+            "height": 550
+          },
+          "slideshow-4x3-vertical": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/227135a/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F1500%2Fpromobillonarios.jpg",
+            "width": 1093,
+            "height": 820
+          },
+          "horizontal-slideshow-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/d8cfcae/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F500%2Fpromobillonarios.jpg",
+            "width": 150,
+            "height": 50
+          },
+          "16x9": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/970e0e0/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F1500%2Fpromobillonarios.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/a26e846/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F500%2Fpromobillonarios.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/10812bd/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F1500%2Fpromobillonarios.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "slideshow-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/ab0411d/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F1500%2Fpromobillonarios.jpg",
+            "width": 935,
+            "height": 645
+          },
+          "16x9-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/f3b1d2f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F500%2Fpromobillonarios.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "slideshow-4x3-vertical-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/39721a2/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F78%2Fe16f4eeb48479ee8b99f5bdb651f%2Fresizes%2F1500%2Fpromobillonarios.jpg",
+            "width": 420,
+            "height": 620
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T14:18:07-04:00",
+      "publishDate": "2020-07-08T14:18:07-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "slideshowType": "verticalslideshow",
+      "slideCount": 11,
+      "cardImages": [
+        {
+          "type": "image",
+          "uid": "00000173-2f23-da82-a97f-ffab00a70001",
+          "title": "Rocco Commisso, owner of ACF Fiorentina, looks on prior to",
+          "caption": "STADIO OLIMPICO GRANDE TORINO, TURIN, ITALY - 2019/12/08: Rocco Commisso, owner of ACF Fiorentina, looks on prior to the Serie A football match between Torino FC and ACF Fiorentina. Torino FC won 2-1 over ACF Fiorentina. (Photo by Nicolò Campo/LightRocket via Getty Images)",
+          "credit": "Nicolò Campo/LightRocket via Getty Images",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/99/93/8d1d556a48dfb133244166b9e8c1/gettyimages-1187343861.jpg",
+              "width": 3866,
+              "height": 2573,
+              "focusPoint": {
+                "x": 0.567579653859272,
+                "y": 0.5199587672090805
+              }
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/14a37cd/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F1500%2Fgettyimages-1187343861.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/23daf76/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F1500%2Fgettyimages-1187343861.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/0d19859/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F500%2Fgettyimages-1187343861.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/14f86c4/2147483647/crop/1500x844%2B0%2B96/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F1500%2Fgettyimages-1187343861.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/79a4589/2147483647/crop/500x281%2B0%2B32/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F500%2Fgettyimages-1187343861.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1e6dcbd/2147483647/crop/1500x844%2B0%2B97/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F1500%2Fgettyimages-1187343861.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/d5e6b9b/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F1500%2Fgettyimages-1187343861.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/fd045b3/2147483647/crop/500x283%2B0%2B31/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F500%2Fgettyimages-1187343861.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/e3fe995/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F93%2F8d1d556a48dfb133244166b9e8c1%2Fresizes%2F1500%2Fgettyimages-1187343861.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000173-2f23-da82-a97f-ffab00800001",
+          "title": "The Carter Burden Center For The Aging 41st Anniversary Gala",
+          "caption": "NEW YORK, NY - NOVEMBER 05: Co-founder of Apollo Global Management and Managing Partner of The Philadelphia 76er's Joshua Harris attends The Carter Burden Center For The Aging 41st Anniversary Gala at Mandarin Oriental Ballroom on November 5, 2012 in New York City. (Photo by Brad Barket/Getty Images)",
+          "credit": "Brad Barket/Getty Images",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/aa/e2/247fe7794f6496605c78e20d0e10/gettyimages-155593803.jpg",
+              "width": 3000,
+              "height": 2000,
+              "focusPoint": {
+                "x": 0.5137396274288741,
+                "y": 0.4983837146277908
+              }
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/9eb1624/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F1500%2Fgettyimages-155593803.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/2c9ca9c/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F1500%2Fgettyimages-155593803.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/07f74b5/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F500%2Fgettyimages-155593803.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/6170c5e/2147483647/crop/1500x844%2B0%2B76/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F1500%2Fgettyimages-155593803.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/19eab72/2147483647/crop/500x281%2B0%2B25/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F500%2Fgettyimages-155593803.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/83f4f8f/2147483647/crop/1500x844%2B0%2B76/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F1500%2Fgettyimages-155593803.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/92ce7c8/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F1500%2Fgettyimages-155593803.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/17a7f64/2147483647/crop/500x283%2B0%2B24/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F500%2Fgettyimages-155593803.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/fb4e866/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Fe2%2F247fe7794f6496605c78e20d0e10%2Fresizes%2F1500%2Fgettyimages-155593803.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000173-2f23-da82-a97f-ffab00980000",
+          "title": "2018 New York Times Dealbook",
+          "caption": "NEW YORK, NY - NOVEMBER 01: Steve Ballmer, Founder, USAFacts and Former C.E.O., Microsoft speaks onstage during the 2018 New York Times Dealbook on November 1, 2018 in New York City. (Photo by Michael Cohen/Getty Images for The New York Times)",
+          "credit": "Michael Cohen/Getty Images for The New York Ti",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/a3/6e/444b91c746d4b6d936ba50ce26b1/gettyimages-1056086398.jpg",
+              "width": 3000,
+              "height": 2000,
+              "focusPoint": {
+                "x": 0.468409660302797,
+                "y": 0.3754059149144398
+              }
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/3dccf5e/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F1500%2Fgettyimages-1056086398.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/a816183/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F1500%2Fgettyimages-1056086398.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/8f9cd33/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F500%2Fgettyimages-1056086398.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1525cc9/2147483647/crop/1500x844%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F1500%2Fgettyimages-1056086398.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/f7afcaa/2147483647/crop/500x281%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F500%2Fgettyimages-1056086398.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/2e2a06e/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F1500%2Fgettyimages-1056086398.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/9bbbfc4/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F1500%2Fgettyimages-1056086398.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/eb4496f/2147483647/crop/500x283%2B0%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F500%2Fgettyimages-1056086398.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/4a219b2/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F6e%2F444b91c746d4b6d936ba50ce26b1%2Fresizes%2F1500%2Fgettyimages-1056086398.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/UhnC102imna",
+            "isFeedDialog": false,
+            "title": "Estos multimillonarios estadounidenses se han hecho más ricos en la pandemia",
+            "description": "Varios estudios han encontrado que un grupo de multimillonarios estadounidenses aumentó su fortuna desde el comienzo de la crisis pandémica. Mientras millones pidieron ayuda por desempleo y decenas de tiendas minoristas se declararon en bancarrota, la pandemia recompensó a las empresas más grandes y centradas en la tecnología. Siga aquí nuestra cobertura del coronavirus",
+            "imageUrl": "https://st1.uvnimg.com/99/93/8d1d556a48dfb133244166b9e8c1/gettyimages-1187343861.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/UhnC102imna",
+            "title": "Estos multimillonarios estadounidenses se han hecho más ricos en la pandemia",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/UhnC102imna",
+            "message": "Estos multimillonarios estadounidenses se han hecho más ricos en la pandemia"
+          },
+          "mail": {
+            "subject": "Estos multimillonarios estadounidenses se han hecho más ricos en la pandemia",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEstos multimillonarios estadounidenses se han hecho más ricos en la pandemia\n\nEncuéntralo en este enlace:http://uni.vi/UhnC102imna\n\nVisítanos https://www.univision.com"
+          }
+        }
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-2f67-d299-a377-fff75ba80000",
+      "uri": "https://performance.univision.com/noticias/salud/revelan-dos-hallazgos-clave-en-la-batalla-contra-el-vih-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "Revelan dos hallazgos clave en la batalla contra el VIH",
+      "description": "Después de más de cuatro décadas batallando el virus del VIH, un caso en Brasil de remisión a largo plazo revela las esperanzas de encontrar una cura. Una vacuna que previene el virus también está siendo estudiada por los científicos. Más noticias <a href=\"https://www.univision.com/noticias/\" target=\"_blank\" link-data=\"{&quot;cms.content.publishDate&quot;:1594231512943,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;00000170-6321-d108-a3f5-6b7919600000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1594231512943,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;00000170-6321-d108-a3f5-6b7919600000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;target&quot;:&quot;NEW&quot;,&quot;attributes&quot;:[],&quot;url&quot;:&quot;https://www.univision.com/noticias/&quot;,&quot;_id&quot;:&quot;00000173-2f9a-d7da-a7fb-6fdf4e310000&quot;,&quot;_type&quot;:&quot;ff658216-e70f-39d0-b660-bdfe57a5599a&quot;},&quot;linkText&quot;:&quot;aquí&quot;,&quot;_id&quot;:&quot;00000173-2f9a-d7da-a7fb-6fdf4e2e0000&quot;,&quot;_type&quot;:&quot;809caec9-30e2-3666-8b71-b32ddbffc288&quot;}\">aquí</a>. ",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2f97-d299-a377-fff79ae10000",
+        "title": "4b85a464d8a14978bea064189efd695c",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/2c/cc/662641d341a58b1e9bf6048ae0c2/4b85a464d8a14978bea064189efd695c",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/b8f614c/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2Fresizes%2F500%2F4b85a464d8a14978bea064189efd695c",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/aca8f31/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2Fresizes%2F1500%2F4b85a464d8a14978bea064189efd695c",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/682d68e/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2Fresizes%2F500%2F4b85a464d8a14978bea064189efd695c",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/a35e021/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2Fresizes%2F500%2F4b85a464d8a14978bea064189efd695c",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/c89c60b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2Fresizes%2F1500%2F4b85a464d8a14978bea064189efd695c",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-extended": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/ca7171c/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2Fresizes%2F1500%2F4b85a464d8a14978bea064189efd695c",
+            "width": 1440,
+            "height": 810
+          },
+          "16x9-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/fd1fbb3/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2Fresizes%2F500%2F4b85a464d8a14978bea064189efd695c",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T14:28:59-04:00",
+      "publishDate": "2020-07-08T12:23:00-04:00",
+      "expirationDate": "2030-07-08T12:23:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3883885",
+      "durationString": "0:58",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/lou1102imdB",
+            "isFeedDialog": false,
+            "title": "Revelan dos hallazgos clave en la batalla contra el VIH",
+            "description": "Después de más de cuatro décadas batallando el virus del VIH, un caso en Brasil de remisión a largo plazo revela las esperanzas de encontrar una cura. Una vacuna que previene el virus también está siendo estudiada por los científicos. Más noticias aquí.",
+            "imageUrl": "https://st1.uvnimg.com/2c/cc/662641d341a58b1e9bf6048ae0c2/4b85a464d8a14978bea064189efd695c",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/lou1102imdB",
+            "title": "Revelan dos hallazgos clave en la batalla contra el VIH",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/lou1102imdB",
+            "message": "Revelan dos hallazgos clave en la batalla contra el VIH"
+          },
+          "mail": {
+            "subject": "Revelan dos hallazgos clave en la batalla contra el VIH",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRevelan dos hallazgos clave en la batalla contra el VIH\n\nEncuéntralo en este enlace:http://uni.vi/lou1102imdB\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "categories": ["Noticias"],
+      "dateCreated": "2020-07-08T12:34:54-04:00",
+      "airDate": "2020-07-08T12:23:00-04:00",
+      "rating": "TV-PG",
+      "season": 2020,
+      "series": "650",
+      "seriesName": "Noticias Original Digital",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "noticiasoriginaldigital",
+        "VIH",
+        "ciencia",
+        "SIDA",
+        "Video",
+        "News",
+        "Noticias Univision",
+        "Univision",
+        "Noticias",
+        "salud"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "USA Plus",
+          "access": "public",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "MX",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/1A9/2C5/1A92C5C0691E4387BCC811BA454E54B4.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688839324&Signature=RYGeNCtQlJ7JPC2AnD1PsLPE4pb7fQQxmy1uYPsflGw%2BH0e%2F0NTmIn4jvesanwlIOUZM%2BEiW2oNJUxIMf1iRcfpggYn2ZB3d79peLG1bHu9BAvW4wEbcBil7umXJXPAVHjSmEMQf7unAasOunA38NttZ6nHujfLwroeTIt752wzs4ekAfZifXP8JHOuRoF9CCjb6ouXcsFCvyw145YCMo48ob85%2B9N4S%2BwslGzKXuF60MiGizs5aZnqzZzuCaTX874navtFmKOMoK%2Fj1TSgWm4CpedjoqKBEbp8OyCgO7JSRwbHy1LUhdXnKAuvNkRHnmeLWEbg%2FEqwHCkSObV5McQ%3D%3D"
+      ],
+      "copyrightYear": 2020,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 9770,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "News",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "auth.univision.com",
+      "thumbnailImage": "https://cdn1.performance.univision.com/dims4/default/2ffb857/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2c%2Fcc%2F662641d341a58b1e9bf6048ae0c2%2F4b85a464d8a14978bea064189efd695c",
+      "shortUrl": "http://uni.vi/lou1102imdB",
+      "permalink": "https://performance.univision.com/noticias/salud/revelan-dos-hallazgos-clave-en-la-batalla-contra-el-vih-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "adTagValue": "video_noticias/salud",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": ["noticiasoriginaldigital", "noticias", "vihysida", "salud"]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "Mqa7Dbi3"
+    },
+    {
+      "type": "slideshow",
+      "uid": "00000172-f22e-d4f4-a1ff-f76eeefc001a",
+      "uri": "https://performance.univision.com/noticias/salud/minoristas-en-crisis-estas-tiendas-estan-desapareciendo-en-la-era-coronavirus-fotos-fotos",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "Minoristas en crisis: estas tiendas están desapareciendo en la era coronavirus (fotos)",
+      "description": "Varias cadenas de tiendas minoristas ya estaban luchando por mantenerse con vida desde antes de que comenzara la pandemia. Tras el cierre forzoso por el coronavirus los planes de recuperación de estas empresas se ha complicado. Algunas han anunciado más cierres y otras han decidido adaptarse a la nueva exigencia del mercado: la venta en línea.<a href=\"https://www.univision.com/noticias/salud/trump-ordena-examenes-diarios-en-la-casa-blanca-tras-un-contagio-el-coronavirus-deja-en-eeuu-mas-de-75-000-fallecidos\" style=\"text-decoration:none;\"> <u>Siga aquí nuestra cobertura del coronavirus</u></a><br/>",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2ee6-d7da-a7fb-6ef7f37b0000",
+        "title": "American men's clothier chain Brooks Brothers store and logo",
+        "caption": "SAN FRANCISCO, UNITED STATES - 2020/01/23: American men's clothier chain Brooks Brothers store and logo seen at one of their stores. (Photo by Alex Tai/SOPA Images/LightRocket via Getty Images)",
+        "credit": "SOPA Images/SOPA Images/LightRocket via Gett",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/b7/ac/ce070068447bbbb0876a5278094f/gettyimages-1207206307.jpg",
+            "width": 5000,
+            "height": 3335
+          },
+          "slideshow-mobile-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/a0b7527/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+            "width": 414,
+            "height": 550
+          },
+          "slideshow-4x3-vertical": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/0d64131/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+            "width": 1093,
+            "height": 820
+          },
+          "horizontal-slideshow-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/af0d435/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F500%2Fgettyimages-1207206307.jpg",
+            "width": 150,
+            "height": 50
+          },
+          "16x9": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/4324462/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/ae36117/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F500%2Fgettyimages-1207206307.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/e4e0b97/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "slideshow-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/eb2a280/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+            "width": 935,
+            "height": 645
+          },
+          "16x9-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/6a4f24b/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F500%2Fgettyimages-1207206307.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "slideshow-4x3-vertical-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/18f8c7f/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+            "width": 420,
+            "height": 620
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T10:54:40-04:00",
+      "publishDate": "2020-07-08T10:25:52-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "slideshowType": "verticalslideshow",
+      "slideCount": 15,
+      "cardImages": [
+        {
+          "type": "image",
+          "uid": "00000173-2ee6-d7da-a7fb-6ef7f37b0000",
+          "title": "American men's clothier chain Brooks Brothers store and logo",
+          "caption": "SAN FRANCISCO, UNITED STATES - 2020/01/23: American men's clothier chain Brooks Brothers store and logo seen at one of their stores. (Photo by Alex Tai/SOPA Images/LightRocket via Getty Images)",
+          "credit": "SOPA Images/SOPA Images/LightRocket via Gett",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/b7/ac/ce070068447bbbb0876a5278094f/gettyimages-1207206307.jpg",
+              "width": 5000,
+              "height": 3335
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/a0b7527/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/0d64131/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/af0d435/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F500%2Fgettyimages-1207206307.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/4324462/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/ae36117/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F500%2Fgettyimages-1207206307.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/e4e0b97/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/eb2a280/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/6a4f24b/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F500%2Fgettyimages-1207206307.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/18f8c7f/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fac%2Fce070068447bbbb0876a5278094f%2Fresizes%2F1500%2Fgettyimages-1207206307.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000172-f22f-d9e4-abf7-f66fae4b0000",
+          "title": "HM store Athens",
+          "caption": "Athens, Greece - May 2, 2015: Famous Ermou street shopping district with H&M store and people walking around in Athens, Greece",
+          "credit": "ttatty/Getty Images",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/71/3b/8dca2e54447282318beb8ee26641/istock-542794944.jpg",
+              "width": 3000,
+              "height": 2000
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/a8768b8/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F1500%2Fistock-542794944.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1bc992f/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F1500%2Fistock-542794944.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1037419/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F500%2Fistock-542794944.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1655fd5/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F1500%2Fistock-542794944.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/c97732e/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F500%2Fistock-542794944.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/beaa6e2/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F1500%2Fistock-542794944.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/c710a2c/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F1500%2Fistock-542794944.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/44e2269/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F500%2Fistock-542794944.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/8dc50f0/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F71%2F3b%2F8dca2e54447282318beb8ee26641%2Fresizes%2F1500%2Fistock-542794944.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000172-f22f-d9e4-abf7-f66fae530000",
+          "title": "The Microsoft Store New York City",
+          "caption": "New York, New York, USA - January 27, 2016: People walk by the Microsoft Store on Fifth Avenue in Midtown Manhattan.",
+          "credit": "wdstock/Getty Images",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/86/2a/61c091fd4ce6bb108371345dfab2/istock-1226241784.jpg",
+              "width": 2202,
+              "height": 1362
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/3f11a55/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F1500%2Fistock-1226241784.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/7ea2237/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F1500%2Fistock-1226241784.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/ee8633a/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F500%2Fistock-1226241784.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/136596b/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F1500%2Fistock-1226241784.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/11c1a37/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F500%2Fistock-1226241784.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/8223711/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F1500%2Fistock-1226241784.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/c84d30e/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F1500%2Fistock-1226241784.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/bf6e828/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F500%2Fistock-1226241784.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/b671bb0/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F86%2F2a%2F61c091fd4ce6bb108371345dfab2%2Fresizes%2F1500%2Fistock-1226241784.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/Xs1f102hIeT",
+            "isFeedDialog": false,
+            "title": "Minoristas en crisis: estas tiendas están desapareciendo en la era coronavirus (fotos)",
+            "description": "Varias cadenas de tiendas minoristas ya estaban luchando por mantenerse con vida desde antes de que comenzara la pandemia. Tras el cierre forzoso por el coronavirus los planes de recuperación de estas empresas se ha complicado. Algunas han anunciado más cierres y otras han decidido adaptarse a la nueva exigencia del mercado: la venta en línea. Siga aquí nuestra cobertura del coronavirus",
+            "imageUrl": "https://st1.uvnimg.com/b7/ac/ce070068447bbbb0876a5278094f/gettyimages-1207206307.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/Xs1f102hIeT",
+            "title": "Minoristas en crisis: estas tiendas están desapareciendo en la era coronavirus (fotos)",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/Xs1f102hIeT",
+            "message": "Minoristas en crisis: estas tiendas están desapareciendo en la era coronavirus (fotos)"
+          },
+          "mail": {
+            "subject": "Minoristas en crisis: estas tiendas están desapareciendo en la era coronavirus (fotos)",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMinoristas en crisis: estas tiendas están desapareciendo en la era coronavirus (fotos)\n\nEncuéntralo en este enlace:http://uni.vi/Xs1f102hIeT\n\nVisítanos https://www.univision.com"
+          }
+        }
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000173-2be4-df1d-a3ff-fbe773650002",
+      "uri": "https://performance.univision.com/noticias/salud/la-pandemia-de-coronavirus-golpea-la-de-vih-sida-y-la-oms-suena-la-alarma",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "La pandemia de coronavirus golpea la de VIH/sida y la OMS suena la alarma",
+      "description": "73 países están en riesgo de quedarse sin antirretrovirales y, de prolongarse las interrupciones en el acceso al tratamiento, podría haber 500,000 muertes adicionales por VIH/sida, alerta la Organización Mundial de la Salud. <br/>",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2bef-df1d-a3ff-fbefda920000",
+        "title": "aids",
+        "caption": "Si las interrupciones en el acceso a antirretrovirales se extienden por seis meses, las muertes en África Subsahariana, región que concentra casi las tres cuartas partes de casos de VIH en el mundo- se duplicarían en 2020. \n<br>",
+        "credit": "Brent Stirton/Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/a9/46/64c3cc9c4e239a585bf554a38509/gettyimages-73166441.jpg",
+            "width": 594,
+            "height": 396,
+            "focusPoint": {
+              "x": 0.14239623459609688,
+              "y": 0.6494090826968184
+            }
+          },
+          "article-lead-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/f5866a7/2147483647/crop/500x188%2B0%2B122/resize/414x156%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa9%2F46%2F64c3cc9c4e239a585bf554a38509%2Fresizes%2F500%2Fgettyimages-73166441.jpg",
+            "width": 414,
+            "height": 156
+          },
+          "16x9-med": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/7c2004b/2147483647/crop/500x281%2B0%2B51/resize/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa9%2F46%2F64c3cc9c4e239a585bf554a38509%2Fresizes%2F500%2Fgettyimages-73166441.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "article-lead-md": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/7205470/2147483647/crop/594x223%2B0%2B145/resize/1024x384%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa9%2F46%2F64c3cc9c4e239a585bf554a38509%2Fgettyimages-73166441.jpg",
+            "width": 1024,
+            "height": 384
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/890b8dd/2147483647/crop/500x281%2B0%2B51/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa9%2F46%2F64c3cc9c4e239a585bf554a38509%2Fresizes%2F500%2Fgettyimages-73166441.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/9ebdad4/2147483647/crop/500x280%2B0%2B52/resize/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa9%2F46%2F64c3cc9c4e239a585bf554a38509%2Fresizes%2F500%2Fgettyimages-73166441.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/9182ab6/2147483647/crop/594x334%2B0%2B61/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa9%2F46%2F64c3cc9c4e239a585bf554a38509%2Fgettyimages-73166441.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "article-lead-xl": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/731a70e/2147483647/crop/594x223%2B0%2B145/resize/1440x540%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa9%2F46%2F64c3cc9c4e239a585bf554a38509%2Fgettyimages-73166441.jpg",
+            "width": 1440,
+            "height": 540
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T09:53:21-04:00",
+      "publishDate": "2020-07-08T09:53:21-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "readTime": null,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>A la sombra de la pandemia del nuevo <a href=\"https://www.univision.com/temas/coronavirus\">coronavirus</a>, otra de larga data corre el riesgo de agravarse: la del <a href=\"http://www.univision.com/noticias/vih-y-sida/lo-que-debes-saber-del-vih-el-virus-que-causa-el-sida-video\">VIH/sida</a>. <b>73 países están en riesgo de quedarse sin antirretrovirales</b> y, de continuar las interrupciones en el acceso al tratamiento, <b>podría haber al menos 500,000 muertes adicionales</b> por esa causa, advierte la Organización Mundial de la Salud a partir de conclusiones de una encuesta divulgada en la antesala de la <a href=\"https://www.aids2020.org/\">Conferencia Internacional de la Sociedad de SIDA</a>.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/FOhn102ilyU",
+            "isFeedDialog": false,
+            "title": "La pandemia de coronavirus golpea la de VIH/sida y la OMS suena la alarma",
+            "description": "73 países están en riesgo de quedarse sin antirretrovirales y, de prolongarse las interrupciones en el acceso al tratamiento, podría haber 500,000 muertes adicionales por VIH/sida, alerta la Organización Mundial de la Salud.",
+            "imageUrl": "https://st1.uvnimg.com/a9/46/64c3cc9c4e239a585bf554a38509/gettyimages-73166441.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/FOhn102ilyU",
+            "title": "La pandemia de coronavirus golpea la de VIH/sida y la OMS suena la alarma",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/FOhn102ilyU",
+            "message": "La pandemia de coronavirus golpea la de VIH/sida y la OMS suena la alarma"
+          },
+          "mail": {
+            "subject": "La pandemia de coronavirus golpea la de VIH/sida y la OMS suena la alarma",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa pandemia de coronavirus golpea la de VIH/sida y la OMS suena la alarma\n\nEncuéntralo en este enlace:http://uni.vi/FOhn102ilyU\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false
+    },
+    {
+      "type": "article",
+      "uid": "00000173-2b79-d59c-adff-3f79d1da0002",
+      "uri": "https://performance.univision.com/noticias/salud/un-tratamiento-experimental-habria-eliminado-el-vih-en-un-paciente",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "Un tratamiento experimental habría eliminado el VIH en un paciente ",
+      "description": "Hace un año que el hombre no presenta muestras del virus en su organismo. A pesar de que reconocen lo importante que puede ser esta noticia, doctores y científicos piden mesura sobre haber encontrado una cura hasta hacer más estudios.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2ba1-de27-a5f3-bfa937950000",
+        "title": "BRASIL-VIH-REMISION",
+        "caption": "Esta captura de pantalla muestra las manos del paciente brasileño que estaba infectado con el virus del SIDA y no ha mostrado ningún indicio del mismo por más de un año.",
+        "credit": "Federica Narancio/AP",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/2e/20/332ba3e84506bf50d832e981f6ed/ap20189478032440.jpg",
+            "width": 1920,
+            "height": 1080
+          },
+          "article-lead-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/6187a31/2147483647/thumbnail/414x156%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F20%2F332ba3e84506bf50d832e981f6ed%2Fresizes%2F500%2Fap20189478032440.jpg",
+            "width": 414,
+            "height": 156
+          },
+          "16x9-med": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/cb9a069/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F20%2F332ba3e84506bf50d832e981f6ed%2Fresizes%2F500%2Fap20189478032440.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "article-lead-md": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/44f9a2a/2147483647/thumbnail/1024x384%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F20%2F332ba3e84506bf50d832e981f6ed%2Fresizes%2F1500%2Fap20189478032440.jpg",
+            "width": 1024,
+            "height": 384
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/9a1a620/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F20%2F332ba3e84506bf50d832e981f6ed%2Fresizes%2F500%2Fap20189478032440.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/458a524/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F20%2F332ba3e84506bf50d832e981f6ed%2Fresizes%2F500%2Fap20189478032440.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/0524723/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F20%2F332ba3e84506bf50d832e981f6ed%2Fresizes%2F1500%2Fap20189478032440.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "article-lead-xl": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/b4de3e1/2147483647/thumbnail/1440x540%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F20%2F332ba3e84506bf50d832e981f6ed%2Fresizes%2F1500%2Fap20189478032440.jpg",
+            "width": 1440,
+            "height": 540
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T03:40:56-04:00",
+      "publishDate": "2020-07-07T20:16:42-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "readTime": null,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Un hombre brasileño con SIDA no ha mostrado indicio alguno del virus que causa la enfermedad durante más de un año desde que dejó de tomar medicinas para el <a href=\"https://www.univision.com/temas/vih-y-sida\">VIH</a>, <b> luego de recibir una intensa terapia experimental dirigida a eliminar el virus oculto en su cuerpo</b>, reportaron los médicos el martes.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/Tm3d102iiMt",
+            "isFeedDialog": false,
+            "title": "Un tratamiento experimental habría eliminado el VIH en un paciente ",
+            "description": "Hace un año que el hombre no presenta muestras del virus en su organismo. A pesar de que reconocen lo importante que puede ser esta noticia, doctores y científicos piden mesura sobre haber encontrado una cura hasta hacer más estudios.",
+            "imageUrl": "https://st1.uvnimg.com/2e/20/332ba3e84506bf50d832e981f6ed/ap20189478032440.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/Tm3d102iiMt",
+            "title": "Un tratamiento experimental habría eliminado el VIH en un paciente ",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/Tm3d102iiMt",
+            "message": "Un tratamiento experimental habría eliminado el VIH en un paciente "
+          },
+          "mail": {
+            "subject": "Un tratamiento experimental habría eliminado el VIH en un paciente ",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nUn tratamiento experimental habría eliminado el VIH en un paciente \n\nEncuéntralo en este enlace:http://uni.vi/Tm3d102iiMt\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false
+    },
+    {
+      "type": "article",
+      "uid": "00000173-2b0e-d813-abf7-2b3e1fd20002",
+      "uri": "https://performance.univision.com/noticias/salud/chica-de-florida-de-alto-riesgo-que-murio-de-covid-19-acudio-a-una-fiesta-de-liberacion-en-una-iglesia",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "Una adolescente de alto riesgo que murió de covid-19 había acudido a una celebración masiva en una iglesia",
+      "description": "El caso de Carsyn Leigh Davis provocó críticas de varios profesionales médicos. Censuran las acciones tomadas por la familia de la adolescente en las semanas previas a su muerte. Le recetaron azitromicina e hidroxicloroquina, un medicamento contra la malaria promocionado por el presidente Donald Trump.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2b44-d813-abf7-2b7610120000",
+        "title": "CORONAVIRUS-EEUU",
+        "caption": "Trabajadores de la salud se ayudan mutuamente a colocarse equipo protector en un sitio de testeo del coronavirus en Miami Gardens, Florida, 5 de julio de 2020. El equipo protector para los trabajadores que atienden a enfermos de COVID-19 vuelve a escasear. (AP Foto/Wilfredo Lee, File)",
+        "credit": "Wilfredo Lee/AP",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/59/4a/5032c98b4689aca22936cc07989d/ap20189621017989.jpg",
+            "width": 3773,
+            "height": 2702
+          },
+          "article-lead-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/bf77903/2147483647/thumbnail/414x156%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F4a%2F5032c98b4689aca22936cc07989d%2Fresizes%2F500%2Fap20189621017989.jpg",
+            "width": 414,
+            "height": 156
+          },
+          "16x9-med": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/ffbd513/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F4a%2F5032c98b4689aca22936cc07989d%2Fresizes%2F500%2Fap20189621017989.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "article-lead-md": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/e09ba7c/2147483647/thumbnail/1024x384%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F4a%2F5032c98b4689aca22936cc07989d%2Fresizes%2F1500%2Fap20189621017989.jpg",
+            "width": 1024,
+            "height": 384
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/6c688dc/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F4a%2F5032c98b4689aca22936cc07989d%2Fresizes%2F500%2Fap20189621017989.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/6fc9bf0/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F4a%2F5032c98b4689aca22936cc07989d%2Fresizes%2F500%2Fap20189621017989.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/db575ae/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F4a%2F5032c98b4689aca22936cc07989d%2Fresizes%2F1500%2Fap20189621017989.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "article-lead-xl": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/cd5f8bf/2147483647/thumbnail/1440x540%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F4a%2F5032c98b4689aca22936cc07989d%2Fresizes%2F1500%2Fap20189621017989.jpg",
+            "width": 1440,
+            "height": 540
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T02:45:38-04:00",
+      "publishDate": "2020-07-07T19:33:06-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "readTime": null,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p><b>Carsyn Leigh Davis tenía apenas 17 años cuando murió el 23 de junio</b>. Ella había acudido a una “fiesta de liberación” organizada por <a href=\"https://nam04.safelinks.protection.outlook.com/?url=http%3A%2F%2Ffirstyouthchurch.org%2F&amp;data=02%7C01%7Cjmaciasnoriega%40univision.net%7C0446245ae47b46b02c5c08d822b7f1b3%7C91ff98f7aa664cf39617b5c4f409c51d%7C0%7C0%7C637297521188958352&amp;sdata=Z5IsecM2BaJA%2FrxAYwlpsNhf0%2FJYGU9u393g9ktb9fI%3D&amp;reserved=0\">First Youth Church</a> en Florida y <b> falleció por complicaciones de salud a causa del coronaviru</b>s.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/UAB6102iiJE",
+            "isFeedDialog": false,
+            "title": "Una adolescente de alto riesgo que murió de covid-19 había acudido a una celebración masiva en una iglesia",
+            "description": "El caso de Carsyn Leigh Davis provocó críticas de varios profesionales médicos. Censuran las acciones tomadas por la familia de la adolescente en las semanas previas a su muerte. Le recetaron azitromicina e hidroxicloroquina, un medicamento contra la malaria promocionado por el presidente Donald Trump.",
+            "imageUrl": "https://st1.uvnimg.com/59/4a/5032c98b4689aca22936cc07989d/ap20189621017989.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/UAB6102iiJE",
+            "title": "Una adolescente de alto riesgo que murió de covid-19 había acudido a una celebración masiva en una iglesia",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/UAB6102iiJE",
+            "message": "Una adolescente de alto riesgo que murió de covid-19 había acudido a una celebración masiva en una iglesia"
+          },
+          "mail": {
+            "subject": "Una adolescente de alto riesgo que murió de covid-19 había acudido a una celebración masiva en una iglesia",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nUna adolescente de alto riesgo que murió de covid-19 había acudido a una celebración masiva en una iglesia\n\nEncuéntralo en este enlace:http://uni.vi/UAB6102iiJE\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false
+    },
+    {
+      "type": "slideshow",
+      "uid": "00000173-297f-d518-a7fb-bfff5ff10001",
+      "uri": "https://performance.univision.com/noticias/salud/hasta-las-rodillas-por-la-pandemia-autoridades-locales-ponen-pausa-a-las-reaperturas-ante-el-aumento-de-casos-fotos",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+        "uri": "https://performance.univision.com/noticias/salud",
+        "name": "salud",
+        "title": "Salud"
+      },
+      "title": "\"Hasta las rodillas\" por la pandemia: autoridades locales ponen pausa a las reaperturas ante el aumento de casos",
+      "description": "Arizona, California, Florida y Texas reportaron en total 25,000 casos nuevos de covid-19 el pasado fin de semana, mientras que 40 de los 50 estados registraron un aumento en la cantidad de diagnósticos positivos diarios. Autoridades locales y regionales dan marcha atrás a la relajación de las medidas de confinamiento mientras las cifras de los CDC muestran cómo los hispanos tienen <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/racial-ethnic-minorities.html\" style=\"text-decoration:none;\"><b>cuatro veces</b></a> más probabilidades de ser hospitalizados por covid-19 que las personas blancas.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2ac3-d54d-a573-6be3bd040000",
+        "title": "TOPSHOT-US-HEALTH-VIRUS-HOSPITAL-PANDEMIC-COMMUNITIES",
+        "caption": "TOPSHOT - A healthcare worker tends to a patient in the Covid-19 Unit at United Memorial Medical Center in Houston, Texas on July 2, 2020. - Despite its renowned medical center with the largest agglomeration of hospitals and research laboratories in the world, Houston is on the verge of being overwhelmed by cases of coronavirus exploding in Texas. (Photo by MARK FELIX / AFP) / RESTRICTED TO EDITORIAL USE TO GO WITH AFP STORY by Julia Benarrous: \"Covid-19: Houston's hospital system underwater\" (Photo by MARK FELIX/AFP via Getty Images)",
+        "credit": "MARK FELIX/AFP via Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/37/85/e0f27e8547ee9c565dc297ff2f8a/gettyimages-1224566838.jpg",
+            "width": 7062,
+            "height": 4713
+          },
+          "slideshow-mobile-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/b6a4c0c/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F1500%2Fgettyimages-1224566838.jpg",
+            "width": 414,
+            "height": 550
+          },
+          "slideshow-4x3-vertical": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/97a0c37/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F1500%2Fgettyimages-1224566838.jpg",
+            "width": 1093,
+            "height": 820
+          },
+          "horizontal-slideshow-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/4ae898d/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F500%2Fgettyimages-1224566838.jpg",
+            "width": 150,
+            "height": 50
+          },
+          "16x9": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/d5256b9/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F1500%2Fgettyimages-1224566838.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/52df97c/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F500%2Fgettyimages-1224566838.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/39e1aaa/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F1500%2Fgettyimages-1224566838.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "slideshow-horizontal": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/81adbd9/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F1500%2Fgettyimages-1224566838.jpg",
+            "width": 935,
+            "height": 645
+          },
+          "16x9-loading": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/969019b/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F500%2Fgettyimages-1224566838.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "slideshow-4x3-vertical-mobile": {
+            "href": "https://cdn1.performance.univision.com/dims4/default/6272556/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2Fe0f27e8547ee9c565dc297ff2f8a%2Fresizes%2F1500%2Fgettyimages-1224566838.jpg",
+            "width": 420,
+            "height": 620
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-07T16:41:07-04:00",
+      "publishDate": "2020-07-07T16:35:36-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+          "uri": "https://performance.univision.com/noticias/salud",
+          "name": "salud",
+          "title": "Salud"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "slideshowType": "verticalslideshow",
+      "slideCount": 12,
+      "cardImages": [
+        {
+          "type": "image",
+          "uid": "00000173-2a0a-d54d-a573-6baa1b510000",
+          "title": "Florida Coronavirus Cases Continues To Spike Upward",
+          "caption": "MIAMI GARDENS, FLORIDA - JULY 06: Cars are seen as the drivers wait to be tested for COVID-19 at the COVID test site located in the Hard Rock Stadium parking lot on July 06, 2020 in Miami Gardens, Florida. Florida is experiencing a spike in cases of people with the coronavirus and has put plans in place to close some businesses to combat the rise. (Photo by Joe Raedle/Getty Images)",
+          "credit": "Joe Raedle/Getty Images",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/7e/39/368a1d104aca9bc9afd980e25315/gettyimages-1254636134.jpg",
+              "width": 3000,
+              "height": 1968
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/c9b6892/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F1500%2Fgettyimages-1254636134.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/ecbd33e/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F1500%2Fgettyimages-1254636134.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/db3878e/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F500%2Fgettyimages-1254636134.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/9d2a5f3/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F1500%2Fgettyimages-1254636134.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/9dd92a0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F500%2Fgettyimages-1254636134.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/2b8f014/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F1500%2Fgettyimages-1254636134.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/dadbb3e/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F1500%2Fgettyimages-1254636134.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/aabd5a6/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F500%2Fgettyimages-1254636134.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/fa2ee5a/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2F39%2F368a1d104aca9bc9afd980e25315%2Fresizes%2F1500%2Fgettyimages-1254636134.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000173-2a0a-d54d-a573-6baa1b590000",
+          "title": "US-HEALTH-VIRUS-EPIDEMIC-LEISURE",
+          "caption": "A group of women dance as they celebrate bachelorette party on Ocean Drive in Miami Beach, Florida on June 26, 2020. - They are itching for a good time after months of lockdown, and may the coronavirus be damned: young adults in Florida are fueling a dangerous rise in COVID-19 infections. Feeling immortal, these fun-crazed people are finding ways to gather and party even though many bars and nightclubs remain closed as the Sunshine State reopened its economy this month. (Photo by CHANDAN KHANNA / AFP) (Photo by CHANDAN KHANNA/AFP via Getty Images)",
+          "credit": "CHANDAN KHANNA/AFP via Getty Images",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/d3/6c/abea673a4e05ab929123c1a54f0e/gettyimages-1223045713.jpg",
+              "width": 3900,
+              "height": 2600
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/d54362b/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F1500%2Fgettyimages-1223045713.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/fdf000f/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F1500%2Fgettyimages-1223045713.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/d5e6861/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F500%2Fgettyimages-1223045713.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/74e7d23/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F1500%2Fgettyimages-1223045713.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/2b244f9/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F500%2Fgettyimages-1223045713.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/49a8940/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F1500%2Fgettyimages-1223045713.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1c50f88/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F1500%2Fgettyimages-1223045713.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/7e2f2f4/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F500%2Fgettyimages-1223045713.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/4aed08f/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F6c%2Fabea673a4e05ab929123c1a54f0e%2Fresizes%2F1500%2Fgettyimages-1223045713.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000173-2a0a-d54d-a573-6baa1b600000",
+          "title": "US-HEALTH-VIRUS-SURGE TEAM",
+          "caption": "Catherimarty Burgos, a member of Miami-Dade County \"surge teams\" distributes bags with masks, sanitizers, and gloves to educate people on how to stay safe from COVID-19, in a neighbourhood of Miami, Florida on June 30, 2020. - House to house, a group of Florida's workers hand out masks and sanitizers in Miami, trying to convince neighbors to use them in an ant effort to combat the surge in coronavirus cases. (Photo by CHANDAN KHANNA / AFP) (Photo by CHANDAN KHANNA/AFP via Getty Images)",
+          "credit": "CHANDAN KHANNA/AFP via Getty Images",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/06/43/678d587a411ab4b7c5d7745ce106/gettyimages-1223645556.jpg",
+              "width": 3900,
+              "height": 2600
+            },
+            "slideshow-mobile-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/a0fbfc5/2147483647/resize/414x550%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F1500%2Fgettyimages-1223645556.jpg",
+              "width": 414,
+              "height": 550
+            },
+            "slideshow-4x3-vertical": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/267fd5c/2147483647/resize/1093x820%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F1500%2Fgettyimages-1223645556.jpg",
+              "width": 1093,
+              "height": 820
+            },
+            "horizontal-slideshow-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/02b6d1e/2147483647/resize/150x50%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F500%2Fgettyimages-1223645556.jpg",
+              "width": 150,
+              "height": 50
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/ca8a772/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F1500%2Fgettyimages-1223645556.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/7790816/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F500%2Fgettyimages-1223645556.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/1cc5307/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F1500%2Fgettyimages-1223645556.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "slideshow-horizontal": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/8645b92/2147483647/resize/935x645%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F1500%2Fgettyimages-1223645556.jpg",
+              "width": 935,
+              "height": 645
+            },
+            "16x9-loading": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/e1bd2ff/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F500%2Fgettyimages-1223645556.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "slideshow-4x3-vertical-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/376df63/2147483647/resize/420x620%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F06%2F43%2F678d587a411ab4b7c5d7745ce106%2Fresizes%2F1500%2Fgettyimages-1223645556.jpg",
+              "width": 420,
+              "height": 620
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/xQUv102ii9A",
+            "isFeedDialog": false,
+            "title": "\"Hasta las rodillas\" por la pandemia: autoridades locales ponen pausa a las reaperturas ante el aumento de casos",
+            "description": "Arizona, California, Florida y Texas reportaron en total 25,000 casos nuevos de covid-19 el pasado fin de semana, mientras que 40 de los 50 estados registraron un aumento en la cantidad de diagnósticos positivos diarios. Autoridades locales y regionales dan marcha atrás a la relajación de las medidas de confinamiento mientras las cifras de los CDC muestran cómo los hispanos tienen cuatro veces más probabilidades de ser hospitalizados por covid-19 que las personas blancas.",
+            "imageUrl": "https://st1.uvnimg.com/37/85/e0f27e8547ee9c565dc297ff2f8a/gettyimages-1224566838.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/xQUv102ii9A",
+            "title": "\"Hasta las rodillas\" por la pandemia: autoridades locales ponen pausa a las reaperturas ante el aumento de casos",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/xQUv102ii9A",
+            "message": "\"Hasta las rodillas\" por la pandemia: autoridades locales ponen pausa a las reaperturas ante el aumento de casos"
+          },
+          "mail": {
+            "subject": "\"Hasta las rodillas\" por la pandemia: autoridades locales ponen pausa a las reaperturas ante el aumento de casos",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"Hasta las rodillas\" por la pandemia: autoridades locales ponen pausa a las reaperturas ante el aumento de casos\n\nEncuéntralo en este enlace:http://uni.vi/xQUv102ii9A\n\nVisítanos https://www.univision.com"
+          }
+        }
+      }
+    }
+  ]
+}

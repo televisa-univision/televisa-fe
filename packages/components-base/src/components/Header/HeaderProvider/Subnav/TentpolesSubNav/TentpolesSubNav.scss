@@ -1,0 +1,19 @@
+.tentpoleContentPage {
+  align-items: center;
+  background-position: right 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  height: 57px;
+  justify-content: center;
+}
+
+.imageWrapper {
+  display: flex;
+  justify-content: center;
+  img {
+    width: 100%;
+    height: 100%;
+    max-height: 32px;
+  }
+}

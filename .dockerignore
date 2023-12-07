@@ -1,0 +1,27 @@
+# Ignore everything by default
+*
+
+# Don't ignore package.json files, babel config, node modules, and dist folders
+!/packages/commons/dist/*
+!/packages/components-base/dist/*
+!/packages/core/*
+!/packages/deportes/dist/*
+!/packages/graphql-services/dist/*
+!/packages/icons/dist/*
+!/packages/local/dist/*
+!/packages/prendetv/dist/*
+!/packages/utilities/esm/*
+!/packages/utilities/cjs/*
+!/packages/utilities/dist/*
+!/packages/video/dist/*
+!**/package.json
+!/browserslist-stats.json
+!/babel.config.js
+!**/babel.config.js
+!/node_modules/*
+!**/node_modules/*
+
+
+# Ignore tools and end-to-end packages
+/packages/tools/*
+/packages/end-to-end/*

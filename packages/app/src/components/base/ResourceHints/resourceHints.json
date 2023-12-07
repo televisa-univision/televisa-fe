@@ -1,0 +1,330 @@
+[
+  {
+    "href": "https://www.googletagservices.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://securepubads.g.doubleclick.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn1.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn2.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn3.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn4.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn5.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn6.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn7.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://st1.uvnimg.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://tags.bluekai.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://tags.tiqcdn.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "//c.amazon-adsystem.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://beacon.krxd.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://0914.global.ssl.fastly.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://www.lightboxcdn.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://webapp.univision.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://b.scorecardresearch.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://ping.chartbeat.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn.krxd.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://api.vmh.univision.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://usprauth.univision.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://usaplusauth.univision.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://pubads.g.doubleclick.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://stats.g.doubleclick.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://ads.rubiconproject.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://prebid-server.rubiconproject.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://prebid-a.rubiconproject.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://ib.adnxs.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "//entitlements.jwplayer.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://cdn.jwplayer.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://content.jwplatform.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://syndicator.univision.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://static.chartbeat.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://js.adsrvr.org",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://insight.adsrvr.org",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://www.googletagmanager.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://g-univision.akamaized.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://jwpltx.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "//ssl.p.jwpcdn.com",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://tkx.apis.anvato.net",
+    "rel": "dns-prefetch"
+  },
+  {
+    "href": "https://www.googletagservices.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://securepubads.g.doubleclick.net",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn1.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn2.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn3.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn4.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn5.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn6.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn7.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://st1.uvnimg.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://tags.bluekai.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://tags.tiqcdn.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://ads.yahoo.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "//c.amazon-adsystem.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://beacon.krxd.net",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://www.lightboxcdn.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://webapp.univision.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://b.scorecardresearch.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://ping.chartbeat.net",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn.krxd.net",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://api.vmh.univision.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://usprauth.univision.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://usaplusauth.univision.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://pubads.g.doubleclick.net",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://stats.g.doubleclick.net",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://ads.rubiconproject.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://prebid-server.rubiconproject.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://prebid-a.rubiconproject.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://ib.adnxs.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "//entitlements.jwplayer.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://cdn.jwplayer.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://content.jwplatform.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://syndicator.univision.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://static.chartbeat.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://js.adsrvr.org",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://insight.adsrvr.org",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://www.googletagmanager.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://g-univision.akamaized.net",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://jwpltx.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "//ssl.p.jwpcdn.com",
+    "rel": "preconnect"
+  },
+  {
+    "href": "https://tkx.apis.anvato.net",
+    "rel": "preconnect"
+  }
+]

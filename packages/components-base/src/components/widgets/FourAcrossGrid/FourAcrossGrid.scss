@@ -1,0 +1,52 @@
+$card-margin-bottom: 16px;
+
+@include media-breakpoint-down('sm') {
+    /**
+    * Since cards are stacked on mobile, apply a bottom margin for all except
+    * for the very last item to avoid double margins at bottom of widget
+    */
+    .card:not(:nth-last-child(-n+1)) {
+        margin-bottom: $card-margin-bottom;
+    }
+}
+
+.left {
+    justify-content: flex-start;
+}
+
+.center {
+    justify-content: center;
+}
+
+.dark {
+    background-color: $black;
+}  
+
+.right {
+    justify-content: flex-end;
+}
+
+.multi-row {
+    /**
+    * Subtracts the default widget bottom margin with the card margin bottom
+    * to eliminate extra spacing from cards in a multo-row with a bottom margin applied.
+    */
+    margin-bottom: $widgets-margin-bottom-mobile - $card-margin-bottom;
+    @include media-breakpoint-up('md') {
+        margin-bottom: $widgets-margin-bottom-desktop - $card-margin-bottom;
+    }
+    .card {
+        margin-bottom: 16px;
+    }
+}
+
+.topicBarDark {
+  color: $white;
+}
+
+.longformViewMore {
+    margin-top: 16px;
+    @include media-breakpoint-up('md') {
+        margin-top: 40px;
+    }
+}

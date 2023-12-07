@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  padding: 14px 0 0 0;
+}
+
+.info {
+  padding-bottom: 16px;
+}
+
+.noInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  text-transform: uppercase;
+  font-size: rem(14px);
+}

@@ -1,0 +1,9 @@
+.specialAds {
+  /* Creating space for the interstitial to fire */
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: $zindex-above-navigation + 100;
+}

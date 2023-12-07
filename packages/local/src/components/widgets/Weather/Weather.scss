@@ -1,0 +1,160 @@
+.container {
+  border: none;
+  @include media-breakpoint-up('md') {
+    border: solid thin $grey;
+  }
+
+  // Hides mobile topic bar on desktop
+  & > .topicBarCont {
+    @include media-breakpoint-up('md') {
+      display: none;
+    }
+  }
+
+  &.layerNavContainer {
+    border: none;
+    & > .topicBarCont {
+      display: flex;
+    }
+  }
+}
+
+.weatherCont {
+  border: $grey solid 1px;
+  margin: 0;
+  @include media-breakpoint-up('md') {
+    border: none;
+  }
+}
+
+.weatherOptionsCont {
+  & > .topicBarCont {
+    display: none;
+    @include media-breakpoint-up('md') {
+      display: flex;
+    }
+  }
+}
+
+.topicBar {
+  // Fixes topicbar overlap issue on tablet w/ skin applied
+  @media (min-width: 1024px) and (max-width: 1200px) {
+    & > div {
+      font-size: rem(18px);
+      line-height: rem(20px);
+    }
+  }
+}
+
+.weatherOptionsCont,
+.weatherGraphicCont {
+  padding: 0;
+}
+
+.weatherOptionsCont {
+  order: 2;
+  @include media-breakpoint-up('md') {
+    order: 1;
+    padding: 18px;
+  }
+  @include media-breakpoint-up('lg') {
+    order: 1;
+    padding: 24px;
+  }
+}
+
+.weatherGraphicCont {
+  order: 1;
+  @include media-breakpoint-up('md') {
+    order: 2;
+  }
+}
+
+.optionCont {
+  border-right: $grey solid 1px;
+  border-top: $grey solid 1px;
+  &:nth-child(3n) {
+    border-right: none;
+  }
+  @include media-breakpoint-up('md') {
+    border-bottom: $grey solid 1px;
+    border-right: none;
+    border-top: none;
+    &:nth-child(odd) {
+      border-right: $grey solid 1px;
+    }
+    &:nth-last-child(-n + 2) {
+      // last two children
+      border-bottom: 0;
+    }
+    &.singleCol {
+      border-bottom: $grey solid 1px;
+      border-right: none;
+    }
+  }
+}
+
+.singleCol {
+  svg {
+    display: none;
+  }
+}
+
+.option {
+  background-color: transparent;
+  border-color: $grey;
+  color: $grey-black;
+  font-size: rem(13px);
+  line-height: rem(16px);
+  margin: 0;
+  min-height: 110px;
+  padding: 8px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+  svg {
+    fill: $grey-black;
+    margin: -2px 0 0 10px;
+  }
+  &:hover {
+    color: $blue;
+    svg {
+      fill: $blue;
+    }
+  }
+  &.active {
+    border-bottom: $blue solid 3px;
+    color: $blue;
+    svg {
+      fill: $blue;
+      @include media-breakpoint-up('md') {
+        display: inline;
+      }
+    }
+  }
+}
+
+.icon {
+  display: block;
+  font-size: xx-small;
+  text-align: center;
+}
+
+.graphic {
+  height: auto;
+  width: 100%;
+}
+
+.sponsor {
+  border-top: solid thin $grey;
+  font-size: rem(10px);
+  line-height: rem(13px);
+  padding: 8px 0;
+  text-align: center;
+  @include media-breakpoint-up('md') {
+    bottom: 0;
+    left: 0;
+    padding: 16px 0;
+    position: absolute;
+  }
+}

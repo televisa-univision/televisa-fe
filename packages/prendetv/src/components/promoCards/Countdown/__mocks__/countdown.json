@@ -1,0 +1,83 @@
+{
+  "date": "2021-09-24T19:00:30-04:00",
+  "sponsor": {
+    "name": "sponsor example",
+    "leadText": "Lead Sponsor Text",
+    "link": "https://www.amazon.com",
+    "image": {
+      "type": "image",
+      "uid": "00000178-c7e5-d909-a3fb-e7f572320000",
+      "title": "FireTV_ENG.png",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot-lower.s3.amazonaws.com/58/3c/86cc04d3478f88ba4f1abd0c22d5/firetv-eng.png",
+          "width": 123,
+          "height": 44
+        }
+      }
+    }
+  },
+  "eventDateString": "Domingo - 10 PM / 9C / 5E",
+  "channels": [
+    {
+      "type": "image",
+      "uid": "0000017b-f57c-d0d2-a97f-fd7e06190000",
+      "title": "Screen Shot 2021-09-17 at 15.38.50.png",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot-lower.s3.amazonaws.com/f9/3e/1a9cff934878a16dbb501b6508c9/screen-shot-2021-09-17-at-15.38.50.png",
+          "width": 178,
+          "height": 224
+        }
+      }
+    }
+  ],
+  "background": {
+    "type": "image",
+    "uid": "0000017b-f571-d0d2-a97f-fd7fa8bf0000",
+    "title": "background",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot-lower.s3.amazonaws.com/a9/83/d4f748aa474d80c7d70e364c4d01/screen-shot-2021-09-17-at-15.28.02.png",
+        "width": 656,
+        "height": 320
+      }
+    }
+  },
+  "startLeadInText": "Faltan",
+  "externalWidgets": {
+    "calReply": {
+      "href": "//univision.calreply.net/minuto-45/embed/?utm_source=univision&utm_medium=header_notificame&utm_content=deportes&utm_campaign=minuto45",
+      "code": "!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src ='//d2wgn7zv2wvh1n.cloudfront.net/scripts/widget-loader.min.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script', 'calreply-wjs');"
+    }
+  },
+  "eventName": "Verano de campeones",
+  "logo": {
+    "type": "image",
+    "uid": "0000017b-f570-d0d2-a97f-fd7ed0780000",
+    "title": "logo",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot-lower.s3.amazonaws.com/94/7f/bb4b1043459cb94ec3e8b47468a4/downloadapp.svg",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "leadInText": "Texto Lead",
+  "timerOverLeadText": "Timer over lead text",
+  "timerOverEventLink": {
+    "href": "https://uat.prende.tv/prende-tv-blog-section/llega-prendetv-el-streaming-de-primera-que-te-mereces-prendetv",
+    "target": "_self",
+    "text": "Timer over event link text",
+    "uid": "0000017b-f56f-d0d2-a97f-fd7ff3970001"
+  }
+}

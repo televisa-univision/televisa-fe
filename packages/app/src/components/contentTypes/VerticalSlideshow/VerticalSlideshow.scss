@@ -1,0 +1,70 @@
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0 .625rem;
+  position: relative;
+
+  @include media-breakpoint-up('sm') {
+    padding-bottom: 1rem;
+  }
+}
+
+.primaryTag {
+  background: transparent;
+  padding: 0;
+  display: inline-block;
+  font-size: rem(13px);
+}
+
+.primaryTagTelevisa {
+  background: transparent;
+  padding: 0;
+  display: inline-block;
+  font-size: rem(10px);
+  line-height: rem(12px);
+  letter-spacing: rem(0.75px);
+  font-weight: 700;
+  font-family: 'Roboto Condensed', Roboto, sans-serif;
+}
+
+.endCard.endCard {
+  h3 {
+    @include media-breakpoint-up('md') {
+      text-align: left;
+    }
+  }
+}
+
+.relatedTags {
+  > div {
+    > div {
+      justify-content: center;
+    }
+  }
+}
+
+.headerActionBar {
+  margin-top: 16px;
+
+  @include media-breakpoint-up('sm') {
+    flex: 0.5;
+    margin-top: 0;
+  }
+}
+
+.headerActionBarMeta {
+  flex: auto;
+
+  @include media-breakpoint-up('sm') {
+    flex: 0.5;
+    margin-top: 0;
+  }
+}
+
+.stitchedActionBar {
+  @include media-breakpoint-up('md') {
+    flex: 0.5;
+    margin-bottom: 36px;
+  }
+}

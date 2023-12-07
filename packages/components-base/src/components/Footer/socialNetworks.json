@@ -1,0 +1,265 @@
+{
+  "univision": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/univision"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/univision"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/univision"
+    }
+  ],
+  "tudn": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/tudnusa"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/TUDNUSA"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/tudnusa"
+    }
+  ],
+  "tudnMX": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/televisacorporativo/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Televisa"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/televisa"
+    }
+  ],
+  "mulher": [  
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/MulherByUnivision"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/mulher.br/"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/c/MulherByUnivision"
+    },    
+    {
+      "name": "tiktok",
+      "url": "https://www.tiktok.com/@mulher.com.br"
+    },
+    {
+      "name": "pinterest",
+      "url": "https://br.pinterest.com/mulher_"
+    }
+  ],
+  "delicioso": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/Delicioso.BR.ByUnivision"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/delicioso.com.br/"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/deliciosobr"
+    },    
+    {
+      "name": "tiktok",
+      "url": "https://www.tiktok.com/@delicioso.com.br"
+    },
+    {
+      "name": "pinterest",
+      "url": "https://br.pinterest.com/deliciosoBr"
+    }
+  ],
+  "tasaudavel": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/TaSaudavelByUnivision"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/tasaudavel/"
+    },
+    {
+      "name": "pinterest",
+      "url": "https://br.pinterest.com/tasaudavel"
+    }
+  ],
+  "zappeando": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/ZappeandoByUnivision"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/zappeando.br"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/c/ZappeandoBr"
+    },    
+    {
+      "name": "tiktok",
+      "url": "https://www.tiktok.com/@zappeando_"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/zappeando_"
+    }
+  ],
+  "televisa": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/ZappeandoByUnivision"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/zappeando_"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/zappeando.br"
+    }
+  ],
+  "lasestrellas": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/ZappeandoByUnivision"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/zappeando_"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/zappeando.br"
+    }
+  ],
+  "unicable": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ],
+  "bandamax": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ],
+  "distritocomedia": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ],
+  "canal5": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ],
+  "canal9": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ],
+  "telehit": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ],
+  "bingers": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ],
+  "lcdlfm": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/CanalUnicable"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UnicableOficial"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/canalunicable"
+    }
+  ]
+}
+

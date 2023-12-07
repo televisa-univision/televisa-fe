@@ -1,0 +1,14 @@
+.VideoMeta__wrapper__dark{
+    position: fixed;
+    overflow:auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    margin:0 auto;
+    background: $black;
+    padding: 20px;
+    a:hover {
+        color: $grey
+    }
+}

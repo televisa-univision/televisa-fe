@@ -1,0 +1,50 @@
+.longformFullWidth{
+  background: $black;
+}
+
+.longformWrapper {
+  background: url($striped-white-background) top repeat-x;
+  position: relative;
+  padding-bottom: 24px;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  display: block;
+  padding-top: 16px;
+  &:before {
+    content: " ";
+    position: absolute;
+    display: block;
+    height: calc(100% - 16px);
+    width: 4px;
+    left: 0;
+    bottom: 0;
+    top: 16px;
+    background: linear-gradient(
+      127deg,
+      #02eac0 0,
+      #03b5d9 17%,
+      #0479e0 29%,
+      #0734fb 48%,
+      #6d04de 64%,
+      #ad03c7 75%,
+      #ca02a5 83%,
+      #de027b 99%
+    );
+    @include media-breakpoint-up("lg") {
+      width: 6px;
+    }
+  }
+  @include media-breakpoint-up("lg") {
+    padding-bottom: 40px;
+    margin-left: -49.6vw;
+    margin-right: -49.6vw;
+    width: 99.2vw;
+  }
+}
+
+.longformContainer {
+  padding-top: 16px;
+}

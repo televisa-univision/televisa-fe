@@ -1,0 +1,953 @@
+{
+  "Adhesion Unit": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "ADH"
+    }
+  },
+  "Top Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        },
+        {
+          "width": 970,
+          "height": 90
+        }
+      ],
+      "position": "TOP"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "TOP"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        },
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width": 300,
+          "height": 600
+        }
+      ],
+      "position": "TOP"
+    },
+    "biddable": true
+  },
+  "Top Ad Sections": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        },
+        {
+          "width": 970,
+          "height": 90
+        }
+      ],
+      "position": "TOP"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "TOP"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "TOP"
+    },
+    "biddable": true
+  },
+  "Top Ad No Flex": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "refreshable": true,
+      "position": "TOP"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "refreshable": true,
+      "position": "TOP"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "refreshable": true,
+      "position": "TOP"
+    },
+    "biddable": true
+  },
+  "Sticky Right Rail Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width": 300,
+          "height": 600
+        },
+        {
+          "width": 160,
+          "height": 600
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "MID"
+    },
+    "biddable": true
+  },
+  "Yieldmo Footer Ad": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 472
+        }
+      ],
+      "position": "BOT"
+    },
+    "disableRefresh": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "In Body Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID",
+      "offset": 250
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "cms.ab.fields": {},
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "MID",
+      "offset": 250
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "MID",
+      "offset": 200
+    },
+    "biddable": true
+  },
+  "In Body Top Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "disableRefresh": true,
+      "position": "TOP",
+      "offset": 250
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "cms.ab.fields": {},
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "TOP",
+      "offset": 250
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "TOP",
+      "offset": 200
+    },
+    "biddable": true
+  },
+  "Teads Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 3
+        }
+      ],
+      "disableRefresh": true,
+      "position": "inline_teads"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 3
+        }
+      ],
+      "disableRefresh": true,
+      "position": "inline_teads"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 3
+        }
+      ],
+      "disableRefresh": true,
+      "position": "inline_teads"
+    },
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Sponsor Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 8
+        }
+      ],
+      "disableRefresh": true,
+      "position": "LOGO"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 8
+        }
+      ],
+      "disableRefresh": true,
+      "position": "LOGO"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 8
+        }
+      ],
+      "disableRefresh": true,
+      "position": "LOGO"
+    },
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Right Rail Top Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "refreshable": true,
+      "position": "MID"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "refreshable": true,
+      "position": "MID"
+    },
+    "outOfPage": false,
+    "biddable": true
+  },
+  "Custom Offering Ad 1X1": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 1
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 1
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 1
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Custom Offering Ad 1X2": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 2
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 2
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 2
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Custom Offering Ad 1X5": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 5
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 5
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 5
+        }
+      ],
+      "disableRefresh": true,
+      "position": "CUSTOM"
+    },
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Skin Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 2
+        }
+      ],
+      "disableRefresh": true,
+      "position": null
+    },
+    "tabletSettings": null,
+    "mobileSettings": null,
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Interstitial Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 3,
+          "height": 4
+        }
+      ],
+      "disableRefresh": true,
+      "position": null
+    },
+    "tabletSettings": null,
+    "mobileSettings": null,
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Native Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 255,
+          "height": 281
+        }
+      ],
+      "position": null
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 255,
+          "height": 281
+        }
+      ],
+      "position": null
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 255,
+          "height": 281
+        }
+      ],
+      "position": null
+    },
+    "isSpecialAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "TripleLift Native Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 4
+        }
+      ],
+      "position": "NATIVE"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 4
+        }
+      ],
+      "position": "NATIVE"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 1,
+          "height": 4
+        }
+      ],
+      "position": "NATIVE"
+    },
+    "isSpecialAd": true,
+    "isNativeAd": true,
+    "biddable": false,
+    "sequenceable": false
+  },
+  "Middle Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        },
+        {
+          "width": 970,
+          "height": 250
+        }
+      ],
+      "position": "MID",
+      "offset": 450
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "MID",
+      "offset": 400
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "MID",
+      "offset": 400
+    },
+    "biddable": true
+  },
+  "Middle Ad No Flex": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "MID",
+      "offset": 450
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "MID",
+      "offset": 400
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "MID",
+      "offset": 100
+    },
+    "biddable": true
+  },
+  "Widget Ad" : {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width" : 300,
+          "height" : 600
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID",
+      "offset": 450
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID",
+      "offset": 400
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        },
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID",
+      "offset": 400
+    },
+    "biddable": true
+  },
+  "Widget Ad Refreshable" : {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width" : 300,
+          "height" : 600
+        }
+      ],
+      "refreshable": true,
+      "position": "MID",
+      "offset": 450
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "refreshable": true,
+      "position": "MID",
+      "offset": 400
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        },
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "refreshable": true,
+      "position": "MID",
+      "offset": 400
+    },
+    "biddable": true
+  },
+  "In Mobile Ad" : {
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 50
+        }
+      ],
+      "disableRefresh": true,
+      "position": "INT"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "disableRefresh": true,
+      "position": "INT"
+    },
+    "biddable": true
+  },
+  "In Slide Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "INT"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "INT"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "INT"
+    },
+    "biddable": true,
+    "sequenceable": false
+  },
+  "Slideshow Right Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "refreshable": true,
+      "position": "MID"
+    },
+    "outOfPage": false,
+    "biddable": true
+  },
+  "Slideshow Top Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "TOP",
+      "refreshable": true
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "TOP",
+      "refreshable": true
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "TOP",
+      "refreshable": true
+    },
+    "biddable": true
+  },
+  "Slideshow Bot Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "BOT",
+      "refreshable": true
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "BOT",
+      "refreshable": true
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "BOT",
+      "refreshable": true
+    },
+    "biddable": true
+  },
+  "Slideshow Inline Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID"
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "cms.ab.fields": {},
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "MID"
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "MID"
+    },
+    "biddable": true
+  },
+  "Recipe Inline Ad": {
+    "desktopSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID",
+      "offset": 250
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 728,
+          "height": 90
+        }
+      ],
+      "position": "MID",
+      "offset": 250
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "MID"
+    },
+    "biddable": true
+  },
+  "Video Comp Ad": [
+    "w=1",
+    "h=2",
+    "tpcl=DISPLAY",
+    "ptgt=s",
+    "cd=1,2",
+    "slau=webappSkin"
+  ],
+  "Right Rail Top Ad Video": [
+    "w=300",
+    "h=250",
+    "tpcl=DISPLAY",
+    "ptgt=s",
+    "cd=300,250"
+  ],
+  "Sled Ad": [
+    "w=1",
+    "h=3",
+    "tpcl=DISPLAY",
+    "ptgt=s",
+    "slau=Sled"
+  ],
+  "List Widget Ad": {
+    "desktopSettings": {
+      "sizes":[
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width" : 300,
+          "height" : 600
+        }
+      ],
+      "position": "MID",
+      "refreshable": true,
+      "offset": 450
+    },
+    "tabletSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "disableRefresh": true,
+      "position": "MID",
+      "offset": 400
+    },
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "MID",
+      "disableRefresh": true,
+      "offset": 400
+    },
+    "biddable": true
+  }
+}

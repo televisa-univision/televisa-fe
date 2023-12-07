@@ -1,0 +1,134 @@
+// Containers
+.container, .liveLabel, .authCont {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    color: $white;
+    height: 16px;
+    position: absolute;
+    text-transform: uppercase;
+    z-index: 10;
+    &:hover {
+        color: $white;
+    }
+}
+
+// Live Labels
+.liveLabel {
+    background-color: $red;
+    padding-right: 8px;
+    font-size: rem(9px);
+    line-height: rem(16px);
+    
+    &.hasGradient {
+        background: $red linear-gradient(to right, $light-velvet-red, $velvet-red);
+    }
+}
+
+.small, .large{
+    &Icon{
+        width: 16px;
+        height: 16px;
+    }
+}
+
+.miniIcon {
+    display: none;
+}
+
+.mini {
+    .liveLabel {
+        border-radius: 0 10px 10px 0;
+        padding-left: 5px;
+    }
+}
+
+.extralarge {
+    height: 40px;
+
+    .liveLabel {
+        height: 100%;
+        width: 100%;
+        font-size: rem(16px);
+        line-height: rem(24px);
+    }
+    &Icon {
+        height: 24px;
+        width: 24px;
+    }
+}
+
+// Auth
+.authCont {
+    background-color: rgba(0,0,0,0.7);
+    .small & {
+        height: 16px;
+        .icon {
+            height: 16px;
+        }
+    }
+    .large & {
+        height: 24px;
+        padding: 0 4px;
+    }
+    .extralarge &{
+        height: 32px;
+        padding: 0 4px;
+    }
+}
+
+// Sizes
+@include media-breakpoint-up('md') {
+    .large {
+        height: 24px;
+        line-height: rem(24px);
+        .liveLabel {
+            font-size: rem(11px);
+            line-height: rem(11px);
+            padding-right: 8px;
+        }
+        &Icon{
+            height: 24px;
+            width: 24px;
+        }
+    }
+
+    .extralarge {
+        height: 32px;
+
+        .liveLabel {
+            height: 100%;
+            width: auto;
+            font-size: rem(14px);
+            line-height: rem(32px);
+        }
+    }
+}
+
+// Positions
+.center {
+    position: relative;
+}
+
+.topLeft {
+    left: 0;
+    top: 0;
+}
+
+.topRight {
+    right: 0;
+    top: 0;
+}
+
+.bottomLeft {
+    left: 0;
+    bottom: 0;
+}
+
+.bottomRight {
+    right: 0;
+    bottom: 0;
+}

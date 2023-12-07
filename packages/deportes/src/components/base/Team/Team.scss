@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+
+  &.away{
+    flex-direction: row-reverse;
+  }
+  &.vertical {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.name {
+  color: $black;
+  font-size: rem(14px);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.teamName {
+  flex: 1 1 0;
+}
+
+.teamLogo {
+  flex: 1 1 0;
+}
+
+.logo {
+  width: 25px;
+}
+
+.mobile {
+  display: block;
+  @include media-breakpoint-up("sm") {
+    display: none;
+  }
+}
+
+.desktop {
+  display: none;
+  @include media-breakpoint-up("sm") {
+    display: block;
+  }
+}

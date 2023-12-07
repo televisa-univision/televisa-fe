@@ -1,0 +1,25 @@
+// Slick overrides
+//
+// Copy variables from `/node_modules/slick-carousel/slick/slick-theme.scss` to this file
+// to override default values
+// without modifying source files.
+
+// Default Variables
+
+// Slick icon entity codes outputs the following
+// "\2190" outputs ascii character "←"
+// "\2192" outputs ascii character "→"
+// "\2022" outputs ascii character "•"
+
+$slick-font-family: "arial";
+$slick-loader-path: "slick-carousel/slick/";
+$slick-arrow-color: black;
+$slick-dot-color: black !default;
+$slick-dot-color-active: $slick-dot-color !default;
+$slick-prev-character: "\2190" !default;
+$slick-next-character: "\2192" !default;
+$slick-dot-character: "\2022" !default;
+$slick-dot-size: 6px !default;
+$slick-opacity-default: 0.75 !default;
+$slick-opacity-on-hover: 1 !default;
+$slick-opacity-not-active: 0.25 !default;

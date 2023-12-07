@@ -1,0 +1,275 @@
+.arrow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 10;
+  width: 60px;
+  background-color: transparent;
+  border: 0;
+  outline: 0;
+  border-radius: 0;
+  &::after {
+    border-color: #fff;
+    border-style: solid;
+    border-width: 2px 2px 0 0;
+    content: '';
+    display: block;
+    height: 19px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform-origin: center;
+    width: 19px;
+  }
+
+  &:disabled,
+  &.hide {
+    cursor: default;
+    visibility: hidden;
+    pointer-events: none;
+  }
+
+  &.up, &.down {
+    width: 100%;
+    left: 0;
+    right: 0;
+    height: 60px;
+  }
+
+  &.prev {
+    &.dark {
+      @include gradient-horizontal(fade-out($black, .5), fade-out($black, 1));
+    }
+    &.light {
+      @include gradient-horizontal($white, fade-out($white, 1));
+      &::after {
+        box-shadow: 1px -1px $grey;
+      }
+    }
+
+    &::after {
+      margin: -15px 0 0 -5px;
+      transform: rotate(-135deg);
+    }
+  }
+
+  &.up {
+    &.dark {
+      @include gradient-y(fade-out($black, .5), fade-out($black, 1));
+    }
+
+    &.light {
+      @include gradient-y($white, fade-out($white, 1));
+      &::after {
+        box-shadow: 1px -1px $grey;
+      }
+    }
+    &::after {
+      margin: -15px 0 0 -5px;
+      transform: rotate(-45deg);
+    }
+  }
+
+  &.next {
+    right: 0;
+
+    &.dark {
+      @include gradient-horizontal(fade-out($black, 1), fade-out($black, .5));
+    }
+
+    &.light {
+      @include gradient-horizontal(fade-out($white, 1), $white);
+      &::after {
+        box-shadow: 1px -1px $grey;
+      }
+    }
+
+    &::after {
+      margin: -15px 0 0 -15px;
+      transform: rotate(45deg);
+    }
+  }
+
+
+  &.down {
+    &.dark {
+      @include gradient-y(fade-out($black, 1), fade-out($black, .5));
+    }
+
+    &.light {
+      @include gradient-y(fade-out($white, 1), $white);
+
+      &::after {
+        box-shadow: 1px -1px $grey;
+      }
+    }
+
+    &::after {
+      margin: -15px 0 0 -5px;
+      transform: rotate(135deg);
+    }
+  }
+}
+
+.white {
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 19px;
+    width: 19px;
+    margin: -13px 0 0 -16px;
+    border-style: solid;
+    border-width: 2px 2px 0 0;
+    border-color: #888;
+    transform-origin: center;
+    filter: blur(1.5px);
+  }
+
+  &.next{
+    @include gradient-horizontal(fade-out(#fafafa, 1), #fafafa);
+
+    &::before {
+      transform: rotate(45deg);
+      margin: -8px 0 0 -11px;
+    }
+
+    &::after {
+      margin: -10px 0 0 -10px;
+    }
+  }
+
+  &.prev {
+    @include gradient-horizontal(#fafafa, fade-out(#fafafa, 1));
+
+    &::before {
+      transform: rotate(-135deg);
+      margin: -8px 0 0 -9px;
+    }
+
+    &::after {
+      margin: -10px 0 0 -10px;
+    }
+  }
+
+  &.up::before {
+    transform: rotate(-45deg);
+  }
+
+  &.down::before {
+    transform: rotate(135deg);
+  }
+}
+
+.plain-white {
+  &::after {
+    border-color: #fff;
+    border-style: solid;
+    border-width: 3px 3px 0 0;
+    content: '';
+    display: block;
+    height: 22px;
+    left: 50%;
+    position: absolute;
+    transform-origin: center;
+    width: 22px;
+  }
+
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    height: 22px;
+    width: 22px;
+    margin: -13px 0 0 -16px;
+    border-style: solid;
+    border-width: 3px 3px 0 0;
+    border-color: #888;
+    transform-origin: center;
+    filter: blur(1.5px);
+  }
+
+  &.next{
+    &::before {
+      transform: rotate(45deg);
+      margin: -8px 0 0 -19px;
+    }
+
+    &::after {
+      margin: -10px 0 0 -18px;
+    }
+  }
+
+  &.prev {
+    &::before {
+      transform: rotate(-135deg);
+      margin: -8px 0 0 -4px;
+    }
+
+    &::after {
+      margin: -10px 0 0 -5px;
+    }
+  }
+
+  &.up::before {
+    transform: rotate(-45deg);
+  }
+
+  &.down::before {
+    transform: rotate(135deg);
+  }
+}
+
+:global(.slick-tooltip) {
+  .arrow {
+    animation: 2s;
+    &.next {
+      animation-name: fromRight;
+    }
+    &.prev {
+      animation-name: fromLeft;
+    }
+  }
+}
+
+
+@keyframes fromLeft {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  15% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  85% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fromRight {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  15%{
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  85%{
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}

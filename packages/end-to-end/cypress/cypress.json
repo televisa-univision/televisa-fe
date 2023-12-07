@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "defaultCommandTimeout": 10000,
+  "integrationFolder": "src/tests",
+  "numTestsKeptInMemory": 0,
+  "video": false,
+  "blacklistHosts": [
+    "cdn.adsafeprotected.com",
+    "*.facebook.com",
+    "*.facebook.net"
+  ]
+}

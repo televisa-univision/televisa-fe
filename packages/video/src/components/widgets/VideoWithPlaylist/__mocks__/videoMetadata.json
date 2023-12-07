@@ -1,0 +1,1085 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "uid": "0000015e-20ac-d9e9-a7fe-3eaf14290000",
+      "mcpid": "3361417",
+      "richText": "En una rápida acción, la policía de Homestead logró capturarlo minutos después del incidente. Una de las víctimas se encuentra en condición crítica.",
+      "authors": [],
+      "shortUrl": "http://uni.vi/1hJu100McX9",
+      "permalink": "https://www.univision.com/local/miami-wltv/conductor-atropello-a-una-pareja-que-viajaba-en-motocicleta-y-luego-se-dio-a-la-fuga",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/miami/wltv",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "accidentes",
+            "local",
+            "miami",
+            "latinos",
+            "represadeagua",
+            "heridos",
+            "mercedesparis"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "section": {
+        "id": "0000014d-0717-ddc6-a5dd-179779c80000",
+        "name": "Univision 23 Miami"
+      },
+      "rootSection": {
+        "id": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+        "name": "Tu Ciudad"
+      },
+      "via": "univision23",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/bedaad3/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9a%2Fa5%2Fb39e34dc4cfeb2bf643280168481%2F50fcd7bd203043e9b7f1ec83c5a7cfb8",
+      "coverImage": null,
+      "trackingData": {
+        "all_tags": [
+          "accidentes",
+          "local",
+          "miami",
+          "latinos",
+          "represa de agua",
+          "heridos",
+          "mercedes  paris"
+        ],
+        "content_author": "",
+        "content_created_date": "2017-08-26",
+        "content_id": "0000015e-20ac-d9e9-a7fe-3eaf14290000",
+        "content_type": "video",
+        "mvpd_auth_required": "false",
+        "nielsenVcid": "c05",
+        "parent_tags": [
+          "local",
+          "wltv"
+        ],
+        "parent_topic": "local",
+        "permalink": "https://www.univision.com/local/miami-wltv/conductor-atropello-a-una-pareja-que-viajaba-en-motocicleta-y-luego-se-dio-a-la-fuga",
+        "primary_tag": "wltv",
+        "primary_tag_uid": "0000014d-0717-ddc6-a5dd-179779c80000",
+        "seo_optimized": "true",
+        "title": "conductor atropello a una pareja que viajaba en motocicleta y luego se dio a la fuga",
+        "video_id": "3361417",
+        "video_length": "119",
+        "video_length_group": "1-2m",
+        "video_type": "clip"
+      },
+      "analyticsData": {
+        "apps": {
+          "common": {
+            "adtag_value": "video_local/tv/miami/wltv",
+            "all_tags": [
+              "accidentes",
+              "local",
+              "miami",
+              "latinos",
+              "represa de agua",
+              "heridos",
+              "mercedes  paris"
+            ],
+            "brand_station_call_letters": "wltv",
+            "content_created_date": "2017-08-26",
+            "content_id": "0000015e-20ac-d9e9-a7fe-3eaf14290000",
+            "content_type": "video",
+            "section": "wltv",
+            "section_full_hierarchy": [
+              "local",
+              "wltv"
+            ],
+            "section_level1": "local",
+            "section_level2": "wltv",
+            "title": "conductor atropello a una pareja que viajaba en motocicleta y luego se dio a la fuga"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3361417",
+            "video_length": "119",
+            "video_length_group": "1-2m",
+            "video_title": "conductor atropello a una pareja que viajaba en motocicleta y luego se dio a la fuga",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000015e-20ac-d9e9-a7fe-3eaf14290000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c05"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3361417",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "119",
+              "program": "Univision 23 Miami",
+              "segB": "noticias",
+              "title": "conductor atropello a una pareja que viajaba en motocicleta y luego se dio a la fuga",
+              "type": "content",
+              "vcid": "c05"
+            }
+          }
+        },
+        "web": {
+          "common": {
+            "adtag_value": "video_local/tv/miami/wltv",
+            "all_tags": null,
+            "brand_market": "miami",
+            "brand_station_call_letters": "wltv",
+            "brand_station_name": "univision 23 miami",
+            "brand_station_type": "tvstation",
+            "content_created_date": "2017-08-26",
+            "content_id": "0000015e-20ac-d9e9-a7fe-3eaf14290000",
+            "content_modified_date": "2020-08-17",
+            "content_type": "video",
+            "content_vertical": "local",
+            "permalink": "https://www.univision.com/local/miami-wltv/conductor-atropello-a-una-pareja-que-viajaba-en-motocicleta-y-luego-se-dio-a-la-fuga",
+            "platform": "mobile app",
+            "section": "wltv",
+            "section_full_hierarchy": null,
+            "section_level1": "local",
+            "section_level2": "wltv",
+            "seo_focus_keyword": "not defined",
+            "seo_optimized": 16,
+            "title": "conductor atropello a una pareja que viajaba en motocicleta y luego se dio a la fuga",
+            "uci_division": "local:miami:wltv"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3361417",
+            "video_length": "119",
+            "video_length_group": "1-2m",
+            "video_title": "conductor atropello a una pareja que viajaba en motocicleta y luego se dio a la fuga",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000015e-20ac-d9e9-a7fe-3eaf14290000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c05"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3361417",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "119",
+              "program": "Univision 23 Miami",
+              "segB": "noticias",
+              "title": "conductor atropello a una pareja que viajaba en motocicleta y luego se dio a la fuga",
+              "type": "content",
+              "vcid": "c05"
+            }
+          }
+        }
+      },
+      "mcpTags": [
+        "Miamigeo",
+        "hispanos",
+        "Mercede apris",
+        "Homestead",
+        "WQBA1140am",
+        "accidentes",
+        "Radiomambi710am",
+        "Sucesos",
+        "heridos",
+        "MIAMI"
+      ],
+      "categories": [
+        "Television",
+        "Noticias",
+        "Locales"
+      ]
+    },
+    {
+      "uid": "0000015e-20ad-d30f-a95f-edbf4d8e0000",
+      "mcpid": "3361422",
+      "richText": "Desde temprano, miles de residentes se acercaron a refugios para prestar ayuda como voluntarios. Los damnificados señalan que han tenido las mejores atenciones.",
+      "authors": [],
+      "shortUrl": "http://uni.vi/9qIo100McXH",
+      "permalink": "https://www.univision.com/local/san-antonio-kwex/comunidad-de-san-antonio-respondio-el-llamado-de-ayuda-a-los-damnificados-por-la-tormenta-tropical-harvey",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/sanantonio/kwex",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "huracanharvey",
+            "refugiados",
+            "ayudahumanitaria",
+            "local"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "section": {
+        "id": "0000014d-0b36-ddc6-a5dd-1bb62fa10000",
+        "name": "Univision 41 San Antonio"
+      },
+      "rootSection": {
+        "id": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+        "name": "Tu Ciudad"
+      },
+      "via": "UnivisionSATX",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/1f301ec/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7e%2Fb2%2F48acff464e2fb8b32b8b52090e9a%2Fd13901661dbc4af588aefba89f3f69bf",
+      "coverImage": null,
+      "trackingData": {
+        "all_tags": [
+          "huracan harvey",
+          "refugiados",
+          "ayuda humanitaria",
+          "local"
+        ],
+        "content_author": "",
+        "content_created_date": "2017-08-26",
+        "content_id": "0000015e-20ad-d30f-a95f-edbf4d8e0000",
+        "content_type": "video",
+        "mvpd_auth_required": "false",
+        "nielsenVcid": "c05",
+        "parent_tags": [
+          "local",
+          "kwex"
+        ],
+        "parent_topic": "local",
+        "permalink": "https://www.univision.com/local/san-antonio-kwex/comunidad-de-san-antonio-respondio-el-llamado-de-ayuda-a-los-damnificados-por-la-tormenta-tropical-harvey",
+        "primary_tag": "kwex",
+        "primary_tag_uid": "0000014d-0b36-ddc6-a5dd-1bb62fa10000",
+        "seo_optimized": "false",
+        "title": "comunidad de san antonio respondio el llamado de ayuda a los damnificados por la tormenta tropical harvey",
+        "video_id": "3361422",
+        "video_length": "173",
+        "video_length_group": "2-5m",
+        "video_type": "clip"
+      },
+      "analyticsData": {
+        "apps": {
+          "common": {
+            "adtag_value": "video_local/tv/sanantonio/kwex",
+            "all_tags": [
+              "huracan harvey",
+              "refugiados",
+              "ayuda humanitaria",
+              "local"
+            ],
+            "brand_station_call_letters": "kwex",
+            "content_created_date": "2017-08-26",
+            "content_id": "0000015e-20ad-d30f-a95f-edbf4d8e0000",
+            "content_type": "video",
+            "section": "kwex",
+            "section_full_hierarchy": [
+              "local",
+              "kwex"
+            ],
+            "section_level1": "local",
+            "section_level2": "kwex",
+            "title": "comunidad de san antonio respondio el llamado de ayuda a los damnificados por la tormenta tropical harvey"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3361422",
+            "video_length": "173",
+            "video_length_group": "2-5m",
+            "video_title": "comunidad de san antonio respondio el llamado de ayuda a los damnificados por la tormenta tropical harvey",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000015e-20ad-d30f-a95f-edbf4d8e0000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c05"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3361422",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "173",
+              "program": "Univision 41 San Antonio",
+              "segB": "noticias",
+              "title": "comunidad de san antonio respondio el llamado de ayuda a los damnificados por la tormenta tropical harvey",
+              "type": "content",
+              "vcid": "c05"
+            }
+          }
+        },
+        "web": {
+          "common": {
+            "adtag_value": "video_local/tv/sanantonio/kwex",
+            "all_tags": null,
+            "brand_market": "san antonio",
+            "brand_station_call_letters": "kwex",
+            "brand_station_name": "univision 41 san antonio",
+            "brand_station_type": "tvstation",
+            "content_created_date": "2017-08-26",
+            "content_id": "0000015e-20ad-d30f-a95f-edbf4d8e0000",
+            "content_modified_date": "2020-05-02",
+            "content_type": "video",
+            "content_vertical": "local",
+            "permalink": "https://www.univision.com/local/san-antonio-kwex/comunidad-de-san-antonio-respondio-el-llamado-de-ayuda-a-los-damnificados-por-la-tormenta-tropical-harvey",
+            "platform": "mobile app",
+            "section": "kwex",
+            "section_full_hierarchy": null,
+            "section_level1": "local",
+            "section_level2": "kwex",
+            "seo_focus_keyword": "not defined",
+            "seo_optimized": 0,
+            "title": "comunidad de san antonio respondio el llamado de ayuda a los damnificados por la tormenta tropical harvey",
+            "uci_division": "local:san antonio:kwex"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3361422",
+            "video_length": "173",
+            "video_length_group": "2-5m",
+            "video_title": "comunidad de san antonio respondio el llamado de ayuda a los damnificados por la tormenta tropical harvey",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000015e-20ad-d30f-a95f-edbf4d8e0000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c05"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3361422",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "173",
+              "program": "Univision 41 San Antonio",
+              "segB": "noticias",
+              "title": "comunidad de san antonio respondio el llamado de ayuda a los damnificados por la tormenta tropical harvey",
+              "type": "content",
+              "vcid": "c05"
+            }
+          }
+        }
+      },
+      "mcpTags": [
+        "San Antonio"
+      ],
+      "categories": [
+        "Television",
+        "Noticias",
+        "Locales"
+      ]
+    },
+    {
+      "uid": "0000015e-20b0-dae8-a75e-79b1c0960000",
+      "mcpid": "3361420",
+      "richText": "Acompañado de su esposa, el alcalde Ron Nirenberg estuvo en el estudio de Univision 41 y rindió reporte de los trabajos para reducir los efectos de Harvey.",
+      "authors": [],
+      "shortUrl": "http://uni.vi/kNIH100McXB",
+      "permalink": "https://www.univision.com/local/san-antonio-kwex/alcalde-de-san-antonio-llama-a-los-residentes-a-seguir-en-alerta-por-la-tormenta-tropical-harvey",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/sanantonio/kwex",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "huracanharvey",
+            "alcaldes",
+            "local"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "section": {
+        "id": "0000014d-0b36-ddc6-a5dd-1bb62fa10000",
+        "name": "Univision 41 San Antonio"
+      },
+      "rootSection": {
+        "id": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+        "name": "Tu Ciudad"
+      },
+      "via": "UnivisionSATX",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/2cfbaa7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd4%2Fb8%2Fad7eafce4d3f848612612b690c01%2F3deed10526b047c9a846b8310c67e3c7",
+      "coverImage": null,
+      "trackingData": {
+        "all_tags": [
+          "huracan harvey",
+          "alcaldes",
+          "local"
+        ],
+        "content_author": "",
+        "content_created_date": "2017-08-26",
+        "content_id": "0000015e-20b0-dae8-a75e-79b1c0960000",
+        "content_type": "video",
+        "mvpd_auth_required": "false",
+        "nielsenVcid": "c05",
+        "parent_tags": [
+          "local",
+          "kwex"
+        ],
+        "parent_topic": "local",
+        "permalink": "https://www.univision.com/local/san-antonio-kwex/alcalde-de-san-antonio-llama-a-los-residentes-a-seguir-en-alerta-por-la-tormenta-tropical-harvey",
+        "primary_tag": "kwex",
+        "primary_tag_uid": "0000014d-0b36-ddc6-a5dd-1bb62fa10000",
+        "seo_optimized": "false",
+        "title": "alcalde de san antonio llama a los residentes a seguir en alerta por la tormenta tropical harvey",
+        "video_id": "3361420",
+        "video_length": "406",
+        "video_length_group": "5-10m",
+        "video_type": "clip"
+      },
+      "analyticsData": {
+        "apps": {
+          "common": {
+            "adtag_value": "video_local/tv/sanantonio/kwex",
+            "all_tags": [
+              "huracan harvey",
+              "alcaldes",
+              "local"
+            ],
+            "brand_station_call_letters": "kwex",
+            "content_created_date": "2017-08-26",
+            "content_id": "0000015e-20b0-dae8-a75e-79b1c0960000",
+            "content_type": "video",
+            "section": "kwex",
+            "section_full_hierarchy": [
+              "local",
+              "kwex"
+            ],
+            "section_level1": "local",
+            "section_level2": "kwex",
+            "title": "alcalde de san antonio llama a los residentes a seguir en alerta por la tormenta tropical harvey"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3361420",
+            "video_length": "406",
+            "video_length_group": "5-10m",
+            "video_title": "alcalde de san antonio llama a los residentes a seguir en alerta por la tormenta tropical harvey",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000015e-20b0-dae8-a75e-79b1c0960000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c05"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3361420",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "406",
+              "program": "Univision 41 San Antonio",
+              "segB": "noticias",
+              "title": "alcalde de san antonio llama a los residentes a seguir en alerta por la tormenta tropical harvey",
+              "type": "content",
+              "vcid": "c05"
+            }
+          }
+        },
+        "web": {
+          "common": {
+            "adtag_value": "video_local/tv/sanantonio/kwex",
+            "all_tags": null,
+            "brand_market": "san antonio",
+            "brand_station_call_letters": "kwex",
+            "brand_station_name": "univision 41 san antonio",
+            "brand_station_type": "tvstation",
+            "content_created_date": "2017-08-26",
+            "content_id": "0000015e-20b0-dae8-a75e-79b1c0960000",
+            "content_modified_date": "2020-05-02",
+            "content_type": "video",
+            "content_vertical": "local",
+            "permalink": "https://www.univision.com/local/san-antonio-kwex/alcalde-de-san-antonio-llama-a-los-residentes-a-seguir-en-alerta-por-la-tormenta-tropical-harvey",
+            "platform": "mobile app",
+            "section": "kwex",
+            "section_full_hierarchy": null,
+            "section_level1": "local",
+            "section_level2": "kwex",
+            "seo_focus_keyword": "not defined",
+            "seo_optimized": 0,
+            "title": "alcalde de san antonio llama a los residentes a seguir en alerta por la tormenta tropical harvey",
+            "uci_division": "local:san antonio:kwex"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3361420",
+            "video_length": "406",
+            "video_length_group": "5-10m",
+            "video_title": "alcalde de san antonio llama a los residentes a seguir en alerta por la tormenta tropical harvey",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000015e-20b0-dae8-a75e-79b1c0960000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c05"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3361420",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "406",
+              "program": "Univision 41 San Antonio",
+              "segB": "noticias",
+              "title": "alcalde de san antonio llama a los residentes a seguir en alerta por la tormenta tropical harvey",
+              "type": "content",
+              "vcid": "c05"
+            }
+          }
+        }
+      },
+      "mcpTags": [
+        "San Antonio"
+      ],
+      "categories": [
+        "Television",
+        "Noticias",
+        "Locales"
+      ]
+    },
+    {
+      "uid": "0000016b-156c-ddbb-a3ff-1f7e41ed0000",
+      "mcpid": "unidepp56016",
+      "richText": "Tiro desviado de Nicolás Gaitán on June 1, 2019",
+      "authors": [],
+      "shortUrl": "http://uni.vi/btnN101CcSd",
+      "permalink": "https://www.tudn.com/futbol/mls/tiro-desviado-de-nicolas-gaitan-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol/mls",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "disparoafuera"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "section": {
+        "id": "00000152-3cae-d5cc-affa-7dafe52e0000",
+        "name": "MLS"
+      },
+      "rootSection": {
+        "id": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "name": "Deportes"
+      },
+      "via": "Univision",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/bf2deb7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F29%2Fdb%2F64afba6744cf8a625d546e264362%2Fb4b3050b3bac40b3acc7abd3f542c464",
+      "coverImage": null,
+      "trackingData": {
+        "all_tags": [
+          "disparo afuera"
+        ],
+        "content_author": "",
+        "content_created_date": "2019-06-01",
+        "content_id": "0000016b-156c-ddbb-a3ff-1f7e41ed0000",
+        "content_type": "video",
+        "mvpd_auth_required": "false",
+        "nielsenVcid": "c03",
+        "parent_tags": [
+          "deportes",
+          "futbol",
+          "mls"
+        ],
+        "parent_topic": "deportes",
+        "permalink": "https://www.tudn.com/futbol/mls/tiro-desviado-de-nicolas-gaitan-video",
+        "primary_tag": "mls",
+        "primary_tag_uid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+        "seo_optimized": "true",
+        "title": "tiro desviado de nicolas gaitan",
+        "video_id": "unidepp56016",
+        "video_length": "15",
+        "video_length_group": "0-15s",
+        "video_type": "live clip"
+      },
+      "analyticsData": {
+        "apps": {
+          "common": {
+            "adtag_value": "video_deportes/futbol/mls",
+            "all_tags": [
+              "disparo afuera"
+            ],
+            "content_created_date": "2019-06-01",
+            "content_id": "0000016b-156c-ddbb-a3ff-1f7e41ed0000",
+            "content_type": "video",
+            "section": "mls",
+            "section_full_hierarchy": [
+              "deportes",
+              "futbol",
+              "mls"
+            ],
+            "section_level1": "deportes",
+            "section_level2": "futbol",
+            "section_level3": "mls",
+            "title": "tiro desviado de nicolas gaitan"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "unidepp56016",
+            "video_length": "15",
+            "video_length_group": "0-15s",
+            "video_title": "tiro desviado de nicolas gaitan",
+            "video_type": "live clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000016b-156c-ddbb-a3ff-1f7e41ed0000",
+              "section": "video",
+              "segB": "deportes",
+              "type": "static",
+              "vcid": "c03"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "unidepp56016",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "15",
+              "program": "MLS",
+              "segB": "deportes",
+              "title": "tiro desviado de nicolas gaitan",
+              "type": "content",
+              "vcid": "c03"
+            }
+          }
+        },
+        "web": {
+          "common": {
+            "adtag_value": "video_deportes/futbol/mls",
+            "all_tags": null,
+            "content_created_date": "2019-06-01",
+            "content_id": "0000016b-156c-ddbb-a3ff-1f7e41ed0000",
+            "content_modified_date": "2020-08-16",
+            "content_type": "video",
+            "content_vertical": "deportes",
+            "permalink": "https://www.tudn.com/futbol/mls/tiro-desviado-de-nicolas-gaitan-video",
+            "platform": "mobile app",
+            "section": "mls",
+            "section_full_hierarchy": null,
+            "section_level1": "deportes",
+            "section_level2": "futbol",
+            "section_level3": "mls",
+            "seo_focus_keyword": "not defined",
+            "seo_optimized": 4,
+            "title": "tiro desviado de nicolas gaitan",
+            "uci_division": "sports"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "unidepp56016",
+            "video_length": "15",
+            "video_length_group": "0-15s",
+            "video_title": "tiro desviado de nicolas gaitan",
+            "video_type": "live clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "0000016b-156c-ddbb-a3ff-1f7e41ed0000",
+              "section": "video",
+              "segB": "deportes",
+              "type": "static",
+              "vcid": "c03"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "unidepp56016",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "15",
+              "program": "MLS",
+              "segB": "deportes",
+              "title": "tiro desviado de nicolas gaitan",
+              "type": "content",
+              "vcid": "c03"
+            }
+          }
+        }
+      },
+      "mcpTags": [
+        "tournamentID98",
+        "sportsAction",
+        "leagueus_ml",
+        "teamchicagofire",
+        "matchg1040106",
+        "sportsHighlight",
+        "playerid56491",
+        "gametime62:20",
+        "teamatlantaunitedfc",
+        "actionid2121461103",
+        "eventdisparoyafuera",
+        "eventid33",
+        "playernicolasgaitan",
+        "clip"
+      ],
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "matchId": "1040106",
+      "soccerMatchTitle": "EN VIVO | ¡Venezuelan power! Josef Martínez  marca doblete ",
+      "soccerMatchId": "00000168-29fa-d462-a3ef-a9fbfafe0000"
+    },
+    {
+      "uid": "00000173-3370-d082-a9ff-fff893db0000",
+      "mcpid": "3884334",
+      "richText": "En otras noticias, buscan a la actriz Naya Rivera desaparecida en un lago de California; Trump amenaza a los gobernadores con retirarles fondos si no abren las escuelas pese al coronavirus y el gobierno propone negar asilo a personas procedentes de países con enfermedades contagiosas. Más información en UnivisionNoticias.com.",
+      "authors": [],
+      "shortUrl": "http://uni.vi/hTbo102ipzk",
+      "permalink": "https://www.univision.com/noticias/en-un-minuto-trump-y-amlo-se-deshacen-en-elogios-y-evitan-hablar-en-publico-del-muro-y-la-crisis-migratoria-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticiasoriginaldigital",
+            "noticias",
+            "tomaposesionamlo",
+            "lareunionnortena",
+            "casablanca"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "section": {
+        "id": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "name": "Noticias Univision"
+      },
+      "rootSection": {},
+      "via": "UniNoticias",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/08c9cbc/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2Ff0%2F0099dca549739767d492b009af38%2F2055131aaec6454e811c0e1d1867d304",
+      "coverImage": null,
+      "trackingData": {
+        "all_tags": [
+          "noticias original digital",
+          "noticias",
+          "toma posesion amlo",
+          "la reunion nortena",
+          "casa blanca"
+        ],
+        "content_author": "",
+        "content_created_date": "2020-07-09",
+        "content_id": "00000173-3370-d082-a9ff-fff893db0000",
+        "content_type": "video",
+        "mvpd_auth_required": "false",
+        "nielsenVcid": "c02",
+        "parent_tags": [
+          "noticias"
+        ],
+        "parent_topic": "noticias",
+        "permalink": "https://www.univision.com/noticias/en-un-minuto-trump-y-amlo-se-deshacen-en-elogios-y-evitan-hablar-en-publico-del-muro-y-la-crisis-migratoria-video",
+        "primary_tag": "noticias",
+        "primary_tag_uid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "seo_optimized": "true",
+        "title": "en un minuto: trump y amlo se deshacen en elogios y evitan hablar en publico del muro y la crisis migratoria",
+        "video_id": "3884334",
+        "video_length": "73",
+        "video_length_group": "1-2m",
+        "video_type": "clip"
+      },
+      "analyticsData": {
+        "apps": {
+          "common": {
+            "adtag_value": "video_noticias",
+            "all_tags": [
+              "noticias original digital",
+              "noticias",
+              "toma posesion amlo",
+              "la reunion nortena",
+              "casa blanca"
+            ],
+            "content_created_date": "2020-07-09",
+            "content_id": "00000173-3370-d082-a9ff-fff893db0000",
+            "content_type": "video",
+            "section": "noticias",
+            "section_full_hierarchy": [
+              "noticias"
+            ],
+            "section_level1": "noticias",
+            "title": "en un minuto: trump y amlo se deshacen en elogios y evitan hablar en publico del muro y la crisis migratoria"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3884334",
+            "video_length": "73",
+            "video_length_group": "1-2m",
+            "video_title": "en un minuto: trump y amlo se deshacen en elogios y evitan hablar en publico del muro y la crisis migratoria",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "00000173-3370-d082-a9ff-fff893db0000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c02"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3884334",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "73",
+              "program": "Noticias Univision",
+              "segB": "noticias",
+              "title": "en un minuto: trump y amlo se deshacen en elogios y evitan hablar en publico del muro y la crisis migratoria",
+              "type": "content",
+              "vcid": "c02"
+            }
+          }
+        },
+        "web": {
+          "common": {
+            "adtag_value": "video_noticias",
+            "all_tags": null,
+            "content_created_date": "2020-07-09",
+            "content_id": "00000173-3370-d082-a9ff-fff893db0000",
+            "content_modified_date": "2020-07-09",
+            "content_type": "video",
+            "content_vertical": "noticias",
+            "permalink": "https://www.univision.com/noticias/en-un-minuto-trump-y-amlo-se-deshacen-en-elogios-y-evitan-hablar-en-publico-del-muro-y-la-crisis-migratoria-video",
+            "platform": "mobile app",
+            "section": "noticias",
+            "section_full_hierarchy": null,
+            "section_level1": "noticias",
+            "seo_focus_keyword": "not defined",
+            "seo_optimized": 18,
+            "title": "en un minuto: trump y amlo se deshacen en elogios y evitan hablar en publico del muro y la crisis migratoria",
+            "uci_division": "news"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3884334",
+            "video_length": "73",
+            "video_length_group": "1-2m",
+            "video_title": "en un minuto: trump y amlo se deshacen en elogios y evitan hablar en publico del muro y la crisis migratoria",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "00000173-3370-d082-a9ff-fff893db0000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c02"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3884334",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "73",
+              "program": "Noticias Univision",
+              "segB": "noticias",
+              "title": "en un minuto: trump y amlo se deshacen en elogios y evitan hablar en publico del muro y la crisis migratoria",
+              "type": "content",
+              "vcid": "c02"
+            }
+          }
+        }
+      },
+      "mcpTags": [
+        "noticiasoriginaldigital",
+        "amlo",
+        "trump",
+        "Noticias Univision",
+        "t-mec",
+        "Video",
+        "muro",
+        "News",
+        "Univision",
+        "Noticias",
+        "inmigración",
+        "reunión",
+        "casa blanca"
+      ],
+      "categories": [
+        "Noticias"
+      ]
+    },
+    {
+      "uid": "00000173-35f8-d6e1-a7fb-7df90e3a0000",
+      "mcpid": "3884700",
+      "richText": "Un tornado irrumpió de repente en el condado de Otter Tail, en Minnesota, dejando al menos un muerto y varios heridos y varias casas destruidas por completo. Mas noticias aquí.",
+      "authors": [],
+      "shortUrl": "http://uni.vi/IXv7102ir7j",
+      "permalink": "https://www.univision.com/noticias/en-video-al-menos-una-persona-muerta-tras-el-azote-de-un-gigantesco-tornado-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticiasoriginaldigital",
+            "noticias"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "section": {
+        "id": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "name": "Noticias Univision"
+      },
+      "rootSection": {},
+      "via": "UniNoticias",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/f340c5c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F4d%2F4e02031f4127a34c7769a7269f7b%2Febd77fb522244e1081347c767a0e64fc",
+      "coverImage": null,
+      "trackingData": {
+        "all_tags": [
+          "noticias original digital",
+          "noticias"
+        ],
+        "content_author": "",
+        "content_created_date": "2020-07-09",
+        "content_id": "00000173-35f8-d6e1-a7fb-7df90e3a0000",
+        "content_type": "video",
+        "mvpd_auth_required": "false",
+        "nielsenVcid": "c02",
+        "parent_tags": [
+          "noticias"
+        ],
+        "parent_topic": "noticias",
+        "permalink": "https://www.univision.com/noticias/en-video-al-menos-una-persona-muerta-tras-el-azote-de-un-gigantesco-tornado-video",
+        "primary_tag": "noticias",
+        "primary_tag_uid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "seo_optimized": "true",
+        "title": "en video: al menos una persona muerta tras el azote de un gigantesco tornado",
+        "video_id": "3884700",
+        "video_length": "59",
+        "video_length_group": "45-60s",
+        "video_type": "clip"
+      },
+      "analyticsData": {
+        "apps": {
+          "common": {
+            "adtag_value": "video_noticias",
+            "all_tags": [
+              "noticias original digital",
+              "noticias"
+            ],
+            "content_created_date": "2020-07-09",
+            "content_id": "00000173-35f8-d6e1-a7fb-7df90e3a0000",
+            "content_type": "video",
+            "section": "noticias",
+            "section_full_hierarchy": [
+              "noticias"
+            ],
+            "section_level1": "noticias",
+            "title": "en video: al menos una persona muerta tras el azote de un gigantesco tornado"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3884700",
+            "video_length": "59",
+            "video_length_group": "45-60s",
+            "video_title": "en video: al menos una persona muerta tras el azote de un gigantesco tornado",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "00000173-35f8-d6e1-a7fb-7df90e3a0000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c02"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3884700",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "59",
+              "program": "Noticias Univision",
+              "segB": "noticias",
+              "title": "en video: al menos una persona muerta tras el azote de un gigantesco tornado",
+              "type": "content",
+              "vcid": "c02"
+            }
+          }
+        },
+        "web": {
+          "common": {
+            "adtag_value": "video_noticias",
+            "all_tags": null,
+            "content_created_date": "2020-07-09",
+            "content_id": "00000173-35f8-d6e1-a7fb-7df90e3a0000",
+            "content_modified_date": "2020-07-09",
+            "content_type": "video",
+            "content_vertical": "noticias",
+            "permalink": "https://www.univision.com/noticias/en-video-al-menos-una-persona-muerta-tras-el-azote-de-un-gigantesco-tornado-video",
+            "platform": "mobile app",
+            "section": "noticias",
+            "section_full_hierarchy": null,
+            "section_level1": "noticias",
+            "seo_focus_keyword": "not defined",
+            "seo_optimized": 18,
+            "title": "en video: al menos una persona muerta tras el azote de un gigantesco tornado",
+            "uci_division": "news"
+          },
+          "contentSpecific": {
+            "mvpd_auth_required": "false",
+            "video_id": "3884700",
+            "video_length": "59",
+            "video_length_group": "45-60s",
+            "video_title": "en video: al menos una persona muerta tras el azote de un gigantesco tornado",
+            "video_type": "clip"
+          },
+          "nielsen": {
+            "common": {
+              "assetid": "00000173-35f8-d6e1-a7fb-7df90e3a0000",
+              "section": "video",
+              "segB": "noticias",
+              "type": "static",
+              "vcid": "c02"
+            },
+            "contentSpecific": {
+              "adloadtype": "2",
+              "assetid": "3884700",
+              "crossId1": "",
+              "isfullepisode": "n",
+              "length": "59",
+              "program": "Noticias Univision",
+              "segB": "noticias",
+              "title": "en video: al menos una persona muerta tras el azote de un gigantesco tornado",
+              "type": "content",
+              "vcid": "c02"
+            }
+          }
+        }
+      },
+      "mcpTags": [
+        "noticiasoriginaldigital",
+        "Video",
+        "News",
+        "Noticias Univision",
+        "Univision",
+        "Noticias"
+      ],
+      "categories": [
+        "Noticias"
+      ]
+    }
+  ]
+}

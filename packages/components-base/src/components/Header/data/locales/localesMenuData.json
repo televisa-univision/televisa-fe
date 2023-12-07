@@ -1,0 +1,834 @@
+{
+  "/local/san-francisco-kdtv": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/miami-wltv": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/los-angeles-kmex": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/houston-kxln": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/nueva-york-wxtv": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/dallas-kuvn": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/chicago-wgbo": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/atlanta-wuvg": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/philadelphia-wuvp": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/north-carolina-wuvc": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/fresno-kftv": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/sacramento-kuvs": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/arizona-ktvw": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/austin-kakw": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/san-antonio-kwex": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ],
+  "/local/puerto-rico-wlii": [
+    {
+      "name": "otras páginas",
+      "items": [
+        {
+          "name": "Univision Now",
+          "href": "https://www.univisionnow.com/page/landing",
+          "image": "https://cdn3.uvnimg.com/c2/83/afd28d4f42bc8153e31440575e0c/lg-univision-now.svg"
+        },
+        {
+          "name": "Univision",
+          "href": "/",
+          "image": "https://cdn1.uvnimg.com/84/75/f4dc22384395b2722f141b22912f/lg-univision.svg"
+        },
+        {
+          "name": "Univision Famosos",
+          "href": "/famosos",
+          "image": "https://cdn3.uvnimg.com/af/4f/f9b37a8244be83427f7ebf76fa53/lg-univision-famosos.svg"
+        },
+        {
+          "name": "Univision Noticias",
+          "href": "/noticias",
+          "image": "https://cdn1.uvnimg.com/86/c1/33f407594e6cb59c5ef32b5a4f47/lg-univision-noticias.svg"
+        },
+        {
+          "name": "Univision Deportes",
+          "href": "/deportes",
+          "image": "https://st1.uvnimg.com/b5/c3/75ed4d324d4895db7de69fa7df7d/tudn-hamburger4.svg"
+        },
+        {
+          "name": "Uforia",
+          "href": "/radio",
+          "image": "https://cdn3.uvnimg.com/d2/3a/25dc284849128a210e7e1d556958/lg-uforia.svg"
+        }
+      ]
+    },
+    {
+      "name": "otras cadenas",
+      "items": [
+        {
+          "name": "UniMás",
+          "href": "/unimas",
+          "image": "https://cdn3.uvnimg.com/8a/d9/fe98c1d54d75b45f3383fb590dda/lg-unimas.svg"
+        },
+        {
+          "name": "Galavisión",
+          "href": "/networks/galavision",
+          "image": "https://cdn3.uvnimg.com/74/26/9ce5bb384709a8ee1da7eb9d678d/lg-galavision.svg"
+        }
+      ]
+    }
+  ]
+}

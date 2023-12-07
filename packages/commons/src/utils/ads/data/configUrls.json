@@ -1,0 +1,18 @@
+{
+  "default": {
+    "interval": 3,
+    "injectWidgets": true
+  },
+  "portal": {
+    "interval": 3,
+    "injectWidgets": true
+  },
+  "entretenimiento/*": {
+    "interval": 3,
+    "injectWidgets": true
+  },
+  "deportes/*": {
+    "interval": 3,
+    "injectWidgets": true
+  }
+}

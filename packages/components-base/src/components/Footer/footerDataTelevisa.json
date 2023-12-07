@@ -1,0 +1,95 @@
+{
+
+    "general": {
+      "mainLinks": [
+        {
+          "text": "ACERCA DE TELEVISA",
+          "href": "https://www.televisa.com/corporativo/",
+          "target": "_blank"
+        },
+        {
+          "text": "SALA DE PRENSA",
+          "href": "https://prensa.televisa.com/",
+          "target": "_blank"
+        },
+        {
+          "text": "INVERSIONISTAS",
+          "href": "https://www.televisair.com/",
+          "target": "_blank"
+        },
+        {
+          "text": "SOSTENIBILIDAD",
+          "href": "https://www.televisair.com/~/media/Files/T/Televisa-IR/documents/sostenibilidad19grif-esp.pdf",
+          "target": "_blank"
+        }
+      ],
+      "links": [
+        {
+          "text": "Apps",
+          "href": "https://www.televisa.com/informacion/aplicaciones",
+          "target": "_blank"
+        },
+        {
+          "text": "Anúnciate",
+          "href": "https://televisallega.com/",
+          "target": "_blank",
+          "setCookie": "DO_NOT_SELL"
+        },
+        {
+          "text": "Contáctanos",
+          "href": "https://www.televisa.com/corporativo/contacto",
+          "target": "_blank"
+        },
+        {
+          "text": "Responsable Derecho de Réplica",
+          "href": "https://www.televisa.com/responsable-derecho-replica/",
+          "target": "_blank",
+          "setCookie": "_blank"
+        },
+        {
+          "text": "Convenio Del Usuario",
+          "href": "https://www.televisa.com/convenio-de-usuario/",
+          "target": "_blank"
+        },
+        {
+          "text": "Politica de Privacidad",
+          "href": "https://www.televisa.com/politica-de-privacidad/",
+          "target": "_blank"
+        },
+        {
+          "text": "Oferta Pública de Infraestructura",
+          "href": "https://www.televisa.com/opi/",
+          "target": "_blank"
+        }
+      ],
+      "title": {
+        "text": "ACERCA DE TELEVISA"
+      }
+    },
+    "apps": {
+      "title": {
+        "text": "APPS"
+      },
+      "links": [
+        {
+          "text": "Las Estrellas",
+          "href": "https://www.lasestrellas.tv/",
+          "icon": "lasEstrellasAppBlack",
+          "target": "_blank"
+        },
+        {
+          "text": "ViX",
+          "href": "https://vix.smart.link/vsfeh73sa?device_id=device_id",
+          "icon": "vixApp",
+          "target": "_blank",
+          "viewBox": "0 0 89 34"
+        },
+        {
+          "text": "TUDN",
+          "href": "https://www.tudn.com/aplicacion-de-deportes",
+          "icon": "tudnApp",
+          "target": "_blank"
+        }
+      ]
+    }
+  }

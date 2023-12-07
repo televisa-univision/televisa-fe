@@ -1,0 +1,121 @@
+@mixin stylePlaceholder {
+  ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    @content;
+  }
+  ::-moz-placeholder { /* Firefox 19+ */
+    @content;
+  }
+  :-ms-input-placeholder { /* IE 10+ */
+    @content;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+    @content;
+  }
+}
+
+$form-width: 300px;
+
+.iconSpacer {
+  padding: 10px 5px;
+  width: 40px;
+  text-align: center;
+}
+
+.btnReset {
+  background: transparent;
+  padding: 5px 5px;
+  &:hover {
+    opacity: .8;
+  }
+}
+
+.close {
+  margin-left: auto;
+  z-index: $zindex-above-navigation + 1;
+}
+
+.search {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+
+  @include media-breakpoint-up("sm") {
+    max-width: $form-width;
+    margin: 0 10px;
+  }
+  @include media-breakpoint-up('md') {
+    position: relative;
+  }
+
+  &.searchOpen {
+    flex-grow: 1;
+    border-bottom-color: $white;
+  }
+
+  @include stylePlaceholder {
+    color: $grey;
+    font-weight: 100;
+  }
+}
+
+@-webkit-keyframes autofill {
+  to {
+    color: $white;
+    background: transparent;
+  }
+}
+@-webkit-keyframes autofillLight {
+  to {
+    color: $darker-grey;
+    background: transparent;
+  }
+}
+
+.searchInput {
+  align-self: stretch;
+  flex-grow: 1;
+  -webkit-appearance: textfield;
+  background: transparent;
+  border: 0;
+  padding: 10px;
+  color: $white;
+  font-size: 0.875rem;
+  line-height: 1.0625rem;
+
+  &:focus {
+    outline: 0
+  }
+
+  .darkContrast & {
+    color: $darker-grey;
+  }
+
+  &:-webkit-autofill {
+    -webkit-animation-name: autofill;
+    -webkit-animation-fill-mode: both;
+    .darkContrast & {
+      -webkit-animation-name: autofillLight;
+    }
+  }
+}
+
+.searchForm {
+  flex-direction: row;
+  align-items: center;
+  flex-grow: 1;
+  right: 0;
+  width: 100%;
+  min-width: $form-width;
+  display: none;
+  position: absolute;
+  z-index: $zindex-above-navigation;
+  .searchOpen & {
+    display: flex;
+  }
+  @include media-breakpoint-up("sm") {
+    border-bottom: 1px solid $light-grey;
+  }
+  @include media-breakpoint-up('md') {
+    right: 4px;
+  }
+}

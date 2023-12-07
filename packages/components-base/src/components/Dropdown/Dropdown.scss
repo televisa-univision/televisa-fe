@@ -1,0 +1,32 @@
+.dropdownWrapper {
+  position: relative;
+  max-width: 400px;
+  border: 1px solid $grey;
+
+  .arrow {
+    position: absolute;
+    top: 50%;
+    right: 16px;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+}
+
+.dropdown {
+  background: transparent;
+  padding: 16px 24px 16px 16px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-size: rem(11px);
+  line-height: rem(13px);
+  color: $darker-grey;
+  border: 0;
+  width: 100%;
+  @include uvs-font('a', 'regular');
+  @include media-breakpoint-up('md') {
+    font-size: rem(16px);
+    line-height: rem(22px);
+    padding: 8px 16px 8px 8px;
+  }
+}

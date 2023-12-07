@@ -1,0 +1,524 @@
+{
+  "WLTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-miami"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-miami/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-miami/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-miami/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-miami/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-miami/hospitalidad"
+      }
+    ]
+  },
+  "KDTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-area-de-la-bahia"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-area-de-la-bahia/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-area-de-la-bahia/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-area-de-la-bahia/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-area-de-la-bahia/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-area-de-la-bahia/hospitalidad"
+      }
+    ]
+  },
+  "KXLN": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-houston"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-houston/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-houston/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-houston/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-houston/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-houston/hospitalidad"
+      }
+    ]
+  },
+  "WXTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-nueva-york"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-nueva-york/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-nueva-york/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-nueva-york/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-nueva-york/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-nueva-york/hospitalidad"
+      }
+    ]
+  },
+  "KMEX": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-los-angeles"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-los-angeles/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-los-angeles/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-los-angeles/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-los-angeles/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-los-angeles/hospitalidad"
+      }
+    ]
+  },
+  "WGBO": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-chicago"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-chicago/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-chicago/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-chicago/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-chicago/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-chicago/hospitalidad"
+      }
+    ]
+  },
+  "KAKW": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-austin"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-austin/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-austin/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-austin/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-austin/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-austin/hospitalidad"
+      }
+    ]
+  },
+  "KTVW": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-arizona"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-arizona/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-arizona/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-arizona/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-arizona/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-arizona/hospitalidad"
+      }
+    ]
+  },
+  "KUVS": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-sacramento"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-sacramento/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-sacramento/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-sacramento/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-sacramento/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-sacramento/hospitalidad"
+      }
+    ]
+  },
+  "WUVC": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-north-carolina"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-north-carolina/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-north-carolina/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-north-carolina/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-north-carolina/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-north-carolina/hospitalidad"
+      }
+    ]
+  },
+  "WUVG": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-atlanta"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-atlanta/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-atlanta/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-atlanta/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-atlanta/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-atlanta/hospitalidad"
+      }
+    ]
+  },
+  "WLII": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-puerto-rico"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/hospitalidad"
+      }
+    ]
+  },
+  "KFTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-fresno"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-fresno/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-fresno/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-fresno/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-fresno/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-fresno/hospitalidad"
+      }
+    ]
+  },
+  "WUVP": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-philadelphia"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-philadelphia/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-philadelphia/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-philadelphia/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-philadelphia/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-philadelphia/hospitalidad"
+      }
+    ]
+  },
+  "KUVN": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-dallas"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-dallas/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-dallas/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-dallas/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-dallas/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-dallas/hospitalidad"
+      }
+    ]
+  },
+  "KWEX": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-san-antonio"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-san-antonio/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-san-antonio/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-san-antonio/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-san-antonio/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-san-antonio/hospitalidad"
+      }
+    ]
+  },
+  "KUTH": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/hospitalidad"
+      }
+    ]
+  },
+  "KABE": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-salt-lake-city/hospitalidad"
+      }
+    ]
+  }
+}

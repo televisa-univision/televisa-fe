@@ -1,0 +1,55 @@
+.headerContainer {
+  background: $black-fade-top-left-to-bottom-right;
+  color: white;
+  height: 190px;
+  padding: 16px 23px 0 23px;
+  z-index: 1;
+}
+
+.headerTitle {
+  font-size: rem(22px);
+  line-height: rem(26px);
+}
+
+.meta {
+  div {
+    background-color: transparent;
+    > div > div {
+      flex-direction: row;
+
+      // Design required using custom media breakpoints
+      @media (min-width: 375px) and (max-width: 400px) {
+        div:nth-child(1) {
+          // Targets 1+ author container
+          width: 75%;
+        }
+      }
+    }
+  }
+  span {
+    font-size: rem(11px);
+    line-height: rem(13px);
+    position: relative;
+    span {
+      background-color: transparent;
+      color: $white;
+    }
+    &::after {
+      color: $grey-black;
+    }
+  }
+}
+
+.author {
+  span {
+    span {
+      @include uvs-font('a', 'regular');
+      color: $white;
+    }
+  }
+}
+
+.date {
+  @include uvs-font('a', 'bold');
+  color: $silver-chalice;
+}

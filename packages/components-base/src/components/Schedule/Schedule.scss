@@ -1,0 +1,55 @@
+.container {
+  position: relative;
+
+  @include media-breakpoint-up('sm') {
+    margin: 0 25px;
+  }
+}
+
+.carousel {
+  position: relative;
+  z-index: 1;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+
+  &:after {
+    content: '';
+    height: 1px;
+    width: 28px;
+    background-color: $light-grey;
+    display: block;
+    margin: 18px auto 0;
+  }
+
+  @include media-breakpoint-up('sm') {
+    margin-top: 0;
+    text-align: left;
+    border-right: 1px solid $light-grey;
+    padding: 0 20px 0 20px;
+    height: 67px;
+
+    &:after {
+      display: none;
+    }
+  }
+}
+
+.time {
+  margin: 0;
+  color: $grey-black;
+  font-size: rem(11px);
+  line-height: rem(13px);
+  text-transform: uppercase;
+}
+
+.title {
+  margin: 0;
+  font-size: rem(18px);
+  line-height: rem(22px);
+}

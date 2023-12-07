@@ -1,0 +1,48 @@
+{
+  "uri": "/test/e2e-page-do-not-edit-regular-section",
+  "ads": {
+    "mobile": {
+      "top": "client=mobile&pos=TOP"
+    },
+    "desktop": {
+      "top": "client=desktop&pos=TOP"
+    }
+  },
+  "selectors": {
+    "sectionAd": "[data-widget-type='SectionAd']",
+    "topAd": ".uvs-ad-full-width:first",
+    "footer": "footer",
+    "widgets": ".widget[data-widget-type != 'SectionAd']",
+    "widgetLead": ".uvs-widget-lead:visible:first"
+  },
+  "tracking": {
+    "dataLayer": {
+      "mobile": {
+        "adtag_value": "section_test/testnavigationsection",
+        "content_created_date": "2019-06-17",
+        "content_id": "0000016b-662a-d14e-ad6b-ffae907b0000",
+        "content_type": "section",
+        "content_vertical": "test",
+        "permalink": "https://uat2.x.univision.com/test/e2e-page-do-not-edit-regular-section",
+        "platform": "website",
+        "section_category": "landing page",
+        "section_level1": "test navigation section",
+        "title": "e2e page - do not edit - section page",
+        "adtag_platform_prefix": "/rm"
+      },
+      "desktop": {
+        "adtag_value": "section_test/testnavigationsection",
+        "content_created_date": "2019-06-17",
+        "content_id": "0000016b-662a-d14e-ad6b-ffae907b0000",
+        "content_type": "section",
+        "content_vertical": "test",
+        "permalink": "https://uat2.x.univision.com/test/e2e-page-do-not-edit-regular-section",
+        "platform": "website",
+        "section_category": "landing page",
+        "section_level1": "test navigation section",
+        "title": "e2e page - do not edit - section page",
+        "adtag_platform_prefix": "/rd"
+      }
+    }
+  }
+}

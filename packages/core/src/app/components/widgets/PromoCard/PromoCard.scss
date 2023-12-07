@@ -1,0 +1,68 @@
+/**
+ * PROMO CARD WIDGET STYLES
+ */
+
+
+.promoCardWidget {
+  align-self: center;
+  margin-bottom: 18px;
+}
+
+.promoCardList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.promoCard {
+  position: relative;
+  width: 300px;
+  height: 300px;
+
+  div {
+    padding-bottom: 0;
+    @include media-breakpoint-up("sm") {
+      padding-bottom: 0;
+    }
+    &:after {
+      top: auto;
+      bottom: 0;
+      padding-bottom: 0;
+      height: 100%;
+    }
+  }
+
+  a {
+    div:first-child {
+      height: 300px;
+    }
+    div:last-child {
+      height: 50%;
+      bottom: 0;
+
+      div:last-child {
+        height: auto;
+        bottom: 17px;
+        padding: 13px 35px;
+        position: absolute;
+        min-width: 140px;
+        text-align: center;
+      }
+      h3 {
+        width: 100%;
+        font-size: 14px;
+        line-height: 17px;
+        color: $white;
+        position: absolute;
+        top: 14px;
+        text-align: center;
+        text-transform: uppercase;
+        padding: 0 20px;
+
+        &:first-line {
+          @include uvs-font('a', 'bold');
+        }
+      }
+    }
+  }
+}

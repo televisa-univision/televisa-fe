@@ -1,0 +1,448 @@
+[
+  {
+    "type": "article",
+    "uid": "00000176-f2fa-db20-a5ff-f3fb72450002",
+    "uri": "https://www.tudn.com/futbol/liga-mx/america-recuperar-nicolas-benedetti-emanuel-aguilera-rayados",
+    "vertical": "Deportes",
+    "parent": {
+      "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+      "uri": "https://www.tudn.com/futbol/liga-mx",
+      "name": "liga mx",
+      "title": "Liga MX"
+    },
+    "title": "América puede recuperar piezas importantes contra Rayados",
+    "description": "A mes y medio de sus lesiones, ambos jugadores posiblemente serán tomados cuenta en América ante Monterrey.",
+    "image": {
+      "type": "image",
+      "uid": "00000176-f32d-d3db-adf6-f3ffa1190000",
+      "title": "9a6c383fb96745beb69e3605282abb30",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/5c/81/ba35f39349678165bcad007bd714/9a6c383fb96745beb69e3605282abb30",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "authors": [
+      {
+        "fullName": "Antonio Quiroga",
+        "image": {
+          "type": "image",
+          "uid": "00000175-00c5-d108-a97d-3ee7cecf0000",
+          "title": "IMG-20191017-WA0017.jpg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/84/6b/cdd76bb24c6585c05c315992d7d6/img-20191017-wa0017.jpg",
+              "width": 425,
+              "height": 321
+            }
+          }
+        },
+        "uri": "https://www.tudn.com/temas/antonio-quiroga",
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedinUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": {
+            "text": "Antonio Quiroga/Twitter",
+            "name": "Twitter",
+            "url": "https://twitter.com/TonoQuiroga",
+            "target": "_blank"
+          },
+          "youTubeUrl": null
+        },
+        "link": null,
+        "mediaCompany": null,
+        "designation": null,
+        "description": "",
+        "address": null,
+        "phoneNumber": null,
+        "website": null
+      }
+    ],
+    "cardLabel": null,
+    "updateDate": "2021-01-11T15:45:09-05:00",
+    "publishDate": "2021-01-11T15:11:35-05:00",
+    "expirationDate": null,
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/wNO9102wvmt",
+          "isFeedDialog": false,
+          "title": "América puede recuperar piezas importantes contra Rayados",
+          "description": "A mes y medio de sus lesiones, ambos jugadores posiblemente serán tomados cuenta en América ante Monterrey.",
+          "imageUrl": "https://st1.uvnimg.com/5c/81/ba35f39349678165bcad007bd714/9a6c383fb96745beb69e3605282abb30",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/wNO9102wvmt",
+          "title": "América puede recuperar piezas importantes contra Rayados",
+          "via": "TUDNUSA"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/wNO9102wvmt",
+          "message": "América puede recuperar piezas importantes contra Rayados"
+        },
+        "mail": {
+          "subject": "América puede recuperar piezas importantes contra Rayados",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmérica puede recuperar piezas importantes contra Rayados\n\nEncuéntralo en este enlace:http://uni.vi/wNO9102wvmt\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri": "https://www.tudn.com",
+        "name": "deportes",
+        "title": "Deportes"
+      },
+      {
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri": "https://www.tudn.com/futbol",
+        "name": "futbol",
+        "title": "Fútbol"
+      },
+      {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://www.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      }
+    ],
+    "disableReactions": false,
+    "contentPriority": "STANDARD",
+    "leadType": "video",
+    "readTime": 2,
+    "articleType": "Standard",
+    "body": [],
+    "jwRecommendationChannel": "3xQGeJjl",
+    "dynamicPlaylist": false,
+    "useWebviewInApps": false,
+    "primaryTag": {
+      "name": "América",
+      "link": "https://www.tudn.com/futbol/liga-mx/america"
+    }
+  },
+  {
+    "type": "video",
+    "uid": "00000176-edc8-d422-ab76-efe8d0610001",
+    "uri": "https://www.tudn.com/futbol/liga-mx/esta-no-la-deja-ir-estrada-anota-el-gol-del-3-1-para-toluca-video",
+    "vertical": "Deportes",
+    "parent": {
+      "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+      "uri": "https://www.tudn.com/futbol/liga-mx",
+      "name": "liga mx",
+      "title": "Liga MX"
+    },
+    "title": "¡Esta no la deja ir! Estrada anota el gol del 3-1 para Toluca",
+    "description": "El delantero de los Diablos quedó solo frente a la meta de Querétaro y definió cruzado a la esquina.",
+    "image": {
+      "type": "image",
+      "uid": "00000176-edc9-d3db-adf6-efff9aae0000",
+      "title": "2337a9c22206418297ca71a8ff42b369",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/10/93/03f733864cafb2385c1f2225e663/2337a9c22206418297ca71a8ff42b369",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2021-01-10T14:33:49-05:00",
+    "publishDate": "2021-01-10T14:25:00-05:00",
+    "expirationDate": "2022-01-10T14:25:00-05:00",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/Gx3U102wtaR",
+          "isFeedDialog": false,
+          "title": "¡Esta no la deja ir! Estrada anota el gol del 3-1 para Toluca",
+          "description": "El delantero de los Diablos quedó solo frente a la meta de Querétaro y definió cruzado a la esquina.",
+          "imageUrl": "https://st1.uvnimg.com/10/93/03f733864cafb2385c1f2225e663/2337a9c22206418297ca71a8ff42b369",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/Gx3U102wtaR",
+          "title": "¡Esta no la deja ir! Estrada anota el gol del 3-1 para Toluca",
+          "via": "TUDNUSA"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/Gx3U102wtaR",
+          "message": "¡Esta no la deja ir! Estrada anota el gol del 3-1 para Toluca"
+        },
+        "mail": {
+          "subject": "¡Esta no la deja ir! Estrada anota el gol del 3-1 para Toluca",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¡Esta no la deja ir! Estrada anota el gol del 3-1 para Toluca\n\nEncuéntralo en este enlace:http://uni.vi/Gx3U102wtaR\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri": "https://www.tudn.com",
+        "name": "deportes",
+        "title": "Deportes"
+      },
+      {
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri": "https://www.tudn.com/futbol",
+        "name": "futbol",
+        "title": "Fútbol"
+      },
+      {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://www.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      }
+    ],
+    "disableReactions": false,
+    "contentPriority": "STANDARD",
+    "mcpid": "3975683",
+    "durationString": "1:05",
+    "episodeNo": null,
+    "authRequired": false,
+    "longform": false,
+    "longformPlayList": false,
+    "hasNextEpisode": false,
+    "source": "TUDN.com",
+    "previewUrl": "2022-01-10_3975683.mp4",
+    "show": null,
+    "categories": ["Futbol", "Deportes"],
+    "dateCreated": "2021-01-10T14:27:33-05:00",
+    "airDate": "2021-01-10T14:25:00-05:00",
+    "rating": "TV-Y",
+    "season": 2021,
+    "series": "456",
+    "seriesName": "Liga MX Live",
+    "registryEntries": [
+      {
+        "assetIdentifier": "¡Esta no la deja ir! Estrada anota el gol del 3-1 para Toluca",
+        "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+      }
+    ],
+    "headline": null,
+    "keywords": ["Toluca", "gol", "Querétaro", "Liga MX", "Michael Estrada"],
+    "language": "es",
+    "accessRules": [
+      {
+        "name": "US/PTO.RICO",
+        "access": "private",
+        "match": "any",
+        "conditions": [
+          {
+            "scope": "country",
+            "value": "US",
+            "rangeStart": null,
+            "rangeEnd": null
+          },
+          {
+            "scope": "country",
+            "value": "PR",
+            "rangeStart": null,
+            "rangeEnd": null
+          }
+        ]
+      }
+    ],
+    "adConfig": {
+      "contextBased": "Deny",
+      "inVideo": "Allow",
+      "inStream": "Allow",
+      "hasPreRoll": "Allow",
+      "hasPostRoll": "Allow"
+    },
+    "transcriptLinks": [
+      {
+        "link": "https://vmscdn-download.storage.googleapis.com/captionupl/EF1/2B8/EF12B87588EE4323971D4FE7F56F4E23.vtt",
+        "linkQualifierFmg": {
+          "contentType": "VTT"
+        }
+      }
+    ],
+    "snapshotLinks": [
+      "https://vmscdn-download.storage.googleapis.com/iupl/403/4FF/4034FF083DEB47898F52DC13CE64B1C1.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1704915159&Signature=Cf%2BelSyiFGtcKAMVGNStzqWF5v9W9F1sO6gKNzJbcEH6pzvdxGsxg44dyjtwRIsLSRifeqZAXSuW7VO0ufFb4doGQA6rSJrT3ZKIzQIv4pUqR6FrFSMQTh1qx2Nvg6quGdGziZzhj%2FG2%2BwysxeJDA%2FO10n1nuuc8KsL1YVKWuC9J7hPIINhkuVMoJqbvsPxon91uL8Xu%2F1D%2BegqSDHgH28vN5cVkswegIan38JvqgAQyoyJoECDFPT8OJx3kvwJSa6BBddreXIFvW6J4A%2FJc8%2FrM2g3UFLqW%2FBC%2F0O6AKdFYh58wVaiiHa9tcHF4J%2BfjCHzfjGp57ZaP2AuCExgmFg%3D%3D",
+      "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3975683/4034FF083DEB47898F52DC13CE64B1C1_190x107.jpg"
+    ],
+    "copyrightYear": 2021,
+    "copyrightOwners": ["© Televisa"],
+    "supplier": "Televisa",
+    "videoBitrate": 2436,
+    "network": "",
+    "networks": [],
+    "videoType": "clip",
+    "titleManagement": {
+      "tvShowSeason": "",
+      "tvShow": ""
+    },
+    "videoSubType": "Liveclip",
+    "adContentType": "Sports",
+    "advertiser": "",
+    "is360": false,
+    "primaryTopic": "",
+    "videoRecirc": true,
+    "tvssDomain": "https://usprauth.univision.com",
+    "thumbnailImage": "https://st1.uvnimg.com/dims4/default/43d73e4/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2F93%2F03f733864cafb2385c1f2225e663%2F2337a9c22206418297ca71a8ff42b369",
+    "shortUrl": "http://uni.vi/Gx3U102wtaR",
+    "permalink": "https://www.tudn.com/futbol/liga-mx/esta-no-la-deja-ir-estrada-anota-el-gol-del-3-1-para-toluca-video",
+    "adSettings": {
+      "disable3rdPartyAds": false,
+      "disableAds": false,
+      "disableVideoAds": false,
+      "adTagValue": "video_deportes/futbol/ligamx",
+      "targeting": {
+        "vertical": "deportes",
+        "tag": ["toluca", "queretaro", "ligamx"]
+      },
+      "contentSpecificSettings": {}
+    },
+    "jwKey": "PHFDuK2S",
+    "primaryTag": {
+      "name": "Toluca",
+      "link": "https://www.tudn.com/futbol/liga-mx/toluca"
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  },
+  {
+    "type": "slideshow",
+    "uid": "00000176-ed9b-dc4f-abfe-ed9b158b004c",
+    "uri": "https://www.univision.com/famosos/lucia-mendez-abuela-nieta-fotos",
+    "vertical": "Entretenimiento",
+    "parent": {
+      "uuid": "00000166-4216-dd50-a166-e73f34130000",
+      "uri": "https://www.univision.com/famosos",
+      "name": "famosos",
+      "title": "Famosos"
+    },
+    "title": "Lucía Méndez ya es abuela a sus casi 66 años y así presentó a su primera nieta ",
+    "description": "A dos semanas de que cumpla los 66 años, Lucía Méndez se convirtió este domingo 10 de enero en abuela. Con orgullo, presentó al retoño de su único hijo, Pedro Antonio Torres. ",
+    "image": {
+      "type": "image",
+      "uid": "00000176-ed9b-dc4f-abfe-ed9b158b0026",
+      "title": "thumb lucia.jpg",
+      "caption": "Lucía Méndez ya es abuela a sus casi 66 años y así presentó a su primera nieta",
+      "credit": "Lucía Méndez/Instagram y Mezcalent",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/f4/51/8ababfa748668b60e8a90e058348/thumb-lucia.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2021-01-10T14:52:37-05:00",
+    "publishDate": "2021-01-10T14:45:07-05:00",
+    "expirationDate": null,
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/9vLq102wtc7",
+          "isFeedDialog": false,
+          "title": "Lucía Méndez ya es abuela a sus casi 66 años y así presentó a su primera nieta ",
+          "description": "A dos semanas de que cumpla los 66 años, Lucía Méndez se convirtió este domingo 10 de enero en abuela. Con orgullo, presentó al retoño de su único hijo, Pedro Antonio Torres.",
+          "imageUrl": "https://st1.uvnimg.com/21/d1/1bdbfe224855819ff76f78584561/luciamendezof-107434458-1443145455870168-8649296847431085191-n.jpg",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/9vLq102wtc7",
+          "title": "Lucía Méndez ya es abuela a sus casi 66 años y así presentó a su primera nieta ",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/9vLq102wtc7",
+          "message": "Lucía Méndez ya es abuela a sus casi 66 años y así presentó a su primera nieta "
+        },
+        "mail": {
+          "subject": "Lucía Méndez ya es abuela a sus casi 66 años y así presentó a su primera nieta ",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLucía Méndez ya es abuela a sus casi 66 años y así presentó a su primera nieta \n\nEncuéntralo en este enlace:http://uni.vi/9vLq102wtc7\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "00000166-4216-dd50-a166-e73f34130000",
+        "uri": "https://www.univision.com/famosos",
+        "name": "famosos",
+        "title": "Famosos"
+      }
+    ],
+    "disableReactions": false,
+    "contentPriority": "STANDARD",
+    "slideshowType": "verticalslideshow",
+    "slideCount": 17,
+    "cardImages": [
+      {
+        "type": "image",
+        "uid": "00000173-5e2a-d620-adf7-5f6ba0400000",
+        "title": "8532-LuciaMendez012jaulalocas700.jpg",
+        "caption": "Lucía Méndez",
+        "credit": "Mezcalent",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/a1/30/289755404c62b555e347bd52461d/8532-luciamendez012jaulalocas700.jpg",
+            "width": 2000,
+            "height": 3000,
+            "focusPoint": {
+              "x": 0.4976148078013777,
+              "y": 0.16346153846153846
+            }
+          }
+        }
+      },
+      {
+        "type": "image",
+        "uid": "00000173-2717-db68-af7f-677f86c70000",
+        "title": "d5b36b66839d4000b4e344b97adb2989",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/05/b3/a385e1c2445cb63be890a173bab0/d5b36b66839d4000b4e344b97adb2989",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      {
+        "type": "image",
+        "uid": "00000173-6959-d87a-adf7-fb5bcab90000",
+        "title": "lucia abuela extra2.png",
+        "caption": "Pedro Torres",
+        "credit": "Pedro Torres/Instagram",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/a3/f0/7340420b4d729d23571563d3337b/lucia-abuela-extra2.png",
+            "width": 640,
+            "height": 1136,
+            "focusPoint": {
+              "x": 0.48291491306066325,
+              "y": 0.5490196078431373
+            }
+          }
+        }
+      }
+    ],
+    "jwRecommendationChannel": "78MDrZDv",
+    "primaryTag": {
+      "name": "Lucía Méndez",
+      "link": "https://www.univision.com/temas/lucia-mendez"
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  }
+]

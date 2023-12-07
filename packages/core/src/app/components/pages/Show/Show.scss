@@ -1,0 +1,18 @@
+:global([data-widget-type="LongFormTrailer"]) {
+  display: none;
+}
+
+.showPage-dark {
+  background-color: $black;
+  color: $white;
+}
+
+.showPage-light {
+  background-color: $white;
+}
+
+.tabs-dark {
+  button {
+    color: $white;
+  }
+}

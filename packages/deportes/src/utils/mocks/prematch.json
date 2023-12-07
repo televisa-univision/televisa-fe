@@ -1,0 +1,2824 @@
+{
+  "sports-content":{
+    "sports-metadata":{
+      "doc-id":"schedule-results:2018-04-20T08:58:38Z",
+      "fixture-key":"schedule-results",
+      "fixture-name":"Results Schedule",
+      "sports-title":"Results Schedule"
+    },
+    "schedule":[
+      {
+        "schedule-metadata":{
+          "team-coverage":"multi-team"
+        },
+        "sports-event":[
+          {
+            "event-metadata":{
+              "event-key":"943099",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-04-09T19:00:00Z",
+              "event-type":"Regular",
+              "event-name":"Villarreal vs Athletic Club",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"31"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"1366",
+                  "name":{
+                    "full":"Estadio de la Cerámica"
+                  },
+                  "capacity":"53332",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943099"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"174"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"449",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Villarreal",
+                    "abbreviation":"VIL"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/449"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"3",
+                  "event-outcome":"loss"
+                },
+                "associate":[
+                  {
+                    "id":"49108",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"49108",
+                      "name":{
+                        "first":"Javier",
+                        "last":"Calleja",
+                        "full":"Javier Calleja"
+                      }
+                    }
+                  },
+                  {
+                    "id":"38387",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"38387",
+                      "name":{
+                        "first":"Fernando",
+                        "last":"Roig Alfonso",
+                        "full":"Fernando Roig Alfonso"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"3",
+                  "score-opposing":"1",
+                  "event-outcome":"win"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"41447",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Ignacio",
+                      "last":"Iglesias Villanueva",
+                      "full":"Ignacio Iglesias Villanueva"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44423",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Alfonso",
+                      "last":"Costoya Rodríguez",
+                      "full":"Alfonso Costoya Rodríguez"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44424",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Enrique José",
+                      "last":"Ramos Ferreiros",
+                      "full":"Enrique José Ramos Ferreiros"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"48828",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Mohamed",
+                      "last":"Massat",
+                      "full":"Mohamed Massat"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943114",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-04-14T18:45:00Z",
+              "event-type":"Regular",
+              "event-name":"Athletic Club vs Deportivo de La Coruña",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"32"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"8973",
+                  "name":{
+                    "full":"San Mamés"
+                  },
+                  "capacity":"34600",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943114"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"174"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"2",
+                  "score-opposing":"3",
+                  "event-outcome":"loss"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"180",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Deportivo de La Coruña",
+                    "abbreviation":"DEP"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/180"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"3",
+                  "score-opposing":"2",
+                  "event-outcome":"win"
+                },
+                "associate":[
+                  {
+                    "id":"43844",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"43844",
+                      "name":{
+                        "first":"Constantino",
+                        "last":"Fernández",
+                        "full":"Constantino Fernández"
+                      }
+                    }
+                  },
+                  {
+                    "id":"43829",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"43829",
+                      "name":{
+                        "first":"Clarence",
+                        "last":"Seedorf",
+                        "full":"Clarence Seedorf"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"41203",
+                    "position":"Referee",
+                    "name":{
+                      "first":"José Luis",
+                      "last":"González González",
+                      "full":"José Luis González González"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44390",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Rubén",
+                      "last":"Becerril Gómez",
+                      "full":"Rubén Becerril Gómez"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44359",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Ignacio",
+                      "last":"Rubio Palomino",
+                      "full":"Ignacio Rubio Palomino"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46304",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Jerónimo",
+                      "last":"Montes García-Navas",
+                      "full":"Jerónimo Montes García-Navas"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943103",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-04-08T14:15:00Z",
+              "event-type":"Regular",
+              "event-name":"Real Madrid vs Atlético de Madrid",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"31"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"1360",
+                  "name":{
+                    "full":"Santiago Bernabéu"
+                  },
+                  "capacity":"68000",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943103"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"186"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"1",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"175",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Atlético de Madrid",
+                    "abbreviation":"ATM"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/175"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"1",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"46391",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46391",
+                      "name":{
+                        "first":"Germán",
+                        "last":"Burgos",
+                        "full":"Germán Burgos"
+                      }
+                    }
+                  },
+                  {
+                    "id":"38360",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"38360",
+                      "name":{
+                        "first":"Enrique",
+                        "last":"Cerezo",
+                        "full":"Enrique Cerezo"
+                      }
+                    }
+                  },
+                  {
+                    "id":"38361",
+                    "associate-metadata":{
+                      "position":"Director, Head of Board",
+                      "associate-key":"38361",
+                      "name":{
+                        "first":"Miguel Ángel",
+                        "last":"Gil Marín",
+                        "full":"Miguel Ángel Gil Marín"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37905",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37905",
+                      "name":{
+                        "first":"Diego",
+                        "last":"Simeone",
+                        "full":"Diego Simeone"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"41204",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Javier",
+                      "last":"Estrada Fernández",
+                      "full":"Javier Estrada Fernández"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44363",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Miguel",
+                      "last":"Martínez Munuera",
+                      "full":"Miguel Martínez Munuera"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44401",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Francisco Javier",
+                      "last":"Martín García",
+                      "full":"Francisco Javier Martín García"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46390",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Pere",
+                      "last":"Barcelo Roca",
+                      "full":"Pere Barcelo Roca"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943118",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-04-15T18:45:00Z",
+              "event-type":"Regular",
+              "event-name":"Málaga vs Real Madrid",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"32"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"1354",
+                  "name":{
+                    "full":"La Rosaleda"
+                  },
+                  "capacity":"85454",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943118"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"186"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"182",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Málaga",
+                    "abbreviation":"MAL"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/182"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"2",
+                  "event-outcome":"loss"
+                },
+                "associate":[
+                  {
+                    "id":"41313",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41313",
+                      "name":{
+                        "first":"Sheik",
+                        "last":"Abdullah Al-Thani",
+                        "full":"Sheik Abdullah Al-Thani"
+                      }
+                    }
+                  },
+                  {
+                    "id":"249",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"249",
+                      "name":{
+                        "first":"José",
+                        "last":"González",
+                        "full":"José González"
+                      }
+                    }
+                  },
+                  {
+                    "id":"47995",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"47995",
+                      "name":{
+                        "first":"Weligton Robson",
+                        "last":"Pena",
+                        "full":"Weligton Robson Pena"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"2",
+                  "score-opposing":"1",
+                  "event-outcome":"win"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"42060",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Ricardo",
+                      "last":"de Burgos Bengoetxea",
+                      "full":"Ricardo de Burgos Bengoetxea"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44366",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Javier",
+                      "last":"Aguilar Rodríguez",
+                      "full":"Javier Aguilar Rodríguez"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44422",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Jon",
+                      "last":"Núñez Fernández",
+                      "full":"Jon Núñez Fernández"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46157",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Ramón",
+                      "last":"Arias Madrid",
+                      "full":"Ramón Arias Madrid"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943081",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-03-18T15:15:00Z",
+              "event-type":"Regular",
+              "event-name":"Barcelona vs Athletic Club",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"29"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"1349",
+                  "name":{
+                    "full":"Camp Nou"
+                  },
+                  "capacity":"53332",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943081"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"174"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"178",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Barcelona",
+                    "abbreviation":"BCN"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/178"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"2",
+                  "score-opposing":"0",
+                  "event-outcome":"win"
+                },
+                "associate":[
+                  {
+                    "id":"43849",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"43849",
+                      "name":{
+                        "first":"Josep María",
+                        "last":"Bartomeu",
+                        "full":"Josep María Bartomeu"
+                      }
+                    }
+                  },
+                  {
+                    "id":"110",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"110",
+                      "name":{
+                        "first":"Ernesto",
+                        "last":"Valverde",
+                        "full":"Ernesto Valverde"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"2",
+                  "event-outcome":"loss"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"42133",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Santiago",
+                      "last":"Jaime Latre",
+                      "full":"Santiago Jaime Latre"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44414",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Jorge",
+                      "last":"Bueno Mateo",
+                      "full":"Jorge Bueno Mateo"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44381",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Fernando",
+                      "last":"Tresaco Escabosa",
+                      "full":"Fernando Tresaco Escabosa"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"49169",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Alberto",
+                      "last":"Lou Ballano",
+                      "full":"Alberto Lou Ballano"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943093",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-03-31T14:15:00Z",
+              "event-type":"Regular",
+              "event-name":"Athletic Club vs Celta de Vigo",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"30"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"8973",
+                  "name":{
+                    "full":"San Mamés"
+                  },
+                  "capacity":"31800",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943093"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"174"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"1",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"176",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Celta de Vigo",
+                    "abbreviation":"CEL"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/176"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"1",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"41327",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41327",
+                      "name":{
+                        "first":"Carlos",
+                        "last":"Mouriño",
+                        "full":"Carlos Mouriño"
+                      }
+                    }
+                  },
+                  {
+                    "id":"40109",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"40109",
+                      "name":{
+                        "first":"Juan Carlos",
+                        "last":"Unzué",
+                        "full":"Juan Carlos Unzué"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"42054",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Carlos",
+                      "last":"del Cerro Grande",
+                      "full":"Carlos del Cerro Grande"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"40983",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Juan Carlos",
+                      "last":"Yuste Jiménez",
+                      "full":"Juan Carlos Yuste Jiménez"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"43450",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Abraham",
+                      "last":"Álvarez Cantón",
+                      "full":"Abraham Álvarez Cantón"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44150",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Óscar",
+                      "last":"Herrero Arenas",
+                      "full":"Óscar Herrero Arenas"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943098",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-03-31T16:30:00Z",
+              "event-type":"Regular",
+              "event-name":"Las Palmas vs Real Madrid",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"30"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"3617",
+                  "name":{
+                    "full":"Estadio de Gran Canaria"
+                  },
+                  "capacity":"85454",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943098"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"186"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"407",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Las Palmas",
+                    "abbreviation":"LPA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/407"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"3",
+                  "event-outcome":"loss"
+                },
+                "associate":[
+                  {
+                    "id":"39718",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"39718",
+                      "name":{
+                        "first":"Paco",
+                        "last":"Jémez",
+                        "full":"Paco Jémez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41336",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41336",
+                      "name":{
+                        "first":"Miguel Ángel",
+                        "last":"Ramírez",
+                        "full":"Miguel Ángel Ramírez"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"3",
+                  "score-opposing":"0",
+                  "event-outcome":"win"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"42691",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Pablo",
+                      "last":"González Fuertes",
+                      "full":"Pablo González Fuertes"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44400",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"José Manuel",
+                      "last":"Fernández Miranda",
+                      "full":"José Manuel Fernández Miranda"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44417",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"César",
+                      "last":"García Fernández",
+                      "full":"César García Fernández"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46726",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"José Alberto",
+                      "last":"Pardeiro Puente",
+                      "full":"José Alberto Pardeiro Puente"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943087",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-03-18T19:45:00Z",
+              "event-type":"Regular",
+              "event-name":"Real Madrid vs Girona",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"29"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"1360",
+                  "name":{
+                    "full":"Santiago Bernabéu"
+                  },
+                  "capacity":"9286",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943087"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-four-games-for-team",
+                  "value":"186"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"6",
+                  "score-opposing":"3",
+                  "event-outcome":"win"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"2893",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Girona",
+                    "abbreviation":"GIR"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/2893"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"3",
+                  "score-opposing":"6",
+                  "event-outcome":"loss"
+                },
+                "associate":[
+                  {
+                    "id":"45712",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"45712",
+                      "name":{
+                        "first":"Delfí",
+                        "last":"Geli",
+                        "full":"Delfí Geli"
+                      }
+                    }
+                  },
+                  {
+                    "id":"45860",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"45860",
+                      "name":{
+                        "first":"Jordi",
+                        "last":"Guerrero",
+                        "full":"Jordi Guerrero"
+                      }
+                    }
+                  },
+                  {
+                    "id":"40834",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"40834",
+                      "name":{
+                        "first":"Pablo",
+                        "last":"Machín",
+                        "full":"Pablo Machín"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"42061",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Jesús",
+                      "last":"Gil Manzano",
+                      "full":"Jesús Gil Manzano"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44362",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Ángel",
+                      "last":"Nevado Rodríguez",
+                      "full":"Ángel Nevado Rodríguez"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44377",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Javier Carlos",
+                      "last":"Martínez Nicolás",
+                      "full":"Javier Carlos Martínez Nicolás"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44993",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Abraham",
+                      "last":"Domínguez Cervantes",
+                      "full":"Abraham Domínguez Cervantes"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"942938",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2017-12-02T19:45:00Z",
+              "event-type":"Regular",
+              "event-name":"Athletic Club vs Real Madrid",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"14"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"8973",
+                  "name":{
+                    "full":"San Mamés"
+                  },
+                  "capacity":"85454",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"942938"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-three-games-between-teams-for-event",
+                  "value":"943127"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"0",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"0",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"41066",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Antonio Miguel",
+                      "last":"Mateu Lahoz",
+                      "full":"Antonio Miguel Mateu Lahoz"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"43864",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Pau",
+                      "last":"Cebrián Devís",
+                      "full":"Pau Cebrián Devís"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"43448",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Teodoro",
+                      "last":"Sobrino Magán",
+                      "full":"Teodoro Sobrino Magán"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46159",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Rubén",
+                      "last":"Ruiperez Marín",
+                      "full":"Rubén Ruiperez Marín"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"9429385",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2017-12-02T19:45:00Z",
+              "event-type":"Regular",
+              "event-name":"Athletic Club vs Real Madrid",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"14"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"8973",
+                  "name":{
+                    "full":"San Mamés"
+                  },
+                  "capacity":"85454",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"942938"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-three-games-between-teams-for-event",
+                  "value":"943127"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"0",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"0",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"41066",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Antonio Miguel",
+                      "last":"Mateu Lahoz",
+                      "full":"Antonio Miguel Mateu Lahoz"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"43864",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Pau",
+                      "last":"Cebrián Devís",
+                      "full":"Pau Cebrián Devís"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"43448",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Teodoro",
+                      "last":"Sobrino Magán",
+                      "full":"Teodoro Sobrino Magán"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46159",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Rubén",
+                      "last":"Ruiperez Marín",
+                      "full":"Rubén Ruiperez Marín"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"9429383",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2017-12-02T19:45:00Z",
+              "event-type":"Regular",
+              "event-name":"Athletic Club vs Real Madrid",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"14"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"8973",
+                  "name":{
+                    "full":"San Mamés"
+                  },
+                  "capacity":"85454",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"942938"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                },
+                {
+                  "formal-name":"previous-three-games-between-teams-for-event",
+                  "value":"943127"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"0",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"5",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"41066",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Antonio Miguel",
+                      "last":"Mateu Lahoz",
+                      "full":"Antonio Miguel Mateu Lahoz"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"43864",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Pau",
+                      "last":"Cebrián Devís",
+                      "full":"Pau Cebrián Devís"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"43448",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Teodoro",
+                      "last":"Sobrino Magán",
+                      "full":"Teodoro Sobrino Magán"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46159",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Rubén",
+                      "last":"Ruiperez Marín",
+                      "full":"Rubén Ruiperez Marín"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata":{
+              "event-key":"943127",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-04-18T19:30:00Z",
+              "event-type":"Regular",
+              "event-name":"Real Madrid vs Athletic Club",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"33",
+                "period-value":"2"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"1360",
+                  "name":{
+                    "full":"Santiago Bernabéu"
+                  },
+                  "capacity":"53332",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "period-start-date-time":"2018-04-20T21:50:20Z",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"23"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"943127"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"maximum-number-of-weeks",
+                  "value":"38"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"23",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"Spanish La Liga",
+                    "code-key":"ES_PL",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  }
+                ]
+              }
+            },
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"186",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Real Madrid",
+                    "abbreviation":"RMA"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/186"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"1",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"46440",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46440",
+                      "name":{
+                        "first":"David",
+                        "last":"Bettoni",
+                        "full":"David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id":"41317",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41317",
+                      "name":{
+                        "first":"Florentino",
+                        "last":"Pérez",
+                        "full":"Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id":"44585",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"44585",
+                      "name":{
+                        "first":"Zinedine",
+                        "last":"Zidane",
+                        "full":"Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"174",
+                  "alignment":"away",
+                  "name":{
+                    "full":"Athletic Club",
+                    "abbreviation":"ATH"
+                  },
+                  "sports-property":[
+                    {
+                      "formal-name":"logo",
+                      "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/174"
+                    }
+                  ]
+                },
+                "team-stats":{
+                  "score":"1",
+                  "score-opposing":"1",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"41306",
+                    "associate-metadata":{
+                      "position":"President",
+                      "associate-key":"41306",
+                      "name":{
+                        "first":"Josu",
+                        "last":"Urrutia",
+                        "full":"Josu Urrutia"
+                      }
+                    }
+                  },
+                  {
+                    "id":"37329",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"37329",
+                      "name":{
+                        "first":"José Ángel",
+                        "last":"Ziganda",
+                        "full":"José Ángel Ziganda"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"42138",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Juan",
+                      "last":"Martínez Munuera",
+                      "full":"Juan Martínez Munuera"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44896",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Diego",
+                      "last":"Barbero Sevilla",
+                      "full":"Diego Barbero Sevilla"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"44428",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"César Manuel",
+                      "last":"Noval Font",
+                      "full":"César Manuel Noval Font"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46635",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Julio",
+                      "last":"Mena Gimeno",
+                      "full":"Julio Mena Gimeno"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

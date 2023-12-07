@@ -1,0 +1,108 @@
+.bottomContainer {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.66) 80%,
+    #000000 100%
+  );
+  margin-top: auto;
+  position: relative;
+}
+
+.contentHeader {
+  > header {
+    h1 {
+      font-size: rem(28px);
+      line-height: rem(34px);
+      margin-bottom: 8px;
+      padding-bottom: 8px;
+      text-align: left;
+      @include media-breakpoint-up('md') {
+        text-align: center;
+      }
+    }
+  }
+}
+
+.contentReactionHeader {
+  padding-bottom: 0;
+  > header {
+    h1 {
+      border-bottom: initial;
+      font-size: rem(28px);
+      line-height: rem(34px);
+      margin-bottom: 0;
+      padding-bottom: 0;
+      text-align: left;
+      @include media-breakpoint-up('md') {
+        text-align: center;
+      }
+    }
+    > div:first-of-type {
+      justify-content: left;
+      margin: 16px 0;
+    }
+  }
+}
+
+.contentDescription {
+  p {
+    font-size: rem(14px);
+    line-height: rem(17px);
+    margin-bottom: 0;
+    text-align: left;
+    span {
+      display: block;
+    }
+    button {
+      border-radius: 2px;
+      margin-left: 0;
+      padding-right: 6px;
+    }
+    @include media-breakpoint-up('md') {
+      text-align: center;
+    }
+  }
+}
+
+.headerWrapping {
+  display: flex;
+  height: 100%;
+
+  @include media-breakpoint-up('sm') {
+    padding-top: 65px;
+  }
+}
+
+.image {
+  height: 650px;
+  position: absolute;
+}
+
+.reactionStatus {
+  color: white;
+  font-size: rem(11px);
+  font-weight: 700;
+  line-height: rem(13px);
+  margin-bottom: 1rem;
+}
+
+.TapTooltip {
+  right: 36%;
+  top: -25px;
+  z-index: 11;
+}
+
+.truncateContainer {
+  align-items: flex-start;
+  color: white;
+  display: flex;
+  font-size: rem(14px);
+  justify-content: space-between;
+  line-height: rem(17px);
+}
+
+.wrapper {
+  background-color: $black;
+  height: 100%;
+}

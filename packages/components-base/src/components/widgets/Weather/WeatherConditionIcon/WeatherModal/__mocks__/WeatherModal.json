@@ -1,0 +1,56 @@
+{
+  "modal": {
+    "hourly": [
+      {
+        "icon": 30,
+        "localeTime": "Ahora",
+        "tempF": 56
+      },
+      {
+        "icon": 30,
+        "localeTime": "7:00 am",
+        "tempF": 56
+      },
+      {
+        "icon": 30,
+        "localeTime": "8:00 am",
+        "tempF": 58
+      },
+      {
+        "icon": 34,
+        "localeTime": "9:00 am",
+        "tempF": 61
+      }
+    ],
+    "icon": "fairMostlySunny",
+    "isCelsius": true,
+    "isVisible": true,
+    "location": "Área de la Bahía",
+    "maxTempF": 80,
+    "minTempF": 54,
+    "precip": "Probabilidad de lluvia 10%",
+    "tempF": 56,
+    "timeString": "Jueves 6:41 am",
+    "uri": "https://www.univision.com/local/san-francisco-kdtv"
+  },
+  "weatherBannerLowRisk": {
+    "isWeatherAlerts": true,
+    "totalCount": 10,
+    "unreadWeatherAlerts": [
+      "alert1",
+      "alert2",
+      "alert3",
+      "alert4",
+      "alert5"
+    ]
+  },
+  "weatherBannerHighRisk": {
+    "isWeatherAlerts": true,
+    "extremeAlert": {
+      "areaName": "Staten Island, NY",
+      "eventDescription": "Huracán Dorian - Categoría 4"
+    },
+    "totalCount": 10,
+    "icon": "tropicalStorm"
+  }
+}

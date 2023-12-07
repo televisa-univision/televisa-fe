@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+}
+
+.avatar {
+  height: 60px;
+  width: 60px;
+  min-width: 60px;
+  margin-right: 1rem;
+  background-position: center;
+  background-size: cover;
+}
+
+.opinion {
+  @include uvs-font('a', 'bold');
+
+  display: inline-block;
+  margin-bottom: 8px;
+  font-size: rem(13px);
+  line-height: rem(16px);
+  text-transform: uppercase;
+
+  &.hasTwitter {
+    margin-bottom: 0;
+  }
+}
+
+.meta {
+  line-height: 1;
+}
+
+.info {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 8px;
+
+  > :first-child {
+    margin-right: .5rem;
+  }
+
+  button {
+    font-size: rem(12px);
+  }
+}
+
+.author {
+  font-size: rem(11px);
+  line-height: rem(13px);
+}
+
+.opinionText {
+  color: $grey;
+  font-size: rem(11px);
+  line-height: rem(13px);
+
+  @include media-breakpoint-up('md') {
+    font-size: rem(14px);
+    line-height: rem(17px);
+  }
+}

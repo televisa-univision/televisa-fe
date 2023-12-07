@@ -1,0 +1,10 @@
+$brandingBarHeight: 30px;
+$containerHeight: 600px + $brandingBarHeight;
+
+.container {
+  width: 100%;
+  height: 280px;
+  @include media-breakpoint-up('sm') {
+    height: $containerHeight;
+  }
+}

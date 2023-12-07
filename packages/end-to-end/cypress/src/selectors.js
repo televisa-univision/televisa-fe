@@ -1,0 +1,14 @@
+export const brandedHeader = '[data-element-name=BrandedHeader]';
+export const brandedHeaderMainLogo = `${brandedHeader} > div > div > div:nth-child(2) > a`;
+export const breadcrumb = '[data-element-name=Breadcrumb]';
+export const exposedNav = '[data-element-name=ExposedNav]';
+export const exposedNavLink = '[data-element-name=ExposedNavLink]';
+export const globalNav = '[data-element-name=GlobalNav]';
+export const globalNavLink = `${globalNav} ul > li > a`;
+export const hamburgerMenuButton = '[data-element-name=HamburgerMenuButton]';
+export const megaMenuSearchFrom = '[data-element-name=MegaMenu] [data-element-name=SearchForm]';
+export const searchForm = '[data-element-name=SearchForm]';
+export const searchInput = `${searchForm} > input`;
+export const shortTitle = '[data-element-name=ShortTitle]';
+export const smartBanner = '[data-element-name=SmartBanner]';
+export const smartBannerCloseButton = `${smartBanner} > div > div > button`;

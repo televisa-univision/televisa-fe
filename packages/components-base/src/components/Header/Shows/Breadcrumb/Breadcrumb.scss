@@ -1,0 +1,59 @@
+.wrapper {
+  width: 100%;
+}
+
+.wrapper-dark {
+  background-color: $black-grey;
+}
+
+.wrapper-light {
+  background-color: transparent;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+
+.link {
+  font-size: rem(11px);
+  line-height: rem(13px);
+  text-transform: uppercase;
+  border-right: 1px solid $grey;
+  padding: 0 16px;
+
+  &:first-of-type {
+    padding-left: 0;
+  }
+
+  &:last-of-type {
+    border-right: 0;
+  }
+}
+
+.link-variant-dark {
+  color: $white;
+
+  &:hover {
+    color: $white;
+  }
+}
+
+.link-variant-light {
+  color: $black;
+
+  &:hover {
+    color: $black;
+  }
+}
+
+.offset {
+  @include media-breakpoint-up('md') {
+    @include make-col-offset(1);
+  }
+
+  @include media-breakpoint-up('lg') {
+    @include make-col-offset(2);
+  }
+}

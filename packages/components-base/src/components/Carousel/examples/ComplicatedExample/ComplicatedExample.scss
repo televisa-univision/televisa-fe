@@ -1,0 +1,90 @@
+.wrapper {
+  height: 100vh;
+}
+
+@include media-breakpoint-down('xs') {
+  .mask {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+.carouselWrapper {
+  margin: 0 -20px;
+
+  @include media-breakpoint-up('sm') {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .rightArrow {
+    width: 34px;
+    height: 34px;
+    background: transparent;
+    top: calc(50% - 15px);
+    bottom: 0;
+    right: -41px;
+
+    button {
+      background: transparent;
+      width: 34px;
+      height: 34px;
+      background: rgb(188, 206, 221);
+      border-radius: 20px;
+
+      svg {
+        fill: $white;
+        filter: none;
+        width: 18px;
+        height: 18px;
+        margin: 0 2px 0 0;
+        padding: 0;
+      }
+    }
+  }
+}
+
+div.leftArrow {
+  left: -50px;
+  background: transparent;
+  button svg {
+    fill: rgb(106, 167, 216);
+    filter: none;
+    transform: scale(0.85);
+  }
+}
+
+
+
+.paginationWrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.circle {
+  width: 8px;
+  height: 8px;
+  background: rgb(182, 197, 209);
+  border-radius: 10px;
+  padding: 0;
+  margin-right: 10px;
+  transition: background-color 0.666s; // (╯°□°）╯︵
+
+  &:last-child {
+    margin: 0;
+  }
+}
+
+.isselected {
+  background: rgb(11, 135, 236);
+}
+
+.text {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 10px;
+  color: rgb(55, 65, 73);
+}

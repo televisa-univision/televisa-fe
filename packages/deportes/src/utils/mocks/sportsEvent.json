@@ -1,0 +1,94 @@
+{
+  "eventMetadata": {
+    "eventKey": "919263",
+    "eventStatus": "mid-event",
+    "eventStatusNote": "First half",
+    "startDateTime": "2018-05-13T15:00:00Z",
+    "eventType": "Regular",
+    "eventName": "Burnley vs Bournemouth",
+    "eventOutcomeType": "regular",
+    "eventMetadataSoccer": {
+      "week": "38",
+      "minutesElapsed": "15"
+    },
+    "site": {
+      "siteMetadata": {
+        "siteKey": "88",
+        "name": {
+          "full": "Turf Moor"
+        },
+        "capacity": "",
+        "homeLocation": {}
+      }
+    },
+    "dateCoverageType": "event",
+    "sportsContentCodes": {
+      "sportsContentCode": [
+        {
+          "codeName": "English Premier League",
+          "codeKey": "8",
+          "codeType": "tournament"
+        },
+        {
+          "codeName": "English Premier League",
+          "codeKey": "EN_PR",
+          "codeType": "league"
+        },
+        {
+          "codeName": "Season 2017/2018",
+          "codeKey": "2017",
+          "codeType": "season"
+        }
+      ]
+    }
+  },
+  "team": [
+    {
+      "teamMetadata": {
+        "teamKey": "90",
+        "alignment": "home",
+        "name": {
+          "full": "Burnley",
+          "abbreviation": ""
+        },
+        "images": {
+          "original": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png"
+        }
+      },
+      "teamStats": {
+        "score": "2",
+        "scoreOpposing": "2",
+        "eventOutcome": "undecided",
+        "teamStatsSoccer": {
+          "statsSoccerOffensive": {
+            "shotsShootoutScored": "1"
+          }
+        }
+      }
+    },
+    {
+      "teamMetadata": {
+        "teamKey": "91",
+        "alignment": "away",
+        "name": {
+          "full": "Bournemouth",
+          "abbreviation": ""
+        },
+        "images": {
+          "original": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png"
+        }
+      },
+      "teamStats": {
+        "score": "2",
+        "scoreOpposing": "2",
+        "eventOutcome": "undecided",
+        "teamStatsSoccer": {
+          "statsSoccerOffensive": {
+            "shotsShootoutScored": "1"
+          }
+        }
+      }
+    }
+  ],
+  "officials": {}
+}

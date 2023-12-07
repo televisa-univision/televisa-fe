@@ -1,0 +1,110 @@
+{
+  "name": "@univision/fe-prendetv",
+  "version": "10.680.2",
+  "description": "PrendeTV.com WebApp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision/univision-fe.git"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "yarn": ">=1.22.0"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "main": "./dist",
+  "scripts": {
+    "start": "npm-run-all lint jest storybook",
+    "docs": "jsdoc -c .jsdoc.json",
+    "test": "npm run jest",
+    "test:skip": "npm run jest:parallel",
+    "jest": "NODE_ENV=test jest --coverage --runInBand --colors",
+    "jest:parallel": "jest --coverage",
+    "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:src lint:test lint:css",
+    "lint:css": "stylelint './src/**/*.styles.js'",
+    "lint:src": "eslint --config ../../.eslintrc 'src/**/*.js' --ignore-pattern 'src/**/*.spec.js'",
+    "lint:test": "eslint --config ../../.eslintrc.spec 'src/**/*.spec.js'",
+    "storybook": "NODE_OPTIONS='--openssl-legacy-provider' start-storybook -p 6012",
+    "clean": "rimraf dist",
+    "export": "build-storybook -c .storybook -o dist/story",
+    "babel": "babel src --out-dir dist --copy-files",
+    "build": "npm-run-all clean babel build:post",
+    "build:post": "rimraf '+(esm|dist)/**/+(__tests__|__mocks__|*.stories.*)'",
+    "build:watch": "npm-run-all clean 'babel --watch'"
+  },
+  "author": "UVN ENgineers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/univision/univision-fe/issues"
+  },
+  "homepage": "https://github.com/univision/univision-fe/tree/master/packages/prendetv",
+  "dependencies": {
+    "@univision/fe-commons": "^10.680.2",
+    "@univision/fe-components-base": "^10.680.2",
+    "@univision/fe-icons": "^10.680.1",
+    "@univision/fe-utilities": "^10.680.1",
+    "@univision/fe-video": "^10.680.2",
+    "@univision/shared-components": "0.5.152-rc.2",
+    "next": "^10.0.4",
+    "prop-types": "^15.7.2",
+    "react": "16.13.0",
+    "react-dom": "^16.13.0",
+    "react-redux": "^7.2.0",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "4.1.18",
+    "@storybook/addon-backgrounds": "4.1.18",
+    "@storybook/addon-info": "4.1.18",
+    "@storybook/addon-links": "4.1.18",
+    "@storybook/addon-viewport": "4.1.18",
+    "@storybook/addons": "4.1.18",
+    "@storybook/react": "4.1.18",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "jest": "^26.6.3",
+    "jest-fetch-mock": "^3.0.3",
+    "jest-styled-components": "^7.0.3",
+    "react-test-renderer": "^16.13.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest",
+      "\\.(txt)$": "<rootDir>/__mocks__/rawLoaderTransform"
+    },
+    "transformIgnorePatterns": [
+      "/node_modules/(?!(@univision/|react-(.*)))"
+    ],
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|ico|eot|otf|webp|svg|ttf|woff|woff2|mp4|ico)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|scss)$": "identity-obj-proxy",
+      "^@univision\\/([^/]+)/(?!(dist|src|esm))(.*)": "@univision/$1/esm/$3"
+    },
+    "modulePathIgnorePatterns": [
+      "<rootDir>/dist/"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "statements": 100,
+        "branches": 100,
+        "functions": 100,
+        "lines": 100
+      }
+    },
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/node_modules/",
+      "<rootDir>/config/",
+      "<rootDir>/doc/",
+      "<rootDir>/dist/"
+    ],
+    "setupFiles": [
+      "<rootDir>/config/tests.env.js"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/config/tests.setup.js"
+    ],
+    "testEnvironment": "jest-environment-jsdom-global"
+  }
+}

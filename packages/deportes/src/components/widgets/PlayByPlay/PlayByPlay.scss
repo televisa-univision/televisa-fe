@@ -1,0 +1,36 @@
+.message {
+  padding: 1rem;
+}
+
+.filler {
+  height: 100%;
+  width: 100%;
+  margin-left: 10px;
+  background: url($striped-background);
+}
+
+.buttonTudn {
+  margin-top: 15px;
+}
+
+.title {
+  &.tudn {
+    margin: 0;
+    padding-bottom: 15px;
+    @include media-breakpoint-up('sm') {
+      padding-bottom: 20px;
+    }
+  }
+}
+
+.buttonRebrand {
+  background-color: $spring-green !important;
+
+  p[type="loadMore"] {
+    color: $black;
+  }
+
+  svg > path {
+    fill: $black;
+  }
+}

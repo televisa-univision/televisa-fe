@@ -1,0 +1,10 @@
+{
+  "prod": {
+    "env": "prod",
+    "profile": "778f185e-177d-4b8a-82ce-d7d3518120cc"
+  },
+  "test": {
+    "env": "qa",
+    "profile": "bbe0d1ef-c85d-4c3c-80a0-f10fdacee9f8"
+  }
+}  

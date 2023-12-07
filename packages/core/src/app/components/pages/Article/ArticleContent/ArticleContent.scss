@@ -1,0 +1,15 @@
+.offset_2 {
+  @include media-breakpoint-up('md') {
+    @include make-col-offset(1);
+  }
+
+  @include media-breakpoint-up('lg') {
+    @include make-col-offset(2);
+  }
+}
+
+.widgetsContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}

@@ -1,0 +1,207 @@
+.bar {
+  @include transition(all .1s linear);
+
+  position: fixed;
+  left: 0;
+  width: 100%;
+  height: 44px;
+  background: $theme-default-secondary;
+  color: $white;
+  box-shadow: 0 -2px 2px 0 rgba(0, 0, 0, 0.2);
+  z-index: $zindex-above-navigation;
+  bottom: -84px;
+  overflow: hidden;
+}
+
+.light {
+  background: $white;
+  color: $darker-grey;
+}
+
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:first-child {
+    justify-content: flex-start;
+  }
+  &:last-child {
+    justify-content: flex-end;
+    margin-right: 10px;
+    @include media-breakpoint-up('md') {
+      margin-right: 0;
+    }
+  }
+
+  @include media-breakpoint-up('md') {
+    flex: 1 0 33%;
+  }
+}
+
+.hide {
+  display: none;
+}
+
+.ripple {
+  fill: $white;
+  margin: 0 5px;
+  height: 45px;
+  width: 35px;
+  display: none;
+
+  @include media-breakpoint-up('xs') {
+    display: inline-block;
+  }
+
+  @include media-breakpoint-up('sm') {
+    margin: 0 10px;
+    width: 50px;
+    display: none;
+  }
+
+  &:last-of-type {
+    transform: rotate(180deg);
+  }
+
+  .isContent & {
+    fill: $grey;
+    display: none;
+    @include media-breakpoint-up('sm') {
+      display: inline-block;
+    }
+  }
+}
+
+.contentFollow {
+  svg {
+    fill: $darker-grey;
+  }
+}
+
+.container {
+  display: flex;
+  max-width: 1440px;
+  height: 100%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  @include media-breakpoint-up('md') {
+    padding: 0 10px;
+  }
+}
+
+.visible {
+  bottom: 0;
+  overflow: visible;
+}
+
+.content {
+  padding: 0 1rem;
+  flex-grow: 1;
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+
+.centerCol {
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}
+
+.rightCol {
+  .title {
+    display: none;
+    @include media-breakpoint-up('sm') {
+      display: block;
+    }
+  }
+}
+
+.contentBar {
+  .centerCol {
+    display: none;
+    text-align: center;
+    @include media-breakpoint-up('sm') {
+      display: block;
+    }
+  }
+
+  .rightCol {
+    .title {
+      display: block;
+      @include media-breakpoint-up('sm') {
+        display: none;
+      }
+    }
+  }
+
+  .fullWidth {
+    width: 100%;
+    > .colorShareBar {
+      margin-right: 0px;
+    }
+  }
+}
+
+
+.title {
+  font-size: 0.5rem;
+  line-height: 0.75rem;
+  text-transform: uppercase;
+  margin: 0 10px;
+}
+
+.follow {
+  display: block;
+  .isContent & {
+    display: none;
+
+    @include media-breakpoint-up('sm') {
+      display: block;
+    }
+  }
+}
+
+.colorShareBar {
+  display: none;
+  flex-grow: 1;
+  margin-right: 10px;
+
+  a:not(:last-child),
+  a:last-child,
+  a:first-child {
+    border-radius: 0;
+    padding: 14px 25px;
+    height: 45px;
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0;
+    border-right: 0;
+  }
+
+  .isContent & {
+    display: flex;
+
+    @include media-breakpoint-up('sm') {
+      display: none;
+    }
+  }
+
+  .facebook {
+    background: $facebook;
+  }
+
+  .twitter {
+    background: $twitter;
+  }
+
+  .whatsapp {
+    background: $whatsapp;
+    svg:hover {
+      fill: $whatsappHover;
+    }
+  }
+}

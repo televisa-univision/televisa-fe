@@ -1,0 +1,19 @@
+{
+  "gordoflaca": {
+    "subNavBackgroundColor": "black",
+    "titleBackgroundImage": ""
+  },
+  "alpunto": {
+    "subNavBackgroundColor": "red",
+    "titleBackgroundImage": ""
+  },
+  "lareinasoyyo": {
+    "subNavBackgroundColor": "",
+    "titleBackgroundImage": "https://st1.uvnimg.com/63/3a/e1e9de0e4580b7874557dd6b8ffa/40y20desktopcontent.jpeg"
+  },
+  "local": {
+    "subNavBackgroundColor": "",
+    "titleBackgroundImage": "https://st1.uvnimg.com/af/e9/a330c7fe423f95861cf5f90c2d80/losangeles-background-1440-2.png"
+  }
+}
+

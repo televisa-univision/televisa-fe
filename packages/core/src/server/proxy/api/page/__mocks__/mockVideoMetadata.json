@@ -1,0 +1,573 @@
+{
+  "content" : [{
+    "id" : "univision-3308124",
+    "createdDate" : "2017-04-11T19:14:55+00:00",
+    "modifiedDate" : "2017-04-11T19:14:55+00:00",
+    "videoMetadata" : {
+      "photoVideoMetadataIPTC" : {
+        "identifier" : "3308124",
+        "dateCreated" : "2017-04-11T12:57:01+00:00",
+        "dateReleased" : "2017-04-13T09:00:00+00:00",
+        "episode" : {
+          "number" : 0
+        },
+        "publicationEvents" : [ {
+          "date" : "2027-04-11T12:38:00+00:00",
+          "identifier" : "https://schema.org/expires"
+        }, {
+          "date" : "2017-04-11T12:38:00+00:00",
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+        } ],
+        "ratings" : [ {
+          "ratingValue" : "TV-G",
+          "ratingSourceLink" : "https://www.fcc.gov/vchip"
+        } ],
+        "season" : {
+          "number" : 2017
+        },
+        "series" : {
+          "name" : {
+            "en" : "Horóscopos"
+          },
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/series/131"
+        },
+        "registryEntries" : [ ],
+        "description" : {
+          "es" : "Acuario, entérate lo que los astros tienen deparado para ti con las predicciones del Niño Prodigio"
+        },
+        "headline" : {
+          "es" : "Niño Prodigio - Acuario 13 de abril 2017"
+        },
+        "keywords" : [ "HOROSCOPOS", "horoscopo", "horoscopes", "signoacuario", "niñoacuario", "niño prodigio", "horoscopo diario" ],
+        "language" : "es",
+        "title" : {
+          "es" : "Niño Prodigio - Acuario 13 de abril 2017"
+        },
+        "transcriptLinks" : [ ],
+        "snapshotLinks" : [ {
+          "link" : "https://vmscdn-download.storage.googleapis.com/iupl/39E/1E5/39E1E5D62D674510AF256D565B362CA8",
+          "role" : "preview"
+        } ],
+        "copyrightYear" : 2017,
+        "copyrightOwners" : [ {
+          "name" : {
+            "es" : "© 2015 Univision Communications Inc."
+          }
+        } ],
+        "supplier" : {
+          "name" : {
+            "es" : "Univision"
+          }
+        },
+        "fileDuration" : 181,
+        "frameSize" : {
+          "widthPixels" : 1920,
+          "heightPixels" : 1080
+        },
+        "videoBitrate" : 16072
+      },
+      "photoVideoMetadata_fmg" : {
+        "company" : "univision",
+        "network" : "",
+        "videoType" : "clip",
+        "tvssDomain" : "https://usaplusauth.univision.com",
+        "accessRules" : [ {
+          "name" : "USA Plus",
+          "access" : "public",
+          "match" : "any",
+          "conditions" : [ {
+            "scope" : "country",
+            "value" : "MX"
+          } ]
+        } ],
+        "authRequired" : false,
+        "adConfig" : {
+          "contextBased" : "Deny",
+          "inVideo" : "Allow",
+          "inStream" : "Allow",
+          "hasPreRoll" : "Allow",
+          "hasPostRoll" : "Deny"
+        },
+        "adSlots" : [ ]
+      }
+    }
+  }, {
+    "id" : "fusion-3309503",
+    "createdDate" : "2017-04-14T19:31:24+00:00",
+    "modifiedDate" : "2017-04-14T19:40:05+00:00",
+    "videoMetadata" : {
+      "photoVideoMetadataIPTC" : {
+        "identifier" : "3309503",
+        "dateCreated" : "2017-04-14T19:03:32+00:00",
+        "dateReleased" : "2017-04-14T18:09:00+00:00",
+        "episode" : {
+          "number" : 0
+        },
+        "publicationEvents" : [ {
+          "date" : "2037-04-13T18:09:00+00:00",
+          "identifier" : "https://schema.org/expires"
+        }, {
+          "date" : "2017-04-14T18:09:00+00:00",
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+        } ],
+        "ratings" : [ {
+          "ratingValue" : "TV-PG",
+          "ratingSourceLink" : "https://www.fcc.gov/vchip"
+        } ],
+        "season" : {
+          "number" : 2017
+        },
+        "series" : {
+          "name" : {
+            "en" : "Fusion Digital"
+          },
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/series/1175"
+        },
+        "registryEntries" : [ {
+          "assetIdentifier" : "p4cjlzYTE6KmjiU5P5G-BcAIWePpDKJD",
+          "registryIdentifier" : "http://www.ooyala.com/products/video-platform",
+          "role" : "https://api.vmh.univision.com/cv/v1/codes/registry-roles/ooyala/video-id"
+        } ],
+        "description" : {
+          "en" : "These 6 young women at MIT are creating a device that could be a game-changer for blind people: it converts text to Braille in real time. Only about 10% of blind Americans can read Braille, even though knowing it can significantly increase their job opportunities. Team Tactile hopes their device can make Braille more accessible and convenient for millions of blind people—allowing them to read anything they want.\r\rExecutive Producer: Michelle Nash\r\rSenior Producer: Allie Jaynes\r\rProducer and Editor: Danny Beard\r\rCinematography: Danny Beard\r\rEditor: Sara Wasserman\r\rGraphics: Angelica Baini"
+        },
+        "headline" : {
+          "en" : ""
+        },
+        "keywords" : [ "Digital Originals", "Braille", "MIT", "tech", "Women in Tech" ],
+        "language" : "en",
+        "title" : {
+          "en" : "This Device Could Revolutionize Reading for Blind People"
+        },
+        "transcriptLinks" : [ ],
+        "snapshotLinks" : [ {
+          "link" : "https://vmscdn-download.storage.googleapis.com/iupl/3FF/4F0/3FF4F0D468D94D92ABEF6EBEC4A267D5",
+          "role" : "preview"
+        } ],
+        "copyrightYear" : 2017,
+        "copyrightOwners" : [ {
+          "name" : {
+            "en" : "© 2015 Univision Communications Inc."
+          }
+        } ],
+        "supplier" : {
+          "name" : {
+            "en" : "Univision.com"
+          }
+        },
+        "fileDuration" : 245,
+        "frameSize" : {
+          "widthPixels" : 1920,
+          "heightPixels" : 1080
+        },
+        "videoBitrate" : 15670
+      },
+      "photoVideoMetadata_fmg" : {
+        "company" : "fusion",
+        "network" : "fusion",
+        "videoType" : "clip",
+        "tvssDomain" : "https://auth.univision.com",
+        "accessRules" : [ ],
+        "authRequired" : false,
+        "adConfig" : {
+          "contextBased" : "Deny",
+          "inVideo" : "Allow",
+          "inStream" : "Allow",
+          "hasPreRoll" : "Allow",
+          "hasPostRoll" : "Deny"
+        },
+        "adSlots" : [ ]
+      }
+    }
+  }, {
+    "id" : "fusion-3311634",
+    "createdDate" : "2017-04-20T18:15:41+00:00",
+    "modifiedDate" : "2017-04-20T18:16:24+00:00",
+    "videoMetadata" : {
+      "photoVideoMetadataIPTC" : {
+        "identifier" : "3311634",
+        "dateCreated" : "2017-04-20T18:13:57+00:00",
+        "dateReleased" : "2017-04-20T17:57:00+00:00",
+        "episode" : {
+          "number" : 0
+        },
+        "publicationEvents" : [ {
+          "date" : "2037-04-19T17:57:00+00:00",
+          "identifier" : "https://schema.org/expires"
+        }, {
+          "date" : "2017-04-20T17:57:00+00:00",
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+        } ],
+        "ratings" : [ {
+          "ratingValue" : "TV-PG",
+          "ratingSourceLink" : "https://www.fcc.gov/vchip"
+        } ],
+        "season" : {
+          "number" : 2017
+        },
+        "series" : {
+          "name" : {
+            "en" : "The A.V. Club Hosted By John Teti"
+          },
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/series/1469"
+        },
+        "registryEntries" : [ {
+          "assetIdentifier" : "AVCL000000000",
+          "registryIdentifier" : "http://www.anvato.com/solutions/media-content-platform/",
+          "role" : "https://api.vmh.univision.com/cv/v1/codes/registry-roles/mcp/prg-external-id"
+        } ],
+        "description" : {
+          "en" : "The editorial brains behind the iconic pop culture site The A.V. Club will share their distinct perspective on movies, music, and television in the new program, The A.V. Club on Fusion."
+        },
+        "headline" : {
+          "en" : ""
+        },
+        "keywords" : [ "The A.V. Club Hosted By John Teti" ],
+        "language" : "en",
+        "title" : {
+          "en" : "The A.V. Club on Fusion"
+        },
+        "transcriptLinks" : [ ],
+        "snapshotLinks" : [ {
+          "link" : "http://vmscdn-download.storage.googleapis.com/pvw/951/B0F/951B0F26C1DE4A64B55AD9DA46F47A9A_3.jpg",
+          "role" : "preview"
+        } ],
+        "copyrightYear" : 2017,
+        "copyrightOwners" : [ {
+          "name" : {
+            "en" : "© 2015 Univision Communications Inc."
+          }
+        } ],
+        "supplier" : {
+          "name" : {
+            "en" : "Univision.com"
+          }
+        },
+        "fileDuration" : 31,
+        "frameSize" : {
+          "widthPixels" : 1920,
+          "heightPixels" : 1080
+        },
+        "videoBitrate" : 43139
+      },
+      "photoVideoMetadata_fmg" : {
+        "company" : "fusion",
+        "network" : "fusion",
+        "videoType" : "clip",
+        "tvssDomain" : "https://auth.univision.com",
+        "accessRules" : [ ],
+        "authRequired" : false,
+        "adConfig" : {
+          "contextBased" : "Deny",
+          "inVideo" : "Allow",
+          "inStream" : "Allow",
+          "hasPreRoll" : "Allow",
+          "hasPostRoll" : "Deny"
+        },
+        "adSlots" : [ ]
+      }
+    }
+  }, {
+    "id" : "fusion-3242922",
+    "createdDate" : "2017-04-14T07:25:26+00:00",
+    "modifiedDate" : "2017-05-16T15:07:53+00:00",
+    "videoMetadata" : {
+      "photoVideoMetadataIPTC" : {
+        "identifier" : "3242922",
+        "dateCreated" : "2016-10-05T15:47:34+00:00",
+        "dateReleased" : "2016-10-05T15:47:00+00:00",
+        "episode" : {
+          "number" : 108
+        },
+        "publicationEvents" : [ {
+          "date" : "2036-10-04T15:47:00+00:00",
+          "identifier" : "https://schema.org/expires"
+        }, {
+          "date" : "2016-10-05T15:47:00+00:00",
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+        } ],
+        "ratings" : [ {
+          "ratingValue" : "Not Rated",
+          "ratingSourceLink" : "https://www.fcc.gov/vchip"
+        } ],
+        "season" : {
+          "number" : 1
+        },
+        "series" : {
+          "name" : {
+            "en" : "The Traffickers"
+          },
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/series/1378"
+        },
+        "registryEntries" : [ {
+          "assetIdentifier" : "TRAF000000000",
+          "registryIdentifier" : "http://www.anvato.com/solutions/media-content-platform/",
+          "role" : "https://api.vmh.univision.com/cv/v1/codes/registry-roles/mcp/prg-external-id"
+        }, {
+          "assetIdentifier" : "hrMmo1ODE66491V4SCS6axU83f-gnaDM",
+          "registryIdentifier" : "http://www.ooyala.com/products/video-platform",
+          "role" : "https://api.vmh.univision.com/cv/v1/codes/registry-roles/ooyala/video-id"
+        } ],
+        "description" : {
+          "en" : "Fake Pharma"
+        },
+        "headline" : {
+          "en" : ""
+        },
+        "keywords" : [ "Nelufar Hedayat", "Fake pharma", "counterfeit medicine", "Benin", "Nigeria", "Malaria", "Dantokpa market", "Nigerian authorities", "NAFDAC", "Dr Paul Orhii", "China", "Hong Kong", "Guangzhou" ],
+        "language" : "en",
+        "title" : {
+          "en" : "Episode 8: Fake Pharma"
+        },
+        "transcriptLinks" : [ ],
+        "snapshotLinks" : [ {
+          "link" : "http://vmsmedia.s3.amazonaws.com/iupl/65D/003/65D0039E269A4C7B8AB029657BB23152.jpg",
+          "role" : "preview"
+        } ],
+        "copyrightYear" : 2017,
+        "copyrightOwners" : [ {
+          "name" : {
+            "en" : "© 2015 Univision Communications Inc."
+          }
+        } ],
+        "supplier" : {
+          "name" : {
+            "en" : "Univision.com"
+          }
+        },
+        "fileDuration" : 2594,
+        "frameSize" : {
+          "widthPixels" : 1920,
+          "heightPixels" : 1080
+        },
+        "videoBitrate" : 146969
+      },
+      "photoVideoMetadata_fmg" : {
+        "company" : "fusion",
+        "network" : "fusion",
+        "videoType" : "long-form",
+        "tvssDomain" : "https://auth.univision.com",
+        "accessRules" : [ {
+          "name" : "Always Authenticated",
+          "access" : "public",
+          "match" : "all",
+          "conditions" : [ {
+            "scope" : "period",
+            "value" : "publish_date+0:365"
+          } ]
+        } ],
+        "authRequired" : true,
+        "adConfig" : {
+          "contextBased" : "Deny",
+          "inVideo" : "Allow",
+          "inStream" : "Allow",
+          "hasPreRoll" : "Allow",
+          "hasPostRoll" : "Deny"
+        },
+        "adSlots" : [ {
+          "timeSegment" : 847,
+          "duration" : 2
+        }, {
+          "timeSegment" : 1218,
+          "duration" : 2
+        }, {
+          "timeSegment" : 1608,
+          "duration" : 2
+        }, {
+          "timeSegment" : 1919,
+          "duration" : 2
+        }, {
+          "timeSegment" : 2175,
+          "duration" : 2
+        } ]
+      }
+    }
+  }, {
+    "id" : "fusion-3300644",
+    "createdDate" : "2017-04-14T05:13:02+00:00",
+    "modifiedDate" : "2017-05-01T06:07:08+00:00",
+    "videoMetadata" : {
+      "photoVideoMetadataIPTC" : {
+        "identifier" : "3300644",
+        "dateCreated" : "2017-03-20T18:45:43+00:00",
+        "dateReleased" : "2017-03-20T18:43:00+00:00",
+        "episode" : {
+          "number" : 0
+        },
+        "publicationEvents" : [ {
+          "date" : "2037-03-19T18:43:00+00:00",
+          "identifier" : "https://schema.org/expires"
+        }, {
+          "date" : "2017-03-20T18:43:00+00:00",
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+        } ],
+        "ratings" : [ {
+          "ratingValue" : "TV-PG",
+          "ratingSourceLink" : "https://www.fcc.gov/vchip"
+        } ],
+        "season" : {
+          "number" : 2017
+        },
+        "series" : {
+          "name" : {
+            "en" : "Fusion Digital"
+          },
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/series/1175"
+        },
+        "registryEntries" : [ {
+          "assetIdentifier" : "AxcnVrYTE6cRGkg3WYP_tVEuPz_lmJjp",
+          "registryIdentifier" : "http://www.ooyala.com/products/video-platform",
+          "role" : "https://api.vmh.univision.com/cv/v1/codes/registry-roles/ooyala/video-id"
+        } ],
+        "description" : {
+          "en" : "Our correspondents tell us what Fusion’s travel journalism show is all about and why they jumped on board. For Alice Brennan, it’s about finding the unexpected “possibly next door to you, possibly in some far-off universe.”"
+        },
+        "headline" : {
+          "en" : ""
+        },
+        "keywords" : [ "Digital Originals", "Outpost", "travel", "journalism" ],
+        "language" : "en",
+        "title" : {
+          "en" : "Finding the unexpected in our world’: Welcome to ‘Outpost’"
+        },
+        "transcriptLinks" : [ ],
+        "snapshotLinks" : [ {
+          "link" : "http://vmsmedia.s3.amazonaws.com/iupl/EB5/76E/EB576E6D57E649EFA1A16B9FBDC90A81.jpg",
+          "role" : "preview"
+        } ],
+        "copyrightYear" : 2017,
+        "copyrightOwners" : [ {
+          "name" : {
+            "en" : "© 2015 Univision Communications Inc."
+          }
+        } ],
+        "supplier" : {
+          "name" : {
+            "en" : "Univision.com"
+          }
+        },
+        "fileDuration" : 44,
+        "frameSize" : {
+          "widthPixels" : 1920,
+          "heightPixels" : 1080
+        },
+        "videoBitrate" : 10718
+      },
+      "photoVideoMetadata_fmg" : {
+        "company" : "fusion",
+        "network" : "fusion",
+        "videoType" : "clip",
+        "tvssDomain" : "https://auth.univision.com",
+        "accessRules" : [ ],
+        "authRequired" : false,
+        "adConfig" : {
+          "contextBased" : "Deny",
+          "inVideo" : "Allow",
+          "inStream" : "Allow",
+          "hasPreRoll" : "Allow",
+          "hasPostRoll" : "Deny"
+        },
+        "adSlots" : [ ]
+      }
+    }
+  }, {
+    "id" : "univision-3308124x",
+    "createdDate" : "2017-04-11T19:14:55+00:00",
+    "modifiedDate" : "2017-04-11T19:14:55+00:00",
+    "videoMetadata" : {
+      "photoVideoMetadataIPTC" : {
+        "identifier" : "3308124",
+        "dateCreated" : "2017-04-11T12:57:01+00:00",
+        "dateReleased" : "2017-04-13T09:00:00+00:00",
+        "episode" : {
+          "number" : 0
+        },
+        "publicationEvents" : [ {
+          "date" : "2027-04-11T12:38:00+00:00",
+          "identifier" : "https://schema.org/expires"
+        }, {
+          "date" : "2017-04-11T12:38:00+00:00",
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+        } ],
+        "ratings" : [ {
+          "ratingValue" : "TV-G",
+          "ratingSourceLink" : "https://www.fcc.gov/vchip"
+        } ],
+        "season" : {
+          "number" : 2017
+        },
+        "series" : {
+          "name" : {
+            "en" : "Horóscopos"
+          },
+          "identifier" : "https://api.vmh.univision.com/cv/v1/codes/series/131"
+        },
+        "registryEntries" : [ ],
+        "description" : {
+          "es" : "Acuario, entérate lo que los astros tienen deparado para ti con las predicciones del Niño Prodigio"
+        },
+        "headline" : {
+          "es" : "Niño Prodigio"
+        },
+        "keywords" : [ "HOROSCOPOS", "horoscopo", "horoscopes", "signoacuario", "niñoacuario", "niño prodigio", "horoscopo diario" ],
+        "language" : "es",
+        "title" : {
+          "es" : "Niño Prodigio - Acuario 13 de abril 2017"
+        },
+        "transcriptLinks" : [ ],
+        "snapshotLinks" : [ {
+          "link" : "https://vmscdn-download.storage.googleapis.com/iupl/39E/1E5/39E1E5D62D674510AF256D565B362CA8",
+          "role" : "preview"
+        } ],
+        "copyrightYear" : 2017,
+        "copyrightOwners" : [ {
+          "name" : {
+            "es" : "© 2015 Univision Communications Inc."
+          }
+        } ],
+        "supplier" : {
+          "name" : {
+            "es" : "Univision"
+          }
+        },
+        "fileDuration" : 181,
+        "frameSize" : {
+          "widthPixels" : 1920,
+          "heightPixels" : 1080
+        },
+        "videoBitrate" : 16072
+      },
+      "photoVideoMetadata_fmg" : {
+        "company" : "univision",
+        "network" : "",
+        "videoType" : "clip",
+        "tvssDomain" : "https://usaplusauth.univision.com",
+        "accessRules" : [ {
+          "name" : "USA Plus",
+          "access" : "public",
+          "match" : "any",
+          "conditions" : [ {
+            "scope" : "country",
+            "value" : "MX"
+          } ]
+        } ],
+        "authRequired" : false,
+        "adConfig" : {
+          "contextBased" : "Deny",
+          "inVideo" : "Allow",
+          "inStream" : "Allow",
+          "hasPreRoll" : "Allow",
+          "hasPostRoll" : "Deny"
+        },
+        "adSlots" : [ ]
+      }
+    }
+  }],
+  "totalElements" : 5,
+  "totalPages" : 1,
+  "last" : true,
+  "numberOfElements" : 5,
+  "first" : true,
+  "size" : 25,
+  "number" : 0
+}

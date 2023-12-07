@@ -1,0 +1,3513 @@
+[
+  {
+    "type":"article",
+    "uid":"00000171-d3cd-d99e-a37d-d3cf6e4c0002",
+    "uri":"https://www.tudn.com/futbol/la-mejor-atajada-jorge-campos-rechaza-al-coronavirus",
+    "vertical":"Deportes",
+    "parent":{
+      "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+      "uri":"https://www.tudn.com/futbol",
+      "name":"fútbol",
+      "title":"Fútbol"
+    },
+    "title":"¡Jorge Campos ataja al coronavirus! ¡Jorge Campos ataja al coronavirus! ¡Jorge Campos ataja al coronavirus! ¡Jorge Campos ataja al coronavirus!",
+    "description":"El exportero mexicano apareció en un mural deteniendo al enemigo del mundo.",
+    "image":{
+      "type":"image",
+      "uid":"00000171-d3ce-d2b9-a9ff-d3ff8fd00000",
+      "title":"Jorge Campos mural",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/04/d5/bb179a5149b5830c9f69ab43e6ae/muraljorge-campos.png",
+          "width":1281,
+          "height":720,
+          "focusPoint":{
+            "x":0.49160739687055477,
+            "y":0.010799136069114468
+          }
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2020-05-02T13:56:34-04:00",
+    "publishDate":"2020-05-02T13:23:29-04:00",
+    "expirationDate":null,
+    "hierarchy":[
+      {
+        "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri":"https://www.tudn.com",
+        "name":"deportes",
+        "title":"Deportes"
+      },
+      {
+        "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri":"https://www.tudn.com/futbol",
+        "name":"futbol",
+        "title":"Fútbol"
+      }
+    ],
+    "contentPriority":"STANDARD",
+    "leadType":"video",
+    "articleType":"Standard",
+    "body":[
+      {
+        "type":"text",
+        "value":"<p><b>Jorge Campos</b> apareció en un mural de <b>Mexicali</b>, <b>Baja California</b>, realizando la atajada más importante de su vida, esta vez, el rival fue el temido <b>coronavirus</b> y el equipo: el arte.</p>"
+      }
+    ],
+    "jwRecommendationChannel":"3xQGeJjl",
+    "dynamicPlaylist":false,
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/lDHG102eBom",
+          "isFeedDialog":false,
+          "title":"La mejor atajada: Jorge Campos rechaza al coronavirus",
+          "description":"El exportero mexicano fue inmortalizado en un mural en Mexicali al enfrentar al enemigo del mundo.",
+          "imageUrl":"https://st1.uvnimg.com/8c/a0/f3f735504b8c9d7428566376198f/8173fd0ab72144f1b60b19d2b3da1f25",
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"http://uni.vi/lDHG102eBom",
+          "title":"La mejor atajada: Jorge Campos rechaza al coronavirus",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/lDHG102eBom",
+          "message":"La mejor atajada: Jorge Campos rechaza al coronavirus"
+        },
+        "mail":{
+          "subject":"La mejor atajada: Jorge Campos rechaza al coronavirus",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa mejor atajada: Jorge Campos rechaza al coronavirus\n\nEncuéntralo en este enlace:http://uni.vi/lDHG102eBom\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "useWebviewInApps":false,
+    "primaryTag":{
+      "name":"Fútbol",
+      "link":"https://www.tudn.com/futbol"
+    },
+    "readTime": 12,
+    "widgetContext": {
+      "isWorldCupMVP": false
+    }
+  },
+  {
+    "type":"liveblog",
+    "uid":"00000171-95ca-d1ac-a3fd-f5ea501c0000",
+    "uri":"https://www.tudn.com/futbol/liga-mx/eliga-mx-calendario-estadisticas-y-resultados-de-la-liga-virtual",
+    "vertical":"Deportes",
+    "parent":{
+      "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+      "uri":"https://www.tudn.com/futbol/liga-mx",
+      "name":"liga mx",
+      "title":"Liga MX"
+    },
+    "title":"eLiga MX: Calendario, estadísticas y resultados de la liga virtual",
+    "description":"Sigue todos los partidos, tablas y estadísticas del nuevo torneo de Liga MX luego de 6 jornadas.",
+    "image":{
+      "type":"image",
+      "uid":"00000171-95f4-d1ac-a3fd-f5fcb3a00000",
+      "title":"eLiga MX: Calendario, resultados y estadísticas",
+      "caption":"eLiga MX: Sigue aquí el calendario, resultados, estadísticas y todo sobre el torneo virtual.",
+      "credit":"TUDN",
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/98/2b/267419c94b1b91cd5155e5a8d56d/cover-estadisticas.jpg",
+          "width":1281,
+          "height":720,
+          "focusPoint":{
+            "x":0.504223714642623,
+            "y":0.41690599588463784
+          }
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":"LIVEBLOG",
+    "updateDate":"2020-04-29T22:06:36-04:00",
+    "publishDate":"2020-04-20T01:01:30-04:00",
+    "expirationDate":null,
+    "hierarchy":[
+      {
+        "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri":"https://www.tudn.com",
+        "name":"deportes",
+        "title":"Deportes"
+      },
+      {
+        "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri":"https://www.tudn.com/futbol",
+        "name":"futbol",
+        "title":"Fútbol"
+      },
+      {
+        "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri":"https://www.tudn.com/futbol/liga-mx",
+        "name":"liga mx",
+        "title":"Liga MX"
+      }
+    ],
+    "contentPriority":"STANDARD",
+    "mostRecentPostPublishDate":"2020-04-29T21:59:04-04:00",
+    "recentPostTitles":[
+      "Goleadas de León y Chivas en J6 de eLiga MX",
+      "¡El rey de la selva! León goleó y retomó la cima",
+      "¡Los Gamers con más goles!"
+    ],
+    "recentTitledPosts":[
+      {
+        "type":"liveblogpost",
+        "uid":"00000171-c8cc-d79e-a177-cedf94950000",
+        "uri":"https://www.tudn.com/futbol/liga-mx/eliga-mx-calendario-estadisticas-y-resultados-de-la-liga-virtual?postId=AAABccjM156hd87flJUAAA#AAABccjM156hd87flJUAAA",
+        "vertical":null,
+        "parent":null,
+        "title":"Goleadas de León y Chivas en J6 de eLiga MX",
+        "description":"",
+        "image":{
+          "type":"image",
+          "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title":"Univision Fallback Image",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width":1200,
+              "height":630
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-04-29T21:59:03-04:00",
+        "publishDate":"2020-04-29T21:59:04-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+
+        ],
+        "shortId":"AAABccjM156hd87flJUAAA"
+      },
+      {
+        "type":"liveblogpost",
+        "uid":"00000171-9e10-da76-abfb-9eb92e090000",
+        "uri":"https://www.tudn.com/futbol/liga-mx/eliga-mx-calendario-estadisticas-y-resultados-de-la-liga-virtual?postId=AAABcZ4Q2nar-565LgkAAA#AAABcZ4Q2nar-565LgkAAA",
+        "vertical":null,
+        "parent":null,
+        "title":"¡El rey de la selva! León goleó y retomó la cima",
+        "description":"",
+        "image":{
+          "type":"image",
+          "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title":"Univision Fallback Image",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width":1200,
+              "height":630
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-04-29T21:54:53-04:00",
+        "publishDate":"2020-04-21T14:48:33-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+
+        ],
+        "shortId":"AAABcZ4Q2nar-565LgkAAA"
+      },
+      {
+        "type":"liveblogpost",
+        "uid":"00000171-9610-d3d4-abf3-dfdc3f100000",
+        "uri":"https://www.tudn.com/futbol/liga-mx/eliga-mx-calendario-estadisticas-y-resultados-de-la-liga-virtual?postId=AAABcZYQ09Sr89_cPxAAAA#AAABcZYQ09Sr89_cPxAAAA",
+        "vertical":null,
+        "parent":null,
+        "title":"¡Los Gamers con más goles!",
+        "description":"",
+        "image":{
+          "type":"image",
+          "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title":"Univision Fallback Image",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width":1200,
+              "height":630
+            }
+          }
+        },
+        "authors":[
+
+        ],
+        "cardLabel":null,
+        "updateDate":"2020-04-29T21:47:37-04:00",
+        "publishDate":"2020-04-20T01:32:02-04:00",
+        "expirationDate":null,
+        "hierarchy":[
+
+        ],
+        "shortId":"AAABcZYQ09Sr89_cPxAAAA"
+      }
+    ],
+    "jwRecommendationChannel":"3xQGeJjl",
+    "primaryTag":{
+      "name":"Liga MX",
+      "link":"https://www.tudn.com/futbol/liga-mx"
+    },
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/lDHG102eBom",
+          "isFeedDialog":false,
+          "title":"La mejor atajada: Jorge Campos rechaza al coronavirus",
+          "description":"El exportero mexicano fue inmortalizado en un mural en Mexicali al enfrentar al enemigo del mundo.",
+          "imageUrl":"https://st1.uvnimg.com/8c/a0/f3f735504b8c9d7428566376198f/8173fd0ab72144f1b60b19d2b3da1f25",
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"http://uni.vi/lDHG102eBom",
+          "title":"La mejor atajada: Jorge Campos rechaza al coronavirus",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/lDHG102eBom",
+          "message":"La mejor atajada: Jorge Campos rechaza al coronavirus"
+        },
+        "mail":{
+          "subject":"La mejor atajada: Jorge Campos rechaza al coronavirus",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa mejor atajada: Jorge Campos rechaza al coronavirus\n\nEncuéntralo en este enlace:http://uni.vi/lDHG102eBom\n\nVisítanos https://www.univision.com"
+        }
+      }
+    }
+  },
+  {
+    "type":"article",
+    "uid":"00000163-f653-d373-a3ef-f65b85a60000",
+    "uri":"https://uat.tudn.com/mundial-rusia-2018/opinion-pronosticos-mundialistas",
+    "vertical":"Deportes",
+    "parent":{
+      "uuid":"0000015f-6f74-da07-a15f-ef7fdff50000",
+      "uri":"https://uat.tudn.com/mundial-rusia-2018",
+      "name":"mundial de rusia 2018",
+      "title":"Mundial de Rusia 2018"
+    },
+    "title":"Opinión | Pronósticos mundialistas",
+    "description":"Querer imponer nuestras expectativas en un Mundial resulta siempre inútil, pero no existe fanático en el mundo que no lo haga.",
+    "image":{
+      "type":"image",
+      "uid":"00000163-9740-d84a-a1ff-b7f13b7a0000",
+      "title":"León Krauze",
+      "caption":null,
+      "credit":"Univision",
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/d1/41/5ae216a24ba8bf1652d329e8d459/promo-krauze02.jpg",
+          "width":1280,
+          "height":720
+        }
+      }
+    },
+    "authors":[
+      {
+        "fullName":"León Krauze",
+        "image":{
+          "type":"image",
+          "uid":"0000014d-7758-d660-a1cf-7f7c0ae10000",
+          "title":"León Krauze / En Boca de León",
+          "caption":"León Krauze / En Boca de León",
+          "credit":"Univision",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/71/f2/284906bb43b198753050af0e876c/screen-shot-2017-02-14-at-13.39.19.png",
+              "width":1860,
+              "height":1200,
+              "focusPoint":{
+                "x":0.9715909090909091,
+                "y":0.3634361233480176
+              }
+            }
+          }
+        },
+        "uri":"https://uat.x.univision.com/temas/leon-krauze",
+        "socialNetworks":{
+          "facebookUrl":null,
+          "googleUrl":null,
+          "instagramUrl":null,
+          "linkedinUrl":null,
+          "pinterestUrl":null,
+          "snapchatUrl":null,
+          "twitterUrl":{
+            "text":null,
+            "name":"Twitter",
+            "url":"https://twitter.com/leonkrauze",
+            "target":"_blank"
+          },
+          "youTubeUrl":null
+        },
+        "link":null,
+        "mediaCompany":null,
+        "designation":null,
+        "description":"Conductor de noticias de Univision KMEX en Los Ángeles, periodista y autor",
+        "address":null,
+        "phoneNumber":null,
+        "website":null
+      }
+    ],
+    "cardLabel": "opinion",
+    "updateDate":"2018-06-12T20:04:56-04:00",
+    "publishDate":"2018-06-12T19:50:12-04:00",
+    "expirationDate":"3000-01-01T00:00:00-05:00",
+    "hierarchy":[
+      {
+        "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri":"https://uat.tudn.com",
+        "name":"deportes",
+        "title":"Deportes"
+      },
+      {
+        "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri":"https://uat.tudn.com/futbol",
+        "name":"futbol",
+        "title":"Fútbol"
+      },
+      {
+        "uuid":"0000015f-6f74-da07-a15f-ef7fdff50000",
+        "uri":"https://uat.tudn.com/mundial-rusia-2018",
+        "name":"mundial de rusia 2018",
+        "title":"Mundial de Rusia 2018"
+      }
+    ],
+    "contentPriority":"STANDARD",
+    "leadType":"image",
+    "articleType":"Standard",
+    "body":[
+      {
+        "type":"text",
+        "value":"<p>Jugarle al adivino en una Copa del Mundo es casi siempre un ejercicio estéril. Pero no por eso hay que dejar de intentarlo, ¿cierto? Aquí, pues, mis pronósticos mundialistas.</p>"
+      }
+    ],
+    "jwRecommendationChannel":"3xQGeJjl",
+    "dynamicPlaylist":false,
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/9DlO1017p4L",
+          "isFeedDialog":false,
+          "title":"Opinión | Pronósticos mundialistas",
+          "description":"Querer imponer nuestras expectativas en un Mundial resulta siempre inútil, pero no existe fanático en el mundo que no lo haga.",
+          "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/d1/41/5ae216a24ba8bf1652d329e8d459/promo-krauze02.jpg",
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"http://uni.vi/9DlO1017p4L",
+          "title":"Opinión | Pronósticos mundialistas",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/9DlO1017p4L",
+          "message":"Opinión | Pronósticos mundialistas"
+        },
+        "mail":{
+          "subject":"Opinión | Pronósticos mundialistas",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nOpinión | Pronósticos mundialistas\n\nEncuéntralo en este enlace:http://uni.vi/9DlO1017p4L\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "useWebviewInApps":false,
+    "primaryTag":{
+      "name":"Mundial de Rusia 2018",
+      "link":"https://uat.tudn.com/mundial-rusia-2018"
+    }
+  },
+  {
+    "type":"article",
+    "uid":"0000016f-832a-df30-ad6f-9b7f906d0002",
+    "uri":"https://uat.x.univision.com/shows/premio-lo-nuestro/este-martes-14-de-enero-conoceras-a-los-nominados-a-premio-lo-nuestro-2020",
+    "vertical":"Entretenimiento",
+    "parent":{
+      "uuid":"00000148-188e-de6d-ab4c-daae84cc0000",
+      "uri":"https://uat.x.univision.com/shows/premio-lo-nuestro",
+      "name":"premio lo nuestro",
+      "title":"Premio Lo Nuestro"
+    },
+    "title":"Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+    "description":"La esperada premiación se acerca y te decimos cómo puedes seguir la transmisión especial que Univision tiene preparada para que no te pierdas ningún detalle de quiénes son los nominados a la edición número 32 de Premio Lo Nuestro.",
+    "image":{
+      "type":"image",
+      "uid":"0000016f-87f7-de6a-adff-9fff6fbc0000",
+      "title":"Thumbnail_8-ene---Premios-lo-nuestro_2.jpg",
+      "caption":null,
+      "credit":"Univision",
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/12/af/46f7d99e4c97b2f378a723fde768/thumbnail-8-ene-premios-lo-nuestro-2.jpg",
+          "width":1920,
+          "height":1080,
+          "focusPoint":{
+            "x":0.5123452876466369,
+            "y":0.62
+          }
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":"DESTACADO",
+    "updateDate":"2020-04-29T04:56:42-04:00",
+    "publishDate":"2020-01-09T13:49:30-05:00",
+    "expirationDate":null,
+    "hierarchy":[
+      {
+        "uuid":"00000153-860f-dd44-afd7-f67fc3280012",
+        "uri":"https://uat.x.univision.com/shows",
+        "name":"shows",
+        "title":"Shows"
+      },
+      {
+        "uuid":"00000148-188e-de6d-ab4c-daae84cc0000",
+        "uri":"https://uat.x.univision.com/shows/premio-lo-nuestro",
+        "name":"premio lo nuestro",
+        "title":"Premio Lo Nuestro"
+      }
+    ],
+    "contentPriority":"STANDARD",
+    "leadType":"livestream",
+    "articleType":"Standard",
+    "body":[
+      {
+        "type":"text",
+        "value":"<p>La noche de oro de la música está muy cerca, y este <b>martes 14 de enero</b> Univision anunciará a los nominados a la edición de <b>Premio Lo Nuestro 2020 </b>que tendrá lugar el próximo 20 de febrero a las 7P/6C por Univision.</p>"
+      }
+    ],
+    "jwRecommendationChannel":"78MDrZDv",
+    "dynamicPlaylist":false,
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/TGBD1025YVN",
+          "isFeedDialog":false,
+          "title":"Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+          "description":"La esperada premiación se acerca y te decimos cómo puedes seguir la transmisión especial que Univision tiene preparada para que no te pierdas ningún detalle de quiénes son los nominados a la edición número 32 de Premio Lo Nuestro.",
+          "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/82/3c/186b763249b28e1663f4ace64d41/slate-ultimahora.jpg",
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"http://uni.vi/TGBD1025YVN",
+          "title":"Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/TGBD1025YVN",
+          "message":"Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 "
+        },
+        "mail":{
+          "subject":"Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEste martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 \n\nEncuéntralo en este enlace:http://uni.vi/TGBD1025YVN\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "useWebviewInApps":false,
+    "primaryTag":{
+      "name":"Premio Lo Nuestro",
+      "link":"https://uat.x.univision.com/shows/premio-lo-nuestro"
+    }
+  },
+  {
+    "type":"slideshow",
+    "uid":"00000172-27bf-d698-a7fe-67bf78410001",
+    "uri":"https://www.tudn.com/futbol/la-liga/con-la-mira-puesta-en-el-regreso-clubes-espanoles-se-preparan-fotos",
+    "vertical":"Deportes",
+    "parent":{
+      "uuid":"00000152-3cba-d0a8-a553-7ebb658d0000",
+      "uri":"https://www.tudn.com/futbol/la-liga",
+      "name":"la liga",
+      "title":"La Liga"
+    },
+    "title":"Barça, Real Madrid y el Atlético entrenan en grupo; no es lo recomendable lorum lorum lorum lorum lorum lorum lorum lorum lorum lorum lorum lorum",
+    "description":"En España, los equipos de LaLiga han vuelto a sus prácticas grupales, a pesar de las recomendaciones.",
+    "image":{
+      "type":"image",
+      "uid":"00000172-27d8-d698-a7fe-67fd21820001",
+      "title":"Entrenamientos en España.jpg",
+      "caption":null,
+      "credit":"Twitter",
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/55/a8/6b7830f44deaa58520d66a664858/entrenamientos-en-espana.jpg",
+          "width":1280,
+          "height":720
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2020-05-18T09:10:25-04:00",
+    "publishDate":"2020-05-18T08:56:11-04:00",
+    "expirationDate":null,
+    "hierarchy":[
+      {
+        "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri":"https://www.tudn.com",
+        "name":"deportes",
+        "title":"Deportes"
+      },
+      {
+        "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri":"https://www.tudn.com/futbol",
+        "name":"futbol",
+        "title":"Fútbol"
+      },
+      {
+        "uuid":"00000152-3cba-d0a8-a553-7ebb658d0000",
+        "uri":"https://www.tudn.com/futbol/la-liga",
+        "name":"la liga",
+        "title":"La Liga"
+      }
+    ],
+    "contentPriority":"STANDARD",
+    "slideshowType":"verticalslideshow",
+    "slideCount":11,
+    "cardImages":[
+      {
+        "type":"image",
+        "uid":"00000172-27d8-d698-a7fe-67fd21820001",
+        "title":"Entrenamientos en España.jpg",
+        "caption":null,
+        "credit":"Twitter",
+        "renditions":{
+          "original":{
+            "href":"https://st1.uvnimg.com/55/a8/6b7830f44deaa58520d66a664858/entrenamientos-en-espana.jpg",
+            "width":1280,
+            "height":720
+          }
+        }
+      },
+      {
+        "type":"image",
+        "uid":"00000172-27d1-d3f5-a377-ffff466e0000",
+        "title":"Virus Outbreak Spain Soccer",
+        "caption":"In this photo provided by Atletico Madrid, team players take part in the first group training session in Madrid, Spain, Monday May 18, 2020. All Spanish league clubs can begin group training sessions this week despite stricter lockdown restrictions remaining in place in parts of Spain because of the coronavirus pandemic. (Atletico de Madrid via AP)",
+        "credit":"AP",
+        "renditions":{
+          "original":{
+            "href":"https://st1.uvnimg.com/6e/b0/2d5784ed4d14b975aa61098f1e9c/atletico-de-madrid-1.jpg",
+            "width":2200,
+            "height":1466
+          }
+        }
+      },
+      {
+        "type":"image",
+        "uid":"00000172-27d1-d3f5-a377-ffff46740001",
+        "title":"Virus Outbreak Spain Soccer",
+        "caption":"In this photo provided by Atletico Madrid, team players take part in the first group training session in Madrid, Spain, on Monday May 18, 2020. All Spanish league clubs can begin group training sessions this week despite stricter lockdown restrictions remaining in place in parts of Spain because of the coronavirus pandemic. (Atletico de Madrid via AP)",
+        "credit":"AP",
+        "renditions":{
+          "original":{
+            "href":"https://st1.uvnimg.com/b1/6e/ab9c276841e08bb8306f0f02e57a/atletico-de-madrid-2.jpg",
+            "width":2835,
+            "height":1685
+          }
+        }
+      }
+    ],
+    "jwRecommendationChannel":"3xQGeJjl",
+    "primaryTag":{
+      "name":"La Liga",
+      "link":"https://www.tudn.com/futbol/la-liga"
+    },
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/LZ4F102fibN",
+          "isFeedDialog":false,
+          "title":"Equipos de la NBA ya entrenan en sus instalaciones",
+          "description":"Pese a que la liga aún no tiene fecha de reinicio, hay varias quintetas que trabajan en grupo.",
+          "imageUrl":"https://st1.uvnimg.com/0d/3f/dedc7a40402a8d8e75c13041708a/ce4bd5ce36744113b99d575eff7b9bab",
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"http://uni.vi/LZ4F102fibN",
+          "title":"Equipos de la NBA ya entrenan en sus instalaciones",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/LZ4F102fibN",
+          "message":"Equipos de la NBA ya entrenan en sus instalaciones"
+        },
+        "mail":{
+          "subject":"Equipos de la NBA ya entrenan en sus instalaciones",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEquipos de la NBA ya entrenan en sus instalaciones\n\nEncuéntralo en este enlace:http://uni.vi/LZ4F102fibN\n\nVisítanos https://www.univision.com"
+        }
+      }
+    }
+  },
+  {
+    "type":"video",
+    "uid":"00000172-2557-db04-ad7e-e757afb60000",
+    "uri":"https://www.tudn.com/futbol/mls/alan-pulido-vuelve-a-provocar-con-su-cubrebocas-lv-video",
+    "vertical":"Deportes",
+    "parent":{
+      "uuid":"00000152-3cae-d5cc-affa-7dafe52e0000",
+      "uri":"https://www.tudn.com/futbol/mls",
+      "name":"mls",
+      "title":"MLS"
+    },
+    "title":"Alan Pulido vuelve a provocar con su cubrebocas LV Alan Pulido vuelve a provocar con su cubrebocas LV Alan Pulido vuelve a provocar con su cubrebocas LV",
+    "description":"Sin importarle críticas, el jugador del Sporting Kansas City vuelve a usar su polémico cubrebocas.",
+    "image":{
+      "type":"image",
+      "uid":"00000172-2557-da5f-adf6-afffe1f00000",
+      "title":"35a0805cf8b149a9b69e91c070213695",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/c1/a6/ec44867347f5a9ececc1948c73ea/35a0805cf8b149a9b69e91c070213695",
+          "width":1296,
+          "height":729
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2020-05-17T21:14:52-04:00",
+    "publishDate":"2020-05-17T21:08:00-04:00",
+    "expirationDate":"2030-05-15T21:08:00-04:00",
+    "hierarchy":[
+      {
+        "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri":"https://www.tudn.com",
+        "name":"deportes",
+        "title":"Deportes"
+      },
+      {
+        "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri":"https://www.tudn.com/futbol",
+        "name":"futbol",
+        "title":"Fútbol"
+      },
+      {
+        "uuid":"00000152-3cae-d5cc-affa-7dafe52e0000",
+        "uri":"https://www.tudn.com/futbol/mls",
+        "name":"mls",
+        "title":"MLS"
+      }
+    ],
+    "contentPriority":"STANDARD",
+    "mcpid":"3860661",
+    "durationString":"0:54",
+    "episodeNo":null,
+    "authRequired":false,
+    "longform":false,
+    "longformPlayList":false,
+    "hasNextEpisode":false,
+    "source":"Univision",
+    "previewUrl":"2030-05-16_3860661.mp4",
+    "show":null,
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/qszk102fi1v",
+          "isFeedDialog":false,
+          "title":"Alan Pulido vuelve a provocar con su cubrebocas LV",
+          "description":"Sin importarle críticas, el jugador del Sporting Kansas City vuelve a usar su polémico cubrebocas.",
+          "imageUrl":"https://st1.uvnimg.com/c1/a6/ec44867347f5a9ececc1948c73ea/35a0805cf8b149a9b69e91c070213695",
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"http://uni.vi/qszk102fi1v",
+          "title":"Alan Pulido vuelve a provocar con su cubrebocas LV",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/qszk102fi1v",
+          "message":"Alan Pulido vuelve a provocar con su cubrebocas LV"
+        },
+        "mail":{
+          "subject":"Alan Pulido vuelve a provocar con su cubrebocas LV",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAlan Pulido vuelve a provocar con su cubrebocas LV\n\nEncuéntralo en este enlace:http://uni.vi/qszk102fi1v\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "categories":[
+      "Futbol",
+      "Deportes"
+    ],
+    "primaryTag":{
+      "name":"MLS",
+      "link":"https://www.tudn.com/futbol/mls"
+    }
+  },
+  {
+    "type":"video",
+    "uid":"00000172-331d-d049-a57e-73ff81140000",
+    "uri":"https://www.univision.com/noticias/edicion-digital/johnson-johnson-suspendera-la-venta-de-su-emblematico-talco-para-bebes-en-eeuu-video",
+    "vertical":"Noticias",
+    "parent":{
+      "uuid":"00000157-0fd4-d0c4-a977-efd79c140000",
+      "uri":"https://www.univision.com/noticias/edicion-digital",
+      "name":"edicion digital",
+      "title":"Edicion Digital"
+    },
+    "title":"Johnson & Johnson suspenderá la venta de su emblemático talco para bebés en EEUU",
+    "description":"La decisión de la empresa farmacéutica llega tras una larga batalla legal en la que más de 19,000 demandantes aseguran que el producto genera cáncer. \n<b><a href=\"https://www.univision.com/noticias/salud/la-farmaceutica-johnson-johnson-anuncia-que-no-comercializara-su-talco-para-bebes-en-eeuu\">Ver más de esta noticia. </a></b>",
+    "image":{
+      "type":"image",
+      "uid":"00000172-331d-d077-adff-f75fac220000",
+      "title":"596eca04f9d8465585d6b10bd52f7d16",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/3a/f1/6936b1ed44f9a2db56d5da7aa9c4/596eca04f9d8465585d6b10bd52f7d16",
+          "width":1920,
+          "height":1080
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2020-05-20T13:28:20-04:00",
+    "publishDate":"2020-05-20T13:18:00-04:00",
+    "expirationDate":"2030-05-20T13:18:00-04:00",
+    "hierarchy":[
+      {
+        "uuid":"0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri":"https://www.univision.com/shows",
+        "name":"shows",
+        "title":"shows"
+      },
+      {
+        "uuid":"00000157-0fd4-d0c4-a977-efd79c140000",
+        "uri":"https://www.univision.com/noticias/edicion-digital",
+        "name":"edicion digital",
+        "title":"Edicion Digital"
+      }
+    ],
+    "contentPriority":"STANDARD",
+    "mcpid":"3862023",
+    "durationString":"0:32",
+    "episodeNo":null,
+    "authRequired":false,
+    "longform":false,
+    "longformPlayList":false,
+    "hasNextEpisode":false,
+    "source":"Univision",
+    "previewUrl":"2030-05-20_3862023.mp4",
+    "show":null,
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/woTQ102frM3",
+          "isFeedDialog":false,
+          "title":"Johnson & Johnson suspenderá la venta de su emblemático talco para bebés en EEUU",
+          "description":"La decisión de la empresa farmacéutica llega tras una larga batalla legal en la que más de 19,000 demandantes aseguran que el producto genera cáncer. Ver más de esta noticia.",
+          "imageUrl":"https://st1.uvnimg.com/3a/f1/6936b1ed44f9a2db56d5da7aa9c4/596eca04f9d8465585d6b10bd52f7d16",
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"http://uni.vi/woTQ102frM3",
+          "title":"Johnson & Johnson suspenderá la venta de su emblemático talco para bebés en EEUU",
+          "via":"UniNoticias"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/woTQ102frM3",
+          "message":"Johnson & Johnson suspenderá la venta de su emblemático talco para bebés en EEUU"
+        },
+        "mail":{
+          "subject":"Johnson & Johnson suspenderá la venta de su emblemático talco para bebés en EEUU",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nJohnson & Johnson suspenderá la venta de su emblemático talco para bebés en EEUU\n\nEncuéntralo en este enlace:http://uni.vi/woTQ102frM3\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "categories":[
+      "Television",
+      "Shows",
+      "Noticias"
+    ],
+    "primaryTag":{
+      "name":"Edicion Digital",
+      "link":"https://www.univision.com/noticias/edicion-digital"
+    }
+  },
+  {
+    "type": "livestream",
+    "uid": "0000015c-a883-d5ed-addf-b9d3cfb10000",
+    "uri": "https://uat2.x.univision.com/chicago/wgbo/edicion-digital-chicago-livestream",
+    "vertical": "Local",
+    "parent": {
+      "uuid": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+      "uri": "https://uat2.x.univision.com/local/chicago-wgbo",
+      "name": "univision chicago",
+      "title": "Univision Chicago"
+    },
+    "cardLabel": "EN VIVO",
+    "title": "Trump habla en vivo de la crisis en los centros de detención en la frontera, de la crisis en los centros de detención en la frontera",
+    "description": "Erick ofrece una conferencia de prensa revelando que él es Pez Koi e hijo de Monchis. Chente le da a la DEA la localización de Pedro.",
+    "image": {
+      "type": "image",
+      "uid": "00000169-7925-d81d-a57b-7d27fc640000",
+      "title": "Gavin Newsom",
+      "caption": "California es uno de los 31 estados de EEUU que mantenía vigente la pena, sin embargo, la última ejecución en la cárcel de San Quintín ocurrió hace más de una década.",
+      "credit": "Rich Pedroncelli/AP",
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot.s3.amazonaws.com/ee/9e/4dd141ac445aa35c13ce0b668727/gavin-newsom-firma.jpg",
+          "width": 4265,
+          "height": 2705
+        },
+        "article-lead-sm": {
+          "href": "https://uat.uvn.psdops.com/dims4/default/d908695/2147483647/thumbnail/414x156%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+          "width": 414,
+          "height": 156
+        },
+        "16x9-med": {
+          "href": "https://uat.uvn.psdops.com/dims4/default/de13109/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "article-lead-md": {
+          "href": "https://uat.uvn.psdops.com/dims4/default/d9c9c7d/2147483647/thumbnail/1024x384%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F1500%2Fgavin-newsom-firma.jpg",
+          "width": 1024,
+          "height": 384
+        },
+        "16x9-mobile": {
+          "href": "https://uat.uvn.psdops.com/dims4/default/e86b884/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "https://uat.uvn.psdops.com/dims4/default/b14adba/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://uat.uvn.psdops.com/dims4/default/13b9275/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F1500%2Fgavin-newsom-firma.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "article-lead-xl": {
+          "href": "https://uat.uvn.psdops.com/dims4/default/e500da2/2147483647/thumbnail/1440x540%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F1500%2Fgavin-newsom-firma.jpg",
+          "width": 1440,
+          "height": 540
+        }
+      }
+    },
+    "authors": [],
+    "updateDate": "2019-02-26T16:52:18-05:00",
+    "publishDate": "2017-06-14T17:43:15-04:00",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy":[
+      {
+        "uuid":"0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri":"https://www.univision.com/shows",
+        "name":"shows",
+        "title":"shows"
+      },
+      {
+        "uuid":"00000157-0fd4-d0c4-a977-efd79c140000",
+        "uri":"https://www.univision.com/noticias/edicion-digital",
+        "name":"edicion digital",
+        "title":"Edicion Digital"
+      }
+    ],
+    "livestreamId": "201706141731",
+    "isDigitalChannelLiveStream": true,
+    "autoPlay": true,
+    "tvssUrl": "auth.univision.com",
+    "mainImage": "https://uvn-brightspot.s3.amazonaws.com/c4/1c/934cf5754d0e9136438b04504b38/01-slate-ediciondigital-chicago-gracias.jpg",
+    "active": true,
+    "auth": false,
+    "isAuth": false,
+    "player": "JW",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "isFeedDialog": false,
+          "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "description": "EN VIVO | Veracruz recibe al Toluca en actividad de la Copa MX. SIGUE EL PARTIDO AQU\u00cd",
+          "imageUrl": null,
+          "appId": "645138725541385"
+        },
+        "twitter": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "message": "EN VIVO | Veracruz vs Toluca en la Copa MX"
+        },
+        "mail": {
+          "subject": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu inter\u00e9s.\n\nEN VIVO | Veracruz vs Toluca en la Copa MX\n\nEncu\u00e9ntralo en este enlace:http:\/\/uni.vi\/If8j101N2Ce\n\nVis\u00edtanos https:\/\/www.univision.com"
+        }
+      }
+    },
+    "primaryTag":{
+      "name":"Edicion Digital",
+      "link":"https://www.univision.com/noticias/edicion-digital"
+    }
+  },
+  {
+    "type": "article",
+    "uid": "0000016f-13f9-ded6-a76f-f7fb7ec60003",
+    "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech/cto-alphabet",
+    "vertical": "Local",
+    "parent": {
+      "uuid": "0000016f-165c-ded6-a76f-f67fd3d50000",
+      "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech",
+      "name": "tech",
+      "title": "Tech"
+    },
+    "title": "Profesional en enfermería y cuidados de la tercera edad para pacientes crónicos y anacrónicos",
+    "description": "We are looking the CTO Alphabet",
+    "image": {
+      "type": "image",
+      "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+      "title": "Univision Fallback Image",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+          "width": 1200,
+          "height": 630
+        }
+      }
+    },
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2019-12-17T19:19:20-05:00",
+    "publishDate": "2019-12-17T08:09:11-05:00",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "uuid": "0000016f-13f6-ded6-a76f-f7ff66620000",
+        "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs",
+        "name": "jobs",
+        "title": "Jobs"
+      },
+      {
+        "uuid": "0000016f-165c-ded6-a76f-f67fd3d50000",
+        "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech",
+        "name": "tech",
+        "title": "Tech"
+      }
+    ],
+    "contentPriority": "STANDARD",
+    "jobListingData": {
+      "cityName": "Mountain View, CA",
+      "employment": "FLEX_TIME",
+      "website": "https://abc.xyz"
+    },
+    "leadType": null,
+    "articleType": "JobListing",
+    "body": [
+      {
+        "type": "text",
+        "value": "<p>We are looking for a talented Graphic Designer to cover a 10-month maternity leave role. We seek a high calibre individual with exceptional design skills, strong design principles and leadership qualities. Opportunity to extend the contract during this period for outstanding candidates.</p>"
+      }
+    ],
+    "jwRecommendationChannel": "usbn2Hem",
+    "useWebviewInApps": false,
+    "primaryTag": {
+      "name": "Tech",
+      "link": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech"
+    },
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "isFeedDialog": false,
+          "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "description": "EN VIVO | Veracruz recibe al Toluca en actividad de la Copa MX. SIGUE EL PARTIDO AQU\u00cd",
+          "imageUrl": null,
+          "appId": "645138725541385"
+        },
+        "twitter": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "title": "Profesional en enfermería y cuidados de la tercera edad para pacientes crónicos y anacrónicos",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "message": "EN VIVO | Veracruz vs Toluca en la Copa MX"
+        },
+        "mail": {
+          "subject": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu inter\u00e9s.\n\nEN VIVO | Veracruz vs Toluca en la Copa MX\n\nEncu\u00e9ntralo en este enlace:http:\/\/uni.vi\/If8j101N2Ce\n\nVis\u00edtanos https:\/\/www.univision.com"
+        }
+      }
+    }
+  },
+  {
+    "type":"show",
+    "uid":"00000148-12a5-dd17-abec-12edd5550000",
+    "uri":"https://uat.x.univision.com/shows/republica-deportiva",
+    "vertical":null,
+    "parent":null,
+    "title":"República Deportiva",
+    "description":"Acompaña a Lindsay Casinelli, Félix Fernández y las bellas senadoras cada domingo con los mejores goles y sucesos deportivos alrededor el mundo, al estilo único de República Deportiva.",
+    "image":{
+      "type":"image",
+      "uid":"0000016c-4f05-d33f-a36f-4fdd00ab0000",
+      "title":"República deportiva - Promo image",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/bd/6b/5a45137e48cdb8cb4e5d29ca4ccd/featuredshows.jpg",
+          "width":600,
+          "height":337
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2019-11-15T11:52:56-05:00",
+    "publishDate":"2014-08-26T22:02:38-04:00",
+    "expirationDate":"3000-01-01T00:00:00-05:00",
+    "hierarchy":[
+
+    ],
+    "airTime":"Domingo 12P/2C",
+    "headerLogo":{
+      "type":"image",
+      "uid":"0000016d-df2e-d8e7-a17d-ffff9a320000",
+      "title":"New_lg_Rep_deportiva.svg",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/8c/27/e23b766b48c19b2c18366086a332/logo-repubicadeportiva.svg",
+          "width":0,
+          "height":0
+        }
+      }
+    },
+    "highImpactImages":{
+      "mobile":{
+        "type":"image",
+        "uid":"0000016c-2b53-d706-af6c-7b7bb0de0000",
+        "title":"414_show_background_Republica_mobile.jpg",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/b3/5d/6f6b0bb445bfbbc1df037bbbf400/414-show-background-republica-mobile.jpg",
+            "width":414,
+            "height":233
+          }
+        }
+      },
+      "desktop":{
+        "type":"image",
+        "uid":"0000016e-6255-de53-af6e-ff5d0f0a0000",
+        "title":"1440_show_background_Republica_desktop.png",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/18/71/2162c18648419d8b08d75fd00d02/1440-show-background-republica-desktop.png",
+            "width":1440,
+            "height":466
+          }
+        }
+      }
+    },
+    "showCardArtwork":{
+      "type":"image",
+      "uid":"0000016d-dbbe-d8e7-a17d-fbff64a00000",
+      "title":"ShowCard-landscape (1).jpg",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original": {
+          "href": "https://st1.uvnimg.com/af/3d/4176652440be8792e3f666e6d717/lareinasoyyo.jpg",
+          "width": 150,
+          "height": 150
+        }
+      }
+    },
+    "socialNetworks":[
+      {
+        "text":null,
+        "name":"Facebook",
+        "url":"https://www.facebook.com/RepDeportiva/",
+        "target":"_blank"
+      },
+      {
+        "text":null,
+        "name":"Instagram",
+        "url":"https://www.instagram.com/republicadeportiva/?hl=en",
+        "target":"_blank"
+      },
+      {
+        "text":null,
+        "name":"Twitter",
+        "url":"https://twitter.com/repdeportiva?lang=es",
+        "target":"_blank"
+      }
+    ],
+    "feedConsumer":"UNIVISION",
+    "schedule":null
+  },
+  {
+    "type":"soccermatch",
+    "uid":"0000016f-1b7e-d587-a97f-3b7fcb7f0000",
+    "uri":"https://uat.tudn.com/futbol/liga-mx/monarcas-morelia-vs-queretaro-liga-mx-clausura-2020-03-13",
+    "vertical":null,
+    "parent":null,
+    "title":"Monarcas Morelia vs Querétaro",
+    "description":"Monarcas Morelia vs Querétaro",
+    "image":{
+      "type":"image",
+      "uid":"0000016c-0800-d9e5-a5fe-cbc4f0500000",
+      "title":"TUDN Fallback Image",
+      "caption":"Caption for TUDN fallback Image",
+      "credit":"Cerdit for TUDN fallback Image",
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/09/5d/24f813434825a19f5e6a1c375983/GettyImages-520917490.jpg",
+          "width":744,
+          "height":768
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":"EN JUEGO",
+    "updateDate":"2020-06-04T12:20:27-04:00",
+    "publishDate":"2019-12-18T19:11:31-05:00",
+    "expirationDate":null,
+    "hierarchy":[
+
+    ],
+    "streamId":"univision-tudn",
+    "shortTitle":"MOR vs QRO",
+    "matchId":2044159,
+    "soccerCompetitionSeason":{
+      "seasonId":"2019",
+      "seasonName":"Liga MX (Clausura) | 2019",
+      "soccerCompetition":{
+        "id":"385",
+        "name":"Liga MX (Clausura)",
+        "league":{
+          "type":"league",
+          "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri":"https://uat.tudn.com/futbol/liga-mx",
+          "id":"l.femexfut.mx.primera",
+          "image":{
+            "type":null,
+            "uid":null,
+            "title":null,
+            "caption":null,
+            "credit":null,
+            "renditions":null
+          },
+          "logo":{
+            "type":"image",
+            "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+            "title":"80x80_liga_mx.png",
+            "caption":"Liga MX",
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                "width":144,
+                "height":144
+              }
+            }
+          },
+          "abbreviation":"Liga MX",
+          "includesVideo":true,
+          "coverage":"Performance",
+          "activeSoccerCompetitionURL":null,
+          "hierarchy":[
+            {
+              "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+              "uri":"https://uat.tudn.com",
+              "name":"deportes",
+              "title":"Deportes"
+            },
+            {
+              "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri":"https://uat.tudn.com/futbol",
+              "name":"futbol",
+              "title":"Fútbol"
+            },
+            {
+              "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "uri":"https://uat.tudn.com/futbol/liga-mx",
+              "name":"liga mx",
+              "title":"Liga MX"
+            }
+          ]
+        },
+        "hasBracketsSupport":false
+      }
+    },
+    "homeTeamSeason":{
+      "previousFixtureScore": 3,
+      "penaltyScore": 0,
+      "score": 0,
+      "type":"teamseason",
+      "uid":"0000016f-1b7e-d587-a97f-3b7fa40c0000",
+      "uri":null,
+      "vertical":null,
+      "parent":null,
+      "title":"Monarcas Morelia | Liga MX (Clausura) | 2019",
+      "description":"Monarcas Morelia | Liga MX (Clausura) | 2019",
+      "image":{
+        "type":"image",
+        "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title":"Univision Fallback Image",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width":1200,
+            "height":630
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2019-12-18T19:11:21-05:00",
+      "publishDate":"2019-12-18T19:11:21-05:00",
+      "expirationDate":null,
+      "hierarchy":[
+
+      ],
+      "teamId":1289,
+      "teamName":"Monarcas Morelia",
+      "teamAbbreviatedName":"MOR",
+      "teamLogo":{
+        "type":"image",
+        "uid":"0000014d-087a-ddc6-a5dd-19fe0e5d0000",
+        "title":"Monarcas Morelia Logo",
+        "caption":"Monarcas Morelia",
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/26/c8/1ad4585f4c1e917996afb93afb1f/monarcas-2x.png",
+            "width":144,
+            "height":144
+          }
+        }
+      },
+      "soccerCompetitionSeason":{
+        "seasonId":"2019",
+        "seasonName":"Liga MX (Clausura) | 2019",
+        "soccerCompetition":{
+          "id":"385",
+          "name":"Liga MX (Clausura)",
+          "league":{
+            "type":"league",
+            "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+            "uri":"https://uat.tudn.com/futbol/liga-mx",
+            "id":"l.femexfut.mx.primera",
+            "image":{
+              "type":null,
+              "uid":null,
+              "title":null,
+              "caption":null,
+              "credit":null,
+              "renditions":null
+            },
+            "logo":{
+              "type":"image",
+              "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+              "title":"80x80_liga_mx.png",
+              "caption":"Liga MX",
+              "credit":null,
+              "renditions":{
+                "original":{
+                  "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                  "width":144,
+                  "height":144
+                }
+              }
+            },
+            "abbreviation":"Liga MX",
+            "includesVideo":true,
+            "coverage":"Performance",
+            "activeSoccerCompetitionURL":null,
+            "hierarchy":[
+              {
+                "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri":"https://uat.tudn.com",
+                "name":"deportes",
+                "title":"Deportes"
+              },
+              {
+                "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri":"https://uat.tudn.com/futbol",
+                "name":"futbol",
+                "title":"Fútbol"
+              },
+              {
+                "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri":"https://uat.tudn.com/futbol/liga-mx",
+                "name":"liga mx",
+                "title":"Liga MX"
+              }
+            ]
+          },
+          "hasBracketsSupport":false
+        }
+      }
+    },
+    "awayTeamSeason":{
+      "previousFixtureScore": 3,
+      "penaltyScore": 0,
+      "score": 0,
+      "type":"teamseason",
+      "uid":"0000016f-1b7e-d587-a97f-3b7fa6090000",
+      "uri":null,
+      "vertical":null,
+      "parent":null,
+      "title":"Querétaro | Liga MX (Clausura) | 2019",
+      "description":"Querétaro | Liga MX (Clausura) | 2019",
+      "image":{
+        "type":"image",
+        "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title":"Univision Fallback Image",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width":1200,
+            "height":630
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2019-12-18T19:11:22-05:00",
+      "publishDate":"2019-12-18T19:11:22-05:00",
+      "expirationDate":null,
+      "hierarchy":[
+
+      ],
+      "teamId":4047,
+      "teamName":"Querétaro",
+      "teamAbbreviatedName":"QRO",
+      "teamLogo":{
+        "type":"image",
+        "uid":"0000014d-0879-ddc6-a5dd-19ffc15f0000",
+        "title":"Querétaro Logo",
+        "caption":"Querétaro",
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/6c/72/a4011c3547d48a2e0001a97b0a44/queretano-2x.png",
+            "width":144,
+            "height":144
+          }
+        }
+      },
+      "soccerCompetitionSeason":{
+        "seasonId":"2019",
+        "seasonName":"Liga MX (Clausura) | 2019",
+        "soccerCompetition":{
+          "id":"385",
+          "name":"Liga MX (Clausura)",
+          "league":{
+            "type":"league",
+            "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+            "uri":"https://uat.tudn.com/futbol/liga-mx",
+            "id":"l.femexfut.mx.primera",
+            "image":{
+              "type":null,
+              "uid":null,
+              "title":null,
+              "caption":null,
+              "credit":null,
+              "renditions":null
+            },
+            "logo":{
+              "type":"image",
+              "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+              "title":"80x80_liga_mx.png",
+              "caption":"Liga MX",
+              "credit":null,
+              "renditions":{
+                "original":{
+                  "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                  "width":144,
+                  "height":144
+                }
+              }
+            },
+            "abbreviation":"Liga MX",
+            "includesVideo":true,
+            "coverage":"Performance",
+            "activeSoccerCompetitionURL":null,
+            "hierarchy":[
+              {
+                "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri":"https://uat.tudn.com",
+                "name":"deportes",
+                "title":"Deportes"
+              },
+              {
+                "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri":"https://uat.tudn.com/futbol",
+                "name":"futbol",
+                "title":"Fútbol"
+              },
+              {
+                "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri":"https://uat.tudn.com/futbol/liga-mx",
+                "name":"liga mx",
+                "title":"Liga MX"
+              }
+            ]
+          },
+          "hasBracketsSupport":false
+        }
+      }
+    },
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "isFeedDialog": false,
+          "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "description": "EN VIVO | Veracruz recibe al Toluca en actividad de la Copa MX. SIGUE EL PARTIDO AQU\u00cd",
+          "imageUrl": null,
+          "appId": "645138725541385"
+        },
+        "twitter": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "message": "EN VIVO | Veracruz vs Toluca en la Copa MX"
+        },
+        "mail": {
+          "subject": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu inter\u00e9s.\n\nEN VIVO | Veracruz vs Toluca en la Copa MX\n\nEncu\u00e9ntralo en este enlace:http:\/\/uni.vi\/If8j101N2Ce\n\nVis\u00edtanos https:\/\/www.univision.com"
+        }
+      }
+    },
+    "feedConsumer":"UNIVISION",
+    "schedule":null,
+    "widgetContext": {
+      "title": "Test title",
+      "name": "Test name",
+      "position": 1,
+      "metaData": {
+        "cardName": "soccermatch"
+      },
+      "isActionBarEnabled": true
+    }
+  },
+  {
+    "type": "livestream",
+    "uid": "0000015c-a883-d5ed-addf-b9d3cfb10000",
+    "uri": "https://uat2.x.univision.com/chicago/wgbo/edicion-digital-chicago-livestream",
+    "vertical": "Local",
+    "parent": {
+      "uuid": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+      "uri": "https://uat2.x.univision.com/local/chicago-wgbo",
+      "name": "univision chicago",
+      "title": "Univision Chicago"
+    },
+    "title": "Trump habla en vivo de la crisis en los centros de detención en la frontera, de la crisis en los centros de detención en la frontera",
+    "description": "Erick ofrece una conferencia de prensa revelando que él es Pez Koi e hijo de Monchis. Chente le da a la DEA la localización de Pedro.",
+    "image":{
+      "type":"image",
+      "uid":"0000016c-0800-d9e5-a5fe-cbc4f0500000",
+      "title":"TUDN Fallback Image",
+      "caption":"Caption for TUDN fallback Image",
+      "credit":"Cerdit for TUDN fallback Image",
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/09/5d/24f813434825a19f5e6a1c375983/GettyImages-520917490.jpg",
+          "width":744,
+          "height":768
+        }
+      }
+    },
+    "authors": [],
+    "updateDate": "2019-02-26T16:52:18-05:00",
+    "publishDate": "2017-06-14T17:43:15-04:00",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy":[
+      {
+        "uuid":"0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri":"https://www.univision.com/shows",
+        "name":"shows",
+        "title":"shows"
+      },
+      {
+        "uuid":"00000157-0fd4-d0c4-a977-efd79c140000",
+        "uri":"https://www.univision.com/noticias/edicion-digital",
+        "name":"edicion digital",
+        "title":"Edicion Digital"
+      }
+    ],
+    "livestreamId": "201706141731",
+    "liveStreamType": {
+      "status": "LIVE",
+      "leagueLogo": {
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "height": 630,
+            "href": "https://st1.uvnimg.com/12/e5/3e2b733d4867996d44e784de4aa4/logo-liga-mx.png",
+            "width": 1200
+          }
+        },
+        "title": null,
+        "type": null,
+        "uid": null
+      },
+      "homeTeam": {
+        "teamAbbreviatedName": "VAS",
+        "teamName": "Vasco da Gama",
+        "teamLogo":{
+          "type":"image",
+          "uid":"0000014d-0869-ddc6-a5dd-19ff724f0000",
+          "title":"261_eb",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://st1.uvnimg.com/1b/62/c1806ee54c1ca3ffbac9fc55ebd4/261-eb.png",
+              "width":100,
+              "height":100
+            }
+          }
+        },
+        "previousFixtureScore": 3,
+        "penaltyScore": 0,
+        "score": 0
+      },
+      "awayTeam": {
+        "teamAbbreviatedName": "SAN",
+        "teamName": "Santos",
+        "teamLogo":{
+          "type":"image",
+          "uid":"0000014d-0869-ddc6-a5dd-19ff724f0000",
+          "title":"261_eb",
+          "caption":null,
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://st1.uvnimg.com/e4/da/8f4c492c4d6fa8781f4533d33c03/73-eb.png",
+              "width":100,
+              "height":100
+            }
+          }
+        },
+        "previousFixtureScore": 3,
+        "penaltyScore": 0,
+        "score": 0
+      },
+      "soccerCompetitionSeason":{
+        "seasonId":"2019",
+        "seasonName":"Liga MX (Clausura) | 2019",
+        "soccerCompetition":{
+          "id":"385",
+          "name":"Liga MX (Clausura)",
+          "league":{
+            "type":"league",
+            "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+            "uri":"https://uat.tudn.com/futbol/liga-mx",
+            "id":"l.femexfut.mx.primera",
+            "image":{
+              "type":null,
+              "uid":null,
+              "title":null,
+              "caption":null,
+              "credit":null,
+              "renditions":null
+            },
+            "logo":{
+              "type":"image",
+              "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+              "title":"80x80_liga_mx.png",
+              "caption":"Liga MX",
+              "credit":null,
+              "renditions":{
+                "original":{
+                  "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                  "width":144,
+                  "height":144
+                }
+              }
+            },
+            "abbreviation":"Liga MX",
+            "includesVideo":true,
+            "coverage":"Performance",
+            "activeSoccerCompetitionURL":null,
+            "hierarchy":[
+              {
+                "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri":"https://uat.tudn.com",
+                "name":"deportes",
+                "title":"Deportes"
+              },
+              {
+                "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri":"https://uat.tudn.com/futbol",
+                "name":"futbol",
+                "title":"Fútbol"
+              },
+              {
+                "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri":"https://uat.tudn.com/futbol/liga-mx",
+                "name":"liga mx",
+                "title":"Liga MX"
+              }
+            ]
+          },
+          "hasBracketsSupport":false
+        }
+      }
+    },
+    "autoPlay": true,
+    "tvssUrl": "auth.univision.com",
+    "mainImage": "https://uvn-brightspot.s3.amazonaws.com/c4/1c/934cf5754d0e9136438b04504b38/01-slate-ediciondigital-chicago-gracias.jpg",
+    "active": true,
+    "auth": false,
+    "isAuth": false,
+    "player": "JW",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "isFeedDialog": false,
+          "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "description": "EN VIVO | Veracruz recibe al Toluca en actividad de la Copa MX. SIGUE EL PARTIDO AQU\u00cd",
+          "imageUrl": null,
+          "appId": "645138725541385"
+        },
+        "twitter": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http:\/\/uni.vi\/If8j101N2Ce",
+          "message": "EN VIVO | Veracruz vs Toluca en la Copa MX"
+        },
+        "mail": {
+          "subject": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu inter\u00e9s.\n\nEN VIVO | Veracruz vs Toluca en la Copa MX\n\nEncu\u00e9ntralo en este enlace:http:\/\/uni.vi\/If8j101N2Ce\n\nVis\u00edtanos https:\/\/www.univision.com"
+        }
+      }
+    },
+    "primaryTag":{
+      "name":"Edicion Digital",
+      "link":"https://www.univision.com/noticias/edicion-digital"
+    }
+  },
+  {
+    "type": "audio",
+    "uid": "00000170-9c03-de7f-a379-9f7750270000",
+    "uri": null,
+    "vertical": "Local Radio",
+    "parent": {
+      "uuid": "00000170-540e-d17b-abf1-5f8e61c30000",
+      "uri": "https://uat.x.univision.com/radio/podcasts/contrapoder-con-jorge-ramos",
+      "name": "contrapoder, con jorge ramos",
+      "title": "Contrapoder, con Jorge Ramos"
+    },
+    "title": "Episodio 109: América Latina: la región más violenta del mundo",
+    "description": "La organización Amnistia Internacional dio a conocer su reporte sobre las violaciones a los derechos humanos en el continente americano. Y en muchas ocasiones son los propios gobiernos los responsables de esas violaciones. Erika Guevara, de Amnistia Internacional, nos explica por qué América Latina es la zona más violenta del mundo.",
+    "image": {
+      "type": "image",
+      "uid": "00000170-832f-d133-a579-9fff03270000",
+      "title": "Contra_poder_PODCST@2x.jpg",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot-lower.s3.amazonaws.com/6f/9e/0f1b274e41f396dfeff5dfbfeaba/contra-poder-podcst-2x.jpg",
+          "width": 2920,
+          "height": 1948,
+          "focusPoint": {
+            "x": 0.5095881273970319,
+            "y": 0.10666666666666667
+          }
+        }
+      }
+    },
+    "authors": [ ],
+    "cardLabel": null,
+    "updateDate": "2020-03-03T11:12:43-05:00",
+    "publishDate": "2020-03-02T11:10:27-05:00",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "uuid": "0000015d-b7b1-d99b-a97f-f7fd93a60000",
+        "uri": "https://uat.x.univision.com/radio",
+        "name": "estaciones de radio",
+        "title": "Estaciones de Radio"
+      },
+      {
+        "uuid": "00000159-89ee-d847-a1d9-8ffecaf10000",
+        "uri": "https://uat.x.univision.com/radio/podcasts",
+        "name": "podcast univision",
+        "title": "Podcast Univision"
+      },
+      {
+        "uuisle": "Contrapoder, con Jorge Ramos"
+      }
+    ],
+    "url": "https://www.univision.com",
+    "audioMetadata": {},
+    "analyticsData": {},
+    "feedPubDate": 1583165148000,
+    "duration": "00:16:00",
+    "secondaryTags": [
+      {
+        "name": "Noticias",
+        "link": "https://uat.x.univision.com/temas/noticias"
+      }
+    ]
+  },
+  {
+    "type": "podcastseries",
+    "uid": "00000170-540e-d17b-abf1-5f8e61c30000",
+    "uri": "https://uat.x.univision.com/radio/podcasts/contrapoder-con-jorge-ramos",
+    "vertical": null,
+    "parent": null,
+    "title": "Contrapoder, con Jorge Ramos",
+    "description": "Haciendo contrapeso al poder, el periodista Jorge Ramos presenta cada lunes un nuevo episodio con sus entrevistas completas a los personajes que pasan por sus micrófonos; en ellas dirige la conversación a los temas más controversiales y relevantes del momento.",
+    "image": {
+      "type": "image",
+      "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+      "title": "Univision Fallback Image",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot-lower.s3.amazonaws.com/2b/c4/4ed2e58b4bb6a2ef10f080abaa0d/contra-poder-podcst-2x.jpg",
+          "width": 2920,
+          "height": 1948,
+          "focusPoint": {
+            "x": 0.5089779434607021,
+            "y": 0.45656542804894135
+          }
+        }
+      }
+    },
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2020-02-25T16:15:51-05:00",
+    "publishDate": "2020-02-17T11:51:54-05:00",
+    "expirationDate": null,
+    "hierarchy": [],
+    "iTunesURL": null,
+    "spotifyURL": null,
+    "googlePodcastURL": null,
+    "castboxURL": null,
+    "radioPublicURL": null,
+    "episodeCount": 1,
+    "primaryTag": {
+      "name": "Noticias",
+      "link": "https://uat.x.univision.com/temas/noticias"
+    }
+  },
+  {
+    "type":"person",
+    "uid":"0000014d-912d-d940-afef-ddbd28760000",
+    "uri":"https://uat.x.univision.com/radio/san-francisco-kbrg-fm/temas/jorge-ramos",
+    "vertical":null,
+    "parent":null,
+    "title":"Jorge Ramos",
+    "description":"Inmigrante, periodista y presentador de Noticiero Univision, Al Punto y America with Jorge Ramos.",
+    "image":{
+      "type":"image",
+      "uid":"00000163-18c4-df35-abff-7cfdab840000",
+      "title":"Jorge Ramos Periodista Bio Pic_NEW",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/26/4b/d353fd6a408babaa4e8b31865cec/jorge-ramos.jpg",
+          "width":300,
+          "height":300,
+          "focusPoint":{
+            "x":0.5,
+            "y":0.3933333333333333
+          }
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2020-04-14T14:29:12-04:00",
+    "publishDate":"2015-05-26T13:06:44-04:00",
+    "expirationDate":"3000-01-01T00:00:00-05:00",
+    "hierarchy":[
+
+    ],
+    "disableReactions":false,
+    "socialNetworks":{
+      "facebookUrl":{
+        "text":"Facebook",
+        "name":"Facebook",
+        "url":"https://www.facebook.com/jorgeramosnews/",
+        "target":"_blank"
+      },
+      "googleUrl":null,
+      "instagramUrl":{
+        "text":"Instagram",
+        "name":"Instagram",
+        "url":"https://www.instagram.com/jorgeramosnews/",
+        "target":"_blank"
+      },
+      "linkedinUrl":null,
+      "pinterestUrl":null,
+      "snapchatUrl":null,
+      "twitterUrl":{
+        "text":"Twitter",
+        "name":"Twitter",
+        "url":"https://www.twitter.com/jorgeramosnews/",
+        "target":"_blank"
+      },
+      "youTubeUrl":{
+        "text":"Youtube",
+        "name":"YouTube",
+        "url":"https://www.youtube.com/univision%20noticias",
+        "target":"_blank"
+      },
+      "youtubeUrl":{
+        "text":"Youtube",
+        "name":"YouTube",
+        "url":"https://www.youtube.com/univision%20noticias",
+        "target":"_blank"
+      }
+    },
+    "role":null,
+    "fullBio":[
+      {
+        "type":"text",
+        "value":"<p>Jorge Ramos es considerado uno de “los 25 hispanos más influyentes de Estados Unidos” y estuvo en una de las portadas de la revista TIME en el 2015 dedicada a las “100 personas más influyentes del mundo.” Desde el 3 de noviembre de 1986, es el conductor titular del Noticiero Univision en los Estados Unidos, el de mayor impacto en la comunidad hispana de Estados Unidos.</p>"
+      },
+      {
+        "type":"text",
+        "value":"<p>Y desde septiembre del 2007 es el conductor del programa semanal, Al Punto, donde entrevista a los personajes políticos del momento y analiza las noticias de la semana. Y a partir del 2013 trabaja para la cadena en inglés Fusion. Su programa de entrevistas se llama Show Me Something.</p>"
+      },
+      {
+        "type":"text",
+        "value":"<p>Como conductor del Noticiero Univision, Ramos ha cubierto cinco conflictos bélicos (El Salvador, el Golfo Pérsico, Kosovo, Afganistán e Irak), numerosos eventos históricos –los actos terroristas del 11 de septiembre del 2001, la caída del muro de Berlín, el fin del apartheid en Sudáfrica, la desintegración de la Unión Soviética, cumbres iberoamericanas, movimientos guerrilleros en Chiapas y centroamérica, elecciones en casi todo el continente…- y desastres naturales, incluyendo la catástrofe causada por huracán Katrina. Ramos ha participado en varios debates presidenciales. Ha entrevistado a algunas de las figuras políticas y culturales mas importantes de nuestros tiempos (Barack Obama, Bill y Hillary Clinton, George W. Bush, George Bush, John Kerry, Mitt Romney, John McCain, John Edwards, Al Gore, Fidel Castro, Hugo Chávez, Calderón, Fox, Zedillo, Salinas de Gortari, subcomandante Marcos, Uribe, Pastrana, Samper, Correa, Menem, Gaviria, Octavio Paz, Isabel Allende y Carlos Fuentes, entre muchos otros.)</p>"
+      },
+      {
+        "type":"text",
+        "value":"<p>Además de su tarea en el Noticiero Unvision, que se transmite en los Estados Unidos y 13 países de América Latina, Ramos escribe una columna semanal en más de 40 diarios del hemisferio (que distribuye The New York Times Syndicate). Ha publicado doce libros. El último es “Sin Miedo; Lecciones de Rebeldes”. Ramos ha ganado 10 premios Emmys y el prestigioso premio Walter Cronkite en el 2017.</p>"
+      }
+    ]
+  },
+  {
+    "type":"radiostation",
+    "uid":"0000014c-fdc1-d9c5-a3ee-ffdd027b0000",
+    "uri":"https://uat.x.univision.com/radio/mcallen-kbtq-fm/recuerdo-96-1",
+    "vertical":null,
+    "parent":null,
+    "title":"Recuerdo 96.1",
+    "description":"Bonitas y Moviditas",
+    "image":{
+      "type":"image",
+      "uid":"0000016d-d12b-d7b4-ad6f-f76b77070000",
+      "title":"McAllen_00_Recuerdo961.jpg",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/6d/80/9cc0801442098ffcee68d7321782/mcallen-00-recuerdo961.jpg",
+          "width":1335,
+          "height":2003,
+          "focusPoint":{
+            "x":0.5067586674961824,
+            "y":0.46718322870124246
+          }
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2020-06-23T06:09:16-04:00",
+    "publishDate":"2015-04-27T22:04:32-04:00",
+    "expirationDate":"3000-01-01T00:00:00-05:00",
+    "hierarchy":[
+
+    ],
+    "disableReactions":false,
+    "frequency":96.1,
+    "band":"FM",
+    "call":"KBTQ-FM",
+    "nowPlayingId":2877,
+    "logo":{
+      "type":"image",
+      "uid":"00000157-0b68-d4aa-a5df-ebfcc07d0000",
+      "title":"MC ALLEN RADIO STATIONS NUEVO LOGO NEW LOGO",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/32/8b/3b2885b24f719427dddd7a67bb9d/mcallen96.1_color.svg",
+          "width":0,
+          "height":0
+        }
+      }
+    },
+    "alternativeLogo":{
+      "type":"image",
+      "uid":"0000016c-b5db-d910-a76f-bfdf03f50000",
+      "title":"Recuerdo96.1_NewNav_Brand",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/08/76/51ee0fc14e48a332aee657716bf4/mcallen96.1_white.svg",
+          "width":0,
+          "height":0
+        }
+      }
+    },
+    "audioArtwork":null,
+    "abacast":{
+      "id":2321,
+      "demoId":294,
+      "aacStreamiOS":"https://live.wostreaming.net/playlist/univision-kbtqfmaac-ibc1.m3u?source=UforiaiOS",
+      "aacStreamAndroid":"https://live.wostreaming.net/playlist/univision-kbtqfmaac-ibc1.m3u?source=UforiaAndroid",
+      "mp3Stream":"https://live.wostreaming.net/direct/univision-kbtqfmaac-imc1?source=webPIPplayer"
+    },
+    "localMarket":{
+      "title":"McAllen",
+      "zipCodes":[
+
+      ]
+    },
+    "genres":[
+      "Adulto Contemporáneo",
+      "Romántico",
+      "Ranchera",
+      "Pop Español",
+      "Norteño",
+      "Mariachi"
+    ],
+    "socialNetworks":[
+      {
+        "text":"Recuerdo 96.1 McAllen Twitter",
+        "name":"Twitter",
+        "url":"https://twitter.com/recuerdo961",
+        "target":"_blank"
+      },
+      {
+        "text":"Recuerdo 96.1 McAllen Instagram",
+        "name":"Instagram",
+        "url":"https://www.instagram.com/recuerdo961/",
+        "target":"_blank"
+      },
+      {
+        "text":"Recuerdo 96.1 McAllen Facebook",
+        "name":"Facebook",
+        "url":"https://www.facebook.com/Recuerdo961/",
+        "target":"_blank"
+      }
+    ],
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"https://uat.x.univision.com/radio/mcallen-kbtq-fm/recuerdo-96-1",
+          "isFeedDialog":false,
+          "title":"Recuerdo 96.1",
+          "description":"Máxima Variedad Musical",
+          "imageUrl":null,
+          "appId":"645138725541385"
+        },
+        "twitter":{
+          "url":"https://uat.x.univision.com/radio/mcallen-kbtq-fm/recuerdo-96-1",
+          "title":"Recuerdo 96.1",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"https://uat.x.univision.com/radio/mcallen-kbtq-fm/recuerdo-96-1",
+          "message":"Recuerdo 96.1"
+        },
+        "mail":{
+          "subject":"Recuerdo 96.1",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRecuerdo 96.1\n\nEncuéntralo en este enlace:https://uat.x.univision.com/radio/mcallen-kbtq-fm/recuerdo-96-1\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "exclusive":false,
+    "primaryTag":{
+      "name":"Adulto Contemporáneo",
+      "link":"https://uat.x.univision.com/temas/adulto-contemporaneo"
+    }
+  },
+  {
+    "type":"section",
+    "uid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+    "uri":"https://uat.tudn.com",
+    "vertical":null,
+    "parent":null,
+    "title":"Deportes",
+    "description":"La información de todos los deportes sólo en TUDN.com",
+    "image":{
+      "type":"image",
+      "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+      "title":"Univision Fallback Image",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+          "width":1200,
+          "height":630
+        },
+        "16x9-med":{
+          "href":"https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+          "width":400,
+          "height":225
+        },
+        "16x9":{
+          "href":"https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+          "width":1240,
+          "height":698
+        },
+        "16x9-mobile":{
+          "href":"https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+          "width":480,
+          "height":270
+        },
+        "16x9-sm":{
+          "href":"https://uat2.x.univision.com/dims4/default/ffa03be/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+          "width":246,
+          "height":138
+        },
+        "16x9-tablet":{
+          "href":"https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+          "width":1024,
+          "height":576
+        },
+        "16x9-extended":{
+          "href":"https://uat2.x.univision.com/dims4/default/792ad33/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+          "width":1440,
+          "height":810
+        },
+        "16x9-loading":{
+          "href":"https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+          "width":30,
+          "height":17
+        }
+      }
+    },
+    "authors":[
+
+    ],
+    "cardLabel":null,
+    "updateDate":"2020-08-26T15:20:42-04:00",
+    "publishDate":"2015-03-24T16:59:32-04:00",
+    "expirationDate":null,
+    "hierarchy":[
+
+    ],
+    "disableReactions":false
+  },
+  {
+    "uid":"0000016c-f7ff-dd85-a36c-f7ff25980000",
+    "type":"externallink",
+    "link":{
+      "href":"https://art19.com/shows/la-liga-mx",
+      "target":"_blank",
+      "text":"LA PORRA TE SALUDA",
+      "uid":"0000016c-f7ff-dd85-a36c-f7ff25980000"
+    },
+    "uri":"https://art19.com/shows/la-liga-mx",
+    "title": "Test Title",
+    "description":null,
+    "image":{
+      "type":"image",
+      "uid":"0000016d-2c33-d9a2-ab6d-6eb7b92d0000",
+      "title":"La porra te saluda (tudn).jpg",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot.s3.amazonaws.com/e0/4e/717937af4d2f9059e613392a75f6/la-porra-te-saluda-tudn.jpg",
+          "width":1460,
+          "height":974,
+          "focusPoint":{
+            "x":0.4918613713358675,
+            "y":0.5286531858069439
+          }
+        }
+      }
+    },
+    "feedConsumer":"UNIVISION",
+    "schedule":null,
+    "cardLabel":null,
+    "updateDate":"2020-08-26T15:20:42-04:00",
+    "publishDate":"2015-03-24T16:59:32-04:00",
+    "expirationDate":null,
+    "hierarchy":[
+
+    ],
+    "disableReactions":false
+  },
+  {
+    "image": {
+      "type": "image",
+      "title": "Te explicamos",
+      "caption": "Te explicamos",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/dd/ae/617e27844e479b8b8e961e5718bf/image-landscape-2x.jpg",
+          "width": 1650,
+          "height": 1030,
+          "focusPoint": {
+            "x": 0.46,
+            "y": 0
+          }
+        },
+        "1x1-xs-mobile": {
+          "href": "https://st1.uvnimg.com/dd/ae/617e27844e479b8b8e961e5718bf/image-landscape-2x.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "1x1-xxs-mobile": {
+          "href": "https://st1.uvnimg.com/dd/ae/617e27844e479b8b8e961e5718bf/image-landscape-2x.jpg",
+          "width": 80,
+          "height": 80
+        },
+        "1x1": {
+          "href": "https://st1.uvnimg.com/dd/ae/617e27844e479b8b8e961e5718bf/image-landscape-2x.jpg",
+          "width": 1024,
+          "height": 1024
+        },
+        "1x1-xs": {
+          "href": "https://st1.uvnimg.com/dd/ae/617e27844e479b8b8e961e5718bf/image-landscape-2x.jpg",
+          "width": 260,
+          "height": 260
+        },
+        "1x1-mobile": {
+          "href": "https://st1.uvnimg.com/dd/ae/617e27844e479b8b8e961e5718bf/image-landscape-2x.jpg",
+          "width": 480,
+          "height": 480
+        }
+      }
+    },
+    "type": "externallink",
+    "uri": "#someUri",
+    "feedConsumer": "CONECTA",
+    "schedule": {
+      "feedConsumer": null,
+      "image": {
+        "type": "image",
+        "title": "source.gif",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot-lower.s3.amazonaws.com/22/4c/8fb0be24426ab75b8debb8c1f297/source.gif",
+            "width": 608,
+            "height": 456
+          },
+          "16x9-med": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/e3dfc5a/2147483647/thumbnail/400x225/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F22%2F4c%2F8fb0be24426ab75b8debb8c1f297%2Fresizes%2F500%2Fsource.gif",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/ec40086/2147483647/thumbnail/1240x698/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F22%2F4c%2F8fb0be24426ab75b8debb8c1f297%2Fsource.gif",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/1de35a8/2147483647/thumbnail/480x270/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F22%2F4c%2F8fb0be24426ab75b8debb8c1f297%2Fresizes%2F500%2Fsource.gif",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/a523784/2147483647/thumbnail/246x138/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F22%2F4c%2F8fb0be24426ab75b8debb8c1f297%2Fresizes%2F500%2Fsource.gif",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/38bc2bb/2147483647/thumbnail/1024x576%3E/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F22%2F4c%2F8fb0be24426ab75b8debb8c1f297%2Fsource.gif",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-extended": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/bc5ac17/2147483647/thumbnail/1440x810/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F22%2F4c%2F8fb0be24426ab75b8debb8c1f297%2Fsource.gif",
+            "width": 1440,
+            "height": 810
+          },
+          "16x9-loading": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/4ebc17b/2147483647/thumbnail/30x17/quality/75/format/jpg/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F22%2F4c%2F8fb0be24426ab75b8debb8c1f297%2Fresizes%2F500%2Fsource.gif",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "schedules": [
+        {
+          "pauseEvent": false,
+          "daysToGoLive": [
+            "SATURDAY"
+          ],
+          "startTime": "1:00:00",
+          "startMeridiem": "AM",
+          "endTime": "2:00:00",
+          "endMeridiem": "AM",
+          "timeZone": "US/Eastern",
+          "startDate": 1575409305689,
+          "endDate": 1575502905689
+        }
+      ]
+    }
+  },
+  {
+    "type": "videochannelpromo",
+    "uid": "00000175-22d8-d2d9-a9f5-fada036a0000",
+    "uri": "https://www.tudn.com",
+    "vertical": null,
+    "parent": null,
+    "title":"¡Jorge Campos ataja al coronavirus!",
+    "description": "TUDN",
+    "image":{
+      "type":"image",
+      "uid":"00000171-d3ce-d2b9-a9ff-d3ff8fd00000",
+      "title":"Jorge Campos mural",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/04/d5/bb179a5149b5830c9f69ab43e6ae/muraljorge-campos.png",
+          "width":1281,
+          "height":720,
+          "focusPoint":{
+            "x":0.49160739687055477,
+            "y":0.010799136069114468
+          }
+        }
+      }
+    },
+    "authors": [ ],
+    "cardLabel": null,
+    "updateDate": "2020-10-15T03:32:48-04:00",
+    "publishDate": "2020-10-13T12:43:56-04:00",
+    "expirationDate": null,
+    "hierarchy": [ ],
+    "disableReactions": false,
+    "logo": {
+      "type": "image",
+      "uid": "00000175-22d8-d2d9-a9f5-fada03780000",
+      "title": "Novelas.svg",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot-lower.s3.amazonaws.com/58/19/dbbf29c7485892545c55f96bc0fa/novelas.svg",
+          "width": 0,
+          "height": 0
+        }
+      }
+    }
+  },
+  {
+    "type": "videochannelpromo",
+    "uid": "00000175-22d8-d2d9-a9f5-fada036a0000",
+    "uri": "https://www.tudn.com",
+    "vertical": null,
+    "parent": null,
+    "title":"¡Jorge Campos ataja al coronavirus!",
+    "description": "TUDN",
+    "image":{
+      "type":"image",
+      "uid":"00000171-d3ce-d2b9-a9ff-d3ff8fd00000",
+      "title":"Jorge Campos mural",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/04/d5/bb179a5149b5830c9f69ab43e6ae/muraljorge-campos.png",
+          "width":1281,
+          "height":720,
+          "focusPoint":{
+            "x":0.49160739687055477,
+            "y":0.010799136069114468
+          }
+        }
+      }
+    },
+    "authors": [ ],
+    "cardLabel": null,
+    "updateDate": "2020-10-15T03:32:48-04:00",
+    "publishDate": "2020-10-13T12:43:56-04:00",
+    "expirationDate": null,
+    "hierarchy": [ ],
+    "disableReactions": false
+  },
+  {
+   "authors":[],
+   "cardLabel":null,
+   "description":"",
+   "disableReactions":false,
+   "expirationDate":null,
+   "feedConsumer":"UNIVISION",
+   "hierarchy":[],
+   "image": {
+    "caption":null,
+    "credit":null,
+    "renditions": {
+      "original": {
+        "height":288,
+        "href":"https://uvn-brightspot-lower.s3.amazonaws.com/e7/85/1ac09cc342edad0c9a4b5c0dc126/futbol-promo-art.jpg",
+        "width":512
+      }
+    },
+    "title":"Futbol Promo Art.jpg",
+    "type":"image",
+    "uid":"00000175-aee3-d407-af7f-affb82b40000"
+   },
+   "parent":null,
+   "publishDate":"2020-11-09T16:23:27-05:00",
+   "schedules":[],
+   "title":"Las mejores jugadas de Liga MX y Champions",
+   "type":"externalcontentpromo",
+   "uid":"00000175-aee3-d407-af7f-affb82a80000",
+   "updateDate":"2020-11-09T16:23:27-05:00",
+   "uri":"https://www.univision.com/",
+   "vertical":null
+  },
+  {
+    "authors":[],
+    "cardLabel":null,
+    "description":"",
+    "disableReactions":false,
+    "expirationDate":null,
+    "feedConsumer":"UNIVISION",
+    "hierarchy":[],
+    "image": {
+     "caption":null,
+     "credit":null,
+     "renditions": {
+       "original": {
+         "height":288,
+         "href":"https://uvn-brightspot-lower.s3.amazonaws.com/e7/85/1ac09cc342edad0c9a4b5c0dc126/futbol-promo-art.jpg",
+         "width":512
+       }
+     },
+     "title":"Futbol Promo Art.jpg",
+     "type":"image",
+     "uid":"00000175-aee3-d407-af7f-affb82b40000"
+    },
+    "parent":null,
+    "publishDate":"2020-11-09T16:23:27-05:00",
+    "schedules":[],
+    "title":"Las mejores jugadas de Liga MX y Champions",
+    "type":"section",
+    "uid":"00000175-aee3-d407-af7f-affb82a80000",
+    "updateDate":"2020-11-09T16:23:27-05:00",
+    "uri":"https://www.univision.com/",
+    "vertical":null
+  },
+  {
+    "type": "article",
+    "uid": "00000173-89d2-dba2-a973-abfb248a0001",
+    "uri": "https://uat.x.univision.com/horoscopos/capricornio/copyy-capricornio-viernes-10-de-julio-de-2020-haras-lo-que-hace-tiempo-habias-deseado-hacer",
+    "vertical": "Entretenimiento",
+    "parent": {
+      "uuid": "0000014c-e453-d74c-adde-fed7cb310000",
+      "uri": "https://uat.x.univision.com/horoscopos/capricornio",
+      "name": "capricornio",
+      "title": "Capricornio"
+    },
+    "title": "Capricornio – Viernes 10 de julio de 2020 harás lo que hace tiempo habías deseado hacer",
+    "description": "Pon a funcionar tus planes de forma directa. Más… Por Profesor Zellagro",
+    "image": {
+      "type": "image",
+      "uid": "0000016f-fcdc-d65a-a3ef-fefdf73c0000",
+      "title": "capricorniodiario",
+      "caption": "capricorniodiario",
+      "credit": "Univision",
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot.s3.amazonaws.com/cd/9d/a5a50790468da3e795cf48f407dc/capricornio.jpg",
+          "width": 1280,
+          "height": 720,
+          "focusPoint": {
+            "x": 0.7087480179481124,
+            "y": 0.5397890699904123
+          }
+        }
+      }
+    },
+    "authors": [
+      {
+        "fullName": "Profesor Zellagro",
+        "image": {
+          "type": "image",
+          "uid": "0000016e-13e5-d92a-ab7e-97fd5c310000",
+          "title": "Profesor Zellagro Perfil",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/5c/d4/1c0f091b46f099fb15fd03e41b78/01-zellagro.jpg",
+              "width": 1000,
+              "height": 1000
+            }
+          }
+        },
+        "uri": "https://uat2.x.univision.com/temas/profesor-zellagro",
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedinUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        },
+        "link": null,
+        "mediaCompany": null,
+        "designation": null
+      }
+    ],
+    "cardLabel": null,
+    "updateDate": "2020-10-28T04:12:46-04:00",
+    "publishDate": "2020-07-26T02:32:42-04:00",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+        "uri": "https://uat.x.univision.com/horoscopos",
+        "name": "horoscopos",
+        "title": "Horóscopos"
+      },
+      {
+        "uuid": "0000014c-e453-d74c-adde-fed7cb310000",
+        "uri": "https://uat.x.univision.com/horoscopos/capricornio",
+        "name": "capricornio",
+        "title": "Capricornio"
+      }
+    ],
+    "disableReactions": false,
+    "contentPriority": "STANDARD",
+    "horoscopeData": {
+      "signData": {
+        "type": "univisiontag",
+        "uid": "0000014b-c195-dc68-a14b-d9fd2aaf0000",
+        "uri": "https://uat.x.univision.com/temas/capricornio",
+        "vertical": null,
+        "parent": null,
+        "title": "Capricornio",
+        "description": "Capricornio",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2019-02-05T08:58:19-05:00",
+        "publishDate": "2015-02-25T11:33:13-05:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "hierarchy": [],
+        "disableReactions": false
+      },
+      "horoscopeDate": "2020-07-10",
+      "horoscopeDescription": "Capricornio – Viernes 10 de julio de 2020 harás lo que hace tiempo habías deseado hacer"
+    },
+    "leadType": "video",
+    "readTime": 2,
+    "articleType": "Horoscope",
+    "body": [
+      {
+        "type": "text",
+        "value": "<p><b><i>Noticiero astrológico: La Luna sigue en Piscis, ya moviéndose al signo de Aries. La vibración del día de hoy es la del tres, la del esparcimiento. Los planetas Mercurio, Júpiter, Saturno, Neptuno y el planetoide Plutón siguen retrógrados.</i></b></p>"
+      }
+    ],
+    "jwRecommendationChannel": "dy1wHZR4",
+    "dynamicPlaylist": false,
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "https://uat.x.univision.com/horoscopos/capricornio/copyy-capricornio-viernes-10-de-julio-de-2020-haras-lo-que-hace-tiempo-habias-deseado-hacer",
+          "isFeedDialog": false,
+          "title": "Capricornio – Viernes 10 de julio de 2020 harás lo que hace tiempo habías deseado hacer",
+          "description": "Pon a funcionar tus planes de forma directa. Más… Por Profesor Zellagro",
+          "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/c8/04/47f4abe64d46bd02d33b234280e8/4b9ec78080fe4d5c94033f28a2b76beb",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "https://uat.x.univision.com/horoscopos/capricornio/copyy-capricornio-viernes-10-de-julio-de-2020-haras-lo-que-hace-tiempo-habias-deseado-hacer",
+          "title": "Capricornio – Viernes 10 de julio de 2020 harás lo que hace tiempo habías deseado hacer",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "https://uat.x.univision.com/horoscopos/capricornio/copyy-capricornio-viernes-10-de-julio-de-2020-haras-lo-que-hace-tiempo-habias-deseado-hacer",
+          "message": "Capricornio – Viernes 10 de julio de 2020 harás lo que hace tiempo habías deseado hacer"
+        },
+        "mail": {
+          "subject": "Capricornio – Viernes 10 de julio de 2020 harás lo que hace tiempo habías deseado hacer",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCapricornio – Viernes 10 de julio de 2020 harás lo que hace tiempo habías deseado hacer\n\nEncuéntralo en este enlace:https://uat.x.univision.com/horoscopos/capricornio/copyy-capricornio-viernes-10-de-julio-de-2020-haras-lo-que-hace-tiempo-habias-deseado-hacer\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "useWebviewInApps": false,
+    "primaryTag": {
+      "name": "Capricornio",
+      "link": "https://uat.x.univision.com/horoscopos/capricornio"
+    }
+  },
+  {
+    "type": "videochannelpromo",
+    "uid": "00000177-f461-d1bf-abff-f76d49df0000",
+    "uri": "https://app.prende.tv/cine-boom",
+    "vertical": null,
+    "parent": null,
+    "title": "Películas de acción llenas de emoción y adrenalina",
+    "description": "Películas de acción llenas de emoción y adrenalina",
+    "image": {
+      "type": "image",
+      "uid": "00000176-d841-dd84-a17e-dccd38d40001",
+      "title": "Electoral College Protests",
+      "caption": "With the Washington Monument in the background, people wait to hear from speakers Wednesday, Jan. 6, 2021, in Washington, at a rally in support of President Donald Trump called the \"Save America Rally.\" (AP Photo/Jacquelyn Martin)",
+      "credit": "Jacquelyn Martin/AP",
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot.s3.amazonaws.com/7f/4d/d35fc1a24ce68a13ae133a0a8ce1/ap21006483790855.jpg",
+          "width": 5262,
+          "height": 3508
+        }
+      }
+    },
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2021-03-02T15:35:04-05:00",
+    "publishDate": "2021-03-02T15:35:04-05:00",
+    "expirationDate": null,
+    "sharing": null,
+    "hierarchy": [],
+    "featuredTags": [],
+    "disableReactions": false,
+    "logo": {
+      "type": "image",
+      "uid": "00000177-f4a5-df36-adff-f6bdb2c10000",
+      "title": "CINE_BOOM.png",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://uvn-brightspot-lower.s3.amazonaws.com/ca/47/b0fbde2643d18e038a3dc1aa65d6/cine-boom.png",
+          "width": 250,
+          "height": 250
+        }
+      }
+    },
+    "channelOrShowName": "CINE BOOM"
+  },
+  {
+    "type":"soccerperson",
+    "uid":"00000177-d35d-d732-a1f7-dbff6c170000",
+    "uri":"https://uat.tudn.com/temas/leo-fenga",
+    "vertical":null,
+    "title":"Leo Fenga",
+    "description":"description",
+    "image":{
+      "type":"image",
+      "uid":"00000178-fac7-d79e-a3f8-fbc7ba540000",
+      "title":"Leonardo_Berteli_Fenga.jpg",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://uvn-brightspot-lower.s3.amazonaws.com/28/60/457b9da74790a569abe2be95b80d/leonardo-berteli-fenga.jpg",
+          "width":260,
+          "height":431
+        }
+      }
+    },
+    "cardLabel":null,
+    "updateDate":"2021-04-23T12:09:52-04:00",
+    "publishDate":"2021-02-24T04:27:30-05:00",
+    "expirationDate":null,
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"https://uat.x.univision.com/deportes/temas/leo-fenga",
+          "isFeedDialog":false,
+          "title":"Leo Fenga",
+          "description":"description",
+          "imageUrl":"https://uvn-brightspot-lower.s3.amazonaws.com/28/60/457b9da74790a569abe2be95b80d/leonardo-berteli-fenga.jpg",
+          "appId":"1007833782615811"
+        },
+        "twitter":{
+          "url":"https://uat.x.univision.com/deportes/temas/leo-fenga",
+          "title":"Leo Fenga",
+          "via":"Univision"
+        },
+        "whatsapp":{
+          "url":"https://uat.x.univision.com/deportes/temas/leo-fenga",
+          "message":"Leo Fenga"
+        },
+        "mail":{
+          "subject":"Leo Fenga",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLeo Fenga\n\nEncuéntralo en este enlace:https://uat.x.univision.com/deportes/temas/leo-fenga\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "featuredTags":[],
+    "disableReactions":false,
+    "adSettings":{
+      "disable3rdPartyAds":false,
+      "disableAds":false,
+      "disableVideoAds":false,
+      "adTagValue":"temas",
+      "targeting":{
+        "tag":[
+          "leo fenga"
+        ],
+        "vertical":""
+      },
+      "contentSpecificSettings":{}
+    },
+    "tracking":{
+      "analytics":{
+        "data":{
+          "adtag_value":"temas",
+          "all_tags":[],
+          "canonical_url":"https://uat.tudn.com/temas/leo-fenga",
+          "content_created_date":"2021-02-24",
+          "content_id":"00000177-d35d-d732-a1f7-dbff6c170000",
+          "content_modified_date":"2021-04-23",
+          "content_type":"soccerperson",
+          "environment_name":"qa",
+          "permalink":"https://uat.tudn.com/temas/leo-fenga",
+          "platform":"website",
+          "section_level1":"univision",
+          "seo_optimized":"false",
+          "title":"leo fenga"
+        }
+      },
+      "nielsen":{
+        "appId":"PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid":null,
+        "environment":"qa",
+        "primaryTopic":null
+      }
+    },
+    "analyticsData":{
+      "apps":{
+        "common":{
+          "adtag_value":"temas",
+          "all_tags":[],
+          "content_author":"",
+          "content_created_date":"2021-02-24",
+          "content_id":"00000177-d35d-d732-a1f7-dbff6c170000",
+          "content_type":"soccerperson",
+          "title":"leo fenga",
+          "tudnxtra":"false"
+        },
+        "contentSpecific":{},
+        "nielsen":{
+          "common":{
+            "assetid":"00000177-d35d-d732-a1f7-dbff6c170000",
+            "section":"soccerperson",
+            "segB":"noticias",
+            "type":"static"
+          },
+          "contentSpecific":{
+            "segB":"noticias"
+          }
+        }
+      },
+      "web":{
+        "common":{
+          "adtag_value":"temas",
+          "all_tags":[],
+          "content_author":"",
+          "content_created_date":"2021-02-24",
+          "content_id":"00000177-d35d-d732-a1f7-dbff6c170000",
+          "content_modified_date":"2021-04-23",
+          "content_type":"soccerperson",
+          "permalink":"https://uat.tudn.com/temas/leo-fenga",
+          "platform":"website",
+          "publish_user":"uvn robot - deportes",
+          "seo_focus_keyword":"not defined",
+          "seo_optimized":0,
+          "title":"leo fenga",
+          "tudnxtra":"false"
+        },
+        "contentSpecific":{},
+        "nielsen":{
+          "common":{
+            "assetid":"00000177-d35d-d732-a1f7-dbff6c170000",
+            "section":"soccerperson",
+            "segB":"noticias",
+            "type":"static"
+          },
+          "contentSpecific":{
+            "segB":"noticias"
+          }
+        }
+      }
+    },
+    "metaTagData":{
+      "openGraph":{
+        "type":null,
+        "title":"Leo Fenga",
+        "description":"description",
+        "imageUrl":"https://uat2.x.univision.com/dims4/default/9e470e8/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F28%2F60%2F457b9da74790a569abe2be95b80d%2Fleonardo-berteli-fenga.jpg",
+        "url":"https://uat.tudn.com/temas/leo-fenga",
+        "siteName":"Univision"
+      },
+      "twitter":{
+        "card":"summary_large_image",
+        "title":"Leo Fenga",
+        "description":"description",
+        "creator":null,
+        "imageUrl":"https://uat2.x.univision.com/dims4/default/9e470e8/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2F28%2F60%2F457b9da74790a569abe2be95b80d%2Fleonardo-berteli-fenga.jpg"
+      },
+      "facebook":{
+        "pages":null
+      }
+    },
+    "seo":{
+      "title":"Leo Fenga: Últimas noticias, videos y fotos de Leo Fenga | TUDN Univision",
+      "description":"Últimas noticias de Leo Fenga. Mantente informado con las últimas noticias, videos y fotos de Leo Fenga que te brinda Univision | TUDN Univision",
+      "canonicalUrl":"https://uat.tudn.com/temas/leo-fenga",
+      "keywords":null,
+      "robots":[
+        "noindex",
+        "nofollow"
+      ],
+      "language":"es",
+      "ld_json":null,
+      "news_keywords":[
+        "Leo Fenga"
+      ]
+    },
+    "widgets":[
+      {
+        "settings":{
+          "type":"indexwidget",
+          "uid":"$-719170345",
+          "title":"Lo Más Reciente",
+          "titleLink":null,
+          "lazyLoaded":false
+        },
+        "analyticsData":{
+          "widget":{
+            "widget_pos":0,
+            "widget_title":"lo mas reciente",
+            "widget_type":"index widget"
+          }
+        },
+        "contents":[],
+        "breakingNewsMode":false,
+        "id":"00000179-0f8d-d1dd-a779-ffdf9b7a0000",
+        "type":"IndexWidget",
+        "commonRootSection":null
+      }
+    ],
+    "source":"Univision",
+    "secondaryTags":null,
+    "globalWidgets":[],
+    "relatedTags":[
+      {
+        "id":"588",
+        "name":"Uruguay Primera (Clausura)",
+        "league":{
+          "type":"league",
+          "uid":"00000162-bfee-df9c-a76f-ffee01500000",
+          "uri":"https://uat.tudn.com/futbol/uruguay-primera",
+          "id":null,
+          "image":{
+            "type":null,
+            "uid":null,
+            "title":null,
+            "caption":null,
+            "credit":null,
+            "renditions":null
+          },
+          "logo":{
+            "type":null,
+            "uid":null,
+            "title":null,
+            "caption":null,
+            "credit":null,
+            "renditions":null
+          },
+          "abbreviation":null,
+          "includesVideo":false,
+          "coverage":"Basic",
+          "activeSoccerCompetitionURL":null,
+          "hierarchy":[
+            {
+              "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+              "uri":"https://uat.tudn.com",
+              "name":"deportes",
+              "title":"Deportes"
+            },
+            {
+              "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri":"https://uat.tudn.com/futbol",
+              "name":"futbol",
+              "title":"Fútbol"
+            },
+            {
+              "uuid":"00000162-bfee-df9c-a76f-ffee01500000",
+              "uri":"https://uat.tudn.com/futbol/uruguay-primera",
+              "name":"uruguay primera",
+              "title":"Uruguay Primera"
+            }
+          ]
+        },
+        "hasBracketsSupport":false
+      },
+      {
+        "id":"420",
+        "name":"Copa Libertadores",
+        "league":{
+          "type":"league",
+          "uid":"00000152-3cf3-d5cc-affa-7df74ea80000",
+          "uri":"https://uat.tudn.com/futbol/copa-libertadores",
+          "id":null,
+          "image":{
+            "type":null,
+            "uid":null,
+            "title":null,
+            "caption":null,
+            "credit":null,
+            "renditions":null
+          },
+          "logo":{
+            "type":"image",
+            "uid":"0000014d-2043-d28b-a77d-f0e3bb570000",
+            "title":"Copa_Bridgestone_Libertadores_logo.png",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/15/ff/988899384bb5b2d00f8ae88d4e7d/copa-bridgestone-libertadores-logo.png",
+                "width":376,
+                "height":354
+              },
+              "16x9-med":{
+                "href":"https://uat2.x.univision.com/dims4/default/ff20063/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F15%2Fff%2F988899384bb5b2d00f8ae88d4e7d%2Fcopa-bridgestone-libertadores-logo.png",
+                "width":400,
+                "height":225
+              },
+              "16x9":{
+                "href":"https://uat2.x.univision.com/dims4/default/c370af5/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F15%2Fff%2F988899384bb5b2d00f8ae88d4e7d%2Fcopa-bridgestone-libertadores-logo.png",
+                "width":1240,
+                "height":698
+              },
+              "16x9-mobile":{
+                "href":"https://uat2.x.univision.com/dims4/default/4849e1c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F15%2Fff%2F988899384bb5b2d00f8ae88d4e7d%2Fcopa-bridgestone-libertadores-logo.png",
+                "width":480,
+                "height":270
+              },
+              "16x9-sm":{
+                "href":"https://uat2.x.univision.com/dims4/default/055e52e/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F15%2Fff%2F988899384bb5b2d00f8ae88d4e7d%2Fcopa-bridgestone-libertadores-logo.png",
+                "width":246,
+                "height":138
+              },
+              "16x9-tablet":{
+                "href":"https://uat2.x.univision.com/dims4/default/65f10cc/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F15%2Fff%2F988899384bb5b2d00f8ae88d4e7d%2Fcopa-bridgestone-libertadores-logo.png",
+                "width":1024,
+                "height":576
+              },
+              "16x9-extended":{
+                "href":"https://uat2.x.univision.com/dims4/default/b66bbc4/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F15%2Fff%2F988899384bb5b2d00f8ae88d4e7d%2Fcopa-bridgestone-libertadores-logo.png",
+                "width":1440,
+                "height":810
+              },
+              "16x9-loading":{
+                "href":"https://uat2.x.univision.com/dims4/default/0e30132/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F15%2Fff%2F988899384bb5b2d00f8ae88d4e7d%2Fcopa-bridgestone-libertadores-logo.png",
+                "width":30,
+                "height":17
+              }
+            }
+          },
+          "abbreviation":"Copa Libertadores",
+          "includesVideo":false,
+          "coverage":"Classic",
+          "activeSoccerCompetitionURL":null,
+          "hierarchy":[
+            {
+              "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+              "uri":"https://uat.tudn.com",
+              "name":"deportes",
+              "title":"Deportes"
+            },
+            {
+              "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri":"https://uat.tudn.com/futbol",
+              "name":"futbol",
+              "title":"Fútbol"
+            },
+            {
+              "uuid":"00000152-3cf3-d5cc-affa-7df74ea80000",
+              "uri":"https://uat.tudn.com/futbol/copa-libertadores",
+              "name":"copa libertadores",
+              "title":"Copa Libertadores"
+            }
+          ]
+        },
+        "hasBracketsSupport":false
+      },
+      {
+        "id":"8",
+        "name":"Premier League",
+        "league":{
+          "type":"league",
+          "uid":"00000152-3b9f-d0a8-a553-7f9fafe20000",
+          "uri":"https://uat.tudn.com/futbol/premier-league",
+          "id":null,
+          "image":{
+            "type":null,
+            "uid":null,
+            "title":null,
+            "caption":null,
+            "credit":null,
+            "renditions":null
+          },
+          "logo":{
+            "type":"image",
+            "uid":"0000014d-5856-d39e-a1dd-795fb81d0000",
+            "title":"premier league_85x85",
+            "caption":"Premier League",
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/59/54/e3ca6282482d8b3f6865520aee4f/premier-league-2x.png",
+                "width":144,
+                "height":144
+              },
+              "16x9-med":{
+                "href":"https://uat2.x.univision.com/dims4/default/e32b0cb/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F54%2Fe3ca6282482d8b3f6865520aee4f%2Fpremier-league-2x.png",
+                "width":400,
+                "height":225
+              },
+              "16x9":{
+                "href":"https://uat2.x.univision.com/dims4/default/e8b1d2d/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F54%2Fe3ca6282482d8b3f6865520aee4f%2Fpremier-league-2x.png",
+                "width":1240,
+                "height":698
+              },
+              "16x9-mobile":{
+                "href":"https://uat2.x.univision.com/dims4/default/7db5108/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F54%2Fe3ca6282482d8b3f6865520aee4f%2Fpremier-league-2x.png",
+                "width":480,
+                "height":270
+              },
+              "16x9-sm":{
+                "href":"https://uat2.x.univision.com/dims4/default/116403e/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F54%2Fe3ca6282482d8b3f6865520aee4f%2Fpremier-league-2x.png",
+                "width":246,
+                "height":138
+              },
+              "16x9-tablet":{
+                "href":"https://uat2.x.univision.com/dims4/default/545f153/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F54%2Fe3ca6282482d8b3f6865520aee4f%2Fpremier-league-2x.png",
+                "width":1024,
+                "height":576
+              },
+              "16x9-extended":{
+                "href":"https://uat2.x.univision.com/dims4/default/8e9a589/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F54%2Fe3ca6282482d8b3f6865520aee4f%2Fpremier-league-2x.png",
+                "width":1440,
+                "height":810
+              },
+              "16x9-loading":{
+                "href":"https://uat2.x.univision.com/dims4/default/2b99783/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F54%2Fe3ca6282482d8b3f6865520aee4f%2Fpremier-league-2x.png",
+                "width":30,
+                "height":17
+              }
+            }
+          },
+          "abbreviation":"Premier League",
+          "includesVideo":false,
+          "coverage":"Performance",
+          "activeSoccerCompetitionURL":null,
+          "hierarchy":[
+            {
+              "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+              "uri":"https://uat.tudn.com",
+              "name":"deportes",
+              "title":"Deportes"
+            },
+            {
+              "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri":"https://uat.tudn.com/futbol",
+              "name":"futbol",
+              "title":"Fútbol"
+            },
+            {
+              "uuid":"00000152-3b9f-d0a8-a553-7f9fafe20000",
+              "uri":"https://uat.tudn.com/futbol/premier-league",
+              "name":"premier league",
+              "title":"Premier League"
+            }
+          ]
+        },
+        "hasBracketsSupport":false
+      },
+      {
+        "id":"99",
+        "name":"Liga Portugal",
+        "league":{
+          "type":"league",
+          "uid":"00000152-3d19-d5cc-affa-7d1f51260000",
+          "uri":"https://uat.tudn.com/futbol/liga-portugal",
+          "id":null,
+          "image":{
+            "type":null,
+            "uid":null,
+            "title":null,
+            "caption":null,
+            "credit":null,
+            "renditions":null
+          },
+          "logo":{
+            "type":"image",
+            "uid":"00000166-97ea-d498-abe7-b7ff9af20000",
+            "title":"liga-nos-2x.png",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://uvn-brightspot.s3.amazonaws.com/32/40/a817075b49ad8cfe495d09f7f5a6/liga-nos-2x.png",
+                "width":144,
+                "height":144
+              },
+              "16x9-med":{
+                "href":"https://uat2.x.univision.com/dims4/default/eec2dfb/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2F40%2Fa817075b49ad8cfe495d09f7f5a6%2Fliga-nos-2x.png",
+                "width":400,
+                "height":225
+              },
+              "16x9":{
+                "href":"https://uat2.x.univision.com/dims4/default/d9e7238/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2F40%2Fa817075b49ad8cfe495d09f7f5a6%2Fliga-nos-2x.png",
+                "width":1240,
+                "height":698
+              },
+              "16x9-mobile":{
+                "href":"https://uat2.x.univision.com/dims4/default/0e80fec/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2F40%2Fa817075b49ad8cfe495d09f7f5a6%2Fliga-nos-2x.png",
+                "width":480,
+                "height":270
+              },
+              "16x9-sm":{
+                "href":"https://uat2.x.univision.com/dims4/default/4387452/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2F40%2Fa817075b49ad8cfe495d09f7f5a6%2Fliga-nos-2x.png",
+                "width":246,
+                "height":138
+              },
+              "16x9-tablet":{
+                "href":"https://uat2.x.univision.com/dims4/default/7fb5bc4/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2F40%2Fa817075b49ad8cfe495d09f7f5a6%2Fliga-nos-2x.png",
+                "width":1024,
+                "height":576
+              },
+              "16x9-extended":{
+                "href":"https://uat2.x.univision.com/dims4/default/7341246/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2F40%2Fa817075b49ad8cfe495d09f7f5a6%2Fliga-nos-2x.png",
+                "width":1440,
+                "height":810
+              },
+              "16x9-loading":{
+                "href":"https://uat2.x.univision.com/dims4/default/84078cf/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2F40%2Fa817075b49ad8cfe495d09f7f5a6%2Fliga-nos-2x.png",
+                "width":30,
+                "height":17
+              }
+            }
+          },
+          "abbreviation":"Liga Portugal",
+          "includesVideo":false,
+          "coverage":"Classic",
+          "activeSoccerCompetitionURL":null,
+          "hierarchy":[
+            {
+              "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+              "uri":"https://uat.tudn.com",
+              "name":"deportes",
+              "title":"Deportes"
+            },
+            {
+              "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri":"https://uat.tudn.com/futbol",
+              "name":"futbol",
+              "title":"Fútbol"
+            },
+            {
+              "uuid":"00000152-3d19-d5cc-affa-7d1f51260000",
+              "uri":"https://uat.tudn.com/futbol/liga-portugal",
+              "name":"liga portugal",
+              "title":"Liga Portugal"
+            }
+          ]
+        },
+        "hasBracketsSupport":false
+      }
+    ],
+    "hubTag":true,
+    "parent":null,
+    "authors":[],
+    "hierarchy":[],
+    "personnelId":532330,
+    "socialNetworks":{
+      "facebookUrl":null,
+      "googleUrl":null,
+      "instagramUrl":null,
+      "linkedinUrl":null,
+      "pinterestUrl":null,
+      "snapchatUrl":null,
+      "twitterUrl":{
+        "text":"Twitter",
+        "name":"Twitter",
+        "url":"https://www.twitter.com",
+        "target":"_blank"
+      },
+      "youTubeUrl":null
+    },
+    "fullBio":[
+      {
+        "type":"text",
+        "value":"<p>Lionel Andrés Messi Cuccittini, conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista. Ha desarrollado toda su carrera en el F. C. Barcelona de la Primera División de España y en la selección de Argentina, equipos de los que es capitán.</p>"
+      },
+      {
+        "type":"text",
+        "value":"<p>Lionel Andrés Messi Cuccittini, conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista. Ha desarrollado toda su carrera en el F. C. Barcelona de la Primera División de España y en la selección de Argentina, equipos de los que es capitán.</p>"
+      },
+      {
+        "type":"text",
+        "value":"<p>Lionel Andrés Messi Cuccittini, conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista. Ha desarrollado toda su carrera en el F. C. Barcelona de la Primera División de España y en la selección de Argentina, equipos de los que es capitán.</p>"
+      }
+    ],
+    "shortTitle":"Leo Fenga",
+    "ttl":3600,
+    "feedGeneratedAt":"2021-04-26T15:00:09-04:00",
+    "teamSeason":{
+      "type":"teamseason",
+      "uid":"00000177-99d8-d77e-a777-9bdfe6020000",
+      "uri":"https://www.tudn.com/equipos/america",
+      "vertical":null,
+      "parent":null,
+      "title":"América | Liga MX (Clausura) | 2020",
+      "description":"América | Liga MX (Clausura) | 2020",
+      "image":{
+        "type":"image",
+        "uid":"00000179-c712-d65a-ad7d-e7b3e7650000",
+        "title":"TUDN_FallbackImage.png",
+        "caption":"TUDN Fallback Image",
+        "credit":"TUDN Fallback Image",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot-lower.s3.amazonaws.com/c2/25/135838d14704927d6829985313cc/tudn-fallbackimage.png",
+            "width":1000,
+            "height":562
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2021-03-27T20:21:35-04:00",
+      "publishDate":"2021-02-13T00:24:24-05:00",
+      "expirationDate":null,
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":null,
+            "isFeedDialog":false,
+            "title":"América | Liga MX (Clausura) | 2020",
+            "description":null,
+            "imageUrl":null,
+            "appId":"1007833782615811"
+          },
+          "twitter":{
+            "url":null,
+            "title":"América | Liga MX (Clausura) | 2020",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":null,
+            "message":"América | Liga MX (Clausura) | 2020"
+          },
+          "mail":{
+            "subject":"América | Liga MX (Clausura) | 2020",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmérica | Liga MX (Clausura) | 2020\n\nEncuéntralo en este enlace:null\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy":[
+
+      ],
+      "featuredTags":[
+
+      ],
+      "disableReactions":false,
+      "teamId":1292,
+      "teamName":"América",
+      "teamAbbreviatedName":"AME",
+      "teamLogo":{
+        "type":"image",
+        "uid":"0000014d-086b-ddc6-a5dd-19ff15240000",
+        "title":"América Logo",
+        "caption":"América",
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/3c/d1/8dcf3d914632a3b8a24d77ea2463/america-72x72.png",
+            "width":67,
+            "height":67
+          }
+        }
+      },
+      "soccerCompetitionSeason":{
+        "seasonId":"2020",
+        "seasonName":"Liga MX (Clausura) | 2020",
+        "soccerCompetition":{
+          "id":"385",
+          "name":"Liga MX (Clausura)",
+          "league":{
+            "type":"league",
+            "uid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+            "uri":"https://uat.tudn.com/futbol/liga-mx",
+            "id":"l.femexfut.mx.primera",
+            "image":{
+              "type":"image",
+              "uid":"00000179-c712-d65a-ad7d-e7b3e7650000",
+              "title":"TUDN_FallbackImage.png",
+              "caption":"TUDN Fallback Image",
+              "credit":"TUDN Fallback Image",
+              "renditions":{
+                "original":{
+                  "href":"https://uvn-brightspot-lower.s3.amazonaws.com/c2/25/135838d14704927d6829985313cc/tudn-fallbackimage.png",
+                  "width":1000,
+                  "height":562
+                },
+                "16x9-med":{
+                  "href":"https://uat2.x.univision.com/dims4/default/8527012/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                  "width":400,
+                  "height":225
+                },
+                "16x9":{
+                  "href":"https://uat2.x.univision.com/dims4/default/440025e/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Ftudn-fallbackimage.png",
+                  "width":1240,
+                  "height":698
+                },
+                "16x9-mobile":{
+                  "href":"https://uat2.x.univision.com/dims4/default/8e4d10a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                  "width":480,
+                  "height":270
+                },
+                "16x9-sm":{
+                  "href":"https://uat2.x.univision.com/dims4/default/6b31964/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                  "width":246,
+                  "height":138
+                },
+                "16x9-tablet":{
+                  "href":"https://uat2.x.univision.com/dims4/default/d62ca67/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Ftudn-fallbackimage.png",
+                  "width":1024,
+                  "height":576
+                },
+                "16x9-extended":{
+                  "href":"https://uat2.x.univision.com/dims4/default/b745c23/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Ftudn-fallbackimage.png",
+                  "width":1440,
+                  "height":810
+                },
+                "16x9-loading":{
+                  "href":"https://uat2.x.univision.com/dims4/default/8c9cd8f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                  "width":30,
+                  "height":17
+                }
+              }
+            },
+            "logo":{
+              "type":"image",
+              "uid":"0000014d-9ccc-d49d-a35f-fccec1000000",
+              "title":"80x80_liga_mx.png",
+              "caption":"Liga MX",
+              "credit":null,
+              "renditions":{
+                "original":{
+                  "href":"https://uvn-brightspot.s3.amazonaws.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                  "width":144,
+                  "height":144
+                },
+                "16x9-med":{
+                  "href":"https://uat2.x.univision.com/dims4/default/a14725a/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width":400,
+                  "height":225
+                },
+                "16x9":{
+                  "href":"https://uat2.x.univision.com/dims4/default/c90c0a1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width":1240,
+                  "height":698
+                },
+                "16x9-mobile":{
+                  "href":"https://uat2.x.univision.com/dims4/default/d997074/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width":480,
+                  "height":270
+                },
+                "16x9-sm":{
+                  "href":"https://uat2.x.univision.com/dims4/default/29727b5/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width":246,
+                  "height":138
+                },
+                "16x9-tablet":{
+                  "href":"https://uat2.x.univision.com/dims4/default/9900925/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width":1024,
+                  "height":576
+                },
+                "16x9-extended":{
+                  "href":"https://uat2.x.univision.com/dims4/default/fb6c901/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width":1440,
+                  "height":810
+                },
+                "16x9-loading":{
+                  "href":"https://uat2.x.univision.com/dims4/default/2cdbd7e/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe6%2F21%2F35cf9f84468ca4b56f7cdf9234df%2Fliga-mx-2x.png",
+                  "width":30,
+                  "height":17
+                }
+              }
+            },
+            "abbreviation":"Liga MX",
+            "includesVideo":true,
+            "coverage":"Performance",
+            "activeSoccerCompetitionURL":null,
+            "hierarchy":[
+              {
+                "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri":"https://uat.tudn.com",
+                "name":"deportes",
+                "title":"Deportes"
+              },
+              {
+                "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri":"https://uat.tudn.com/futbol",
+                "name":"futbol",
+                "title":"Fútbol"
+              },
+              {
+                "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri":"https://uat.tudn.com/futbol/liga-mx",
+                "name":"liga mx",
+                "title":"Liga MX"
+              }
+            ]
+          },
+          "hasBracketsSupport":false
+        }
+      }
+    }
+  },
+  {
+    "type": "article",
+    "uid": "0000017b-7497-d138-af7b-f7ffa40a0002",
+    "uri": "https://uat.x.univision.com/univision/los-3-mejores-clubes-del-mundo-de-la-decada-futbol",
+    "vertical": "Test",
+    "parent": {
+      "uuid": "00000179-e603-db5e-ad7b-e71330ee0000",
+      "uri": "https://uat.x.univision.com/univision/test-section",
+      "name": "test section",
+      "title": "Test Section"
+    },
+    "title": "Los 3 mejores clubes del mundo de la década | futbol | history",
+    "description": "Sin embargo, este martes, salió el top de los mejores equipos del mundo de la década que va del 2011 al 2020 hecha por el \n<a href=\"https://www.iffhs.com/posts/1010\"><b>IFFHS</b></a>, federación que suma los puntos anuales de cada club tanto en su liga y competiciones oficiales externas.",
+    "image": {},
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2021-08-31T11:06:26-04:00",
+    "publishDate": "2021-08-23T16:20:21-04:00",
+    "expirationDate": null,
+    "sharing": {},
+    "hierarchy": [],
+    "featuredTags": [],
+    "disableReactions": false,
+    "contentPriority": "STANDARD",
+    "listData": {},
+    "leadType": null,
+    "readTime": 1,
+    "articleType": "List",
+    "body": [
+      {
+        "type": "text",
+        "value": "<p><b>Aquí, el Ranking oficial de los 3 mejores equipos del mundo.</b></p>"
+      }
+    ],
+    "jwRecommendationChannel": "usbn2Hem",
+    "dynamicPlaylist": false,
+    "sponsor": {
+      "name": "Verdadero",
+      "leadText": "Verdadero",
+      "link": null,
+      "image": {
+        "type": "image",
+        "uid": "00000174-5b75-dafd-adff-df758c320000",
+        "title": "Untitled drawing (5).png",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/af/03/4e7dc77348828ba7951a63d6708d/untitled-drawing-5.png",
+            "width": 112,
+            "height": 99
+          }
+        }
+      }
+    },
+    "useWebviewInApps": false,
+    "relatedCollection": null
+  }
+]

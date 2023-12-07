@@ -1,0 +1,209 @@
+/** Default **/
+.smartbanner {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 92px;
+  z-index: $zindex-above-navigation + 10;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+}
+
+.container {
+  flex: 1;
+  display: flex;
+  margin: 0 auto;
+  padding: 0 5px;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.close {
+  margin-right: 10px;
+  text-align: center;
+  text-decoration: none;
+  background-color: transparent;
+  border: 0;
+}
+
+.icon {
+  margin-right: 12px;
+  min-width: 67px;
+}
+
+.info {
+  white-space: normal;
+  text-align: left;
+}
+
+.actions {
+  max-width: 100px;
+  text-align: right;
+  margin-right: 5px;
+  width: 100%;
+}
+
+.title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.description {
+  max-height: 40px;
+  overflow: hidden;
+}
+
+.author {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+
+  &:empty {
+    + .smartbanner-description {
+      max-height: 50px;
+    }
+  }
+}
+
+.button {
+  padding: 0;
+  margin: auto 0;
+  height: 27px;
+  text-align: center;
+  min-width: 56px;
+  text-decoration: none;
+  display: inline-block;
+
+  &:active {
+    color: $grey;
+  }
+}
+
+.buttonText {
+  text-align: center;
+  display: block;
+}
+
+// IOS Theme
+.ios {
+  &.smartbanner {
+    background: $very-light-grey;
+    box-shadow: 0 1px 1px rgba($black, 0.2);
+  }
+
+  .close {
+    margin-left: 6px;
+
+    path {
+      fill: $grey-black;
+    }
+
+    &:active {
+      path {
+        fill: $black;
+      }
+    }
+  }
+
+  .icon {
+    background-size: cover;
+  }
+
+  .info {
+    color: lighten($black, 20%);
+    text-shadow: 0 1px 0 rgba($white, 0.8);
+  }
+
+  .title {
+    font-size: rem(14px);
+    line-height: rem(16px);
+    letter-spacing: 0.5px;
+    margin-bottom: 5px;
+  }
+
+  .author {
+    font-size: rem(10px);
+    line-height: rem(12px);
+    letter-spacing: 0.38px;
+    margin-bottom: 5px;
+  }
+
+  .description {
+    font-size: rem(10px);
+    line-height: rem(12px);
+    letter-spacing: rem(0.38px);
+    color: $tundora;
+  }
+
+  .button {
+    font-weight: 500;
+    font-size: rem(19px);
+    letter-spacing: 0.28px;
+    line-height: rem(23px);
+    color: #0080DC;
+    text-transform: capitalize;
+    text-shadow: 0 1px 0 rgba($white, 0.8);
+  }
+}
+
+// Android Theme
+.android {
+  &.smartbanner {
+    padding-left: 5px;
+    padding-right: 10px;
+    background-color: $darker-grey;
+    background-size: cover;
+  }
+
+  .close {
+    path {
+      fill: $white;
+    }
+  }
+
+  .info {
+    color: $white;
+    text-shadow: 0 1px 1px $black;
+  }
+
+  .title, .description {
+    color: $white;
+    font-size: rem(12px);
+    line-height: rem(14px);
+    margin-bottom: 3px;
+  }
+
+  .title {
+    font-weight: 700;
+  }
+
+  .author {
+    font-size: rem(10px);
+    line-height: rem(12px);
+    letter-spacing: 0.42px;
+  }
+
+  .button {
+    color: $white;
+    font-size: 13px;
+    line-height: 24px;
+    background: none;
+    border: 1px solid $white;
+  }
+
+  .buttonText {
+    text-transform: uppercase;
+  }
+}

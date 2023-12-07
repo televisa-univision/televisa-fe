@@ -1,0 +1,16 @@
+{
+  "uri": "/error",
+  "tracking": {
+    "dataLayer": {
+      "content_type": "errorpage"
+    }
+  },
+  "selectors": {
+    "errorContainer": "uvs-container",
+    "footer": "footer",
+    "widgetLead": ".uvs-widget-lead",
+  },
+  "data": {
+    "errorApi": "/status-404-error"
+  }
+}

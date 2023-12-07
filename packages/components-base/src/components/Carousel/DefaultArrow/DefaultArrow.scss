@@ -1,0 +1,47 @@
+.arrow {
+  display: flex;
+  width: 68px;
+  height: 100%;
+  padding: 0;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: transparent;
+  transition: transform 0.3s ease-out, opacity, background-color 0.3s linear;
+
+  svg {
+    fill: $white;
+    filter: drop-shadow( 1px 0 $grey );
+    margin: 0 0 0 18px;
+  }
+
+  :global(.hidden) & {
+    transform: translate3d(-101%, 0, 0);
+    transition: transform 0.45s ease;
+  }
+}
+
+.left {
+  @include gradient-horizontal($black, fade-out($black, 1));
+
+  :global(.light) & {
+    @include gradient-horizontal($white, fade-out($white, 1));
+  }
+}
+
+.right {
+  @include gradient-horizontal(fade-out($black, 1), $black);
+  align-items: flex-end;
+
+  :global(.light) & {
+    @include gradient-horizontal(fade-out($white, 1), $white);
+  }
+
+  :global(.hidden) & {
+    transform: translate3d(101%, 0, 0);
+  }
+
+  svg {
+    margin: 0 8px 0 0;
+  }
+}

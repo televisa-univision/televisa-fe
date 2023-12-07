@@ -1,0 +1,94 @@
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  z-index: 0;
+
+}
+
+.main {
+  background-color: $black;
+  position: relative;
+  overflow: hidden;
+}
+
+.mainHorizontal {
+  background-color: $black;
+  width: 100%;
+  position: relative;
+  min-height: 620px;
+}
+
+.banner {
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.8);
+  background-repeat: no-repeat;
+  background-size: cover;
+  bottom: -10px;
+  filter: blur(5px);
+  left: -10px;
+  position: absolute;
+  right: -10px;
+  top: -10px;
+  z-index: 0;
+}
+
+.relatedTags {
+  > div {
+    > div {
+      justify-content: center;
+    }
+  }
+  span {
+    color: $grey-black;
+  }
+  a {
+    color: $grey-black;
+    span {
+      color: $grey-black;
+    }
+  }
+}
+
+.offset_1 {
+  @include make-col-offset(1);
+}
+
+.horizontalCover {
+  padding-bottom: 6.5rem;
+
+  @include media-breakpoint-up('sm') {
+    padding-bottom: 8.5rem;
+  }
+}
+
+.widgetsContainer {
+  margin-bottom: 10px;
+}
+
+.show {
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+
+.hide {
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.slideDescription {
+  font-size: rem(16px);
+  line-height: rem(20px);
+  font-weight: normal;
+
+  span,
+  div {
+    min-height: 80px;
+  }
+}
+
+.simpleStatus {
+  margin-top: 2px;
+}

@@ -1,0 +1,43 @@
+{
+  "uri": "/temas/jorge-ramos",
+  "ads": {
+    "mobile": {
+      "top": "prev_scp=client=mobile&pos=TOP&seq=M-320-1&tag=jorge%20ramos&contenttype=person&bkpt=320",
+      "mid": "prev_scp=client=mobile&pos=MID&seq=M-320-3&tag=jorge%20ramos&contenttype=person&bkpt=320"
+    },
+    "desktop": {
+      "top": "prev_scp=client=desktop&pos=TOP&seq=D-F728-1&tag=jorge%20ramos&contenttype=person&bkpt=1024",
+      "mid": "prev_scp=client=desktop&pos=MID&seq=D-F300-2&tag=jorge%20ramos&contenttype=person&bkpt=1024"
+    }
+  },
+  "selectors": {
+    "adReady": ".uvs-ad-ready",
+    "BioCard": "[data-widget-type='BioCard']",
+  },
+  "tracking": {
+    "dataLayer": {
+      "mobile": {
+        "adtag_value": "section",
+        "content_created_date": "2015-05-26",
+        "content_id": "0000014d-912d-d940-afef-ddbd28760000",
+        "content_type": "person",
+        "permalink": "https://uat2.x.univision.com/temas/jorge-ramos",
+        "platform": "website",
+        "title": "jorge ramos",
+        "uci_division": "uim-product",
+        "adtag_platform_prefix": "/rm"
+      },
+      "desktop": {
+        "adtag_value": "section",
+        "content_created_date": "2015-05-26",
+        "content_id": "0000014d-912d-d940-afef-ddbd28760000",
+        "content_type": "person",
+        "permalink": "https://uat2.x.univision.com/temas/jorge-ramos",
+        "platform": "website",
+        "title": "jorge ramos",
+        "uci_division": "uim-product",
+        "adtag_platform_prefix": "/rd"
+      }
+    }
+  }
+}

@@ -1,0 +1,668 @@
+[
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"EU_CL",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/uefa-champions-league/*",
+        "name":"UEFA Champions League",
+        "id":"l.uefa.org.champions",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"ucl",
+            "url":"https://www.univision.com/deportes/futbol/competencias-de-futbol/uefa-champions-league"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"UCL",
+        "uri":"https://www.univision.com/deportes/futbol/competencias-de-futbol/uefa-champions-league"
+      },
+      "name":"UEFA Champions League",
+      "id":"5"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"EU_UC",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":null,
+        "name":"Liga Europa",
+        "id":"l.uefa.org.cup",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"liga europa",
+            "url":"https://www.univision.com/deportes/futbol/uefa-europa-league"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Liga Europa",
+        "uri":"https://www.univision.com/deportes/futbol/uefa-europa-league"
+      },
+      "name":"Liga Europa",
+      "id":"6"
+    }
+  },
+  {
+    "seasonId":"2018",
+    "seasonName":"Season 2018/2019",
+    "soccerCompetition":{
+      "code":"MX_MA",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/liga-mx-apertura/*",
+        "name":"Liga MX",
+        "id":"l.femexfut.mx.primera",
+        "includesVideo":true,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"liga mx",
+            "url":"https://www.univision.com/deportes/futbol/liga-mx"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Liga MX",
+        "uri":"https://www.univision.com/deportes/futbol/liga-mx"
+      },
+      "name":"Liga MX (Apertura)",
+      "id":"199"
+    }
+  },
+  {
+    "seasonId":"2018",
+    "seasonName":"Season 2018/2019",
+    "soccerCompetition":{
+      "code":"US_ML",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/mls/*",
+        "name":"MLS",
+        "id":"l.mlsnet.com",
+        "includesVideo":true,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"mls",
+            "url":"https://www.univision.com/deportes/futbol/mls"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"MLS",
+        "uri":"https://www.univision.com/deportes/futbol/mls"
+      },
+      "name":"MLS",
+      "id":"98"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2016/2017",
+    "soccerCompetition":{
+      "code":"ES_PL",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/la-liga/*",
+        "name":"La Liga",
+        "id":"l.lfp.es.primera",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"la liga",
+            "url":"https://www.univision.com/deportes/futbol/laliga"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"La Liga",
+        "uri":"https://www.univision.com/deportes/futbol/laliga"
+      },
+      "name":"La Liga",
+      "id":"23"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"EN_PR",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/premier-league/*",
+        "name":"Premier League",
+        "id":"l.premierleague",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"premier league",
+            "url":"https://www.univision.com/deportes/futbol/premierleague"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Premier League",
+        "uri":"https://www.univision.com/deportes/futbol/premierleague"
+      },
+      "name":"Premier League",
+      "id":"8"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"XX_CC",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/liga-campeones-concacaf/*",
+        "name":"Liga Campeones",
+        "id":"l.soccer.concacaf.champions",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"liga campeones",
+            "url":"https://www.univision.com/deportes/futbol/liga-campeones-league"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Liga Campeones",
+        "uri":"https://www.univision.com/deportes/futbol/liga-campeones-league"
+      },
+      "name":"Liga Campeones - CONCACAF",
+      "id":"549"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"MX_CM",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/copa-mx/*",
+        "name":"Copa MX",
+        "id":"l.soccer.mexico.mexicocup",
+        "includesVideo":true,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"copa mx",
+            "url":"https://www.univision.com/deportes/futbol/copa-mx-league"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Copa MX",
+        "uri":"https://www.univision.com/deportes/futbol/copa-mx-league"
+      },
+      "name":"Copa MX (Clausura)",
+      "id":"598"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"XX_CL",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":null,
+        "name":"Concacaf league",
+        "id":"l.soccer.concacaf.league",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"concacaf league",
+            "url":"https://www.univision.com/deportes/futbol/concacafleague"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Concacaf league",
+        "uri":"https://www.univision.com/deportes/futbol/concacafleague"
+      },
+      "name":"Concacaf League",
+      "id":"853"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"IG_WC",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/copa-mundial/*",
+        "name":"Copa Mundial",
+        "id":"l.fifaworldcup.com",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"mundial",
+            "url":"https://www.univision.com/deportes/futbol/copa-mundial-league"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Mundial",
+        "uri":"https://www.univision.com/deportes/futbol/copa-mundial-league"
+      },
+      "name":"Copa Mundial",
+      "id":"4"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"CA_CA",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/mexican-campeon-de-campeones/*",
+        "name":"Campeón de Campeones",
+        "id":"l.femexfut.mx.campeones",
+        "includesVideo":true,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"campeon de campeones",
+            "url":"https://www.univision.com/deportes/futbol/liga-mx"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Campeón de Campeones",
+        "uri":"https://www.univision.com/deportes/futbol/liga-mx"
+      },
+      "name":"Campeón de Campeones",
+      "id":"795"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"ME_SC",
+      "league":{
+        "coverage":"Performance",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/supercopa-mexico/*",
+        "name":"Supercopa de México",
+        "id":"l.femexfut.mx.supercopa",
+        "includesVideo":true,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"supercopa mx",
+            "url":"https://www.univision.com/deportes/futbol/liga-mx"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Supercopa MX",
+        "uri":"https://www.univision.com/deportes/futbol/liga-mx"
+      },
+      "name":"Supercopa de México",
+      "id":"794"
+    }
+  },
+  {
+    "seasonId":"2018",
+    "seasonName":"Season 2018/2019",
+    "soccerCompetition":{
+      "code":null,
+      "league":{
+        "coverage":"Classic",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/ascenso-mx-apertura/*",
+        "name":"Ascenso MX",
+        "id":"l.soccer.ascencomx",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"ascenso mx",
+            "url":"https://www.univision.com/temas/ascenso-mx"
+          }
+        ],
+        "type":"league",
+        "abbreviation":null,
+        "uri":"https://www.univision.com/deportes/futbol/ascenso-mx-league"
+      },
+      "name":"Ascenso MX (Apertura)",
+      "id":"690"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"DE_BL",
+      "league":{
+        "coverage":"Classic",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/bundesliga/*",
+        "name":"Bundesliga",
+        "id":"l.bundesliga.de",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"bundesliga",
+            "url":"https://www.univision.com/deportes/futbol/bundesliga-a"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Bundesliga",
+        "uri":"https://www.univision.com/deportes/futbol/bundesliga-a"
+      },
+      "name":"Bundesliga",
+      "id":"22"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"IT_SA",
+      "league":{
+        "coverage":"Classic",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/serie-a/*",
+        "name":"Serie A League",
+        "id":"l.lega-calcio.it.seriea",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"serie a",
+            "url":"https://www.univision.com/deportes/futbol/serie-a-league*"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Serie A",
+        "uri":"https://www.univision.com/deportes/futbol/serie-a-league*"
+      },
+      "name":"Serie A",
+      "id":"21"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"PT_PL",
+      "league":{
+        "coverage":"Classic",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/liga-portugal/*",
+        "name":"Liga Portugal",
+        "id":"l.lpfp.pt",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"liga portugal",
+            "url":"https://www.univision.com/deportes/futbol/liga-portugal-league"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Liga Portugal",
+        "uri":"https://www.univision.com/deportes/futbol/liga-portugal-league"
+      },
+      "name":"Liga Portugal",
+      "id":"99"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"NL_ED",
+      "league":{
+        "coverage":"Classic",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/dutch-eredivisie/*",
+        "name":"Eredivisie",
+        "id":"l.eredivisie.nl",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"eredivisie",
+            "url":"https://www.univision.com/deportes/futbol/eredivisie"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Eredivisie",
+        "uri":"https://www.univision.com/deportes/futbol/eredivisie"
+      },
+      "name":"Eredivisie",
+      "id":"9"
+    }
+  },
+  {
+    "seasonId":"2017",
+    "seasonName":"Season 2017/2018",
+    "soccerCompetition":{
+      "code":"FR_L1",
+      "league":{
+        "coverage":"Classic",
+        "activeSoccerCompetitionURL":"https://www.univision.com/deportes/futbol/ligue-1/*",
+        "name":"Ligue 1",
+        "id":"l.footpro.fr.ligue1",
+        "includesVideo":false,
+        "tagHierarchy":[
+          {
+            "name":"deportes",
+            "url":"https://www.univision.com/temas/deportes"
+          },
+          {
+            "name":"futbol",
+            "url":"https://www.univision.com/deportes/futbol"
+          },
+          {
+            "name":"competencias de futbol",
+            "url":"https://www.univision.com/temas/competencias-de-futbol"
+          },
+          {
+            "name":"ligue 1",
+            "url":"https://www.univision.com/deportes/futbol/ligue1"
+          }
+        ],
+        "type":"league",
+        "abbreviation":"Ligue 1",
+        "uri":"https://www.univision.com/deportes/futbol/ligue1"
+      },
+      "name":"Ligue 1",
+      "id":"24"
+    }
+  }
+]

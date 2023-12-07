@@ -1,0 +1,30 @@
+.buttonContainer {
+  transition: all .2s ease-in-out;
+  .circle {
+    align-items: center;
+    border-radius:50%;
+    border:2px solid $white;    
+    display: flex;
+    height:53px;
+    justify-content: center;
+    padding-left: 5px;
+    width:53px;
+    svg {
+        height: 24px;
+        width: 24px;
+    }
+  }   
+  &:hover {
+    transform: scale(1.15);
+  }
+  @include media-breakpoint-up("sm") {
+    .circle {
+      height:81px;
+      width:81px;
+      svg {
+          height: 32px;
+          width: 32px;
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+.container {
+  padding-top: 14px;
+}
+
+.mobile {
+  margin: 0;
+  display: flex;
+}
+
+.noTitle {
+  margin-top: 20px;
+}
+
+.tablet,
+.desktop {
+  display: none;
+}
+
+@include media-breakpoint-up('sm') {
+  .tablet {
+    display: flex;
+  }
+
+  .mobile,
+  .desktop {
+    display: none;
+  }
+}
+
+@include media-breakpoint-up('md') {
+  .desktop {
+    display: flex;
+  }
+
+  .mobile,
+  .tablet {
+    display: none;
+  }
+
+  .aboveRow {
+    margin-bottom: 30px;
+  }
+}

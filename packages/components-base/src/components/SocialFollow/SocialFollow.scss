@@ -1,0 +1,75 @@
+.wrapper {
+    margin: 0 auto 15px auto;
+    padding: 0 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 300px;
+    border: 1px solid #d2d2d2;
+    background-color: $white;
+    font-size: rem(11px);
+    line-height: rem(13px);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.logo {
+  margin-top: 30px;
+  img {
+    width: 100%;
+  }
+}
+
+.headline {
+    width: 100%;
+    font-weight: bold;
+    margin: 9px 0 0;
+    padding-bottom: 33px;
+    border-bottom: 2px solid #d2d2d2;
+}
+
+.subheadline {
+    color: $grey-black;
+    margin: 15px 0 30px;
+}
+
+.socialNetworks {
+    margin-bottom: 30px;
+}
+
+.networkLink {
+    margin: 0 20px;
+
+    &:first-of-type {
+        margin-left: 0;
+    }
+
+    &:last-of-type {
+        margin-right: 0;
+    }
+}
+
+.icon-facebook {
+  path {
+    fill: $facebookFill;
+  }
+}
+
+.icon-instagram {
+  path {
+    fill: $instagramFill;
+  }
+}
+
+.icon-snapchat {
+  path {
+    fill: $black;
+  }
+}
+
+.icon-twitter {
+  path {
+    fill: $twitterFill;
+  }
+}

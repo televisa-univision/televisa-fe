@@ -1,0 +1,153 @@
+.subnav {
+  position: relative;
+  margin: 0;
+  &:after {
+    content: '';
+    @include gradient-y($white-grey, fade-out($white-grey, 1));
+    height: 4px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    @include media-breakpoint-up('md') {
+      justify-content: center;
+      > div {
+        display: inherit;
+      }
+    }
+  }
+  .subNavContent {
+    &.noScroller {
+      nav {
+        justify-content: center;
+      }
+    }
+    &.scroller {
+      &::before,
+      &::after {
+        content: "";
+        display: block;
+        width: 40px;
+        height: 100%;
+        transition: all 0.2s;
+        position: absolute;
+        top: 0;
+        z-index: 2;
+        opacity: 0;
+        visibility: hidden;
+      }
+      &::before {
+        @include gradient-horizontal($white, fade-out($white, 1));
+        left: 8px;
+      }
+      &::after {
+        @include gradient-horizontal(fade-out($white, 1), $white);
+        right: 8px;
+      }
+
+      &.gradientLeft {
+        &::before {
+          opacity: 1;
+          visibility: visible;
+        }
+      }
+
+      &.gradientRight {
+        &::after {
+          opacity: 1;
+          visibility: visible;
+        }
+      }
+    }
+  }
+}
+
+.dark {
+  background: $black;
+  &:after {
+    display: none;
+  }
+  .subNavContent {
+    &.scroller {
+      &::before {
+        @include gradient-horizontal($black, fade-out($black, 1));
+      }
+      &::after {
+        @include gradient-horizontal(fade-out($black, 1), $black);
+      }
+    }
+  }
+}
+
+.bgTransparent {
+  background: none;
+  &:after {
+    display: none;
+  }
+  .subNavContent {
+    &.scroller {
+      &::before,
+      &::after {
+        display: none;
+      }
+    }
+  }
+}
+
+.tudnDarkSectionTitleNav {
+  background: $timber-green;
+  &:after {
+    display: none;
+  }
+  .subNavContent {
+    &.scroller {
+      &::before,
+      &::after {
+        display: none;
+      }
+    }
+  }
+}
+
+.dark.blueDark {
+  background: $theme-blue-local;
+  .subNavContent {
+    &.scroller {
+      &::before {
+        @include gradient-horizontal($theme-blue-local, fade-out($theme-blue-local, 1));
+      }
+      &::after {
+        @include gradient-horizontal(fade-out($theme-blue-local, 1), $theme-blue-local);
+      }
+    }
+  }
+}
+
+.subNavLink {
+  font-size: rem(14px);
+}
+
+.copaOro {
+  @include media-breakpoint-up("sm") {
+    padding-top: 10px;
+    padding-bottom: 0;
+  }
+
+  img {
+    width: 10px;
+    margin-right: 4px;
+    @include media-breakpoint-up("sm") {
+      width: 18px;
+    }
+  }
+}

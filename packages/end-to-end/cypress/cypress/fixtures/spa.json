@@ -1,0 +1,131 @@
+{
+  "uri": "/spa/",
+  "ads": {
+    "mobile": {
+      "topAd": "client=mobile&pos=TOP"
+    },
+    "desktop": {
+      "topAd": "client=desktop&pos=TOP"
+    }
+  },
+  "tracking": {
+    "dataLayer": {
+      "mobile": {
+        "adtag_value": "section/inicio",
+        "content_type": "section",
+        "content_vertical": "global"
+      },
+      "desktop": {
+        "adtag_value": "section/inicio"
+      }
+    }
+  },
+  "data": {
+    "spa": {
+      "pages": [
+        {
+          "uri": "/",
+          "ad": {
+            "mobile": "rm.univision_section,inicio",
+            "desktop": "rd.univision_section,inicio"
+          },
+          "label": "univision",
+          "title": "Univision | Shows, Entretenimiento, Noticias, Deportes y Novelas",
+          "borderBottom": "rgb(0, 0, 0)",
+          "selectors": [
+            "[data-element-name=BrandedHeader]",
+            "[data-widget-type=SectionAd] .uvs-ad-ready"
+          ],
+          "tracking": {
+            "adtag_value": "section/inicio",
+            "content_type": "section",
+            "content_vertical": "global",
+            "country_code": "us",
+            "event": "view_section",
+            "promo_type": "section",
+            "section_level1": "univision",
+            "title": "univision | shows, entretenimiento, noticias, deportes y novelas"
+          }
+        },
+        {
+          "index": {
+            "mobile": 0,
+            "desktop": 0
+          },
+          "uri": "/shows",
+          "ad": {
+            "mobile": "rm.univision_section_entretenimiento,shows,inicio",
+            "desktop": "rd.univision_section_entretenimiento,shows,inicio"
+          },
+          "label": "shows",
+          "title": "Shows",
+          "borderBottom": "rgb(128, 128, 128)",
+          "selectors": ["[data-widget-type=SectionAd] .uvs-ad-ready"],
+          "tracking": {
+            "adtag_value": "section_entretenimiento/shows/inicio",
+            "content_type": "section",
+            "content_vertical": "entretenimiento",
+            "country_code": "us",
+            "event": "view_section",
+            "promo_type": "section",
+            "section_level1": "shows",
+            "title": "shows"
+          }
+        },
+        {
+          "index": {
+            "mobile": 1,
+            "desktop": 1
+          },
+          "uri": "/noticias",
+          "ad": {
+            "mobile": "rm.univision_section_noticias,inicio",
+            "desktop": "rd.univision_section_noticias,inicio"
+          },
+          "label": "noticias",
+          "title": "Noticias Univision",
+          "borderBottom": "rgb(35, 88, 191)",
+          "selectors": [
+            "[data-element-name=BrandedHeader]",
+            "[data-widget-type=SectionAd] .uvs-ad-ready"
+          ],
+          "tracking": {
+            "adtag_value": "section_noticias/inicio",
+            "content_type": "section",
+            "content_vertical": "noticias",
+            "country_code": "us",
+            "event": "view_section",
+            "promo_type": "section",
+            "section_level1": "noticias",
+            "title": "noticias univision"
+          }
+        },
+        {
+          "index": {
+            "mobile": 2,
+            "desktop": 2
+          },
+          "uri": "/famosos",
+          "ad": {
+            "mobile": "rm.univision_section_entretenimiento,famosos,inicio",
+            "desktop": "rd.univision_section_entretenimiento,famosos,inicio"
+          },
+          "label": "famosos",
+          "title": "Famosos",
+          "borderBottom": "rgb(181, 0, 143)",
+          "selectors": ["[data-widget-type=SectionAd] .uvs-ad-ready"],
+          "tracking": {
+            "adtag_value": "section_entretenimiento/famosos/inicio",
+            "content_type": "section",
+            "content_vertical": "entretenimiento",
+            "country_code": "us",
+            "event": "view_section",
+            "promo_type": "section",
+            "section_level1": "famosos",
+            "title": "famosos"
+          }
+        }
+      ]
+    }
+  }
+}

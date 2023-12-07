@@ -1,0 +1,173 @@
+.gridContainer {
+  margin-top: 24px;
+  justify-content: flex-start;
+  &.tudn {
+    margin-top: 0;
+  }
+}
+
+.gridItem {
+  width: calc(50% - 8px);
+  height: 126px;
+  border: 2px solid $white-grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: $black-grey;
+  margin-bottom: 16px;
+  transition: box-shadow 0.1s ease-in-out;
+  position: relative;
+  padding: 10px;
+  .bar &{
+    height: 48px;
+    flex-direction: row;
+  }
+  &:hover {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    color: $darker-grey;
+  }
+  .gridName {
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+    .bar &{
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+    }
+  }
+  .onlyIcon{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    svg{
+      margin: 0;
+    }
+  }
+  @include media-breakpoint-up("sm") {
+    width: calc(100% * (1/6) - 20px);
+    height: 103px;
+    .bar &{
+      width: calc(33.3% - 14px);
+    }
+  }
+  @include media-breakpoint-up("md") {
+    width: 105px;
+    height: 105px;
+    .tournament & {
+        width: calc(100% * (1/9) - 20px);
+    }
+    .bar &{
+      width: calc(25% - 15px);
+      height: 56px;
+    }
+  }
+  @include media-breakpoint-up("lg") {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+.withBorder {
+  border: 1px solid $light-grey;
+}
+
+.withMargin {
+  margin-left: 16px;
+  @include media-breakpoint-up("sm") {
+    margin-left: 20px;
+  }
+}
+.itemLogo {
+  text-align: center;
+}
+
+.itemName {
+  text-align: center;
+  min-height: 26px;
+  line-height: 0.8;
+  .bar &{
+    min-height: initial;
+    line-height: rem(17px);
+    font-size: rem(14px);
+    padding-left: 4px;
+    text-align: left;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 116px;
+    @include media-breakpoint-up("sm") {
+      max-width: 140px;
+      padding-left: 8px;
+    }
+    @include media-breakpoint-up("md") {
+      max-width: 196px;
+    }
+  }
+}
+
+.name{
+  line-height: rem(13px);
+  font-size: rem(11px);
+  .bar &{
+    line-height: rem(17px);
+    font-size: rem(14px);
+    @include media-breakpoint-up("sm") {
+      line-height: rem(22px);
+      font-size: rem(18px);
+    }
+  }
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  .bar &{
+    width: 28px;
+    height: 28px;
+    @include media-breakpoint-up("sm") {
+      width: 40px;
+      height: 40px;
+    }
+  }
+}
+
+.titleNoPadding {
+  > div {
+    padding-bottom: 0;
+  }
+}
+
+.titleWrapper {
+ &.tudn {
+   margin-bottom: 0;
+   padding-bottom: 16px;
+   @include media-breakpoint-up("sm") {
+     padding-bottom: 18px;
+   }
+ }
+}
+
+.nav {
+  &.withScroll {
+    &::-webkit-scrollbar {
+      display: none; // Safari and Chrome
+    }
+    overflow-x: auto;
+    // to hide scrollbar
+    -ms-overflow-style: none;  // IE 10+ & Edge
+    overflow: -moz-scrollbars-none;  // Firefox
+    @include media-breakpoint-up('sm') {
+      overflow-x: visible;
+    }
+  }
+}

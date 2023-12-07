@@ -1,0 +1,348 @@
+.wrapper {
+  position: relative;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+
+  &:after {
+    content: '';
+    @include gradient-y($white-grey, fade-out($white-grey, 1));
+    height: 4px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+  }
+
+  @include media-breakpoint-up('md') {
+    :global(.uvs-container) > :global(.row) {
+      &:not(.noLinks) {
+        justify-content: flex-end;
+      }
+      &.noLinks {
+        .logoContainer {
+          margin-right: auto;
+        }
+      }
+    }
+  }
+}
+
+.subnav {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  overflow: auto;
+  @include media-breakpoint-up('sm') {
+    overflow: visible;
+    max-width: 360px;
+  }
+  @include media-breakpoint-up('md') {
+    padding-left: 33px;
+    margin-right: auto;
+    max-width: 514px;
+    overflow: visible;
+  }
+}
+
+.dark {
+  background-color: $black;
+  &:after {
+    display: none;
+  }
+}
+
+.logoContainer {
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  &.withAirTime {
+    padding-top: 8px;
+  }
+
+  &:global:not(.col-12) {
+    padding-top: 0px;
+    justify-content: left;
+  }
+
+  img {
+    max-height: 56px;
+    max-width: 270px;
+
+    @include media-breakpoint-up('xs') {
+      max-width: 180px;
+    }
+
+    @media screen and (max-width:400px) {
+      max-width: 180px;
+    }
+  }
+
+  @include media-breakpoint-down('sm') {
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+  }
+
+  .airTimeLabel {
+    padding: 8px 0;
+    font-size: rem(11px);
+    line-height: rem(13px);
+  }
+}
+
+.logoWrapper {
+  margin-right: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  max-width: 140px;
+  @include media-breakpoint-up('md') {
+    max-width: initial;
+  }
+  &.centerLogo {
+    margin: 0 auto;
+    @include media-breakpoint-up('md') {
+      margin: 0 auto 0 0;
+    }
+  }
+}
+
+.logo {
+  width: 100%;
+}
+.userStatus, .search {
+  top: -7px;
+  @include media-breakpoint-up('md') {
+    top: initial;
+  }
+}
+.infoContainer {
+  align-items: center;
+  color: $white;
+  display: flex;
+  font-size: rem(11px);
+  justify-content: flex-end;
+  line-height: 13px;
+  white-space: nowrap;
+
+  .airTimeLabel {
+    margin-right: 5px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+  }
+  .followUsContainer {
+    margin-right: 5px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    @include media-breakpoint-up('md') {
+      &:after {
+        border-left: 1px solid $light-grey;
+        content: '';
+        display: block;
+        height: 24px;
+        margin-left: 15px;
+      }
+      &:before {
+        border-left: 1px solid $light-grey;
+        content: '';
+        display: block;
+        height: 24px;
+        margin-right: 15px;
+      }
+    }
+  }
+
+  &:global(.col-10) {
+    padding-left: 30px;
+  }
+
+  .separator {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.subNavLink {
+  font-size: rem(14px);
+  font-weight: bold;
+}
+
+.followUsOpen {
+  &.mobile > div:first-of-type > ul {
+    transform: translateY(-12px);
+    @include media-breakpoint-up('xs') {
+      transform: translateY(0);
+    }
+  }
+}
+
+.followUsContainer {
+  div:first-of-type > span {
+    color: rgba(255, 255, 255, 0.80);
+  }
+  &.mobile {
+    &.calReplyWithLinks {
+      top: 0px;
+    }
+    @include media-breakpoint-up('xs') {
+      right: 56px;
+    }
+    > div {
+      display: flex;
+      flex-direction: column-reverse;
+      overflow: visible;
+      > span {
+        font-size: rem(9px);
+        margin: auto;
+        padding-top: 5px;
+        @include media-breakpoint-up('xs') {
+          font-size: rem(11px);
+        }
+      }
+      > ul {
+        right: -3px;
+      }
+    }
+  }
+}
+
+.airTimeLabel {
+  text-transform: uppercase;
+  padding-right: 12px;
+  color: $white;
+  font-size: rem(14px);
+  line-height: rem(17px);
+  @include media-breakpoint-up('md') {
+    overflow: hidden;
+  }
+}
+
+.customLink {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  .imageContainer {
+    align-items: center;
+    background-color: rgba(236,236,236,0.11);
+    border-radius: 20px;
+    border: 1px solid rgba(245,245,245,0.14);
+    display: flex;
+    height: 34px;
+    justify-content: center;
+    margin-bottom: 5px;
+    width: 34px;
+    > img {
+      height: 16px;
+    }
+  }
+  > span {
+    color: $white-grey;
+    font-size: rem(9px);
+  }
+  @include media-breakpoint-up('sm') {
+    position: relative;
+  }
+  @include media-breakpoint-up('md') {
+    flex-direction: row-reverse;
+    .imageContainer {
+      margin-bottom: 0;
+    }
+    > span {
+      padding-right: 8px;
+    }
+  }
+}
+
+.liveRadio {
+  svg {
+    margin-left: 4px;
+  }
+}
+
+.liveStream {
+  position: relative;
+  &:before {
+    animation: pulse 1s infinite;
+    background-clip: padding-box;
+    background-color: $dark-red;
+    border-radius: 20px;
+    border: 2px solid rgba(200, 34, 40, 0.3);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.17);
+    content: '';
+    height: 12px;
+    left: 32%;
+    position: absolute;
+    top: 32%;
+    width: 12px;
+  }
+}
+
+.onlyCalReply {
+  @include media-breakpoint-up('sm') {
+    position: absolute;
+    right: 0;
+    top: 36px;
+    > div:first-of-type {
+      margin-right: 12px;
+    }
+  }
+}
+
+.calReply {
+  position: relative;
+  left: initial;
+  top: 1px;
+  margin-right: 10px;
+  @include media-breakpoint-up('md') {
+    top: initial;
+  }
+  a {
+    align-items: center;
+    flex-direction: column;
+    svg {
+      margin-bottom: 14px;
+    }
+    span {
+      padding-left: initial;
+    }
+  }
+}
+
+@keyframes pulse {
+  100% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0.18;
+  }
+}
+
+.sections {
+  nav {
+    margin-top: 47px;
+    @include media-breakpoint-up('md') {
+      margin-top: 27px;
+    }
+  }
+}
+
+.uniNow {
+  @include media-breakpoint-up('md') {
+    &:before {
+      content: "";
+      border-left: 1px solid $light-grey;
+      height: 24px;
+      margin-right: 2px;
+      align-self: center;
+      left: 0;
+      position: absolute;
+    }
+  }
+}

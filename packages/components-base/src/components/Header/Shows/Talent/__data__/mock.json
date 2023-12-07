@@ -1,0 +1,35 @@
+{
+  "gordoflaca": {
+    "logo": "https://uvn-brightspot.s3.amazonaws.com/fd/1d/d8c9d1fb4ba5b78b4c8d69151d54/logo-gordoflaca.svg",
+    "uri": "/shows/el-gordo-y-la-flaca",
+    "background": null,
+    "backgroundColor": "#5D2B78",
+    "subtitle": "Lunes a Viernes 4PM EST / 3PM CT"
+  },
+  "alpunto": {
+    "logo": "https://uvn-brightspot.s3.amazonaws.com/15/86/4ecc5d324f6b9b040cb040049d54/logo-alpunto.svg",
+    "uri": "/shows/al-punto",
+    "background": null,
+    "backgroundColor": "#4e4e4e",
+    "subtitle": "Domingos 10AM EST / 9AM CT"
+  },
+  "rosariotijeras": {
+    "logo": "https://st1.uvnimg.com/45/92/2010d7ed4361a7f68aafcc920415/lg-rosario-tijeras-1.svg",
+    "uri": "/shows/rosario-tijeras",
+    "background": "https://st1.uvnimg.com/9b/c2/641a4f1b4a038013481d88e925fd/back-desktop-3x.jpg",
+    "backgroundColor": "#000",
+    "subtitle": "Domingos 10AM EST / 9AM CT"
+  },
+  "amas":{
+    "uri": "/shows/latin-american-music-awards",
+    "backgroundColor": "#4E4E4E",
+    "background": "https://st1.uvnimg.com/81/b9/485baf3547abaa155faad855e048/pln-showpagehero-mobile.jpg",
+    "logo": "https://uvn-brightspot.s3.amazonaws.com/62/5e/cb4d7e2c40a5a367b44cc2bb0f76/logopln-34-1.svg"
+  },
+  "pln":{
+    "uri": "/shows/premio-lo-nuestro",
+    "backgroundColor": "#4E4E4E",
+    "background": "https://st1.uvnimg.com/81/b9/485baf3547abaa155faad855e048/pln-showpagehero-mobile.jpg",
+    "logo": "https://uvn-brightspot.s3.amazonaws.com/62/5e/cb4d7e2c40a5a367b44cc2bb0f76/logopln-34-1.svg"
+  }
+}

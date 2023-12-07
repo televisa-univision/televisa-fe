@@ -1,0 +1,22 @@
+.forwards, .backwards {
+  background: #7fb2e0;
+  position: absolute;
+  top: 100%;
+  color: $white;
+}
+
+.forwards {
+  right: 0;
+  &:after {
+    margin-left: 3px;
+    content: '>';
+  }
+}
+
+.backwards {
+  left: 0;
+  &:before {
+    margin-right: 3px;
+    content: '<';
+  }
+}

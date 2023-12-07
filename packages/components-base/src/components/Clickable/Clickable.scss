@@ -1,0 +1,216 @@
+.clickable {
+  display: inline-block;
+  transition: all .2s;
+  letter-spacing: 0.75px;
+
+  &.reverse:not(.plain) {
+    svg {
+      margin: -2px 10px 0 0;
+    }
+  }
+
+  > svg {
+    margin: -2px 0 0 10px;
+    min-height: 12px;
+    min-width: 12px;
+    path {
+      fill: $white;
+    }
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    filter:brightness(115%);
+    outline: 0;
+  }
+}
+
+.primary,
+.secondary {
+  cursor: pointer;
+  background-color: $theme-default-primary;
+  color: $white;
+  border: 0;
+  font-size: rem(14px);
+  border-radius: 0;
+  line-height: normal;
+  overflow: visible;
+  text-transform: uppercase;
+  -webkit-appearance: none;
+
+  &:hover,
+  &.primary:focus,
+  &:active {
+    color: $white;
+    background: $theme-default-secondary;
+  }
+
+  &.small {
+    padding: 10px 20px;
+    font-size: rem(11px);
+  }
+
+  &.medium {
+    padding: 14px 35px;
+  }
+
+  &.large {
+    font-size: rem(14px);
+    padding: 20px 35px;
+  }
+
+  &.round {
+    border-radius: 50px;
+  }
+
+  @include media-breakpoint-up('md') {
+    &.small {
+      padding: 11px 20px;
+    }
+
+    &.large {
+      padding: 20px 45px;
+    }
+  }
+}
+
+.auth {
+  position: relative;
+  text-transform: uppercase;
+  color: $black;
+  display: flex;
+  align-items: center;
+  background: $white-grey;
+  width: max-content;
+  line-height: initial;
+  font-size: rem(11px);
+  min-height: 24px;
+
+  &:hover,
+  &:focus,
+  &:active{
+    background: $white;
+    color: $black;
+  }
+
+  span {
+    padding: 0 8px;
+  }
+
+  .icon {
+    position: relative;
+  }
+
+  &.small {
+    .icon {
+      padding: 6px;
+    }
+  }
+
+  &.medium {
+    min-height: 28px;
+    font-size: rem(12px);
+    span {
+      padding: 0 10px;
+    }
+    .icon {
+      svg{
+        width: 15px;
+        height: 15px;
+      }
+    }
+  }
+
+  &.large {
+    min-height: 34px;
+    font-size: rem(13px);
+    span {
+      padding: 0 12px;
+    }
+    .icon {
+      svg{
+        width: 20px;
+        height: 20px;
+      }
+    }
+  }
+}
+
+.plain {
+  color: $blue;
+  padding: 0;
+  font-family: $font-a-family;
+  letter-spacing: inherit;
+  font-weight: 400;
+  svg {
+    margin: 5px;
+    path {
+      fill: $blue;
+    }
+  }
+}
+
+.secondary {
+  background: $white;
+  border: 1px solid $light-grey;
+  color: $grey-black;
+
+  svg {
+    path {
+      fill: $theme-default-primary;
+    }
+  }
+
+  &:hover,
+  &:active {
+    color: $grey-black;
+    background: $very-light-grey;
+    filter: brightness(100%);
+  }
+
+  &.dark{
+    background: none;
+    border-color: $white;
+    color: $white;
+
+    &:hover {
+      background: $darker-grey;
+      border-color: $darker-grey;
+      color: $white;
+    }
+
+    > svg {
+      path {
+        fill: $white;
+      }
+    }
+  }
+}
+
+.align-left {
+  width: 100%;
+  text-align: left;
+}
+
+.align-right {
+  width: 100%;
+  text-align: right;
+}
+
+.align-center {
+  width: 100%;
+  text-align: center;
+}
+
+.valign {
+  display: block;
+}
+
+.valign-top {
+  margin-bottom: 8px;
+}
+
+.valign-bottom {
+  margin-top: 8px;
+}

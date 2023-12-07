@@ -1,0 +1,16 @@
+.footer {
+  background: $dark-green;
+  border-top: 2px solid $theme-default-primary;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+
+  &.light {
+    background: $white;
+  }
+
+  .skeletonFooter div {
+    height: 12px;
+    background: $dark-green;
+    width: 100%;
+  }
+}

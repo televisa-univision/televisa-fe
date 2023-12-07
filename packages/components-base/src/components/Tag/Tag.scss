@@ -1,0 +1,30 @@
+.text {
+  display: block;
+  color: $black-grey;
+  font-size: rem(10px);
+  letter-spacing: 0.97px;
+  line-height: rem(14px);
+  text-transform: uppercase;
+
+  @include media-breakpoint-down('xs') {
+    display: inline-block;
+  }
+}
+.link {
+  color: inherit;
+  display: block;
+  &:visited, &:active, &:focus{
+    color: $black-grey;
+    text-decoration: none;
+  }
+  &:hover {
+    color: $grey;
+    text-decoration: none;
+  }
+}
+
+.isWorldCupMVP{
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: rem(12px);
+  line-height: rem(16px);
+}

@@ -1,0 +1,95 @@
+{
+  "uri": "/musica/en-fotos-los-escandalos-que-han-plagado-a-los-boy-bands-y-a-las-all-girls-band-fotos",
+  "secondUri": "/musica/se-transformaron-para-interpretar-a-estos-cantantes-fotos",
+  "ads": {
+    "desktop": {
+      "firstSlideshow": {
+        "bot": "client=desktop&pos=BOT&seq=D-728-2&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Cpoplatino%2Cpopeningles%2Ccnco%2Conedirection%2Cfifthharmony%2Clocal&contenttype=slideshow&type=horizontalslideshow",
+        "int": "client=desktop&pos=INT&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Cpoplatino%2Cpopeningles%2Ccnco%2Conedirection%2Cfifthharmony%2Clocal&contenttype=slideshow&type=horizontalslideshow",
+        "mid": "client=desktop&pos=MID&seq=D-300-1&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Cpoplatino%2Cpopeningles%2Ccnco%2Conedirection%2Cfifthharmony%2Clocal&contenttype=slideshow&type=horizontalslideshow"
+      },
+      "secondSlideshow": {
+        "bot": "client=desktop&pos=BOT&seq=D-728-4&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Crockeningles%2Cqueen%2Cbobdylan%2Cjohnlennon%2Clocal&contenttype=slideshow&type=horizontalslideshow",
+        "int": "client=desktop&pos=INT&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Crockeningles%2Cqueen%2Cbobdylan%2Cjohnlennon%2Clocal&contenttype=slideshow&type=horizontalslideshow",
+        "mid": "client=desktop&pos=MID&seq=D-300-3&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Crockeningles%2Cqueen%2Cbobdylan%2Cjohnlennon%2Clocal&contenttype=slideshow&type=horizontalslideshow"
+      }
+    },
+    "mobile": {
+      "firstSlideshow": {
+        "bot": "client=mobile&pos=BOT&seq=M-320-1&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Cpoplatino%2Cpopeningles%2Ccnco%2Conedirection%2Cfifthharmony%2Clocal&contenttype=slideshow&type=horizontalslideshow",
+        "int": "client=mobile&pos=INT&vertical=entretenimiento&tag=uforiamusic%2Cpop%2Cpoplatino%2Cpopeningles%2Ccnco%2Conedirection%2Cfifthharmony%2Clocal&contenttype=slideshow&type=horizontalslideshow"
+      }
+    }
+  },
+  "selectors": {
+    "prevSlideArrow": "[role='slider'] > button",
+    "nextSlideArrow": "[role='slider'] div button:first",
+    "currentSlideNumber": "[role='presentation'] span em",
+    "finalSlideNumber": "[role='presentation'] span span",
+    "nextGalleryButton": "[role='button']",
+    "SlideshowTitle": "[role='presentation'] > div:nth-of-type(2) > div:nth-of-type(2)",
+    "SlideshowDescription": "[role='presentation'] > div:nth-of-type(2) > div:nth-of-type(3)"
+  },
+  "tracking": {
+    "firstSlideshowDataLayer": {
+      "adtag_value": "slideshow_entretenimiento/musica",
+      "canonical_url": "https://uat2.x.univision.com/musica/en-fotos-los-escandalos-que-han-plagado-a-los-boy-bands-y-a-las-all-girls-band-fotos",
+      "content_created_date": "2017-09-07",
+      "content_id": "0000015e-3454-dc6a-adde-7d5787390000",
+      "content_modified_date": "2017-09-07",
+      "content_type": "slideshow",
+      "content_vertical": "entretenimiento",
+      "mvpd_provider": "false",
+      "permalink": "https://uat2.x.univision.com/musica/en-fotos-los-escandalos-que-han-plagado-a-los-boy-bands-y-a-las-all-girls-band-fotos",
+      "platform": "website",
+      "section_level1": "musica",
+      "slide_count": 18,
+      "slideshow_type": "horizontal_slideshow",
+      "title": "en fotos: los escandalos que han plagado a los 'boy bands' y a las 'all girls band'",
+      "uci_division": "entertainment"
+    },
+    "secondSlideshowDataLayer": {
+      "adtag_value": "slideshow_entretenimiento/musica",
+      "content_created_date": "2017-09-06",
+      "content_id": "0000015e-58fe-d487-abff-d9ff43a90000",
+      "content_modified_date": "2017-09-06",
+      "content_type": "slideshow",
+      "content_vertical": "entretenimiento",
+      "event": "view_slideshow",
+      "mvpd_provider": "false",
+      "permalink": "https://uat2.x.univision.com/musica/se-transformaron-para-interpretar-a-estos-cantantes-fotos",
+      "platform": "website",
+      "section_level1": "musica",
+      "slide_adv_cm": "0",
+      "slide_count": 16,
+      "slide_st_cm": "0",
+      "slideshow_depth": 2,
+      "slideshow_id": "0000015e-58fe-d487-abff-d9ff43a90000",
+      "slideshow_image_position": 1,
+      "slideshow_title": "Se transformaron para interpretar a estos cantantes",
+      "slideshow_type": "horizontal_slideshow",
+      "title": "se transformaron para interpretar a estos cantantes",
+      "uci_division": "entertainment"
+    },
+    "advance": "slide_advance",
+    "viewSlideshow": "view_slideshow",
+    "pageLoadPerformance": "pageload_performance"
+  },
+  "url": {
+    "firstSlide": "#75dbb5710000",
+    "secondSlide": "#75dbb5740000",
+    "lastSlide": "#77daba070000"
+  },
+  "autoPlay": {
+    "mobile": {
+      "button": "[role='presentation'] > button:first",
+      "icon": "[role='presentation'] > button:first > svg:first",
+      "playIcon": "<path d=\"M509.072 993.61c269.493 0 487.932-217.711 487.932-486.235s-218.439-486.235-487.932-486.235c-269.493 0-487.932 217.711-487.932 486.235s218.439 486.235 487.932 486.235zM509.072 1014.751c-281.153 0-509.072-227.16-509.072-507.375s227.919-507.375 509.072-507.375c281.153 0 509.072 227.16 509.072 507.375s-227.919 507.375-509.072 507.375z M433.094 380.532v259.875l217.287-129.938z\"></path>",
+      "pauseIcon": "<path d=\"M416 384h64v256h-64v-256zM544 384h64v256h-64v-256z M509.072 993.61c269.493 0 487.932-217.711 487.932-486.235s-218.439-486.235-487.932-486.235c-269.493 0-487.932 217.711-487.932 486.235s218.439 486.235 487.932 486.235zM509.072 1014.751c-281.153 0-509.072-227.16-509.072-507.375s227.919-507.375 509.072-507.375c281.153 0 509.072 227.16 509.072 507.375s-227.919 507.375-509.072 507.375z\"></path>"
+    },
+    "desktop": {
+      "autoPlayStatus": "[role='presentation'] [role='presentation']:last span",
+      "autoPlayButton": "[role='presentation'] [role='presentation']:last button"
+    }
+  }
+}

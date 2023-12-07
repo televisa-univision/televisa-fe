@@ -1,0 +1,3428 @@
+{
+  "status": "success",
+  "data": {
+    "uid": "00000155-074c-d211-a9dd-d7fd5e610000",
+    "uri": "/los-angeles/klve",
+    "type": "section",
+    "updateDate": "2018-06-11T11:46:21-04:00",
+    "publishDate": "2016-05-31T10:53:30-04:00",
+    "expirationDate": null,
+    "title": "K-Love 107.5",
+    "shortTitle": "K-Love 107.5",
+    "description": "Aquí encontrarás la mejor música romántica POP del momento",
+    "shortDescription": "LA's música romántica",
+    "richTextDescription": [],
+    "isSensitive": false,
+    "primaryTag": { "name": "K-Love 107.5", "link": "https://www.univision.com/los-angeles/klve" },
+    "primaryTopic": "Local",
+    "secondaryTags": [],
+    "contentPriority": "standard",
+    "adSettings": {
+      "isDisable3rdPartyAds": false,
+      "adTagValue": "section_local/losangeles/klvefm",
+      "targeting": { "contenttype": "section", "client": "desktop", "tag": ["local"] },
+      "disableAds": false,
+      "freewheel": {
+        "sectionId": "local_losangeles_klvefm_homepage",
+        "assetId": null,
+        "adValue": null,
+        "test": {
+          "displayAdProfilePath": "univision_test",
+          "host": "https://1b656.v.fwmrm.net",
+          "linkTag2Profile": "111976:univision_linktag2_test",
+          "networkCode": "111976",
+          "profilePath": "univision_test_HTML5"
+        },
+        "production": {
+          "displayAdProfilePath": "univision_test",
+          "host": "https://1b656.v.fwmrm.net",
+          "linkTag2Profile": "univision_linktag2_live",
+          "networkCode": "112214",
+          "profilePath": "univision_Live_HTML5"
+        }
+      },
+      "dfp": {
+        "adValue": "/local/losangeles/klvefm/homepage",
+        "production": {
+          "desktopAdValuePrefix": "d.",
+          "mobileAdValuePrefix": "m.",
+          "networkCode": "6881"
+        },
+        "test": { "desktopAdValuePrefix": "d.", "mobileAdValuePrefix": "m.", "networkCode": "7009" }
+      }
+    },
+    "tracking": {
+      "tealium": {
+        "account": "main",
+        "environment": "prod",
+        "data": {
+          "all_tags": ["k-love 107.5", "los angeles", "local"],
+          "brand": "k-love 107.5",
+          "content_created_date": "1464706410513",
+          "content_creator": "00000147-f450-de63-a157-fe5b202e0000",
+          "content_id": "00000155-074c-d211-a9dd-d7fd5e610000",
+          "content_modified_date": "1528731981274",
+          "content_priority": "standard",
+          "content_type": "section",
+          "environment_name": "production",
+          "language": "es",
+          "market": "los angeles",
+          "page_name": "local:k-love 107.5:section:k-love 107.5",
+          "parent_tags": ["k-love 107.5", "los angeles", "local"],
+          "parent_topic": "local",
+          "permalink": "https://www.univision.com/los-angeles/klve",
+          "portal_theme": "local",
+          "primary_tag": "k-love 107.5",
+          "primary_tag_uid": "0000014d-00ec-d9c5-a3ef-06fde4180000",
+          "primary_tag_en": "k-love 107.5",
+          "promo_title": "k-love 107.5",
+          "publisher_tags": ["k-love 107.5", "local"],
+          "short_title": "k-love 107.5",
+          "short_title_en": "k-love 107.5",
+          "station_call_letters": "klve-fm",
+          "station_name": "k-love 107.5",
+          "station_type": "radiostation",
+          "tags_en": ["k-love 107.5", "los angeles", "local"],
+          "title": "k-love 107.5",
+          "title_en": "k-love 107.5",
+          "topics": ["local"],
+          "uci_division": "local",
+          "website": "univision",
+          "uni_platform": "Website"
+        }
+      },
+      "nielsen": {
+        "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid": "c05",
+        "environment": "prod",
+        "primaryTopic": "Local"
+      }
+    },
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "https://www.univision.com/los-angeles/klve",
+          "redirectUrl": "https://www.univision.com/los-angeles/klve",
+          "isFeedDialog": false,
+          "baseUrl": null,
+          "appId": "645138725541385",
+          "title": "K-Love 107.5",
+          "description": "LA's música romántica",
+          "imageUrl": "https://cdn3.uvnimg.com/11/a8/7cddae044dafb7191822b6275604/2.jpg"
+        },
+        "twitter": {
+          "url": "https://www.univision.com/los-angeles/klve",
+          "title": "K-Love 107.5",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "https://www.univision.com/los-angeles/klve",
+          "message": "K-Love 107.5"
+        },
+        "mail": {
+          "subject": "K-Love 107.5",
+          "body":
+            "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nK-Love 107.5\n\nEncuéntralo en este enlace: https://www.univision.com/los-angeles/klve\n\nVisitamos www.univision.com"
+        }
+      }
+    },
+    "metaTagData": {
+      "settings": null,
+      "googlePlus": { "author": null, "publisher": null },
+      "openGraph": {
+        "type": null,
+        "title": "K-Love 107.5",
+        "description": "LA's música romántica",
+        "imageUrl": "https://cdn3.uvnimg.com/11/a8/7cddae044dafb7191822b6275604/2.jpg",
+        "siteName": "Univision",
+        "url": "https://www.univision.com/los-angeles/klve"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "K-Love 107.5",
+        "description": "LA's música romántica",
+        "creator": null,
+        "imageUrl": "https://cdn3.uvnimg.com/11/a8/7cddae044dafb7191822b6275604/2.jpg"
+      },
+      "facebook": { "pages": "259955926518,173155703431,174725429795,130815470261839" },
+      "extras": [],
+      "additionalSeoKeywords": []
+    },
+    "seo": {
+      "title": "K-Love 107.5 - Univision",
+      "description": "Aquí encontrarás la mejor música romántica POP del momento",
+      "keywords": [],
+      "robots": [],
+      "tagHierarchy": [
+        {
+          "@id": "https://www.univision.com/los-angeles/klve",
+          "name": "K-Love 107.5",
+          "image": "https://cdn3.uvnimg.com/11/a8/7cddae044dafb7191822b6275604/2.jpg"
+        },
+        {
+          "@id": "https://www.univision.com/noticias",
+          "name": "Noticias",
+          "image": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+        },
+        {
+          "@id": "https://www.univision.com",
+          "name": "Univision.com",
+          "image": "https://cdn3.uvnimg.com/a8/a8/a07b20854d2f848ac3d26d57fce4/univisionlogo.jpg"
+        }
+      ]
+    },
+    "brandable": {
+      "uid": "0000014d-00ec-d9c5-a3ef-06fde4180000",
+      "uri": "https://www.univision.com/los-angeles/klve",
+      "type": "radiostation",
+      "updateDate": "2018-05-08T10:56:38-04:00",
+      "publishDate": "2015-04-28T12:53:44-04:00",
+      "title": "K-Love 107.5",
+      "shortTitle": "K-LOVE",
+      "description": "Aquí encontrarás la mejor música romántica POP del momento",
+      "shortDescription": "Música Romántica POP",
+      "richTextDescription": null,
+      "image": {
+        "type": "image",
+        "uid": "00000157-0b68-d302-a157-3ffa30630001",
+        "title": "LOS ANGELES LA RADIO STATIONS NUEVO LOGO NEW LOGO",
+        "caption": "",
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href":
+              "https://cdn4.uvnimg.com/c1/79/a93d1cc74c64b000a4b41f5300be/los-angeles-107.5@2x.png",
+            "width": 0,
+            "height": 0
+          },
+          "16x9-med": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/e1dd392/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/6fcd1c1/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/5c0ea79/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/a7387b6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/adb6778/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-extended": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/ab88738/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 1440,
+            "height": 810
+          }
+        }
+      },
+      "isSensitive": false,
+      "primaryTag": {
+        "name": "K-Love 107.5",
+        "link": "https://www.univision.com/los-angeles/klve"
+      },
+      "primaryTopic": "Local",
+      "secondaryTags": [
+        { "name": "Romántico", "link": "https://www.univision.com/temas/romantico" },
+        { "name": "Pop Español", "link": "https://www.univision.com/temas/pop-espanol" },
+        { "name": "Balada", "link": "https://www.univision.com/temas/balada" },
+        { "name": "Amor ", "link": "https://www.univision.com/temas/amor-genre" }
+      ],
+      "contentPriority": "standard",
+      "localMarketFooter": {
+        "title": "PÁGINAS DE LOS ÁNGELES",
+        "links": [
+          {
+            "uid": "0000014e-0d4c-dda5-a94f-1f6fc72f0000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Univision LA EEO Report",
+            "href":
+              "https://cdn3.uvnimg.com/dc/f5/3ba7ff7b412197711ecf86b63034/tv-radio-combined-eeo-public-file-report-local-media-la-8-1-16-through-7-31-17.pdf",
+            "target": "_blank"
+          },
+          {
+            "uid": "0000014f-1fd8-d24d-adff-3fd9beb00000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Univision LA Public File",
+            "href": "https://publicfiles.fcc.gov/",
+            "target": "_blank"
+          },
+          {
+            "uid": "00000155-9d6b-d897-a77f-9def781a0000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Aviso del Servicio de Subtítulos ",
+            "href":
+              "https://www.univision.com/los-angeles/kmex/univision-y-unimas-aviso-del-servicio-de-subtitulos-closed-captioning",
+            "target": "_blank"
+          },
+          {
+            "uid": "00000155-9d6b-dd3e-a9d5-ddffd7cc0000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Somos Univision 34, Los Angeles",
+            "href": "https://www.univision.com/los-angeles/kmex/somos-univision-34-los-angeles",
+            "target": "_blank"
+          }
+        ]
+      },
+      "radioStation": {
+        "uri": "/los-angeles/klve",
+        "frequency": "107.5",
+        "band": "FM",
+        "call": "KLVE-FM",
+        "isEnabledInApp": true,
+        "radioType": "wideorbit",
+        "nowPlayingId": "2910",
+        "primaryBroadcastLanguage": "es",
+        "isExclusive": false,
+        "genres": ["Romántico", "Pop Español", "Balada", "Amor "],
+        "localMarkets": ["Los Angeles"],
+        "adSettings": {
+          "isDisable3rdPartyAds": false,
+          "adTagValue": "section_local/losangeles/klvefm",
+          "targeting": { "contenttype": "section", "client": "desktop", "tag": ["local"] },
+          "disableAds": false,
+          "freewheel": {
+            "sectionId": "local_losangeles_klvefm",
+            "assetId": null,
+            "adValue": "local_losangeles_klvefm",
+            "test": {
+              "displayAdProfilePath": "univision_test",
+              "host": "https://1b656.v.fwmrm.net",
+              "linkTag2Profile": "111976:univision_linktag2_test",
+              "networkCode": "111976",
+              "profilePath": "univision_test_HTML5"
+            },
+            "production": {
+              "displayAdProfilePath": "univision_test",
+              "host": "https://1b656.v.fwmrm.net",
+              "linkTag2Profile": "univision_linktag2_live",
+              "networkCode": "112214",
+              "profilePath": "univision_Live_HTML5"
+            }
+          },
+          "dfp": {
+            "adValue": "/local/losangeles/klvefm",
+            "production": {
+              "desktopAdValuePrefix": "d.",
+              "mobileAdValuePrefix": "m.",
+              "networkCode": "6881"
+            },
+            "test": {
+              "desktopAdValuePrefix": "d.",
+              "mobileAdValuePrefix": "m.",
+              "networkCode": "7009"
+            }
+          }
+        },
+        "deepLink": "uforia://radio-station/0000014d-00ec-d9c5-a3ef-06fde4180000/k-love-1075",
+        "logo": {
+          "type": "image",
+          "uid": "00000157-0b68-d302-a157-3ffa30630001",
+          "title": "LOS ANGELES LA RADIO STATIONS NUEVO LOGO NEW LOGO",
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href":
+                "https://cdn4.uvnimg.com/c1/79/a93d1cc74c64b000a4b41f5300be/los-angeles-107.5@2x.png",
+              "width": 0,
+              "height": 0
+            },
+            "16x9-mobile": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/5c0ea79/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/2eda9f7/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/a7387b6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/adb6778/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/6fcd1c1/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/e1dd392/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+              "width": 400,
+              "height": 225
+            }
+          }
+        },
+        "customLogo": {
+          "type": "image",
+          "uid": "00000150-df19-d55e-a555-dfbf7e5f0000",
+          "title": "Uforia App Custom Logo Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href":
+                "https://cdn1.uvnimg.com/78/7a/2b53c5654f43bdabdfd40a3d2f83/love-amor-1024x512-01.png",
+              "width": 1024,
+              "height": 512
+            },
+            "16x9-mobile": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/6fb93c0/2147483647/crop/910x512%2B39%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/92f955a/2147483647/crop/903x512%2B42%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/3d4ae70/2147483647/crop/912x512%2B37%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/bfb562c/2147483647/crop/910x512%2B39%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/0021fa9/2147483647/crop/909x512%2B39%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/ca3f03d/2147483647/crop/910x512%2B39%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+              "width": 400,
+              "height": 225
+            }
+          }
+        },
+        "alternativeLogo": {
+          "type": "image",
+          "uid": "0000015d-9a90-deeb-af7f-ffb0cba20001",
+          "title": null,
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/46/54/bb519bde4f4682af215e59d446e2/k-love-207.5.svg",
+              "width": 0,
+              "height": 0
+            },
+            "16x9-mobile": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/f7835f2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/7abba8e/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/3ce7e2c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/170de0f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/05bc01c/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href":
+                "https://cdn2.uvnimg.com/dims4/default/bae9dcb/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+              "width": 400,
+              "height": 225
+            }
+          }
+        },
+        "featuredStationsPromoImage": {
+          "type": "image",
+          "uid": "0000015e-0598-da8e-a77f-edbf75780000",
+          "title": "KLove 107.5 Featured image",
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href":
+                "https://cdn2.uvnimg.com/cb/67/865afb2e4eda9f50f12d8fa83a0a/01-k-love-107.5_Luis-Fonsi.jpg",
+              "width": 364,
+              "height": 364
+            },
+            "16x9-mobile": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/d08132a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/e511d98/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/6db3472/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/c41d034/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/32bf958/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href":
+                "https://cdn1.uvnimg.com/dims4/default/56c7608/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+              "width": 400,
+              "height": 225
+            }
+          }
+        },
+        "abacast": {
+          "id": "2315",
+          "demoId": "292",
+          "AACStreamiOS":
+            "http://stream.abacast.net/playlist/univision-klvefmaac-ibc2.m3u?source=UforiaiOS",
+          "AACStreamAndroid":
+            "http://stream.abacast.net/playlist/univision-klvefmaac-ibc2.m3u?source=UforiaAndroid",
+          "MP3Stream": "http://stream.abacast.net/playlist/univision-klvefmmp3-ibc2.m3u"
+        },
+        "contact": {
+          "aboutStation": "/los-angeles/klve/somos-k-love-1075",
+          "smsTextNumber": "79913",
+          "whatsAppNumber": null,
+          "phoneNumber": "3102151075",
+          "websiteUrl": "http://iloveklove.univision.com/",
+          "twitterUrl": "http://twitter.com/iloveklove",
+          "facebookUrl": "http://facebook.com/iloveklove",
+          "email": "KLVE@uforiamusica.com"
+        },
+        "socialNetworks": [
+          {
+            "name": "FACEBOOK",
+            "href": "https://www.facebook.com/iloveklove",
+            "text": "K-LOVE 107.5 Facebook"
+          },
+          {
+            "name": "TWITTER",
+            "href": "https://twitter.com/iloveklove",
+            "text": "K-LOVE 107.5 Twitter"
+          },
+          {
+            "name": "INSTAGRAM",
+            "href": "https://instagram.com/iloveklove",
+            "text": "K-LOVE 107.5 Instagram"
+          }
+        ],
+        "radioSchedule": [
+          { "program": "Omar y Argelia", "time-slot": "5 AM - 10 AM" },
+          { "program": "Donaji", "time-slot": "10 AM - 3 PM" },
+          { "program": "Ysaac Alvarez", "time-slot": "3 PM - 7 PM" },
+          { "program": "Bertha Andrea Gonzalez", "time-slot": "7 PM - 12 AM" }
+        ]
+      },
+      "adValue": "/local/losangeles/klvefm"
+    },
+    "tagHierarchy": [
+      { "name": "local", "url": "https://www.univision.com/temas/local" },
+      { "name": "los angeles", "url": null },
+      { "name": "k-love 107.5", "url": "https://www.univision.com/los-angeles/klve" }
+    ],
+    "widgets": [
+      {
+        "type": "AllBannerMovingBanner",
+        "settings": {
+          "uid": "00000163-ef68-db20-a767-efee56db0000",
+          "updateDate": null,
+          "publishDate": null,
+          "title": null,
+          "type": "allbannermovingbanner",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": []
+      },
+      {
+        "type": "AllVideoPlaylistVideo",
+        "settings": {
+          "mainTabLabel": null,
+          "uid": "00000163-ef6d-db8f-a36f-ef6f7e750000",
+          "updateDate": null,
+          "publishDate": null,
+          "otherTabs": [{ "label": null, "content": [] }],
+          "title": "ENTREVISTAS",
+          "type": "allvideoplaylistvideo",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": [
+          {
+            "uid": "00000164-3877-d2c7-abf6-7d7722790000",
+            "uri":
+              "/los-angeles/klve/musica/radio-nacional/el-pulpo-paul-la-gallina-vidente-y-otros-animales-que-quieren-ser-el-oraculo-del-futbol-video",
+            "type": "video",
+            "updateDate": "2018-06-25T16:23:45-04:00",
+            "publishDate": "2018-06-25T14:50:00-04:00",
+            "expirationDate": "2028-06-24T14:50:00-04:00",
+            "title":
+              "El Pulpo Paul, la Gallina Vidente y otros animales que quieren ser el oráculo del fútbol",
+            "shortTitle":
+              "El Pulpo Paul, la Gallina Vidente y otros animales que quieren ser el oráculo del fútbol",
+            "description":
+              "Conoce al grupo de famosas, místicas y poderosas criaturas que con sus increíbles poderes han emocionado a las hinchas de diferentes países prediciendo resultados de encuentros futbolísticos.",
+            "shortDescription":
+              "Conoce al grupo de famosas, místicas y poderosas criaturas que con sus increíbles poderes han emocionado a las hinchas de diferentes países prediciendo resultados de encuentros futbolísticos.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-388c-d2c7-abf6-7defb7aa0000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn4.uvnimg.com/38/89/454f9fb94a29b3b0b1e5d2a9981c/d525f858e7ce457a919ed0702eaadb5b",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/49fc85a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F38%2F89%2F454f9fb94a29b3b0b1e5d2a9981c%2Fd525f858e7ce457a919ed0702eaadb5b",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/58e9719/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F38%2F89%2F454f9fb94a29b3b0b1e5d2a9981c%2Fd525f858e7ce457a919ed0702eaadb5b",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/fdac0e5/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F38%2F89%2F454f9fb94a29b3b0b1e5d2a9981c%2Fd525f858e7ce457a919ed0702eaadb5b",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/b00f873/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F38%2F89%2F454f9fb94a29b3b0b1e5d2a9981c%2Fd525f858e7ce457a919ed0702eaadb5b",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/3eeac7e/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F38%2F89%2F454f9fb94a29b3b0b1e5d2a9981c%2Fd525f858e7ce457a919ed0702eaadb5b",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/7858e45/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F38%2F89%2F454f9fb94a29b3b0b1e5d2a9981c%2Fd525f858e7ce457a919ed0702eaadb5b",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": "/temas/radio-nacional" },
+            "primaryTopic": "Música",
+            "secondaryTags": [],
+            "contentPriority": "standard",
+            "mcpid": "3533535",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/wiJg1018AvY",
+                  "redirectUrl": "http://uni.vi/wiJg1018AvY",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title":
+                    "El Pulpo Paul, la Gallina Vidente y otros animales que quieren ser el oráculo del fútbol",
+                  "description":
+                    "Conoce al grupo de famosas, místicas y poderosas criaturas que con sus increíbles poderes han emocionado a las hinchas de diferentes países prediciendo resultados de encuentros futbolísticos.",
+                  "imageUrl":
+                    "https://cdn4.uvnimg.com/38/89/454f9fb94a29b3b0b1e5d2a9981c/d525f858e7ce457a919ed0702eaadb5b"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/wiJg1018AvY",
+                  "title":
+                    "El Pulpo Paul, la Gallina Vidente y otros animales que quieren ser el oráculo del fútbol",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/wiJg1018AvY",
+                  "message":
+                    "El Pulpo Paul, la Gallina Vidente y otros animales que quieren ser el oráculo del fútbol"
+                },
+                "mail": {
+                  "subject":
+                    "El Pulpo Paul, la Gallina Vidente y otros animales que quieren ser el oráculo del fútbol",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEl Pulpo Paul, la Gallina Vidente y otros animales que quieren ser el oráculo del fútbol\n\nEncuéntralo en este enlace: http://uni.vi/wiJg1018AvY\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "2:05",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          },
+          {
+            "uid": "00000164-37c1-d2c7-abf6-7fe3fb7a0000",
+            "uri":
+              "/los-angeles/klve/musica/omar-y-argelia-show/la-historia-detras-de-la-gran-mentira-de-omar-hacia-argelia-sobre-su-estatura-video",
+            "type": "video",
+            "updateDate": "2018-06-25T12:27:38-04:00",
+            "publishDate": "2018-06-25T12:00:00-04:00",
+            "expirationDate": "2028-06-24T12:00:00-04:00",
+            "title":
+              "La historia detrás de la gran mentira de Omar hacia Argelia sobre su estatura",
+            "shortTitle":
+              "La historia detrás de la gran mentira de Omar hacia Argelia sobre su estatura",
+            "description":
+              "Cuando el locutor conoció a su esposa, este no fue muy sincero sobre su estatura, lo que llevó a Argelia a comprarle unos zapatos más grandes de los que calzaba.",
+            "shortDescription":
+              "Cuando el locutor conoció a su esposa, este no fue muy sincero sobre su estatura, lo que llevó a Argelia a comprarle unos zapatos más grandes de los que calzaba.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-37c3-d2c7-abf6-7fe3a7710000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn3.uvnimg.com/60/69/56befd834f5683ab4207d1b2a174/5a4bb0db8bbe421487f9fa1a661e0570",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/80d85d7/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F60%2F69%2F56befd834f5683ab4207d1b2a174%2F5a4bb0db8bbe421487f9fa1a661e0570",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/6a9c17a/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F60%2F69%2F56befd834f5683ab4207d1b2a174%2F5a4bb0db8bbe421487f9fa1a661e0570",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/746c085/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F60%2F69%2F56befd834f5683ab4207d1b2a174%2F5a4bb0db8bbe421487f9fa1a661e0570",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/c0277da/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F60%2F69%2F56befd834f5683ab4207d1b2a174%2F5a4bb0db8bbe421487f9fa1a661e0570",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/ec346ba/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F60%2F69%2F56befd834f5683ab4207d1b2a174%2F5a4bb0db8bbe421487f9fa1a661e0570",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/d1ddfad/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F60%2F69%2F56befd834f5683ab4207d1b2a174%2F5a4bb0db8bbe421487f9fa1a661e0570",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Omar y Argelia Show", "link": "/temas/omar-y-argelia-show" },
+            "primaryTopic": "Música",
+            "secondaryTags": [
+              { "name": "Omar Velasco", "link": "https://www.univision.com/temas/omar-velasco" },
+              {
+                "name": "Argelia Atilano",
+                "link": "https://www.univision.com/temas/argelia-atilano"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533433",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/PL5S1018yNi",
+                  "redirectUrl": "http://uni.vi/PL5S1018yNi",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title":
+                    "La historia detrás de la gran mentira de Omar hacia Argelia sobre su estatura",
+                  "description":
+                    "Cuando el locutor conoció a su esposa, este no fue muy sincero sobre su estatura, lo que llevó a Argelia a comprarle unos zapatos más grandes de los que calzaba.",
+                  "imageUrl":
+                    "https://cdn3.uvnimg.com/60/69/56befd834f5683ab4207d1b2a174/5a4bb0db8bbe421487f9fa1a661e0570"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/PL5S1018yNi",
+                  "title":
+                    "La historia detrás de la gran mentira de Omar hacia Argelia sobre su estatura",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/PL5S1018yNi",
+                  "message":
+                    "La historia detrás de la gran mentira de Omar hacia Argelia sobre su estatura"
+                },
+                "mail": {
+                  "subject":
+                    "La historia detrás de la gran mentira de Omar hacia Argelia sobre su estatura",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLa historia detrás de la gran mentira de Omar hacia Argelia sobre su estatura\n\nEncuéntralo en este enlace: http://uni.vi/PL5S1018yNi\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-PG",
+            "genre": null,
+            "durationString": "2:06",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "0000014d-00ec-d9c5-a3ef-06fde4180000",
+              "type": "radiostation",
+              "uri": "/los-angeles/klve",
+              "title": "K-Love 107.5",
+              "shortTitle": "K-LOVE",
+              "description": "Aquí encontrarás la mejor música romántica POP del momento",
+              "shortDescription": "Música Romántica POP",
+              "richTextDescription": null,
+              "logo": {
+                "type": "image",
+                "uid": "00000157-0b68-d302-a157-3ffa30630001",
+                "title": "LOS ANGELES LA RADIO STATIONS NUEVO LOGO NEW LOGO",
+                "caption": "",
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href":
+                      "https://cdn4.uvnimg.com/c1/79/a93d1cc74c64b000a4b41f5300be/los-angeles-107.5@2x.png",
+                    "width": 0,
+                    "height": 0
+                  },
+                  "16x9-med": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/e1dd392/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/6fcd1c1/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/5c0ea79/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-sm": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/a7387b6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/adb6778/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-extended": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/ab88738/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 1440,
+                    "height": 810
+                  }
+                }
+              },
+              "alternativeLogo": {
+                "type": "image",
+                "uid": "0000015d-9a90-deeb-af7f-ffb0cba20001",
+                "title": null,
+                "caption": "",
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href":
+                      "https://cdn3.uvnimg.com/46/54/bb519bde4f4682af215e59d446e2/k-love-207.5.svg",
+                    "width": 0,
+                    "height": 0
+                  },
+                  "16x9-med": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/bae9dcb/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/05bc01c/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/f7835f2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-sm": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/3ce7e2c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/170de0f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-extended": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/f5f4c71/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 1440,
+                    "height": 810
+                  }
+                }
+              },
+              "localMarketFooter": {
+                "title": "PÁGINAS DE LOS ÁNGELES",
+                "links": [
+                  {
+                    "uid": "0000014e-0d4c-dda5-a94f-1f6fc72f0000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Univision LA EEO Report",
+                    "href":
+                      "https://cdn3.uvnimg.com/dc/f5/3ba7ff7b412197711ecf86b63034/tv-radio-combined-eeo-public-file-report-local-media-la-8-1-16-through-7-31-17.pdf",
+                    "target": "_blank"
+                  },
+                  {
+                    "uid": "0000014f-1fd8-d24d-adff-3fd9beb00000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Univision LA Public File",
+                    "href": "https://publicfiles.fcc.gov/",
+                    "target": "_blank"
+                  },
+                  {
+                    "uid": "00000155-9d6b-d897-a77f-9def781a0000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Aviso del Servicio de Subtítulos ",
+                    "href":
+                      "https://www.univision.com/los-angeles/kmex/univision-y-unimas-aviso-del-servicio-de-subtitulos-closed-captioning",
+                    "target": "_blank"
+                  },
+                  {
+                    "uid": "00000155-9d6b-dd3e-a9d5-ddffd7cc0000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Somos Univision 34, Los Angeles",
+                    "href":
+                      "https://www.univision.com/los-angeles/kmex/somos-univision-34-los-angeles",
+                    "target": "_blank"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "uid": "00000164-3744-d2c7-abf6-7f6723460000",
+            "uri":
+              "/los-angeles/klve/musica/omar-y-argelia-show/si-naciste-en-junio-puede-que-seas-especial-video",
+            "type": "video",
+            "updateDate": "2018-06-25T11:23:43-04:00",
+            "publishDate": "2018-06-25T09:46:00-04:00",
+            "expirationDate": "2028-06-24T09:46:00-04:00",
+            "title": "Si naciste en junio puede que seas especial",
+            "shortTitle": "Si naciste en junio puede que seas especial",
+            "description":
+              "Conoce las razones que distinguen a las personas que nacieron en este mes.",
+            "shortDescription":
+              "Conoce las razones que distinguen a las personas que nacieron en este mes.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-3748-d2c7-abf6-7f6b9b1d0000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn1.uvnimg.com/c3/39/0cb5747a42088a299db71f0014c4/8b2c4aa85f3b4cf89ae41dad8efdc7ce",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn2.uvnimg.com/dims4/default/3b07b3e/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fc3%2F39%2F0cb5747a42088a299db71f0014c4%2F8b2c4aa85f3b4cf89ae41dad8efdc7ce",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn2.uvnimg.com/dims4/default/8e3a9fb/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fc3%2F39%2F0cb5747a42088a299db71f0014c4%2F8b2c4aa85f3b4cf89ae41dad8efdc7ce",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn2.uvnimg.com/dims4/default/143249b/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fc3%2F39%2F0cb5747a42088a299db71f0014c4%2F8b2c4aa85f3b4cf89ae41dad8efdc7ce",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn2.uvnimg.com/dims4/default/40df2fd/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fc3%2F39%2F0cb5747a42088a299db71f0014c4%2F8b2c4aa85f3b4cf89ae41dad8efdc7ce",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn2.uvnimg.com/dims4/default/f963219/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fc3%2F39%2F0cb5747a42088a299db71f0014c4%2F8b2c4aa85f3b4cf89ae41dad8efdc7ce",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn2.uvnimg.com/dims4/default/11abe11/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fc3%2F39%2F0cb5747a42088a299db71f0014c4%2F8b2c4aa85f3b4cf89ae41dad8efdc7ce",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Omar y Argelia Show", "link": "/temas/omar-y-argelia-show" },
+            "primaryTopic": "Música",
+            "secondaryTags": [
+              { "name": "Omar Velasco", "link": "https://www.univision.com/temas/omar-velasco" },
+              {
+                "name": "Argelia Atilano",
+                "link": "https://www.univision.com/temas/argelia-atilano"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533381",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/sNrv1018ynw",
+                  "redirectUrl": "http://uni.vi/sNrv1018ynw",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Si naciste en junio puede que seas especial",
+                  "description":
+                    "Conoce las razones que distinguen a las personas que nacieron en este mes.",
+                  "imageUrl":
+                    "https://cdn1.uvnimg.com/c3/39/0cb5747a42088a299db71f0014c4/8b2c4aa85f3b4cf89ae41dad8efdc7ce"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/sNrv1018ynw",
+                  "title": "Si naciste en junio puede que seas especial",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/sNrv1018ynw",
+                  "message": "Si naciste en junio puede que seas especial"
+                },
+                "mail": {
+                  "subject": "Si naciste en junio puede que seas especial",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nSi naciste en junio puede que seas especial\n\nEncuéntralo en este enlace: http://uni.vi/sNrv1018ynw\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-PG",
+            "genre": null,
+            "durationString": "5:38",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "0000014d-00ec-d9c5-a3ef-06fde4180000",
+              "type": "radiostation",
+              "uri": "/los-angeles/klve",
+              "title": "K-Love 107.5",
+              "shortTitle": "K-LOVE",
+              "description": "Aquí encontrarás la mejor música romántica POP del momento",
+              "shortDescription": "Música Romántica POP",
+              "richTextDescription": null,
+              "logo": {
+                "type": "image",
+                "uid": "00000157-0b68-d302-a157-3ffa30630001",
+                "title": "LOS ANGELES LA RADIO STATIONS NUEVO LOGO NEW LOGO",
+                "caption": "",
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href":
+                      "https://cdn4.uvnimg.com/c1/79/a93d1cc74c64b000a4b41f5300be/los-angeles-107.5@2x.png",
+                    "width": 0,
+                    "height": 0
+                  },
+                  "16x9-med": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/e1dd392/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/6fcd1c1/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/5c0ea79/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-sm": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/a7387b6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/adb6778/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-extended": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/ab88738/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+                    "width": 1440,
+                    "height": 810
+                  }
+                }
+              },
+              "alternativeLogo": {
+                "type": "image",
+                "uid": "0000015d-9a90-deeb-af7f-ffb0cba20001",
+                "title": null,
+                "caption": "",
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href":
+                      "https://cdn3.uvnimg.com/46/54/bb519bde4f4682af215e59d446e2/k-love-207.5.svg",
+                    "width": 0,
+                    "height": 0
+                  },
+                  "16x9-med": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/bae9dcb/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/05bc01c/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/f7835f2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-sm": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/3ce7e2c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/170de0f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-extended": {
+                    "href":
+                      "https://cdn2.uvnimg.com/dims4/default/f5f4c71/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+                    "width": 1440,
+                    "height": 810
+                  }
+                }
+              },
+              "localMarketFooter": {
+                "title": "PÁGINAS DE LOS ÁNGELES",
+                "links": [
+                  {
+                    "uid": "0000014e-0d4c-dda5-a94f-1f6fc72f0000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Univision LA EEO Report",
+                    "href":
+                      "https://cdn3.uvnimg.com/dc/f5/3ba7ff7b412197711ecf86b63034/tv-radio-combined-eeo-public-file-report-local-media-la-8-1-16-through-7-31-17.pdf",
+                    "target": "_blank"
+                  },
+                  {
+                    "uid": "0000014f-1fd8-d24d-adff-3fd9beb00000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Univision LA Public File",
+                    "href": "https://publicfiles.fcc.gov/",
+                    "target": "_blank"
+                  },
+                  {
+                    "uid": "00000155-9d6b-d897-a77f-9def781a0000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Aviso del Servicio de Subtítulos ",
+                    "href":
+                      "https://www.univision.com/los-angeles/kmex/univision-y-unimas-aviso-del-servicio-de-subtitulos-closed-captioning",
+                    "target": "_blank"
+                  },
+                  {
+                    "uid": "00000155-9d6b-dd3e-a9d5-ddffd7cc0000",
+                    "uri": null,
+                    "type": "externallink",
+                    "versionCreated": null,
+                    "text": "Somos Univision 34, Los Angeles",
+                    "href":
+                      "https://www.univision.com/los-angeles/kmex/somos-univision-34-los-angeles",
+                    "target": "_blank"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "uid": "00000164-2f28-d2c7-abf6-6f6b792a0000",
+            "uri":
+              "/los-angeles/klve/musica/radio-nacional/veredicto-final-de-los-hinchas-mexicanos-rostov-no-se-rajo-video",
+            "type": "video",
+            "updateDate": "2018-06-23T20:27:37-04:00",
+            "publishDate": "2018-06-23T20:02:00-04:00",
+            "expirationDate": "2028-06-22T20:02:00-04:00",
+            "title": "Veredicto final de los hinchas mexicanos: Rostov no se rajó",
+            "shortTitle": "Veredicto final de los hinchas mexicanos: Rostov no se rajó",
+            "description":
+              "Fuimos a rusia esperando esquimales y renos y el ambiente está caliente. Los fanáticos del 'Tri' están felices con el goleador Irvin 'El Chucky' Lozano y ya tiene su cántico original.",
+            "shortDescription":
+              "Fuimos a rusia esperando esquimales y renos y el ambiente está caliente. Los fanáticos del 'Tri' están felices con el goleador Irvin 'El Chucky' Lozano y ya tiene su cántico original.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-2f2b-d2c7-abf6-6f6b57240005",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn2.uvnimg.com/a8/7b/a5cd0bd1414e899dacb63b8e3a1b/64847d8dda6643bfbaa67e0e23709618",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn1.uvnimg.com/dims4/default/124ca5c/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F7b%2Fa5cd0bd1414e899dacb63b8e3a1b%2F64847d8dda6643bfbaa67e0e23709618",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn1.uvnimg.com/dims4/default/4ee053a/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F7b%2Fa5cd0bd1414e899dacb63b8e3a1b%2F64847d8dda6643bfbaa67e0e23709618",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn1.uvnimg.com/dims4/default/97bb76c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F7b%2Fa5cd0bd1414e899dacb63b8e3a1b%2F64847d8dda6643bfbaa67e0e23709618",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn1.uvnimg.com/dims4/default/6b6180e/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F7b%2Fa5cd0bd1414e899dacb63b8e3a1b%2F64847d8dda6643bfbaa67e0e23709618",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn1.uvnimg.com/dims4/default/884778d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F7b%2Fa5cd0bd1414e899dacb63b8e3a1b%2F64847d8dda6643bfbaa67e0e23709618",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn1.uvnimg.com/dims4/default/f8e71ff/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8%2F7b%2Fa5cd0bd1414e899dacb63b8e3a1b%2F64847d8dda6643bfbaa67e0e23709618",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": "/temas/radio-nacional" },
+            "primaryTopic": "Música",
+            "secondaryTags": [
+              {
+                "name": "César Procel \"El Caballo\"",
+                "link": "https://www.univision.com/temas/cesar-procel-el-caballo"
+              },
+              {
+                "name": "Copa Mundial",
+                "link": "https://www.univision.com/deportes/futbol/copa-mundial"
+              },
+              { "name": "Mundial Rusia 2018", "link": "/deportes/mundial-rusia-2018" },
+              { "name": "Entretenimiento", "link": "/temas/entretenimiento" }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533071",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/Tsdv1018qtI",
+                  "redirectUrl": "http://uni.vi/Tsdv1018qtI",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Veredicto final de los hinchas mexicanos: Rostov no se rajó",
+                  "description":
+                    "Fuimos a rusia esperando esquimales y renos y el ambiente está caliente. Los fanáticos del 'Tri' están felices con el goleador Irvin 'El Chucky' Lozano y ya tiene su cántico original.",
+                  "imageUrl":
+                    "https://cdn2.uvnimg.com/a8/7b/a5cd0bd1414e899dacb63b8e3a1b/64847d8dda6643bfbaa67e0e23709618"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/Tsdv1018qtI",
+                  "title": "Veredicto final de los hinchas mexicanos: Rostov no se rajó",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/Tsdv1018qtI",
+                  "message": "Veredicto final de los hinchas mexicanos: Rostov no se rajó"
+                },
+                "mail": {
+                  "subject": "Veredicto final de los hinchas mexicanos: Rostov no se rajó",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nVeredicto final de los hinchas mexicanos: Rostov no se rajó\n\nEncuéntralo en este enlace: http://uni.vi/Tsdv1018qtI\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "0:58",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          },
+          {
+            "uid": "00000164-2e9b-d2c7-abf6-6ffbcb210000",
+            "uri":
+              "/los-angeles/klve/local/radio-nacional/hinchas-mexicanos-osorio-hermano-ya-eres-mexicano-video",
+            "type": "video",
+            "updateDate": "2018-06-23T18:56:03-04:00",
+            "publishDate": "2018-06-23T16:51:00-04:00",
+            "expirationDate": "2028-06-22T16:51:00-04:00",
+            "title": "Hinchas mexicanos: \"¡Osorio hermano ya eres mexicano!\"",
+            "shortTitle": "Hinchas mexicanos: \"¡Osorio hermano ya eres mexicano!\"",
+            "description":
+              "Luego de las múltiples críticas al seleccionador nacional, hinchas mexicanos y Juan Carlos Osorio parecen estar viviendo una reconciliación duradera.",
+            "shortDescription":
+              "Luego de las múltiples críticas al seleccionador nacional, hinchas mexicanos y Juan Carlos Osorio parecen estar viviendo una reconciliación duradera.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-2ebf-d2c7-abf6-6fff03c50000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn3.uvnimg.com/41/35/fe77b5ec440b918c149c311cd304/f3139b158dc64109b52187f306a20714",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/b9e4dc3/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F41%2F35%2Ffe77b5ec440b918c149c311cd304%2Ff3139b158dc64109b52187f306a20714",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/202173a/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F41%2F35%2Ffe77b5ec440b918c149c311cd304%2Ff3139b158dc64109b52187f306a20714",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/a0cf81a/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F41%2F35%2Ffe77b5ec440b918c149c311cd304%2Ff3139b158dc64109b52187f306a20714",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/fd2e909/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F41%2F35%2Ffe77b5ec440b918c149c311cd304%2Ff3139b158dc64109b52187f306a20714",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/e1cbdfa/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F41%2F35%2Ffe77b5ec440b918c149c311cd304%2Ff3139b158dc64109b52187f306a20714",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/8d0daa4/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F41%2F35%2Ffe77b5ec440b918c149c311cd304%2Ff3139b158dc64109b52187f306a20714",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": "/temas/radio-nacional" },
+            "primaryTopic": "Música",
+            "secondaryTags": [
+              {
+                "name": "César Procel \"El Caballo\"",
+                "link": "https://www.univision.com/temas/cesar-procel-el-caballo"
+              },
+              { "name": "Fútbol", "link": "/deportes/futbol" },
+              { "name": "Mundial Rusia 2018", "link": "/deportes/mundial-rusia-2018" },
+              {
+                "name": "Copa Mundial",
+                "link": "https://www.univision.com/deportes/futbol/copa-mundial"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533010",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/FO471018qcO",
+                  "redirectUrl": "http://uni.vi/FO471018qcO",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Hinchas mexicanos: \"¡Osorio hermano ya eres mexicano!\"",
+                  "description":
+                    "Luego de las múltiples críticas al seleccionador nacional, hinchas mexicanos y Juan Carlos Osorio parecen estar viviendo una reconciliación duradera.",
+                  "imageUrl":
+                    "https://cdn3.uvnimg.com/41/35/fe77b5ec440b918c149c311cd304/f3139b158dc64109b52187f306a20714"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/FO471018qcO",
+                  "title": "Hinchas mexicanos: \"¡Osorio hermano ya eres mexicano!\"",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/FO471018qcO",
+                  "message": "Hinchas mexicanos: \"¡Osorio hermano ya eres mexicano!\""
+                },
+                "mail": {
+                  "subject": "Hinchas mexicanos: \"¡Osorio hermano ya eres mexicano!\"",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nHinchas mexicanos: \"¡Osorio hermano ya eres mexicano!\"\n\nEncuéntralo en este enlace: http://uni.vi/FO471018qcO\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "0:33",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          },
+          {
+            "uid": "00000164-2e5d-d2c7-abf6-6f7f0a220000",
+            "uri":
+              "/los-angeles/klve/local/radio-nacional/viviendo-el-mundial-a-los-hinchas-del-equipo-coreano-no-les-cayo-muy-bien-la-derrota-video",
+            "type": "video",
+            "updateDate": "2018-06-23T18:54:31-04:00",
+            "publishDate": "2018-06-23T16:29:00-04:00",
+            "expirationDate": "2028-06-22T16:29:00-04:00",
+            "title":
+              "Viviendo el Mundial: A los hinchas del equipo coreano no les cayó muy bien la derrota",
+            "shortTitle":
+              "Viviendo el Mundial: A los hinchas del equipo coreano no les cayó muy bien la derrota",
+            "description":
+              "En un vibrante partido, la Selección Mexicana se alzó con el triunfo contra Corea del Sur. César ‘El Caballo’ se encontró a unos hinchas coreanos y las lágrimas afloraron.",
+            "shortDescription":
+              "En un vibrante partido, la Selección Mexicana se alzó con el triunfo contra Corea del Sur. César ‘El Caballo’ se encontró a unos hinchas coreanos y las lágrimas afloraron.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-2ebf-d2c7-abf6-6fffee730000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn4.uvnimg.com/32/20/c9d3580c428c82e17d351635f776/8c20734bf54d4395bfc3df06518a1221",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/bacea21/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F32%2F20%2Fc9d3580c428c82e17d351635f776%2F8c20734bf54d4395bfc3df06518a1221",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/741c07b/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F32%2F20%2Fc9d3580c428c82e17d351635f776%2F8c20734bf54d4395bfc3df06518a1221",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/c306cf9/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F32%2F20%2Fc9d3580c428c82e17d351635f776%2F8c20734bf54d4395bfc3df06518a1221",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/74059f1/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F32%2F20%2Fc9d3580c428c82e17d351635f776%2F8c20734bf54d4395bfc3df06518a1221",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/e3418b2/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F32%2F20%2Fc9d3580c428c82e17d351635f776%2F8c20734bf54d4395bfc3df06518a1221",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/363862a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F32%2F20%2Fc9d3580c428c82e17d351635f776%2F8c20734bf54d4395bfc3df06518a1221",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": "/temas/radio-nacional" },
+            "primaryTopic": "Música",
+            "secondaryTags": [
+              {
+                "name": "César Procel \"El Caballo\"",
+                "link": "https://www.univision.com/temas/cesar-procel-el-caballo"
+              },
+              {
+                "name": "Copa Mundial",
+                "link": "https://www.univision.com/deportes/futbol/copa-mundial"
+              },
+              { "name": "Mundial Rusia 2018", "link": "/deportes/mundial-rusia-2018" },
+              { "name": "Fútbol", "link": "/deportes/futbol" }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3532997",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/TxTP1018pZO",
+                  "redirectUrl": "http://uni.vi/TxTP1018pZO",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title":
+                    "Viviendo el Mundial: A los hinchas del equipo coreano no les cayó muy bien la derrota",
+                  "description":
+                    "En un vibrante partido, la Selección Mexicana se alzó con el triunfo contra Corea del Sur. César ‘El Caballo’ se encontró a unos hinchas coreanos y las lágrimas afloraron.",
+                  "imageUrl":
+                    "https://cdn4.uvnimg.com/32/20/c9d3580c428c82e17d351635f776/8c20734bf54d4395bfc3df06518a1221"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/TxTP1018pZO",
+                  "title":
+                    "Viviendo el Mundial: A los hinchas del equipo coreano no les cayó muy bien la derrota",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/TxTP1018pZO",
+                  "message":
+                    "Viviendo el Mundial: A los hinchas del equipo coreano no les cayó muy bien la derrota"
+                },
+                "mail": {
+                  "subject":
+                    "Viviendo el Mundial: A los hinchas del equipo coreano no les cayó muy bien la derrota",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nViviendo el Mundial: A los hinchas del equipo coreano no les cayó muy bien la derrota\n\nEncuéntralo en este enlace: http://uni.vi/TxTP1018pZO\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "0:50",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          },
+          {
+            "uid": "00000164-2dba-d2c7-abf6-6dfb002c0000",
+            "uri":
+              "/los-angeles/klve/musica/radio-nacional/la-marea-verde-estalla-a-rabiar-con-el-triunfo-del-tri-en-rostof-video",
+            "type": "video",
+            "updateDate": "2018-06-23T13:48:06-04:00",
+            "publishDate": "2018-06-23T13:20:00-04:00",
+            "expirationDate": "2028-06-22T13:20:00-04:00",
+            "title": "La 'Marea Verde' estalla a rabiar con el triunfo del Tri en Rostof",
+            "shortTitle": "La 'Marea Verde' estalla a rabiar con el triunfo del Tri en Rostof",
+            "description":
+              "México alcanza un gran triunfo contra Corea, 6 de 6 puntos, pensado en el siguiente partido contra Suecia, a 90 minutos de la clasificación ¡Con la fe intacta!.",
+            "shortDescription":
+              "México alcanza un gran triunfo contra Corea, 6 de 6 puntos, pensado en el siguiente partido contra Suecia, a 90 minutos de la clasificación ¡Con la fe intacta!.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-2dbb-d2c7-abf6-6dfbc6070000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn1.uvnimg.com/51/b9/4c5a4a7c42b6a29b7290c71b8a6b/4269a91cea614871a58e6db12f57a530",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/fc4f827/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F51%2Fb9%2F4c5a4a7c42b6a29b7290c71b8a6b%2F4269a91cea614871a58e6db12f57a530",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/17ee316/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F51%2Fb9%2F4c5a4a7c42b6a29b7290c71b8a6b%2F4269a91cea614871a58e6db12f57a530",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/375fb56/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F51%2Fb9%2F4c5a4a7c42b6a29b7290c71b8a6b%2F4269a91cea614871a58e6db12f57a530",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/90581b8/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F51%2Fb9%2F4c5a4a7c42b6a29b7290c71b8a6b%2F4269a91cea614871a58e6db12f57a530",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/9a4162d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F51%2Fb9%2F4c5a4a7c42b6a29b7290c71b8a6b%2F4269a91cea614871a58e6db12f57a530",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn4.uvnimg.com/dims4/default/affeb18/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F51%2Fb9%2F4c5a4a7c42b6a29b7290c71b8a6b%2F4269a91cea614871a58e6db12f57a530",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": "/temas/radio-nacional" },
+            "primaryTopic": "Música",
+            "secondaryTags": [
+              {
+                "name": "César Procel \"El Caballo\"",
+                "link": "https://www.univision.com/temas/cesar-procel-el-caballo"
+              },
+              { "name": "Fútbol", "link": "/deportes/futbol" },
+              {
+                "name": "Copa Mundial",
+                "link": "https://www.univision.com/deportes/futbol/copa-mundial"
+              },
+              { "name": "Mundial Rusia 2018", "link": "/deportes/mundial-rusia-2018" }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3532971",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/p1P01018prT",
+                  "redirectUrl": "http://uni.vi/p1P01018prT",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "La 'Marea Verde' estalla a rabiar con el triunfo del Tri en Rostof",
+                  "description":
+                    "México alcanza un gran triunfo contra Corea, 6 de 6 puntos, pensado en el siguiente partido contra Suecia, a 90 minutos de la clasificación ¡Con la fe intacta!.",
+                  "imageUrl":
+                    "https://cdn1.uvnimg.com/51/b9/4c5a4a7c42b6a29b7290c71b8a6b/4269a91cea614871a58e6db12f57a530"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/p1P01018prT",
+                  "title": "La 'Marea Verde' estalla a rabiar con el triunfo del Tri en Rostof",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/p1P01018prT",
+                  "message": "La 'Marea Verde' estalla a rabiar con el triunfo del Tri en Rostof"
+                },
+                "mail": {
+                  "subject": "La 'Marea Verde' estalla a rabiar con el triunfo del Tri en Rostof",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLa 'Marea Verde' estalla a rabiar con el triunfo del Tri en Rostof\n\nEncuéntralo en este enlace: http://uni.vi/p1P01018prT\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "0:46",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          },
+          {
+            "uid": "00000164-2d7d-d2c7-abf6-6d7fa8230000",
+            "uri":
+              "/los-angeles/klve/local/radio-nacional/la-hinchada-coreana-se-hace-sentir-en-el-partido-mexico-vs-corea-del-sur-video",
+            "type": "video",
+            "updateDate": "2018-06-23T12:46:34-04:00",
+            "publishDate": "2018-06-23T12:27:00-04:00",
+            "expirationDate": "2028-06-22T12:27:00-04:00",
+            "title": "La hinchada coreana se hace sentir en el partido México vs Corea del Sur",
+            "shortTitle":
+              "La hinchada coreana se hace sentir en el partido México vs Corea del Sur",
+            "description":
+              "César Precel se encontró a los fanáticos del país asiatico, haciendole mucha fuerza a su equipo. Están al todo por su equipo.",
+            "shortDescription":
+              "César Precel se encontró a los fanáticos del país asiatico, haciendole mucha fuerza a su equipo. Están al todo por su equipo.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-2d8a-d2c7-abf6-6deb45fd0000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn3.uvnimg.com/58/ad/d5304b3e45a9b37afbf45e8bd241/7149ee5e697f47fabc3254487206a05c",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/f83505e/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F58%2Fad%2Fd5304b3e45a9b37afbf45e8bd241%2F7149ee5e697f47fabc3254487206a05c",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/437b2b7/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F58%2Fad%2Fd5304b3e45a9b37afbf45e8bd241%2F7149ee5e697f47fabc3254487206a05c",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/43ee4f5/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F58%2Fad%2Fd5304b3e45a9b37afbf45e8bd241%2F7149ee5e697f47fabc3254487206a05c",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/e482b26/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F58%2Fad%2Fd5304b3e45a9b37afbf45e8bd241%2F7149ee5e697f47fabc3254487206a05c",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/e04948d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F58%2Fad%2Fd5304b3e45a9b37afbf45e8bd241%2F7149ee5e697f47fabc3254487206a05c",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/da6dc7f/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F58%2Fad%2Fd5304b3e45a9b37afbf45e8bd241%2F7149ee5e697f47fabc3254487206a05c",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": null },
+            "primaryTopic": "Local",
+            "secondaryTags": [
+              {
+                "name": "César Procel \"El Caballo\"",
+                "link": "https://www.univision.com/temas/cesar-procel-el-caballo"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3532961",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/9O7y1018pbp",
+                  "redirectUrl": "http://uni.vi/9O7y1018pbp",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title":
+                    "La hinchada coreana se hace sentir en el partido México vs Corea del Sur",
+                  "description":
+                    "César Precel se encontró a los fanáticos del país asiatico, haciendole mucha fuerza a su equipo. Están al todo por su equipo.",
+                  "imageUrl":
+                    "https://cdn3.uvnimg.com/58/ad/d5304b3e45a9b37afbf45e8bd241/7149ee5e697f47fabc3254487206a05c"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/9O7y1018pbp",
+                  "title":
+                    "La hinchada coreana se hace sentir en el partido México vs Corea del Sur",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/9O7y1018pbp",
+                  "message":
+                    "La hinchada coreana se hace sentir en el partido México vs Corea del Sur"
+                },
+                "mail": {
+                  "subject":
+                    "La hinchada coreana se hace sentir en el partido México vs Corea del Sur",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLa hinchada coreana se hace sentir en el partido México vs Corea del Sur\n\nEncuéntralo en este enlace: http://uni.vi/9O7y1018pbp\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "0:29",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          },
+          {
+            "uid": "00000164-2d65-d2c7-abf6-6d67a3c80000",
+            "uri":
+              "/los-angeles/klve/local/radio-nacional/viviendo-el-mundial-pepe-elizondo-de-grupo-pesado-en-rusia-video",
+            "type": "video",
+            "updateDate": "2018-06-23T12:22:36-04:00",
+            "publishDate": "2018-06-23T10:53:00-04:00",
+            "expirationDate": "2028-06-22T10:53:00-04:00",
+            "title": "Viviendo el Mundial: Pepe Elizondo de Grupo Pesado en Rusia",
+            "shortTitle": "Viviendo el Mundial: Pepe Elizondo de Grupo Pesado en Rusia",
+            "description":
+              "Entre toda la fanaticada, Cesar a Procel se encontró al integrante del grupo de regional mexicano que dio su pronóstico.",
+            "shortDescription":
+              "Entre toda la fanaticada, Cesar a Procel se encontró al integrante del grupo de regional mexicano que dio su pronóstico.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-2d74-d2c7-abf6-6d7754170000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn1.uvnimg.com/6c/f7/da813ba54f5fb39a2962e6a7f8dd/aa45a44167494c11bc700dc61336e76e",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/92aad8a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6c%2Ff7%2Fda813ba54f5fb39a2962e6a7f8dd%2Faa45a44167494c11bc700dc61336e76e",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/1571d8d/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6c%2Ff7%2Fda813ba54f5fb39a2962e6a7f8dd%2Faa45a44167494c11bc700dc61336e76e",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/2144dcd/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6c%2Ff7%2Fda813ba54f5fb39a2962e6a7f8dd%2Faa45a44167494c11bc700dc61336e76e",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/305f58e/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6c%2Ff7%2Fda813ba54f5fb39a2962e6a7f8dd%2Faa45a44167494c11bc700dc61336e76e",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/750649e/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6c%2Ff7%2Fda813ba54f5fb39a2962e6a7f8dd%2Faa45a44167494c11bc700dc61336e76e",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/2634e0a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6c%2Ff7%2Fda813ba54f5fb39a2962e6a7f8dd%2Faa45a44167494c11bc700dc61336e76e",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": null },
+            "primaryTopic": "Local",
+            "secondaryTags": [
+              {
+                "name": "César Procel \"El Caballo\"",
+                "link": "https://www.univision.com/temas/cesar-procel-el-caballo"
+              },
+              { "name": "Deportes", "link": "/temas/deportes" }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3532955",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/9flG1018p65",
+                  "redirectUrl": "http://uni.vi/9flG1018p65",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Viviendo el Mundial: Pepe Elizondo de Grupo Pesado en Rusia",
+                  "description":
+                    "Entre toda la fanaticada, Cesar a Procel se encontró al integrante del grupo de regional mexicano que dio su pronóstico.",
+                  "imageUrl":
+                    "https://cdn1.uvnimg.com/6c/f7/da813ba54f5fb39a2962e6a7f8dd/aa45a44167494c11bc700dc61336e76e"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/9flG1018p65",
+                  "title": "Viviendo el Mundial: Pepe Elizondo de Grupo Pesado en Rusia",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/9flG1018p65",
+                  "message": "Viviendo el Mundial: Pepe Elizondo de Grupo Pesado en Rusia"
+                },
+                "mail": {
+                  "subject": "Viviendo el Mundial: Pepe Elizondo de Grupo Pesado en Rusia",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nViviendo el Mundial: Pepe Elizondo de Grupo Pesado en Rusia\n\nEncuéntralo en este enlace: http://uni.vi/9flG1018p65\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "0:51",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          },
+          {
+            "uid": "00000164-297f-d2c7-abf6-6d7f63e40000",
+            "uri":
+              "/los-angeles/klve/local/radio-nacional/viviendo-el-mundial-las-rusas-le-envian-toda-su-suerte-al-tri-video",
+            "type": "video",
+            "updateDate": "2018-06-22T19:41:16-04:00",
+            "publishDate": "2018-06-22T17:30:00-04:00",
+            "expirationDate": "2028-06-21T17:30:00-04:00",
+            "title": "Viviendo el Mundial: Las rusas le envían toda su suerte al Tri",
+            "shortTitle": "Viviendo el Mundial: Las rusas le envían toda su suerte al Tri",
+            "description":
+              "Aunque no les podemos entender por completo, Cesar 'El Caballo' estuvo recogiendo buenos deseos para la Selección Mexicana.",
+            "shortDescription":
+              "Aunque no les podemos entender por completo, Cesar 'El Caballo' estuvo recogiendo buenos deseos para la Selección Mexicana.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-297f-d2c7-abf6-6d7f63ee0000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn1.uvnimg.com/7e/fa/343865d743009ec7e2a9be361aca/1c2d42a1149d4b2e9b96afecbee275e7",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/9c47492/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F7e%2Ffa%2F343865d743009ec7e2a9be361aca%2F1c2d42a1149d4b2e9b96afecbee275e7",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/01275f7/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F7e%2Ffa%2F343865d743009ec7e2a9be361aca%2F1c2d42a1149d4b2e9b96afecbee275e7",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/f741f05/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F7e%2Ffa%2F343865d743009ec7e2a9be361aca%2F1c2d42a1149d4b2e9b96afecbee275e7",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/0e8a114/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F7e%2Ffa%2F343865d743009ec7e2a9be361aca%2F1c2d42a1149d4b2e9b96afecbee275e7",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/0d1181b/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F7e%2Ffa%2F343865d743009ec7e2a9be361aca%2F1c2d42a1149d4b2e9b96afecbee275e7",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/af87318/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F7e%2Ffa%2F343865d743009ec7e2a9be361aca%2F1c2d42a1149d4b2e9b96afecbee275e7",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": { "name": "Radio Nacional", "link": "/temas/radio-nacional" },
+            "primaryTopic": "Música",
+            "secondaryTags": [
+              {
+                "name": "César Procel \"El Caballo\"",
+                "link": "https://www.univision.com/temas/cesar-procel-el-caballo"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3532739",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/6Vko1018k95",
+                  "redirectUrl": "http://uni.vi/6Vko1018k95",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Viviendo el Mundial: Las rusas le envían toda su suerte al Tri",
+                  "description":
+                    "Aunque no les podemos entender por completo, Cesar 'El Caballo' estuvo recogiendo buenos deseos para la Selección Mexicana.",
+                  "imageUrl":
+                    "https://cdn1.uvnimg.com/7e/fa/343865d743009ec7e2a9be361aca/1c2d42a1149d4b2e9b96afecbee275e7"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/6Vko1018k95",
+                  "title": "Viviendo el Mundial: Las rusas le envían toda su suerte al Tri",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/6Vko1018k95",
+                  "message": "Viviendo el Mundial: Las rusas le envían toda su suerte al Tri"
+                },
+                "mail": {
+                  "subject": "Viviendo el Mundial: Las rusas le envían toda su suerte al Tri",
+                  "body":
+                    "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nViviendo el Mundial: Las rusas le envían toda su suerte al Tri\n\nEncuéntralo en este enlace: http://uni.vi/6Vko1018k95\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-14",
+            "genre": null,
+            "durationString": "0:28",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision Radio",
+            "sourceStation": {
+              "uid": "00000161-8fc3-d426-a561-cfc351510000",
+              "type": "radiostation",
+              "uri": null,
+              "title": "Radio Nacional",
+              "shortTitle": "Radio Nacional",
+              "description": "Radio Nacional",
+              "shortDescription": "Radio Nacional",
+              "richTextDescription": [],
+              "logo": { "type": null, "renditions": null },
+              "alternativeLogo": { "type": null, "renditions": null }
+            }
+          }
+        ]
+      },
+      {
+        "type": "AllCarouselHighImpact",
+        "settings": {
+          "uid": "00000163-ef6f-db8f-a36f-ef6fe2a10003",
+          "updateDate": null,
+          "publishDate": null,
+          "title": null,
+          "type": "allcarouselhighimpact",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": [
+          {
+            "uid": "00000164-3b00-dc38-a3f7-7bf8a28a0000",
+            "uri": "https://audioboom.com/channel/omar-y-argelia",
+            "type": "externalcontent",
+            "updateDate": null,
+            "publishDate": null,
+            "title": "Podcast: Omar y Argelia",
+            "description": null,
+            "image": {
+              "type": "image",
+              "uid": "0000015e-057e-da8e-a77f-edff1a470000",
+              "title": "Omar y Argelia Podcast altoimpacto",
+              "caption": "",
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href":
+                    "https://cdn1.uvnimg.com/34/4d/1b5391c1416c96fc7386d2af49d7/omaryargelia-1440.png",
+                  "width": 1440,
+                  "height": 540
+                },
+                "16x9-med": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/9cb0692/2147483647/crop/960x540%2B294%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F34%2F4d%2F1b5391c1416c96fc7386d2af49d7%2Fomaryargelia-1440.png",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/8bc6321/2147483647/crop/959x540%2B294%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F34%2F4d%2F1b5391c1416c96fc7386d2af49d7%2Fomaryargelia-1440.png",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-sm": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/38863f9/2147483647/crop/962x540%2B293%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F34%2F4d%2F1b5391c1416c96fc7386d2af49d7%2Fomaryargelia-1440.png",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/1d7507d/2147483647/crop/960x540%2B294%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F34%2F4d%2F1b5391c1416c96fc7386d2af49d7%2Fomaryargelia-1440.png",
+                  "width": 1024,
+                  "height": 576
+                },
+                "1x1-mobile": {
+                  "href":
+                    "https://cdn3.uvnimg.com/dims4/default/a260a51/2147483647/crop/540x540%2B504%2B0/resize/480x480/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F34%2F4d%2F1b5391c1416c96fc7386d2af49d7%2Fomaryargelia-1440.png",
+                  "width": 480,
+                  "height": 480
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "RadioBannerStationSchedule",
+        "settings": {
+          "radioSchedule": [
+            { "program": "Omar y Argelia", "time-slot": "5 AM - 10 AM" },
+            { "program": "Donaji", "time-slot": "10 AM - 3 PM" },
+            { "program": "Ysaac Alvarez", "time-slot": "3 PM - 7 PM" },
+            { "program": "Bertha Andrea Gonzalez", "time-slot": "7 PM - 12 AM" }
+          ],
+          "title": "Programación ",
+          "titleLink": null
+        },
+        "contents": null
+      }
+    ],
+    "sourceStation": {
+      "uid": "0000014d-00ec-d9c5-a3ef-06fde4180000",
+      "uri": "/los-angeles/klve",
+      "type": "radiostation",
+      "updateDate": "2018-05-08T10:56:38-04:00",
+      "publishDate": "2015-04-28T12:53:44-04:00",
+      "title": "K-Love 107.5",
+      "shortTitle": "K-LOVE",
+      "description": "Aquí encontrarás la mejor música romántica POP del momento",
+      "shortDescription": "Música Romántica POP",
+      "richTextDescription": null,
+      "image": {
+        "type": "image",
+        "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title": "Univision Fallback Image",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "16x9-med": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/f1add98/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/61c8523/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/d7f6956/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/86b82ae/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/5d05774/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-extended": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/defd577/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1440,
+            "height": 810
+          }
+        }
+      },
+      "isSensitive": false,
+      "primaryTag": {
+        "name": "K-Love 107.5",
+        "link": "https://www.univision.com/los-angeles/klve"
+      },
+      "primaryTopic": "Local",
+      "secondaryTags": [
+        { "name": "Romántico", "link": "https://www.univision.com/temas/romantico" },
+        { "name": "Pop Español", "link": "https://www.univision.com/temas/pop-espanol" },
+        { "name": "Balada", "link": "https://www.univision.com/temas/balada" },
+        { "name": "Amor ", "link": "https://www.univision.com/temas/amor-genre" }
+      ],
+      "contentPriority": "standard",
+      "frequency": "107.5",
+      "band": "FM",
+      "call": "KLVE-FM",
+      "isEnabledInApp": true,
+      "radioType": "wideorbit",
+      "nowPlayingId": "2910",
+      "primaryBroadcastLanguage": "es",
+      "isExclusive": false,
+      "genres": ["Romántico", "Pop Español", "Balada", "Amor "],
+      "localMarkets": ["Los Angeles"],
+      "adSettings": {
+        "isDisable3rdPartyAds": false,
+        "adTagValue": "section_local/losangeles/klvefm",
+        "targeting": { "contenttype": "section", "client": "desktop", "tag": ["local"] },
+        "disableAds": false,
+        "freewheel": {
+          "sectionId": "local_losangeles_klvefm",
+          "assetId": null,
+          "adValue": "local_losangeles_klvefm",
+          "test": {
+            "displayAdProfilePath": "univision_test",
+            "host": "https://1b656.v.fwmrm.net",
+            "linkTag2Profile": "111976:univision_linktag2_test",
+            "networkCode": "111976",
+            "profilePath": "univision_test_HTML5"
+          },
+          "production": {
+            "displayAdProfilePath": "univision_test",
+            "host": "https://1b656.v.fwmrm.net",
+            "linkTag2Profile": "univision_linktag2_live",
+            "networkCode": "112214",
+            "profilePath": "univision_Live_HTML5"
+          }
+        },
+        "dfp": {
+          "adValue": "/local/losangeles/klvefm",
+          "production": {
+            "desktopAdValuePrefix": "d.",
+            "mobileAdValuePrefix": "m.",
+            "networkCode": "6881"
+          },
+          "test": {
+            "desktopAdValuePrefix": "d.",
+            "mobileAdValuePrefix": "m.",
+            "networkCode": "7009"
+          }
+        }
+      },
+      "deepLink": "uforia://radio-station/0000014d-00ec-d9c5-a3ef-06fde4180000/k-love-1075",
+      "logo": {
+        "type": "image",
+        "uid": "00000157-0b68-d302-a157-3ffa30630001",
+        "title": "LOS ANGELES LA RADIO STATIONS NUEVO LOGO NEW LOGO",
+        "caption": "",
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href":
+              "https://cdn4.uvnimg.com/c1/79/a93d1cc74c64b000a4b41f5300be/los-angeles-107.5@2x.png",
+            "width": 0,
+            "height": 0
+          },
+          "16x9-mobile": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/5c0ea79/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/2eda9f7/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/a7387b6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/adb6778/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/6fcd1c1/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/e1dd392/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F79%2Fa93d1cc74c64b000a4b41f5300be%2Flos-angeles-107.5%402x.png",
+            "width": 400,
+            "height": 225
+          }
+        }
+      },
+      "customLogo": {
+        "type": "image",
+        "uid": "00000150-df19-d55e-a555-dfbf7e5f0000",
+        "title": "Uforia App Custom Logo Image",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href":
+              "https://cdn1.uvnimg.com/78/7a/2b53c5654f43bdabdfd40a3d2f83/love-amor-1024x512-01.png",
+            "width": 1024,
+            "height": 512
+          },
+          "16x9-mobile": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/6fb93c0/2147483647/crop/910x512%2B39%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/92f955a/2147483647/crop/903x512%2B42%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/3d4ae70/2147483647/crop/912x512%2B37%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/bfb562c/2147483647/crop/910x512%2B39%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/0021fa9/2147483647/crop/909x512%2B39%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/ca3f03d/2147483647/crop/910x512%2B39%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F78%2F7a%2F2b53c5654f43bdabdfd40a3d2f83%2Flove-amor-1024x512-01.png",
+            "width": 400,
+            "height": 225
+          }
+        }
+      },
+      "alternativeLogo": {
+        "type": "image",
+        "uid": "0000015d-9a90-deeb-af7f-ffb0cba20001",
+        "title": null,
+        "caption": "",
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://cdn3.uvnimg.com/46/54/bb519bde4f4682af215e59d446e2/k-love-207.5.svg",
+            "width": 0,
+            "height": 0
+          },
+          "16x9-mobile": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/f7835f2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/7abba8e/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/3ce7e2c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/170de0f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/05bc01c/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href":
+              "https://cdn2.uvnimg.com/dims4/default/bae9dcb/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F46%2F54%2Fbb519bde4f4682af215e59d446e2%2Fk-love-207.5.svg",
+            "width": 400,
+            "height": 225
+          }
+        }
+      },
+      "featuredStationsPromoImage": {
+        "type": "image",
+        "uid": "0000015e-0598-da8e-a77f-edbf75780000",
+        "title": "KLove 107.5 Featured image",
+        "caption": "",
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href":
+              "https://cdn2.uvnimg.com/cb/67/865afb2e4eda9f50f12d8fa83a0a/01-k-love-107.5_Luis-Fonsi.jpg",
+            "width": 364,
+            "height": 364
+          },
+          "16x9-mobile": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/d08132a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/e511d98/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/6db3472/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/c41d034/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/32bf958/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href":
+              "https://cdn1.uvnimg.com/dims4/default/56c7608/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fcb%2F67%2F865afb2e4eda9f50f12d8fa83a0a%2F01-k-love-107.5_Luis-Fonsi.jpg",
+            "width": 400,
+            "height": 225
+          }
+        }
+      },
+      "abacast": {
+        "id": "2315",
+        "demoId": "292",
+        "AACStreamiOS":
+          "http://stream.abacast.net/playlist/univision-klvefmaac-ibc2.m3u?source=UforiaiOS",
+        "AACStreamAndroid":
+          "http://stream.abacast.net/playlist/univision-klvefmaac-ibc2.m3u?source=UforiaAndroid",
+        "MP3Stream": "http://stream.abacast.net/playlist/univision-klvefmmp3-ibc2.m3u"
+      },
+      "contact": {
+        "aboutStation": "/los-angeles/klve/somos-k-love-1075",
+        "smsTextNumber": "79913",
+        "whatsAppNumber": null,
+        "phoneNumber": "3102151075",
+        "websiteUrl": "http://iloveklove.univision.com/",
+        "twitterUrl": "http://twitter.com/iloveklove",
+        "facebookUrl": "http://facebook.com/iloveklove",
+        "email": "KLVE@uforiamusica.com"
+      },
+      "socialNetworks": [
+        {
+          "name": "FACEBOOK",
+          "href": "https://www.facebook.com/iloveklove",
+          "text": "K-LOVE 107.5 Facebook"
+        },
+        {
+          "name": "TWITTER",
+          "href": "https://twitter.com/iloveklove",
+          "text": "K-LOVE 107.5 Twitter"
+        },
+        {
+          "name": "INSTAGRAM",
+          "href": "https://instagram.com/iloveklove",
+          "text": "K-LOVE 107.5 Instagram"
+        }
+      ],
+      "radioSchedule": [
+        { "program": "Omar y Argelia", "time-slot": "5 AM - 10 AM" },
+        { "program": "Donaji", "time-slot": "10 AM - 3 PM" },
+        { "program": "Ysaac Alvarez", "time-slot": "3 PM - 7 PM" },
+        { "program": "Bertha Andrea Gonzalez", "time-slot": "7 PM - 12 AM" }
+      ],
+      "relatedStations": [
+        {
+          "uid": "0000014d-00f3-d9c5-a3ef-06ff0ef80000",
+          "uri": "/los-angeles/krcd",
+          "type": "radiostation",
+          "versionCreated": "2018-05-08T10:51:57-04:00",
+          "title": "Recuerdo 103.9 | 98.3 LA Los Angeles",
+          "shortTitle": "Recuerdo 103.9 | 98.3 LA Los Angeles",
+          "description":
+            "Recuerdo LA cuenta con la música romántica de todos los tiempos: baladas, boleros, rancheras y más.",
+          "shortDescription": "Baladas, boleros y más",
+          "richTextDescription": null,
+          "logo": {
+            "type": "image",
+            "uid": "00000157-0b68-d302-a157-3ffa32880001",
+            "title": "LOS ANGELES LA RADIO STATIONS NUEVO LOGO NEW LOGO",
+            "caption": "",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn1.uvnimg.com/ae/1b/f9117d9a470385a34f0e805bf799/recuerdo-1039-983-393x223.png",
+                "width": 392,
+                "height": 223
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/5d3c397/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fae%2F1b%2Ff9117d9a470385a34f0e805bf799%2Frecuerdo-1039-983-393x223.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/24cb0bb/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fae%2F1b%2Ff9117d9a470385a34f0e805bf799%2Frecuerdo-1039-983-393x223.png",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/feaa5f6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fae%2F1b%2Ff9117d9a470385a34f0e805bf799%2Frecuerdo-1039-983-393x223.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/8144565/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fae%2F1b%2Ff9117d9a470385a34f0e805bf799%2Frecuerdo-1039-983-393x223.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/ef6b1fa/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fae%2F1b%2Ff9117d9a470385a34f0e805bf799%2Frecuerdo-1039-983-393x223.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/896c62a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fae%2F1b%2Ff9117d9a470385a34f0e805bf799%2Frecuerdo-1039-983-393x223.png",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "customLogo": {
+            "type": "image",
+            "uid": "00000150-df19-d55e-a555-dfbf7ff00000",
+            "title": "Uforia App Custom Logo Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn4.uvnimg.com/95/0b/67ff086d4390a2f45ba984858fbf/AC_1024x1024-01.png",
+                "width": 1024,
+                "height": 1024
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/c05442f/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F95%2F0b%2F67ff086d4390a2f45ba984858fbf%2FAC_1024x1024-01.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/3cc4602/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F95%2F0b%2F67ff086d4390a2f45ba984858fbf%2FAC_1024x1024-01.png",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/2385596/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F95%2F0b%2F67ff086d4390a2f45ba984858fbf%2FAC_1024x1024-01.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/5d0d0ff/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F95%2F0b%2F67ff086d4390a2f45ba984858fbf%2FAC_1024x1024-01.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/95fd530/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F95%2F0b%2F67ff086d4390a2f45ba984858fbf%2FAC_1024x1024-01.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/c0a2656/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F95%2F0b%2F67ff086d4390a2f45ba984858fbf%2FAC_1024x1024-01.png",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "alternativeLogo": {
+            "type": "image",
+            "uid": "0000015d-9a90-deeb-af7f-ffb0cba30001",
+            "title": null,
+            "caption": "",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn4.uvnimg.com/f4/d8/a4401ee64b87b508cf6a22c47104/recuerdo-103.9_98.3.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/8e98c0e/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Ff4%2Fd8%2Fa4401ee64b87b508cf6a22c47104%2Frecuerdo-103.9_98.3.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/cf8bc0f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Ff4%2Fd8%2Fa4401ee64b87b508cf6a22c47104%2Frecuerdo-103.9_98.3.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/d352b70/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Ff4%2Fd8%2Fa4401ee64b87b508cf6a22c47104%2Frecuerdo-103.9_98.3.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/b2223a7/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Ff4%2Fd8%2Fa4401ee64b87b508cf6a22c47104%2Frecuerdo-103.9_98.3.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/98d2096/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Ff4%2Fd8%2Fa4401ee64b87b508cf6a22c47104%2Frecuerdo-103.9_98.3.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/62219fb/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Ff4%2Fd8%2Fa4401ee64b87b508cf6a22c47104%2Frecuerdo-103.9_98.3.svg",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "featuredStationsPromoImage": null,
+          "abacast": {
+            "id": "2316",
+            "demoId": "2316",
+            "AACStreamiOS":
+              "http://stream.abacast.net/playlist/univision-krcdfmaac-ibc2.m3u?source=UforiaiOS",
+            "AACStreamAndroid":
+              "http://stream.abacast.net/playlist/univision-krcdfmaac-ibc2.m3u?source=UforiaAndroid",
+            "MP3Stream": "http://stream.abacast.net/playlist/univision-krcdfmmp3-ibc2.m3u"
+          }
+        },
+        {
+          "uid": "0000014d-00eb-d6f3-a16d-aaef0a6a0000",
+          "uri": "/miami/wamr",
+          "type": "radiostation",
+          "versionCreated": "2018-05-08T11:10:12-04:00",
+          "title": "Amor 107.5",
+          "shortTitle": "Amor",
+          "description":
+            "Amor 107.5 FM es la estación de radio en Miami donde escuchas tus canciones favoritas de los principales artistas de la música Romántica, Pop, Baladas y",
+          "shortDescription": "Miami: Música Romántica",
+          "richTextDescription": null,
+          "logo": {
+            "type": "image",
+            "uid": "00000157-0b69-d910-a957-0f7d2dc90000",
+            "title": "MIAMI RADIO STATIONS NUEVO LOGO NEW LOGO",
+            "caption": "",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn2.uvnimg.com/64/0f/08c50d1e4979a91f7298dc257ffe/amor-1075-393x223.png",
+                "width": 392,
+                "height": 223
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/fb60713/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/d8b9287/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/b065c71/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/856f70e/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/a104b84/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/6c4cb00/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F64%2F0f%2F08c50d1e4979a91f7298dc257ffe%2Famor-1075-393x223.png",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "customLogo": {
+            "type": "image",
+            "uid": "00000150-df19-d55e-a555-dfbf7e5d0000",
+            "title": "Uforia App Custom Logo Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn3.uvnimg.com/45/16/eb00b7bf41ab9f0c19caffdd1295/Love_Amor_1024x1024-01.png",
+                "width": 1024,
+                "height": 1024
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/4840e91/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F45%2F16%2Feb00b7bf41ab9f0c19caffdd1295%2FLove_Amor_1024x1024-01.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/f58e708/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F45%2F16%2Feb00b7bf41ab9f0c19caffdd1295%2FLove_Amor_1024x1024-01.png",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/3eb6231/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F45%2F16%2Feb00b7bf41ab9f0c19caffdd1295%2FLove_Amor_1024x1024-01.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/570af2b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F45%2F16%2Feb00b7bf41ab9f0c19caffdd1295%2FLove_Amor_1024x1024-01.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/8d47fcc/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F45%2F16%2Feb00b7bf41ab9f0c19caffdd1295%2FLove_Amor_1024x1024-01.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/90ad77e/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F45%2F16%2Feb00b7bf41ab9f0c19caffdd1295%2FLove_Amor_1024x1024-01.png",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "alternativeLogo": {
+            "type": "image",
+            "uid": "0000015d-ec8e-d662-a97d-fece5ba60000",
+            "title": "Amor 107.5 white",
+            "caption": "",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://cdn3.uvnimg.com/ef/20/118ef0564223b407872833f2f665/amor-107.5.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/3918cfd/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/d9e7cc4/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/ce36dc4/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/6cb1cab/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/70b22fd/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/1e3cbda/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fef%2F20%2F118ef0564223b407872833f2f665%2Famor-107.5.svg",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "featuredStationsPromoImage": null,
+          "abacast": {
+            "id": "2324",
+            "demoId": "296",
+            "AACStreamiOS":
+              "http://stream.abacast.net/playlist/univision-wamrfmaac-ibc1.m3u?source=UforiaiOS",
+            "AACStreamAndroid":
+              "http://stream.abacast.net/playlist/univision-wamrfmaac-ibc1.m3u?source=UforiaAndroid",
+            "MP3Stream": "http://stream.abacast.net/playlist/univision-wamrfmmp3-ibc1.m3u"
+          }
+        },
+        {
+          "uid": "00000150-e3d0-d0a3-ab71-ebf8eaa40000",
+          "uri": null,
+          "type": "radiostation",
+          "versionCreated": "2017-09-14T10:25:51-04:00",
+          "title": "Amor Celestial",
+          "shortTitle": "Amor Celestial",
+          "description": "Amor Celestial",
+          "shortDescription": "Música Cristiana",
+          "richTextDescription": null,
+          "logo": {
+            "type": "image",
+            "uid": "0000015e-10a0-d005-a17f-fcabb6ca0000",
+            "title": "Amor Celestial transparent background",
+            "caption": "",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn3.uvnimg.com/3f/e0/07dab1654d0583655cb31a5dd853/amorcelestiallogocolor.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/dd72813/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2Fe0%2F07dab1654d0583655cb31a5dd853%2Famorcelestiallogocolor.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/216cbcd/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2Fe0%2F07dab1654d0583655cb31a5dd853%2Famorcelestiallogocolor.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/39d8ccc/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2Fe0%2F07dab1654d0583655cb31a5dd853%2Famorcelestiallogocolor.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/0aff273/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2Fe0%2F07dab1654d0583655cb31a5dd853%2Famorcelestiallogocolor.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/dafe80a/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2Fe0%2F07dab1654d0583655cb31a5dd853%2Famorcelestiallogocolor.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn2.uvnimg.com/dims4/default/c65554f/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F3f%2Fe0%2F07dab1654d0583655cb31a5dd853%2Famorcelestiallogocolor.svg",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "customLogo": {
+            "type": "image",
+            "uid": "00000150-e7f9-d55e-a555-efff59800000",
+            "title": "Uforia App Custom Logo Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn2.uvnimg.com/07/9e/bf4ba4c84cadb1a2d0a5923901cc/AmorCelestial_1024x1024-01.png",
+                "width": 1024,
+                "height": 1024
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/eded7db/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F07%2F9e%2Fbf4ba4c84cadb1a2d0a5923901cc%2FAmorCelestial_1024x1024-01.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/2fc76ab/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F07%2F9e%2Fbf4ba4c84cadb1a2d0a5923901cc%2FAmorCelestial_1024x1024-01.png",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/c83a462/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F07%2F9e%2Fbf4ba4c84cadb1a2d0a5923901cc%2FAmorCelestial_1024x1024-01.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/cccc1da/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F07%2F9e%2Fbf4ba4c84cadb1a2d0a5923901cc%2FAmorCelestial_1024x1024-01.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/e818634/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F07%2F9e%2Fbf4ba4c84cadb1a2d0a5923901cc%2FAmorCelestial_1024x1024-01.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/ded40bf/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F07%2F9e%2Fbf4ba4c84cadb1a2d0a5923901cc%2FAmorCelestial_1024x1024-01.png",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "alternativeLogo": null,
+          "featuredStationsPromoImage": null,
+          "abacast": {
+            "id": "2328",
+            "demoId": "300",
+            "AACStreamiOS":
+              "http://stream.abacast.net/playlist/univision-amorcelestialaac-ibc2.m3u?source=UforiaiOS",
+            "AACStreamAndroid":
+              "http://stream.abacast.net/playlist/univision-amorcelestialaac-ibc2.m3u?source=UforiaAndroid",
+            "MP3Stream": "http://stream.abacast.net/playlist/univision-amorcelestialmp3-ibc2.m3u"
+          }
+        },
+        {
+          "uid": "0000014c-ffca-d6f3-a16d-ffcf86ca0000",
+          "uri": "/fresno/krda",
+          "type": "radiostation",
+          "versionCreated": "2018-06-25T01:01:37-04:00",
+          "title": "Amor 92.1",
+          "shortTitle": "Amor",
+          "description": "Amor 92.1 | Máxima Variedad Musical",
+          "shortDescription": "Máxima Variedad Musical",
+          "richTextDescription": null,
+          "logo": {
+            "type": "image",
+            "uid": "00000157-0b66-d0c4-a977-efe7b0d40001",
+            "title": "FRESNO RADIO STATIONS NUEVO LOGO NEW LOGO",
+            "caption": "",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn1.uvnimg.com/b4/c6/e70c228b4f0f8f5f750e0e80957b/fresno-amor-92.1@2x.png",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/61a8253/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb4%2Fc6%2Fe70c228b4f0f8f5f750e0e80957b%2Ffresno-amor-92.1%402x.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/b9fbbb8/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb4%2Fc6%2Fe70c228b4f0f8f5f750e0e80957b%2Ffresno-amor-92.1%402x.png",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/8ccf05c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb4%2Fc6%2Fe70c228b4f0f8f5f750e0e80957b%2Ffresno-amor-92.1%402x.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/e1372ff/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb4%2Fc6%2Fe70c228b4f0f8f5f750e0e80957b%2Ffresno-amor-92.1%402x.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/0895822/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb4%2Fc6%2Fe70c228b4f0f8f5f750e0e80957b%2Ffresno-amor-92.1%402x.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/ec2e4f7/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fb4%2Fc6%2Fe70c228b4f0f8f5f750e0e80957b%2Ffresno-amor-92.1%402x.png",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "customLogo": {
+            "type": "image",
+            "uid": "00000150-df19-d55e-a555-dfbf6f9e0000",
+            "title": "Uforia App Custom Logo Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn2.uvnimg.com/0b/9a/cbbd30784f8c9165df69ec8ab8ed/AC_1024x1024-01.png",
+                "width": 1024,
+                "height": 1024
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/ebb4bb9/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F0b%2F9a%2Fcbbd30784f8c9165df69ec8ab8ed%2FAC_1024x1024-01.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/7043e32/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F0b%2F9a%2Fcbbd30784f8c9165df69ec8ab8ed%2FAC_1024x1024-01.png",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/1f1b9ee/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F0b%2F9a%2Fcbbd30784f8c9165df69ec8ab8ed%2FAC_1024x1024-01.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/f014eb2/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F0b%2F9a%2Fcbbd30784f8c9165df69ec8ab8ed%2FAC_1024x1024-01.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/5d265b9/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F0b%2F9a%2Fcbbd30784f8c9165df69ec8ab8ed%2FAC_1024x1024-01.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn1.uvnimg.com/dims4/default/b01b763/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F0b%2F9a%2Fcbbd30784f8c9165df69ec8ab8ed%2FAC_1024x1024-01.png",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "alternativeLogo": {
+            "type": "image",
+            "uid": "0000015d-ec73-d662-a97d-fefb22ea0000",
+            "title": "Amor 92.1 white",
+            "caption": "",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href":
+                  "https://cdn3.uvnimg.com/68/65/73ef41134f15bb7905b4b30af50e/krda-amor-92.1.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/fed8afb/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F68%2F65%2F73ef41134f15bb7905b4b30af50e%2Fkrda-amor-92.1.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/88b0fca/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F68%2F65%2F73ef41134f15bb7905b4b30af50e%2Fkrda-amor-92.1.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/cb694e7/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F68%2F65%2F73ef41134f15bb7905b4b30af50e%2Fkrda-amor-92.1.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/4668598/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F68%2F65%2F73ef41134f15bb7905b4b30af50e%2Fkrda-amor-92.1.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/f471e09/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F68%2F65%2F73ef41134f15bb7905b4b30af50e%2Fkrda-amor-92.1.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href":
+                  "https://cdn4.uvnimg.com/dims4/default/b3ded69/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F68%2F65%2F73ef41134f15bb7905b4b30af50e%2Fkrda-amor-92.1.svg",
+                "width": 400,
+                "height": 225
+              }
+            }
+          },
+          "featuredStationsPromoImage": null,
+          "abacast": {
+            "id": "2308",
+            "demoId": "285",
+            "AACStreamiOS":
+              "http://stream.abacast.net/playlist/univision-krdafmaac-ibc2.m3u?source=UforiaiOS",
+            "AACStreamAndroid":
+              "http://stream.abacast.net/playlist/univision-krdafmaac-ibc2.m3u?source=UforiaAndroid",
+            "MP3Stream": "http://stream.abacast.net/playlist/univision-krdafmmp3-ibc2.m3u"
+          }
+        }
+      ],
+      "localMarketFooter": {
+        "title": "PÁGINAS DE LOS ÁNGELES",
+        "links": [
+          {
+            "uid": "0000014e-0d4c-dda5-a94f-1f6fc72f0000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Univision LA EEO Report",
+            "href":
+              "https://cdn3.uvnimg.com/dc/f5/3ba7ff7b412197711ecf86b63034/tv-radio-combined-eeo-public-file-report-local-media-la-8-1-16-through-7-31-17.pdf",
+            "target": "_blank"
+          },
+          {
+            "uid": "0000014f-1fd8-d24d-adff-3fd9beb00000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Univision LA Public File",
+            "href": "https://publicfiles.fcc.gov/",
+            "target": "_blank"
+          },
+          {
+            "uid": "00000155-9d6b-d897-a77f-9def781a0000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Aviso del Servicio de Subtítulos ",
+            "href":
+              "https://www.univision.com/los-angeles/kmex/univision-y-unimas-aviso-del-servicio-de-subtitulos-closed-captioning",
+            "target": "_blank"
+          },
+          {
+            "uid": "00000155-9d6b-dd3e-a9d5-ddffd7cc0000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Somos Univision 34, Los Angeles",
+            "href": "https://www.univision.com/los-angeles/kmex/somos-univision-34-los-angeles",
+            "target": "_blank"
+          }
+        ]
+      }
+    },
+    "isNationalRadioShow": false,
+    "socialNetworks": [],
+    "ttl": 900,
+    "feedGeneratedAt": "2018-06-26T03:30:56-04:00"
+  }
+}

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconWrapper on ios should render correctly 1`] = `
+<svg
+  data-name="close"
+  style={Object {}}
+/>
+`;
+
+exports[`IconWrapper on ios should render fallback on error 1`] = `<FallbackSvg />`;
+
+exports[`IconWrapper on ios should render without fallback on error 1`] = `""`;

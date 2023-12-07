@@ -1,0 +1,70 @@
+{
+  "teleton usa": [
+    {
+      "name": "Inicio",
+      "link": "/shows/teleton-usa",
+      "aliases": ["/shows/teleton-usa"]
+    },
+    {
+      "name": "Videos",
+      "link": "/shows/teleton-usa/videos",
+      "aliases": ["/shows/teleton-usa/videos"]
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/teleton-usa/fotos",
+      "aliases": ["/shows/teleton-usa/fotos"]
+    }
+  ],
+
+  "latin grammy": [
+    {
+      "name": "Inicio",
+      "link": "/especiales/latin-grammy",
+      "aliases": ["/shows/latin-grammy"]
+    },
+    {
+      "name": "Nominados",
+      "link": "/especiales/latin-grammy/lista-completa-de-los-nominados-a-los-premios-latin-grammy-2018",
+      "aliases": ["/shows/latin-grammy/lista-completa-de-los-nominados-a-los-premios-latin-grammy-2018"]
+    },
+    {
+      "name": "Ganadores 2018",
+      "link": "/especiales/latin-grammy/ganadores-del-latin-grammy-2018-lista-completa-foto-a-foto-fotos",
+      "aliases": ["/shows/latin-grammy/ganadores-del-latin-grammy-2018-lista-completa-foto-a-foto-fotos"]
+    },
+    {
+      "name": "Moda",
+      "link": "/especiales/latin-grammy/moda",
+      "aliases": ["/shows/latin-grammy/moda"]
+    },
+    {
+      "name": "Video",
+      "link": "/especiales/latin-grammy/video",
+      "aliases": ["/shows/latin-grammy/video"]
+    },
+    {
+      "name": "Fotos",
+      "link": "/especiales/latin-grammy/fotos",
+      "aliases": ["/shows/latin-grammy/fotos"]
+    }
+  ],
+
+  "premios juventud": [
+    {
+      "name": "Inicio",
+      "link": "/especiales/premios-juventud",
+      "aliases": ["/shows/premios-juventud"]
+    },
+    {
+      "name": "PJ Bash",
+      "link": "/especiales/premios-juventud/pj-bash",
+      "aliases": ["/shows/premios-juventud/pj-bash"]
+    },
+    {
+      "name": "Videos",
+      "link": "/especiales/premios-juventud/videos",
+      "aliases": ["/shows/premios-juventud/videos"]
+    }
+  ]
+}

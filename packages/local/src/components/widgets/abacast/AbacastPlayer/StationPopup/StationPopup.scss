@@ -1,0 +1,37 @@
+.popupOverlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.popup {
+  min-width: 320px;
+  max-width: 320px;
+  padding: 1rem;
+  color: $white;
+  text-align: left;
+  background-color: $black;
+  border-radius: 9px;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+
+  @include media-breakpoint-up("sm") {
+    max-width: 560px;
+  }
+}
+
+.popupHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  & strong {
+    font-size: 18px;
+  }
+}

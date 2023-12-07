@@ -1,0 +1,325 @@
+// Global variables
+$namespace: "uvs-";
+
+// Fonts
+$font-a: "#{$namespace}font-a";
+$font-a-family: "Roboto";
+$font-b: "#{$namespace}font-b";
+$font-b-family: "Monserrat";
+$font-c: "#{$namespace}font-c";
+$font-c-family: "Roboto Condensed";
+$fonts-path: "./fonts/";
+
+// === Colors ===
+// Below website helps create color names depending on hex value.
+// We can have consistent color names this way.
+// http://chir.ag/projects/name-that-color
+
+// Grayscale Palette
+$white: #ffffff;
+$very-light-grey: #f5f5f5;
+$white-grey: #ececec;
+$white-grey-70: rgba(236, 236, 236, 0.7);
+$gray-30 : rgba(128,128,128,0.3);
+$light-grey: #d2d2d2;
+$grey: #a2a2a2;
+$grey-70: rgba(162, 162, 162, 0.7);
+$grey-black: #808080;
+$darker-grey: #333333;
+$dark-green: #0A0B0B;
+$dark-eclipse: #3C3C3C;
+$black-grey: #181818;
+$black: #000000;
+$black-70: rgba($black, 0.7);
+$black-85: rgba($black, 0.85);
+$black-20: rgba($black, 0.20);
+$transparent: rgba($black, 0);
+$dark-blue: #2F3444;
+$blue: #0f5598;
+$bright-purple: #b5008f;
+$dark-red: #c82228;
+$light-blue: #23a2ee;
+$light-red: #e44233;
+$red: #de252c;
+$silver-chalice: #a3a3a3;
+$tundora: #4a4a4a;
+$velvet-red: #bc0d0d;
+$timber-green: #1b2f2a;
+$light-velvet-red: #F31C1C;
+$light-grey-alternative: #D8D8D8;
+// Themes
+$theme-blue-local: #232f59;
+$theme-gray-local: #d0d2da;
+
+//Deportes
+$green: #00c473;
+$green-darker: #007350;
+
+//UserStatus color
+$scarlet: #ff1616;
+
+// Social Colors
+// Background colors
+$facebook: #486bb4;
+$twitter: #63acfc;
+$whatsapp: #25d366;
+$whatsapp-70: rgba(37, 211, 102, 0.7);
+$instagram: #c9007e;
+
+// Fill colors
+$facebookFill: #3b5998;
+$facebookFill-70: rgba(59, 89, 152, 0.7);
+$twitterFill: #209fef;
+$twitterFill-70: rgba(32, 159, 239, 0.7);
+$instagramFill: #c9007e;
+
+// Hover Colors
+$twitterHover: #0c7abf;
+$whatsappHover: #065d54;
+
+// Entretenimiento widget colors
+$orange: #dc7d69;
+$maroon: #4d0010;
+$purple: #863699;
+
+// Longform
+$crimson: #dc1830;
+$crimson-50: rgba($crimson, 0.5);
+$electric-blue: #4400e8;
+$electric-blue-90: rgba($electric-blue, 0.9);
+$pacific-blue: #00bed5;
+$pacific-blue-50: rgba($pacific-blue, 0.5);
+$sushi: #6db43e;
+$bright-turquoise: #02eac0;
+$cerulean: #03b5d9;
+$science-blue: #0479e0;
+$blue-ribbon: #0734fb;
+$electric-violet: #6d04de;
+$electric-purple: #ad03e7;
+$hollywood-cerise: #ca02a5;
+$electric-pink: #de027b;
+
+// Shows
+$purple-show-gradient: #940F78;
+$violet-show-gradient: #1D1789;
+
+// TUDN
+$green-tudn: #047e5a;
+$light-green-tudn: #09af8d;
+$tudn-grey: #7a7a7a;
+$tudn-green-spring: #00FFB0;
+
+// TUDN REBRAND
+$desert-storm: #fcfcfb;
+$wood-smoke:#0a0b0b;
+$aquamarine: #5effcd;
+$aquamarine-40: #2bffbd;
+$breaking:#E12D05;
+$cedar-wood-finish: #6B1400;
+$spring-green: #00ffb0;
+$dark-cerulean: #014F79;
+$deep-sea: #03865d;
+$fun-green: #026445;
+$radical-red: #ff2b6d;
+$folly: #ff004f;
+$burgundy: #990030;
+$bordeaux-contrast: #660020;
+$blaze-orange: #ff6a00;
+$rose-of-sharon: #c25100;
+$golde-tainio: #ffc74d;
+$butteredrum: #9a6c09;
+$malibu: #63d3f4;
+$allsports: #02799c;
+$snow-flurry: #e1ffcc;
+$reef:#bbffaa;
+$fiord-rebrand: #3c5764;
+$tundora_rebrand: #404040;
+$harlequin: #2aff00;
+$japanese-laurel: #198703;
+$red-oragen: #ff3333;
+$red-ribbon: #E7044A;
+$munsell: #0C8BB0;
+$monzo: #d50b0b;
+$capecod: #3a4040;
+$sirocco: #6b7676;
+$silver-sand: #bac0c0;
+$black-haze: #eff0f0;
+$ligh-crimson: #ff5e90;
+$dark-charcoal: #323232;
+
+// Gradients
+$longform-gradient-right: linear-gradient(
+  to right,
+  $bright-turquoise 0,
+  $cerulean 17%,
+  $science-blue 29%,
+  $blue-ribbon 48%,
+  $electric-violet 64%,
+  $electric-purple 75%,
+  $hollywood-cerise 83%,
+  $electric-pink 99%
+);
+
+$longform-gradient-label: linear-gradient(
+    270deg,
+    $transparent,
+    $electric-blue-90 150%,
+    $electric-blue 0
+  ),
+  linear-gradient(0, $crimson, $transparent),
+  linear-gradient(180deg, $pacific-blue-50, $transparent),
+  linear-gradient(25.58deg, $transparent, $sushi),
+  linear-gradient(315.3deg, $transparent, $pacific-blue);
+$longform-gradient-left: linear-gradient(
+  to left,
+  $bright-turquoise 0,
+  $cerulean 17%,
+  $science-blue 29%,
+  $blue-ribbon 48%,
+  $electric-violet 64%,
+  $electric-purple 75%,
+  $hollywood-cerise 83%,
+  $electric-pink 99%
+);
+$longform-gradient-circle: radial-gradient(
+  circle at top left,
+  $bright-turquoise 0%,
+  $cerulean 15%,
+  $science-blue 25%,
+  $blue-ribbon 45%,
+  $electric-violet 65%,
+  $electric-purple 75%,
+  $hollywood-cerise 85%,
+  $crimson 100%
+);
+$purple-to-violet : linear-gradient(90deg, $purple-show-gradient 0%, $violet-show-gradient 100%);
+$purple-to-blue: linear-gradient(to right, #b5008f 0, #0032a1 100%);
+$bright-to-dark-purple: linear-gradient(to right, #bb0089 0, #7c1290 100%);
+$light-to-black: linear-gradient(to bottom, rgba(16, 2, 0, 0) 0, $black 100%);
+$black-to-grey: linear-gradient(to bottom, $black 0, #2a2a2a 100%);
+$black-to-gray: $black-to-grey;
+$grey-to-black: linear-gradient(to bottom, $black-grey 0, $black 100%);
+$gray-to-black: $grey-to-black;
+$black-fade-top-left-to-bottom-right: linear-gradient(
+  175deg,
+  rgba(0, 0, 0, 1) 15%,
+  rgba(0, 0, 0, 0.7) 45%,
+  rgba(0, 0, 0, 0.4) 60%,
+  rgba(0, 0, 0, 0) 80%
+);
+$black-fade-bottom-left-to-top-right: linear-gradient(
+  5deg,
+  rgba(0, 0, 0, 0.85) 15%,
+  rgba(0, 0, 0, 0.25) 45%,
+  rgba(0, 0, 0, 0.15) 60%,
+  rgba(0, 0, 0, 0) 80%
+);
+
+// Default theme fallback
+$theme-default-primary: #3a3a3a;
+$theme-default-secondary: $black;
+$theme-default-alpha-gradient: linear-gradient(
+  to top,
+  rgba(58, 58, 58, 0.95) 0%,
+  rgba(58, 58, 58, 0) 50%
+);
+$theme-default-solid-gradient: linear-gradient(
+  to bottom,
+  $theme-default-primary 0%,
+  $theme-default-secondary 100%
+);
+
+// Z-index
+$zindex-base: 121000;
+$zindex-base-screen: $zindex-base + 1;
+$zindex-base-behind: $zindex-base - 10;
+$zindex_primary_nav: $zindex-base + 100;
+
+$zindex-navigation: $zindex-base + 10;
+$zindex-above-navigation: $zindex_primary_nav + 30;
+$zindex-video-player: $zindex_primary_nav - 50;
+
+$zindex-reaction: $zindex-video-player + 5;
+$zindex-above-reaction: $zindex-reaction + 5;
+
+$zindex-secondary-nav: 200;
+$zindex-primary-nav: $zindex-secondary-nav + 1;
+
+// Margins
+// Ads Margins
+$ads-margin-vertical-mobile: 24px;
+$ads-margin-vertical-desktop: 40px;
+$ads-inside-content-margin-vertical: 24px;
+
+// Enhancements
+$enhancement-margin-vertical: 24px;
+
+// Widgets Margins
+$widgets-first-margin-top-mobile: 16px;
+$widgets-first-margin-top-desktop: 24px;
+$widgets-last-margin-bottom-desktop: 72px;
+$widgets-last-margin-bottom-mobile: 32px;
+$widgets-margin-bottom-mobile: 32px;
+$widgets-margin-bottom-desktop: 40px;
+
+// negative margin applied by bootstrap
+$row-default-margin: -10px;
+
+// Background for listHeadlines & advertising
+$striped-background: "@univision/fe-commons/dist/assets/images/striped-background.svg";
+$striped-white-background: "@univision/fe-commons/dist/assets/images/striped-white-background.svg";
+
+// Univision Now Logo
+$uvn-now-logo: "@univision/fe-commons/dist/assets/images/logo-uvn-now.svg";
+$uvn-now-logo-white: "@univision/fe-commons/dist/assets/images/logo-uvn-now-white.svg";
+
+// font-sizes are based around 1rem == 16px
+$video-font-size-xxs: 0.5625rem; // 9px
+$video-font-size-xs: 0.6875rem; // 11px
+$video-font-size-sm: 0.875rem; // 14px
+$video-font-size-md: 1rem; // 16px
+$video-font-size-lg: 1.125rem; // 18px
+$video-font-size-xl: 1.375rem; // 22px
+$video-font-size-xxl: 1.5rem; // 24px
+$video-font-size-3xl: 2rem; // 32px
+
+// line-heights are usually the font-size (px) + 3
+$video-line-height-xxs: 0.75rem; // 12px
+$video-line-height-xs: 0.8125rem; // 13px
+$video-line-height-sm: 1.0625rem; // 17px
+$video-line-height-md: 1.1875rem; // 19px
+$video-line-height-lg: 1.375rem; // 22px
+$video-line-height-xl: 1.625rem; // 26px
+$video-line-height-xxl: 1.8125rem; // 29px
+$video-line-height-3xl: 2.375rem; // 38px
+
+@mixin video-font-size($size: "md") {
+  @if $size == "xxs" {
+    font-size: $video-font-size-xxs;
+    line-height: $video-line-height-xxs;
+  } @else if $size == "xs" {
+    font-size: $video-font-size-xs;
+    line-height: $video-line-height-xs;
+  } @else if $size == "sm" {
+    font-size: $video-font-size-sm;
+    line-height: $video-line-height-sm;
+  } @else if $size == "md" {
+    font-size: $video-font-size-md;
+    line-height: $video-line-height-md;
+  } @else if $size == "lg" {
+    font-size: $video-font-size-lg;
+    line-height: $video-line-height-lg;
+  } @else if $size == "xl" {
+    font-size: $video-font-size-xl;
+    line-height: $video-line-height-xl;
+  } @else if $size == "xxl" {
+    font-size: $video-font-size-xxl;
+    line-height: $video-line-height-xxl;
+  } @else if $size == "3xl" {
+    font-size: $video-font-size-3xl;
+    line-height: $video-line-height-3xl;
+  } @else {
+    font-size: $video-font-size-md;
+    line-height: $video-line-height-md;
+  }
+}

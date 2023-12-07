@@ -1,0 +1,47 @@
+{
+  "/shows/latin-american-music-awards": {
+    "active": true,
+    "analyticsEventVote": "vota_header_cta",
+    "analyticsEventTicket": "boletos_header_cta",
+    "urlVote": "",
+    "urlTicket": "",
+    "style": {
+      "vote": "voteAMAS",
+      "ticket": "ticketAMAS"
+    }
+  },
+  "/shows/premio-lo-nuestro": {
+    "active": false,
+    "analyticsEventVote": "pln_vote_click",
+    "analyticsEventTicket": "plan_tickets_click",
+    "voteText": "Vota",
+    "ticketText": "Boletos",
+    "urlVote": "https://premiolonuestro.com/vota/?utm_medium=internal_referral&utm_source=pln_home&utm_campaign=PLN_Vote&utm_content=producto_entertainment",
+    "urlTicket": "https://www.ticketmaster.com/event/0D005E32C160E161",
+    "style": {
+      "vote": "PLN",
+      "ticket": "PLN",
+      "voteIcon": "handPointing",
+      "ticketIcon": "ticket",
+      "voteIconView": "0 0 16 16",
+      "ticketIconView": "0 0 16 16"
+    }
+  },
+  "/shows/premios-juventud": {
+    "active": false,
+    "analyticsEventVote": "vota_header_cta",
+    "analyticsEventTicket": "participa_header_cta",
+    "voteText": "Vota",
+    "ticketText": "Participa",
+    "urlVote": "https://premiosjuventud.com/vota?utm_medium=internal_referral&utm_source=PJ_Header_Vota&utm_campaign=PJ_Vote&utm_content=producto_entertainment",
+    "urlTicket": "https://univision.wyng.com/646fad756f01f644eab3a8bc?_wyng_media_es_646fad756f01f644eab3a8bc=Website",
+    "style": {
+      "vote": "PJ",
+      "ticket": "PJ",
+      "voteIcon": "handPointing",
+      "ticketIcon": "plane",
+      "voteIconView": "0 0 16 16",
+      "ticketIconView": "16 8 32 32"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+.volumeSlider {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 100ms linear;
+
+  input[type=range] {
+    position: absolute;
+    -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+    width: 120px; /* Specific width is required for Firefox. */
+    height: 8px;
+    background: transparent; /* Otherwise white in Chrome */
+    cursor: pointer;
+  }
+
+  input[type=range]:focus {
+    outline: none; /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+  }
+
+  input[type=range]::-ms-track {
+    width: 100%;
+    cursor: pointer;
+
+    /* Hides the slider so custom styles can be added */
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+  }
+
+  input[type=range]::-webkit-slider-thumb {
+    height: 16px;
+    width: 16px;
+    cursor: pointer;
+    -webkit-appearance: none;
+  }
+
+  input[type=range]::-moz-range-thumb {
+    height: 8px;
+    width: 8px;
+    cursor: pointer;
+    border: 0;
+  }
+
+  input[type=range]::-moz-focus-outer {
+    border: 0;
+  }
+
+  input[type=range]::-ms-thumb {
+    height: 8px;
+    width: 8px;
+    cursor: pointer;
+  }
+
+  .sliderTrack {
+    position: relative;
+    width: 120px;
+    height: 2px;
+    pointer-events: none;
+  }
+
+  .sliderThumb {
+    position: absolute;
+    right: auto;
+    height: 8px;
+    width: 8px;
+    margin-top: -3px;
+    border-radius: 50%;
+    background-color: $white;
+  }
+}

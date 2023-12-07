@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  @include media-breakpoint-up("sm") {
+    height: 296px;
+  }
+}
+
+.infoList {
+  margin-top: 4px;
+}
+
+.noInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 0;
+  text-transform: uppercase;
+  font-size: rem(14px);
+}

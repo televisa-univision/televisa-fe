@@ -1,0 +1,33 @@
+{
+  "uri": "/deportes/futbol/bundesliga/sport-club-freiburg-vs-vfl-wolfsburg-bundesliga-2018-04-07",
+  "ads": {
+    "desktop": {
+      "top": "prev_scp=client=desktop&pos=TOP&seq=D-F728-1&vertical=deportes&contenttype=soccermatch&bkpt=1024",
+      "mid1": "prev_scp=client=desktop&pos=MID&seq=D-F300-2&vertical=deportes&contenttype=soccermatch&bkpt=1024",
+      "mid2": "prev_scp=client=desktop&pos=MID&seq=D-F728-3&vertical=deportes&contenttype=soccermatch&bkpt=1024"
+    },
+    "mobile": {
+      "top": "prev_scp=client=mobile&pos=TOP&seq=M-320-1&vertical=deportes&contenttype=soccermatch&bkpt=320",
+      "mid1": "prev_scp=client=mobile&pos=MID&seq=M-320-2&vertical=deportes&contenttype=soccermatch&bkpt=320",
+      "mid2": "prev_scp=client=mobile&pos=MID&seq=M-300-3&vertical=deportes&contenttype=soccermatch&bkpt=320"
+    }
+  },
+  "selectors": {
+    "MatchHeader": "[data-element-name=\"SectionTitle\"]",
+    "MatchCenterOpening": "[data-widget-type=\"DeportesGridSoccerMatchCenterOpening\"] > div > div",
+    "topAd": "[data-widget-type=\"Advertisement\"][data-position=\"3\"]",
+    "midAd1": "[data-widget-type=\"Advertisement\"][data-position=\"8\"]",
+    "MatchSummary": "[data-widget-type=\"DeportesMatchSummary\"] > div > div",
+    "MatchStats": "[data-widget-type=\"DeportesGridSoccerMatchStats\"] > div > div",
+    "MatchCenterLineup": "[data-widget-type=\"DeportesMatchCenterLineup\"] > div > div",
+    "PlayByPlay": "[data-widget-type=\"DeportesCardPlayByPlay\"] > div > div",
+    "SoccerStandings": "[data-widget-type=\"DeportesGridSoccerStandings\"] > div > div",
+  },
+  "tracking": {
+    "dataLayer": {
+      "adtag_value": "section_deportes/futbol/bundesliga",
+      "content_type": "soccermatch",
+      "permalink": "https://uat.tudn.com/futbol/bundesliga/sport-club-freiburg-vs-vfl-wolfsburg-bundesliga-2018-04-07"
+    }
+  }
+}

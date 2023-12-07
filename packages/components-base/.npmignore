@@ -1,0 +1,17 @@
+.idea
+.storybook
+__mocks__
+config/
+coverage
+node_modules
+scripts
+src
+.babelrc
+babel.*
+.editorconfig
+.eslintignore
+.eslintrc
+.eslintrc.spec
+.gitignore
+circle.yml
+postcss.config.js

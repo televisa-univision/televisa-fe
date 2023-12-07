@@ -1,0 +1,26 @@
+.button {
+  font-size: rem(11px);
+  line-height: rem(13px);
+  color: $white;
+  text-transform: uppercase;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 13px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: max-content;
+  margin: 0;
+  @include media-breakpoint-up('md') {
+    font-size: rem(13px);
+    line-height: rem(14px);
+  }
+  &:hover,
+  &:visited {
+    color: $white;
+  }
+  svg {
+    width: 13px;
+    height: 13px;
+    margin-left: 6px;
+  }
+}

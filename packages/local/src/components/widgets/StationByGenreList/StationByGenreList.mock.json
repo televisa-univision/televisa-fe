@@ -1,0 +1,435 @@
+{
+  "type": "StationByGenreList",
+  "name": "",
+  "id": "",
+  "settings": {
+    "title": "Lista de Estaciones",
+    "titleLink": null,
+    "tags": [
+      {
+        "name": "Exclusive Stations",
+        "isMusicGenre": false
+      },
+      {
+        "name": "Regional Mexicano",
+        "isMusicGenre": true
+      },
+      {
+        "name": "Rítmico Latino",
+        "isMusicGenre": true
+      },
+      {
+        "name": "Amor ",
+        "isMusicGenre": true
+      },
+      {
+        "name": "Top 40 y el Hip Hop",
+        "isMusicGenre": true
+      },
+      {
+        "name": "Adulto Contemporáneo",
+        "isMusicGenre": true
+      },
+      {
+        "name": "Tejano",
+        "isMusicGenre": true
+      },
+      {
+        "name": "Noticias y Hablado",
+        "isMusicGenre": true
+      },
+      {
+        "name": "Noticias y Deportes",
+        "isMusicGenre": true
+      }
+    ]
+  },
+  "contents": [
+    {
+      "uid": "00000151-656c-d626-a155-7f7c6b4a0000",
+      "uri": null,
+      "type": "radiostation",
+      "updateDate": "2017-12-01T15:27:48-05:00",
+      "publishDate": "2015-12-02T20:29:02-05:00",
+      "title": "Navidad",
+      "shortTitle": "Navidad",
+      "description": "Navidad",
+      "shortDescription": "Feliz Navidad!",
+      "richTextDescription": null,
+      "image": {
+        "type": "image",
+        "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title": "Univision Fallback Image",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "16x9": {
+            "href": "https://cdn1.uvnimg.com/dims4/default/61c8523/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.uvnimg.com/dims4/default/d7f6956/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 480,
+            "height": 270
+          }
+        }
+      },
+      "primaryTag": {
+        "name": "Exclusive Stations",
+        "link": "https://www.univision.com/temas/exclusive-stations"
+      },
+      "primaryTopic": "Música",
+      "radioStation": {
+        "frequency": null,
+        "band": "ONLINE",
+        "call": "NAVIDAD-FM",
+        "isEnabledInApp": true,
+        "radioType": "wideorbit",
+        "nowPlayingId": "2933",
+        "primaryBroadcastLanguage": "es",
+        "isExclusive": true,
+        "genres": [
+          "Adulto Contemporáneo",
+          "Contemporáneo",
+          "Balada",
+          "Éxitos Clásicos",
+          "Inspirado",
+          "Variedad"
+        ],
+        "localMarkets": [
+          "Nacional"
+        ],
+        "adSettings": {
+          "targeting": {
+            "contenttype": "inicio",
+            "client": "desktop",
+            "tag": [
+              "klove1075",
+              "local",
+              "uforiamusic"
+            ]
+          },
+          "disableAds": false,
+          "disableVideoAds": false,
+          "freewheel": {
+            "sectionId": "music_exclusivestation",
+            "assetId": null,
+            "adValue": "music_exclusivestation_navidad",
+            "test": {
+              "displayAdProfilePath": "univision_test",
+              "host": "https://1b656.v.fwmrm.net",
+              "linkTag2Profile": "111976:univision_linktag2_test",
+              "networkCode": "111976",
+              "profilePath": "univision_test_HTML5"
+            },
+            "production": {
+              "displayAdProfilePath": "univision_test",
+              "host": "https://1b656.v.fwmrm.net",
+              "linkTag2Profile": "univision_linktag2_live",
+              "networkCode": "112214",
+              "profilePath": "univision_Live_HTML5"
+            }
+          },
+          "dfp": {
+            "adValue": "/music/exclusivestation",
+            "production": {
+              "desktopAdValuePrefix": "d.",
+              "mobileAdValuePrefix": "m.",
+              "networkCode": "6881"
+            },
+            "test": {
+              "desktopAdValuePrefix": "d.",
+              "mobileAdValuePrefix": "m.",
+              "networkCode": "7009"
+            }
+          }
+        },
+        "deepLink": "uforia://radio-station/00000151-656c-d626-a155-7f7c6b4a0000/navidad",
+        "logo": {
+          "type": "image",
+          "uid": "00000158-41ae-ded6-a95f-7bbf83db0000",
+          "title": "Uforia- Navidad Station Logo 393x223",
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/70/c9/273cee1d4f0a96108205971a2f33/qik-1766-logos-podecast-navidad-qik1766-navidad-393x223.jpg",
+              "width": 393,
+              "height": 223
+            },
+            "16x9": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/0cd164d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F70%2Fc9%2F273cee1d4f0a96108205971a2f33%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-393x223.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/4a22467/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F70%2Fc9%2F273cee1d4f0a96108205971a2f33%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-393x223.jpg",
+              "width": 480,
+              "height": 270
+            }
+          }
+        },
+        "customLogo": {
+          "type": "image",
+          "uid": "00000151-656c-d626-a155-7f7c6c400000",
+          "title": null,
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/46/c7/a3aa0b804252bfab74d3750c00a0/qik-1766-logos-podecast-navidad-qik1766-navidad-1024x1024.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            "16x9": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/0ebc7ee/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F46%2Fc7%2Fa3aa0b804252bfab74d3750c00a0%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-1024x1024.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/b741276/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F46%2Fc7%2Fa3aa0b804252bfab74d3750c00a0%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-1024x1024.jpg",
+              "width": 480,
+              "height": 270
+            }
+          }
+        },
+        "alternativeLogo": null,
+        "featuredStationsPromoImage": null,
+        "abacast": {
+          "id": "2689",
+          "demoId": null,
+          "AACStreamiOS": "http://stream.abacast.net/playlist/univision-navidadaac-ibc2.m3u?source=UforiaiOS",
+          "AACStreamAndroid": "http://stream.abacast.net/playlist/univision-navidadaac-ibc2.m3u?source=UforiaAndroid",
+          "MP3Stream": "http://stream.abacast.net/playlist/univision-navidadmp3-ibc2.m3u?source=Uforia"
+        },
+        "contact": {
+          "aboutStation": null,
+          "smsTextNumber": null,
+          "whatsAppNumber": null,
+          "phoneNumber": null,
+          "websiteUrl": "http://www.univision.com/musica/radio",
+          "twitterUrl": "http://twitter.com/uforialive",
+          "facebookUrl": "http://facebook.com/uforiamusica",
+          "email": null
+        },
+        "socialNetworks": [
+
+        ],
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/musica/uforia-music/radio",
+              "redirectUrl": "https://www.univision.com/musica/uforia-music/radio",
+              "isFeedDialog": false,
+              "baseUrl": null,
+              "appId": "645138725541385",
+              "title": "Estaciones de Radio",
+              "description": "Estaciones de Radio",
+              "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/musica/uforia-music/radio",
+              "title": "Estaciones de Radio",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/musica/uforia-music/radio",
+              "message": "Estaciones de Radio"
+            },
+            "mail": {
+              "subject": "Estaciones de Radio",
+              "body":
+                "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEstaciones de Radio\n\nEncuéntralo en este enlace: https://www.univision.com/musica/uforia-music/radio\n\nVisitamos www.univision.com"
+            }
+          }
+        },
+        "radioSchedule": null
+      }
+    },
+    {
+      "uid": "00000151-656c-d626-a155-7f7c6b4a0000a",
+      "uri": null,
+      "type": "radiostation",
+      "updateDate": "2017-12-01T15:27:48-05:00",
+      "publishDate": "2015-12-02T20:29:02-05:00",
+      "title": "Navidad",
+      "shortTitle": "Navidad",
+      "description": "Navidad",
+      "shortDescription": "Feliz Navidad!",
+      "richTextDescription": null,
+      "image": {
+        "type": "image",
+        "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title": "Univision Fallback Image",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "16x9": {
+            "href": "https://cdn1.uvnimg.com/dims4/default/61c8523/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://cdn1.uvnimg.com/dims4/default/d7f6956/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 480,
+            "height": 270
+          }
+        }
+      },
+      "primaryTag": {
+        "name": "Exclusive Stations",
+        "link": "https://www.univision.com/temas/exclusive-stations"
+      },
+      "primaryTopic": "Música",
+      "radioStation": {
+        "frequency": null,
+        "band": "ONLINE",
+        "call": "NAVIDAD-FM",
+        "isEnabledInApp": true,
+        "radioType": "wideorbit",
+        "nowPlayingId": "2933",
+        "primaryBroadcastLanguage": "es",
+        "isExclusive": false,
+        "genres": [
+          "Adulto Contemporáneo",
+          "Contemporáneo",
+          "Balada",
+          "Éxitos Clásicos",
+          "Inspirado",
+          "Variedad"
+        ],
+        "localMarkets": [
+          "Puerto Rico"
+        ],
+        "adSettings": {
+          "targeting": {
+            "contenttype": "inicio",
+            "client": "desktop",
+            "tag": [
+              "klove1075",
+              "local",
+              "uforiamusic"
+            ]
+          },
+          "disableAds": false,
+          "disableVideoAds": false,
+          "freewheel": {
+            "sectionId": "music_exclusivestation",
+            "assetId": null,
+            "adValue": "music_exclusivestation_navidad",
+            "test": {
+              "displayAdProfilePath": "univision_test",
+              "host": "https://1b656.v.fwmrm.net",
+              "linkTag2Profile": "111976:univision_linktag2_test",
+              "networkCode": "111976",
+              "profilePath": "univision_test_HTML5"
+            },
+            "production": {
+              "displayAdProfilePath": "univision_test",
+              "host": "https://1b656.v.fwmrm.net",
+              "linkTag2Profile": "univision_linktag2_live",
+              "networkCode": "112214",
+              "profilePath": "univision_Live_HTML5"
+            }
+          },
+          "dfp": {
+            "adValue": "/music/exclusivestation",
+            "production": {
+              "desktopAdValuePrefix": "d.",
+              "mobileAdValuePrefix": "m.",
+              "networkCode": "6881"
+            },
+            "test": {
+              "desktopAdValuePrefix": "d.",
+              "mobileAdValuePrefix": "m.",
+              "networkCode": "7009"
+            }
+          }
+        },
+        "deepLink": "uforia://radio-station/00000151-656c-d626-a155-7f7c6b4a0000/navidad",
+        "logo": {
+          "type": "image",
+          "uid": "00000158-41ae-ded6-a95f-7bbf83db0000",
+          "title": "Uforia- Navidad Station Logo 393x223",
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/70/c9/273cee1d4f0a96108205971a2f33/qik-1766-logos-podecast-navidad-qik1766-navidad-393x223.jpg",
+              "width": 393,
+              "height": 223
+            },
+            "16x9": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/0cd164d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F70%2Fc9%2F273cee1d4f0a96108205971a2f33%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-393x223.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/4a22467/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F70%2Fc9%2F273cee1d4f0a96108205971a2f33%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-393x223.jpg",
+              "width": 480,
+              "height": 270
+            }
+          }
+        },
+        "customLogo": {
+          "type": "image",
+          "uid": "00000151-656c-d626-a155-7f7c6c400000",
+          "title": null,
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/46/c7/a3aa0b804252bfab74d3750c00a0/qik-1766-logos-podecast-navidad-qik1766-navidad-1024x1024.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            "16x9": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/0ebc7ee/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F46%2Fc7%2Fa3aa0b804252bfab74d3750c00a0%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-1024x1024.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.uvnimg.com/dims4/default/b741276/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F46%2Fc7%2Fa3aa0b804252bfab74d3750c00a0%2Fqik-1766-logos-podecast-navidad-qik1766-navidad-1024x1024.jpg",
+              "width": 480,
+              "height": 270
+            }
+          }
+        },
+        "alternativeLogo": null,
+        "featuredStationsPromoImage": null,
+        "abacast": {
+          "id": "2689",
+          "demoId": null,
+          "AACStreamiOS": "http://stream.abacast.net/playlist/univision-navidadaac-ibc2.m3u?source=UforiaiOS",
+          "AACStreamAndroid": "http://stream.abacast.net/playlist/univision-navidadaac-ibc2.m3u?source=UforiaAndroid",
+          "MP3Stream": "http://stream.abacast.net/playlist/univision-navidadmp3-ibc2.m3u?source=Uforia"
+        },
+        "contact": {
+          "aboutStation": null,
+          "smsTextNumber": null,
+          "whatsAppNumber": null,
+          "phoneNumber": null,
+          "websiteUrl": "http://www.univision.com/musica/radio",
+          "twitterUrl": "http://twitter.com/uforialive",
+          "facebookUrl": "http://facebook.com/uforiamusica",
+          "email": null
+        },
+        "socialNetworks": [
+
+        ],
+        "radioSchedule": null
+      }
+    }
+  ]
+}

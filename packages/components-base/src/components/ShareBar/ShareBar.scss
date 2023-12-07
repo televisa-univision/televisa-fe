@@ -1,0 +1,236 @@
+.wrapper {
+  display: flex;
+  fill: $black-grey;
+  max-width: 100%;
+  @include media-breakpoint-up("xs") {
+    display: inline-flex;
+    flex-direction: row;
+
+    &.stack {
+      display: flex;
+      flex-wrap: wrap;
+      height: auto;
+      justify-content: center;
+
+      .comparte {
+        display: none;
+        width: auto;
+        margin: 0;
+        justify-content: flex-end;
+        align-items: center;
+        text-align: center;
+
+        @include media-breakpoint-up('md') {
+          display: flex;
+        }
+      }
+
+      .shareButtons {
+        margin: 0 auto;
+        line-height: 1rem;
+        align-self: center;
+      }
+    }
+  }
+
+  &.shareOnTop {
+    flex-direction: column;
+  }
+
+  .shareButtons {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    max-width: 226px;
+    width: 100%;
+
+    @include media-breakpoint-up('sm') {
+      width: 164px;
+    }
+    a:not(:first-child) {
+      margin-left: 0;
+    }
+    &.rounded {
+      a:not(:first-child) {
+        margin-left: 16px;
+      }
+    }
+  }
+
+  & > a {
+    flex-grow: 1;
+  }
+}
+
+.toggleButton {
+  display: none;
+  line-height: 0;
+}
+
+.toggleButton_variant_light > svg,
+.toggleButton_variant_light > svg > path{
+  color: $light-grey;
+  fill: $light-grey;
+}
+
+.toggleButton_variant_dark > svg,
+.toggleButton_variant_dark > svg > path{
+  color: $darker-grey;
+  fill: $darker-grey;
+}
+
+.mobileCollapse {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  &.stack {
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+  }
+  .comparte {
+    flex: 0;
+    padding: 0 8px;
+  }
+  .toggleButton {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+  }
+  &.open {
+    .shareButtons {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(10px);
+    }
+  }
+  .shareButtons {
+    opacity: 0;
+    visibility: hidden;
+    background: $white;
+    z-index: $zindex-base;
+    flex-direction: column;
+    border: 1px solid $grey-black;
+    padding: 0 4px;
+    line-height: rem(14px);
+    position: absolute;
+    left: -25%;
+    top: 100%;
+    transform: translateY(20px);
+    transition: all 0.2s;
+    &:after {
+      position: absolute;
+      content: '';
+      border: 8px solid transparent;
+      top: -16px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    &:before {
+      position: absolute;
+      content: '';
+      border: 8px solid transparent;
+      top: -17px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    a:not(:first-child) {
+      margin-left: 0;
+    }
+  }
+  .shareButton {
+    padding: 12px 8px;
+    &:not(:last-child) {
+      border: 1px solid $light-grey;
+      border-width: 0 0 1px 0;
+      border-right-width: 0;
+      margin: 0;
+    }
+    @include media-breakpoint-up('xs') {
+      &:first-child { padding: 12px 8px; }
+      &:last-child { padding: 12px 8px; }
+    }
+    @include media-breakpoint-up('sm') {
+      &:first-child { padding-left: 0; }
+      &:last-child { padding-right: 0; }
+    }
+  }
+  .buttonWrapper {
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.compact {
+  .comparte {
+    margin-top: 4px;
+    padding-right: 16px;
+    flex-grow: 0;
+
+    @include media-breakpoint-up('md') {
+      flex-grow: 2;
+    }
+  }
+
+  body & {
+    .shareButton {
+      margin-left: 0;
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .buttonWrapper {
+    line-height: 20px;
+    width: 100%;
+  }
+}
+
+.comparte {
+  align-self: center;
+  color: $grey-black;
+  flex-grow: 2;
+  font-size: rem(11px);
+  line-height: rem(13px);
+  padding: 0 23px 0 0;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+
+  &.light,
+  &.light > path {
+    color: $white;
+  }
+
+  &.dark,
+  &.dark > path {
+    color: $darker-grey;
+  }
+
+  &.padLeft {
+    padding-left: 23px;
+  }
+
+  &.centerAll {
+    flex-grow: 0;
+  }
+
+  &.shareOnTop {
+    align-self: flex-start;
+    margin-bottom: 2px;
+  }
+}
+
+.buttonWrapper {
+  display: flex;
+  align-items: center;
+  @include media-breakpoint-up("xs") {
+    line-height: 43px;
+  }
+}
+
+.shareButton {
+  &:not(:last-child) {
+    margin-right: 1px;
+  }
+}

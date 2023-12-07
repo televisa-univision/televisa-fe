@@ -1,0 +1,5169 @@
+{
+  "paging": {
+    "totalPages": 3,
+    "totalElements": 23,
+    "numberOfElements": 10,
+    "size": 10,
+    "number": 0,
+    "first": true,
+    "last": false
+  },
+  "sports-content": {
+    "sports-metadata": {
+      "doc-id": "rosters:2018-04-23T09:17:35Z",
+      "fixture-key": "rosters",
+      "fixture-name": "Rosters",
+      "sports-title": "Rosters"
+    },
+    "statistic": [
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "11091",
+            "name": {
+              "first": "Atlanta",
+              "full": "Atlanta United FC",
+              "abbreviation": "ATL"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/11091"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "41705",
+                "position-regular": "goalkeeper",
+                "uniform-number": "1",
+                "name": {
+                  "first": "Brad",
+                  "last": "Guzan",
+                  "full": "Brad Guzan"
+                },
+                "date-of-birth": "1984-09-09",
+                "nationality": "USA",
+                "height": "193",
+                "weight": "94"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "156919",
+                "position-regular": "goalkeeper",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Alec",
+                  "last": "Kann",
+                  "full": "Alec Kann"
+                },
+                "date-of-birth": "1990-08-08",
+                "nationality": "USA",
+                "height": "194",
+                "weight": "87"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "116957",
+                "position-regular": "goalkeeper",
+                "uniform-number": "27",
+                "name": {
+                  "first": "Mitch",
+                  "last": "Hildebrandt",
+                  "full": "Mitch Hildebrandt"
+                },
+                "date-of-birth": "1988-11-12",
+                "nationality": "USA",
+                "height": "185",
+                "weight": "86"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "193891",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Franco",
+                  "last": "Escobar",
+                  "full": "Franco Escobar"
+                },
+                "date-of-birth": "1995-02-21",
+                "nationality": "Argentina",
+                "height": "171",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41552",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Michael",
+                  "last": "Parkhurst",
+                  "full": "Michael Parkhurst"
+                },
+                "date-of-birth": "1984-01-24",
+                "nationality": "USA",
+                "height": "181",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "110209",
+                "position-regular": "defender",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Greg",
+                  "last": "Garza",
+                  "full": "Greg Garza"
+                },
+                "date-of-birth": "1991-08-16",
+                "nationality": "USA",
+                "height": "172",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95780",
+                "position-regular": "defender",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Leandro",
+                  "last": "González Pirez",
+                  "full": "Leandro González Pirez"
+                },
+                "date-of-birth": "1992-02-26",
+                "nationality": "Argentina",
+                "height": "186",
+                "weight": "90"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "231969",
+                "position-regular": "defender",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Ezequiel",
+                  "last": "Barco",
+                  "full": "Ezequiel Barco"
+                },
+                "date-of-birth": "1999-03-29",
+                "nationality": "Argentina",
+                "height": "167",
+                "weight": "67"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "241500",
+                "position-regular": "defender",
+                "uniform-number": "12",
+                "name": {
+                  "first": "Miles",
+                  "last": "Robinson",
+                  "full": "Miles Robinson"
+                },
+                "date-of-birth": "1997-03-14",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "173423",
+                "position-regular": "defender",
+                "uniform-number": "13",
+                "name": {
+                  "first": "José",
+                  "last": "Hernández",
+                  "full": "José Hernández"
+                },
+                "date-of-birth": "1997-06-26",
+                "nationality": "Venezuela",
+                "height": "170",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "45122",
+                "position-regular": "defender",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Sal",
+                  "last": "Zizzo",
+                  "full": "Sal Zizzo"
+                },
+                "date-of-birth": "1987-04-03",
+                "nationality": "USA",
+                "height": "181",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "426771",
+                "position-regular": "defender",
+                "uniform-number": "21",
+                "name": {
+                  "first": "George",
+                  "last": "Bello",
+                  "full": "George Bello"
+                },
+                "date-of-birth": "2002-01-22",
+                "nationality": "USA",
+                "height": "165",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "135297",
+                "position-regular": "defender",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Mikey",
+                  "last": "Ambrose",
+                  "full": "Mikey Ambrose"
+                },
+                "date-of-birth": "1993-10-05",
+                "nationality": "USA",
+                "height": "175",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95261",
+                "position-regular": "midfielder",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Darlington",
+                  "last": "Nagbe",
+                  "full": "Darlington Nagbe"
+                },
+                "date-of-birth": "1990-07-19",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "20491",
+                "position-regular": "midfielder",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Chris",
+                  "last": "McCann",
+                  "full": "Chris McCann"
+                },
+                "date-of-birth": "1987-07-21",
+                "nationality": "Republic of Ireland",
+                "height": "185",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41551",
+                "position-regular": "midfielder",
+                "uniform-number": "18",
+                "name": {
+                  "first": "Jeff",
+                  "last": "Larentowicz",
+                  "full": "Jeff Larentowicz"
+                },
+                "date-of-birth": "1983-08-05",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "220147",
+                "position-regular": "midfielder",
+                "uniform-number": "20",
+                "name": {
+                  "first": "Christopher",
+                  "last": "Goslin",
+                  "full": "Christopher Goslin"
+                },
+                "date-of-birth": "2000-05-12",
+                "nationality": "USA",
+                "height": "173",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "249242",
+                "position-regular": "midfielder",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Lagos",
+                  "last": "Kunga",
+                  "full": "Lagos Kunga"
+                },
+                "date-of-birth": "1998-10-20",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "244997",
+                "position-regular": "midfielder",
+                "uniform-number": "24",
+                "name": {
+                  "first": "Julian",
+                  "last": "Gressel",
+                  "full": "Julian Gressel"
+                },
+                "date-of-birth": "1993-12-26",
+                "nationality": "Germany",
+                "height": "185",
+                "weight": "95"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "225851",
+                "position-regular": "midfielder",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Andrew",
+                  "last": "Wheeler-Omiunu",
+                  "full": "Andrew Wheeler-Omiunu"
+                },
+                "date-of-birth": "1994-12-01",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "114101",
+                "position-regular": "midfielder",
+                "uniform-number": "29",
+                "name": {
+                  "first": "Oliver",
+                  "last": "Shannon",
+                  "full": "Oliver Shannon"
+                },
+                "date-of-birth": "1995-09-12",
+                "nationality": "England",
+                "height": "183",
+                "weight": "76"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "220142",
+                "position-regular": "midfielder",
+                "uniform-number": "30",
+                "name": {
+                  "first": "Andrew",
+                  "last": "Carleton",
+                  "full": "Andrew Carleton"
+                },
+                "date-of-birth": "2000-06-22",
+                "nationality": "USA",
+                "height": "173",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "66857",
+                "position-regular": "midfielder",
+                "uniform-number": "32",
+                "name": {
+                  "first": "Kevin",
+                  "last": "Kratz",
+                  "full": "Kevin Kratz"
+                },
+                "date-of-birth": "1987-01-21",
+                "nationality": "Germany",
+                "height": "173",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "111686",
+                "position-regular": "forward",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Josef",
+                  "last": "Martínez",
+                  "full": "Josef Martínez"
+                },
+                "date-of-birth": "1993-05-19",
+                "nationality": "Venezuela",
+                "height": "172",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "186262",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Romario",
+                  "last": "Williams",
+                  "full": "Romario Williams"
+                },
+                "date-of-birth": "1994-08-15",
+                "nationality": "Jamaica",
+                "height": "180",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "179018",
+                "position-regular": "forward",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Miguel",
+                  "last": "Almirón",
+                  "full": "Miguel Almirón"
+                },
+                "date-of-birth": "1993-11-13",
+                "nationality": "Paraguay",
+                "height": "174",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "122828",
+                "position-regular": "forward",
+                "uniform-number": "15",
+                "name": {
+                  "first": "Héctor",
+                  "last": "Villalba",
+                  "full": "Héctor Villalba"
+                },
+                "date-of-birth": "1994-07-26",
+                "nationality": "Argentina",
+                "height": "172",
+                "weight": "67"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "218313",
+                "position-regular": "forward",
+                "uniform-number": "19",
+                "name": {
+                  "first": "Brandon",
+                  "last": "Vázquez",
+                  "full": "Brandon Vázquez"
+                },
+                "date-of-birth": "1998-10-14",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "89"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "234618",
+                "position-regular": "forward",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Jon",
+                  "last": "Gallagher",
+                  "full": "Jon Gallagher"
+                },
+                "date-of-birth": "1996-02-23",
+                "nationality": "Republic of Ireland",
+                "height": "175",
+                "weight": "72"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "37719",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "37719",
+                "name": {
+                  "first": "Gerardo",
+                  "last": "Martino",
+                  "full": "Gerardo Martino"
+                }
+              }
+            },
+            {
+              "id": "48530",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "48530",
+                "name": {
+                  "first": "Jorge",
+                  "last": "Theiler",
+                  "full": "Jorge Theiler"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "12492",
+              "name": {
+                "first": "Mercedes-Benz Stadium",
+                "full": "Mercedes-Benz Stadium",
+                "abbreviation": "Mercedes-Benz Stadium"
+              },
+              "capacity": "42500"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1131",
+            "name": {
+              "first": "SJ Earthquakes",
+              "full": "San Jose Earthquakes",
+              "abbreviation": "SJ"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1131"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "173614",
+                "position-regular": "goalkeeper",
+                "uniform-number": "12",
+                "name": {
+                  "first": "Matt",
+                  "last": "Bersano",
+                  "full": "Matt Bersano"
+                },
+                "date-of-birth": "1992-09-10",
+                "nationality": "",
+                "height": "185",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "226384",
+                "position-regular": "goalkeeper",
+                "uniform-number": "18",
+                "name": {
+                  "first": "James",
+                  "last": "Marcinkowski",
+                  "full": "James Marcinkowski"
+                },
+                "date-of-birth": "1997-05-09",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "221400",
+                "position-regular": "goalkeeper",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Andrew",
+                  "last": "Tarbell",
+                  "full": "Andrew Tarbell"
+                },
+                "date-of-birth": "1993-10-07",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "86"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "186679",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Joel",
+                  "last": "Qwiberg",
+                  "full": "Joel Qwiberg"
+                },
+                "date-of-birth": "1992-10-09",
+                "nationality": "Sweden",
+                "height": "170",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "27058",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Francois",
+                  "last": "Affolter",
+                  "full": "Francois Affolter"
+                },
+                "date-of-birth": "1991-03-13",
+                "nationality": "Switzerland",
+                "height": "186",
+                "weight": "76"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "163523",
+                "position-regular": "defender",
+                "uniform-number": "15",
+                "name": {
+                  "first": "Jimmy",
+                  "last": "Ockford",
+                  "full": "Jimmy Ockford"
+                },
+                "date-of-birth": "1992-06-10",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "51937",
+                "position-regular": "defender",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Florian",
+                  "last": "Jungwirth",
+                  "full": "Florian Jungwirth"
+                },
+                "date-of-birth": "1989-01-27",
+                "nationality": "Germany",
+                "height": "181",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "174109",
+                "position-regular": "defender",
+                "uniform-number": "24",
+                "name": {
+                  "first": "Nick",
+                  "last": "Lima",
+                  "full": "Nick Lima"
+                },
+                "date-of-birth": "1994-11-17",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "426106",
+                "position-regular": "defender",
+                "uniform-number": "29",
+                "name": {
+                  "first": "Jacob",
+                  "last": "Akanyirige",
+                  "full": "Jacob Akanyirige"
+                },
+                "date-of-birth": "2001-12-31",
+                "nationality": "USA",
+                "height": "181",
+                "weight": "71"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "232071",
+                "position-regular": "defender",
+                "uniform-number": "30",
+                "name": {
+                  "first": "Yefferson",
+                  "last": "Quintana",
+                  "full": "Yefferson Quintana"
+                },
+                "date-of-birth": "1996-04-19",
+                "nationality": "Uruguay",
+                "height": "192",
+                "weight": "89"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "99103",
+                "position-regular": "defender",
+                "uniform-number": "31",
+                "name": {
+                  "first": "Harold",
+                  "last": "Cummings",
+                  "full": "Harold Cummings"
+                },
+                "date-of-birth": "1992-03-01",
+                "nationality": "Panama",
+                "height": "188",
+                "weight": "85"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "50081",
+                "position-regular": "midfielder",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Shea",
+                  "last": "Salinas",
+                  "full": "Shea Salinas"
+                },
+                "date-of-birth": "1986-06-24",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41393",
+                "position-regular": "midfielder",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Jahmir",
+                  "last": "Hyka",
+                  "full": "Jahmir Hyka"
+                },
+                "date-of-birth": "1988-03-08",
+                "nationality": "Albania",
+                "height": "169",
+                "weight": "61"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "88940",
+                "position-regular": "midfielder",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Valeri",
+                  "last": "Qazaishvili",
+                  "full": "Valeri Qazaishvili"
+                },
+                "date-of-birth": "1993-01-29",
+                "nationality": "Georgia",
+                "height": "183",
+                "weight": "74"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "245628",
+                "position-regular": "midfielder",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Jackson",
+                  "last": "Yueill",
+                  "full": "Jackson Yueill"
+                },
+                "date-of-birth": "1997-03-18",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "245009",
+                "position-regular": "midfielder",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Christopher",
+                  "last": "Wehan",
+                  "full": "Christopher Wehan"
+                },
+                "date-of-birth": "1994-01-29",
+                "nationality": "USA",
+                "height": "175",
+                "weight": "64"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "99117",
+                "position-regular": "midfielder",
+                "uniform-number": "20",
+                "name": {
+                  "first": "Aníbal",
+                  "last": "Godoy",
+                  "full": "Aníbal Godoy"
+                },
+                "date-of-birth": "1990-02-10",
+                "nationality": "Panama",
+                "height": "180",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "178211",
+                "position-regular": "midfielder",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Tommy",
+                  "last": "Thompson",
+                  "full": "Tommy Thompson"
+                },
+                "date-of-birth": "1995-08-15",
+                "nationality": "USA",
+                "height": "171",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "200786",
+                "position-regular": "midfielder",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Eric",
+                  "last": "Calvillo",
+                  "full": "Eric Calvillo"
+                },
+                "date-of-birth": "1998-01-02",
+                "nationality": "USA",
+                "height": "170",
+                "weight": "63"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "163482",
+                "position-regular": "midfielder",
+                "uniform-number": "27",
+                "name": {
+                  "first": "Fatai",
+                  "last": "Alashe",
+                  "full": "Fatai Alashe"
+                },
+                "date-of-birth": "1993-10-21",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "426120",
+                "position-regular": "midfielder",
+                "uniform-number": "35",
+                "name": {
+                  "first": "Gilbert",
+                  "last": "Fuentes",
+                  "full": "Gilbert Fuentes"
+                },
+                "date-of-birth": "2002-02-21",
+                "nationality": "USA",
+                "height": "169",
+                "weight": "65"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "223215",
+                "position-regular": "midfielder",
+                "uniform-number": "96",
+                "name": {
+                  "first": "Luis Felipe",
+                  "last": "Fernandes",
+                  "full": "Luis Felipe Fernandes"
+                },
+                "date-of-birth": "1996-01-29",
+                "nationality": "USA",
+                "height": "185",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "66553",
+                "position-regular": "forward",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Magnus",
+                  "last": "Eriksson",
+                  "full": "Magnus Eriksson"
+                },
+                "date-of-birth": "1990-04-08",
+                "nationality": "Sweden",
+                "height": "180",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41647",
+                "position-regular": "forward",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Chris",
+                  "last": "Wondolowski",
+                  "full": "Chris Wondolowski"
+                },
+                "date-of-birth": "1983-01-28",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "54980",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Danny",
+                  "last": "Hoesen",
+                  "full": "Danny Hoesen"
+                },
+                "date-of-birth": "1991-01-15",
+                "nationality": "Netherlands",
+                "height": "185",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "60225",
+                "position-regular": "forward",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Quincy",
+                  "last": "Amarikwa",
+                  "full": "Quincy Amarikwa"
+                },
+                "date-of-birth": "1987-10-29",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "82"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "46911",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "46911",
+                "name": {
+                  "first": "Steve",
+                  "last": "Ralston",
+                  "full": "Steve Ralston"
+                }
+              }
+            },
+            {
+              "id": "38627",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "38627",
+                "name": {
+                  "first": "Mikael",
+                  "last": "Stahre",
+                  "full": "Mikael Stahre"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "10424",
+              "name": {
+                "first": "Avaya Stadium",
+                "full": "Avaya Stadium",
+                "abbreviation": "Avaya Stadium"
+              },
+              "capacity": "18000"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "11690",
+            "name": {
+              "first": "Los Angeles FC",
+              "full": "Los Angeles Football Club",
+              "abbreviation": "LAFC"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/11690"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "202361",
+                "position-regular": "goalkeeper",
+                "uniform-number": "1",
+                "name": {
+                  "first": "Tyler",
+                  "last": "Miller",
+                  "full": "Tyler Miller"
+                },
+                "date-of-birth": "1993-03-12",
+                "nationality": "USA",
+                "height": "193",
+                "weight": "88"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "184468",
+                "position-regular": "goalkeeper",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Luis",
+                  "last": "López",
+                  "full": "Luis López"
+                },
+                "date-of-birth": "1993-09-13",
+                "nationality": "Honduras",
+                "height": "182",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "205867",
+                "position-regular": "goalkeeper",
+                "uniform-number": "24",
+                "name": {
+                  "first": "Charlie",
+                  "last": "Lyon",
+                  "full": "Charlie Lyon"
+                },
+                "date-of-birth": "1992-04-10",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "97"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41599",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Jordan",
+                  "last": "Harvey",
+                  "full": "Jordan Harvey"
+                },
+                "date-of-birth": "1984-01-28",
+                "nationality": "USA",
+                "height": "181",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "82845",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Steven",
+                  "last": "Beitashour",
+                  "full": "Steven Beitashour"
+                },
+                "date-of-birth": "1987-02-01",
+                "nationality": "Iran",
+                "height": "178",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "120022",
+                "position-regular": "defender",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Omar Mahmoud",
+                  "last": "Sayed Gaber",
+                  "full": "Omar Gaber"
+                },
+                "date-of-birth": "1992-01-30",
+                "nationality": "Egypt",
+                "height": "174",
+                "weight": "71"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "60536",
+                "position-regular": "defender",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Dejan",
+                  "last": "Jakovic",
+                  "full": "Dejan Jakovic"
+                },
+                "date-of-birth": "1985-07-16",
+                "nationality": "Canada",
+                "height": "188",
+                "weight": "81"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "42584",
+                "position-regular": "defender",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Laurent",
+                  "last": "Ciman",
+                  "full": "Laurent Ciman"
+                },
+                "date-of-birth": "1985-08-05",
+                "nationality": "Belgium",
+                "height": "180",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "151933",
+                "position-regular": "defender",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Walker",
+                  "last": "Zimmerman",
+                  "full": "Walker Zimmerman"
+                },
+                "date-of-birth": "1993-05-19",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "87"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "423123",
+                "position-regular": "defender",
+                "uniform-number": "27",
+                "name": {
+                  "first": "Tristan",
+                  "last": "Blackmon",
+                  "full": "Tristan Blackmon"
+                },
+                "date-of-birth": "1996-08-12",
+                "nationality": "USA",
+                "height": "185",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "443002",
+                "position-regular": "defender",
+                "uniform-number": "44",
+                "name": {
+                  "first": "João Gervásio",
+                  "last": "Bragança Moutinho",
+                  "full": "João Moutinho"
+                },
+                "date-of-birth": "1998-01-12",
+                "nationality": "Portugal",
+                "height": "182",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "172482",
+                "position-regular": "midfielder",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Aaron",
+                  "last": "Kovar",
+                  "full": "Aaron Kovar"
+                },
+                "date-of-birth": "1993-08-14",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "71"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "227731",
+                "position-regular": "midfielder",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Mark-Anthony",
+                  "last": "Kaye",
+                  "full": "Mark-Anthony Kaye"
+                },
+                "date-of-birth": "1994-12-02",
+                "nationality": "Canada",
+                "height": "185",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "110606",
+                "position-regular": "midfielder",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Calum",
+                  "last": "Mallace",
+                  "full": "Calum Mallace"
+                },
+                "date-of-birth": "1990-01-10",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "83"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "232262",
+                "position-regular": "midfielder",
+                "uniform-number": "19",
+                "name": {
+                  "first": "James",
+                  "last": "Murphy",
+                  "full": "James Murphy"
+                },
+                "date-of-birth": "1997-09-17",
+                "nationality": "USA",
+                "height": "180",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "232274",
+                "position-regular": "midfielder",
+                "uniform-number": "20",
+                "name": {
+                  "first": "Eduard",
+                  "last": "Atuesta",
+                  "full": "Eduard Atuesta"
+                },
+                "date-of-birth": "1997-06-18",
+                "nationality": "Colombia",
+                "height": "180",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "20525",
+                "position-regular": "midfielder",
+                "uniform-number": "33",
+                "name": {
+                  "first": "Benny",
+                  "last": "Feilhaber",
+                  "full": "Benny Feilhaber"
+                },
+                "date-of-birth": "1985-01-19",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "245764",
+                "position-regular": "forward",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Latif",
+                  "last": "Blessing",
+                  "full": "Latif Blessing"
+                },
+                "date-of-birth": "1996-12-30",
+                "nationality": "Ghana",
+                "height": "170",
+                "weight": "64"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "223256",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Diego",
+                  "last": "Rossi",
+                  "full": "Diego Rossi"
+                },
+                "date-of-birth": "1998-03-05",
+                "nationality": "Uruguay",
+                "height": "170",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "38401",
+                "position-regular": "forward",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Carlos",
+                  "last": "Vela",
+                  "full": "Carlos Vela"
+                },
+                "date-of-birth": "1989-03-01",
+                "nationality": "Mexico",
+                "height": "177",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "77755",
+                "position-regular": "forward",
+                "uniform-number": "21",
+                "name": {
+                  "first": "Marco",
+                  "last": "Ureña",
+                  "full": "Marco Ureña"
+                },
+                "date-of-birth": "1990-03-05",
+                "nationality": "Costa Rica",
+                "height": "179",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "424995",
+                "position-regular": "forward",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Shaft",
+                  "last": "Brewer",
+                  "full": "Shaft Brewer"
+                },
+                "date-of-birth": "1999-10-28",
+                "nationality": "USA",
+                "height": "175",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "250290",
+                "position-regular": "forward",
+                "uniform-number": "50",
+                "name": {
+                  "first": "Rodrigo",
+                  "last": "Pacheco",
+                  "full": "Rodrigo Pacheco"
+                },
+                "date-of-birth": "1996-08-15",
+                "nationality": "Argentina",
+                "height": "178",
+                "weight": "76"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "37551",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "37551",
+                "name": {
+                  "first": "Bob",
+                  "last": "Bradley",
+                  "full": "Bob Bradley"
+                }
+              }
+            },
+            {
+              "id": "46607",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "46607",
+                "name": {
+                  "first": "Marc",
+                  "last": "Dos Santos",
+                  "full": "Marc Dos Santos"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "12919",
+              "name": {
+                "first": "Banc of California Stadium",
+                "full": "Banc of California Stadium",
+                "abbreviation": "Banc of California Stadium"
+              },
+              "capacity": "22000"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1207",
+            "name": {
+              "first": "Chicago Fire",
+              "full": "Chicago Fire",
+              "abbreviation": "CHI"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1207"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "245017",
+                "position-regular": "goalkeeper",
+                "uniform-number": "30",
+                "name": {
+                  "first": "Stefan",
+                  "last": "Cleveland",
+                  "full": "Stefan Cleveland"
+                },
+                "date-of-birth": "1994-05-24",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "113757",
+                "position-regular": "goalkeeper",
+                "uniform-number": "32",
+                "name": {
+                  "first": "Patrick",
+                  "last": "McLain",
+                  "full": "Patrick McLain"
+                },
+                "date-of-birth": "1988-08-22",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "94"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95298",
+                "position-regular": "goalkeeper",
+                "uniform-number": "45",
+                "name": {
+                  "first": "Richard",
+                  "last": "Sánchez",
+                  "full": "Richard Sánchez"
+                },
+                "date-of-birth": "1994-04-05",
+                "nationality": "Mexico",
+                "height": "191",
+                "weight": "89"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "197428",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Matt",
+                  "last": "Polster",
+                  "full": "Matt Polster"
+                },
+                "date-of-birth": "1993-06-08",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "172474",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Brandon",
+                  "last": "Vincent",
+                  "full": "Brandon Vincent"
+                },
+                "date-of-birth": "1994-05-01",
+                "nationality": "USA",
+                "height": "180",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "86898",
+                "position-regular": "defender",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Johan",
+                  "last": "Kappelhof",
+                  "full": "Johan Kappelhof"
+                },
+                "date-of-birth": "1990-08-05",
+                "nationality": "Netherlands",
+                "height": "180",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95320",
+                "position-regular": "defender",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Kevin",
+                  "last": "Ellis",
+                  "full": "Kevin Ellis"
+                },
+                "date-of-birth": "1991-06-30",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "234193",
+                "position-regular": "defender",
+                "uniform-number": "15",
+                "name": {
+                  "first": "Grant",
+                  "last": "Lillard",
+                  "full": "Grant Lillard"
+                },
+                "date-of-birth": "1995-12-05",
+                "nationality": "USA",
+                "height": "193",
+                "weight": "89"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "133042",
+                "position-regular": "defender",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Jonathan",
+                  "last": "Campbell",
+                  "full": "Jonathan Campbell"
+                },
+                "date-of-birth": "1993-06-27",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "86"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "117330",
+                "position-regular": "defender",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Jorge",
+                  "last": "Corrales",
+                  "full": "Jorge Corrales"
+                },
+                "date-of-birth": "1991-05-20",
+                "nationality": "Cuba",
+                "height": "175",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "129440",
+                "position-regular": "defender",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Christian",
+                  "last": "Dean",
+                  "full": "Christian Dean"
+                },
+                "date-of-birth": "1993-03-14",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "91"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "181180",
+                "position-regular": "defender",
+                "uniform-number": "27",
+                "name": {
+                  "first": "Rafael António",
+                  "last": "Figueiredo Ramos",
+                  "full": "Rafael Ramos"
+                },
+                "date-of-birth": "1995-01-09",
+                "nationality": "Portugal",
+                "height": "170",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41626",
+                "position-regular": "midfielder",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Dax",
+                  "last": "McCarty",
+                  "full": "Dax McCarty"
+                },
+                "date-of-birth": "1987-04-30",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "83055",
+                "position-regular": "midfielder",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Aleksandar",
+                  "last": "Katai",
+                  "full": "Aleksandar Katai"
+                },
+                "date-of-birth": "1991-02-06",
+                "nationality": "Serbia",
+                "height": "182",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "82516",
+                "position-regular": "midfielder",
+                "uniform-number": "12",
+                "name": {
+                  "first": "Tony",
+                  "last": "Tchani",
+                  "full": "Tony Tchani"
+                },
+                "date-of-birth": "1989-04-13",
+                "nationality": "Cameroon",
+                "height": "194",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "244988",
+                "position-regular": "midfielder",
+                "uniform-number": "13",
+                "name": {
+                  "first": "Brandt",
+                  "last": "Bronico",
+                  "full": "Brandt Bronico"
+                },
+                "date-of-birth": "1995-06-20",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "246874",
+                "position-regular": "midfielder",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Djordje",
+                  "last": "Mihailovic",
+                  "full": "Djordje Mihailovic"
+                },
+                "date-of-birth": "1998-11-10",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "220580",
+                "position-regular": "midfielder",
+                "uniform-number": "18",
+                "name": {
+                  "first": "Drew",
+                  "last": "Conner",
+                  "full": "Drew Conner"
+                },
+                "date-of-birth": "1994-02-18",
+                "nationality": "USA",
+                "height": "180",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "200735",
+                "position-regular": "midfielder",
+                "uniform-number": "19",
+                "name": {
+                  "first": "Mohammed",
+                  "last": "Adams",
+                  "full": "Mohammed Adams"
+                },
+                "date-of-birth": "1996-09-23",
+                "nationality": "England",
+                "height": "167",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "245013",
+                "position-regular": "midfielder",
+                "uniform-number": "20",
+                "name": {
+                  "first": "Daniel",
+                  "last": "Johnson",
+                  "full": "Daniel Johnson"
+                },
+                "date-of-birth": "1995-09-07",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "63"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "15208",
+                "position-regular": "midfielder",
+                "uniform-number": "31",
+                "name": {
+                  "first": "Bastian",
+                  "last": "Schweinsteiger",
+                  "full": "Bastian Schweinsteiger"
+                },
+                "date-of-birth": "1984-08-01",
+                "nationality": "Germany",
+                "height": "183",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "66238",
+                "position-regular": "forward",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Michael",
+                  "last": "de Leeuw",
+                  "full": "Michael de Leeuw"
+                },
+                "date-of-birth": "1986-10-07",
+                "nationality": "Netherlands",
+                "height": "178",
+                "weight": "67"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "152151",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Luis",
+                  "last": "Solignac",
+                  "full": "Luis Solignac"
+                },
+                "date-of-birth": "1991-02-16",
+                "nationality": "Argentina",
+                "height": "184",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "443517",
+                "position-regular": "forward",
+                "uniform-number": "17",
+                "name": {
+                  "first": "Diego",
+                  "last": "Campos",
+                  "full": "Diego Campos"
+                },
+                "date-of-birth": "1995-10-01",
+                "nationality": "Costa Rica",
+                "height": "178",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41667",
+                "position-regular": "forward",
+                "uniform-number": "21",
+                "name": {
+                  "first": "Alan",
+                  "last": "Gordon",
+                  "full": "Alan Gordon"
+                },
+                "date-of-birth": "1981-10-16",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "87"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "226311",
+                "position-regular": "forward",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Jon",
+                  "last": "Bakero",
+                  "full": "Jon Bakero"
+                },
+                "date-of-birth": "1996-11-05",
+                "nationality": "Spain",
+                "height": "188",
+                "weight": "74"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "82064",
+                "position-regular": "forward",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Nemanja",
+                  "last": "Nikolic",
+                  "full": "Nemanja Nikolic"
+                },
+                "date-of-birth": "1987-12-31",
+                "nationality": "Hungary",
+                "height": "180",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "423237",
+                "position-regular": "forward",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Elliot",
+                  "last": "Collier",
+                  "full": "Elliot Collier"
+                },
+                "date-of-birth": "1995-02-22",
+                "nationality": "New Zealand",
+                "height": "193",
+                "weight": "81"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "49631",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "49631",
+                "name": {
+                  "first": "Marko",
+                  "last": "Mitrovic",
+                  "full": "Marko Mitrovic"
+                }
+              }
+            },
+            {
+              "id": "45584",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "45584",
+                "name": {
+                  "first": "Veljko",
+                  "last": "Paunovic",
+                  "full": "Veljko Paunovic"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "2125",
+              "name": {
+                "first": "Toyota Park",
+                "full": "Toyota Park",
+                "abbreviation": "Toyota Park"
+              },
+              "capacity": "20000"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1230",
+            "name": {
+              "first": "LA Galaxy",
+              "full": "LA Galaxy",
+              "abbreviation": "LA"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1230"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "94932",
+                "position-regular": "goalkeeper",
+                "uniform-number": "1",
+                "name": {
+                  "first": "David",
+                  "last": "Bingham",
+                  "full": "David Bingham"
+                },
+                "date-of-birth": "1989-10-19",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95281",
+                "position-regular": "goalkeeper",
+                "uniform-number": "12",
+                "name": {
+                  "first": "Brian",
+                  "last": "Sylvestre",
+                  "full": "Brian Sylvestre"
+                },
+                "date-of-birth": "1992-12-19",
+                "nationality": "Haiti",
+                "height": "196",
+                "weight": "91"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "234585",
+                "position-regular": "goalkeeper",
+                "uniform-number": "41",
+                "name": {
+                  "first": "Justin",
+                  "last": "vom Steeg",
+                  "full": "Justin vom Steeg"
+                },
+                "date-of-birth": "1997-04-05",
+                "nationality": "USA",
+                "height": "193",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "3785",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Ashley",
+                  "last": "Cole",
+                  "full": "Ashley Cole"
+                },
+                "date-of-birth": "1980-12-20",
+                "nationality": "England",
+                "height": "176",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "213213",
+                "position-regular": "defender",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Dave",
+                  "last": "Romney",
+                  "full": "Dave Romney"
+                },
+                "date-of-birth": "1993-06-12",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "86"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "111473",
+                "position-regular": "defender",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Daniel",
+                  "last": "Steres",
+                  "full": "Daniel Steres"
+                },
+                "date-of-birth": "1990-11-11",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "63800",
+                "position-regular": "defender",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Jørgen",
+                  "last": "Skjelvik",
+                  "full": "Jørgen Skjelvik"
+                },
+                "date-of-birth": "1991-07-05",
+                "nationality": "Norway",
+                "height": "183",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "197421",
+                "position-regular": "defender",
+                "uniform-number": "20",
+                "name": {
+                  "first": "Tomas",
+                  "last": "Hilliard-Arce",
+                  "full": "Tomas Hilliard-Arce"
+                },
+                "date-of-birth": "1995-11-22",
+                "nationality": "USA",
+                "height": "185",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "176416",
+                "position-regular": "defender",
+                "uniform-number": "21",
+                "name": {
+                  "first": "Hugo",
+                  "last": "Arellano",
+                  "full": "Hugo Arellano"
+                },
+                "date-of-birth": "1998-03-05",
+                "nationality": "USA",
+                "height": "180",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "186074",
+                "position-regular": "defender",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Emrah",
+                  "last": "Klimenta",
+                  "full": "Emrah Klimenta"
+                },
+                "date-of-birth": "1991-02-13",
+                "nationality": "Montenegro",
+                "height": "185",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "44871",
+                "position-regular": "defender",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Rolf",
+                  "last": "Feltscher",
+                  "full": "Rolf Feltscher"
+                },
+                "date-of-birth": "1990-10-06",
+                "nationality": "Venezuela",
+                "height": "184",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "37740",
+                "position-regular": "defender",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Michael",
+                  "last": "Ciani",
+                  "full": "Michael Ciani"
+                },
+                "date-of-birth": "1984-04-06",
+                "nationality": "France",
+                "height": "189",
+                "weight": "88"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95277",
+                "position-regular": "midfielder",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Perry",
+                  "last": "Kitchen",
+                  "full": "Perry Kitchen"
+                },
+                "date-of-birth": "1992-02-29",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "60132",
+                "position-regular": "midfielder",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Baggio",
+                  "last": "Husidic",
+                  "full": "Baggio Husidic"
+                },
+                "date-of-birth": "1987-05-19",
+                "nationality": "Bosnia and Herzegovina",
+                "height": "186",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "86140",
+                "position-regular": "midfielder",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Romain",
+                  "last": "Alessandrini",
+                  "full": "Romain Alessandrini"
+                },
+                "date-of-birth": "1989-04-03",
+                "nationality": "France",
+                "height": "173",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "76688",
+                "position-regular": "midfielder",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Jonathan",
+                  "last": "dos Santos",
+                  "full": "Jonathan dos Santos"
+                },
+                "date-of-birth": "1990-04-26",
+                "nationality": "Mexico",
+                "height": "172",
+                "weight": "74"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "40275",
+                "position-regular": "midfielder",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Giovani",
+                  "last": "dos Santos",
+                  "full": "Giovani dos Santos"
+                },
+                "date-of-birth": "1989-05-11",
+                "nationality": "Mexico",
+                "height": "179",
+                "weight": "71"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95259",
+                "position-regular": "midfielder",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Servando",
+                  "last": "Carrasco",
+                  "full": "Servando Carrasco"
+                },
+                "date-of-birth": "1988-08-13",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "88534",
+                "position-regular": "midfielder",
+                "uniform-number": "17",
+                "name": {
+                  "first": "Sebastian",
+                  "last": "Lletget",
+                  "full": "Sebastian Lletget"
+                },
+                "date-of-birth": "1992-09-03",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "60152",
+                "position-regular": "midfielder",
+                "uniform-number": "19",
+                "name": {
+                  "first": "Chris",
+                  "last": "Pontius",
+                  "full": "Chris Pontius"
+                },
+                "date-of-birth": "1987-05-12",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "224430",
+                "position-regular": "midfielder",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Efrain",
+                  "last": "Alvarez",
+                  "full": "Efrain Alvarez"
+                },
+                "date-of-birth": "2002-06-19",
+                "nationality": "USA",
+                "height": "175",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "159716",
+                "position-regular": "midfielder",
+                "uniform-number": "88",
+                "name": {
+                  "first": "João Pedro",
+                  "last": "Almeida Machado",
+                  "full": "João Pedro"
+                },
+                "date-of-birth": "1993-04-03",
+                "nationality": "Portugal",
+                "height": "176",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "9808",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Zlatan",
+                  "last": "Ibrahimovic",
+                  "full": "Zlatan Ibrahimovic"
+                },
+                "date-of-birth": "1981-10-03",
+                "nationality": "Sweden",
+                "height": "195",
+                "weight": "95"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "55758",
+                "position-regular": "forward",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Ola",
+                  "last": "Kamara",
+                  "full": "Ola Kamara"
+                },
+                "date-of-birth": "1989-10-15",
+                "nationality": "Norway",
+                "height": "184",
+                "weight": "81"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "210476",
+                "position-regular": "forward",
+                "uniform-number": "15",
+                "name": {
+                  "first": "Ariel",
+                  "last": "Lassiter",
+                  "full": "Ariel Lassiter"
+                },
+                "date-of-birth": "1994-09-27",
+                "nationality": "Costa Rica",
+                "height": "178",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "168365",
+                "position-regular": "forward",
+                "uniform-number": "24",
+                "name": {
+                  "first": "Emmanuel",
+                  "last": "Boateng",
+                  "full": "Emmanuel Boateng"
+                },
+                "date-of-birth": "1994-01-17",
+                "nationality": "Ghana",
+                "height": "168",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "177978",
+                "position-regular": "forward",
+                "uniform-number": "38",
+                "name": {
+                  "first": "Bradford",
+                  "last": "Jamieson",
+                  "full": "Bradford Jamieson"
+                },
+                "date-of-birth": "1996-10-18",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "75"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "37534",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "37534",
+                "name": {
+                  "first": "Dominic",
+                  "last": "Kinnear",
+                  "full": "Dominic Kinnear"
+                }
+              }
+            },
+            {
+              "id": "37526",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "37526",
+                "name": {
+                  "first": "Siegfried",
+                  "last": "Schmid",
+                  "full": "Siegfried Schmid"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "3356",
+              "name": {
+                "first": "StubHub Center",
+                "full": "StubHub Center",
+                "abbreviation": "StubHub Center"
+              },
+              "capacity": "27000"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1326",
+            "name": {
+              "first": "DC United",
+              "full": "D.C. United",
+              "abbreviation": "DC"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1326"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "52629",
+                "position-regular": "goalkeeper",
+                "uniform-number": "1",
+                "name": {
+                  "first": "David",
+                  "last": "Ousted",
+                  "full": "David Ousted"
+                },
+                "date-of-birth": "1985-02-01",
+                "nationality": "Denmark",
+                "height": "194",
+                "weight": "89"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "111806",
+                "position-regular": "goalkeeper",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Steve",
+                  "last": "Clark",
+                  "full": "Steve Clark"
+                },
+                "date-of-birth": "1986-04-14",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "88"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "205343",
+                "position-regular": "goalkeeper",
+                "uniform-number": "48",
+                "name": {
+                  "first": "Travis",
+                  "last": "Worra",
+                  "full": "Travis Worra"
+                },
+                "date-of-birth": "1993-04-09",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "116656",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Taylor",
+                  "last": "Kemp",
+                  "full": "Taylor Kemp"
+                },
+                "date-of-birth": "1990-07-23",
+                "nationality": "USA",
+                "height": "181",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "234432",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Chris",
+                  "last": "Odoi-Atsem",
+                  "full": "Chris Odoi-Atsem"
+                },
+                "date-of-birth": "1995-05-28",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "151935",
+                "position-regular": "defender",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Kofi",
+                  "last": "Opare",
+                  "full": "Kofi Opare"
+                },
+                "date-of-birth": "1990-10-12",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "87"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "121000",
+                "position-regular": "defender",
+                "uniform-number": "13",
+                "name": {
+                  "first": "Frederic",
+                  "last": "Brillant",
+                  "full": "Frederic Brillant"
+                },
+                "date-of-birth": "1985-06-26",
+                "nationality": "France",
+                "height": "190",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "129430",
+                "position-regular": "defender",
+                "uniform-number": "15",
+                "name": {
+                  "first": "Steve",
+                  "last": "Birnbaum",
+                  "full": "Steve Birnbaum"
+                },
+                "date-of-birth": "1991-01-23",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "131839",
+                "position-regular": "defender",
+                "uniform-number": "20",
+                "name": {
+                  "first": "Jalen",
+                  "last": "Robinson",
+                  "full": "Jalen Robinson"
+                },
+                "date-of-birth": "1994-05-08",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "205285",
+                "position-regular": "defender",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Joseph",
+                  "last": "Mora",
+                  "full": "Joseph Mora"
+                },
+                "date-of-birth": "1993-01-15",
+                "nationality": "Costa Rica",
+                "height": "170",
+                "weight": "60"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "202378",
+                "position-regular": "defender",
+                "uniform-number": "91",
+                "name": {
+                  "first": "Oniel",
+                  "last": "Fisher",
+                  "full": "Oniel Fisher"
+                },
+                "date-of-birth": "1991-11-22",
+                "nationality": "Jamaica",
+                "height": "175",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "209819",
+                "position-regular": "midfielder",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Russell",
+                  "last": "Canouse",
+                  "full": "Russell Canouse"
+                },
+                "date-of-birth": "1995-06-11",
+                "nationality": "USA",
+                "height": "177",
+                "weight": "76"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "149231",
+                "position-regular": "midfielder",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Júnior",
+                  "last": "Moreno",
+                  "full": "Júnior Moreno"
+                },
+                "date-of-birth": "1993-07-20",
+                "nationality": "Venezuela",
+                "height": "175",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "166921",
+                "position-regular": "midfielder",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Paul",
+                  "last": "Arriola",
+                  "full": "Paul Arriola"
+                },
+                "date-of-birth": "1995-02-05",
+                "nationality": "USA",
+                "height": "167",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "210475",
+                "position-regular": "midfielder",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Ulises",
+                  "last": "Segura",
+                  "full": "Ulises Segura"
+                },
+                "date-of-birth": "1993-06-23",
+                "nationality": "Costa Rica",
+                "height": "183",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "179384",
+                "position-regular": "midfielder",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Luciano",
+                  "last": "Acosta",
+                  "full": "Luciano Acosta"
+                },
+                "date-of-birth": "1994-05-01",
+                "nationality": "Argentina",
+                "height": "161",
+                "weight": "61"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "110580",
+                "position-regular": "midfielder",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Nick",
+                  "last": "DeLeon",
+                  "full": "Nick DeLeon"
+                },
+                "date-of-birth": "1990-07-17",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "116661",
+                "position-regular": "midfielder",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Patrick",
+                  "last": "Mullins",
+                  "full": "Patrick Mullins"
+                },
+                "date-of-birth": "1992-02-05",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "211988",
+                "position-regular": "midfielder",
+                "uniform-number": "21",
+                "name": {
+                  "first": "Christopher",
+                  "last": "Durkin",
+                  "full": "Christopher Durkin"
+                },
+                "date-of-birth": "2000-02-08",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "159561",
+                "position-regular": "midfielder",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Yamil",
+                  "last": "Asad",
+                  "full": "Yamil Asad"
+                },
+                "date-of-birth": "1994-07-27",
+                "nationality": "Argentina",
+                "height": "178",
+                "weight": "74"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "226308",
+                "position-regular": "midfielder",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Ian",
+                  "last": "Harkes",
+                  "full": "Ian Harkes"
+                },
+                "date-of-birth": "1995-03-30",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "54916",
+                "position-regular": "midfielder",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Jared",
+                  "last": "Jeffrey",
+                  "full": "Jared Jeffrey"
+                },
+                "date-of-birth": "1990-06-14",
+                "nationality": "USA",
+                "height": "181",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "110608",
+                "position-regular": "forward",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Darren",
+                  "last": "Mattocks",
+                  "full": "Darren Mattocks"
+                },
+                "date-of-birth": "1990-09-02",
+                "nationality": "Jamaica",
+                "height": "183",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "20962",
+                "position-regular": "forward",
+                "uniform-number": "18",
+                "name": {
+                  "first": "Zoltán",
+                  "last": "Stieber",
+                  "full": "Zoltán Stieber"
+                },
+                "date-of-birth": "1988-10-16",
+                "nationality": "Hungary",
+                "height": "175",
+                "weight": "67"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "163044",
+                "position-regular": "forward",
+                "uniform-number": "29",
+                "name": {
+                  "first": "Dane",
+                  "last": "Kelly",
+                  "full": "Dane Kelly"
+                },
+                "date-of-birth": "1991-02-09",
+                "nationality": "Jamaica",
+                "height": "180",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "225007",
+                "position-regular": "forward",
+                "uniform-number": "32",
+                "name": {
+                  "first": "Bruno",
+                  "last": "Miranda",
+                  "full": "Bruno Miranda"
+                },
+                "date-of-birth": "1998-02-10",
+                "nationality": "Bolivia",
+                "height": "180",
+                "weight": "66"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "46783",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "46783",
+                "name": {
+                  "first": "Chad",
+                  "last": "Ashton",
+                  "full": "Chad Ashton"
+                }
+              }
+            },
+            {
+              "id": "40398",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "40398",
+                "name": {
+                  "first": "Ben",
+                  "last": "Olsen",
+                  "full": "Ben Olsen"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "12976",
+              "name": {
+                "first": "Audi Field",
+                "full": "Audi Field",
+                "abbreviation": "Audi Field"
+              },
+              "capacity": "20000"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1581",
+            "name": {
+              "first": "Portland",
+              "full": "Portland Timbers",
+              "abbreviation": "PTI"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1581"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "94305",
+                "position-regular": "goalkeeper",
+                "uniform-number": "1",
+                "name": {
+                  "first": "Jeff",
+                  "last": "Attinella",
+                  "full": "Jeff Attinella"
+                },
+                "date-of-birth": "1988-09-29",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "87"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "164479",
+                "position-regular": "goalkeeper",
+                "uniform-number": "43",
+                "name": {
+                  "first": "Kendall",
+                  "last": "McIntosh",
+                  "full": "Kendall McIntosh"
+                },
+                "date-of-birth": "1994-01-24",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95297",
+                "position-regular": "goalkeeper",
+                "uniform-number": "90",
+                "name": {
+                  "first": "Jake",
+                  "last": "Gleeson",
+                  "full": "Jake Gleeson"
+                },
+                "date-of-birth": "1990-06-26",
+                "nationality": "New Zealand",
+                "height": "191",
+                "weight": "91"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "153264",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Alvas",
+                  "last": "Powell",
+                  "full": "Alvas Powell"
+                },
+                "date-of-birth": "1994-07-18",
+                "nationality": "Jamaica",
+                "height": "183",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "54862",
+                "position-regular": "defender",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Vytautas",
+                  "last": "Andriuskevicius",
+                  "full": "Vytautas Andriuskevicius"
+                },
+                "date-of-birth": "1990-10-08",
+                "nationality": "Lithuania",
+                "height": "188",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "34361",
+                "position-regular": "defender",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Roy",
+                  "last": "Miller",
+                  "full": "Roy Miller"
+                },
+                "date-of-birth": "1984-11-24",
+                "nationality": "Costa Rica",
+                "height": "188",
+                "weight": "76"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95236",
+                "position-regular": "defender",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Zarek",
+                  "last": "Valentin",
+                  "full": "Zarek Valentin"
+                },
+                "date-of-birth": "1991-08-06",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "181958",
+                "position-regular": "defender",
+                "uniform-number": "18",
+                "name": {
+                  "first": "Julio",
+                  "last": "Cascante",
+                  "full": "Julio Cascante"
+                },
+                "date-of-birth": "1993-10-03",
+                "nationality": "Costa Rica",
+                "height": "186",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "14278",
+                "position-regular": "defender",
+                "uniform-number": "24",
+                "name": {
+                  "first": "Liam",
+                  "last": "Ridgewell",
+                  "full": "Liam Ridgewell"
+                },
+                "date-of-birth": "1984-07-21",
+                "nationality": "England",
+                "height": "188",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "204843",
+                "position-regular": "defender",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Modou",
+                  "last": "Jadama",
+                  "full": "Modou Jadama"
+                },
+                "date-of-birth": "1994-03-17",
+                "nationality": "Gambia",
+                "height": "185",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "242130",
+                "position-regular": "defender",
+                "uniform-number": "32",
+                "name": {
+                  "first": "Marco",
+                  "last": "Farfan",
+                  "full": "Marco Farfan"
+                },
+                "date-of-birth": "1998-11-12",
+                "nationality": "USA",
+                "height": "180",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41004",
+                "position-regular": "defender",
+                "uniform-number": "33",
+                "name": {
+                  "first": "Larrys",
+                  "last": "Mabiala",
+                  "full": "Larrys Mabiala"
+                },
+                "date-of-birth": "1987-10-08",
+                "nationality": "Congo DR",
+                "height": "188",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "55817",
+                "position-regular": "midfielder",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Diego",
+                  "last": "Valeri",
+                  "full": "Diego Valeri"
+                },
+                "date-of-birth": "1986-05-01",
+                "nationality": "Argentina",
+                "height": "178",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "55820",
+                "position-regular": "midfielder",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Sebastián",
+                  "last": "Blanco",
+                  "full": "Sebastián Blanco"
+                },
+                "date-of-birth": "1988-03-15",
+                "nationality": "Argentina",
+                "height": "168",
+                "weight": "64"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "106519",
+                "position-regular": "midfielder",
+                "uniform-number": "13",
+                "name": {
+                  "first": "Lawrence",
+                  "last": "Olum",
+                  "full": "Lawrence Olum"
+                },
+                "date-of-birth": "1984-07-10",
+                "nationality": "Kenya",
+                "height": "188",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "98925",
+                "position-regular": "midfielder",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Andrés",
+                  "last": "Flores",
+                  "full": "Andrés Flores"
+                },
+                "date-of-birth": "1990-08-31",
+                "nationality": "El Salvador",
+                "height": "171",
+                "weight": "67"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "77756",
+                "position-regular": "midfielder",
+                "uniform-number": "20",
+                "name": {
+                  "first": "David",
+                  "last": "Guzmán",
+                  "full": "David Guzmán"
+                },
+                "date-of-birth": "1990-02-18",
+                "nationality": "Costa Rica",
+                "height": "178",
+                "weight": "60"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "96622",
+                "position-regular": "midfielder",
+                "uniform-number": "21",
+                "name": {
+                  "first": "Diego",
+                  "last": "Chara",
+                  "full": "Diego Chara"
+                },
+                "date-of-birth": "1986-04-05",
+                "nationality": "Colombia",
+                "height": "173",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "217784",
+                "position-regular": "midfielder",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Cristhian",
+                  "last": "Paredes",
+                  "full": "Cristhian Paredes"
+                },
+                "date-of-birth": "1998-05-18",
+                "nationality": "Paraguay",
+                "height": "183",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "112134",
+                "position-regular": "midfielder",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Jack",
+                  "last": "Barmby",
+                  "full": "Jack Barmby"
+                },
+                "date-of-birth": "1994-11-14",
+                "nationality": "England",
+                "height": "178",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "175077",
+                "position-regular": "midfielder",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Bill Poni",
+                  "last": "Tuiloma",
+                  "full": "Bill Poni Tuiloma"
+                },
+                "date-of-birth": "1995-03-27",
+                "nationality": "New Zealand",
+                "height": "178",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "234420",
+                "position-regular": "midfielder",
+                "uniform-number": "30",
+                "name": {
+                  "first": "Eryk",
+                  "last": "Williamson",
+                  "full": "Eryk Williamson"
+                },
+                "date-of-birth": "1997-06-11",
+                "nationality": "USA",
+                "height": "175",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95186",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Fanendo",
+                  "last": "Adi",
+                  "full": "Fanendo Adi"
+                },
+                "date-of-birth": "1990-10-10",
+                "nationality": "Nigeria",
+                "height": "194",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "179298",
+                "position-regular": "forward",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Andy",
+                  "last": "Polo",
+                  "full": "Andy Polo"
+                },
+                "date-of-birth": "1994-09-29",
+                "nationality": "Peru",
+                "height": "175",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "235290",
+                "position-regular": "forward",
+                "uniform-number": "17",
+                "name": {
+                  "first": "Jeremy",
+                  "last": "Ebobisse",
+                  "full": "Jeremy Ebobisse"
+                },
+                "date-of-birth": "1997-02-14",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "205623",
+                "position-regular": "forward",
+                "uniform-number": "19",
+                "name": {
+                  "first": "Victor",
+                  "last": "Arboleda",
+                  "full": "Victor Arboleda"
+                },
+                "date-of-birth": "1997-01-01",
+                "nationality": "Colombia",
+                "height": "170",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "149675",
+                "position-regular": "forward",
+                "uniform-number": "27",
+                "name": {
+                  "first": "Dairon",
+                  "last": "Asprilla",
+                  "full": "Dairon Asprilla"
+                },
+                "date-of-birth": "1992-05-25",
+                "nationality": "Colombia",
+                "height": "178",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "198572",
+                "position-regular": "forward",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Foster",
+                  "last": "Langsdorf",
+                  "full": "Foster Langsdorf"
+                },
+                "date-of-birth": "1995-12-14",
+                "nationality": "USA",
+                "height": "177",
+                "weight": "74"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "66244",
+                "position-regular": "forward",
+                "uniform-number": "99",
+                "name": {
+                  "first": "Samuel",
+                  "last": "Armenteros",
+                  "full": "Samuel Armenteros"
+                },
+                "date-of-birth": "1990-05-27",
+                "nationality": "Sweden",
+                "height": "181",
+                "weight": "80"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "46208",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "46208",
+                "name": {
+                  "first": "Giovanni",
+                  "last": "Savarese",
+                  "full": "Giovanni Savarese"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "7239",
+              "name": {
+                "first": "Providence Park",
+                "full": "Providence Park",
+                "abbreviation": "Providence Park"
+              },
+              "capacity": "22000"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1616",
+            "name": {
+              "first": "Montreal",
+              "full": "Montreal Impact",
+              "abbreviation": "MTL"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1616"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "109275",
+                "position-regular": "goalkeeper",
+                "uniform-number": "1",
+                "name": {
+                  "first": "Evan",
+                  "last": "Bush",
+                  "full": "Evan Bush"
+                },
+                "date-of-birth": "1986-03-06",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "85"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "102626",
+                "position-regular": "goalkeeper",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Clément",
+                  "last": "Diop",
+                  "full": "Clément Diop"
+                },
+                "date-of-birth": "1993-10-12",
+                "nationality": "Senegal",
+                "height": "185",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "443433",
+                "position-regular": "goalkeeper",
+                "uniform-number": "40",
+                "name": {
+                  "first": "Jason",
+                  "last": "Beaulieu",
+                  "full": "Jason Beaulieu"
+                },
+                "date-of-birth": "1994-02-12",
+                "nationality": "Canada",
+                "height": "193",
+                "weight": "91"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "225053",
+                "position-regular": "goalkeeper",
+                "uniform-number": "41",
+                "name": {
+                  "first": "James",
+                  "last": "Pantemis",
+                  "full": "James Pantemis"
+                },
+                "date-of-birth": "1997-02-21",
+                "nationality": "Canada",
+                "height": "187",
+                "weight": "76"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "179846",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Víctor",
+                  "last": "Cabrera",
+                  "full": "Víctor Cabrera"
+                },
+                "date-of-birth": "1993-02-07",
+                "nationality": "Argentina",
+                "height": "179",
+                "weight": "80"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "177928",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Daniel",
+                  "last": "Lovitz",
+                  "full": "Daniel Lovitz"
+                },
+                "date-of-birth": "1991-08-27",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "89080",
+                "position-regular": "defender",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Rudy",
+                  "last": "Camacho",
+                  "full": "Rudy Camacho"
+                },
+                "date-of-birth": "1991-03-05",
+                "nationality": "France",
+                "height": "185",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "85682",
+                "position-regular": "defender",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Zakaria",
+                  "last": "Diallo",
+                  "full": "Zakaria Diallo"
+                },
+                "date-of-birth": "1986-08-13",
+                "nationality": "France",
+                "height": "195",
+                "weight": "88"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "120760",
+                "position-regular": "defender",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Alejandro",
+                  "last": "Silva",
+                  "full": "Alejandro Silva"
+                },
+                "date-of-birth": "1989-09-04",
+                "nationality": "Uruguay",
+                "height": "178",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "13356",
+                "position-regular": "defender",
+                "uniform-number": "15",
+                "name": {
+                  "first": "Rod",
+                  "last": "Fanni",
+                  "full": "Rod Fanni"
+                },
+                "date-of-birth": "1981-12-06",
+                "nationality": "France",
+                "height": "186",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "131840",
+                "position-regular": "defender",
+                "uniform-number": "18",
+                "name": {
+                  "first": "Chris",
+                  "last": "Duvall",
+                  "full": "Chris Duvall"
+                },
+                "date-of-birth": "1991-09-10",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "62535",
+                "position-regular": "defender",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Jukka",
+                  "last": "Raitala",
+                  "full": "Jukka Raitala"
+                },
+                "date-of-birth": "1988-09-15",
+                "nationality": "Finland",
+                "height": "181",
+                "weight": "76"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "131824",
+                "position-regular": "defender",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Kyle",
+                  "last": "Fisher",
+                  "full": "Kyle Fisher"
+                },
+                "date-of-birth": "1994-06-19",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "83"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "182906",
+                "position-regular": "midfielder",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Samuel",
+                  "last": "Piette",
+                  "full": "Samuel Piette"
+                },
+                "date-of-birth": "1994-11-12",
+                "nationality": "Canada",
+                "height": "171",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "82752",
+                "position-regular": "midfielder",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Saphir",
+                  "last": "Taïder",
+                  "full": "Saphir Taïder"
+                },
+                "date-of-birth": "1992-02-29",
+                "nationality": "Algeria",
+                "height": "180",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "37996",
+                "position-regular": "midfielder",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Ignacio",
+                  "last": "Piatti",
+                  "full": "Ignacio Piatti"
+                },
+                "date-of-birth": "1985-02-04",
+                "nationality": "Argentina",
+                "height": "181",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "234764",
+                "position-regular": "midfielder",
+                "uniform-number": "13",
+                "name": {
+                  "first": "Ken",
+                  "last": "Krolicki",
+                  "full": "Ken Krolicki"
+                },
+                "date-of-birth": "1996-03-15",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "227780",
+                "position-regular": "midfielder",
+                "uniform-number": "17",
+                "name": {
+                  "first": "David",
+                  "last": "Choinière",
+                  "full": "David Choinière"
+                },
+                "date-of-birth": "1997-02-07",
+                "nationality": "Canada",
+                "height": "170",
+                "weight": "65"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "167890",
+                "position-regular": "midfielder",
+                "uniform-number": "24",
+                "name": {
+                  "first": "Michael",
+                  "last": "Petrasso",
+                  "full": "Michael Petrasso"
+                },
+                "date-of-birth": "1995-07-09",
+                "nationality": "Canada",
+                "height": "169",
+                "weight": "64"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "197038",
+                "position-regular": "midfielder",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Louis",
+                  "last": "Béland-Goyette",
+                  "full": "Louis Béland-Goyette"
+                },
+                "date-of-birth": "1995-09-15",
+                "nationality": "Canada",
+                "height": "173",
+                "weight": "64"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "225062",
+                "position-regular": "midfielder",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Shamit",
+                  "last": "Shome",
+                  "full": "Shamit Shome"
+                },
+                "date-of-birth": "1997-09-05",
+                "nationality": "Canada",
+                "height": "175",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "8859",
+                "position-regular": "midfielder",
+                "uniform-number": "33",
+                "name": {
+                  "first": "Marco",
+                  "last": "Donadel",
+                  "full": "Marco Donadel"
+                },
+                "date-of-birth": "1983-04-21",
+                "nationality": "Italy",
+                "height": "179",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41633",
+                "position-regular": "forward",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Dominic",
+                  "last": "Oduro",
+                  "full": "Dominic Oduro"
+                },
+                "date-of-birth": "1985-08-13",
+                "nationality": "Ghana",
+                "height": "183",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "184610",
+                "position-regular": "forward",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Anthony",
+                  "last": "Jackson-Hamel",
+                  "full": "Anthony Jackson-Hamel"
+                },
+                "date-of-birth": "1993-08-03",
+                "nationality": "Canada",
+                "height": "186",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "228605",
+                "position-regular": "forward",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Raheem",
+                  "last": "Edwards",
+                  "full": "Raheem Edwards"
+                },
+                "date-of-birth": "1995-07-17",
+                "nationality": "Canada",
+                "height": "173",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "201053",
+                "position-regular": "forward",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Jeisson",
+                  "last": "Vargas",
+                  "full": "Jeisson Vargas"
+                },
+                "date-of-birth": "1997-09-15",
+                "nationality": "Chile",
+                "height": "170",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "153016",
+                "position-regular": "forward",
+                "uniform-number": "21",
+                "name": {
+                  "first": "Matteo",
+                  "last": "Mancosu",
+                  "full": "Matteo Mancosu"
+                },
+                "date-of-birth": "1984-12-22",
+                "nationality": "Italy",
+                "height": "182",
+                "weight": "75"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "49790",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "49790",
+                "name": {
+                  "first": "Maxence",
+                  "last": "Flachez",
+                  "full": "Maxence Flachez"
+                }
+              }
+            },
+            {
+              "id": "38349",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "38349",
+                "name": {
+                  "first": "Rémi",
+                  "last": "Garde",
+                  "full": "Rémi Garde"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "7092",
+              "name": {
+                "first": "Stade Saputo",
+                "full": "Stade Saputo",
+                "abbreviation": "Stade Saputo"
+              },
+              "capacity": "20341"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1708",
+            "name": {
+              "first": "Vancouver",
+              "full": "Vancouver Whitecaps FC",
+              "abbreviation": "VAN"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1708"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "72775",
+                "position-regular": "goalkeeper",
+                "uniform-number": "1",
+                "name": {
+                  "first": "Stefan",
+                  "last": "Marinovic",
+                  "full": "Stefan Marinovic"
+                },
+                "date-of-birth": "1991-10-07",
+                "nationality": "New Zealand",
+                "height": "192",
+                "weight": "96"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "110620",
+                "position-regular": "goalkeeper",
+                "uniform-number": "12",
+                "name": {
+                  "first": "Brian",
+                  "last": "Rowe",
+                  "full": "Brian Rowe"
+                },
+                "date-of-birth": "1988-11-16",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "112544",
+                "position-regular": "goalkeeper",
+                "uniform-number": "40",
+                "name": {
+                  "first": "Sean",
+                  "last": "Melvin",
+                  "full": "Sean Melvin"
+                },
+                "date-of-birth": "1994-07-09",
+                "nationality": "Canada",
+                "height": "193",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "88812",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Doneil",
+                  "last": "Henry",
+                  "full": "Doneil Henry"
+                },
+                "date-of-birth": "1993-04-20",
+                "nationality": "Canada",
+                "height": "188",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "50122",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Sean",
+                  "last": "Franklin",
+                  "full": "Sean Franklin"
+                },
+                "date-of-birth": "1985-03-21",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "193906",
+                "position-regular": "defender",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Kendall",
+                  "last": "Waston",
+                  "full": "Kendall Waston"
+                },
+                "date-of-birth": "1988-01-01",
+                "nationality": "Costa Rica",
+                "height": "196",
+                "weight": "89"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "53526",
+                "position-regular": "defender",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Efraín",
+                  "last": "Juárez",
+                  "full": "Efraín Juárez"
+                },
+                "date-of-birth": "1988-02-22",
+                "nationality": "Mexico",
+                "height": "176",
+                "weight": "62"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "40345",
+                "position-regular": "defender",
+                "uniform-number": "14",
+                "name": {
+                  "first": "David",
+                  "last": "Edgar",
+                  "full": "David Edgar"
+                },
+                "date-of-birth": "1987-05-19",
+                "nationality": "Canada",
+                "height": "188",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "39226",
+                "position-regular": "defender",
+                "uniform-number": "17",
+                "name": {
+                  "first": "Marcel",
+                  "last": "de Jong",
+                  "full": "Marcel de Jong"
+                },
+                "date-of-birth": "1986-10-15",
+                "nationality": "Canada",
+                "height": "174",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "201031",
+                "position-regular": "defender",
+                "uniform-number": "18",
+                "name": {
+                  "first": "José",
+                  "last": "Aja",
+                  "full": "José Aja"
+                },
+                "date-of-birth": "1993-05-10",
+                "nationality": "Uruguay",
+                "height": "193",
+                "weight": "86"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "50067",
+                "position-regular": "defender",
+                "uniform-number": "20",
+                "name": {
+                  "first": "Dane Brekken",
+                  "last": "Shea",
+                  "full": "Brek Shea"
+                },
+                "date-of-birth": "1990-02-28",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "78019",
+                "position-regular": "defender",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Aaron",
+                  "last": "Maund",
+                  "full": "Aaron Maund"
+                },
+                "date-of-birth": "1990-09-19",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "245005",
+                "position-regular": "defender",
+                "uniform-number": "28",
+                "name": {
+                  "first": "Jakob",
+                  "last": "Nerwinski",
+                  "full": "Jakob Nerwinski"
+                },
+                "date-of-birth": "1994-10-17",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "437690",
+                "position-regular": "midfielder",
+                "uniform-number": "Unknown",
+                "name": {
+                  "first": "Simon",
+                  "last": "Colyn",
+                  "full": "Simon Colyn"
+                },
+                "date-of-birth": "2002-03-23",
+                "nationality": "Canada",
+                "height": "Unknown",
+                "weight": "Unknown"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "56812",
+                "position-regular": "midfielder",
+                "uniform-number": "8",
+                "name": {
+                  "first": "Felipe",
+                  "last": "Martins Campanholi",
+                  "full": "Felipe"
+                },
+                "date-of-birth": "1990-09-30",
+                "nationality": "Brazil",
+                "height": "171",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "87984",
+                "position-regular": "midfielder",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Nicolás",
+                  "last": "Mezquida",
+                  "full": "Nicolás Mezquida"
+                },
+                "date-of-birth": "1992-01-21",
+                "nationality": "Uruguay",
+                "height": "171",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "152577",
+                "position-regular": "midfielder",
+                "uniform-number": "13",
+                "name": {
+                  "first": "Cristian",
+                  "last": "Techera",
+                  "full": "Cristian Techera"
+                },
+                "date-of-birth": "1992-05-31",
+                "nationality": "Uruguay",
+                "height": "158",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "151953",
+                "position-regular": "midfielder",
+                "uniform-number": "19",
+                "name": {
+                  "first": "Erik",
+                  "last": "Hurtado",
+                  "full": "Erik Hurtado"
+                },
+                "date-of-birth": "1990-11-15",
+                "nationality": "USA",
+                "height": "178",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "247683",
+                "position-regular": "midfielder",
+                "uniform-number": "24",
+                "name": {
+                  "first": "David",
+                  "last": "Norman",
+                  "full": "David Norman"
+                },
+                "date-of-birth": "1998-05-31",
+                "nationality": "Canada",
+                "height": "188",
+                "weight": "82"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "156787",
+                "position-regular": "midfielder",
+                "uniform-number": "29",
+                "name": {
+                  "first": "Yordy",
+                  "last": "Reyna",
+                  "full": "Yordy Reyna"
+                },
+                "date-of-birth": "1993-09-17",
+                "nationality": "Peru",
+                "height": "169",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "205404",
+                "position-regular": "midfielder",
+                "uniform-number": "35",
+                "name": {
+                  "first": "Deybi",
+                  "last": "Flores",
+                  "full": "Deybi Flores"
+                },
+                "date-of-birth": "1996-06-16",
+                "nationality": "Honduras",
+                "height": "183",
+                "weight": "68"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "231573",
+                "position-regular": "midfielder",
+                "uniform-number": "46",
+                "name": {
+                  "first": "Brett",
+                  "last": "Levis",
+                  "full": "Brett Levis"
+                },
+                "date-of-birth": "1993-03-29",
+                "nationality": "Canada",
+                "height": "180",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "150711",
+                "position-regular": "midfielder",
+                "uniform-number": "66",
+                "name": {
+                  "first": "Aly",
+                  "last": "Ghazal",
+                  "full": "Aly Ghazal"
+                },
+                "date-of-birth": "1992-02-01",
+                "nationality": "Egypt",
+                "height": "180",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "225059",
+                "position-regular": "midfielder",
+                "uniform-number": "67",
+                "name": {
+                  "first": "Alphonso",
+                  "last": "Davies",
+                  "full": "Alphonso Davies"
+                },
+                "date-of-birth": "2000-11-02",
+                "nationality": "Canada",
+                "height": "178",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "49438",
+                "position-regular": "midfielder",
+                "uniform-number": "77",
+                "name": {
+                  "first": "Jordon",
+                  "last": "Mutch",
+                  "full": "Jordon Mutch"
+                },
+                "date-of-birth": "1991-12-02",
+                "nationality": "England",
+                "height": "184",
+                "weight": "81"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "102921",
+                "position-regular": "forward",
+                "uniform-number": "7",
+                "name": {
+                  "first": "Bernie",
+                  "last": "Ibini-Isei",
+                  "full": "Bernie Ibini-Isei"
+                },
+                "date-of-birth": "1992-09-12",
+                "nationality": "Australia",
+                "height": "187",
+                "weight": "88"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "204568",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Anthony",
+                  "last": "Blondell",
+                  "full": "Anthony Blondell"
+                },
+                "date-of-birth": "1994-05-17",
+                "nationality": "Venezuela",
+                "height": "186",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41493",
+                "position-regular": "forward",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Kei",
+                  "last": "Kamara",
+                  "full": "Kei Kamara"
+                },
+                "date-of-birth": "1984-09-01",
+                "nationality": "Sierra Leone",
+                "height": "191",
+                "weight": "85"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "92437",
+                "position-regular": "forward",
+                "uniform-number": "31",
+                "name": {
+                  "first": "Russell",
+                  "last": "Teibert",
+                  "full": "Russell Teibert"
+                },
+                "date-of-birth": "1992-12-22",
+                "nationality": "Canada",
+                "height": "173",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "244120",
+                "position-regular": "forward",
+                "uniform-number": "45",
+                "name": {
+                  "first": "Myer",
+                  "last": "Bevan",
+                  "full": "Myer Bevan"
+                },
+                "date-of-birth": "1997-04-23",
+                "nationality": "New Zealand",
+                "height": "183",
+                "weight": "77"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "43747",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "43747",
+                "name": {
+                  "first": "Carl",
+                  "last": "Robinson",
+                  "full": "Carl Robinson"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "7740",
+              "name": {
+                "first": "BC Place",
+                "full": "BC Place",
+                "abbreviation": "BC Place"
+              },
+              "capacity": "22120"
+            }
+          }
+        }
+      },
+      {
+        "statistic-metadata": {
+          "team-coverage": "single-team",
+          "date-coverage-type": "season-full"
+        },
+        "team": {
+          "team-metadata": {
+            "team-key": "1897",
+            "name": {
+              "first": "Houston Dynamo",
+              "full": "Houston Dynamo",
+              "abbreviation": "HOU"
+            },
+            "sports-content-codes": [
+              {
+                "sports-content-code": [
+                  {
+                    "code-name": "Season 2018/2019",
+                    "code-key": "2018",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "98",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "US Major League Soccer",
+                    "code-key": "US_ML",
+                    "code-type": "league"
+                  }
+                ]
+              }
+            ],
+            "sports-property": [
+              {
+                "formal-name": "logo",
+                "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1897"
+              }
+            ]
+          },
+          "player": [
+            {
+              "player-metadata": {
+                "player-key": "41679",
+                "position-regular": "goalkeeper",
+                "uniform-number": "18",
+                "name": {
+                  "first": "Chris",
+                  "last": "Seitz",
+                  "full": "Chris Seitz"
+                },
+                "date-of-birth": "1987-03-12",
+                "nationality": "USA",
+                "height": "194",
+                "weight": "108"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "95309",
+                "position-regular": "goalkeeper",
+                "uniform-number": "23",
+                "name": {
+                  "first": "Joe",
+                  "last": "Willis",
+                  "full": "Joe Willis"
+                },
+                "date-of-birth": "1988-08-10",
+                "nationality": "USA",
+                "height": "196",
+                "weight": "87"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "442466",
+                "position-regular": "goalkeeper",
+                "uniform-number": "26",
+                "name": {
+                  "first": "Michael",
+                  "last": "Nelson",
+                  "full": "Michael Nelson"
+                },
+                "date-of-birth": "1995-02-10",
+                "nationality": "USA",
+                "height": "193",
+                "weight": "81"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "196287",
+                "position-regular": "defender",
+                "uniform-number": "2",
+                "name": {
+                  "first": "Alejandro",
+                  "last": "Fuenmayor",
+                  "full": "Alejandro Fuenmayor"
+                },
+                "date-of-birth": "1996-08-29",
+                "nationality": "Venezuela",
+                "height": "180",
+                "weight": "70"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "99108",
+                "position-regular": "defender",
+                "uniform-number": "3",
+                "name": {
+                  "first": "Adolfo",
+                  "last": "Machado",
+                  "full": "Adolfo Machado"
+                },
+                "date-of-birth": "1985-02-14",
+                "nationality": "Panama",
+                "height": "182",
+                "weight": "72"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "16854",
+                "position-regular": "defender",
+                "uniform-number": "4",
+                "name": {
+                  "first": "Philippe",
+                  "last": "Senderos",
+                  "full": "Philippe Senderos"
+                },
+                "date-of-birth": "1985-02-14",
+                "nationality": "Switzerland",
+                "height": "190",
+                "weight": "86"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "12875",
+                "position-regular": "defender",
+                "uniform-number": "7",
+                "name": {
+                  "first": "DaMarcus",
+                  "last": "Beasley",
+                  "full": "DaMarcus Beasley"
+                },
+                "date-of-birth": "1982-05-24",
+                "nationality": "USA",
+                "height": "173",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "151950",
+                "position-regular": "defender",
+                "uniform-number": "15",
+                "name": {
+                  "first": "Dylan",
+                  "last": "Remick",
+                  "full": "Dylan Remick"
+                },
+                "date-of-birth": "1991-05-19",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "111536",
+                "position-regular": "defender",
+                "uniform-number": "16",
+                "name": {
+                  "first": "Kevin",
+                  "last": "Garcia",
+                  "full": "Kevin Garcia"
+                },
+                "date-of-birth": "1990-08-21",
+                "nationality": "USA",
+                "height": "188",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "60214",
+                "position-regular": "defender",
+                "uniform-number": "20",
+                "name": {
+                  "first": "A.J.",
+                  "last": "DeLaGarza",
+                  "full": "A.J. DeLaGarza"
+                },
+                "date-of-birth": "1987-11-04",
+                "nationality": "USA",
+                "height": "176",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "82519",
+                "position-regular": "defender",
+                "uniform-number": "22",
+                "name": {
+                  "first": "Jose Leonardo",
+                  "last": "Ribeiro da Silva",
+                  "full": "Leonardo"
+                },
+                "date-of-birth": "1988-02-05",
+                "nationality": "Brazil",
+                "height": "188",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "149669",
+                "position-regular": "midfielder",
+                "uniform-number": "5",
+                "name": {
+                  "first": "Juan",
+                  "last": "Cabezas",
+                  "full": "Juan Cabezas"
+                },
+                "date-of-birth": "1991-02-27",
+                "nationality": "Colombia",
+                "height": "183",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "82518",
+                "position-regular": "midfielder",
+                "uniform-number": "6",
+                "name": {
+                  "first": "Eric",
+                  "last": "Alexander",
+                  "full": "Eric Alexander"
+                },
+                "date-of-birth": "1988-04-14",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "198884",
+                "position-regular": "midfielder",
+                "uniform-number": "8",
+                "name": {
+                  "first": "José",
+                  "last": "Rodríguez",
+                  "full": "Memo Rodríguez"
+                },
+                "date-of-birth": "1995-12-27",
+                "nationality": "USA",
+                "height": "173",
+                "weight": "66"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "153399",
+                "position-regular": "midfielder",
+                "uniform-number": "10",
+                "name": {
+                  "first": "Tomás",
+                  "last": "Martínez",
+                  "full": "Tomás Martínez"
+                },
+                "date-of-birth": "1995-03-07",
+                "nationality": "Argentina",
+                "height": "172",
+                "weight": "61"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "110633",
+                "position-regular": "midfielder",
+                "uniform-number": "11",
+                "name": {
+                  "first": "Andrew",
+                  "last": "Wenger",
+                  "full": "Andrew Wenger"
+                },
+                "date-of-birth": "1990-12-25",
+                "nationality": "USA",
+                "height": "183",
+                "weight": "84"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "154528",
+                "position-regular": "midfielder",
+                "uniform-number": "14",
+                "name": {
+                  "first": "Charlie",
+                  "last": "Ward",
+                  "full": "Charlie Ward"
+                },
+                "date-of-birth": "1995-02-19",
+                "nationality": "England",
+                "height": "173",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "178297",
+                "position-regular": "midfielder",
+                "uniform-number": "21",
+                "name": {
+                  "first": "George",
+                  "last": "Malki",
+                  "full": "George Malki"
+                },
+                "date-of-birth": "1992-04-21",
+                "nationality": "USA",
+                "height": "180",
+                "weight": "75"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "117549",
+                "position-regular": "midfielder",
+                "uniform-number": "24",
+                "name": {
+                  "first": "Darwin",
+                  "last": "Cerén",
+                  "full": "Darwin Cerén"
+                },
+                "date-of-birth": "1989-12-31",
+                "nationality": "El Salvador",
+                "height": "178",
+                "weight": "73"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "126206",
+                "position-regular": "midfielder",
+                "uniform-number": "25",
+                "name": {
+                  "first": "Eric",
+                  "last": "Bird",
+                  "full": "Eric Bird"
+                },
+                "date-of-birth": "1993-04-08",
+                "nationality": "USA",
+                "height": "180",
+                "weight": "79"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "55209",
+                "position-regular": "midfielder",
+                "uniform-number": "27",
+                "name": {
+                  "first": "Óscar Boniek",
+                  "last": "García",
+                  "full": "Óscar Boniek García"
+                },
+                "date-of-birth": "1984-09-04",
+                "nationality": "Honduras",
+                "height": "176",
+                "weight": "69"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "131833",
+                "position-regular": "midfielder",
+                "uniform-number": "33",
+                "name": {
+                  "first": "Jared",
+                  "last": "Watts",
+                  "full": "Jared Watts"
+                },
+                "date-of-birth": "1992-02-03",
+                "nationality": "USA",
+                "height": "186",
+                "weight": "71"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "177658",
+                "position-regular": "forward",
+                "uniform-number": "9",
+                "name": {
+                  "first": "Mauro",
+                  "last": "Manotas",
+                  "full": "Mauro Manotas"
+                },
+                "date-of-birth": "1995-07-15",
+                "nationality": "Colombia",
+                "height": "178",
+                "weight": "65"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "41625",
+                "position-regular": "forward",
+                "uniform-number": "12",
+                "name": {
+                  "first": "Arturo",
+                  "last": "Álvarez",
+                  "full": "Arturo Álvarez"
+                },
+                "date-of-birth": "1985-06-28",
+                "nationality": "El Salvador",
+                "height": "176",
+                "weight": "78"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "173145",
+                "position-regular": "forward",
+                "uniform-number": "17",
+                "name": {
+                  "first": "Alberth",
+                  "last": "Elis",
+                  "full": "Alberth Elis"
+                },
+                "date-of-birth": "1996-02-12",
+                "nationality": "Honduras",
+                "height": "183",
+                "weight": "77"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "442472",
+                "position-regular": "forward",
+                "uniform-number": "19",
+                "name": {
+                  "first": "Mac",
+                  "last": "Steeves",
+                  "full": "Mac Steeves"
+                },
+                "date-of-birth": "1994-07-31",
+                "nationality": "USA",
+                "height": "191",
+                "weight": "93"
+              }
+            },
+            {
+              "player-metadata": {
+                "player-key": "119575",
+                "position-regular": "forward",
+                "uniform-number": "31",
+                "name": {
+                  "first": "Romell",
+                  "last": "Quioto",
+                  "full": "Romell Quioto"
+                },
+                "date-of-birth": "1991-08-09",
+                "nationality": "Honduras",
+                "height": "178",
+                "weight": "69"
+              }
+            }
+          ],
+          "associate": [
+            {
+              "id": "43815",
+              "associate-metadata": {
+                "position": "Manager",
+                "associate-key": "43815",
+                "name": {
+                  "first": "Wilmer",
+                  "last": "Cabrera",
+                  "full": "Wilmer Cabrera"
+                }
+              }
+            },
+            {
+              "id": "47723",
+              "associate-metadata": {
+                "position": "Assistant Manager",
+                "associate-key": "47723",
+                "name": {
+                  "first": "Michael",
+                  "last": "Dellorusso",
+                  "full": "Michael Dellorusso"
+                }
+              }
+            }
+          ],
+          "site": {
+            "site-metadata": {
+              "site-key": "7905",
+              "name": {
+                "first": "BBVA Compass Stadium",
+                "full": "BBVA Compass Stadium",
+                "abbreviation": "BBVA Compass Stadium"
+              },
+              "capacity": "22000"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

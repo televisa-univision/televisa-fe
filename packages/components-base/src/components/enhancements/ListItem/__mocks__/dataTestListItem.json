@@ -1,0 +1,764 @@
+{
+  "data": {
+    "body": [
+      {
+        "type": "enhancement",
+        "enhancementData": {},
+        "objectData": {
+          "title": "FC Barcelona - 2877 puntos",
+          "description": "El Fútbol Club Barcelona, conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903",
+          "authorComments": null,
+          "price": "Precio estimado 2000 millones $",
+          "type": "listitem",
+          "sponsor": {
+            "name": "Barbie Sponsor logo",
+            "leadText": null,
+            "link": null,
+            "image": {
+              "type": "image",
+              "uid": "00000178-fb20-da74-adfe-ff671a1f0000",
+              "title": "Barbie sponsor logo",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/0e/61/70ec40ed4cb3b7b61810e91b3a4a/bb-ycb20-lockup-primary.png",
+                  "width": 1521,
+                  "height": 783
+                }
+              }
+            }
+          },
+          "media": {
+            "type": "image",
+            "uid": "00000175-15a0-de40-a9f7-d7a3cc3d0000",
+            "title": "image.png",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/30/ac/01a0ea464b3591711bb07cd474cd/image.png",
+                "width": 1281,
+                "height": 720
+              }
+            }
+          },
+          "eCommerceCtas": [
+            {
+              "title": "Mas informacion",
+              "link": {
+                "href": "https://www.youtube.com/",
+                "target": "_blank",
+                "text": "Youtube",
+                "uid": "0000017b-74a4-d138-af7b-f7fe88200000"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "enhancement",
+        "enhancementData": {},
+        "objectData": {
+          "title": "Real Madrid - 2782 puntos",
+          "description": "El Real Madrid Club de Fútbol, más conocido simplemente como Real Madrid, es una entidad polideportiva con sede en Madrid, España.",
+          "authorComments": null,
+          "price": "$400000",
+          "type": "listitem",
+          "sponsor": null,
+          "media": {
+            "type": "video",
+            "uid": "00000179-1504-d237-af7d-55279dc50000",
+            "uri": "https://uat.tudn.com/futbol/se-va-del-barca-el-psg-ya-presento-a-messi-una-propuesta-inalcanzable-video",
+            "vertical": "Deportes",
+            "parent": {
+              "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri": "https://uat.tudn.com/futbol",
+              "name": "fútbol",
+              "title": "Fútbol"
+            },
+            "title": "¿El adiós? PSG ya presentó a Messi propuesta \"inalcanzable\"",
+            "description": "Le preparó una oferta de dos temporadas más una tercera opcional, según ha desvelado TNT Sports Brasil.",
+            "image": {
+              "type": "image",
+              "uid": "00000179-1504-de2e-a5f9-77d4b1170000",
+              "title": "71e818a976bf43a8bc8e6ac4c70b41db",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/1c/14/7b12ccaa45fdbd38a64b20dc8712/71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/8bb18d7/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2Fresizes%2F500%2F71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/3558d0a/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2Fresizes%2F1500%2F71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/480373b/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2Fresizes%2F500%2F71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/b191550/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2Fresizes%2F500%2F71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/e938c7c/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2Fresizes%2F1500%2F71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/ac74d41/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2Fresizes%2F1500%2F71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 1440,
+                  "height": 810
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/086826a/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2Fresizes%2F500%2F71e818a976bf43a8bc8e6ac4c70b41db",
+                  "width": 30,
+                  "height": 17
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2021-08-24T10:10:13-04:00",
+            "publishDate": "2021-04-27T16:23:00-04:00",
+            "expirationDate": "2031-04-27T16:23:00-04:00",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/i1Ei102Ifk9",
+                  "isFeedDialog": false,
+                  "title": "¿El adiós? PSG ya presentó a Messi propuesta \"inalcanzable\"",
+                  "description": "Le preparó una oferta de dos temporadas más una tercera opcional, según ha desvelado TNT Sports Brasil.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/1c/14/7b12ccaa45fdbd38a64b20dc8712/71e818a976bf43a8bc8e6ac4c70b41db",
+                  "appId": "1007833782615811"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/i1Ei102Ifk9",
+                  "title": "¿El adiós? PSG ya presentó a Messi propuesta \"inalcanzable\"",
+                  "via": "TUDNUSA"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/i1Ei102Ifk9",
+                  "message": "¿El adiós? PSG ya presentó a Messi propuesta \"inalcanzable\""
+                },
+                "mail": {
+                  "subject": "¿El adiós? PSG ya presentó a Messi propuesta \"inalcanzable\"",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿El adiós? PSG ya presentó a Messi propuesta \"inalcanzable\"\n\nEncuéntralo en este enlace:http://uni.vi/i1Ei102Ifk9\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "hierarchy": [
+              {
+                "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri": "https://uat.tudn.com",
+                "name": "deportes",
+                "title": "Deportes"
+              },
+              {
+                "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri": "https://uat.tudn.com/futbol",
+                "name": "futbol",
+                "title": "Fútbol"
+              }
+            ],
+            "featuredTags": [
+              {
+                "type": "soccerperson",
+                "uid": "00000165-77e7-dc3a-af65-7fe709630000",
+                "uri": "https://uat.tudn.com/futbol/jugadores/vicente-fernandez-soccer",
+                "vertical": null,
+                "parent": null,
+                "title": "Vicente Fernández Soccer",
+                "description": "Vicente Fernández Soccer",
+                "image": {
+                  "type": "image",
+                  "uid": "00000179-c712-d65a-ad7d-e7b3e7650000",
+                  "title": "TUDN_FallbackImage.png",
+                  "caption": "TUDN Fallback Image",
+                  "credit": "TUDN Fallback Image",
+                  "renditions": {
+                    "original": {
+                      "href": "https://uvn-brightspot-lower.s3.amazonaws.com/c2/25/135838d14704927d6829985313cc/tudn-fallbackimage.png",
+                      "width": 1000,
+                      "height": 562
+                    }
+                  }
+                },
+                "authors": [],
+                "cardLabel": null,
+                "updateDate": "2021-01-29T12:36:09-05:00",
+                "publishDate": "2021-01-29T12:36:09-05:00",
+                "expirationDate": null,
+                "sharing": {
+                  "options": {
+                    "facebook": {
+                      "url": "https://uat.x.univision.com/deportes/futbol/jugadores/vicente-fernandez-soccer",
+                      "isFeedDialog": false,
+                      "title": "Vicente Fernández Soccer",
+                      "description": null,
+                      "imageUrl": null,
+                      "appId": "1007833782615811"
+                    },
+                    "twitter": {
+                      "url": "https://uat.x.univision.com/deportes/futbol/jugadores/vicente-fernandez-soccer",
+                      "title": "Vicente Fernández Soccer",
+                      "via": "Univision"
+                    },
+                    "whatsapp": {
+                      "url": "https://uat.x.univision.com/deportes/futbol/jugadores/vicente-fernandez-soccer",
+                      "message": "Vicente Fernández Soccer"
+                    },
+                    "mail": {
+                      "subject": "Vicente Fernández Soccer",
+                      "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nVicente Fernández Soccer\n\nEncuéntralo en este enlace:https://uat.x.univision.com/deportes/futbol/jugadores/vicente-fernandez-soccer\n\nVisítanos https://www.univision.com"
+                    }
+                  }
+                },
+                "hierarchy": [],
+                "featuredTags": [],
+                "disableReactions": false,
+                "personnelId": 463915,
+                "socialNetworks": {
+                  "facebookUrl": null,
+                  "googleUrl": null,
+                  "instagramUrl": null,
+                  "linkedinUrl": null,
+                  "pinterestUrl": null,
+                  "snapchatUrl": null,
+                  "twitterUrl": null,
+                  "youTubeUrl": null
+                },
+                "teamSeason": null,
+                "highlightedCompetitionSeason": [],
+                "fullBio": []
+              },
+              {
+                "type": "soccerperson",
+                "uid": "0000014c-4838-d0b2-a3cf-49bb73bb0000",
+                "uri": "https://uat.tudn.com/futbol/jugadores/lionel-messi",
+                "vertical": null,
+                "parent": null,
+                "title": "Lionel Messi",
+                "description": "Lionel Messi",
+                "image": {
+                  "type": "image",
+                  "uid": "00000179-c712-d65a-ad7d-e7b3e7650000",
+                  "title": "TUDN_FallbackImage.png",
+                  "caption": "TUDN Fallback Image",
+                  "credit": "TUDN Fallback Image",
+                  "renditions": {
+                    "original": {
+                      "href": "https://uvn-brightspot-lower.s3.amazonaws.com/c2/25/135838d14704927d6829985313cc/tudn-fallbackimage.png",
+                      "width": 1000,
+                      "height": 562
+                    }
+                  }
+                },
+                "authors": [],
+                "cardLabel": null,
+                "updateDate": "2021-08-03T20:00:39-04:00",
+                "publishDate": "2021-04-22T12:39:22-04:00",
+                "expirationDate": "3000-01-01T00:00:00-05:00",
+                "sharing": {
+                  "options": {
+                    "facebook": {
+                      "url": "https://uat.x.univision.com/deportes/futbol/jugadores/lionel-messi",
+                      "isFeedDialog": false,
+                      "title": "Lionel Messi",
+                      "description": null,
+                      "imageUrl": null,
+                      "appId": "1007833782615811"
+                    },
+                    "twitter": {
+                      "url": "https://uat.x.univision.com/deportes/futbol/jugadores/lionel-messi",
+                      "title": "Lionel Messi",
+                      "via": "Univision"
+                    },
+                    "whatsapp": {
+                      "url": "https://uat.x.univision.com/deportes/futbol/jugadores/lionel-messi",
+                      "message": "Lionel Messi"
+                    },
+                    "mail": {
+                      "subject": "Lionel Messi",
+                      "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLionel Messi\n\nEncuéntralo en este enlace:https://uat.x.univision.com/deportes/futbol/jugadores/lionel-messi\n\nVisítanos https://www.univision.com"
+                    }
+                  }
+                },
+                "hierarchy": [],
+                "featuredTags": [],
+                "disableReactions": false,
+                "personnelId": 19054,
+                "socialNetworks": {
+                  "facebookUrl": null,
+                  "googleUrl": null,
+                  "instagramUrl": null,
+                  "linkedinUrl": null,
+                  "pinterestUrl": null,
+                  "snapchatUrl": null,
+                  "twitterUrl": null,
+                  "youTubeUrl": null
+                },
+                "teamSeason": {
+                  "type": "teamseason",
+                  "uid": "0000016f-1441-d20d-abef-5e53e5c60000",
+                  "uri": "https://uat.tudn.com/futbol/copa-mundial/argentina",
+                  "vertical": null,
+                  "parent": null,
+                  "title": "Argentina | CONMEBOL Mundial Eliminatorias | 112022",
+                  "description": "Argentina | CONMEBOL Mundial Eliminatorias | 112022",
+                  "image": {
+                    "type": "image",
+                    "uid": "00000179-c712-d65a-ad7d-e7b3e7650000",
+                    "title": "TUDN_FallbackImage.png",
+                    "caption": "TUDN Fallback Image",
+                    "credit": "TUDN Fallback Image",
+                    "renditions": {
+                      "original": {
+                        "href": "https://uvn-brightspot-lower.s3.amazonaws.com/c2/25/135838d14704927d6829985313cc/tudn-fallbackimage.png",
+                        "width": 1000,
+                        "height": 562
+                      }
+                    }
+                  },
+                  "authors": [],
+                  "cardLabel": null,
+                  "updateDate": "2019-12-17T09:27:39-05:00",
+                  "publishDate": "2019-12-17T09:27:39-05:00",
+                  "expirationDate": null,
+                  "sharing": {
+                    "options": {
+                      "facebook": {
+                        "url": null,
+                        "isFeedDialog": false,
+                        "title": "Argentina | CONMEBOL Mundial Eliminatorias | 112022",
+                        "description": null,
+                        "imageUrl": null,
+                        "appId": "1007833782615811"
+                      },
+                      "twitter": {
+                        "url": null,
+                        "title": "Argentina | CONMEBOL Mundial Eliminatorias | 112022",
+                        "via": "Univision"
+                      },
+                      "whatsapp": {
+                        "url": null,
+                        "message": "Argentina | CONMEBOL Mundial Eliminatorias | 112022"
+                      },
+                      "mail": {
+                        "subject": "Argentina | CONMEBOL Mundial Eliminatorias | 112022",
+                        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nArgentina | CONMEBOL Mundial Eliminatorias | 112022\n\nEncuéntralo en este enlace:null\n\nVisítanos https://www.univision.com"
+                      }
+                    }
+                  },
+                  "hierarchy": [],
+                  "featuredTags": [],
+                  "disableReactions": false,
+                  "teamId": 632,
+                  "teamName": "Argentina",
+                  "teamAbbreviatedName": "ARG",
+                  "teamLogo": {
+                    "type": "image",
+                    "uid": "0000014d-086b-ddc6-a5dd-19ffc8550000",
+                    "title": "21_eb",
+                    "caption": null,
+                    "credit": null,
+                    "renditions": {
+                      "original": {
+                        "href": "https://uvn-brightspot.s3.amazonaws.com/f4/de/c08837834fb48d5d730a7dce370c/21-eb.png",
+                        "width": 100,
+                        "height": 100
+                      }
+                    }
+                  },
+                  "soccerCompetitionSeason": {
+                    "seasonId": "112022",
+                    "seasonName": "CONMEBOL Mundial Eliminatorias | 112022",
+                    "soccerCompetition": {
+                      "id": "342",
+                      "name": "CONMEBOL Mundial Eliminatorias",
+                      "league": {
+                        "type": "league",
+                        "uid": "00000152-a438-d065-add7-f6bda1d80000",
+                        "uri": "https://uat.tudn.com/futbol/conmebol-eliminatorias",
+                        "id": "conmebol-mundial-eliminatorias",
+                        "image": {
+                          "type": "image",
+                          "uid": "00000179-c712-d65a-ad7d-e7b3e7650000",
+                          "title": "TUDN_FallbackImage.png",
+                          "caption": "TUDN Fallback Image",
+                          "credit": "TUDN Fallback Image",
+                          "renditions": {
+                            "original": {
+                              "href": "https://uvn-brightspot-lower.s3.amazonaws.com/c2/25/135838d14704927d6829985313cc/tudn-fallbackimage.png",
+                              "width": 1000,
+                              "height": 562
+                            },
+                            "16x9-med": {
+                              "href": "https://uat2.x.univision.com/dims4/default/8527012/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                              "width": 400,
+                              "height": 225
+                            },
+                            "16x9": {
+                              "href": "https://uat2.x.univision.com/dims4/default/440025e/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Ftudn-fallbackimage.png",
+                              "width": 1240,
+                              "height": 698
+                            },
+                            "16x9-mobile": {
+                              "href": "https://uat2.x.univision.com/dims4/default/8e4d10a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                              "width": 480,
+                              "height": 270
+                            },
+                            "16x9-sm": {
+                              "href": "https://uat2.x.univision.com/dims4/default/6b31964/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                              "width": 246,
+                              "height": 138
+                            },
+                            "16x9-tablet": {
+                              "href": "https://uat2.x.univision.com/dims4/default/d62ca67/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Ftudn-fallbackimage.png",
+                              "width": 1024,
+                              "height": 576
+                            },
+                            "16x9-extended": {
+                              "href": "https://uat2.x.univision.com/dims4/default/b745c23/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Ftudn-fallbackimage.png",
+                              "width": 1440,
+                              "height": 810
+                            },
+                            "16x9-loading": {
+                              "href": "https://uat2.x.univision.com/dims4/default/8c9cd8f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fc2%2F25%2F135838d14704927d6829985313cc%2Fresizes%2F500%2Ftudn-fallbackimage.png",
+                              "width": 30,
+                              "height": 17
+                            }
+                          }
+                        },
+                        "logo": {
+                          "type": null,
+                          "uid": null,
+                          "title": null,
+                          "caption": null,
+                          "credit": null,
+                          "renditions": null
+                        },
+                        "abbreviation": "CONMEBOL Mundial Eliminatorias",
+                        "includesVideo": false,
+                        "coverage": "Classic",
+                        "activeSoccerCompetitionURL": null,
+                        "hierarchy": [
+                          {
+                            "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                            "uri": "https://uat.tudn.com",
+                            "name": "deportes",
+                            "title": "Deportes"
+                          },
+                          {
+                            "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                            "uri": "https://uat.tudn.com/futbol",
+                            "name": "futbol",
+                            "title": "Fútbol"
+                          },
+                          {
+                            "uuid": "00000152-a438-d065-add7-f6bda1d80000",
+                            "uri": "https://uat.tudn.com/futbol/conmebol-eliminatorias",
+                            "name": "conmebol mundial eliminatorias",
+                            "title": "CONMEBOL Mundial Eliminatorias"
+                          }
+                        ],
+                        "adPackage": null
+                      },
+                      "hasBracketsSupport": false
+                    }
+                  }
+                },
+                "highlightedCompetitionSeason": [],
+                "fullBio": []
+              },
+              {
+                "type": "tagnode",
+                "uid": "0000014b-a9eb-de67-a74f-b9fb7af00001",
+                "uri": "https://uat.tudn.com/temas/futbol",
+                "vertical": null,
+                "parent": null,
+                "title": "Fútbol",
+                "description": "Fútbol",
+                "image": {
+                  "type": "image",
+                  "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+                  "title": "Univision Fallback Image",
+                  "caption": null,
+                  "credit": null,
+                  "renditions": {
+                    "original": {
+                      "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                      "width": 1200,
+                      "height": 630
+                    }
+                  }
+                },
+                "authors": [],
+                "cardLabel": null,
+                "updateDate": "2018-06-16T17:11:36-04:00",
+                "publishDate": "2015-02-22T18:22:59-05:00",
+                "expirationDate": "3000-01-01T00:00:00-05:00",
+                "sharing": {
+                  "options": {
+                    "facebook": {
+                      "url": "https://uat.x.univision.com/deportes/temas/futbol",
+                      "isFeedDialog": false,
+                      "title": "Fútbol",
+                      "description": null,
+                      "imageUrl": null,
+                      "appId": "1007833782615811"
+                    },
+                    "twitter": {
+                      "url": "https://uat.x.univision.com/deportes/temas/futbol",
+                      "title": "Fútbol",
+                      "via": "Univision"
+                    },
+                    "whatsapp": {
+                      "url": "https://uat.x.univision.com/deportes/temas/futbol",
+                      "message": "Fútbol"
+                    },
+                    "mail": {
+                      "subject": "Fútbol",
+                      "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFútbol\n\nEncuéntralo en este enlace:https://uat.x.univision.com/deportes/temas/futbol\n\nVisítanos https://www.univision.com"
+                    }
+                  }
+                },
+                "hierarchy": [],
+                "featuredTags": [],
+                "disableReactions": false
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "4032345",
+            "duration": 62,
+            "durationString": "1:02",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision y Mother Jones",
+            "previewUrl": null,
+            "show": null,
+            "categories": [
+              "Futbol",
+              "Deportes"
+            ],
+            "dateCreated": "2021-04-27T16:25:07-04:00",
+            "airDate": "2021-04-27T16:23:00-04:00",
+            "rating": "TV-Y",
+            "season": 2021,
+            "series": "367",
+            "seriesName": "Fútbol",
+            "registryEntries": [
+              {
+                "assetIdentifier": "¿Se va del Barça? El PSG ya presentó a Messi una propuesta \"inalcanzable\"",
+                "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+              }
+            ],
+            "headline": null,
+            "keywords": [
+              "soccer",
+              "Barcelona",
+              "PSG",
+              "videos",
+              "video",
+              "Lionel Messi",
+              "Paris Saint Germain",
+              "futbol"
+            ],
+            "language": "es",
+            "accessRules": [
+              {
+                "name": "US/PTO.RICO",
+                "access": "private",
+                "match": "any",
+                "conditions": [
+                  {
+                    "scope": "country",
+                    "value": "US",
+                    "rangeStart": null,
+                    "rangeEnd": null
+                  },
+                  {
+                    "scope": "country",
+                    "value": "PR",
+                    "rangeStart": null,
+                    "rangeEnd": null
+                  }
+                ]
+              }
+            ],
+            "adConfig": {
+              "contextBased": "Deny",
+              "inVideo": "Allow",
+              "inStream": "Allow",
+              "hasPreRoll": "Allow",
+              "hasPostRoll": "Deny"
+            },
+            "transcriptLinks": [],
+            "snapshotLinks": [
+              "https://vmscdn-download.storage.googleapis.com/iupl/4E7/2E8/4E72E8DBEBF949CCA36B7702561EC102.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1714163281&Signature=iv4x3UlidCvm4YnilHhW2CBloi6%2FjZBHhkR8m6JMHGTUnoDn%2Blxp63JzJQ4ocWhunoYI4SpmQdlRKHr5mY12nHGOG3LGxKo962dkjguEWvQaYU3IcdtGl8FLjdusvAvy7WLUAb1AwScFT2Bn0bhn2M0r8o%2FuPbw2PizKWzm5PRvGnWykhkiPqtTi803Z2jcFl8oMcYjU1rdR1jVU4%2FtDRAIMz6d3iWMppB8QW%2Bk3KdxcSQmDn1XHp9Uya0hSonXSl%2FOpBo9edDBpG8%2F1fzdou3CeLrnUEQGYGjGcRq5Zk1HantbE%2F2e6yfdRMNouwGLcZdNE1I9TR0XS1Sci4QTD7Q%3D%3D",
+              "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/4032345/84F4C635638F4F3AB296E8092E499B62_190x107.jpg"
+            ],
+            "copyrightYear": 2021,
+            "copyrightOwners": [
+              "TUDN"
+            ],
+            "supplier": "TUDN.COM",
+            "videoBitrate": 1965,
+            "network": "",
+            "networks": [],
+            "videoType": "clip",
+            "titleManagement": {
+              "tvShowSeason": "",
+              "tvShow": ""
+            },
+            "videoSubType": "",
+            "adContentType": "Sports",
+            "advertiser": "",
+            "is360": false,
+            "primaryTopic": "",
+            "videoRecirc": true,
+            "tvssDomain": "usprauth.dev.y.univision.com",
+            "thumbnailImage": "https://uat2.x.univision.com/dims4/default/ffbc962/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1c%2F14%2F7b12ccaa45fdbd38a64b20dc8712%2F71e818a976bf43a8bc8e6ac4c70b41db",
+            "shortUrl": "http://uni.vi/i1Ei102Ifk9",
+            "permalink": "https://uat.tudn.com/futbol/se-va-del-barca-el-psg-ya-presento-a-messi-una-propuesta-inalcanzable-video",
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_deportes/futbol",
+              "targeting": {
+                "vertical": "deportes",
+                "tag": [
+                  "vicentefernandezsoccer",
+                  "lionelmessi",
+                  "futbol",
+                  "fcbarcelona",
+                  "parissaintgermain"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "jwKey": "LnrekHOv",
+            "digitalType": null,
+            "playlist": null
+          },
+          "eCommerceCtas": [
+            {
+              "title": "Mas informacion",
+              "link": {
+                "href": "https://www.youtube.com/",
+                "target": "_blank",
+                "text": "youtube",
+                "uid": "0000017b-74a7-d138-af7b-f7ffeaf30000"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "enhancement",
+        "enhancementData": {},
+        "objectData": {
+          "title": "Atletico bucaramanga",
+          "description": "El Club Atlético Bucaramanga es un club de fútbol en Colombia ubicado en Bucaramanga, capital del departamento de Santander, que participa en el campeonato de la Categoría Primera A, máxima categoría de la División Mayor del Fútbol Colombiano.",
+          "authorComments": "El mejor equipo del mundo, No hay duda.",
+          "price": "No tiene precio <3",
+          "type": "listitem",
+          "sponsor": null,
+          "media": {
+            "type": "externalcontent",
+            "responseData": {
+              "title": "Atlético Bucaramanga buscará el liderato de la Liga ante Huila. Previa del partido.",
+              "author_name": "Tiro De Esquina",
+              "author_url": "https://www.youtube.com/channel/UCFC-Qf82TbXOljypbfA-UJw",
+              "type": "video",
+              "height": 113,
+              "width": 200,
+              "version": "1.0",
+              "provider_name": "YouTube",
+              "provider_url": "https://www.youtube.com/",
+              "thumbnail_height": 360,
+              "thumbnail_width": 480,
+              "thumbnail_url": "https://i.ytimg.com/vi/uQ4CA9-ZBFQ/hqdefault.jpg",
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/uQ4CA9-ZBFQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "_url": "https://www.youtube.com/watch?v=uQ4CA9-ZBFQ&ab_channel=TiroDeEsquina",
+              "_maximumWidth": null,
+              "_maximumHeight": null
+            },
+            "lazyLoad": true
+          },
+          "eCommerceCtas": [
+            {
+              "title": "mas informacion",
+              "link": {
+                "href": "https://www.youtube.com/",
+                "target": "_blank",
+                "text": "youtube",
+                "uid": "0000017b-74aa-d138-af7b-f7fe58b90000"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "enhancement",
+        "enhancementData": {},
+        "objectData": {
+          "title": "FC Barcelona - 2877 puntos",
+          "description": "El Fútbol Club Barcelona, conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903",
+          "authorComments": null,
+          "price": "Precio estimado 2000 millones $",
+          "type": "listitem",
+          "sponsor": {
+            "name": "Barbie Sponsor logo",
+            "leadText": null,
+            "link": null,
+            "image": {
+              "type": "image",
+              "uid": "00000178-fb20-da74-adfe-ff671a1f0000",
+              "title": "Barbie sponsor logo",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/0e/61/70ec40ed4cb3b7b61810e91b3a4a/bb-ycb20-lockup-primary.png",
+                  "width": 1521,
+                  "height": 783
+                }
+              }
+            }
+          },
+          "media": {
+            "type": "unknown"
+          },
+          "eCommerceCtas": [
+            {
+              "title": "Mas informacion",
+              "link": {
+                "href": "https://www.youtube.com/",
+                "target": "_blank",
+                "text": "Youtube",
+                "uid": "0000017b-74a4-d138-af7b-f7fe88200000"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

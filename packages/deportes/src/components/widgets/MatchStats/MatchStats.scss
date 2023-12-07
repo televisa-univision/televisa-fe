@@ -1,0 +1,42 @@
+.title {
+  margin-bottom: 20px;
+  > div {
+    padding-bottom: 0;
+  }
+}
+
+.nav {
+  > div {
+    flex-direction: row;
+    margin-right: 0;
+  }
+  :global {
+    .slick-slide {
+      margin-right: 0;
+      height: 40px;
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+}
+
+.slider {
+  margin: 0 -10px 10px;
+  z-index: 3;
+  padding-bottom: 7px;
+
+  @include media-breakpoint-up('xs') {
+    margin: 0 0 10px;
+  }
+}
+
+.cardWrapper {
+  padding: 8px 4px;
+}
+
+.card {
+  transform: translate3d(0,0,0);
+  background: $white;
+  transition: opacity 0.4s;
+}

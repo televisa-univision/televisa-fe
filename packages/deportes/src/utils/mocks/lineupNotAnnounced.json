@@ -1,0 +1,135 @@
+{
+  "sports-content":{
+    "xmlns":"http://iptc.org/std/SportsML/2008-04-01/",
+    "xmlns:xts":"",
+    "xmlns:bbc":"",
+    "sports-metadata":{
+      "doc-id":"xt.opta.reports-20180510000000-l.femexfut.mx.primera-2018-e.983130",
+      "date-time":"2018-05-10T00:00:00+01:00",
+      "language":"en-US",
+      "fixture-key":"event-stats-minimal",
+      "fixture-name":"Minimal Event Score and Stats",
+      "document-class":"event-summary",
+      "sports-content-codes":{
+        "sports-content-code":[
+          {
+            "code-name":"Opta",
+            "code-key":"optasports.com",
+            "code-type":"publisher"
+          },
+          {
+            "code-name":"XML Team Solutions, Inc.",
+            "code-key":"xmlteam.com",
+            "code-type":"distributor"
+          },
+          {
+            "code-name":"Soccer",
+            "code-key":"15054000",
+            "code-type":"sport"
+          },
+          {
+            "code-key":"385",
+            "code-type":"tournament"
+          },
+          {
+            "code-name":"Mexican Primera Division",
+            "code-key":"l.femexfut.mx.primera",
+            "code-type":"league"
+          },
+          {
+            "code-key":"2018",
+            "code-type":"season"
+          },
+          {
+            "code-key":"t.1292",
+            "code-type":"team"
+          },
+          {
+            "code-key":"t.1287",
+            "code-type":"team"
+          }
+        ]
+      },
+      "sports-property":[
+        {
+          "formal-name":"compound-key",
+          "value":"soccer:event-stats-minimal:en-US:983130"
+        }
+      ]
+    },
+    "sports-event":{
+      "event-metadata":{
+        "event-key":"983130",
+        "event-status":"pre-event",
+        "event-status-note":"pre-event",
+        "start-date-time":"2018-05-11T01:30:00+01:00",
+        "event-name":"Santos Laguna v América",
+        "event-metadata-soccer":{
+
+        },
+        "sports-property":[
+          {
+            "formal-name":"neulion-match-id",
+            "value":"g983130"
+          },
+          {
+            "formal-name":"neulion-gs",
+            "value":"0"
+          },
+          {
+            "formal-name":"neulion-ap"
+          }
+        ],
+        "sports-content-codes":{
+
+        }
+      },
+      "team":[
+        {
+          "id":"t.1292",
+          "team-metadata":{
+            "team-key":"1292",
+            "alignment":"away",
+            "name":{
+              "first":"América",
+              "full":"América",
+              "nickname":"América",
+              "abbreviation":"@#$"
+            },
+            "sports-property":[
+              {
+                "formal-name":"logo",
+                "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1292"
+              }
+            ]
+          },
+          "team-stats":{
+
+          }
+        },
+        {
+          "id":"t.1287",
+          "team-metadata":{
+            "team-key":"1287",
+            "alignment":"home",
+            "name":{
+              "first":"Santos Laguna",
+              "full":"Santos Laguna",
+              "nickname":"Santos Laguna",
+              "abbreviation":"SAN"
+            },
+            "sports-property":[
+              {
+                "formal-name":"logo",
+                "value":"http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1287"
+              }
+            ]
+          },
+          "team-stats":{
+
+          }
+        }
+      ]
+    }
+  }
+}

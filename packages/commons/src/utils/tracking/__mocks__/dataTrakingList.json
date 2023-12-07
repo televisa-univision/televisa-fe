@@ -1,0 +1,104 @@
+{
+  "data": {
+    "uid": "0000017b-c21c-d881-a17f-cbffca150004",
+    "sponsor": "Barbie Sponsor logo",
+    "body": [
+      {
+        "type": "text",
+        "value": "aqui, el Ranking oficial de los 3 mejores equipos de Colombia"
+      },
+      {
+        "type": "enhancement",
+        "enhancementData": {},
+        "objectData": {
+          "title": "FC Barcelona - 2877 puntos",
+          "description": "El Fútbol Club Barcelona, conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903",
+          "authorComments": null,
+          "price": "Precio estimado 2000 millones $",
+          "type": "listitem",
+          "sponsor": {
+            "name": "Barbie Sponsor logo",
+            "leadText": null,
+            "link": null,
+            "image": {
+              "type": "image",
+              "uid": "00000178-fb20-da74-adfe-ff671a1f0000",
+              "title": "Barbie sponsor logo",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/0e/61/70ec40ed4cb3b7b61810e91b3a4a/bb-ycb20-lockup-primary.png",
+                  "width": 1521,
+                  "height": 783
+                }
+              }
+            }
+          },
+          "media": {
+            "type": "image",
+            "uid": "00000175-15a0-de40-a9f7-d7a3cc3d0000",
+            "title": "image.png",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/30/ac/01a0ea464b3591711bb07cd474cd/image.png",
+                "width": 1281,
+                "height": 720
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "enhancement",
+        "enhancementData": {},
+        "objectData": {
+          "title": "Real Madrid - 2782 puntos",
+          "description": "El Real Madrid Club de Fútbol, más conocido simplemente como Real Madrid, es una entidad polideportiva con sede en Madrid, España.",
+          "authorComments": null,
+          "price": "$400000",
+          "type": "listitem",
+          "sponsor": null,
+          "media": {
+            "type": "video"
+          }
+        }
+      },
+      {
+        "type": "enhancement",
+        "enhancementData": {},
+        "objectData": {
+          "title": "FC Barcelona - 2877 puntos",
+          "description": "El Fútbol Club Barcelona, conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903",
+          "authorComments": null,
+          "price": "Precio estimado 2000 millones $",
+          "type": "listitem",
+          "sponsor": {
+            "name": "Barbie Sponsor logo",
+            "leadText": null,
+            "link": null,
+            "image": {
+              "type": "image",
+              "uid": "00000178-fb20-da74-adfe-ff671a1f0000",
+              "title": "Barbie sponsor logo",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/0e/61/70ec40ed4cb3b7b61810e91b3a4a/bb-ycb20-lockup-primary.png",
+                  "width": 1521,
+                  "height": 783
+                }
+              }
+            }
+          },
+          "media": {
+            "type": "unknown"
+          }
+        }
+      }
+    ]
+  }
+}

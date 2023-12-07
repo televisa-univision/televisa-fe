@@ -1,0 +1,22 @@
+.contactItems {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 0 1rem;
+
+  & a {
+    color: $white;
+
+    &:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+
+    & svg {
+      margin-right: 1rem;
+    }
+
+    &:hover {
+      color: $white;
+      opacity: 0.7;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "extends": "../../.eslintrc",
+  "settings": {
+    "jsdoc": {
+      "tagNamePreference": {
+        "private": "access",
+        "public": "access"
+      }
+    }
+  },
+  "plugins": [
+    "jsdoc"
+  ],
+  "rules": {
+    "jsdoc/require-file-overview": ["error", {
+      "tags":{
+        "module": {
+          "initialCommentsOnly": true,
+          "mustExist": true,
+          "preventDuplicates": true
+        }
+      }
+    }],
+    "jsdoc/require-jsdoc": "error",
+    "jsdoc/check-access": "error",
+    "import/newline-after-import": "error",
+    "import/order": ["error", {
+      "newlines-between": "always"
+    }],
+    "no-use-before-define": ["error", {
+      "classes": true,
+      "functions": false,
+      "variables": true
+    }]
+  }
+}

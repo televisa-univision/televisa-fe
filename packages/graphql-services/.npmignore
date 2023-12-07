@@ -1,0 +1,16 @@
+/config
+/coverage
+/node_modules
+/src
+/.babelrc
+/scripts
+babel.*
+.editorconfig
+.eslintignore
+.eslintrc
+.eslintrc.spec
+.gitignore
+postcss.config.js
+
+.DS_Store
+.idea

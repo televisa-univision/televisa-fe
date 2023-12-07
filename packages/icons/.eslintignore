@@ -1,0 +1,8 @@
+node_modules/*
+coverage/*
+__snapshots__/*
+docs/*
+esdocs/*
+config/*
+build/*
+dist/*

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /$
+Allow: /press*
+Allow: /blog*
+Allow: /business
+Allow: /faq
+Allow: /contact
+Allow: /en*
+Disallow: /test*
+
+# Sitemaps and Autodiscovers
+Sitemap: https://prende.tv/sitemap.xml

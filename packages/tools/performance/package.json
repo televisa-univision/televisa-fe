@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "@univision/fe-tools-performance",
+  "version": "8.0.20",
+  "description": "Univision FE performance tools.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision/univision-fe.git"
+  },
+  "engines": {
+    "node": "<=9.11.2"
+  },
+  "scripts": {
+    "test:entretenimiento": "artillery run tests/entretenimiento.yml",
+    "test:deportes": "artillery run tests/deportes/deportes.yml",
+    "test:match-center": "artillery run tests/deportes/match-center.yml"
+  },
+  "author": "UVN Platform Engineers",
+  "license": "MIT"
+}

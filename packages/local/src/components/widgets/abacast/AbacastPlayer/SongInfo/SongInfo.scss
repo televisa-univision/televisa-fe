@@ -1,0 +1,71 @@
+.wrapper {
+  position: relative;
+}
+
+.songInfo {
+  white-space: nowrap;
+  max-width: calc(100vw - 2.5rem);
+  overflow: hidden;
+  line-height: 1.1;
+
+  &.small {
+    max-width: 52vw;
+  }
+
+  &:not(.small) {
+    @include media-breakpoint-up("sm") {
+      margin-left: 1rem;
+      max-width: 66ch;
+    }
+  }
+
+  &.hidden {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+  }
+}
+
+.marquee {
+  display: inline-block;
+  font-size: 20px;
+  line-height: 1.1;
+
+  &:not(.small) {
+    @include media-breakpoint-up("sm") {
+      font-size: 24px;
+    }
+  }
+
+  &.animate {
+    animation: marquee 7s infinite forwards linear;
+  }
+
+  &.small {
+    font-size: inherit;
+  }
+}
+
+.marqueeInner {
+  display: flex;
+
+  &.animating {
+    & span {
+      display: inline-block;
+      margin-right: 2rem;
+    }
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  80% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}

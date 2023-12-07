@@ -1,0 +1,46 @@
+{
+  "playlistLiveStream": {
+    "original": {
+      "livestreamId": "LS123456",
+      "streamId": "LS123456",
+      "isActive": true,
+      "isAuth": false,
+      "title": "title",
+      "description": "description",
+      "tvssUrl": "auth.tvssurl.com",
+      "publishDate": "2010-05-20",
+      "mainImage": "main.jpg",
+      "mcpIds": [
+        {"mcpId": "1234"},
+        {"mcpId": "5678"},
+        {"mcpId": "9012"}
+      ],
+      "image": {
+        "renditions": {
+          "original": {
+            "href": "image.jpg"
+          }
+        }
+      }
+    },
+    "parsed": {
+      "livestreamId": "LS123456",
+      "streamId": "LS123456",
+      "disableAds": false,
+      "image": "main.jpg",
+      "mainImage": "main.jpg",
+      "title": "title",
+      "dateReleased": "2010-05-20",
+      "publishDate": "2010-05-20",
+      "description": "description",
+      "tvssUrl": "auth.tvssurl.com",
+      "isActive": true,
+      "isAuth": false,
+      "mcpIds": [
+        {"mcpId": "1234"},
+        {"mcpId": "5678"},
+        {"mcpId": "9012"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+// Overwrite _global variables/_global.scss
+
+// Background for listHeadlines & advertising
+$striped-background: "~@univision/fe-commons/dist/assets/images/striped-background.svg" !global;
+$striped-white-background: "~@univision/fe-commons/dist/assets/images/striped-white-background.svg" !global;
+
+// Univision Now Logo
+$uvn-now-logo: "~@univision/fe-commons/dist/assets/images/logo-uvn-now.svg" !global;
+$uvn-now-logo-white: "~@univision/fe-commons/dist/assets/images/logo-uvn-now-white.svg" !global;

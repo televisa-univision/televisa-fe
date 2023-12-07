@@ -1,0 +1,102 @@
+{
+  "type": "livestream",
+  "uid": "0000015c-a883-d5ed-addf-b9d3cfb10000",
+  "uri": "https://uat2.x.univision.com/chicago/wgbo/edicion-digital-chicago-livestream",
+  "vertical": "Local",
+  "parent": {
+    "uuid": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+    "uri": "https://uat2.x.univision.com/local/chicago-wgbo",
+    "name": "univision chicago",
+    "title": "Univision Chicago"
+  },
+  "cardLabel": "EN VIVO",
+  "title": "Trump habla en vivo de la crisis en los centros de detención en la frontera, de la crisis en los centros de detención en la frontera",
+  "description": "Erick ofrece una conferencia de prensa revelando que él es Pez Koi e hijo de Monchis. Chente le da a la DEA la localización de Pedro.",
+  "image": {
+    "type": "image",
+    "uid": "00000169-7925-d81d-a57b-7d27fc640000",
+    "title": "Gavin Newsom",
+    "caption": "California es uno de los 31 estados de EEUU que mantenía vigente la pena, sin embargo, la última ejecución en la cárcel de San Quintín ocurrió hace más de una década.",
+    "credit": "Rich Pedroncelli/AP",
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot.s3.amazonaws.com/ee/9e/4dd141ac445aa35c13ce0b668727/gavin-newsom-firma.jpg",
+        "width": 4265,
+        "height": 2705
+      },
+      "article-lead-sm": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/d908695/2147483647/thumbnail/414x156%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+        "width": 414,
+        "height": 156
+      },
+      "16x9-med": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/de13109/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+        "width": 400,
+        "height": 225
+      },
+      "article-lead-md": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/d9c9c7d/2147483647/thumbnail/1024x384%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F1500%2Fgavin-newsom-firma.jpg",
+        "width": 1024,
+        "height": 384
+      },
+      "16x9-mobile": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/e86b884/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+        "width": 480,
+        "height": 270
+      },
+      "16x9-sm": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/b14adba/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F500%2Fgavin-newsom-firma.jpg",
+        "width": 246,
+        "height": 138
+      },
+      "16x9-tablet": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/13b9275/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F1500%2Fgavin-newsom-firma.jpg",
+        "width": 1024,
+        "height": 576
+      },
+      "article-lead-xl": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/e500da2/2147483647/thumbnail/1440x540%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F9e%2F4dd141ac445aa35c13ce0b668727%2Fresizes%2F1500%2Fgavin-newsom-firma.jpg",
+        "width": 1440,
+        "height": 540
+      }
+    }
+  },
+  "authors": [],
+  "updateDate": "2019-02-26T16:52:18-05:00",
+  "publishDate": "2017-06-14T17:43:15-04:00",
+  "expirationDate": "3000-01-01T00:00:00-05:00",
+  "livestreamId": "201706141731",
+  "autoPlay": true,
+  "tvssUrl": "auth.univision.com",
+  "mainImage": "https://uvn-brightspot.s3.amazonaws.com/c4/1c/934cf5754d0e9136438b04504b38/01-slate-ediciondigital-chicago-gracias.jpg",
+  "active": true,
+  "auth": false,
+  "isAuth": false,
+  "player": "JW",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "http:\/\/uni.vi\/If8j101N2Ce",
+        "isFeedDialog": false,
+        "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+        "description": "EN VIVO | Veracruz recibe al Toluca en actividad de la Copa MX. SIGUE EL PARTIDO AQU\u00cd",
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "http:\/\/uni.vi\/If8j101N2Ce",
+        "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "http:\/\/uni.vi\/If8j101N2Ce",
+        "message": "EN VIVO | Veracruz vs Toluca en la Copa MX"
+      },
+      "mail": {
+        "subject": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu inter\u00e9s.\n\nEN VIVO | Veracruz vs Toluca en la Copa MX\n\nEncu\u00e9ntralo en este enlace:http:\/\/uni.vi\/If8j101N2Ce\n\nVis\u00edtanos https:\/\/www.univision.com"
+      }
+    }
+  },
+  "isDigitalChannelLiveStream": true
+}

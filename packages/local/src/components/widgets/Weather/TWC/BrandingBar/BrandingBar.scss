@@ -1,0 +1,19 @@
+.branding {
+  background: $velvet-red;
+  position: relative;
+  z-index: $zindex-base;
+
+  img {
+    background: white;
+    margin-left: 16px;
+    width: 110px;
+    height: 36px;
+    padding: 10px;
+
+    @include media-breakpoint-up('md') {
+      width: 200px;
+      height: 60px;
+      padding: 15px;
+    }
+  }
+}

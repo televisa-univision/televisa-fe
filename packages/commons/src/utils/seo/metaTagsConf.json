@@ -1,0 +1,126 @@
+[
+  {
+    "content": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0",
+    "name": "viewport"
+  },
+  {
+    "contentKey": "metaTagData.facebook.pages",
+    "fallbackContentKey": "facebookPage",
+    "property": "fb:pages"
+  },
+  {
+    "property": "fb:app_id",
+    "content": "1007833782615811"
+  },
+  {
+    "contentKey": "seo.title",
+    "fallbackContentKey": "title",
+    "name": "title"
+  },
+  {
+    "contentKey": "seo.description",
+    "fallbackContentKey": "description",
+    "name": "description"
+  },
+  {
+    "contentKey": "authors[0].title",
+    "name": "author"
+  },
+  {
+    "content": "US",
+    "name": "geo.region"
+  },
+  {
+    "content": "United States",
+    "name": "geo.placename"
+  },
+  {
+    "content": "News",
+    "name": "genre"
+  },
+  {
+    "content": "spanish",
+    "name": "language"
+  },
+  {
+    "contentKey": "seo.keywords",
+    "name": "news_keywords"
+  },
+  {
+    "contentKey": "metaTagData.twitter.card",
+    "name": "twitter:card"
+  },
+  {
+    "contentKey": "metaTagData.twitter.title",
+    "name": "twitter:title"
+  },
+  {
+    "contentKey": "metaTagData.twitter.description",
+    "name": "twitter:description"
+  },
+  {
+    "contentKey": "metaTagData.twitter.imageUrl",
+    "name": "twitter:image"
+  },
+  {
+    "contentKey": "metaTagData.twitter.imageUrl",
+    "name": "twitter:image:src"
+  },
+  {
+    "contentKey": "metaTagData.twitter.creator",
+    "name": "twitter:creator"
+  },
+  {
+    "content": "website",
+    "property": "og:type"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.siteName",
+    "property": "og:site_name"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.title",
+    "property": "og:title"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.url",
+    "property": "og:url"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.description",
+    "property": "og:description"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.image.secureUrl",
+    "property": "og:image:secureUrl"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.image.type",
+    "property": "og:image:type"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.image.width",
+    "property": "og:image:width"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.image.height",
+    "property": "og:image:height"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.locale",
+    "property": "og:locale"
+  },
+  {
+    "contentKey": "metaTagData.openGraph.localeAlternate",
+    "property": "og:locale:alternate"
+  },
+  {
+    "contentKey": "metaTagData.facebook.pages",
+    "property": "fb:admins"
+  },
+  {
+    "contentKey": "seo.robots",
+    "content": "max-image-preview:large",
+    "name": "robots"
+  }
+]

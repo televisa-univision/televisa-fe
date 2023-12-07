@@ -1,0 +1,88 @@
+[
+  {
+    "seasonId": "2017",
+    "seasonName": "Season 2016/2017",
+    "soccerCompetition": {
+      "code": "ES_PL",
+      "league": {
+        "name": "Liga MX",
+        "abbreviation": "MX",
+        "id": "l.femexfut.mx.primera",
+        "uri": "http://sports.dev.y.univision.com/deportes/futbol/liga-mx"
+      },
+      "name": "Liga MX (Apertura)",
+      "id": "199"
+    }
+  },
+  {
+    "seasonId": "2017",
+    "seasonName": "Season 2016/2017",
+    "soccerCompetition": {
+      "code": "ES_PL",
+      "league": {
+        "name": "UEFA Champions League",
+        "abbreviation": "UEFA",
+        "id": "l.uefa.org.champions",
+        "uri": "http://sports.dev.y.univision.com/deportes/futbol/uefa-champions-league"
+      },
+      "name": "UEFA Champions League",
+      "id": "5"
+    }
+  },
+  {
+    "seasonId": "2017",
+    "seasonName": "Season 2016/2017",
+    "soccerCompetition": {
+      "code": "ES_PL",
+      "league": {
+        "name": "Eurocopa",
+        "id": "l.femexfut.mx.primera",
+        "uri": "http://sports.dev.y.univision.com/deportes/futbol/eurocopa"
+      },
+      "name": "Eurocopa 2016",
+      "id": "3"
+    }
+  },
+  {
+    "seasonId": "2017",
+    "seasonName": "Season 2016/2017",
+    "soccerCompetition": {
+      "code": "ES_PL",
+      "league": {
+        "name": "Premier League",
+        "id": "l.fifaworldcup.com",
+        "uri": "http://sports.dev.y.univision.com/deportes/futbol/premier-league"
+      },
+      "name": "Premier League (Clausura)",
+      "id": "8"
+    }
+  },
+  {
+    "seasonId": "2017",
+    "seasonName": "Season 2016/2017",
+    "soccerCompetition": {
+      "code": "ES_PL",
+      "league": {
+        "name": "La Liga",
+        "id": "l.fifaworldcup.com",
+        "uri": "http://sports.dev.y.univision.com/deportes/futbol/la-liga"
+      },
+      "name": "La Liga",
+      "id": "23"
+    }
+  },
+  {
+    "seasonId": "2017",
+    "seasonName": "Season 2016/2017",
+    "soccerCompetition": {
+      "code": "ES_PL",
+      "league": {
+        "name": "BundesLiga",
+        "id": "l.fifaworldcup.com",
+        "uri": "http://sports.dev.y.univision.com/deportes/futbol/bundesliga"
+      },
+      "name": "BundesLiga",
+      "id": "22"
+    }
+  }
+]

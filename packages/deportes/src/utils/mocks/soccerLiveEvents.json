@@ -1,0 +1,2902 @@
+{
+  "paging": {
+    "totalPages": 1,
+    "totalElements": 29,
+    "numberOfElements": 29,
+    "size": 100,
+    "number": 0,
+    "first": true,
+    "last": true
+  },
+  "sports-content": {
+    "sports-metadata": {
+      "doc-id": "schedule-results:2019-06-26T04:17:27Z",
+      "fixture-key": "schedule-results",
+      "fixture-name": "Results Schedule",
+      "sports-title": "Results Schedule"
+    },
+    "schedule": [
+      {
+        "schedule-metadata": {
+          "team-coverage": "multi-team"
+        },
+        "sports-event": [
+          {
+            "event-metadata": {
+              "event-key": "1055178",
+              "event-status": "intermission",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-15T23:30:00Z",
+              "event-type": "1st Leg",
+              "event-name": "Canada vs Martinique",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 16,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "2659",
+                  "name": {
+                    "full": "Rose Bowl"
+                  },
+                  "home-location": {
+                    "city": "Pasadena"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055178"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, univision, udn"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/canada-vs-martinica-copa-de-oro-2019-06-15"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff342f50000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png|https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "597",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Canadá",
+                    "abbreviation": "CAN"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/597"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "4",
+                  "score-opposing": "0",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "421821",
+                    "player-metadata": {
+                      "player-key": "421821",
+                      "name": {
+                        "first": "Jonathan",
+                        "last": "David"
+                      }
+                    }
+                  },
+                  {
+                    "id": "421821",
+                    "player-metadata": {
+                      "player-key": "421821",
+                      "name": {
+                        "first": "Jonathan",
+                        "last": "David"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49806",
+                    "player-metadata": {
+                      "player-key": "49806",
+                      "name": {
+                        "first": "David Junior",
+                        "last": "Hoilett"
+                      }
+                    }
+                  },
+                  {
+                    "id": "39158",
+                    "player-metadata": {
+                      "player-key": "39158",
+                      "name": {
+                        "first": "Scott",
+                        "last": "Arfield"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "7973",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Martinica",
+                    "abbreviation": "MAR"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555084848/prod/sports/teams_logos/7973.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "0",
+                  "score-opposing": "4",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                }
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50135",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Héctor",
+                      "last": "Said Martínez",
+                      "full": "Héctor Said Martínez"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49267",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Walter",
+                      "last": "López",
+                      "full": "Walter López"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "52212",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Helpys",
+                      "last": "Feliz",
+                      "full": "Helpys Feliz"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "47413",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Jose",
+                      "last": "Kellys",
+                      "full": "Jose Kellys"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "32",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T00:09:12Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "421821",
+                        "team-idref": "597",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "52",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T00:47:44Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "421821",
+                        "team-idref": "597",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "62",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T00:57:37Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "49806",
+                        "team-idref": "597",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "66",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T01:01:44Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "39158",
+                        "team-idref": "597",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055182",
+              "event-status": "intermission",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T02:00:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Mexico vs Cuba",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 27,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "2659",
+                  "name": {
+                    "full": "Rose Bowl"
+                  },
+                  "home-location": {
+                    "city": "Pasadena"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055182"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/mexico-vs-cuba-copa-de-oro-2019-06-15"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff344cf0000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "659",
+                  "alignment": "home",
+                  "name": {
+                    "full": "México",
+                    "abbreviation": "MEX"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1522268022/prod/sports/teams_logos/659.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "7",
+                  "score-opposing": "0",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "234964",
+                    "player-metadata": {
+                      "player-key": "234964",
+                      "name": {
+                        "first": "Uriel",
+                        "last": "Antuna"
+                      }
+                    }
+                  },
+                  {
+                    "id": "102057",
+                    "player-metadata": {
+                      "player-key": "102057",
+                      "name": {
+                        "first": "Raúl",
+                        "last": "Jiménez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "100867",
+                    "player-metadata": {
+                      "player-key": "100867",
+                      "name": {
+                        "first": "Diego",
+                        "last": "Reyes"
+                      }
+                    }
+                  },
+                  {
+                    "id": "234964",
+                    "player-metadata": {
+                      "player-key": "234964",
+                      "name": {
+                        "first": "Uriel",
+                        "last": "Antuna"
+                      }
+                    }
+                  },
+                  {
+                    "id": "102057",
+                    "player-metadata": {
+                      "player-key": "102057",
+                      "name": {
+                        "first": "Raúl",
+                        "last": "Jiménez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "217373",
+                    "player-metadata": {
+                      "player-key": "217373",
+                      "name": {
+                        "first": "Alexis",
+                        "last": "Vega"
+                      }
+                    }
+                  },
+                  {
+                    "id": "234964",
+                    "player-metadata": {
+                      "player-key": "234964",
+                      "name": {
+                        "first": "Uriel",
+                        "last": "Antuna"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1720",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Cuba",
+                    "abbreviation": "CUB"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1720"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "0",
+                  "score-opposing": "7",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                }
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "43803",
+                    "position": "Referee",
+                    "name": {
+                      "first": "John",
+                      "last": "Pitti",
+                      "full": "John Pitti"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "43769",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Christian",
+                      "last": "Ramirez",
+                      "full": "Christian Ramirez"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "46579",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Henry",
+                      "last": "Pupiro",
+                      "full": "Henry Pupiro"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "54816",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Keylor",
+                      "last": "Herrera Villalobos",
+                      "full": "Keylor Herrera Villalobos"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "1",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T02:08:13Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "234964",
+                        "team-idref": "659",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "30",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T02:37:03Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "102057",
+                        "team-idref": "659",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "37",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T02:43:27Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "100867",
+                        "team-idref": "659",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "43",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T02:50:01Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "234964",
+                        "team-idref": "659",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "63",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T03:27:28Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "102057",
+                        "team-idref": "659",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "73",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T03:37:21Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "217373",
+                        "team-idref": "659",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "79",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T03:43:11Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "234964",
+                        "team-idref": "659",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055190",
+              "event-status": "intermission",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T22:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Haiti vs Bermuda",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 28,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "7484",
+                  "name": {
+                    "full": "Estadio Nacional de Costa Rica"
+                  },
+                  "home-location": {
+                    "city": "San Jose"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055190"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/haiti-vs-bermudas-copa-de-oro-2019-06-16"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff343800000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1327",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Haití",
+                    "abbreviation": "HAI"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1327"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  },
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1817",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Bermudas",
+                    "abbreviation": "BER"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555080378/prod/sports/teams_logos/1817.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "228116",
+                    "player-metadata": {
+                      "player-key": "228116",
+                      "name": {
+                        "first": "Dante",
+                        "last": "Leverock"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50160",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Daneion",
+                      "last": "Parchment",
+                      "full": "Daneion Parchment"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "42400",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Kedlee",
+                      "last": "Powell",
+                      "full": "Kedlee Powell"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49069",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Zachari",
+                      "last": "Zeegelaar",
+                      "full": "Zachari Zeegelaar"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "50111",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Ismael",
+                      "last": "Cornejo",
+                      "full": "Ismael Cornejo"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "53",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:17:09Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "65",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:28:41Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "46",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T22:52:26Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "228116",
+                        "team-idref": "1817",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055190",
+              "event-status": "pre",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T22:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Haiti vs Bermuda",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 28,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "7484",
+                  "name": {
+                    "full": "Estadio Nacional de Costa Rica"
+                  },
+                  "home-location": {
+                    "city": "San Jose"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055190"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/haiti-vs-bermudas-copa-de-oro-2019-06-16"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff343800000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1327",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Haití",
+                    "abbreviation": "HAI"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1327"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  },
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1817",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Bermudas",
+                    "abbreviation": "BER"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555080378/prod/sports/teams_logos/1817.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "228116",
+                    "player-metadata": {
+                      "player-key": "228116",
+                      "name": {
+                        "first": "Dante",
+                        "last": "Leverock"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50160",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Daneion",
+                      "last": "Parchment",
+                      "full": "Daneion Parchment"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "42400",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Kedlee",
+                      "last": "Powell",
+                      "full": "Kedlee Powell"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49069",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Zachari",
+                      "last": "Zeegelaar",
+                      "full": "Zachari Zeegelaar"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "50111",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Ismael",
+                      "last": "Cornejo",
+                      "full": "Ismael Cornejo"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "53",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:17:09Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "65",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:28:41Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "46",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T22:52:26Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "228116",
+                        "team-idref": "1817",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055190",
+              "event-status": "pre",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T22:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Haiti vs Bermuda",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 28,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "7484",
+                  "name": {
+                    "full": "Estadio Nacional de Costa Rica"
+                  },
+                  "home-location": {
+                    "city": "San Jose"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055190"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/haiti-vs-bermudas-copa-de-oro-2019-06-16"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff343800000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1327",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Haití",
+                    "abbreviation": "HAI"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1327"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  },
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1817",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Bermudas",
+                    "abbreviation": "BER"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555080378/prod/sports/teams_logos/1817.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "228116",
+                    "player-metadata": {
+                      "player-key": "228116",
+                      "name": {
+                        "first": "Dante",
+                        "last": "Leverock"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50160",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Daneion",
+                      "last": "Parchment",
+                      "full": "Daneion Parchment"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "42400",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Kedlee",
+                      "last": "Powell",
+                      "full": "Kedlee Powell"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49069",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Zachari",
+                      "last": "Zeegelaar",
+                      "full": "Zachari Zeegelaar"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "50111",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Ismael",
+                      "last": "Cornejo",
+                      "full": "Ismael Cornejo"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "53",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:17:09Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "65",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:28:41Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "46",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T22:52:26Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "228116",
+                        "team-idref": "1817",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055190",
+              "event-status": "pre",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T22:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Haiti vs Bermuda",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 28,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "7484",
+                  "name": {
+                    "full": "Estadio Nacional de Costa Rica"
+                  },
+                  "home-location": {
+                    "city": "San Jose"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055190"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/haiti-vs-bermudas-copa-de-oro-2019-06-16"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff343800000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1327",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Haití",
+                    "abbreviation": "HAI"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1327"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  },
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1817",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Bermudas",
+                    "abbreviation": "BER"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555080378/prod/sports/teams_logos/1817.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "228116",
+                    "player-metadata": {
+                      "player-key": "228116",
+                      "name": {
+                        "first": "Dante",
+                        "last": "Leverock"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50160",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Daneion",
+                      "last": "Parchment",
+                      "full": "Daneion Parchment"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "42400",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Kedlee",
+                      "last": "Powell",
+                      "full": "Kedlee Powell"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49069",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Zachari",
+                      "last": "Zeegelaar",
+                      "full": "Zachari Zeegelaar"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "50111",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Ismael",
+                      "last": "Cornejo",
+                      "full": "Ismael Cornejo"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "53",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:17:09Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "65",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:28:41Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "46",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T22:52:26Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "228116",
+                        "team-idref": "1817",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055190",
+              "event-status": "post-event",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T22:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Haiti vs Bermuda",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 28,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "7484",
+                  "name": {
+                    "full": "Estadio Nacional de Costa Rica"
+                  },
+                  "home-location": {
+                    "city": "San Jose"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055190"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/haiti-vs-bermudas-copa-de-oro-2019-06-16"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff343800000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1327",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Haití",
+                    "abbreviation": "HAI"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1327"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  },
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1817",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Bermudas",
+                    "abbreviation": "BER"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555080378/prod/sports/teams_logos/1817.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "228116",
+                    "player-metadata": {
+                      "player-key": "228116",
+                      "name": {
+                        "first": "Dante",
+                        "last": "Leverock"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50160",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Daneion",
+                      "last": "Parchment",
+                      "full": "Daneion Parchment"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "42400",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Kedlee",
+                      "last": "Powell",
+                      "full": "Kedlee Powell"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49069",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Zachari",
+                      "last": "Zeegelaar",
+                      "full": "Zachari Zeegelaar"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "50111",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Ismael",
+                      "last": "Cornejo",
+                      "full": "Ismael Cornejo"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "53",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:17:09Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "65",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:28:41Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "46",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T22:52:26Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "228116",
+                        "team-idref": "1817",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055190",
+              "event-status": "post-event",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T22:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Haiti vs Bermuda",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 28,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "7484",
+                  "name": {
+                    "full": "Estadio Nacional de Costa Rica"
+                  },
+                  "home-location": {
+                    "city": "San Jose"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055190"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/haiti-vs-bermudas-copa-de-oro-2019-06-16"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff343800000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1327",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Haití",
+                    "abbreviation": "HAI"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1327"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  },
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1817",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Bermudas",
+                    "abbreviation": "BER"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555080378/prod/sports/teams_logos/1817.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "228116",
+                    "player-metadata": {
+                      "player-key": "228116",
+                      "name": {
+                        "first": "Dante",
+                        "last": "Leverock"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50160",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Daneion",
+                      "last": "Parchment",
+                      "full": "Daneion Parchment"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "42400",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Kedlee",
+                      "last": "Powell",
+                      "full": "Kedlee Powell"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49069",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Zachari",
+                      "last": "Zeegelaar",
+                      "full": "Zachari Zeegelaar"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "50111",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Ismael",
+                      "last": "Cornejo",
+                      "full": "Ismael Cornejo"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "53",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:17:09Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "65",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:28:41Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "46",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T22:52:26Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "228116",
+                        "team-idref": "1817",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "1055190",
+              "event-status": "post-event",
+              "event-status-note": "Result",
+              "start-date-time": "2019-06-16T22:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Haiti vs Bermuda",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "1",
+                "minutes-elapsed": 28,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "7484",
+                  "name": {
+                    "full": "Estadio Nacional de Costa Rica"
+                  },
+                  "home-location": {
+                    "city": "San Jose"
+                  }
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2019",
+              "period-start-date-time": "2019-06-26T05:29:28Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "380"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "1055190"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "maximum-number-of-weeks",
+                  "value": "6"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "3"
+                },
+                {
+                  "formal-name": "neulion-ap",
+                  "value": "65"
+                },
+                {
+                  "formal-name": "feature-event",
+                  "value": "false"
+                },
+                {
+                  "formal-name": "livestream-enabled",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "tve-authenticated",
+                  "value": "true"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "digital, udn, univision"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.univision.com/deportes/futbol/copa-oro/haiti-vs-bermudas-copa-de-oro-2019-06-16"
+                },
+                {
+                  "formal-name": "brightspot-id",
+                  "value": "0000016a-09d3-d60a-a97e-dff343800000"
+                },
+                {
+                  "formal-name": "tag-hierarchy",
+                  "value": "Deportes, Fútbol"
+                },
+                {
+                  "formal-name": "network-logos",
+                  "value": "https://cdn1.uvnimg.com/c0/28/62fcbca041a0b9bd0d539a596d4c/univisiondeportes-logo-mobile.png|https://cdn2.uvnimg.com/04/14/da373a7c4453977f57199e51f04f/univision-logo-mobile.png"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round",
+                    "code-key": "Round",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round",
+                    "code-key": "1",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "380",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Concacaf Gold Cup",
+                    "code-key": "XX_GC",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2019/2020",
+                    "code-key": "2019",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1327",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Haití",
+                    "abbreviation": "HAI"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1327"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  },
+                  {
+                    "id": "423064",
+                    "player-metadata": {
+                      "player-key": "423064",
+                      "name": {
+                        "first": "Frantzdy",
+                        "last": "Pierrot"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1817",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Bermudas",
+                    "abbreviation": "BER"
+                  },
+                  "sports-property": [
+                    {
+                      "formal-name": "logo",
+                      "value": "https://cdn7.uvnimg.com/univision-media/image/upload/v1555080378/prod/sports/teams_logos/1817.png"
+                    }
+                  ]
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "player": [
+                  {
+                    "id": "228116",
+                    "player-metadata": {
+                      "player-key": "228116",
+                      "name": {
+                        "first": "Dante",
+                        "last": "Leverock"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "50160",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Daneion",
+                      "last": "Parchment",
+                      "full": "Daneion Parchment"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "42400",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Kedlee",
+                      "last": "Powell",
+                      "full": "Kedlee Powell"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "49069",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Zachari",
+                      "last": "Zeegelaar",
+                      "full": "Zachari Zeegelaar"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "50111",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Ismael",
+                      "last": "Cornejo",
+                      "full": "Ismael Cornejo"
+                    }
+                  }
+                }
+              ]
+            },
+            "event-actions": {
+              "event-actions-soccer": {
+                "action-soccer-score": [
+                  {
+                    "minutesElapsed": "53",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:17:09Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "65",
+                    "period-time": "SecondHalf",
+                    "date-time": "2019-06-16T23:28:41Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "423064",
+                        "team-idref": "1327",
+                        "role": "scorer"
+                      }
+                    ]
+                  },
+                  {
+                    "minutesElapsed": "46",
+                    "period-time": "FirstHalf",
+                    "date-time": "2019-06-16T22:52:26Z",
+                    "score-attempt-type": "regular",
+                    "action-soccer-play-participant": [
+                      {
+                        "player-idref": "228116",
+                        "team-idref": "1817",
+                        "role": "scorer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

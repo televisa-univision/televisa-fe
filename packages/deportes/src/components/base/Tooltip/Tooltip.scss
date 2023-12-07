@@ -1,0 +1,64 @@
+.tooltip {
+  position: relative;
+  display: flex;
+  flex: 1 1 0;
+  justify-content: center;
+}
+
+.tooltipLabel {
+  display: flex;
+  flex: 1 1 auto;
+  text-align: center;
+  width: auto;
+  position: absolute;
+  padding: 3px;
+  margin-bottom: .7em;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 2px;
+  background-color: $black-grey;
+  box-shadow: 0 3px 16px rgba(black, 0.15);
+  color: $white;
+  font-size: rem(11px);
+  font-weight: normal;
+  &:after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: .4em solid transparent;
+    border-top-color: #313131;
+    left: 50%;
+    z-index: -1;
+    transform: translateX(-50%);
+    transition: top 300ms ease;
+  }
+}
+.active {
+  .tooltipLabel {
+    transform: translateY(0) translateX(-50%);
+    opacity: 1;
+    visibility: visible;
+    transition: transform 100ms ease,
+    opacity 100ms,
+    visibility 100ms 0s;
+    &:after {
+      top: 100%;
+    }
+  }
+}
+
+.notActive {
+  .tooltipLabel {
+    transform: translateY(100%) translateX(-50%);
+    opacity: 0;
+    visibility: hidden;
+    transition: transform 100ms ease,
+    opacity 100ms,
+    visibility 100ms 100ms;
+    &:after {
+      top: 0;
+    }
+  }
+}

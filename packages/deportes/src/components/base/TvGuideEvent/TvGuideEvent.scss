@@ -1,0 +1,15 @@
+.card {
+  height: auto;
+  padding: 14px 0;
+  @include media-breakpoint-up('sm') {
+    padding: 0;
+  }
+}
+
+.match {
+  height: 96px;
+  @include media-breakpoint-up('sm') {
+    height: auto;
+  }
+}
+

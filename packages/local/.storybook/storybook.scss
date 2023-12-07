@@ -1,0 +1,12 @@
+:global {
+  html, body {
+    min-height: 100%;
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  }
+  #root {
+    padding: 20px;
+    min-height: 100%;
+  }
+}

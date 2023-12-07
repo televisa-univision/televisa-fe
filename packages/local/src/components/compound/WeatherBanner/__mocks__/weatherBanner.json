@@ -1,0 +1,17 @@
+{
+  "landingPage": {
+    "flavor": "landingPage",
+    "totalCount": 1,
+    "uri": "https://www.univision.com/local/los-angeles-kmex/tiempo"
+  },
+  "modal": {
+    "flavor": "modal",
+    "totalCount": 10,
+    "uri": "https://www.univision.com/local/los-angeles-kmex/tiempo"
+  },
+  "openingCard": {
+    "flavor": "openingCard",
+    "totalCount": 10,
+    "uri": "https://www.univision.com/local/los-angeles-kmex/tiempo"
+  }
+}

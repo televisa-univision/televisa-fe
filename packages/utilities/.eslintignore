@@ -1,0 +1,8 @@
+config/*
+node_modules/*
+build/*
+dist/*
+esm/*
+cjs/*
+coverage/*
+docs/*

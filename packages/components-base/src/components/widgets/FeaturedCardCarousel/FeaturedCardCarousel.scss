@@ -1,0 +1,146 @@
+.wrapper {
+  background: $black;
+  margin-left: calc($grid-margin-width / -2);
+  margin-right: calc($grid-margin-width / -2);
+  position: relative;
+  @include media-breakpoint-up('md') {
+    width: 1024px;
+  }
+  @include media-breakpoint-up('lg') {
+    width: 1280px;
+  }
+  @include media-breakpoint-up('xl') {
+    margin-left: -80px;
+    margin-right: -80px;
+    width: 1440px;
+  }
+}
+
+.navigation {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  color: white;
+}
+
+.navigationWrapper {
+  display: flex;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 10px;
+
+  @include media-breakpoint-up('md') {
+    width: 33.33333%;
+  }
+}
+
+.autoPlayWrapper {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  width: 50px;
+  margin-left: 16px;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  margin-right: 6px;
+}
+
+.control {
+  display: flex;
+  width: 100%;
+  height: 28px;
+  padding: 0;
+  position: relative;
+  align-items: center;
+
+  span {
+    color: $white-grey;
+    font-size: rem(9px);
+    text-transform: uppercase;
+    margin-left: 6px;
+  }
+}
+
+.pausePlayButton {
+  display: block;
+  position: relative;
+  width: 28px;
+  height: 28px;
+}
+
+.pause {
+  box-sizing: border-box;
+  width: 0;
+  height: 60px;
+  border-color: transparent transparent transparent $white-grey;
+  transition: all ease 0.2s;
+  border-style: double;
+  border-width: 0px 0 0px 60px;
+  transform: scale3d(0.12, 0.12, 1);
+  left: -16px;
+  position: relative;
+  top: -16px;
+}
+
+.play {
+  border-style: solid;
+  border-width: 30px 0 30px 62px;
+}
+
+.resetButton {
+  border: 0;
+  padding: 0;
+
+  &:after {
+    transition: opacity linear 0.3s, background-color linear 0.3s;
+    will-change: opacity, background-color;
+  }
+}
+
+.arrowLeft {
+  margin-right: 14px;
+}
+
+.arrowRight {
+  margin-left: 12px;
+}
+
+.dot {
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  position: relative;
+
+  &:after {
+    content: '';
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 7px;
+    height: 7px;
+    background-color: $grey-black;
+    opacity: 0.6;
+    border-radius: 50%;
+  }
+
+  &.active:after {
+    background-color: $white-grey;
+    opacity: 1;
+  }
+}
+
+.tooltip {
+  right: 20px;
+  top: 100px;
+
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}

@@ -1,0 +1,71 @@
+.localMarketDefault {
+  padding: 5px 39px;
+}
+
+.localMarket {
+  background-color: $very-light-grey;
+  padding: 8px 39px;
+
+  @include media-breakpoint-up('sm') {
+    background-color: transparent;
+  }
+
+  a {
+    @include uvn-now-logo('small');
+    &.tv-en-vivo {
+      &:after {
+        height: 9px;
+        vertical-align: baseline;
+        width: 29px;
+      }
+    }
+  }
+}
+
+.localMarket,
+.localMarketDefault {
+  border-bottom: 1px solid $white-grey;
+  
+  &:first-of-type {
+    padding-top: 16px;
+  }
+
+  @include media-breakpoint-up('sm') {
+    border-bottom: none;
+    padding: 2px 0;
+
+    &:first-of-type {
+      padding-top: 0;
+    }
+
+    &:hover {
+      background-color: $very-light-grey;
+    }
+  }
+
+  a {
+    font-size: rem(12px);
+    padding: 8px 16px;
+    color: $grey-black;
+    text-transform: uppercase;
+
+    img {
+      height: 25px;
+      margin-right: 14px;
+    }
+  }
+}
+
+.localMarketSubtitle {
+  border-bottom: 1px solid $white-grey;
+  border-top: 1px solid #ccc;
+  color: $black;
+  font-size: rem(12px);
+  padding: 16px 55px;
+  text-transform: uppercase;
+
+  @include media-breakpoint-up('sm') {
+    border-bottom: none;
+    padding: 11px 16px;
+  }
+}

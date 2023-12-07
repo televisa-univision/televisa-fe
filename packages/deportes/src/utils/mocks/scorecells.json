@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "key": 1,
+      "leagueName": "mexican primera (apertura)",
+      "leaguePhase": "fase de grupos",
+      "fixture": "jornada 10 de 15",
+      "status": "post",
+      "home": {
+        "fullName": "SAN JOSE EARTHQUAKES",
+        "abbreviatedName": "bar",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 3,
+          "penalty": null
+        }
+      },
+      "away": {
+        "fullName": "SAN JOSE EARTHQUAKES reload",
+        "abbreviatedName": "cza",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 3
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "url": "http://univision.com"
+    },
+    {
+      "key": 2,
+      "leagueName": "Champions League",
+      "leaguePhase": "fase de grupos",
+      "fixture": "ida",
+      "status": "post",
+      "home": {
+        "fullName": "Manchester",
+        "abbreviatedName": "MCU",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 4,
+          "penalty": null
+        }
+      },
+      "away": {
+        "fullName": "Real Madrid",
+        "abbreviatedName": "RMA",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 1
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "leagueKey": "5"
+    },
+    {
+      "key": 3,
+      "leagueName": "Copa MX",
+      "leaguePhase": "Octavos de final",
+      "fixture": "vuela",
+      "status": "live",
+      "home": {
+        "fullName": "América",
+        "abbreviatedName": "ame",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 1,
+          "penalty": 5
+        }
+      },
+      "away": {
+        "fullName": "Santos",
+        "abbreviatedName": "san",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 1,
+          "penalty": 3
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "url": "http://univision.com",
+      "leagueKey": "941"
+    },
+    {
+      "key": 4,
+      "leagueName": "Copa Mx",
+      "leaguePhase": "octavos de final",
+      "fixture": "vuelta",
+      "status": "live",
+      "home": {
+        "fullName": "Necaxa",
+        "abbreviatedName": "nec",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 2,
+          "penalty": null
+        }
+      },
+      "away": {
+        "fullName": "Dorados",
+        "abbreviatedName": "dor",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 1
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "hasLiveStream": true
+    },
+    {
+      "key": 5,
+      "leagueName": "liga mx",
+      "leaguePhase": "fase de grupos",
+      "fixture": "jornada 10 de 15",
+      "status": "pre",
+      "home": {
+        "fullName": "Chivas",
+        "abbreviatedName": "chi",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 3,
+          "penalty": null
+        }
+      },
+      "away": {
+        "fullName": "Monterrey",
+        "abbreviatedName": "mty",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 3
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": true,
+      "url": "http://univision.com"
+    },
+    {
+      "key": 6,
+      "leagueName": "rumbo al mundial",
+      "leaguePhase": "fecha fifa",
+      "fixture": "amistoso",
+      "status": "pre",
+      "home": {
+        "fullName": "colombia",
+        "abbreviatedName": "col",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 3,
+          "penalty": null
+        }
+      },
+      "away": {
+        "fullName": "bolivia",
+        "abbreviatedName": "bol",
+        "imageURI": "https://cdn3.uvnimg.com/a6/8f/bb85a20a470984c1006fb4aa2551/3-eb.png",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 3
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+[
+    {
+        "date": "2022-10-07T18:00:00Z",
+        "events": [
+            {
+                "fixture": null,
+                "date": "2022-10-07T18:00:00Z",
+                "elapsedTime": "—",
+                "status": "post",
+                "url": "https://uat.tudn.com/futbol/dutch-eredivisie/fc-groningen-vs-rkc-waalwijk-eredivisie-2022-10-07",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "FC Groningen vs RKC Waalwijk",
+                "leagueKey": "9",
+                "leagueName": "Dutch Eredivisie",
+                "leagueAbbreviation": "Eredivisie",
+                "stadiumName": "Euroborg",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Classic",
+                "id": "2291800",
+                "week": "9",
+                "totalWeeks": "34",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "321",
+                        "url": "https://uat.tudn.com/futbol/dutch-eredivisie/rkc-waalwijk",
+                        "fullName": "RKC Waalwijk",
+                        "abbreviatedName": "RKC",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/42/c0/a7fb861842faa05f91e8438f5411/mallorca.png",
+                        "scoreValue": {
+                            "score": 3,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": true
+                    },
+                    "home": {
+                        "id": "425",
+                        "url": "https://uat.tudn.com/futbol/dutch-eredivisie/fc-groningen",
+                        "fullName": "FC Groningen",
+                        "abbreviatedName": "GRO",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/85/29/197e92db42628102b5da8195a00f/1737-eb.png",
+                        "scoreValue": {
+                            "score": 2,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": false
+            },
+            {
+                "fixture": null,
+                "date": "2022-10-07T18:30:00Z",
+                "elapsedTime": "—",
+                "status": "post",
+                "url": "https://uat.tudn.com/futbol/bundesliga/tsg-1899-hoffenheim-vs-sv-werder-bremen-bundesliga-2022-10-07",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "TSG Hoffenheim vs SV Werder Bremen",
+                "leagueKey": "22",
+                "leagueName": "German Bundesliga",
+                "leagueAbbreviation": "Bundesliga",
+                "stadiumName": "PreZero Arena",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Performance",
+                "id": "2294597",
+                "week": "9",
+                "totalWeeks": "34",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "171",
+                        "url": "https://uat.tudn.com/futbol/bundesliga/sv-werder-bremen",
+                        "fullName": "SV Werder Bremen",
+                        "abbreviatedName": "WBR",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/c9/42/f66850b74bdd88bc42f7228043a9/sv-werder-bremen-2x.png",
+                        "scoreValue": {
+                            "score": 2,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": true
+                    },
+                    "home": {
+                        "id": "1902",
+                        "url": "https://uat.tudn.com/futbol/bundesliga/tsg-1899-hoffenheim",
+                        "fullName": "TSG 1899 Hoffenheim",
+                        "abbreviatedName": "HOF",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/c4/ad/701071964256a01af4f983600cc0/hoffenheim-2x.png",
+                        "scoreValue": {
+                            "score": 1,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": false
+            },
+            {
+                "fixture": null,
+                "date": "2022-10-07T19:00:00Z",
+                "elapsedTime": "—",
+                "status": "post",
+                "url": "https://uat.tudn.com/futbol/ligue-1/lyon-vs-toulouse-ligue-1-2022-10-07",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "Lyon vs Toulouse",
+                "leagueKey": "24",
+                "leagueName": "French Ligue 1",
+                "leagueAbbreviation": "Ligue 1",
+                "stadiumName": "Groupama Stadium",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Classic",
+                "id": "2295537",
+                "week": "10",
+                "totalWeeks": "38",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "427",
+                        "url": "https://uat.tudn.com/futbol/ligue-1/toulouse",
+                        "fullName": "Toulouse",
+                        "abbreviatedName": "TOU",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/39/8a/8d3f3b26404085167919af1c7032/1733-eb.png",
+                        "scoreValue": {
+                            "score": 1,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    },
+                    "home": {
+                        "id": "143",
+                        "url": "https://uat.tudn.com/futbol/ligue-1/lyon",
+                        "fullName": "Lyon",
+                        "abbreviatedName": "LYO",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/c6/11/9e6a76a74596826c7310295b217e/lyon-2x.png",
+                        "scoreValue": {
+                            "score": 1,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": true
+            },
+            {
+                "fixture": null,
+                "date": "2022-10-07T19:00:00Z",
+                "elapsedTime": "—",
+                "status": "post",
+                "url": "https://uat.tudn.com/futbol/la-liga/osasuna-vs-valencia-cf-la-liga-2022-10-07",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "Osasuna vs Valencia CF",
+                "leagueKey": "23",
+                "leagueName": "Spanish La Liga",
+                "leagueAbbreviation": "La Liga",
+                "stadiumName": "El Sadar",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Performance",
+                "id": "2301662",
+                "week": "8",
+                "totalWeeks": "38",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "191",
+                        "url": "https://uat.tudn.com/futbol/la-liga/valencia-cf",
+                        "fullName": "Valencia CF",
+                        "abbreviatedName": "VAL",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/9a/31/d120d782476797910d4f7543b3c3/valencia-2x.png",
+                        "scoreValue": {
+                            "score": 2,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": true
+                    },
+                    "home": {
+                        "id": "450",
+                        "url": "https://uat.tudn.com/futbol/la-liga/osasuna",
+                        "fullName": "Osasuna",
+                        "abbreviatedName": "OSA",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/e1/be/d984d14041778dcd23f132f72971/37-el.png",
+                        "scoreValue": {
+                            "score": 1,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": false
+            }
+        ]
+    },
+    {
+        "date": "2022-10-08T14:00:00Z",
+        "events": [
+            {
+                "fixture": null,
+                "date": "2022-10-08T14:00:00Z",
+                "elapsedTime": "",
+                "status": "pre",
+                "url": "https://uat.tudn.com/futbol/premier-league/chelsea-vs-wolverhampton-premier-league-2022-10-08",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "Chelsea vs Wolverhampton Wanderers",
+                "leagueKey": "8",
+                "leagueName": "English Premier League",
+                "leagueAbbreviation": "EPL",
+                "stadiumName": "Stamford Bridge",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Performance",
+                "id": "2292903",
+                "week": "10",
+                "totalWeeks": "38",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "39",
+                        "url": "https://uat.tudn.com/futbol/uefa-europa-league/wolverhampton",
+                        "fullName": "Wolverhampton",
+                        "abbreviatedName": "WOL",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/1e/4a/5a1c6bd74da4a1334373efd3aeb4/wolverhampton-wanderers-2x.png",
+                        "scoreValue": {
+                            "score": 0,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    },
+                    "home": {
+                        "id": "8",
+                        "url": "https://uat.tudn.com/futbol/premier-league/chelsea",
+                        "fullName": "Chelsea",
+                        "abbreviatedName": "CHE",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/42/43/d09c85c549a7b9a8ece6b5f7b110/chelsea-2x.png",
+                        "scoreValue": {
+                            "score": 0,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": true
+            },
+            {
+                "fixture": null,
+                "date": "2022-10-08T16:30:00Z",
+                "elapsedTime": "",
+                "status": "pre",
+                "url": "https://uat.tudn.com/futbol/la-liga/sevilla-vs-athletic-club-la-liga-2022-10-08",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "Sevilla vs Athletic Club",
+                "leagueKey": "23",
+                "leagueName": "Spanish La Liga",
+                "leagueAbbreviation": "La Liga",
+                "stadiumName": "Ramón Sánchez-Pizjuán",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Performance",
+                "id": "2301665",
+                "week": "8",
+                "totalWeeks": "38",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "174",
+                        "url": "https://uat.tudn.com/futbol/la-liga/athletic-club",
+                        "fullName": "Athletic Club",
+                        "abbreviatedName": "ATH",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/73/2a/6bf3a38a447b879778bcafb6877d/30-eb.png",
+                        "scoreValue": {
+                            "score": 0,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    },
+                    "home": {
+                        "id": "179",
+                        "url": "https://uat.tudn.com/futbol/la-liga/sevilla",
+                        "fullName": "Sevilla",
+                        "abbreviatedName": "SEV",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/0d/32/3e2883534015af3987f89ef4ad88/sevilla-2x.png",
+                        "scoreValue": {
+                            "score": 0,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": false
+            },
+            {
+                "fixture": null,
+                "date": "2022-10-08T19:00:00Z",
+                "elapsedTime": "",
+                "status": "pre",
+                "url": "https://uat.tudn.com/futbol/la-liga/getafe-vs-real-madrid-la-liga-2022-10-08",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "Getafe vs Real Madrid",
+                "leagueKey": "23",
+                "leagueName": "Spanish La Liga",
+                "leagueAbbreviation": "La Liga",
+                "stadiumName": "Coliseum Alfonso Pérez",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Performance",
+                "id": "2301660",
+                "week": "8",
+                "totalWeeks": "38",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "186",
+                        "url": "https://uat.tudn.com/futbol/la-liga/real-madrid",
+                        "fullName": "Real Madrid",
+                        "abbreviatedName": "RMA",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/eb/9e/6b174af649c3840e3dff487e57ad/real-madrid-2x.png",
+                        "scoreValue": {
+                            "score": 0,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    },
+                    "home": {
+                        "id": "1450",
+                        "url": "https://uat.tudn.com/futbol/uefa-europa-league/getafe",
+                        "fullName": "Getafe",
+                        "abbreviatedName": "GET",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/fc/c3/1111cbeb488f9cb9be8fa3e73d70/24-eb.png",
+                        "scoreValue": {
+                            "score": 0,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": false
+            }
+        ]
+    },
+    {
+        "date": "2022-10-09T10:30:00Z",
+        "events": [
+            {
+                "fixture": null,
+                "date": "2022-10-09T10:30:00Z",
+                "elapsedTime": "",
+                "status": "pre",
+                "url": "https://uat.tudn.com/futbol/serie-a/torino-vs-empoli-serie-a-2022-10-09",
+                "channels": [],
+                "channelsType": {
+                    "en": [],
+                    "es": []
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "Torino vs Empoli",
+                "leagueKey": "21",
+                "leagueName": "Italian Serie A",
+                "leagueAbbreviation": "Serie A",
+                "stadiumName": "Olimpico Grande Torino",
+                "hasLiveStream": true,
+                "tvAuthenticated": false,
+                "tudnXtra": false,
+                "broadcastLanguage": "",
+                "coverage": "Classic",
+                "id": "2302530",
+                "week": "9",
+                "totalWeeks": "38",
+                "round": null,
+                "teams": {
+                    "away": {
+                        "id": "695",
+                        "url": "https://uat.tudn.com/futbol/serie-a/empoli",
+                        "fullName": "Empoli",
+                        "abbreviatedName": "EMP",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/6c/e2/b697cfea456b9c721aecea779069/164-eb.png",
+                        "scoreValue": {
+                            "score": null,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    },
+                    "home": {
+                        "id": "135",
+                        "url": "https://uat.tudn.com/futbol/serie-a/torino",
+                        "fullName": "Torino",
+                        "abbreviatedName": "TNO",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/40/d6/1b3cdb2149cab94dcfafbe6fca68/536-eb.png",
+                        "scoreValue": {
+                            "score": null,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": true
+            }
+        ]
+    }
+]

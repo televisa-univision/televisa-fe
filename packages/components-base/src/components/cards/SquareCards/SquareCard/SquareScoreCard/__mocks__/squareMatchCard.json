@@ -1,0 +1,471 @@
+{
+  "default": {
+    "type":"soccermatch",
+    "uid":"1",
+    "uri":"https://performance.tudn.com/futbol/brasileno-seriea/vasco-da-gama-vs-santos-brasileno-serie-a-2019-10-05",
+    "vertical":null,
+    "parent":null,
+    "title":"Marco Fabián hace un golazo en tiempos extra y Monterrey pone un pie en semifinales",
+    "description":"Vasco da Gama vs Santos",
+    "image":{
+      "type":"image",
+      "uid":"0000016c-0800-d9e5-a5fe-cbc4f0500000",
+      "title":"TUDN Fallback Image",
+      "caption":"Caption for TUDN fallback Image",
+      "credit":"Cerdit for TUDN fallback Image",
+      "renditions":{
+        "original":{
+          "href":"https://st1.uvnimg.com/2b/81/1e462ad148548c2815b695161aab/gettyimages-467268448.jpg",
+          "width":640,
+          "height":361
+        }
+      }
+    },
+    "widgetContext": {
+      "id": 2,
+      "position": 0,
+      "title": "title",
+      "type": "Card"
+    },
+    "authors":[],
+    "cardLabel":"EN VIVO",
+    "updateDate":"2019-11-04T13:17:11-05:00",
+    "publishDate":"2019-02-26T04:02:09-05:00",
+    "expirationDate":null,
+    "hierarchy":[],
+    "shortTitle":"VAS vs SAN",
+    "matchId":964763,
+    "soccerCompetitionSeason":{
+      "seasonId":"2019",
+      "seasonName":"Brasileño Série A | 2019",
+      "soccerCompetition":{
+        "id":"363",
+        "name":"Brasileño Série A",
+        "league":{
+          "type":"league",
+          "uid":"00000152-3d21-d5cc-affa-7d2780000000",
+          "uri":"https://performance.tudn.com/futbol/brasileno-serie-a",
+          "id":null,
+          "image":{
+            "type":"image",
+            "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title":"Univision Fallback Image",
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width":1200,
+                "height":630
+              }
+            }
+          },
+          "logo":{
+            "type":null,
+            "uid":null,
+            "title":null,
+            "caption":null,
+            "credit":null,
+            "renditions":{
+              "original":{
+                "href":"https://st1.uvnimg.com/12/e5/3e2b733d4867996d44e784de4aa4/logo-liga-mx.png",
+                "width":1200,
+                "height":630
+              }
+            }
+          },
+          "abbreviation":"Brasileno Serie A",
+          "includesVideo":false,
+          "coverage":"Core",
+          "activeSoccerCompetitionURL":null,
+          "hierarchy":[
+            {
+              "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+              "uri":"https://performance.tudn.com",
+              "name":"deportes",
+              "title":"Deportes"
+            },
+            {
+              "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri":"https://performance.tudn.com/futbol",
+              "name":"futbol",
+              "title":"Fútbol"
+            },
+            {
+              "uuid":"00000152-3d21-d5cc-affa-7d2780000000",
+              "uri":"https://performance.tudn.com/futbol/brasileno-serie-a",
+              "name":"brasileno serie a",
+              "title":"Brasileño Série A"
+            }
+          ]
+        }
+      }
+    },
+    "homeTeamSeason":{
+      "score": 0,
+      "penaltyScore": 0,
+      "previousFixtureScore": 3,
+      "type":"teamseason",
+      "uid":"00000169-2909-d4c2-a5eb-6dfdcb730000",
+      "uri":null,
+      "vertical":null,
+      "parent":null,
+      "title":"Vasco da Gama | Brasileño Série A | 2019",
+      "description":"Vasco da Gama | Brasileño Série A | 2019",
+      "image":{
+        "type":"image",
+        "uid":"0000016c-0800-d9e5-a5fe-cbc4f0500000",
+        "title":"TUDN Fallback Image",
+        "caption":"Caption for TUDN fallback Image",
+        "credit":"Cerdit for TUDN fallback Image",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot-performance.s3.amazonaws.com/a9/c9/7073f4ed486b97935d0a1e46eaec/tudn-fallback-image.png",
+            "width":640,
+            "height":361
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2019-02-26T04:01:40-05:00",
+      "publishDate":"2019-02-26T04:01:40-05:00",
+      "expirationDate":null,
+      "hierarchy":[
+
+      ],
+      "teamId":2308,
+      "teamName":"Vasco da Gama",
+      "teamAbbreviatedName":"VAS",
+      "teamLogo":{
+        "type":"image",
+        "uid":"0000014d-0869-ddc6-a5dd-19ff724f0000",
+        "title":"261_eb",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://st1.uvnimg.com/1b/62/c1806ee54c1ca3ffbac9fc55ebd4/261-eb.png",
+            "width":100,
+            "height":100
+            }
+        }
+      },
+      "soccerCompetitionSeason":{
+        "seasonId":"2019",
+        "seasonName":"Brasileño Série A | 2019",
+        "soccerCompetition":{
+          "id":"363",
+          "name":"Brasileño Série A",
+          "league":{
+            "type":"league",
+            "uid":"00000152-3d21-d5cc-affa-7d2780000000",
+            "uri":"https://performance.tudn.com/futbol/brasileno-serie-a",
+            "id":null,
+            "image":{
+              "type":"image",
+              "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+              "title":"Univision Fallback Image",
+              "caption":null,
+              "credit":null,
+              "renditions":{
+                "original":{
+                  "href":"https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                  "width":1200,
+                  "height":630
+                }
+              }
+            },
+            "logo":{
+              "type":null,
+              "uid":null,
+              "title":null,
+              "caption":null,
+              "credit":null,
+              "renditions":null
+            },
+            "abbreviation":"Brasileno Serie A",
+            "includesVideo":false,
+            "coverage":"Core",
+            "activeSoccerCompetitionURL":null,
+            "hierarchy":[
+              {
+                "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri":"https://performance.tudn.com",
+                "name":"deportes",
+                "title":"Deportes"
+              },
+              {
+                "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri":"https://performance.tudn.com/futbol",
+                "name":"futbol",
+                "title":"Fútbol"
+              },
+              {
+                "uuid":"00000152-3d21-d5cc-affa-7d2780000000",
+                "uri":"https://performance.tudn.com/futbol/brasileno-serie-a",
+                "name":"brasileno serie a",
+                "title":"Brasileño Série A"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "awayTeamSeason":{
+      "score": 0,
+      "penaltyScore": 0,
+      "previousFixtureScore": 3,
+      "type":"teamseason",
+      "uid":"00000169-2909-d4c2-a5eb-6dfdce510000",
+      "uri":null,
+      "vertical":null,
+      "parent":null,
+      "title":"Santos | Brasileño Série A | 2019",
+      "description":"Santos | Brasileño Série A | 2019",
+      "image":{
+        "type":"image",
+        "uid":"0000016c-0800-d9e5-a5fe-cbc4f0500000",
+        "title":"TUDN Fallback Image",
+        "caption":"Caption for TUDN fallback Image",
+        "credit":"Cerdit for TUDN fallback Image",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot-performance.s3.amazonaws.com/a9/c9/7073f4ed486b97935d0a1e46eaec/tudn-fallback-image.png",
+            "width":640,
+            "height":361
+          }
+        }
+      },
+      "authors":[],
+      "cardLabel":null,
+      "updateDate":"2019-02-26T04:01:41-05:00",
+      "publishDate":"2019-02-26T04:01:41-05:00",
+      "expirationDate":null,
+      "hierarchy":[],
+      "teamId":1303,
+      "teamName":"Santos",
+      "teamAbbreviatedName":"SAN",
+      "teamLogo":{
+        "type":"image",
+        "uid":"0000014d-0866-ddc6-a5dd-19f6e1930000",
+        "title":"73_eb",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://st1.uvnimg.com/e4/da/8f4c492c4d6fa8781f4533d33c03/73-eb.png",
+            "width":100,
+            "height":100
+          }
+        }
+      },
+      "soccerCompetitionSeason":{
+        "seasonId":"2019",
+        "seasonName":"Brasileño Série A | 2019",
+        "soccerCompetition":{
+          "id":"363",
+          "name":"Brasileño Série A",
+          "league":{
+            "type":"league",
+            "uid":"00000152-3d21-d5cc-affa-7d2780000000",
+            "uri":"https://performance.tudn.com/futbol/brasileno-serie-a",
+            "id":null,
+            "image":{
+              "type":"image",
+              "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+              "title":"Univision Fallback Image",
+              "caption":null,
+              "credit":null,
+              "renditions":{
+                "original":{
+                  "href":"https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                  "width":1200,
+                  "height":630
+                }
+              }
+            },
+            "logo":{
+              "type":null,
+              "uid":null,
+              "title":null,
+              "caption":null,
+              "credit":null,
+              "renditions":null
+            },
+            "abbreviation":"Brasileno Serie A",
+            "includesVideo":false,
+            "coverage":"Core",
+            "activeSoccerCompetitionURL":null,
+            "hierarchy":[
+              {
+                "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri":"https://performance.tudn.com",
+                "name":"deportes",
+                "title":"Deportes"
+              },
+              {
+              "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri":"https://performance.tudn.com/futbol",
+              "name":"futbol",
+              "title":"Fútbol"
+              },
+              {
+                "uuid":"00000152-3d21-d5cc-affa-7d2780000000",
+                "uri":"https://performance.tudn.com/futbol/brasileno-serie-a",
+                "name":"brasileno serie a",
+                "title":"Brasileño Série A"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "formatted": {
+    "league": {
+      "abbreviation": "Brasileno Serie A",
+      "logo": {
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "height": 630,
+            "href": "https://st1.uvnimg.com/12/e5/3e2b733d4867996d44e784de4aa4/logo-liga-mx.png",
+            "width": 1200
+          }
+        },
+        "title": null,
+        "type": null,
+        "uid": null
+      }
+    },
+    "coverage": "Core",
+    "home": {
+      "abbreviatedName": "VAS",
+      "fullName": "Vasco da Gama",
+      "imageURI": "https://st1.uvnimg.com/1b/62/c1806ee54c1ca3ffbac9fc55ebd4/261-eb.png",
+      "scoreValue": {
+        "firstLeg": 3,
+        "penalty": 0,
+        "score": 0
+      }
+    },
+    "away": {
+      "abbreviatedName": "SAN",
+      "fullName": "Santos",
+      "imageURI": "https://st1.uvnimg.com/e4/da/8f4c492c4d6fa8781f4533d33c03/73-eb.png",
+      "scoreValue": {
+        "firstLeg": 3,
+        "penalty": 0,
+        "score": 0
+      }
+    }
+  },
+  "livestream": {
+    "status": "LIVE",
+    "leagueLogo": {
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "height": 630,
+          "href": "https://st1.uvnimg.com/12/e5/3e2b733d4867996d44e784de4aa4/logo-liga-mx.png",
+          "width": 1200
+        }
+      },
+      "title": null,
+      "type": null,
+      "uid": null
+    },
+    "coverage": "Core",
+    "homeTeam": {
+      "teamAbbreviatedName": "VAS",
+      "teamName": "Vasco da Gama",
+      "teamLogo":{
+        "type":"image",
+        "uid":"0000014d-0869-ddc6-a5dd-19ff724f0000",
+        "title":"261_eb",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://st1.uvnimg.com/1b/62/c1806ee54c1ca3ffbac9fc55ebd4/261-eb.png",
+            "width":100,
+            "height":100
+          }
+        }
+      },
+      "previousFixtureScore": 3,
+      "penaltyScore": 0,
+      "score": 0
+    },
+    "awayTeam": {
+      "teamAbbreviatedName": "SAN",
+      "teamName": "Santos",
+      "teamLogo":{
+        "type":"image",
+        "uid":"0000014d-0869-ddc6-a5dd-19ff724f0000",
+        "title":"261_eb",
+        "caption":null,
+        "credit":null,
+        "renditions":{
+          "original":{
+            "href":"https://st1.uvnimg.com/e4/da/8f4c492c4d6fa8781f4533d33c03/73-eb.png",
+            "width":100,
+            "height":100
+          }
+        }
+      },
+      "previousFixtureScore": 3,
+      "penaltyScore": 0,
+      "score": 0
+    }
+  },
+  "cell": {
+    "away": {
+      "abbreviatedName": "LEV",
+      "fullName": "Levante",
+      "id": "8",
+      "url": "",
+      "imageURI": null,
+      "isWinner": false,
+      "scoreValue": {
+        "penalty": null,
+        "score": null,
+        "firstLeg": null
+      }
+    },
+    "date": "2018-03-14T19:45:00Z",
+    "elapsedTime": "",
+    "fixture": "Vuelta",
+    "channels": [],
+    "home": {
+      "abbreviatedName": "RSO",
+      "fullName": "Real Sociedad",
+      "id": "178",
+      "url": "",
+      "imageURI": null,
+      "isWinner": false,
+      "scoreValue": {
+        "penalty": null,
+        "score": null,
+        "firstLeg": null
+      }
+    },
+    "key": "964763",
+    "leagueName": "Champions League",
+    "leaguePhase": "Round of 16",
+    "status": "pre",
+    "stadiumName": "Camp Nou",
+    "url": "http://univision.com/deportes/futbol/liga-campeones-concacaf/besiktas-bayern-fc-liga-campeones-concacaf-2018-04-10",
+    "hasLiveStream": true,
+    "tvAuthenticated": true,
+    "tudnXtra": true,
+    "leagueKey": "5",
+    "week": "8",
+    "broadcastLanguage": null
+  }
+}

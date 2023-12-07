@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "label": "Enero"
+    },
+    {
+      "label": "Febrero"
+    },
+    {
+      "label": "Marzo"
+    },
+    {
+      "label": "Abril"
+    },
+    {
+      "label": "Mayo"
+    },
+    {
+      "label": "Junio"
+    },
+    {
+      "label": "Julio"
+    },
+    {
+      "label": "Agosto"
+    },
+    {
+      "label": "Septiembre"
+    },
+    {
+      "label": "Octubre"
+    },
+    {
+      "label": "Noviembre"
+    },
+    {
+      "label": "Diciembre"
+    }
+  ]
+}

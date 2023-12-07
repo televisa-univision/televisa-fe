@@ -1,0 +1,36 @@
+{
+  "private": true,
+  "name": "univision-fe-tools",
+  "version": "10.680.1",
+  "description": "Univision FE tools.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision/univision-fe.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "performance:entretenimiento": "cd performance && yarn test:entretenimiento",
+    "performance:deportes": "cd performance && yarn test:deportes",
+    "performance:match-center": "cd performance && yarn test:match-center",
+    "ci:cancel": "cd ci && node cancelRedundantJobs",
+    "ci:docs": "cd ci && yarn ci:docs",
+    "ci:monitor": "cd ci && yarn ci:monitor",
+    "ci:setEnvs": "cd ci && yarn ci:setEnvs",
+    "ci:storybooks": "cd ci && yarn ci:storybooks",
+    "ci:tagRelease": "cd ci && yarn ci:tagRelease"
+  },
+  "author": "UVN Platform Engineers",
+  "license": "MIT",
+  "dependencies": {
+    "artillery": "^1.6.0-27",
+    "aws-sdk": "^2.432.0",
+    "chalk": "^4.1.0",
+    "dotenv": "^6.2.0",
+    "eslint": "6.5.0",
+    "node-fetch": "^2.3.0",
+    "psi": "^4.0.1",
+    "simple-git": "^1.116.0"
+  }
+}

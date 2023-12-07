@@ -1,0 +1,132 @@
+{
+  "AllVideoPlaylistVideo": {
+    "mobile": {
+      "height": 970,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 670,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 670,
+      "offset": 400
+    }
+  },
+  "SingleWidget": {
+    "mobile": {
+      "height": 400,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 810,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 850,
+      "offset": 400
+    }
+  },
+  "GridWidget": {
+    "mobile": {
+      "height": 1050,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 1700,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 435,
+      "offset": 400
+    }
+  },
+  "ShowsLFGridFeaturedEpisodes": {
+    "mobile": {
+      "height": 414,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 800,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 555,
+      "offset": 400
+    }
+  },
+  "HeroWidget": {
+    "mobile": {
+      "height": 414,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 800,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 555,
+      "offset": 400
+    }
+  },
+  "ListWidget": {
+    "mobile": {
+      "height": 1150,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 2125,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 760,
+      "offset": 400
+    }
+  },
+  "CarouselWidget": {
+    "mobile": {
+      "height": 390,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 432,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 485,
+      "offset": 400
+    }
+  },
+  "VerticalSlideshow": {
+    "mobile": {
+      "height": 500,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 700,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 850,
+      "offset": 400
+    }
+  },
+  "AllCarouselIconPromo": {
+    "mobile": {
+      "height": 100,
+      "offset": 250
+    },
+    "tablet": {
+      "height": 100,
+      "offset": 350
+    },
+    "desktop": {
+      "height": 100,
+      "offset": 400
+    }
+  },
+  "default": {
+    "height": 400,
+    "offset": 200
+  }
+}

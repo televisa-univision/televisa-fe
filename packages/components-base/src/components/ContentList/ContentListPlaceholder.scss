@@ -1,0 +1,19 @@
+.preloader {
+  text-align: center;
+  background: white;
+  height: 140px;
+  padding: 32px;
+  border-top: 3px solid $black;
+}
+
+.loaderBox {
+  > div:first-child {
+    margin: 0 auto 8px;
+  }
+  > div:last-child {
+    text-transform: uppercase;
+    font-size: rem(11px);
+    line-height: 1;
+    color: $grey-black;
+  }
+}

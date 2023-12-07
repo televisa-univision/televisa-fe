@@ -1,0 +1,24 @@
+.title {
+  margin-bottom: rem(11px);
+  color: $white;
+  font-size: rem(13px);
+  line-height: rem(15px);
+  text-align: center;
+  text-transform: uppercase;
+
+  &:not(:first-child) {
+    margin-top: 1.25rem;
+  }
+
+  &.light {
+    color: $black-grey;
+  }
+
+  > a {
+    line-height: rem(15px);
+  }
+
+  @include media-breakpoint-up('sm') {
+    text-align: left;
+  }
+}

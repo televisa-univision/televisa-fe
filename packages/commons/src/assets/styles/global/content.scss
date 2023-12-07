@@ -1,0 +1,145 @@
+html, body {
+  // This helps to prevent the horizontal overflow and horizontal scroll to body level.
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  color: $black;
+  @include uvs-font('a', 'regular');
+  line-height: 1.5rem;
+}
+
+a:hover, a:visited, a:active, a:focus {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 0;
+}
+
+.widget {
+  margin-bottom: $widgets-margin-bottom-mobile;
+
+  @include media-breakpoint-up('md') {
+    margin-bottom: $widgets-margin-bottom-desktop;
+  }
+
+  &:first-of-type {
+    margin-top: $widgets-first-margin-top-mobile;
+
+    @include media-breakpoint-up('md') {
+      margin-top: $widgets-first-margin-top-desktop;
+    }
+
+    /* Default behavior */
+    // Desktop: Widgets should have a space separating header and first widget on page
+    // Mobile: There should be no space between header and first widget
+    & > .#{$namespace}widget {
+      h2 {
+        margin-top: $widgets-first-margin-top-mobile;
+      }
+
+      @include media-breakpoint-up('sm') {
+        margin-top: $widgets-first-margin-top-desktop;
+        h2 {
+          margin-top: 0;
+        }
+      }
+    }
+    /* Lead widget with top margins */
+    // Adds a fixed top margin for widgets that should never touch the top header
+    & > .#{$namespace}widget-lead {
+      margin-top: $widgets-first-margin-top-mobile;
+      @include media-breakpoint-up('sm') {
+        margin-top: $widgets-first-margin-top-desktop;
+      }
+    }
+  }
+
+  &:last-of-type {
+    margin-bottom: $widgets-last-margin-bottom-mobile;
+
+    @include media-breakpoint-up('md') {
+      margin-bottom: $widgets-last-margin-bottom-desktop;
+    }
+  }
+}
+
+.#{$namespace} {
+  // text links
+  &text-link {
+    color: $black-grey;
+  }
+  &text-hover {
+    &:hover {
+      text-decoration: none;
+      color: $grey-black;
+    }
+  }
+  &ad-wrapper-empty {
+    display: none;
+  }
+  &ad-ready &skeleton {
+    display: none;
+  }
+  &ad-widget {
+    margin-bottom: $widgets-margin-bottom-mobile;
+    margin-top: $widgets-first-margin-top-mobile;
+
+    @include media-breakpoint-up('md') {
+      margin-top: $widgets-first-margin-top-desktop;
+    }
+  }
+}
+
+.instagram-media,
+.twitter-tweet,
+.twitter-tweet iframe,
+.twitter-video,
+.twitter-video iframe,
+iframe {
+  display: block;
+  margin: auto !important; //required to center align external content
+  max-width: 100%;
+}
+
+// hides natives ads
+.uvn-ad-native-item-hidden {
+  display: none;
+}
+
+// native ad container
+.uvs-native-ad-container {
+  height: auto !important;
+  div:first-child {
+    width: 100%;
+    height: auto !important;
+    iframe {
+      width: 100% !important;
+      height: auto !important;
+    }
+  }
+}
+
+//spacing bootstrap - grid
+.px-0, .pl-0{
+  padding-left: 0;
+}
+
+.px-0, .pr-0{
+  padding-right: 0;
+}
+
+.mx-0, .ml-0{
+  margin-left: 0;
+}
+
+.mx-0, .mr-0{
+  margin-right: 0;
+}

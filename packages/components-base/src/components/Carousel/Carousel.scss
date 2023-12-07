@@ -1,0 +1,37 @@
+.mobileWrapper {
+  overflow-y: hidden;
+}
+
+.desktopWrapper {
+  display: block;
+  position: relative;
+  margin: 0 calc($grid-gutter-width / -2);
+}
+
+.separator {
+  display: flex;
+  height: 2px;
+  flex-shrink: 0;
+}
+
+.desktopContainer {
+  display: flex;
+  width: 100%;
+}
+
+.wrapperCheck {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.component {
+  display: flex;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.ssrOverflow {
+  display: flex;
+  overflow: visible;
+}

@@ -1,0 +1,19 @@
+{
+  "gordoflaca": {
+    "uri": "/shows/el-gordo-y-la-flaca",
+    "title": "El Gordo y La Flaca"
+  },
+  "alpunto": {
+    "uri": "/shows/al-punto",
+    "title": "Al Punto"
+  },
+  "lareinasoyyo": {
+    "uri": "/shows/la-reina-soy-yo",
+    "title": "La Reina Soy Yo"
+  },
+  "local": {
+    "uri": "/local/los-angeles-kmex",
+    "logo": "https://st1.uvnimg.com/da/23/a92b14d54703864c3fc750bd0325/losangeles-24px.svg"
+  }
+}
+

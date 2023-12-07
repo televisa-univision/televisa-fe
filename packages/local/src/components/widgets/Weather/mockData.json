@@ -1,0 +1,484 @@
+{
+  "status": "success",
+  "data": {
+    "uid": "0000014d-5380-dd32-ad6d-539264a70000",
+    "uri": "/miami/wltv/tiempo",
+    "type": "section",
+    "updateDate": "2018-05-29T16:04:33-04:00",
+    "publishDate": "2015-05-14T13:38:19-04:00",
+    "expirationDate": null,
+    "title": "Univision 23 Miami  Tiempo",
+    "shortTitle": "Univision 23 Miami  Tiempo",
+    "description": "Miami Tiempo Section ",
+    "shortDescription": null,
+    "richTextDescription": null,
+    "isSensitive": false,
+    "primaryTag": {
+      "name": "Univision 23 Miami",
+      "link": "https://www.univision.com/miami/wltv"
+    },
+    "primaryTopic": "Local",
+    "contentPriority": "standard",
+    "adSettings": {
+      "adTagValue": "section_local/miami/univisionmiami23/tiempo",
+      "targeting": {
+        "client": "desktop",
+        "tag": [
+          "local"
+        ]
+      },
+      "isDisable3rdPartyAds": false
+    },
+    "tracking": {
+      "tealium": {
+        "account": "main",
+        "environment": "prod",
+        "data": {
+          "all_tags": [
+            "univision 23 miami",
+            "miami",
+            "local"
+          ],
+          "brand": "univision 23 miami",
+          "content_created_date": "1431625099712",
+          "content_creator": "0000014d-5349-dd32-ad6d-53db3bde0000",
+          "content_id": "0000014d-5380-dd32-ad6d-539264a70000",
+          "content_modified_date": "1527624273111",
+          "content_priority": "standard",
+          "content_type": "section",
+          "environment_name": "production",
+          "language": "es",
+          "market": "miami",
+          "page_name": "local:univision 23 miami:section:univision 23 miami  tiempo",
+          "parent_tags": [
+            "univision 23 miami",
+            "miami",
+            "local"
+          ],
+          "parent_topic": "local",
+          "permalink": "https://www.univision.com/miami/wltv/tiempo",
+          "portal_theme": "local_tv",
+          "primary_tag": "univision 23 miami",
+          "primary_tag_uid": "0000014d-0717-ddc6-a5dd-179779c80000",
+          "primary_tag_en": "univision 23 miami",
+          "promo_title": "univision 23 miami  tiempo",
+          "publisher_tags": [
+            "univision 23 miami",
+            "local"
+          ],
+          "short_title": "univision 23 miami  tiempo",
+          "short_title_en": "univision 23 miami  tiempo",
+          "station_call_letters": "wltv",
+          "station_name": "univision 23 miami",
+          "station_type": "tvstation",
+          "tags_en": [
+            "univision 23 miami",
+            "miami",
+            "local"
+          ],
+          "title": "univision 23 miami  tiempo",
+          "title_en": "univision 23 miami  tiempo",
+          "topics": [
+            "local"
+          ],
+          "uci_division": "local",
+          "website": "univision",
+          "uni_platform": "Website"
+        }
+      },
+      "nielsen": {
+        "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid": "c05",
+        "environment": "prod",
+        "primaryTopic": "Local"
+      }
+    },
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "https://www.univision.com/miami/wltv/tiempo",
+          "isFeedDialog": false,
+          "appId": "645138725541385",
+          "title": "Univision 23 Miami  Tiempo",
+          "description": null,
+          "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+        },
+        "twitter": {
+          "url": "https://www.univision.com/miami/wltv/tiempo",
+          "title": "Univision 23 Miami  Tiempo",
+          "via": "univision23"
+        },
+        "whatsapp": {
+          "url": "https://www.univision.com/miami/wltv/tiempo",
+          "message": "Univision 23 Miami  Tiempo"
+        },
+        "mail": {
+          "subject": "Univision 23 Miami  Tiempo",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nUnivision 23 Miami  Tiempo\n\nEncuéntralo en este enlace: https://www.univision.com/miami/wltv/tiempo\n\nVisitamos www.univision.com"
+        }
+      }
+    },
+    "metaTagData": {
+      "openGraph": {
+        "type": null,
+        "title": "Univision 23 Miami  Tiempo",
+        "description": "Reportes y mapas del clima para Miami. Conoce el clima de hoy para Miami. Te damos pronósticos de todo el día además de accesos al radar y mapas de clima en Miami| Tiempo | WLTV | Miami| Univision ",
+        "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+        "siteName": "Univision",
+        "url": "https://www.univision.com/miami/wltv/tiempo"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Univision 23 Miami  Tiempo",
+        "description": "Reportes y mapas del clima para Miami. Conoce el clima de hoy para Miami. Te damos pronósticos de todo el día además de accesos al radar y mapas de clima en Miami| Tiempo | WLTV | Miami| Univision ",
+        "creator": null,
+        "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+      },
+      "facebook": {
+        "pages": "259955926518,173155703431,174725429795,130815470261839"
+      }
+    },
+    "seo": {
+      "title": "Clima en Miami: pronóstico, radar, condiciones actuales | Tiempo - Univision",
+      "description": "Reportes y mapas del clima para Miami. Conoce el clima de hoy para Miami. Te damos pronósticos de todo el día además de accesos al radar y mapas de clima en Miami| Tiempo | WLTV | Miami| Univision ",
+      "keywords": [
+        "tiempo weather",
+        "clima weather",
+        "el tiempo weather",
+        "clima hoy Miami",
+        "clima hoy",
+        "weather clima",
+        "clima",
+        "clima Miami",
+        "mapa del clima",
+        "Miami clima",
+        "radar del clima",
+        "como esta el clima hoy",
+        "reporte del clima"
+      ],
+      "robots": [],
+      "tagHierarchy": [
+        {
+          "@id": "https://www.univision.com/miami/wltv/tiempo",
+          "name": "Univision 23 Miami  Tiempo",
+          "image": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+        },
+        {
+          "@id": "https://www.univision.com/noticias",
+          "name": "Noticias",
+          "image": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+        },
+        {
+          "@id": "https://www.univision.com",
+          "name": "Univision.com",
+          "image": "https://cdn3.uvnimg.com/a8/a8/a07b20854d2f848ac3d26d57fce4/univisionlogo.jpg"
+        }
+      ]
+    },
+    "brandable": {
+      "uid": "0000014d-0717-ddc6-a5dd-179779c80000",
+      "uri": "https://www.univision.com/miami/wltv",
+      "type": "tvstation",
+      "updateDate": "2018-05-14T13:35:39-04:00",
+      "publishDate": "2016-01-10T11:45:00-05:00",
+      "title": "Univision 23 Miami",
+      "shortTitle": "Univision 23 Miami",
+      "description": "Noticias locales, reportes de tráfico, clima, busca empleos, deportes, negocios, eventos, cultura y mucho más",
+      "shortDescription": "Univision 23 Miami",
+      "richTextDescription": null,
+      "image": {
+        "type": "image",
+        "uid": "00000157-f91a-ddf0-a1df-ff1fc3eb0000",
+        "title": "MIAMI, FL - UNIVISION 23 - NUEVO LOGO TV",
+        "caption": "",
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://cdn1.uvnimg.com/a4/f7/42107ef041108432452b90c0c8ec/desktop-univision-23-miami-158x98.png",
+            "width": 158,
+            "height": 98
+          }
+        }
+      },
+      "isSensitive": false,
+      "primaryTag": {
+        "name": "Open Page ",
+        "link": "/temas/global"
+      },
+      "primaryTopic": "Open Page ",
+      "contentPriority": "standard",
+      "localMarketFooter": {
+        "title": "PÁGINAS DE MIAMI",
+        "links": [
+          {
+            "uid": "0000014e-0870-dda5-a94f-1e7bb1010000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "EEO Report",
+            "href": "https://cdn4.uvnimg.com/84/cd/15afb34243e4abbc20c730f651d7/2018-eeo-tv-radio-final-miami.pdf",
+            "target": "_blank"
+          },
+          {
+            "uid": "0000014e-0c9d-dda5-a94f-1effccd50000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Univision 23 Online Public Files",
+            "href": "https://publicfiles.fcc.gov/tv-profile/wltv-dt",
+            "target": "_blank"
+          },
+          {
+            "uid": "00000165-67dc-dbfd-a7f5-67fe6cd70000",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Online Public Files WRTO",
+            "href": "https://publicfiles.fcc.gov/fm-profile/wrto-fm",
+            "target": "_blank"
+          },
+          {
+            "uid": "00000165-67dc-dc06-a565-67ffaf6b0001",
+            "uri": null,
+            "type": "externallink",
+            "versionCreated": null,
+            "text": "Online Public Files WAMR",
+            "href": "https://publicfiles.fcc.gov/fm-profile/wamr-fm",
+            "target": "_blank"
+          },
+          {
+            "uid": "0000014e-64b4-d8ff-a1ce-fefecb280000",
+            "uri": null,
+            "type": "internallink",
+            "versionCreated": null,
+            "text": "Ver Todas Ciudades",
+            "href": null,
+            "target": null
+          },
+          {
+            "uid": "00000156-8ee2-d4f0-a7fe-bee6dd380000",
+            "uri": null,
+            "type": "internallink",
+            "versionCreated": null,
+            "text": "Aviso de subtítulos e información para personas con dispacidad",
+            "href": "/miami/wltv/univision-23-miami-aviso-de-subtitulos-e-informacion-para-personas-con-discapacidad",
+            "target": null
+          }
+        ]
+      },
+      "tvStation": {
+        "uri": "/miami/wltv",
+        "call": "WLTV",
+        "localMarket": {
+          "title": "Miami",
+          "zipCodes": [
+            "33130"
+          ]
+        },
+        "logo": {
+          "type": "image",
+          "uid": "00000157-f91a-ddf0-a1df-ff1fc3eb0000",
+          "title": "MIAMI, FL - UNIVISION 23 - NUEVO LOGO TV",
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/a4/f7/42107ef041108432452b90c0c8ec/desktop-univision-23-miami-158x98.png",
+              "width": 158,
+              "height": 98
+            },
+            "16x9-mobile": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/dc2a585/2147483647/crop/158x89%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/2c965d2/2147483647/crop/158x90%2B0%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/efbdabf/2147483647/crop/158x89%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/5654f13/2147483647/crop/158x89%2B0%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/dd2de9b/2147483647/crop/158x89%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/fcce1f9/2147483647/crop/158x89%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 400,
+              "height": 225
+            },
+            "1x1-person-profile": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/2e7dca7/2147483647/crop/98x98%2B27%2B0/resize/182x182/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 182,
+              "height": 182
+            },
+            "16x9-extended": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/4be0589/2147483647/crop/158x89%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 1440,
+              "height": 810
+            }
+          }
+        },
+        "headerLogo": {
+          "type": "image",
+          "uid": "00000157-f91a-ddf0-a1df-ff1fc3eb0000",
+          "title": "MIAMI, FL - UNIVISION 23 - NUEVO LOGO TV",
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/a4/f7/42107ef041108432452b90c0c8ec/desktop-univision-23-miami-158x98.png",
+              "width": 158,
+              "height": 98
+            },
+            "16x9-mobile": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/dc2a585/2147483647/crop/158x89%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-loading": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/2c965d2/2147483647/crop/158x90%2B0%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 30,
+              "height": 17
+            },
+            "16x9-sm": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/efbdabf/2147483647/crop/158x89%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/5654f13/2147483647/crop/158x89%2B0%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/dd2de9b/2147483647/crop/158x89%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-med": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/fcce1f9/2147483647/crop/158x89%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 400,
+              "height": 225
+            },
+            "1x1-person-profile": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/2e7dca7/2147483647/crop/98x98%2B27%2B0/resize/182x182/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 182,
+              "height": 182
+            },
+            "16x9-extended": {
+              "href": "https://cdn3.uvnimg.com/dims4/default/4be0589/2147483647/crop/158x89%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fa4%2Ff7%2F42107ef041108432452b90c0c8ec%2Fdesktop-univision-23-miami-158x98.png",
+              "width": 1440,
+              "height": 810
+            }
+          }
+        },
+        "alternativeLogo": null,
+        "contact": {
+          "aboutStation": "/global/somos-univision-23-miami"
+        },
+        "socialNetworks": [
+          {
+            "name": "FACEBOOK",
+            "href": "https://www.facebook.com/UNIVISION23MIAMI/",
+            "text": "Univision 23 Miami Facebook"
+          },
+          {
+            "name": "TWITTER",
+            "href": "https://twitter.com/univision23",
+            "text": "Univision 23 Miami Twitter"
+          },
+          {
+            "name": "YOUTUBE",
+            "href": "https://www.youtube.com/channel/UCWIlfUAeLIKxPO7c5TIPK_w",
+            "text": "Univision 23 Miami YouTube"
+          }
+        ]
+      },
+      "adValue": "/local/miami/univisionmiami23"
+    },
+    "tagHierarchy": [
+      {
+        "name": "local",
+        "url": "https://www.univision.com/temas/local"
+      },
+      {
+        "name": "miami",
+        "url": null
+      },
+      {
+        "name": "univision 23 miami",
+        "url": "https://www.univision.com/miami/wltv"
+      }
+    ],
+    "secondaryTags": [],
+    "widgets": [
+      {
+        "type": "NoticiasCardWeatherMaps",
+        "settings": {
+          "uid": "00000162-d46c-d39d-ab62-f67e67260002",
+          "updateDate": null,
+          "publishDate": null,
+          "title": "Mapas",
+          "type": "noticiascardweathermaps",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": []
+      },
+      {
+        "type": "NoticiasCardWeatherGraphics",
+        "settings": {
+          "uid": "00000162-d46d-d137-a77e-dd7f09b20000",
+          "updateDate": null,
+          "publishDate": null,
+          "title": "Gráficos",
+          "type": "noticiascardweathergraphics",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": []
+      },
+      {
+        "type": "NoticiasCardWeatherConditions",
+        "settings": {
+          "uid": "00000162-d46d-d137-a77e-dd7f46e80000",
+          "updateDate": null,
+          "publishDate": null,
+          "title": "Condiciones del Agua",
+          "type": "noticiascardweatherconditions",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": []
+      },
+      {
+        "type": "NoticiasCardTropicalWeatherConditions",
+        "settings": {
+          "uid": "00000162-d46d-d39d-ab62-f67f97cb0002",
+          "updateDate": null,
+          "publishDate": null,
+          "title": "Sistemas Tropicales",
+          "type": "noticiascardtropicalweatherconditions",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": []
+      }
+    ],
+    "isNationalRadioShow": false,
+    "socialNetworks": [],
+    "ttl": 900,
+    "feedGeneratedAt": "2018-10-26T08:13:57-04:00"
+  }
+}

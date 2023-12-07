@@ -1,0 +1,30 @@
+{
+  "uri": "/deportes/futbol/copa-mx-apertura/celaya-vs-santos-laguna-copa-mx-apertura-2018-08-15",
+  "ads": {
+    "desktop": {
+      "top": "prev_scp=client=desktop&pos=TOP&seq=D-F728-1&vertical=deportes&contenttype=soccermatch&bkpt=1024",
+      "mid1": "prev_scp=client=desktop&pos=MID&seq=D-F728-2&vertical=deportes&contenttype=soccermatch&bkpt=1024",
+      "mid2": "prev_scp=client=desktop&pos=MID&seq=D-F300-3&vertical=deportes&contenttype=soccermatch&bkpt=1024"
+    },
+    "mobile": {
+      "top": "prev_scp=client=mobile&pos=TOP&seq=M-320-1&vertical=deportes&contenttype=soccermatch&bkpt=320",
+      "mid1": "prev_scp=client=mobile&pos=MID&seq=M-320-2&vertical=deportes&contenttype=soccermatch&bkpt=320",
+      "mid2": "prev_scp=client=mobile&pos=MID&seq=M-300-3&vertical=deportes&contenttype=soccermatch&bkpt=320"
+    }
+  },
+  "selectors": {
+    "MatchHeader": "[data-element-name='SectionTitle']",
+    "topAd": "[data-widget-type='Advertisement'][data-position='2']",
+    "midAd1": "[data-widget-type='Advertisement'][data-position='5']",
+    "MatchCenterOpening": "[data-widget-type='DeportesGridSoccerMatchCenterOpening'] > div > div",
+    "MatchSummary": "[data-widget-type='DeportesMatchSummary'] > div > div",
+    "SoccerStandings": "[data-widget-type='DeportesGridSoccerStandings'] > div > div",
+  },
+  "tracking": {
+    "dataLayer": {
+      "adtag_value": "section_deportes/futbol/copamx",
+      "content_type": "soccermatch",
+      "permalink": "https://uat.tudn.com/futbol/copa-mx-apertura/celaya-vs-santos-laguna-copa-mx-apertura-2018-08-15"
+    }
+  }
+}

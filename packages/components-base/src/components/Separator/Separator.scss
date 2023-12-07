@@ -1,0 +1,23 @@
+.separator {
+    background-color: $light-grey;
+    border: none;
+    display: block;
+    height: 1px;
+    padding: 0;
+    width: 100%;
+}
+
+// Positions
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right {
+    margin-left: auto;
+}
+
+// Sizes
+.small {
+    width: 50px;
+}

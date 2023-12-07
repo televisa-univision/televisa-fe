@@ -1,0 +1,220 @@
+.horoscopeContainer {
+  position: relative;
+  padding-bottom: 10px;
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background: url($striped-background);
+  }
+
+  form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    @include media-breakpoint-up('md') {
+      flex-direction: column;
+      align-items: flex-start;
+      margin-bottom: 48px;
+    }
+  }
+  label[for=year] {
+    font-weight: bold;
+    margin: 0;
+    padding-right: 8px;
+    white-space: nowrap;
+    font-size: rem(18px);
+    line-heighT: rem(22px);
+    @include media-breakpoint-up('md') {
+      display: block;
+      margin-bottom: 8px;
+    }
+  }
+}
+.animals {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 32px 0 0;
+  @include media-breakpoint-up('md') {
+    padding: 0;
+  }
+}
+
+.intro {
+  font-size: rem(14px);
+  line-height: rem(17px);
+  color: $darker-grey;
+  margin-bottom: 16px;
+  @include media-breakpoint-up('sm') {
+    margin-bottom: 40px;
+  }
+}
+
+.year {
+  color: $darker-grey;
+  font-weight: bold;
+  width: 75%;
+  border: 1px solid $light-grey;
+  padding: 8px;
+  line-height: rem(30px);
+  &::-webkit-inner-spin-button,
+  &::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  &::placeholder {
+    font-weight: normal;
+    color: $grey;
+  }
+  &:focus {
+    outline: 0;
+    border-color: $grey;
+  }
+}
+
+.assist {
+  display: block;
+  color: $grey;
+  font-size: rem(11px);
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  svg {
+    fill: $grey;
+  }
+}
+
+.show {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  top: 8px;
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}
+
+.animalWrapper {
+  position: relative;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  flex-basis: 33.333%;
+  cursor: pointer;
+
+  &:active, &:focus {
+    outline: 1px solid $light-grey;
+  }
+  @include media-breakpoint-up('sm') {
+    flex-basis: 25%;
+  }
+  @include media-breakpoint-up('lg') {
+    flex-basis: 16.666%;
+  }
+  &.active, &:hover {
+
+    .animal {
+      opacity: 1;
+      color: $purple;
+      &:after {
+        background-color: $black;
+      }
+    }
+  }
+  &.active {
+    margin-bottom: -16px;
+  }
+  &:not(.active):hover .animal {
+    text-decoration: underline;
+  }
+  &.inactive:not(:hover) .animal {
+    opacity: .5;
+  }
+}
+.animal {
+  position: relative;
+  width: 75px;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: $black-grey;
+  font-size: rem(13px);
+  @include media-breakpoint-up('md') {
+    width: 105px;
+  }
+  &:after {
+    position: absolute;
+    content: '';
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    background-color: $white;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    z-index: -1;
+    transition: background-color .2s;
+    @include media-breakpoint-up('md') {
+      width: 100px;
+      height: 100px;
+    }
+  }
+}
+
+.icon {
+  width: 100%;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.share {
+  margin: 16px auto;
+  flex-direction: column;
+  @include media-breakpoint-up('sm') {
+    margin: 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  > div {
+    @include media-breakpoint-up('sm') {
+      line-height: rem(33px);
+      align-self: inherit;
+    }
+    &:first-child {
+      padding: 0;
+      color: $grey-black;
+      font-size: rem(11px);
+      line-height: rem(13px);
+      font-weight: normal;
+    }
+    &:last-child {
+      a {
+        border-right: 0;
+        padding: 16px 28px;
+        line-height: 1;
+        margin: 0;
+        @include media-breakpoint-up('sm') {
+          padding: 8px 28px;
+          &:first-child {
+            margin-left: -28px;
+          }
+        }
+        @include media-breakpoint-up('md') {
+          padding: 8px;
+          &:first-child {
+            margin-left: -8px;
+          }
+        }
+      }
+    }
+  }
+}

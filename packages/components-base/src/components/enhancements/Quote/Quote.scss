@@ -1,0 +1,19 @@
+.blockquote {
+  padding-left: 25px;
+  border-left: 2px solid transparent;
+  margin: $enhancement-margin-vertical 0;
+
+  @include media-breakpoint-up('sm') {
+    margin: $enhancement-margin-vertical 0 $enhancement-margin-vertical 55px;
+  }
+}
+
+.pullquote {
+  color: $black;
+  font-size: rem(24px);
+  font-weight: 600;
+  line-height: rem(29px);
+  margin: $enhancement-margin-vertical auto;
+  max-width: 720px;
+  text-align: left;
+}

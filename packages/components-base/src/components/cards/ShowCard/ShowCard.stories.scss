@@ -1,0 +1,23 @@
+:global {
+  html, body {
+    min-height: 100%;
+  }
+  #root {
+    padding: 10px;
+    min-height: 100%;
+  }
+}
+
+.halfWrapper {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+
+  > * {
+    flex: 1;
+  }
+
+  & > div:first-child {
+    margin-right: 8px;
+  }
+}

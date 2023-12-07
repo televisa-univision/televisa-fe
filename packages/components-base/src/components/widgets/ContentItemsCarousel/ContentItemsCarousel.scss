@@ -1,0 +1,57 @@
+.container {
+  overflow-x: hidden;
+}
+.wrapper {
+  button {
+    // Arrow containers fill the entire height of the card
+    // Adjust position of arrow icon to center with image instead of it's container
+    &:after, &:before {
+      position: absolute;
+      top: 30%;
+      @include media-breakpoint-up('md') {
+        top: 24%;
+      }
+      @include media-breakpoint-up('lg') {
+        top: 26%;
+      }
+      @include media-breakpoint-up('xl') {
+        top: 32%;
+      }
+    }
+  }
+}
+.contentCardWrapper {
+  width: 100%;
+}
+.card {
+  margin: 0 calc($grid-gutter-width / 2) !important;
+  h3 {
+    font-size: rem(18px);
+    line-height: rem(22px);
+  }
+}
+
+.dark {
+  background-color: $black;
+}
+
+div.leftArrow , div.rightArrow {
+  height: 170px;
+  @include media-breakpoint-down('lg') {
+    height: 166px;
+  }
+  @include media-breakpoint-down('md') {
+    height: 130px;
+  }
+  @include media-breakpoint-down('sm') {
+    height: 198px;
+  }
+  width: 44px;
+  button{
+    width: 100%;
+    svg{
+      height: 28px;
+      width: 32px;
+    }
+  }
+}

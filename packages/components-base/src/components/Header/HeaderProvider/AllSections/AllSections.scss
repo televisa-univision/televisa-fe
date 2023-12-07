@@ -1,0 +1,47 @@
+.allSections {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transform: translateX(-100%);
+  height: 100%;
+  background: white;
+  z-index: $zindex-navigation;
+  bottom: 0;
+  overflow: auto;
+  overflow-x: hidden;
+  transition: transform .2s ease-in;
+  @include media-breakpoint-up('sm') {
+    transform: translateY(-100%);
+    opacity: 1;
+  }
+  &.dark {
+    background: $black;
+  }
+}
+
+.open {
+  transform: translateX(0);
+  @include media-breakpoint-up('sm') {
+    transform: translateY(0);
+  }
+}
+
+.mobileControls {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  :last-child {
+    text-align: right;
+  }
+}
+
+.mobileControl {
+  path {
+    fill: $darker-grey;
+    .dark & {
+      fill: $white;
+    }
+  }
+}

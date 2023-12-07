@@ -1,0 +1,978 @@
+{
+  "settings": {
+    "type": "topquicklinks",
+    "uid": "00000175-04dd-d5f6-a377-fcdd8bbb000b",
+    "title": null,
+    "titleLink": null,
+    "lazyLoaded": false,
+    "topQuickLinksTitle": "Hoy"
+  },
+  "analyticsData": {
+    "widget": {
+      "widget_pos": 1,
+      "widget_title": "no title - 00000175-04dd-d5f6-a377-fcdd8bbb000b",
+      "widget_type": "top quick links"
+    }
+  },
+  "content": [
+    {
+      "type": "article",
+      "uid": "00000173-35b4-da6d-a377-bfbcd08a0002",
+      "uri": "https://performance.univision.com/noticias/sucesos/primeras-palabras-de-la-madre-de-vanessa-guillen-no-se-en-realidad-como-me-la-mataron",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000166-404f-db58-abef-deef8fdb0000",
+        "uri": "https://performance.univision.com/noticias/sucesos",
+        "name": "sucesos",
+        "title": "Sucesos"
+      },
+      "title": "This title is shorter",
+      "description": "Gloria Guillén, madre de Vanessa Guillén, quien fue asesinada en Fort Hood, de Texas, aseguró en entrevista con Univision Noticias que al confirmarse oficialmente la muerte de su hija, le fue arrancado &quot;lo más bello&quot;. La familia estará reuniéndose con autoridades militares este fin de semana para coordinar los actos fúnebres. test",
+      "image": {
+        "type": "image",
+        "uid": "00000173-35c4-d6d2-a973-7fcddffc0000",
+        "title": "b86f89257a1e4c78972aeeb0ccb1ceec",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/04/48/1ee079564a1385123b9236428e1d/b86f89257a1e4c78972aeeb0ccb1ceec",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-10-07T07:20:45-04:00",
+      "publishDate": "2020-07-09T19:16:36-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "00000166-404f-db58-abef-deef8fdb0000",
+          "uri": "https://performance.univision.com/noticias/sucesos",
+          "name": "sucesos",
+          "title": "Sucesos"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "readTime": 3,
+      "articleType": "Standard",
+      "body": null,
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/BqrT102ir74",
+            "isFeedDialog": false,
+            "title": "Primeras palabras de la madre de Vanessa Guillén: \"No sé en realidad cómo me la mataron\"",
+            "description": "Gloria Guillén, madre de Vanessa Guillén, quien fue asesinada en Fort Hood, de Texas, aseguró en entrevista con Univision Noticias que al confirmarse oficialmente la muerte de su hija, le fue arrancado \"lo más bello\". La familia estará reuniéndose con autoridades militares este fin de semana para coordinar los actos fúnebres. test",
+            "imageUrl": "https://st1.uvnimg.com/04/48/1ee079564a1385123b9236428e1d/b86f89257a1e4c78972aeeb0ccb1ceec",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/BqrT102ir74",
+            "title": "Primeras palabras de la madre de Vanessa Guillén: \"No sé en realidad cómo me la mataron\"",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/BqrT102ir74",
+            "message": "Primeras palabras de la madre de Vanessa Guillén: \"No sé en realidad cómo me la mataron\""
+          },
+          "mail": {
+            "subject": "Primeras palabras de la madre de Vanessa Guillén: \"No sé en realidad cómo me la mataron\"",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPrimeras palabras de la madre de Vanessa Guillén: \"No sé en realidad cómo me la mataron\"\n\nEncuéntralo en este enlace:http://uni.vi/BqrT102ir74\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Sucesos",
+        "link": "https://performance.univision.com/noticias/sucesos"
+      },
+      "feedConsumer": "UNIVISION",
+      "schedule": null
+    },
+    {
+      "type": "article",
+      "uid": "00000174-db40-d990-a77e-df5d954a0006",
+      "uri": "https://performance.univision.com/noticias/la-fiscalia-de-nueva-york",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://performance.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "La Fiscalía de Nueva York",
+      "description": "Mientras la Corte Suprema dio el visto bueno para que un fiscal de Nueva York acceda a las declaraciones de impuestos de Donald Trump, los comités del Congreso deberán seguir peleando el caso ya que regresa a instancias inferiores. ",
+      "image": {
+        "type": "image",
+        "uid": "00000173-340c-dc31-a77b-769df3130000",
+        "title": "US-Mexico-diplomacy-trade-TRUMP-LOPEZ OBRADOR",
+        "caption": "La Fiscalía de Nueva York puede acceder a declaraciones de impuestos de Trump, pero el Congreso deberá esperar, dice la Corte Suprema.",
+        "credit": "JIM WATSON/AFP via Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/60/ae/79059b844d96be327d3e808780f5/gettyimages-1225697560.jpg",
+            "width": 1024,
+            "height": 683,
+            "focusPoint": {
+              "x": 0.38908993155358884,
+              "y": 0.5634920634920635
+            }
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Mariana Rambaldi",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "uri": "https://performance.univision.com/temas/mariana-rambaldi",
+          "socialNetworks": {
+            "facebookUrl": null,
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/marianarambaldi",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Periodista digital del equipo de Univision Noticias. Trabajó en la cobertura de las campañas en las elecciones presidenciales de 2016 en EEUU. ",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2020-09-30T09:59:03-04:00",
+      "publishDate": "2020-09-29T15:05:13-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://performance.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "readTime": 6,
+      "articleType": "Standard",
+      "body": null,
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/NzH1102nWvm",
+            "isFeedDialog": false,
+            "title": "La Fiscalía de Nueva York",
+            "description": "Mientras la Corte Suprema dio el visto bueno para que un fiscal de Nueva York acceda a las declaraciones de impuestos de Donald Trump, los comités del Congreso deberán seguir peleando el caso ya que regresa a instancias inferiores.",
+            "imageUrl": "https://st1.uvnimg.com/60/ae/79059b844d96be327d3e808780f5/gettyimages-1225697560.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/NzH1102nWvm",
+            "title": "La Fiscalía de Nueva York",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/NzH1102nWvm",
+            "message": "La Fiscalía de Nueva York"
+          },
+          "mail": {
+            "subject": "La Fiscalía de Nueva York",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa Fiscalía de Nueva York\n\nEncuéntralo en este enlace:http://uni.vi/NzH1102nWvm\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://performance.univision.com/noticias"
+      },
+      "feedConsumer": "UNIVISION",
+      "schedule": null
+    },
+    {
+      "type": "slideshow",
+      "uid": "0000016c-9611-d9dc-adfe-bf7badce0001",
+      "uri": "https://performance.univision.com/carros/dodge-celebra-el-50-aniversario-del-charger-daytona-con-una-edicion-limitada-de-717-hp-fotos",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "0000014f-6cb5-d67e-adff-7fbdd0330000",
+        "uri": "https://performance.univision.com/carros",
+        "name": "a bordo",
+        "title": "A Bordo"
+      },
+      "title": "Another shorter title",
+      "description": "Bajo el extenso nombre de Dodge Charger SRT Hellcat Widebody Daytona 50th Anniversary 2020, esta edición especial rinde homenaje al famoso Charger Daytona de 1969 que dominó en las pistas de NASCAR.",
+      "image": {
+        "type": "image",
+        "uid": "0000016c-9664-db73-af6c-ff7f14890000",
+        "title": "Dodge debuts limited-production 717-horsepower Daytona 50th Anni",
+        "caption": "Dodge debuts limited-production 717-horsepower Daytona 50th Anniversary Edition on new 2020 Charger SRT Hellcat Widebody",
+        "credit": "Dodge / Juan Hernandez reportero urbano",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/55/0e/504a1b7842c0a21bbcd3367bdb0c/2020-charger-srt-hellcat-widebody-daytona-50th-anniversary-edition-001.jpg",
+            "width": 3000,
+            "height": 1688
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": " Castillo Alvaro",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "uri": "https://performance.univision.com/temas/castillo-alvaro",
+          "socialNetworks": {
+            "facebookUrl": null,
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": null,
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2020-09-03T13:25:17-04:00",
+      "publishDate": "2019-08-15T16:32:48-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6cb5-d67e-adff-7fbdd0330000",
+          "uri": "https://performance.univision.com/carros",
+          "name": "a bordo",
+          "title": "A Bordo"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "slideshowType": "verticalslideshow",
+      "slideCount": 1,
+      "cardImages": [
+        {
+          "type": "image",
+          "uid": "00000173-3435-d6d2-a973-7efd83b80000",
+          "title": "b9f018b8ce854414bdf90ed992a4d7f3",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/b3/6d/1b7228c64d6d9e5808c6e12c2d9e/b9f018b8ce854414bdf90ed992a4d7f3",
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel": "wAxGsHqo",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/at1R101IQeO",
+            "isFeedDialog": false,
+            "title": "Dodge celebra el 50 aniversario del Charger Daytona con una edición limitada de 717 HP",
+            "description": "Bajo el extenso nombre de Dodge Charger SRT Hellcat Widebody Daytona 50th Anniversary 2020, esta edición especial rinde homenaje al famoso Charger Daytona de 1969 que dominó en las pistas de NASCAR.",
+            "imageUrl": "https://st1.uvnimg.com/55/0e/504a1b7842c0a21bbcd3367bdb0c/2020-charger-srt-hellcat-widebody-daytona-50th-anniversary-edition-001.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/at1R101IQeO",
+            "title": "Dodge celebra el 50 aniversario del Charger Daytona con una edición limitada de 717 HP",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/at1R101IQeO",
+            "message": "Dodge celebra el 50 aniversario del Charger Daytona con una edición limitada de 717 HP"
+          },
+          "mail": {
+            "subject": "Dodge celebra el 50 aniversario del Charger Daytona con una edición limitada de 717 HP",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDodge celebra el 50 aniversario del Charger Daytona con una edición limitada de 717 HP\n\nEncuéntralo en este enlace:http://uni.vi/at1R101IQeO\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag": {
+        "name": "A Bordo",
+        "link": "https://performance.univision.com/carros"
+      },
+      "feedConsumer": "UNIVISION",
+      "schedule": null
+    },
+    {
+      "type": "slideshow",
+      "uid": "00000150-cf2f-d9a6-af57-dfef93840000",
+      "uri": "https://performance.univision.com/shows/latin-grammy/que-princesa-es-tu-favorita-fotos",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "00000148-39ca-d000-ab6f-7bcfd3e30001",
+        "uri": "https://performance.univision.com/shows/latin-grammy",
+        "name": "latin grammy",
+        "title": "Latin Grammy"
+      },
+      "title": "¿Qué princesa es tu favorita?",
+      "description": "Cuál de todas estas bellezas te parece la mejor princesa.",
+      "image": {
+        "type": "image",
+        "uid": "00000150-f22b-d0a3-ab71-faabc1540000",
+        "title": "test",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/57/cb/d78c370a499fa92e90897a022fd2/aleprueba.jpg",
+            "width": 0,
+            "height": 0
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-08-30T19:06:53-04:00",
+      "publishDate": "2015-11-03T16:18:04-05:00",
+      "expirationDate": "3000-01-01T00:00:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://performance.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000148-39ca-d000-ab6f-7bcfd3e30001",
+          "uri": "https://performance.univision.com/shows/latin-grammy",
+          "name": "latin grammy",
+          "title": "Latin Grammy"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "slideshowType": "reactionslideshow",
+      "slideCount": 9,
+      "cardImages": [
+        {
+          "type": "image",
+          "uid": "00000150-f22b-d0a3-ab71-faabc1540000",
+          "title": "test",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/57/cb/d78c370a499fa92e90897a022fd2/aleprueba.jpg",
+              "width": 0,
+              "height": 0
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000150-f21f-d0a3-ab71-fabfe6610000",
+          "title": "Alejandra Espinoza",
+          "caption": null,
+          "credit": "ALEJANDRA ESPINOZA",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/07/d4/6bf80fbc4a188b2337000b22111b/proxy.jpg",
+              "width": 590,
+              "height": 395,
+              "focusPoint": {
+                "x": 0.5411140583554377,
+                "y": 0.39920948616600793
+              }
+            }
+          }
+        },
+        {
+          "type": "image",
+          "uid": "00000150-cf30-d9a6-af57-dffce3950000",
+          "title": "Princesas de Latin GRAMMY",
+          "caption": "Princesas de Latin GRAMMY",
+          "credit": "Univision/Agencias",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/1c/f8/2d039fed4bd78211991e69ac88b3/jackybella.jpg",
+              "width": 0,
+              "height": 0
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel": "C7F00gUV",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/vRxO101tn3S",
+            "isFeedDialog": false,
+            "title": "¿Qué princesa es tu favorita?",
+            "description": "Cuál de todas estas bellezas te parece la mejor princesa.",
+            "imageUrl": "https://st1.uvnimg.com/57/cb/d78c370a499fa92e90897a022fd2/aleprueba.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/vRxO101tn3S",
+            "title": "¿Qué princesa es tu favorita?",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/vRxO101tn3S",
+            "message": "¿Qué princesa es tu favorita?"
+          },
+          "mail": {
+            "subject": "¿Qué princesa es tu favorita?",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Qué princesa es tu favorita?\n\nEncuéntralo en este enlace:http://uni.vi/vRxO101tn3S\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag": {
+        "name": "Latin Grammy",
+        "link": "https://performance.univision.com/shows/latin-grammy"
+      },
+      "feedConsumer": "UNIVISION",
+      "schedule": null
+    },
+    {
+      "type": "video",
+      "uid": "00000173-35e3-d082-a9ff-fdebf10a0000",
+      "uri": "https://performance.univision.com/shows/noticiero-univision/senor-jesus-salvame-asi-es-el-dia-a-dia-de-los-enfermos-de-coronavirus-en-un-hospital-de-texas-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+        "uri": "https://performance.univision.com/shows/noticiero-univision",
+        "name": "noticiero univision",
+        "title": "Noticiero Univision"
+      },
+      "title": "So many long titles",
+      "description": "&quot;Tengo varios días separado, seis, siete días&quot;, indicó Elías Rubio, paciente con coronavirus que permanece en el hospital United Memorial Center, en Houston, Texas. Las personas hospitalizadas por covid-19 pasan las horas en sus habitaciones esperando que el tratamiento brinde resultados positivos. Los médicos evitan al máximo conectar a los enfermos a respiradores artificiales porque consideran muy difícil que se recuperen después. <b><a href=\"https://www.univision.com/noticias/salud/funcionarios-evaluan-la-posibilidad-de-que-los-primeros-que-reciban-una-vacuna-contra-el-covid-19-sean-negros-e-hispanos\" data-cms-id=\"00000173-19e6-df43-a9ff-ffe7284e0000\" data-cms-href=\"/noticias/salud/funcionarios-evaluan-la-posibilidad-de-que-los-primeros-que-reciban-una-vacuna-contra-el-covid-19-sean-negros-e-hispanos\" link-data=\"{&quot;cms.content.publishDate&quot;:1594337149433,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;00000158-64da-dd28-abf9-f4db7cda0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1594337149433,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;00000158-64da-dd28-abf9-f4db7cda0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;attributes&quot;:[],&quot;item&quot;:{&quot;_ref&quot;:&quot;00000173-19e6-df43-a9ff-ffe7284e0000&quot;,&quot;_type&quot;:&quot;9f352849-b032-3124-8c90-1c41a434a7c4&quot;},&quot;_id&quot;:&quot;00000173-35e6-d8bd-ad7f-bfe62f270001&quot;,&quot;_type&quot;:&quot;c3f0009d-3dd9-3762-acac-88c3a292c6b2&quot;},&quot;linkText&quot;:&quot;&lt;b&gt;Más información aquí&lt;/b&gt;&quot;,&quot;_id&quot;:&quot;00000173-35e6-d8bd-ad7f-bfe62f270000&quot;,&quot;_type&quot;:&quot;809caec9-30e2-3666-8b71-b32ddbffc288&quot;}\">Más información aquí</a></b>. ",
+      "image": {
+        "type": "image",
+        "uid": "00000173-35e4-d082-a9ff-fdec6eac0001",
+        "title": "105aa289efae493c9791e09619d5054d",
+        "caption": "caption of cover image",
+        "credit": "Credit of cover image",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/bd/1b/c79264a74ecda5d8cbb895bb44cf/105aa289efae493c9791e09619d5054d",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Pedro Rojas",
+          "image": {
+            "type": "image",
+            "uid": "0000015d-572d-dc20-a3df-5f3f59ef0000",
+            "title": "Pedro_Rojas-Univision1.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/db/ab/c12aa7ca4145bdffc9353d5fcce8/pedro-rojas-univision1.jpg",
+                "width": 612,
+                "height": 392,
+                "focusPoint": {
+                  "x": 0.4940257668308511,
+                  "y": 0.4388317817996233
+                }
+              }
+            }
+          },
+          "uri": "https://performance.univision.com/temas/pedro-rojas",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/pedrorojasunivision/",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/projas_p",
+              "target": "_blank"
+            },
+            "youTubeUrl": {
+              "text": null,
+              "name": "YouTube",
+              "url": "https://www.youtube.com/user/UnivisionNoticias",
+              "target": "_blank"
+            }
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Corresponsal en Texas de Noticiero Univision",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2020-08-24T07:19:27-04:00",
+      "publishDate": "2020-07-09T18:35:00-04:00",
+      "expirationDate": "2030-07-09T18:35:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://performance.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+          "uri": "https://performance.univision.com/shows/noticiero-univision",
+          "name": "noticiero univision",
+          "title": "Noticiero Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884645",
+      "durationString": "2:05",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/9afV102ir5o",
+            "isFeedDialog": false,
+            "title": "\"Señor Jesús, sálvame\": así es el día a día de los enfermos de coronavirus en un hospital de Texas",
+            "description": "\"Tengo varios días separado, seis, siete días\", indicó Elías Rubio, paciente con coronavirus que permanece en el hospital United Memorial Center, en Houston, Texas. Las personas hospitalizadas por covid-19 pasan las horas en sus habitaciones esperando que el tratamiento brinde resultados positivos. Los médicos evitan al máximo conectar a los enfermos a respiradores artificiales porque consideran muy difícil que se recuperen después. Más información aquí.",
+            "imageUrl": "https://st1.uvnimg.com/bd/1b/c79264a74ecda5d8cbb895bb44cf/105aa289efae493c9791e09619d5054d",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/9afV102ir5o",
+            "title": "\"Señor Jesús, sálvame\": así es el día a día de los enfermos de coronavirus en un hospital de Texas",
+            "via": "uninoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/9afV102ir5o",
+            "message": "\"Señor Jesús, sálvame\": así es el día a día de los enfermos de coronavirus en un hospital de Texas"
+          },
+          "mail": {
+            "subject": "\"Señor Jesús, sálvame\": así es el día a día de los enfermos de coronavirus en un hospital de Texas",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"Señor Jesús, sálvame\": así es el día a día de los enfermos de coronavirus en un hospital de Texas\n\nEncuéntralo en este enlace:http://uni.vi/9afV102ir5o\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "categories": ["Television", "Shows", "Noticias"],
+      "dateCreated": "2020-07-09T18:35:55-04:00",
+      "airDate": "2020-07-09T18:35:00-04:00",
+      "rating": "TV-G",
+      "season": 2020,
+      "series": "13",
+      "seriesName": "Noticiero Univision",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "coronavirus us",
+        "pandemia",
+        "asistencia social",
+        "sociedad",
+        "problemas sociales",
+        "television",
+        "covid-19",
+        "videos",
+        "texas",
+        "Enfermedades",
+        "eeuu",
+        "coronavirus usa",
+        "Salud",
+        "Coronavirus",
+        "leyes y prohibiciones",
+        "noticas",
+        "noticiero univision",
+        "pedro rojas",
+        "interés humano",
+        "Edicion diurna",
+        "asuntos sociales",
+        "comunidad"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "USA Plus",
+          "access": "public",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "MX",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/5B2/F9C/5B2F9CF592054735B6736C8A778BF000.dfxp?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688945012&Signature=sBpSiajp9H8v6j6xKOABWBL68rPJfbzvBtFX5%2Bf1E4XazT3eggUPLGQnRimSBb7DPdGVDbOWUWN1UQKGgqhfmE%2FDenV90qvjhVq7v1JPwTYV2%2Bz%2BpdMtV8nqrM0ACbjtQbxjKRkXtagVPJ%2Bvdja6rFTD86xJTD7C1x5F6EvvqdMsKy%2BWQ9Dc5OP9tQT8RThRjG2MfwvKIO730XZkuVx0HBAMN9lgq43HebsKLJfn9RU%2B6eNxDjShUZ1YNfEPhC5DrFccU118c8v5qbIe6QNzd0SO%2Bud8ZYE2JrUcFVfAcaCzQusU3P5vC9nra9FpZF2moYQM2J1nCtEJVPKqD3IKNA%3D%3D",
+          "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/dfxp/es",
+          "linkQualifierFmg": {
+            "contentType": "DFXP",
+            "language": "es"
+          }
+        },
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/430/A2F/430A2FC4C1E0447FA587614AA3EF6791.json?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688945012&Signature=oobSAdXJYGMVr4vXKQbLwCmqUsa2skmXX6ZXkqHBu%2B3X%2FTSPZBem1EPc6lNiFzk8hZ%2FI7MdAnvCq%2FTLFUVsQAPxpKES3YjWvpSqC%2F7DR%2BZ6xtOERgn7si1R88DwM0K3CYnWo4DEPN2IKVBkyFIj4bFMoxw3Ni7W4XKWcmG3T0alFmwnRhk0A1gnKzHGO4dqC6T5gVb0L9BO4NgYVxmogqTivDOaAbggXtIRIU8VcjK7XM3sZwPXIlBoqHHBhk5NMMe0ZjM1EJubemOZVfgfgeImPhgU1b98B24FEuCBODpuzIBD0UQyBm%2BmptkfUJiI83rGAY5Xzrg50kE7X3WSK3g%3D%3D",
+          "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/json/es",
+          "linkQualifierFmg": {
+            "contentType": "JSON",
+            "language": "es"
+          }
+        },
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/A00/163/A00163F4CD37455E9BD1717F447CD965.scc?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688945012&Signature=t9K8Ikg2mMwX%2BSGek9w%2BjlMi%2Bxj%2BQs30gU9eE5g5X7s5kypr2Z2jd2yeWT8IhBWy8oz7yueZKh7HXfgX4t9rTAIAxgu%2FTTR6niR7WhWrnQcw%2Bfcc5LcbZ%2BADnGH%2BlIFFyZySNa5g8gpu%2BEoUeX9DfaZFhYQl0qYkfu%2B5nxeKiiamijjKCCR%2B0JB7eq1aSZbxIilmT%2FRL46HEz1kajOp7IwNkQarPaYftzGR%2BtSBdSgE4DL1Wgmut6%2BucpjA2Aa5gyP4OiK%2F8NHugLZfV0To8898XJSdWQ4lUikkr3ipOHKHaCMxhRyc81XXJlWqxw7mta296KPJI%2FetoeBCuIuOVgw%3D%3D",
+          "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/scc/es",
+          "linkQualifierFmg": {
+            "contentType": "SCC",
+            "language": "es"
+          }
+        },
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/C59/669/C5966901F6E3412E898B7965CB91EED6.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688945012&Signature=r6F7vni3HLWYiZ%2F1GQIEbqpCWVe1oBc8q5mi84XNwDfFIlXLONCco2P%2BCZS3V%2ForeUbbl9kEJDGX4j8qXNMfWlSrnRSmR9tGjYTgybNIUTDE4EKDMU0APDDVC7Xv9TFwWEl%2Fbk8cdB0AKb7pE88y5oSD2oHzqobsjU2tV0sAMHXjahFTb0cFVs5Va7CuUxwsgXQ7EbkIV1fR1P%2BdiUp7oTSl1O0O3k%2BeGzpQvACjVTdQAOskR4PSc%2BYQbFtcwFfWkRgeqRunkZHXmuRS5IGGDuexNalRAryX3dZnf0AVAF4N06029Y1Rluhe9kuWD1poc6fFBc87R477HRWoYHFIMA%3D%3D",
+          "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/smpte-tt/es",
+          "linkQualifierFmg": {
+            "contentType": "SMPTE-TT",
+            "language": "es"
+          }
+        },
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/721/FC9/721FC9DDEEA740DF9219BBFAE36798F2.vtt?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688945012&Signature=vdaIFkPk3Jst7oBI1L1suVLW3GjqQWiKbUEPZBDZwrz1aqyrGOHickJc%2BNtfEU0VKNDMFyaOdzDSzo43AzEHgQB%2FAkhLPZ1M44mAXksV5O791dKW8hywXU%2FWCeXRbMcpoZJ927kHMF9SgEMO6vyP7VuNhFLEGtYWyfxRnFSOhLsIowdU3szrmOcfD%2B2JA9K2BkYxYhU0%2B289QpVFCuy3XyLQZnj5L48rNKNQ1nn6CP7kEe2smMkMsil8n5Mw9cJMm2tCa07o2XX09VR%2B6%2F%2FLkKziSF356japJq8NSTW%2F68T125AyCiqmYhXA%2FAK4jJzNq7Q%2F3NduftkJCOShzGMTZg%3D%3D",
+          "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/vtt/es",
+          "linkQualifierFmg": {
+            "contentType": "VTT",
+            "language": "es"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/93C/B0F/93CB0F5001DC43ADB270223437C304C3.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688945012&Signature=njYk6mNVodurHrs5ynzVgbonnx4vBZpVNwvv9GHn%2F%2BcNqcz%2BFN2FqQdeufFTej%2F5KKJlec9uIMSrBj2y9b4sHHyx9GE01dQ0A51MmqARE4oN7Pe%2FFc%2FX%2BlUKQ9JA0TdiYNxHs1wz0FOXoOTfSsFcFVer7O2Z8THfU8VCETnVrR7VuoeQN9q%2FkvVEXVcjSxNpos334TTVR3r6cYSjxeUV2zWIE8Jfp2O%2BbWsiQ5nH1PvqJhwK%2BFvgr02ZXP5P2wOrEgaPvcNddYCy22roeuTftU4NpnzJZu7wns%2Bb1wQ9%2FPVX2PI2P8ljqEmu7%2BMvyTvkywduRNTU8Ab0I5WNdxzCbg%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884645/93CB0F5001DC43ADB270223437C304C3_190x107.jpg"
+      ],
+      "copyrightYear": 2020,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 4031,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "auth.univision.com",
+      "thumbnailImage": "https://cdn1.performance.univision.com/dims4/default/32c99f4/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbd%2F1b%2Fc79264a74ecda5d8cbb895bb44cf%2F105aa289efae493c9791e09619d5054d",
+      "shortUrl": "http://uni.vi/9afV102ir5o",
+      "permalink": "https://performance.univision.com/shows/noticiero-univision/senor-jesus-salvame-asi-es-el-dia-a-dia-de-los-enfermos-de-coronavirus-en-un-hospital-de-texas-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "adTagValue": "video_noticias/shows/noticierounivision",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "coronavirus",
+            "asistenciasocial",
+            "problemassociales",
+            "estadosunidos",
+            "salud",
+            "leyesyprohibiciones",
+            "intereshumano",
+            "asuntossociales",
+            "enfermedades",
+            "texas"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "DM6n3Ses",
+      "primaryTag": {
+        "name": "Noticiero Univision",
+        "link": "https://performance.univision.com/shows/noticiero-univision"
+      },
+      "feedConsumer": "UNIVISION",
+      "schedule": null
+    },
+    {
+      "type": "video",
+      "uid": "0000016d-e194-d5a8-a37f-ef9c0fc50000",
+      "uri": "https://performance.univision.com/local/miami-wltv/la-trayectoria-de-la-tormenta-tropical-nestor-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-0717-ddc6-a5dd-179779c80000",
+        "uri": "https://performance.univision.com/local/miami-wltv",
+        "name": "univision 23 miami",
+        "title": "Univision 23 Miami"
+      },
+      "title": "Last one!",
+      "description": "El fenómeno alcanzará las costas de Florida el viernes en la noche con vientos sostenidos de 60 mph.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-36f7-d8bd-ad7f-bef7715c0000",
+        "title": "Alonso Escoboza, América",
+        "caption": "Alonso Escoboza reforzó al América para el Claiusura 2020 y espera tener más minutos en el Apertura 2020.",
+        "credit": "Mexsport",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/53/ae/2ee1db64431d8eda55d48593aac9/alonso-escoboza-america.jpg",
+            "width": 1920,
+            "height": 1080,
+            "focusPoint": {
+              "x": 0.4956620103648752,
+              "y": 0.2846916556860767
+            }
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": "ÚLTIMA HORA",
+      "updateDate": "2020-08-13T17:48:43-04:00",
+      "publishDate": "2019-10-18T21:10:00-04:00",
+      "expirationDate": "2029-10-17T21:10:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://performance.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0717-ddc6-a5dd-179779c80000",
+          "uri": "https://performance.univision.com/local/miami-wltv",
+          "name": "univision 23 miami",
+          "title": "Univision 23 Miami"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "BREAKING_NEWS",
+      "mcpid": "3761963",
+      "durationString": "0:31",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2029-10-18_3761963.mp4",
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/aE49101Xa7P",
+            "isFeedDialog": false,
+            "title": "El fenómeno alcanzará las costas de Florida el viernes en la noche con vientos sostenidos de 60 mph.",
+            "description": "El fenómeno alcanzará las costas de Florida el viernes en la noche con vientos sostenidos de 60 mph.",
+            "imageUrl": "https://st1.uvnimg.com/53/ae/2ee1db64431d8eda55d48593aac9/alonso-escoboza-america.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/aE49101Xa7P",
+            "title": "El fenómeno alcanzará las costas de Florida el viernes en la noche con vientos sostenidos de 60 mph.",
+            "via": "univision23"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/aE49101Xa7P",
+            "message": "El fenómeno alcanzará las costas de Florida el viernes en la noche con vientos sostenidos de 60 mph."
+          },
+          "mail": {
+            "subject": "El fenómeno alcanzará las costas de Florida el viernes en la noche con vientos sostenidos de 60 mph.",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEl fenómeno alcanzará las costas de Florida el viernes en la noche con vientos sostenidos de 60 mph.\n\nEncuéntralo en este enlace:http://uni.vi/aE49101Xa7P\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "categories": ["Television", "Noticias", "Locales"],
+      "dateCreated": "2019-10-18T21:11:31-04:00",
+      "airDate": "2019-10-18T21:10:00-04:00",
+      "rating": "TV-G",
+      "season": 2019,
+      "series": "195",
+      "seriesName": "Miami",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": ["Miamigeo", "WQBA1140am", "Radiomambi710am", "MIAMI"],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/pvw/422/FF7/422FF7FCA22D411ABFC8DF07CEC84B03_7.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1683337813&Signature=TTtoDuez0Y1n%2BVwMUWO5oFrkZb44nIv%2FIP8kP747kpnKykRNnKd6PTm8WBpRYQpNondAgrp%2BJei1wMABb%2BYLlurD4ftjlwPWxlcvQ8BrqnA5aCvVPdwpkkaBNyouAcb0dAKrHXioF5kKdHQCX3pit36p1DbpWq1gIcTPhBVaYY5WMzpq2kaiJWFVLTm486GEcN2n6ib%2Fpt4eMMqehP0OF4Ox2k%2F%2FofD1SUOoMcNNYNCnzH333nDmJVCqmvaOhRN2%2Bewtxz0r7BVwgxr9fYjiPyG6tlsSGO0cjtNYEyE6XN3UEyn7%2FIuWMlQiY7HZPyM6zus15reXNnAV43Qbm535Sw%3D%3D"
+      ],
+      "copyrightYear": 2020,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 5879,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "auth.univision.com",
+      "thumbnailImage": "https://cdn1.performance.univision.com/dims4/default/1fb7360/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F53%2Fae%2F2ee1db64431d8eda55d48593aac9%2Falonso-escoboza-america.jpg",
+      "shortUrl": "http://uni.vi/aE49101Xa7P",
+      "permalink": "https://performance.univision.com/local/miami-wltv/la-trayectoria-de-la-tormenta-tropical-nestor-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "adTagValue": "video_local/tv/miami/wltv",
+        "targeting": {
+          "vertical": "local",
+          "tag": ["miami"]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "mTrRv65B",
+      "primaryTag": {
+        "name": "Univision 23 Miami",
+        "link": "https://performance.univision.com/local/miami-wltv"
+      },
+      "feedConsumer": "UNIVISION",
+      "schedule": null
+    },
+    {
+      "uid": "00000184-e42f-d0b5-a797-f6af6b9a0000",
+      "type": "externallink",
+      "link": {
+          "href": "https://shop.univision.com",
+          "target": "_blank",
+          "text": "shop.univision.com",
+          "uid": "00000184-e42f-d0b5-a797-f6af6b9a0000"
+      },
+      "uri": "https://shop.univision.com",
+      "title": "shop.univision.com",
+      "description": null,
+      "image": {
+          "type": null,
+          "uid": null,
+          "title": null,
+          "caption": null,
+          "credit": null,
+          "renditions": null
+      },
+      "feedConsumer": "UNIVISION",
+      "schedule": null
+    }
+  ],
+  "breakingNewsMode": false,
+  "id": "00000175-04dd-d5f6-a377-fcdd8bbb000b",
+  "type": "TopQuickLinks",
+  "commonRootSection": null
+}

@@ -1,0 +1,3566 @@
+{
+  "settings": {
+    "type": "allvideoplaylistvideo",
+    "uid": "00000167-eb84-dddd-afff-ff845c800052",
+    "otherTabs": [
+      {
+        "label": "GOLES",
+        "content": [
+          {
+            "type": "video",
+            "uid": "00000173-36fb-dc03-a7f7-f7fb61c10000",
+            "uri": "https://uat.tudn.com/futbol/rafa-marquez-leyenda-a-17-anos-de-la-llegada-del-kaiser-al-barcelona-video",
+            "vertical": "Deportes",
+            "parent": {
+              "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+              "uri": "https://uat.tudn.com/futbol",
+              "name": "fútbol",
+              "title": "Fútbol"
+            },
+            "title": "Rafa Márquez, leyenda: a 17 años de la llegada del 'Káiser' al Barcelona",
+            "description": "Repasamos los títulos que ganó el ídolo mexicano con el cuadro azulgrana, desde el 2003 al 2010.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-36fc-d964-abff-b6ff3b650000",
+              "title": "1969dae97b31489d95a8f63a64e100d1",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/0a/57/44175d024b57a199103744bf79ee/1969dae97b31489d95a8f63a64e100d1",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/9b56959/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/f8c37bb/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/fec0c86/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/0857fc7/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F1500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/727764e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F1500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/906cbda/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/564ce9a/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F1500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/622c4c2/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0a%2F57%2F44175d024b57a199103744bf79ee%2Fresizes%2F500%2F1969dae97b31489d95a8f63a64e100d1",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-10T00:29:26-04:00",
+            "publishDate": "2020-07-10T00:11:00-04:00",
+            "expirationDate": "2030-07-10T00:11:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri": "https://uat.tudn.com",
+                "name": "deportes",
+                "title": "Deportes"
+              },
+              {
+                "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri": "https://uat.tudn.com/futbol",
+                "name": "futbol",
+                "title": "Fútbol"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884853",
+            "durationString": "2:26",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/dSYy102irmE",
+                  "isFeedDialog": false,
+                  "title": "Rafa Márquez, leyenda: a 17 años de la llegada del 'Káiser' al Barcelona",
+                  "description": "Repasamos los títulos que ganó el ídolo mexicano con el cuadro azulgrana, desde el 2003 al 2010.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/0a/57/44175d024b57a199103744bf79ee/1969dae97b31489d95a8f63a64e100d1",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/dSYy102irmE",
+                  "title": "Rafa Márquez, leyenda: a 17 años de la llegada del 'Káiser' al Barcelona",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/dSYy102irmE",
+                  "message": "Rafa Márquez, leyenda: a 17 años de la llegada del 'Káiser' al Barcelona"
+                },
+                "mail": {
+                  "subject": "Rafa Márquez, leyenda: a 17 años de la llegada del 'Káiser' al Barcelona",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRafa Márquez, leyenda: a 17 años de la llegada del 'Káiser' al Barcelona\n\nEncuéntralo en este enlace:http://uni.vi/dSYy102irmE\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_deportes/futbol",
+              "targeting": {
+                "vertical": "deportes",
+                "tag": [
+                  "futbol"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Futbol",
+              "Deportes"
+            ],
+            "primaryTag": {
+              "name": "Fútbol",
+              "link": "https://uat.tudn.com/futbol"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-3609-d3d9-a9ff-3efdd65e0000",
+            "uri": "https://uat.x.univision.com/horoscopos/nino-prodigio-leo-10-de-julio-2020-video",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+              "uri": "https://uat.x.univision.com/horoscopos",
+              "name": "horóscopos",
+              "title": "Horóscopos"
+            },
+            "title": "Niño Prodigio – Leo 10 de julio 2020",
+            "description": "Entérate lo que los astros tienen deparado para ti con las predicciones del Niño Prodigio.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-3609-d3d9-a9ff-3efdd9d00000",
+              "title": "4850b50f959547aca31b01551e93573b",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/89/e2/96d656344c7baeace1924196c38b/4850b50f959547aca31b01551e93573b",
+                  "width": 1280,
+                  "height": 720
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/a79b5ff/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2Fresizes%2F500%2F4850b50f959547aca31b01551e93573b",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/88ce312/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2Fresizes%2F500%2F4850b50f959547aca31b01551e93573b",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/4000337/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2Fresizes%2F500%2F4850b50f959547aca31b01551e93573b",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/747a618/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2F4850b50f959547aca31b01551e93573b",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/8351e99/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2F4850b50f959547aca31b01551e93573b",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/e8f28bc/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2Fresizes%2F500%2F4850b50f959547aca31b01551e93573b",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/e17546c/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2F4850b50f959547aca31b01551e93573b",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/92abb5e/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe2%2F96d656344c7baeace1924196c38b%2Fresizes%2F500%2F4850b50f959547aca31b01551e93573b",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-10T11:55:52-04:00",
+            "publishDate": "2020-07-10T04:52:00-04:00",
+            "expirationDate": "2030-07-06T11:52:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+                "uri": "https://uat.x.univision.com/horoscopos",
+                "name": "horoscopos",
+                "title": "Horóscopos"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3882645",
+            "durationString": "1:14",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/uPqd102irDU",
+                  "isFeedDialog": false,
+                  "title": "Niño Prodigio – Leo 10 de julio 2020",
+                  "description": "Entérate lo que los astros tienen deparado para ti con las predicciones del Niño Prodigio.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/89/e2/96d656344c7baeace1924196c38b/4850b50f959547aca31b01551e93573b",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/uPqd102irDU",
+                  "title": "Niño Prodigio – Leo 10 de julio 2020",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/uPqd102irDU",
+                  "message": "Niño Prodigio – Leo 10 de julio 2020"
+                },
+                "mail": {
+                  "subject": "Niño Prodigio – Leo 10 de julio 2020",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNiño Prodigio – Leo 10 de julio 2020\n\nEncuéntralo en este enlace:http://uni.vi/uPqd102irDU\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_entretenimiento/horoscopos",
+              "targeting": {
+                "vertical": "entretenimiento",
+                "tag": [
+                  "ninoprodigio",
+                  "leo"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Horoscopes",
+              "Lifestyle",
+              "Entretenimiento"
+            ],
+            "primaryTag": {
+              "name": "Horóscopos",
+              "link": "https://uat.x.univision.com/horoscopos"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-3607-d3f5-abf7-be6f59930000",
+            "uri": "https://uat.x.univision.com/horoscopos/nino-prodigio-libra-10-de-julio-2020-video",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+              "uri": "https://uat.x.univision.com/horoscopos",
+              "name": "horóscopos",
+              "title": "Horóscopos"
+            },
+            "title": "Niño Prodigio – Libra 10 de julio 2020",
+            "description": "Entérate lo que los astros tienen deparado para ti con las predicciones del Niño Prodigio.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-3607-d964-abff-b6cfb7360000",
+              "title": "2bb0049c83d74c17bd5b8dcf39f541d7",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/08/e2/f96e40e14dd99d2e036694b973bc/2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 1280,
+                  "height": 720
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/bda43bb/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2Fresizes%2F500%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/20faf31/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2Fresizes%2F500%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/7e54dbe/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2Fresizes%2F500%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/57acd1c/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/a968c20/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/b0a0be6/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2Fresizes%2F500%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/d180489/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/cbfef3b/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F08%2Fe2%2Ff96e40e14dd99d2e036694b973bc%2Fresizes%2F500%2F2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-10T11:55:51-04:00",
+            "publishDate": "2020-07-10T04:52:00-04:00",
+            "expirationDate": "2030-07-06T11:52:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "0000014c-ba66-d983-a57d-feefe0140000",
+                "uri": "https://uat.x.univision.com/horoscopos",
+                "name": "horoscopos",
+                "title": "Horóscopos"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3882646",
+            "durationString": "1:17",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/omh5102irDT",
+                  "isFeedDialog": false,
+                  "title": "Niño Prodigio – Libra 10 de julio 2020",
+                  "description": "Entérate lo que los astros tienen deparado para ti con las predicciones del Niño Prodigio.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/08/e2/f96e40e14dd99d2e036694b973bc/2bb0049c83d74c17bd5b8dcf39f541d7",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/omh5102irDT",
+                  "title": "Niño Prodigio – Libra 10 de julio 2020",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/omh5102irDT",
+                  "message": "Niño Prodigio – Libra 10 de julio 2020"
+                },
+                "mail": {
+                  "subject": "Niño Prodigio – Libra 10 de julio 2020",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNiño Prodigio – Libra 10 de julio 2020\n\nEncuéntralo en este enlace:http://uni.vi/omh5102irDT\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_entretenimiento/horoscopos",
+              "targeting": {
+                "vertical": "entretenimiento",
+                "tag": [
+                  "ninoprodigio",
+                  "libra"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Horoscopes",
+              "Lifestyle",
+              "Entretenimiento"
+            ],
+            "primaryTag": {
+              "name": "Horóscopos",
+              "link": "https://uat.x.univision.com/horoscopos"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000171-a587-d1d5-adf5-a7f785230000",
+            "uri": "https://uat.x.univision.com/local/dallas-kuvn/algunos-analistas-creen-que-trump-suspendio-temporalmente-la-inmigracion-como-estrategia-de-campana-video",
+            "vertical": "Local",
+            "parent": {
+              "uuid": "0000014d-0722-ddc6-a5dd-17b6b1a60000",
+              "uri": "https://uat.x.univision.com/local/dallas-kuvn",
+              "name": "univision 23 dallas",
+              "title": "Univision 23 Dallas"
+            },
+            "title": "Algunos analistas creen que Trum suspendió temporalmente la inmigración como estrategia de campaña",
+            "description": "El mandatario firmó una orden ejecutiva como medida para mitigar la propagación del coronavirus en el país, pero expertos en inmigración como el doctor Alex Camacho aseguran que esto solo lo hace porque quiere demostrar poder frente a sus seguidores.",
+            "image": {
+              "type": "image",
+              "uid": "00000171-ec9d-d56e-a977-efdff9a40000",
+              "title": "a977d229a539435e9677003856d9a4e9",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/80/f9/8e5db50a45d080bc57b19b8dc6a6/a977d229a539435e9677003856d9a4e9",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/05b6454/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/0dc39db/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/b15e7f3/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/36a665d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F1500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/c78fdae/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F1500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/070a7a2/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/ad2bd91/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F1500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/b63d045/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F80%2Ff9%2F8e5db50a45d080bc57b19b8dc6a6%2Fresizes%2F500%2Fa977d229a539435e9677003856d9a4e9",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-12T07:23:20-04:00",
+            "publishDate": "2020-04-23T01:21:00-04:00",
+            "expirationDate": "2030-04-23T01:21:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+                "uri": "https://uat.x.univision.com/local",
+                "name": "tu ciudad",
+                "title": "Tu Ciudad"
+              },
+              {
+                "uuid": "0000014d-0722-ddc6-a5dd-17b6b1a60000",
+                "uri": "https://uat.x.univision.com/local/dallas-kuvn",
+                "name": "univision 23 dallas",
+                "title": "Univision 23 Dallas"
+              }
+            ],
+            "disableReactions": true,
+            "contentPriority": "STANDARD",
+            "mcpid": "3850077",
+            "durationString": "3:19",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": "2030-04-23_3850077.mp4",
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/jHil102eeqD",
+                  "isFeedDialog": false,
+                  "title": "Algunos analistas creen que Trum suspendió temporalmente la inmigración como estrategia de campaña",
+                  "description": "El mandatario firmó una orden ejecutiva como medida para mitigar la propagación del coronavirus en el país, pero expertos en inmigración como el doctor Alex Camacho aseguran que esto solo lo hace porque quiere demostrar poder frente a sus seguidores.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/80/f9/8e5db50a45d080bc57b19b8dc6a6/a977d229a539435e9677003856d9a4e9",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/jHil102eeqD",
+                  "title": "Algunos analistas creen que Trum suspendió temporalmente la inmigración como estrategia de campaña",
+                  "via": "Univision23DFW"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/jHil102eeqD",
+                  "message": "Algunos analistas creen que Trum suspendió temporalmente la inmigración como estrategia de campaña"
+                },
+                "mail": {
+                  "subject": "Algunos analistas creen que Trum suspendió temporalmente la inmigración como estrategia de campaña",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAlgunos analistas creen que Trum suspendió temporalmente la inmigración como estrategia de campaña\n\nEncuéntralo en este enlace:http://uni.vi/jHil102eeqD\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/dallasftworth/kuvn",
+              "targeting": {
+                "vertical": "local",
+                "tag": [
+                  "inmigracion",
+                  "donaldtrump",
+                  "gobierno",
+                  "dallas",
+                  "politica"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Television",
+              "Noticias",
+              "Locales"
+            ],
+            "primaryTag": {
+              "name": "Univision 23 Dallas",
+              "link": "https://uat.x.univision.com/local/dallas-kuvn"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-36fc-d3f5-abf7-befcb6770000",
+            "uri": "https://uat.x.univision.com/shows/noticiero-univision/epa-aprueba-los-dos-primeros-desinfectantes-para-superficies-que-matan-el-covid-19-video",
+            "vertical": "Noticias",
+            "parent": {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://uat.x.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            },
+            "title": "EPA aprueba los dos primeros desinfectantes para superficies que matan el covid-19",
+            "description": "Al inicio de la pandemia, la Agencia de Protección Ambiental (EPA) elaboró una lista de más de 400 productos que cumplían los requisitos para usarse contra otros virus más fuertes, pero por primera vez logró hacer pruebas en el laboratorio específicamente con el nuevo coronavirus y encontró los desinfectantes que funcionan. \n<b><a href=\"https://www.univision.com/noticias/salud/no-creo-que-se-pueda-decir-que-lo-estamos-haciendo-muy-bien-dice-fauci-sobre-la-reapertura-en-eeuu\">Más información aquí</a></b>.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-36fd-d964-abff-b6ff12d00000",
+              "title": "4f7fe6faddd44258a6b1636a48ad1d11",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/57/c8/925a9527455aae93cd338333ed08/4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/9f92d19/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/1ae0bc2/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/a9a0244/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/f195a75/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F1500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/8f2823f/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F1500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/88ccae5/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/c1de237/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F1500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/0cff572/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fc8%2F925a9527455aae93cd338333ed08%2Fresizes%2F500%2F4f7fe6faddd44258a6b1636a48ad1d11",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [
+              {
+                "fullName": "Vilma Tarazona",
+                "image": {
+                  "type": "image",
+                  "uid": "0000015b-9be8-d866-a57b-dfff000b0000",
+                  "title": "Vilma Tarazona",
+                  "caption": null,
+                  "credit": null,
+                  "renditions": {
+                    "original": {
+                      "href": "https://uvn-brightspot.s3.amazonaws.com/44/fd/1ef510554de6b5c808b21b40b514/vilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 3744,
+                      "height": 5616,
+                      "focusPoint": {
+                        "x": 0.53,
+                        "y": 0.37
+                      }
+                    },
+                    "16x9-mobile": {
+                      "href": "https://uat2.x.univision.com/dims4/default/1f2d51f/2147483647/crop/1000x563%2B0%2B273/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fresizes%2F1500%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 480,
+                      "height": 270
+                    },
+                    "16x9-loading": {
+                      "href": "https://uat2.x.univision.com/dims4/default/0804813/2147483647/crop/333x189%2B0%2B90/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fresizes%2F500%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 30,
+                      "height": 17
+                    },
+                    "16x9-sm": {
+                      "href": "https://uat2.x.univision.com/dims4/default/89635ee/2147483647/crop/333x187%2B0%2B91/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fresizes%2F500%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 246,
+                      "height": 138
+                    },
+                    "16x9-tablet": {
+                      "href": "https://uat2.x.univision.com/dims4/default/e49d24d/2147483647/crop/3744x2106%2B0%2B1024/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 1024,
+                      "height": 576
+                    },
+                    "16x9": {
+                      "href": "https://uat2.x.univision.com/dims4/default/06f428f/2147483647/crop/3744x2108%2B0%2B1024/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 1240,
+                      "height": 698
+                    },
+                    "16x9-med": {
+                      "href": "https://uat2.x.univision.com/dims4/default/ae93911/2147483647/crop/1000x563%2B0%2B273/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fresizes%2F1500%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 400,
+                      "height": 225
+                    },
+                    "16x9-extended": {
+                      "href": "https://uat2.x.univision.com/dims4/default/8bb8556/2147483647/crop/3744x2106%2B0%2B1024/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 1440,
+                      "height": 810
+                    },
+                    "1x1-person-profile": {
+                      "href": "https://uat2.x.univision.com/dims4/default/43e96e5/2147483647/crop/333x333%2B0%2B18/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F44%2Ffd%2F1ef510554de6b5c808b21b40b514%2Fresizes%2F500%2Fvilma-tarazona-2013-1971-ready-by-gio.jpg",
+                      "width": 182,
+                      "height": 182
+                    }
+                  }
+                },
+                "uri": "https://uat.x.univision.com/temas/vilma-tarazona",
+                "socialNetworks": {
+                  "facebookUrl": null,
+                  "googleUrl": null,
+                  "instagramUrl": null,
+                  "linkedinUrl": null,
+                  "pinterestUrl": null,
+                  "snapchatUrl": null,
+                  "twitterUrl": {
+                    "text": null,
+                    "name": "Twitter",
+                    "url": "https://twitter.com/VILMATARAZONA?lang=en",
+                    "target": "_blank"
+                  },
+                  "youTubeUrl": {
+                    "text": null,
+                    "name": "YouTube",
+                    "url": "https://www.youtube.com/user/UnivisionNoticias",
+                    "target": "_blank"
+                  }
+                },
+                "link": null,
+                "mediaCompany": null,
+                "designation": null,
+                "description": "Corresponsal de Noticiero Univision",
+                "address": null,
+                "phoneNumber": null,
+                "website": null
+              }
+            ],
+            "cardLabel": null,
+            "updateDate": "2020-07-10T00:35:39-04:00",
+            "publishDate": "2020-07-10T00:22:00-04:00",
+            "expirationDate": "2030-07-10T00:22:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+                "uri": "https://uat.x.univision.com/shows/noticiero-univision",
+                "name": "noticiero univision",
+                "title": "Noticiero Univision"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884854",
+            "durationString": "1:49",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/nEL2102irmF",
+                  "isFeedDialog": false,
+                  "title": "EPA aprueba los dos primeros desinfectantes para superficies que matan el covid-19",
+                  "description": "Al inicio de la pandemia, la Agencia de Protección Ambiental (EPA) elaboró una lista de más de 400 productos que cumplían los requisitos para usarse contra otros virus más fuertes, pero por primera vez logró hacer pruebas en el laboratorio específicamente con el nuevo coronavirus y encontró los desinfectantes que funcionan. Más información aquí.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/57/c8/925a9527455aae93cd338333ed08/4f7fe6faddd44258a6b1636a48ad1d11",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/nEL2102irmF",
+                  "title": "EPA aprueba los dos primeros desinfectantes para superficies que matan el covid-19",
+                  "via": "uninoticias"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/nEL2102irmF",
+                  "message": "EPA aprueba los dos primeros desinfectantes para superficies que matan el covid-19"
+                },
+                "mail": {
+                  "subject": "EPA aprueba los dos primeros desinfectantes para superficies que matan el covid-19",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEPA aprueba los dos primeros desinfectantes para superficies que matan el covid-19\n\nEncuéntralo en este enlace:http://uni.vi/nEL2102irmF\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_noticias/shows/noticierounivision",
+              "targeting": {
+                "vertical": "noticias",
+                "tag": [
+                  "nuedicionnocturna",
+                  "coronavirus",
+                  "recomendaciones",
+                  "medicinayfarmacia",
+                  "salud",
+                  "productosyservicios",
+                  "vilmatarazona"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Television",
+              "Shows",
+              "Noticias"
+            ],
+            "primaryTag": {
+              "name": "Noticiero Univision",
+              "link": "https://uat.x.univision.com/shows/noticiero-univision"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-3700-dc03-a7f7-f70be8720000",
+            "uri": "https://uat.tudn.com/futbol/liga-mx/el-chismografo-entre-guillermo-ochoa-y-giovani-dos-santos-video",
+            "vertical": "Deportes",
+            "parent": {
+              "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "uri": "https://uat.tudn.com/futbol/liga-mx",
+              "name": "liga mx",
+              "title": "Liga MX"
+            },
+            "title": "El chismógrafo entre Guillermo Ochoa y Giovani dos Santos",
+            "description": "Los futbolistas de América recuerdan cuando se conocieron en el Mundial de Clubes.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-3700-dc03-a7f7-f70bec220000",
+              "title": "9a1860ed054e422b94c69c0fbe9c9293",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/49/2f/f6b6d94c4a64a141544e58c12c48/9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 1907,
+                  "height": 1059
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/d3e3c45/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/2cd4b5e/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/b2f3b25/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/02d2573/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F1500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/0024933/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F1500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/09ce6dc/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/2b678a0/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F1500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/aaf983c/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F49%2F2f%2Ff6b6d94c4a64a141544e58c12c48%2Fresizes%2F500%2F9a1860ed054e422b94c69c0fbe9c9293",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-10T00:34:34-04:00",
+            "publishDate": "2020-07-10T00:24:00-04:00",
+            "expirationDate": "2047-11-25T23:24:00-05:00",
+            "hierarchy": [
+              {
+                "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri": "https://uat.tudn.com",
+                "name": "deportes",
+                "title": "Deportes"
+              },
+              {
+                "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri": "https://uat.tudn.com/futbol",
+                "name": "futbol",
+                "title": "Fútbol"
+              },
+              {
+                "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+                "uri": "https://uat.tudn.com/futbol/liga-mx",
+                "name": "liga mx",
+                "title": "Liga MX"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884856",
+            "durationString": "6:08",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/lerp102irmU",
+                  "isFeedDialog": false,
+                  "title": "El chismógrafo entre Guillermo Ochoa y Giovani dos Santos",
+                  "description": "Los futbolistas de América recuerdan cuando se conocieron en el Mundial de Clubes.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/49/2f/f6b6d94c4a64a141544e58c12c48/9a1860ed054e422b94c69c0fbe9c9293",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/lerp102irmU",
+                  "title": "El chismógrafo entre Guillermo Ochoa y Giovani dos Santos",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/lerp102irmU",
+                  "message": "El chismógrafo entre Guillermo Ochoa y Giovani dos Santos"
+                },
+                "mail": {
+                  "subject": "El chismógrafo entre Guillermo Ochoa y Giovani dos Santos",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEl chismógrafo entre Guillermo Ochoa y Giovani dos Santos\n\nEncuéntralo en este enlace:http://uni.vi/lerp102irmU\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_deportes/futbol/ligamx",
+              "targeting": {
+                "vertical": "deportes",
+                "tag": [
+                  "giovanidossantos",
+                  "guillermoochoa"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Futbol"
+            ],
+            "primaryTag": {
+              "name": "Liga MX",
+              "link": "https://uat.tudn.com/futbol/liga-mx"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-36dd-d6e1-a7fb-7efda0c80000",
+            "uri": "https://uat.x.univision.com/local/nueva-york-wxtv/me-da-mucho-temor-no-me-siento-comoda-padres-de-familia-expresan-su-preocupacion-por-reapertura-de-escuelas-video",
+            "vertical": "Local",
+            "parent": {
+              "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+              "uri": "https://uat.x.univision.com/local/nueva-york-wxtv",
+              "name": "univision 41 nueva york",
+              "title": "Univision 41 Nueva York"
+            },
+            "title": "“Me da mucho temor, no me siento cómoda”: padres de familia expresan su preocupación por reapertura de escuelas",
+            "description": "Algunas madres aseguran que tienen miedo de enviar a los menores a los planteles educativos de Nueva York en medio de la pandemia por el coronavirus. Sin embargo, el departamento de educación pidió confianza y aseguró que “no comprometeremos la seguridad y salud de los estudiantes”.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-36df-d964-abff-b6df544b0000",
+              "title": "94651db3eaff4d04a3af83ebd890124b",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/34/81/d60e3e4948268b29f0d8c600b7db/94651db3eaff4d04a3af83ebd890124b",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/85c9c8f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/bd17125/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/790526b/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/14eca0b/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F1500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/34dea02/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F1500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/56865d2/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/9fc28d4/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F1500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/c9d4b9f/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F34%2F81%2Fd60e3e4948268b29f0d8c600b7db%2Fresizes%2F500%2F94651db3eaff4d04a3af83ebd890124b",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-10T00:07:32-04:00",
+            "publishDate": "2020-07-09T23:22:00-04:00",
+            "expirationDate": "2030-07-09T23:22:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+                "uri": "https://uat.x.univision.com/local",
+                "name": "tu ciudad",
+                "title": "Tu Ciudad"
+              },
+              {
+                "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+                "uri": "https://uat.x.univision.com/local/nueva-york-wxtv",
+                "name": "univision 41 nueva york",
+                "title": "Univision 41 Nueva York"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884835",
+            "durationString": "3:16",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/QkZQ102irlv",
+                  "isFeedDialog": false,
+                  "title": "“Me da mucho temor, no me siento cómoda”: padres de familia expresan su preocupación por reapertura de escuelas",
+                  "description": "Algunas madres aseguran que tienen miedo de enviar a los menores a los planteles educativos de Nueva York en medio de la pandemia por el coronavirus. Sin embargo, el departamento de educación pidió confianza y aseguró que “no comprometeremos la seguridad y salud de los estudiantes”.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/34/81/d60e3e4948268b29f0d8c600b7db/94651db3eaff4d04a3af83ebd890124b",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/QkZQ102irlv",
+                  "title": "“Me da mucho temor, no me siento cómoda”: padres de familia expresan su preocupación por reapertura de escuelas",
+                  "via": "univisionNY"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/QkZQ102irlv",
+                  "message": "“Me da mucho temor, no me siento cómoda”: padres de familia expresan su preocupación por reapertura de escuelas"
+                },
+                "mail": {
+                  "subject": "“Me da mucho temor, no me siento cómoda”: padres de familia expresan su preocupación por reapertura de escuelas",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n“Me da mucho temor, no me siento cómoda”: padres de familia expresan su preocupación por reapertura de escuelas\n\nEncuéntralo en este enlace:http://uni.vi/QkZQ102irlv\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/nuevayork/wxtv",
+              "targeting": {
+                "vertical": "local",
+                "tag": [
+                  "educacion",
+                  "coronavirus",
+                  "menoresdeedad",
+                  "salud",
+                  "seguridadyprevencion",
+                  "ninos",
+                  "nuevayork",
+                  "soloalasonce",
+                  "garymerson"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Television",
+              "Noticias",
+              "Locales"
+            ],
+            "primaryTag": {
+              "name": "Univision 41 Nueva York",
+              "link": "https://uat.x.univision.com/local/nueva-york-wxtv"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-36d5-d964-abff-b6dff46c0000",
+            "uri": "https://uat.x.univision.com/local/nueva-york-wxtv/habitantes-de-manhattan-opinan-sobre-el-mural-de-black-lives-matter-hecho-frente-a-la-torre-trump-video",
+            "vertical": "Local",
+            "parent": {
+              "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+              "uri": "https://uat.x.univision.com/local/nueva-york-wxtv",
+              "name": "univision 41 nueva york",
+              "title": "Univision 41 Nueva York"
+            },
+            "title": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+            "description": "“Es un recordatorio de que necesitamos una sociedad más equitativa y una sociedad donde las personas sean tratadas según su carácter sin importar el color”, dijo Ysabel Abreu, portavoz de la presidencia de Manhattan. Entretanto, simpatizantes del presidente Donald Trump criticaron la pieza artística.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-36d6-dc03-a7f7-f7df97940000",
+              "title": "93da9e6b121e4fdda6ab305c4d16ea1c",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/e7/93/0b6fbae64ec585f92710e2ff9a33/93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/1723d05/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/569190b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/3e1d72a/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/48bdee4/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F1500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/6f5616f/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F1500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/455d178/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/de0fb3c/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F1500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/ab64f71/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-10T00:06:25-04:00",
+            "publishDate": "2020-07-09T23:13:00-04:00",
+            "expirationDate": "2030-07-09T23:13:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+                "uri": "https://uat.x.univision.com/local",
+                "name": "tu ciudad",
+                "title": "Tu Ciudad"
+              },
+              {
+                "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+                "uri": "https://uat.x.univision.com/local/nueva-york-wxtv",
+                "name": "univision 41 nueva york",
+                "title": "Univision 41 Nueva York"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884829",
+            "durationString": "3:58",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/1H3Q102irl2",
+                  "isFeedDialog": false,
+                  "title": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+                  "description": "“Es un recordatorio de que necesitamos una sociedad más equitativa y una sociedad donde las personas sean tratadas según su carácter sin importar el color”, dijo Ysabel Abreu, portavoz de la presidencia de Manhattan. Entretanto, simpatizantes del presidente Donald Trump criticaron la pieza artística.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/e7/93/0b6fbae64ec585f92710e2ff9a33/93da9e6b121e4fdda6ab305c4d16ea1c",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/1H3Q102irl2",
+                  "title": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+                  "via": "univisionNY"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/1H3Q102irl2",
+                  "message": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump"
+                },
+                "mail": {
+                  "subject": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nHabitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump\n\nEncuéntralo en este enlace:http://uni.vi/1H3Q102irl2\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/nuevayork/wxtv",
+              "targeting": {
+                "vertical": "local",
+                "tag": [
+                  "racismo",
+                  "blacklivesmatter",
+                  "pinturaydibujo",
+                  "manhattan",
+                  "criticas",
+                  "artesvisuales",
+                  "artecallejero",
+                  "nuevayork",
+                  "victorjaviersolano"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Television",
+              "Noticias",
+              "Locales"
+            ],
+            "primaryTag": {
+              "name": "Univision 41 Nueva York",
+              "link": "https://uat.x.univision.com/local/nueva-york-wxtv"
+            }
+          }
+        ]
+      }
+    ],
+    "mainTabLabel": "LO MEJOR DEL FUTBOL",
+    "title": "VIDEO PLAYLIST DOS TAB",
+    "titleLink": {
+      "href": "https://www.tudn.com/futbol/video",
+      "target": "_blank",
+      "text": null,
+      "uid": "00000167-eb84-dddd-afff-ff845c800032"
+    },
+    "lazyLoaded": false
+  },
+  "analyticsData": {
+    "widget": {
+      "widget_pos": 2,
+      "widget_title": "video playlist dos tab",
+      "widget_type": "all - video playlist - video"
+    }
+  },
+  "contents": [
+    {
+      "type": "video",
+      "uid": "00000173-36db-d6e1-a7fb-7efb88560000",
+      "uri": "https://uat.tudn.com/futbol/liga-mx/futbolistas-recuperados-en-la-pandemia-de-cara-a-la-vuelta-del-apertura-2020-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://uat.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      },
+      "title": "Futbolistas recuperados en la pandemia de cara a la vuelta del Apertura 2020",
+      "description": "Revisamos cuáles con los jugadores que dejaron sus lesiones atrás en medio del parón por el coronavirus.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-36dd-d964-abff-b6df0e8c0000",
+        "title": "220a2f60e5c64cd4ad4bf73027d385f5",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/02/94/fc53246e41da8227506d488b3c01/220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/704572c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/1073013/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/4d1e22f/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/6e283d1/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F1500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/fc20cb4/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F1500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/f3f9e55/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/ae12694/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F1500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/6414595/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F94%2Ffc53246e41da8227506d488b3c01%2Fresizes%2F500%2F220a2f60e5c64cd4ad4bf73027d385f5",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-15T09:25:29-04:00",
+      "publishDate": "2020-07-09T23:48:00-04:00",
+      "expirationDate": "2021-07-09T23:48:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri": "https://uat.tudn.com/futbol/liga-mx",
+          "name": "liga mx",
+          "title": "Liga MX"
+        }
+      ],
+      "disableReactions": true,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884844",
+      "durationString": "2:59",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/HnmE102irls",
+            "isFeedDialog": false,
+            "title": "Futbolistas recuperados en la pandemia de cara a la vuelta del Apertura 2020",
+            "description": "Revisamos cuáles con los jugadores que dejaron sus lesiones atrás en medio del parón por el coronavirus.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/02/94/fc53246e41da8227506d488b3c01/220a2f60e5c64cd4ad4bf73027d385f5",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/HnmE102irls",
+            "title": "Futbolistas recuperados en la pandemia de cara a la vuelta del Apertura 2020",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/HnmE102irls",
+            "message": "Futbolistas recuperados en la pandemia de cara a la vuelta del Apertura 2020"
+          },
+          "mail": {
+            "subject": "Futbolistas recuperados en la pandemia de cara a la vuelta del Apertura 2020",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFutbolistas recuperados en la pandemia de cara a la vuelta del Apertura 2020\n\nEncuéntralo en este enlace:http://uni.vi/HnmE102irls\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol/ligamx",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "nicolasbenedetti",
+            "lineadecuatro",
+            "america"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol"
+      ],
+      "primaryTag": {
+        "name": "Liga MX",
+        "link": "https://uat.tudn.com/futbol/liga-mx"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-35d2-d6e1-a7fb-7dfb13260001",
+      "uri": "https://uat.tudn.com/futbol/patadas-de-ahogado-stoichkov-cree-que-barcelona-puede-remontarle-al-real-madrid-en-laliga-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri": "https://uat.tudn.com/futbol",
+        "name": "fútbol",
+        "title": "Fútbol"
+      },
+      "title": "¿Patadas de ahogado? Stoichkov cree que Barcelona puede remontarle al Real Madrid en LaLiga",
+      "description": "Nuestro experto es optimista en una mejoría de los blaugranas y descalabro merengue. Aquí el calendario que les queda.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-35d2-d6e1-a7fb-7dfb16bf0001",
+        "title": "5b0f6b088d2644769251e8792feeebe8",
+        "caption": "Los blaugranas no pierden la esperanza.",
+        "credit": "Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/a0/96/54c3a5cd40139f75e658c72195c3/5b0f6b088d2644769251e8792feeebe8",
+            "width": 1920,
+            "height": 1080,
+            "focusPoint": {
+              "x": 0.374331550802139,
+              "y": 0.27071351712366887
+            }
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/2e767e6/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/fee081e/2147483647/crop/495x281%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/b786154/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/1e0c1fc/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F1500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/a183f5f/2147483647/crop/1499x844%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F1500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/9436e55/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/af05fc3/2147483647/crop/1500x844%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F1500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/23a58aa/2147483647/crop/281x281%2B46%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa0%2F96%2F54c3a5cd40139f75e658c72195c3%2Fresizes%2F500%2F5b0f6b088d2644769251e8792feeebe8",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T19:12:34-04:00",
+      "publishDate": "2020-07-09T18:57:00-04:00",
+      "expirationDate": "2030-07-09T18:57:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884684",
+      "durationString": "1:30",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/qvJA102ir3U",
+            "isFeedDialog": false,
+            "title": "¿Patadas de ahogado? Stoichkov cree que Barcelona puede remontarle al Real Madrid en LaLiga",
+            "description": "Nuestro experto es optimista en una mejoría de los blaugranas y descalabro merengue. Aquí el calendario que les queda.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/a0/96/54c3a5cd40139f75e658c72195c3/5b0f6b088d2644769251e8792feeebe8",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/qvJA102ir3U",
+            "title": "¿Patadas de ahogado? Stoichkov cree que Barcelona puede remontarle al Real Madrid en LaLiga",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/qvJA102ir3U",
+            "message": "¿Patadas de ahogado? Stoichkov cree que Barcelona puede remontarle al Real Madrid en LaLiga"
+          },
+          "mail": {
+            "subject": "¿Patadas de ahogado? Stoichkov cree que Barcelona puede remontarle al Real Madrid en LaLiga",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Patadas de ahogado? Stoichkov cree que Barcelona puede remontarle al Real Madrid en LaLiga\n\nEncuéntralo en este enlace:http://uni.vi/qvJA102ir3U\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "futbol",
+            "fcbarcelona",
+            "realmadrid",
+            "laliga"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Fútbol",
+        "link": "https://uat.tudn.com/futbol"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-365c-d3f5-abf7-be7ca4550000",
+      "uri": "https://uat.tudn.com/futbol/liga-mx/santos-no-llegara-al-cielo-guerreros-y-atlas-estaran-en-el-purgatorio-del-apertura-2020-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://uat.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      },
+      "title": "¡Santos no llegará al cielo! Guerreros y Atlas estarán en el purgatorio del Apertura 2020",
+      "description": "La mesa de Línea de 4 tiene claro que ambas escuadras alcanzarán el repechaje en el AP2020.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-365e-d299-a377-feff2c610000",
+        "title": "bfc37fa2030b4c9190db645ac8196214",
+        "caption": "La mesa de Línea de 4 tiene claro que ambas escuadras alcanzarán el repechaje en el AP2020.",
+        "credit": "TUDN",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/72/89/06aa9cd740fc8163475a2f8e4f1c/bfc37fa2030b4c9190db645ac8196214",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/8dc0d22/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/d9a1ded/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/f542579/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/112e512/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F1500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/4677b51/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F1500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/ec2b8c3/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/99ed776/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F1500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/fb13d95/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F72%2F89%2F06aa9cd740fc8163475a2f8e4f1c%2Fresizes%2F500%2Fbfc37fa2030b4c9190db645ac8196214",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T21:38:10-04:00",
+      "publishDate": "2020-07-09T21:25:00-04:00",
+      "expirationDate": "2047-11-25T20:25:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri": "https://uat.tudn.com/futbol/liga-mx",
+          "name": "liga mx",
+          "title": "Liga MX"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884787",
+      "durationString": "2:42",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "TUDN.com",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/YJEs102irfd",
+            "isFeedDialog": false,
+            "title": "¡Santos no llegará al cielo! Guerreros y Atlas estarán en el purgatorio del Apertura 2020",
+            "description": "La mesa de Línea de 4 tiene claro que ambas escuadras alcanzarán el repechaje en el AP2020.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/72/89/06aa9cd740fc8163475a2f8e4f1c/bfc37fa2030b4c9190db645ac8196214",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/YJEs102irfd",
+            "title": "¡Santos no llegará al cielo! Guerreros y Atlas estarán en el purgatorio del Apertura 2020",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/YJEs102irfd",
+            "message": "¡Santos no llegará al cielo! Guerreros y Atlas estarán en el purgatorio del Apertura 2020"
+          },
+          "mail": {
+            "subject": "¡Santos no llegará al cielo! Guerreros y Atlas estarán en el purgatorio del Apertura 2020",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¡Santos no llegará al cielo! Guerreros y Atlas estarán en el purgatorio del Apertura 2020\n\nEncuéntralo en este enlace:http://uni.vi/YJEs102irfd\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol/ligamx",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "santos",
+            "ligamx",
+            "atlas"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol"
+      ],
+      "primaryTag": {
+        "name": "Liga MX",
+        "link": "https://uat.tudn.com/futbol/liga-mx"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-3611-d6d2-a973-7edd84f20000",
+      "uri": "https://uat.tudn.com/futbol/hristo-stoichkov-explico-una-foto-muy-particular-que-le-tomaron-con-parma-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri": "https://uat.tudn.com/futbol",
+        "name": "fútbol",
+        "title": "Fútbol"
+      },
+      "title": "Hristo Stoichkov explicó una foto muy particular que le tomaron con Parma",
+      "description": "El ‘Crack’ fue la máxima sensación del equipo durante el inicio de una pretemporada.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3611-d6d2-a973-7edd88ba0000",
+        "title": "243e47fd2f8f4812a11c1164bdd8c091",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/a3/d0/b9b669cc4c05925f655e110601dd/243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/0c304d7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/a056417/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/05d6061/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/6e4bcdc/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F1500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/5fa8db2/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F1500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/38dfcdf/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/a5fa6e0/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F1500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/e71ec36/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2Fd0%2Fb9b669cc4c05925f655e110601dd%2Fresizes%2F500%2F243e47fd2f8f4812a11c1164bdd8c091",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T20:30:54-04:00",
+      "publishDate": "2020-07-09T20:06:00-04:00",
+      "expirationDate": "2030-07-09T20:06:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884738",
+      "durationString": "0:56",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/lvE6102ir9K",
+            "isFeedDialog": false,
+            "title": "Hristo Stoichkov explicó una foto muy particular que le tomaron con Parma",
+            "description": "El ‘Crack’ fue la máxima sensación del equipo durante el inicio de una pretemporada.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/a3/d0/b9b669cc4c05925f655e110601dd/243e47fd2f8f4812a11c1164bdd8c091",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/lvE6102ir9K",
+            "title": "Hristo Stoichkov explicó una foto muy particular que le tomaron con Parma",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/lvE6102ir9K",
+            "message": "Hristo Stoichkov explicó una foto muy particular que le tomaron con Parma"
+          },
+          "mail": {
+            "subject": "Hristo Stoichkov explicó una foto muy particular que le tomaron con Parma",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nHristo Stoichkov explicó una foto muy particular que le tomaron con Parma\n\nEncuéntralo en este enlace:http://uni.vi/lvE6102ir9K\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "misioneuropa",
+            "futbol",
+            "hristostoichkov"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Fútbol",
+        "link": "https://uat.tudn.com/futbol"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-35c4-d082-a9ff-fdcc38620000",
+      "uri": "https://uat.tudn.com/futbol/espectacular-el-santiago-bernabeu-va-tomando-su-nueva-forma-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri": "https://uat.tudn.com/futbol",
+        "name": "fútbol",
+        "title": "Fútbol"
+      },
+      "title": "¡Espectacular! El Santiago Bernabéu va tomando su nueva forma",
+      "description": "El estadio del Real Madrid continúa en restauración para transformarse en uno de los más modernos del mundo.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-35c4-dc03-a7f7-f5cfaa5b0000",
+        "title": "1ac59298d6334df2b67fd8468ce8328d",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/d7/9e/0bf556604b4fbd4be957f8c2bc00/1ac59298d6334df2b67fd8468ce8328d",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/840abeb/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/f795122/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/13847df/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/2cb03a7/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F1500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/6fa2f38/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F1500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/ad804ba/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/4237200/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F1500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/339467d/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2F9e%2F0bf556604b4fbd4be957f8c2bc00%2Fresizes%2F500%2F1ac59298d6334df2b67fd8468ce8328d",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T18:51:14-04:00",
+      "publishDate": "2020-07-09T18:32:00-04:00",
+      "expirationDate": "2047-11-25T17:32:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884665",
+      "durationString": "3:42",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "TUDN.com",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/iFY4102ir1X",
+            "isFeedDialog": false,
+            "title": "¡Espectacular! El Santiago Bernabéu va tomando su nueva forma",
+            "description": "El estadio del Real Madrid continúa en restauración para transformarse en uno de los más modernos del mundo.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/d7/9e/0bf556604b4fbd4be957f8c2bc00/1ac59298d6334df2b67fd8468ce8328d",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/iFY4102ir1X",
+            "title": "¡Espectacular! El Santiago Bernabéu va tomando su nueva forma",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/iFY4102ir1X",
+            "message": "¡Espectacular! El Santiago Bernabéu va tomando su nueva forma"
+          },
+          "mail": {
+            "subject": "¡Espectacular! El Santiago Bernabéu va tomando su nueva forma",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¡Espectacular! El Santiago Bernabéu va tomando su nueva forma\n\nEncuéntralo en este enlace:http://uni.vi/iFY4102ir1X\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "futbol",
+            "realmadrid"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Fútbol",
+        "link": "https://uat.tudn.com/futbol"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-35d7-dc03-a7f7-f5df71e60000",
+      "uri": "https://uat.tudn.com/futbol/liga-mx/santos-y-su-objetivo-de-cambiar-vidas-dentro-y-fuera-de-la-cancha-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://uat.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      },
+      "title": "Santos y su objetivo de cambiar vidas dentro y fuera de la cancha",
+      "description": "El cuadro de la laguna tiene un compromiso con la afición verdiblanca, con la que busca trascender.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-35d7-ddfd-a37b-b7dfc4fd0000",
+        "title": "b63de830dada459aa0c2c7838bf7a7b3",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/e7/2b/1223500c49418b1946915c12496e/b63de830dada459aa0c2c7838bf7a7b3",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/0f5a177/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/541c493/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/e51a06e/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/5e81fc7/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F1500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/6a4f11a/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F1500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/910bf1b/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/a7e7ee7/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F1500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/93392b7/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F2b%2F1223500c49418b1946915c12496e%2Fresizes%2F500%2Fb63de830dada459aa0c2c7838bf7a7b3",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T19:19:47-04:00",
+      "publishDate": "2020-07-09T18:55:00-04:00",
+      "expirationDate": "2021-07-09T18:55:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri": "https://uat.tudn.com/futbol/liga-mx",
+          "name": "liga mx",
+          "title": "Liga MX"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884685",
+      "durationString": "3:24",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/tPnl102ir4q",
+            "isFeedDialog": false,
+            "title": "Santos y su objetivo de cambiar vidas dentro y fuera de la cancha",
+            "description": "El cuadro de la laguna tiene un compromiso con la afición verdiblanca, con la que busca trascender.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/e7/2b/1223500c49418b1946915c12496e/b63de830dada459aa0c2c7838bf7a7b3",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/tPnl102ir4q",
+            "title": "Santos y su objetivo de cambiar vidas dentro y fuera de la cancha",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/tPnl102ir4q",
+            "message": "Santos y su objetivo de cambiar vidas dentro y fuera de la cancha"
+          },
+          "mail": {
+            "subject": "Santos y su objetivo de cambiar vidas dentro y fuera de la cancha",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSantos y su objetivo de cambiar vidas dentro y fuera de la cancha\n\nEncuéntralo en este enlace:http://uni.vi/tPnl102ir4q\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol/ligamx",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "santoslaguna",
+            "ligamxapertura"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol"
+      ],
+      "primaryTag": {
+        "name": "Liga MX",
+        "link": "https://uat.tudn.com/futbol/liga-mx"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-31a4-d6e1-a7fb-79bddf920000",
+      "uri": "https://uat.tudn.com/copa-por-mexico/pasado-de-peso-eduardo-chofis-lopez-no-termina-por-encenderse-con-chivas-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+        "uri": "https://uat.tudn.com/copa-por-mexico",
+        "name": "copa por méxico",
+        "title": "Copa por México"
+      },
+      "title": "¿Pasado de peso? Eduardo ‘Chofis’ López no termina por encenderse con Chivas",
+      "description": "El mediocampista rojiblanco entró para la segunda mitad del duelo ante Tigres en la Copa por México.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-31a5-ddfd-a37b-b7fd399b0000",
+        "title": "e7afe95152784201ab819b2814725e58",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/52/32/30916ab245f4b9ce49aaec7bd676/e7afe95152784201ab819b2814725e58",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/be5dd30/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/843a855/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/14a0e37/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/6d841ca/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F1500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/623b6ee/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F1500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/333539f/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/47cdb69/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F1500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/5f4b0b5/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F52%2F32%2F30916ab245f4b9ce49aaec7bd676%2Fresizes%2F500%2Fe7afe95152784201ab819b2814725e58",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T23:37:25-04:00",
+      "publishDate": "2020-07-08T23:20:00-04:00",
+      "expirationDate": "2047-11-24T22:20:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+          "uri": "https://uat.tudn.com/copa-por-mexico",
+          "name": "copa por mexico",
+          "title": "Copa por México"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884265",
+      "durationString": "2:58",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/BtEg102in81",
+            "isFeedDialog": false,
+            "title": "¿Pasado de peso? Eduardo ‘Chofis’ López no termina por encenderse con Chivas",
+            "description": "El mediocampista rojiblanco entró para la segunda mitad del duelo ante Tigres en la Copa por México.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/52/32/30916ab245f4b9ce49aaec7bd676/e7afe95152784201ab819b2814725e58",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/BtEg102in81",
+            "title": "¿Pasado de peso? Eduardo ‘Chofis’ López no termina por encenderse con Chivas",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/BtEg102in81",
+            "message": "¿Pasado de peso? Eduardo ‘Chofis’ López no termina por encenderse con Chivas"
+          },
+          "mail": {
+            "subject": "¿Pasado de peso? Eduardo ‘Chofis’ López no termina por encenderse con Chivas",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Pasado de peso? Eduardo ‘Chofis’ López no termina por encenderse con Chivas\n\nEncuéntralo en este enlace:http://uni.vi/BtEg102in81\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "tigres",
+            "guadalajara"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Copa por México",
+        "link": "https://uat.tudn.com/copa-por-mexico"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-31c0-d299-a377-fff5d40c0000",
+      "uri": "https://uat.tudn.com/copa-por-mexico/listo-para-el-retiro-oribe-peralta-tuvo-opcion-de-gol-y-regalo-el-tiro-a-nahuel-guzman-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+        "uri": "https://uat.tudn.com/copa-por-mexico",
+        "name": "copa por méxico",
+        "title": "Copa por México"
+      },
+      "title": "Oribe Peralta falló una oportunidad de gol y Paco Villa le pidió contemplar el retiro",
+      "description": "El delantero de Chivas no ha mostrado su calidad desde que llegó a Guadalajara y abrió el debate en el juego de la Copa por México.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-31c8-d6d2-a973-7bcdc2f70000",
+        "title": "bd8752a9ec1541acb5184ddb626682a2",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/ea/fc/6409b88d4a4faea9b9e3b1f1c4e8/bd8752a9ec1541acb5184ddb626682a2",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/4b0bba4/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/caf4839/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/4ab8116/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/8a508dd/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F1500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/19df4b1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F1500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/72f0975/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/605fe99/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F1500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/b51f967/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fea%2Ffc%2F6409b88d4a4faea9b9e3b1f1c4e8%2Fresizes%2F500%2Fbd8752a9ec1541acb5184ddb626682a2",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T00:15:23-04:00",
+      "publishDate": "2020-07-09T00:00:00-04:00",
+      "expirationDate": "2047-11-24T23:00:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+          "uri": "https://uat.tudn.com/copa-por-mexico",
+          "name": "copa por mexico",
+          "title": "Copa por México"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884275",
+      "durationString": "2:24",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/bCk6102in9s",
+            "isFeedDialog": false,
+            "title": "Oribe Peralta falló una oportunidad de gol y Paco Villa le pidió contemplar el retiro",
+            "description": "El delantero de Chivas no ha mostrado su calidad desde que llegó a Guadalajara y abrió el debate en el juego de la Copa por México.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/ea/fc/6409b88d4a4faea9b9e3b1f1c4e8/bd8752a9ec1541acb5184ddb626682a2",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/bCk6102in9s",
+            "title": "Oribe Peralta falló una oportunidad de gol y Paco Villa le pidió contemplar el retiro",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/bCk6102in9s",
+            "message": "Oribe Peralta falló una oportunidad de gol y Paco Villa le pidió contemplar el retiro"
+          },
+          "mail": {
+            "subject": "Oribe Peralta falló una oportunidad de gol y Paco Villa le pidió contemplar el retiro",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nOribe Peralta falló una oportunidad de gol y Paco Villa le pidió contemplar el retiro\n\nEncuéntralo en este enlace:http://uni.vi/bCk6102in9s\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "tigres",
+            "oribeperalta",
+            "epresumen",
+            "guadalajara"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Copa por México",
+        "link": "https://uat.tudn.com/copa-por-mexico"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-34dd-d299-a377-fefda8f00000",
+      "uri": "https://uat.tudn.com/futbol/liga-mx/lo-tenia-y-lo-dejo-ir-crosas-no-supo-aprovechar-su-ventaja-y-empato-1-1-con-lechugol-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://uat.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      },
+      "title": "¡Lo tenía y lo dejó ir! Crosas no supo aprovechar su ventaja y empató 1-1 con 'Lechugol'",
+      "description": "Marc estaba muy confiado de llevarse la victoria en eTUDN con Cruz Azul, pero lo sorprendieron al final.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-34dd-d6d2-a973-7eddd1fd0000",
+        "title": "2c57444d096c4580b9a3e71e9183b5b6",
+        "caption": "Empate de último minuto.",
+        "credit": "TUDN",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/de/a0/d237260d4fd19c346d9fb19bb70a/2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 1920,
+            "height": 1080,
+            "focusPoint": {
+              "x": 0.24598930481283424,
+              "y": 0.5366776742977997
+            }
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/f036995/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/2da2d35/2147483647/crop/495x281%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/9034dfb/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/a77ec6b/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F1500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/c8e586e/2147483647/crop/1499x844%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F1500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/9a17bfe/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/8e0c496/2147483647/crop/1500x844%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F1500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/b922f05/2147483647/crop/281x281%2B0%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fde%2Fa0%2Fd237260d4fd19c346d9fb19bb70a%2Fresizes%2F500%2F2c57444d096c4580b9a3e71e9183b5b6",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T14:39:28-04:00",
+      "publishDate": "2020-07-09T14:30:00-04:00",
+      "expirationDate": "2021-07-09T14:30:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri": "https://uat.tudn.com/futbol/liga-mx",
+          "name": "liga mx",
+          "title": "Liga MX"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884500",
+      "durationString": "4:10",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/NJZ7102iqFg",
+            "isFeedDialog": false,
+            "title": "¡Lo tenía y lo dejó ir! Crosas no supo aprovechar su ventaja y empató 1-1 con 'Lechugol'",
+            "description": "Marc estaba muy confiado de llevarse la victoria en eTUDN con Cruz Azul, pero lo sorprendieron al final.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/de/a0/d237260d4fd19c346d9fb19bb70a/2c57444d096c4580b9a3e71e9183b5b6",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/NJZ7102iqFg",
+            "title": "¡Lo tenía y lo dejó ir! Crosas no supo aprovechar su ventaja y empató 1-1 con 'Lechugol'",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/NJZ7102iqFg",
+            "message": "¡Lo tenía y lo dejó ir! Crosas no supo aprovechar su ventaja y empató 1-1 con 'Lechugol'"
+          },
+          "mail": {
+            "subject": "¡Lo tenía y lo dejó ir! Crosas no supo aprovechar su ventaja y empató 1-1 con 'Lechugol'",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¡Lo tenía y lo dejó ir! Crosas no supo aprovechar su ventaja y empató 1-1 con 'Lechugol'\n\nEncuéntralo en este enlace:http://uni.vi/NJZ7102iqFg\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol/ligamx",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "marccrosas",
+            "eligamx"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol"
+      ],
+      "primaryTag": {
+        "name": "Liga MX",
+        "link": "https://uat.tudn.com/futbol/liga-mx"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-3232-d6d2-a973-7affd7150000",
+      "uri": "https://uat.tudn.com/copa-por-mexico/carlos-pavon-sobre-la-actualidad-del-toluca-tiene-mas-tecnico-que-jugadores-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+        "uri": "https://uat.tudn.com/copa-por-mexico",
+        "name": "copa por méxico",
+        "title": "Copa por México"
+      },
+      "title": "Carlos Pavón sobre la actualidad del Toluca: “Tiene más técnico que jugadores”",
+      "description": "Se abrió el debate tras la derrota de los Diablos 1-0 ante Cruz Azul en la Copa por México. Para Paco Villa, \"a Toluca lo dejaron morir\".",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3232-d6d2-a973-7affdb280000",
+        "title": "6478ac2efc774655bb889904e873f91b",
+        "caption": "'Chepo' sufrirá con el Toluca en este torneo.",
+        "credit": "Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/85/bd/014bcaa34213a79db5f73d29c36b/6478ac2efc774655bb889904e873f91b",
+            "width": 1920,
+            "height": 1080,
+            "focusPoint": {
+              "x": 0.5221573705941547,
+              "y": 0.35646687697160884
+            }
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/7ca5125/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/6a91c03/2147483647/crop/495x281%2B4%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/c87d124/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/32ae674/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F1500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/be10445/2147483647/crop/1499x844%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F1500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/b3c69d4/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/6927a97/2147483647/crop/1500x844%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F1500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/310b27e/2147483647/crop/281x281%2B120%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Fbd%2F014bcaa34213a79db5f73d29c36b%2Fresizes%2F500%2F6478ac2efc774655bb889904e873f91b",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T02:15:32-04:00",
+      "publishDate": "2020-07-09T01:46:00-04:00",
+      "expirationDate": "2047-11-25T00:46:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+          "uri": "https://uat.tudn.com/copa-por-mexico",
+          "name": "copa por mexico",
+          "title": "Copa por México"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884303",
+      "durationString": "1:29",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "TUDN.com",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/q3hL102inh0",
+            "isFeedDialog": false,
+            "title": "Carlos Pavón sobre la actualidad del Toluca: “Tiene más técnico que jugadores”",
+            "description": "Se abrió el debate tras la derrota de los Diablos 1-0 ante Cruz Azul en la Copa por México. Para Paco Villa, \"a Toluca lo dejaron morir\".",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/85/bd/014bcaa34213a79db5f73d29c36b/6478ac2efc774655bb889904e873f91b",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/q3hL102inh0",
+            "title": "Carlos Pavón sobre la actualidad del Toluca: “Tiene más técnico que jugadores”",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/q3hL102inh0",
+            "message": "Carlos Pavón sobre la actualidad del Toluca: “Tiene más técnico que jugadores”"
+          },
+          "mail": {
+            "subject": "Carlos Pavón sobre la actualidad del Toluca: “Tiene más técnico que jugadores”",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCarlos Pavón sobre la actualidad del Toluca: “Tiene más técnico que jugadores”\n\nEncuéntralo en este enlace:http://uni.vi/q3hL102inh0\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "josemanueldelatorre"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Copa por México",
+        "link": "https://uat.tudn.com/copa-por-mexico"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-3216-d6e1-a7fb-7abf8ab70000",
+      "uri": "https://uat.tudn.com/copa-por-mexico/les-pusieron-un-baile-tigres-hizo-ver-muy-mal-a-chivas-en-la-copa-por-mexico-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+        "uri": "https://uat.tudn.com/copa-por-mexico",
+        "name": "copa por méxico",
+        "title": "Copa por México"
+      },
+      "title": "Les pusieron un baile: Tigres hizo ver muy mal a Chivas en la Copa por México",
+      "description": "Los especialistas de TUDN coincidieron en que los de la UANL tuvieron un partido muy fácil ante el Guadalajara.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3230-d299-a377-fef5ccec0000",
+        "title": "e4bfcf42858c48ce941d7bbfbef5e971",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/21/d5/920afc6f465cb8ca5a6403030fc8/e4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/0ff370f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/bc10c70/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/c6df5de/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/cad03b6/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F1500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/12c871e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F1500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/cce2013/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/e563a5c/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F1500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/1aabb87/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fd5%2F920afc6f465cb8ca5a6403030fc8%2Fresizes%2F500%2Fe4bfcf42858c48ce941d7bbfbef5e971",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T02:08:44-04:00",
+      "publishDate": "2020-07-09T01:33:00-04:00",
+      "expirationDate": "2021-07-09T01:33:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+          "uri": "https://uat.tudn.com/copa-por-mexico",
+          "name": "copa por mexico",
+          "title": "Copa por México"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884300",
+      "durationString": "1:27",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/vQjH102ineb",
+            "isFeedDialog": false,
+            "title": "Les pusieron un baile: Tigres hizo ver muy mal a Chivas en la Copa por México",
+            "description": "Los especialistas de TUDN coincidieron en que los de la UANL tuvieron un partido muy fácil ante el Guadalajara.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/21/d5/920afc6f465cb8ca5a6403030fc8/e4bfcf42858c48ce941d7bbfbef5e971",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/vQjH102ineb",
+            "title": "Les pusieron un baile: Tigres hizo ver muy mal a Chivas en la Copa por México",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/vQjH102ineb",
+            "message": "Les pusieron un baile: Tigres hizo ver muy mal a Chivas en la Copa por México"
+          },
+          "mail": {
+            "subject": "Les pusieron un baile: Tigres hizo ver muy mal a Chivas en la Copa por México",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLes pusieron un baile: Tigres hizo ver muy mal a Chivas en la Copa por México\n\nEncuéntralo en este enlace:http://uni.vi/vQjH102ineb\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "futbol",
+            "cruzazul",
+            "guadalajara"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Copa por México",
+        "link": "https://uat.tudn.com/copa-por-mexico"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-3500-d082-a9ff-fd88ea2c0000",
+      "uri": "https://uat.tudn.com/futbol/liga-mx/victoria-terrorifica-diana-monster-vencio-0-2-a-chrisfected-en-la-etudn-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://uat.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      },
+      "title": "¡Victoria terrorífica! Diana Monster venció 0-2 a Chrisfected en la eTUDN",
+      "description": "Dos goles de los Rayos del Necaxa y una gran defensa fueron la fórmula de Diana para derrotar a Chrisfected en la Jornada 2.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3503-dc03-a7f7-f50baf330000",
+        "title": "53d0760897e44c5f832ed1750d5efbe4",
+        "caption": "Chrisfected muestra su decepción y Diana su alegría tras el encuentro.",
+        "credit": "TUDN",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/ee/8b/560fad3a4046a81f87bafcecca0e/53d0760897e44c5f832ed1750d5efbe4",
+            "width": 1920,
+            "height": 1080,
+            "focusPoint": {
+              "x": 0.8178689427163545,
+              "y": 0.29652996845425866
+            }
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/a7aad01/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/65acdbe/2147483647/crop/495x281%2B4%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/81ead4a/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/16ab992/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F1500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/2f268cb/2147483647/crop/1499x844%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F1500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/9bf8a13/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/2ce0c82/2147483647/crop/1500x844%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F1500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/89f7223/2147483647/crop/281x281%2B218%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fee%2F8b%2F560fad3a4046a81f87bafcecca0e%2Fresizes%2F500%2F53d0760897e44c5f832ed1750d5efbe4",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T15:23:39-04:00",
+      "publishDate": "2020-07-09T15:01:00-04:00",
+      "expirationDate": "2021-07-09T15:01:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri": "https://uat.tudn.com/futbol/liga-mx",
+          "name": "liga mx",
+          "title": "Liga MX"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884520",
+      "durationString": "6:30",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/YqxA102iqJC",
+            "isFeedDialog": false,
+            "title": "¡Victoria terrorífica! Diana Monster venció 0-2 a Chrisfected en la eTUDN",
+            "description": "Dos goles de los Rayos del Necaxa y una gran defensa fueron la fórmula de Diana para derrotar a Chrisfected en la Jornada 2.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/ee/8b/560fad3a4046a81f87bafcecca0e/53d0760897e44c5f832ed1750d5efbe4",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/YqxA102iqJC",
+            "title": "¡Victoria terrorífica! Diana Monster venció 0-2 a Chrisfected en la eTUDN",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/YqxA102iqJC",
+            "message": "¡Victoria terrorífica! Diana Monster venció 0-2 a Chrisfected en la eTUDN"
+          },
+          "mail": {
+            "subject": "¡Victoria terrorífica! Diana Monster venció 0-2 a Chrisfected en la eTUDN",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¡Victoria terrorífica! Diana Monster venció 0-2 a Chrisfected en la eTUDN\n\nEncuéntralo en este enlace:http://uni.vi/YqxA102iqJC\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol/ligamx",
+        "targeting": {
+          "vertical": "deportes"
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Liga MX",
+        "link": "https://uat.tudn.com/futbol/liga-mx"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-3155-d6d2-a973-7bddb5960001",
+      "uri": "https://uat.tudn.com/copa-por-mexico/uh-lala-chulada-arbitro-presume-nuevo-look-y-se-hace-viral-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+        "uri": "https://uat.tudn.com/copa-por-mexico",
+        "name": "copa por méxico",
+        "title": "Copa por México"
+      },
+      "title": "¡Uh, lalá, chulada! Árbitro presume nuevo look y se hace viral",
+      "description": "El abanderado en la Copa por México, Michel Morales, recibió todo tipo de comentarios por su estrafalario corte de pelo.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3156-d6d2-a973-7bdf328c0000",
+        "title": "eb27c5223f224754baf529d2bdef3fd7",
+        "caption": "Michel Morales no pasó desapercibido tras su corte de pelo.",
+        "credit": "TUDN",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/01/c5/8e97715143ccade881d893086799/eb27c5223f224754baf529d2bdef3fd7",
+            "width": 1920,
+            "height": 1080,
+            "focusPoint": {
+              "x": 0.3942820961629331,
+              "y": 0.39747634069400634
+            }
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/2e71b53/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/187624a/2147483647/crop/495x281%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/ded4279/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/7c11b19/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F1500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/43bdb57/2147483647/crop/1499x844%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F1500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/10b3b7e/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/c22c2e4/2147483647/crop/1500x844%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F1500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/2391d20/2147483647/crop/281x281%2B56%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F01%2Fc5%2F8e97715143ccade881d893086799%2Fresizes%2F500%2Feb27c5223f224754baf529d2bdef3fd7",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T22:12:00-04:00",
+      "publishDate": "2020-07-08T22:04:00-04:00",
+      "expirationDate": "2021-07-08T22:04:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "00000173-2ad0-d54d-a573-6bf28a290000",
+          "uri": "https://uat.tudn.com/copa-por-mexico",
+          "name": "copa por mexico",
+          "title": "Copa por México"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884234",
+      "durationString": "0:29",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "TUDN.com",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/liUW102in4r",
+            "isFeedDialog": false,
+            "title": "¡Uh, lalá, chulada! Árbitro presume nuevo look y se hace viral",
+            "description": "El abanderado en la Copa por México, Michel Morales, recibió todo tipo de comentarios por su estrafalario corte de pelo.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/01/c5/8e97715143ccade881d893086799/eb27c5223f224754baf529d2bdef3fd7",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/liUW102in4r",
+            "title": "¡Uh, lalá, chulada! Árbitro presume nuevo look y se hace viral",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/liUW102in4r",
+            "message": "¡Uh, lalá, chulada! Árbitro presume nuevo look y se hace viral"
+          },
+          "mail": {
+            "subject": "¡Uh, lalá, chulada! Árbitro presume nuevo look y se hace viral",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¡Uh, lalá, chulada! Árbitro presume nuevo look y se hace viral\n\nEncuéntralo en este enlace:http://uni.vi/liUW102in4r\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "copapormexico",
+            "cruzazul",
+            "toluca"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Copa por México",
+        "link": "https://uat.tudn.com/copa-por-mexico"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-30bc-d299-a377-fefdd3980000",
+      "uri": "https://uat.tudn.com/futbol/mls/inter-miami-y-su-playera-con-patrocinador-y-leyenda-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+        "uri": "https://uat.tudn.com/futbol/mls",
+        "name": "mls",
+        "title": "MLS"
+      },
+      "title": "¡De estreno! Inter Miami presume playera con sponsor y mensaje",
+      "description": "El cuadro de Rodolfo Pizarro estrena sponsor en la manga y también un mensaje de apoyo contra el racismo.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-30bc-d299-a377-fefdd7ff0000",
+        "title": "a789c0b9d9124e35a07348f8f280b41a",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/32/a2/08a461134ea38b3cecc9677c7480/a789c0b9d9124e35a07348f8f280b41a",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/44e920f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/340a8d1/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/1d52314/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/7018667/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F1500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/cc8f34d/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F1500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/7b07bb2/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/f820055/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F1500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/2fa268b/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fa2%2F08a461134ea38b3cecc9677c7480%2Fresizes%2F500%2Fa789c0b9d9124e35a07348f8f280b41a",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T19:29:01-04:00",
+      "publishDate": "2020-07-08T19:18:00-04:00",
+      "expirationDate": "2030-07-06T19:18:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+          "uri": "https://uat.tudn.com/futbol/mls",
+          "name": "mls",
+          "title": "MLS"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884144",
+      "durationString": "0:20",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/TNON102imSn",
+            "isFeedDialog": false,
+            "title": "¡De estreno! Inter Miami presume playera con sponsor y mensaje",
+            "description": "El cuadro de Rodolfo Pizarro estrena sponsor en la manga y también un mensaje de apoyo contra el racismo.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/32/a2/08a461134ea38b3cecc9677c7480/a789c0b9d9124e35a07348f8f280b41a",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/TNON102imSn",
+            "title": "¡De estreno! Inter Miami presume playera con sponsor y mensaje",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/TNON102imSn",
+            "message": "¡De estreno! Inter Miami presume playera con sponsor y mensaje"
+          },
+          "mail": {
+            "subject": "¡De estreno! Inter Miami presume playera con sponsor y mensaje",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¡De estreno! Inter Miami presume playera con sponsor y mensaje\n\nEncuéntralo en este enlace:http://uni.vi/TNON102imSn\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol/mls",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "mls",
+            "racismo",
+            "futbol",
+            "intermiamicf"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "MLS",
+        "link": "https://uat.tudn.com/futbol/mls"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-30c4-d082-a9ff-fcccd3760000",
+      "uri": "https://uat.tudn.com/futbol/patric-gabarron-luis-suarez-y-juan-arango-asi-fueron-sancionados-por-morder-a-un-rival-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri": "https://uat.tudn.com/futbol",
+        "name": "fútbol",
+        "title": "Fútbol"
+      },
+      "title": "Patric Gabarrón, Luis Suárez y Juan Arango: Así fueron sancionados por morder a un rival",
+      "description": "El defensor de la Lazio hizo que se recordaran otras veces que algún futbolista le clavara los dientes a un oponente y su consecuente castigo.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-30c4-d082-a9ff-fcccd9310001",
+        "title": "7feee197b7584d06b9e29824e6991689",
+        "caption": null,
+        "credit": "Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/5f/e8/70c4aecf40d7945f368d7a3d6bba/7feee197b7584d06b9e29824e6991689",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/dcd778f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/b1c27cc/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/4a0970b/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/503bb7e/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F1500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/8e8e5d1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F1500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/8f54c33/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/b0a5059/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F1500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/2c16048/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5f%2Fe8%2F70c4aecf40d7945f368d7a3d6bba%2Fresizes%2F500%2F7feee197b7584d06b9e29824e6991689",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T19:33:53-04:00",
+      "publishDate": "2020-07-08T19:23:00-04:00",
+      "expirationDate": "2047-11-24T18:23:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884149",
+      "durationString": "1:00",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "TUDN.com",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/hT2b102imT5",
+            "isFeedDialog": false,
+            "title": "Patric Gabarrón, Luis Suárez y Juan Arango: Así fueron sancionados por morder a un rival",
+            "description": "El defensor de la Lazio hizo que se recordaran otras veces que algún futbolista le clavara los dientes a un oponente y su consecuente castigo.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/5f/e8/70c4aecf40d7945f368d7a3d6bba/7feee197b7584d06b9e29824e6991689",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/hT2b102imT5",
+            "title": "Patric Gabarrón, Luis Suárez y Juan Arango: Así fueron sancionados por morder a un rival",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/hT2b102imT5",
+            "message": "Patric Gabarrón, Luis Suárez y Juan Arango: Así fueron sancionados por morder a un rival"
+          },
+          "mail": {
+            "subject": "Patric Gabarrón, Luis Suárez y Juan Arango: Así fueron sancionados por morder a un rival",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPatric Gabarrón, Luis Suárez y Juan Arango: Así fueron sancionados por morder a un rival\n\nEncuéntralo en este enlace:http://uni.vi/hT2b102imT5\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "futbol",
+            "lazio"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Fútbol",
+        "link": "https://uat.tudn.com/futbol"
+      }
+    }
+  ],
+  "breakingNewsMode": false,
+  "id": "00000167-eb84-dddd-afff-ff845c800052",
+  "type": "AllVideoPlaylistVideo",
+  "commonRootSection": {
+    "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+    "uri": "https://uat.tudn.com",
+    "name": "deportes",
+    "title": "Deportes"
+  }
+}

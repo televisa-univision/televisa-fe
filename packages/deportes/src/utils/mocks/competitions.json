@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "name": "Liga Mx",
+    "logo": "https://cdn3.uvnimg.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/liga-mx-apertura",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "2",
+    "name": "MLS",
+    "logo": "https://cdn3.uvnimg.com/6d/ae/a7ebf8f1478d99159b092c9bdc77/mls-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/mls",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "3",
+    "name": "Bundesliga",
+    "logo": "https://cdn4.uvnimg.com/39/72/e33f4d2a40dcbe0dd50f6e02455e/bundesliga-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/bundesliga",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "4",
+    "name": "La Liga",
+    "logo": "https://cdn4.uvnimg.com/60/ad/cdac60164a9a805d3c8d5f53ac6f/la-liga-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/la-liga",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "5",
+    "name": "Premier League",
+    "logo": "https://cdn3.uvnimg.com/59/54/e3ca6282482d8b3f6865520aee4f/premier-league-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/premier-league",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "6",
+    "name": "Serie A",
+    "logo": "https://cdn3.uvnimg.com/10/ca/af7b02e94f64a7f4c028018bc72d/seriea-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/serie-a",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "7",
+    "name": "Eredivisie",
+    "logo": "https://cdn4.uvnimg.com/d8/d8/650f6607490caceb736b45a1fda5/eredivisie-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/dutch-eredivisie",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "8",
+    "name": "Liga NOS",
+    "logo": "https://cdn4.uvnimg.com/32/40/a817075b49ad8cfe495d09f7f5a6/liga-nos-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/liga-portugal",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  },
+  {
+    "id": "9",
+    "name": "Ligue 1",
+    "logo": "https://cdn1.uvnimg.com/99/34/111bb04c4c618b1efecda30a12b9/ligue1-2x.png",
+    "url": "https://www.univision.com/deportes/futbol/ligue-1",
+    "calreply": {
+      "href": "",
+      "code": "",
+      "promo_name": ""
+    }
+  }
+]

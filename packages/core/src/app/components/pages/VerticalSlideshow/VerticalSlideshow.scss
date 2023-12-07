@@ -1,0 +1,177 @@
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0 .625rem;
+  position: relative;
+
+  @include media-breakpoint-up('sm') {
+    padding-bottom: 1rem;
+  }
+}
+
+.primaryTagContainer {
+  text-align: left;
+  @include media-breakpoint-up('md') {
+    text-align: center;
+  }
+
+  .primaryTag {
+    background: transparent;
+    padding: 0;
+    display: inline-block;
+    font-size: rem(13px);
+  }
+}
+
+.contentHeader {
+  text-align: left;
+  @include media-breakpoint-up('md') {
+    text-align: center;
+  }
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  margin: rem(16px) 0;
+  flex-direction: column;
+  @include media-breakpoint-up('sm') {
+    flex-direction: row;
+  }
+}
+
+.main {
+  position: relative;
+}
+
+.adContainer {
+  max-width: 1440px;
+  margin: 0 auto rem(32px);
+}
+
+.mainHorizontal {
+  background-color: $white;
+  margin: -6rem auto 2rem;
+  max-width: 1140px;
+}
+
+.banner {
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.8);
+  background-repeat: no-repeat;
+  background-size: cover;
+  bottom: -10px;
+  filter: blur(5px);
+  left: -10px;
+  position: absolute;
+  right: -10px;
+  top: -10px;
+  z-index: 0;
+}
+
+.offset_md_1 {
+  @include media-breakpoint-up('md') {
+    @include make-col-offset(1);
+  }
+}
+
+.offset_lg_2 {
+  @include media-breakpoint-up('lg') {
+    @include make-col-offset(2);
+  }
+}
+
+.headerShareBar {
+  margin-top: 20px;
+
+  > div:first-of-type {
+    padding-right: 10px;
+    margin-top: 4px;
+
+    @media screen and (min-width: 375px) {
+      padding-right: 16px;
+    }
+  }
+}
+
+.slideshowShareBar {
+  margin-bottom: 32px;
+}
+
+.horizontalCover {
+  padding-bottom: 6.5rem;
+
+  @include media-breakpoint-up('sm') {
+    padding-bottom: 8.5rem;
+  }
+}
+
+.endCard.endCard {
+  h3 {
+    @include media-breakpoint-up('md') {
+      text-align: left;
+    }
+  }
+}
+
+.relatedTags {
+  > div {
+    > div {
+      justify-content: center;
+    }
+  }
+}
+
+.widgetsContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  padding: 0 19px;
+}
+
+.flexCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.striped {
+  background: url($striped-background);
+  height: 8px;
+  margin-bottom: 8px;
+}
+
+.headerActionBar {
+  margin-top: 16px;
+
+  @include media-breakpoint-up('sm') {
+    flex: 0.5;
+    margin-top: 0;
+  }
+}
+
+.headerActionBarMeta {
+  flex: auto;
+
+  @include media-breakpoint-up('sm') {
+    flex: 0.5;
+    margin-top: 0;
+  }
+}
+
+.stitchedActionBarCol {
+  @include make-col-offset(1, 'sm');
+
+  @include media-breakpoint-up('sm') {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+}
+
+.stitchedActionBar {
+  @include media-breakpoint-up('md') {
+    flex: 0.5;
+    margin-bottom: 36px;
+  }
+}

@@ -1,0 +1,283 @@
+.offset_lg_1 {
+  @include make-col-offset(1, "lg");
+}
+
+.offset_xl_1 {
+  @include make-col-offset(1, "xl");
+}
+
+.title {
+  margin: 0;
+  padding-top: 16px;
+  font-size: rem(22px);
+  line-height: rem(25px);
+  @include media-breakpoint-up('sm') {
+    text-align: left;
+    font-size: rem(32px);
+    line-height: rem(38px);
+  }
+}
+
+.author {
+  font-size: .875rem;
+  font-weight: 700;
+  line-height: 1.0625rem;
+  text-transform: uppercase;
+
+  & > span > span {
+      color: $grey-black;
+  }
+  font-weight: 400;
+}
+
+.headline {
+  margin: 1rem 0;
+  .fullTitle {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: rem(28px);
+    line-height: rem(32px);
+    text-align: center;
+    @include media-breakpoint-up('md') {
+      font-size: rem(38px);
+      line-height: rem(44px);
+    }
+  }
+}
+
+.headlineLabelTitle {
+  display: inline-flex;
+  margin-bottom: 10px;
+  & div {
+    margin-top: -2px;
+  }
+}
+
+.caption {
+  margin-top: 8px;
+  text-align: left;
+}
+
+.itemContainer {
+  &.horizontal {
+    &:not(:last-child) {
+      padding-right: 5px;
+    }
+    &.active {
+      width: 150px !important; // required to override width set inline by react-slick
+    }
+  }
+
+  &.active {
+    img {
+      filter: #{"grayscale()"}
+    }
+
+    h3 {
+      color: $darker-grey;
+    }
+  }
+}
+
+.item {
+  text-align: center;
+
+  h3 {
+    margin: 0;
+  }
+
+  @include media-breakpoint-up("sm") {
+    .vertical & {
+      text-align: left;
+      display: flex !important;
+      flex-direction: row;
+      align-items: center;
+
+      img {
+        height: 135px;
+        width: auto;
+        margin-right: 1rem;
+      }
+
+      .thumbnail {
+        width: 55%;
+        overflow: hidden;
+        flex-shrink: 0;
+        margin-bottom: 5px;
+      }
+
+      .metadata {
+        padding: 0 10px;
+      }
+
+      &.active {
+        width: auto !important;
+      }
+    }
+  }
+
+  .topic {
+    font-size: .7rem;
+    color: $darker-grey;
+    text-transform: uppercase;
+  }
+
+  small {
+    color: red;
+    text-transform: uppercase;
+    font-size: .7rem;
+  }
+
+  h3 {
+    line-height: 1.4;
+  }
+}
+
+.labelTitle {
+  float: left;
+  margin-right: 5px;
+  @include media-breakpoint-up('sm') {
+    margin: 7px 15px 0 0;
+  }
+  & div {
+    margin-top: -5px;
+  }
+}
+
+.shareContainer {
+  color: $black;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+  position: relative;
+  z-index: $zindex-base;
+  justify-content: flex-end;
+  order: 3;
+  @include media-breakpoint-up('md') {
+    order: 0;
+  }
+  > div {
+    align-items: center;
+    a {
+      padding:0 28px;
+    }
+  }
+  .videoShare {
+    > div {
+      font-weight: normal;
+      color: $black;
+      padding: 0;
+      @include media-breakpoint-up('sm') {
+        padding: 0 25px 0 0;
+      }
+    }
+  }
+}
+
+.videoInfo {
+  border-bottom: 1px solid $light-grey;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  > div {
+    padding: 0;
+  }
+  @include media-breakpoint-up('sm') {
+    flex-direction: row;
+    margin: 0;
+  }
+}
+
+.livestreamInfo {
+  padding: 0 10px;
+  @include media-breakpoint-up('md') {
+    padding: 0;
+  }
+}
+
+.metaSharing {
+  margin-top: 16px;
+}
+
+.videoMeta {
+  align-items: center;
+  color: $grey-black;
+  font-size: rem(11px);
+  line-height: rem(13px);
+  margin: 0;
+  position: relative;
+  text-align: left;
+  .source {
+    color: $black;
+    display: block;
+    margin-right: 3px;
+    padding-right: 3px;
+    text-transform: uppercase;
+
+    @include video-font-size('sm');
+  }
+  .separator {
+    color: $theme-default-primary;
+    border-top: 1px solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50px;
+  }
+}
+
+.playlistLimit {
+  max-width: 100%;
+  @include media-breakpoint-up("md") {
+    max-width: 657px;
+  }
+
+  @include media-breakpoint-up("lg") {
+    max-width: 913px;
+  }
+
+  @include media-breakpoint-up("xl") {
+    max-width: 1073px;
+  }
+}
+
+.horizontalVideo {
+  margin-left: -10px;
+  margin-right: -10px;
+
+  @include media-breakpoint-up('md') {
+    margin-right: 0;
+  }
+}
+
+.timestamp {
+  color: $grey-black;
+  display: block;
+  font-size: rem(11px);
+  margin-top: 8px;
+  line-height: rem(13px);
+  text-transform: uppercase;
+}
+
+.buttons {
+  display: flex;
+  padding-bottom: 16px;
+}
+
+.button {
+  width: 50%;
+}
+
+.dark {
+  .shareContainer,
+  .shareContainer .videoShare > div,
+  .videoMeta .source,
+  .timestamp,
+  .fullTitle,
+  &.videoInfo {
+    color: $white;
+  }
+
+}

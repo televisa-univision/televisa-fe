@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: $black;
+  width: 100%;
+  position: relative;
+
+  @include media-breakpoint-up('sm') {
+    padding: 2.5rem 0 3.5rem;
+  }
+}
+
+.darkCover {
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  bottom: -20px;
+  left: -20px;
+  background: $darker-grey center center no-repeat;
+  background-blend-mode: overlay;
+  background-size: cover;
+  filter: blur(10px);
+}

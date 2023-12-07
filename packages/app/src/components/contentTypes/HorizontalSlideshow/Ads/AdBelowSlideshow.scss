@@ -1,0 +1,11 @@
+.adContainer {
+  > div {
+    > div {
+      padding: 16px 0 32px;
+    }
+  }
+}
+
+.hideAd {
+  visibility: hidden;
+}

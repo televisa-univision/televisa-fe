@@ -1,0 +1,69 @@
+{
+  "alerts": [
+    {
+      "areaId": "CAZ048",
+      "areaName": "San Bernardino and Riverside County Valleys",
+      "eventDescription": "Advertencia de calor",
+      "severity": "Moderate",
+      "effectiveTimeLocal": "2020-06-10T11:00:00-07:00",
+      "effectiveTimeLocalTimeZone": "PDT",
+      "texts": [
+        {
+          "description": "...HEAT ADVISORY IN EFFECT FROM 11 AM THIS MORNING TO 7 PM PDT THIS EVENING...\n\n* WHAT...Temperatures up to 100 expected.\n\n* WHERE...Orange County coastal and inland areas, San Diego County coastal and valley areas, and the Inland Empire.\n\n* WHEN...From 11 AM this morning to 7 PM PDT this evening.\n\n* IMPACTS...Hot temperatures may cause heat illnesses to occur.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\nDrink plenty of fluids, stay in an air-conditioned room, stay out of the sun, and check up on relatives and neighbors. Young children and pets should never be left unattended in vehicles under any circumstances.\n\nTake extra precautions if you work or spend time outside. When possible reschedule strenuous activities to early morning or evening. Know the signs and symptoms of heat exhaustion and heat stroke. Wear lightweight and loose fitting clothing when possible. To reduce risk during outdoor work, the Occupational Safety and Health Administration recommends scheduling frequent rest breaks in shaded or air conditioned environments. Anyone overcome by heat should be moved to a cool and shaded location. Heat stroke is an emergency! Call 9 1 1."
+        }
+      ]
+    },
+    {
+      "areaId": "CAZ274",
+      "areaName": "Southern Mono County",
+      "eventDescription": "Monitoreo de peligro de incendio por toda la area de la ciudad alerta maximo cuidado nao quedem em las calles",
+      "severity": "Severe",
+      "effectiveTimeLocal": "2020-06-12T11:00:00-07:00",
+      "effectiveTimeLocalTimeZone": "PDT",
+      "texts": [
+        {
+          "description": "...FIRE WEATHER WATCH IN EFFECT FROM FRIDAY MORNING THROUGH FRIDAY EVENING FOR GUSTY WINDS AND LOW HUMIDITY FOR THE SIERRA FRONT OUT INTO WEST-CENTRAL NEVADA...\n\nThe National Weather Service in Reno has issued a Fire Weather Watch for gusty winds and low humidity, which is in effect from Friday morning through Friday evening.\n\n* Affected Area...Fire Zone 274 Southern Mono County, Fire Zone 420 Northern Sierra Front including Carson City, Douglas, Storey, Southern Washoe, Western Lyon, and Far Southern Lassen Counties, Fire Zone 421 Southern Sierra Front including Alpine, Northern Mono, Southern Lyon, and Western Mineral Counties, Fire Zone 423 West Humboldt Basin in Pershing County and Fire Zone 429 Lahontan Basin including Churchill and Eastern Mineral Counties.\n\n* Winds...Southwest to west 15 to 30 mph with gusts up to 50 mph.\n\n* Humidity...15-25% northern Sierra Front, 8-15% elsewhere.\n\n* Duration...6 to 12 hours.\n\n* Impacts...The combination of gusty winds and low humidity can cause fire to rapidly grow in size and intensity before first responders can contain them.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\nAvoid outdoor activities that can cause a spark near dry vegetation, such as yard work, target shooting, or campfires. Follow local fire restrictions. Check weather.gov/reno for updates and livingwithfire.info for preparedness tips."
+        }
+      ]
+    },
+    {
+      "areaId": "CAZ050",
+      "areaName": "San Diego County Inland Valleys",
+      "eventDescription": "Advertencia de calor",
+      "severity": "Unknown",
+      "effectiveTimeLocal": "2020-06-10T11:00:00-07:00",
+      "effectiveTimeLocalTimeZone": "PDT",
+      "texts": [
+        {
+          "description": "...HEAT ADVISORY IN EFFECT FROM 11 AM THIS MORNING TO 7 PM PDT THIS EVENING...\n\n* WHAT...Temperatures up to 100 expected.\n\n* WHERE...Orange County coastal and inland areas, San Diego County coastal and valley areas, and the Inland Empire.\n\n* WHEN...From 11 AM this morning to 7 PM PDT this evening.\n\n* IMPACTS...Hot temperatures may cause heat illnesses to occur.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\nDrink plenty of fluids, stay in an air-conditioned room, stay out of the sun, and check up on relatives and neighbors. Young children and pets should never be left unattended in vehicles under any circumstances.\n\nTake extra precautions if you work or spend time outside. When possible reschedule strenuous activities to early morning or evening. Know the signs and symptoms of heat exhaustion and heat stroke. Wear lightweight and loose fitting clothing when possible. To reduce risk during outdoor work, the Occupational Safety and Health Administration recommends scheduling frequent rest breaks in shaded or air conditioned environments. Anyone overcome by heat should be moved to a cool and shaded location. Heat stroke is an emergency! Call 9 1 1."
+        }
+      ]
+    },
+    {
+      "areaId": "CAZ043",
+      "areaName": "San Diego County Coastal Areas",
+      "eventDescription": "Advertencia de calor",
+      "severity": "Minor",
+      "effectiveTimeLocal": "2020-06-10T11:00:00-07:00",
+      "effectiveTimeLocalTimeZone": "PDT",
+      "texts": [
+        {
+          "description": "...HEAT ADVISORY IN EFFECT FROM 11 AM THIS MORNING TO 7 PM PDT THIS EVENING...\n\n* WHAT...Temperatures up to 100 expected.\n\n* WHERE...Orange County coastal and inland areas, San Diego County coastal and valley areas, and the Inland Empire.\n\n* WHEN...From 11 AM this morning to 7 PM PDT this evening.\n\n* IMPACTS...Hot temperatures may cause heat illnesses to occur.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\nDrink plenty of fluids, stay in an air-conditioned room, stay out of the sun, and check up on relatives and neighbors. Young children and pets should never be left unattended in vehicles under any circumstances.\n\nTake extra precautions if you work or spend time outside. When possible reschedule strenuous activities to early morning or evening. Know the signs and symptoms of heat exhaustion and heat stroke. Wear lightweight and loose fitting clothing when possible. To reduce risk during outdoor work, the Occupational Safety and Health Administration recommends scheduling frequent rest breaks in shaded or air conditioned environments. Anyone overcome by heat should be moved to a cool and shaded location. Heat stroke is an emergency! Call 9 1 1."
+        }
+      ]
+    },
+    {
+      "areaId": "CAZ552",
+      "areaName": "Orange County Coastal",
+      "eventDescription": "Advertencia de calor",
+      "severity": "Moderate",
+      "effectiveTimeLocal": "2020-06-10T11:00:00-07:00",
+      "effectiveTimeLocalTimeZone": "PDT",
+      "texts": [
+        {
+          "description": "...HEAT ADVISORY IN EFFECT FROM 11 AM THIS MORNING TO 7 PM PDT THIS EVENING...\n\n* WHAT...Temperatures up to 100 expected.\n\n* WHERE...Orange County coastal and inland areas, San Diego County coastal and valley areas, and the Inland Empire.\n\n* WHEN...From 11 AM this morning to 7 PM PDT this evening.\n\n* IMPACTS...Hot temperatures may cause heat illnesses to occur.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\nDrink plenty of fluids, stay in an air-conditioned room, stay out of the sun, and check up on relatives and neighbors. Young children and pets should never be left unattended in vehicles under any circumstances.\n\nTake extra precautions if you work or spend time outside. When possible reschedule strenuous activities to early morning or evening. Know the signs and symptoms of heat exhaustion and heat stroke. Wear lightweight and loose fitting clothing when possible. To reduce risk during outdoor work, the Occupational Safety and Health Administration recommends scheduling frequent rest breaks in shaded or air conditioned environments. Anyone overcome by heat should be moved to a cool and shaded location. Heat stroke is an emergency! Call 9 1 1."
+        }
+      ]
+    }
+  ]
+}

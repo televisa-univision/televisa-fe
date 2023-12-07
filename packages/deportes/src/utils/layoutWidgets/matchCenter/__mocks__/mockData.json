@@ -1,0 +1,2228 @@
+{
+  "updateDate": "2018-09-28T16:06:35-04:00",
+  "secondaryTags": [
+      {
+          "name": "Liga MX",
+          "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+      }
+  ],
+  "soccerMatchStatus": "PRE-MATCH",
+  "soccerCompetitionSeason": {
+      "seasonId": "2018",
+      "seasonName": "Season 2018/2019",
+      "soccerCompetition": {
+          "code": "MX_MA",
+          "league": {
+              "coverage": "Performance",
+              "uid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "activeSoccerCompetitionURL": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/*",
+              "name": "Liga MX",
+              "id": "l.femexfut.mx.primera",
+              "includesVideo": true,
+              "tagHierarchy": [
+                  {
+                      "name": "deportes",
+                      "url": "https://performance.univision.com/temas/deportes"
+                  },
+                  {
+                      "name": "futbol",
+                      "url": "https://performance.univision.com/deportes/futbol"
+                  },
+                  {
+                      "name": "competencias de futbol",
+                      "url": "https://performance.univision.com/temas/competencias-de-futbol"
+                  },
+                  {
+                      "name": "liga mx",
+                      "url": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  }
+              ],
+              "type": "league",
+              "abbreviation": "Liga MX",
+              "uri": "https://performance.univision.com/deportes/futbol/liga-mx"
+          },
+          "name": "Liga MX (Apertura)",
+          "id": "199"
+      }
+  },
+  "publishDate": "2018-06-29T12:24:57-04:00",
+  "externalWidgets": {
+      "civicScience": "<script type=\"text/javascript\" src=\"https://www.civicscience.com/widget/jspoll/?elt=a3de587f-6808-20b4-89b0-26a3bab1144f&tgtid=6d5c3185-be60-47a4-255e-a14a8d6e14c5\" defer></script><div id=\"a3de587f-6808-20b4-89b0-26a3bab1144f\"></div>"
+  },
+  "description": "Atlas vs Toluca | 2018-09-28",
+  "adSettings": {
+      "adTagValue": "section_deportes/futbol",
+      "targeting": {
+          "client": "desktop",
+          "tag": [
+              "atlasvstoluca",
+              "ligamx",
+              "soccercompetitions",
+              "ligamxapertura2018"
+          ]
+      },
+      "isDisable3rdPartyAds": false
+  },
+  "shortTitle": "ATL vs TOL",
+  "type": "soccermatch",
+  "title": "Atlas vs Toluca",
+  "widgets": [
+      {
+          "type": "CarouselWidget",
+          "settings": {
+              "uid": "00000166-6a35-dd95-afef-eb75f5bc0000",
+              "updateDate": null,
+              "publishDate": null,
+              "title": "Lo último",
+              "type": "carouselwidget",
+              "titleLink": null,
+              "uri": null
+          },
+          "contents": [
+              {
+                  "uid": "00000165-c174-de57-a97f-fb7f3ab20000",
+                  "uri": "/deportes/futbol/liga-mx/guillermo-hoyos-ya-llego-a-guadalajara-para-asumir-el-cargo-de-director-tecnico-de-atlas-video",
+                  "type": "video",
+                  "updateDate": "2018-09-18T18:56:59-04:00",
+                  "publishDate": "2018-09-09T22:48:00-04:00",
+                  "expirationDate": "2028-09-08T22:48:00-04:00",
+                  "title": "Guillermo Hoyos ya llegó a Guadalajara para asumir el cargo de director técnico de Atlas",
+                  "shortTitle": "Guillermo Hoyos ya llegó a Guadalajara para asumir el cargo de director técnico de Atlas",
+                  "description": "El estratega argentino llega a los Zorros por intermedio de Rafael Márquez, quien lo conoce desde Barcelona. La Universidad de Chile fue el último equipo al que dirigió Hoyos.",
+                  "shortDescription": "El estratega argentino llega a los Zorros por intermedio de Rafael Márquez, quien lo conoce desde Barcelona. La Universidad de Chile fue el último equipo al que dirigió Hoyos.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-c175-d4da-aff7-dffd56520000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn2.uvnimg.com/53/89/48f073ea479299e6969b0d8baa54/33ff8b7f01684908ad3bd15a0a117b46",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/f2ae6a5/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F53%2F89%2F48f073ea479299e6969b0d8baa54%2F33ff8b7f01684908ad3bd15a0a117b46",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/7cb9bf5/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F53%2F89%2F48f073ea479299e6969b0d8baa54%2F33ff8b7f01684908ad3bd15a0a117b46",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/27e9d4d/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F53%2F89%2F48f073ea479299e6969b0d8baa54%2F33ff8b7f01684908ad3bd15a0a117b46",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/de66c3f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F53%2F89%2F48f073ea479299e6969b0d8baa54%2F33ff8b7f01684908ad3bd15a0a117b46",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "UEFA Champions League",
+                      "link": "https://performance.univision.com/deportes/futbol/competencias-de-futbol/uefa-champions-league"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3566734",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/guillermo-hoyos-ya-llego-a-guadalajara-para-asumir-el-cargo-de-director-tecnico-de-atlas-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Guillermo Hoyos ya llegó a Guadalajara para asumir el cargo de director técnico de Atlas",
+                              "description": "El estratega argentino llega a los Zorros por intermedio de Rafael Márquez, quien lo conoce desde Barcelona. La Universidad de Chile fue el último equipo al que dirigió Hoyos.",
+                              "imageUrl": "https://cdn2.uvnimg.com/53/89/48f073ea479299e6969b0d8baa54/33ff8b7f01684908ad3bd15a0a117b46"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/guillermo-hoyos-ya-llego-a-guadalajara-para-asumir-el-cargo-de-director-tecnico-de-atlas-video",
+                              "title": "Guillermo Hoyos ya llegó a Guadalajara para asumir el cargo de director técnico de Atlas",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/guillermo-hoyos-ya-llego-a-guadalajara-para-asumir-el-cargo-de-director-tecnico-de-atlas-video",
+                              "message": "Guillermo Hoyos ya llegó a Guadalajara para asumir el cargo de director técnico de Atlas"
+                          },
+                          "mail": {
+                              "subject": "Guillermo Hoyos ya llegó a Guadalajara para asumir el cargo de director técnico de Atlas",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nGuillermo Hoyos ya llegó a Guadalajara para asumir el cargo de director técnico de Atlas\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/guillermo-hoyos-ya-llego-a-guadalajara-para-asumir-el-cargo-de-director-tecnico-de-atlas-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "0:25",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-ad94-d680-a5ff-efbf58360000",
+                  "uri": "/deportes/futbol/copa-mx/queda-un-lugar-en-octavos-de-la-copa-mx-estos-son-los-resultados-del-miercoles-video",
+                  "type": "video",
+                  "updateDate": "2018-09-06T02:34:02-04:00",
+                  "publishDate": "2018-09-06T02:28:00-04:00",
+                  "expirationDate": "2028-09-03T02:28:00-04:00",
+                  "title": "Queda un lugar en Octavos de la Copa MX; estos son los resultados del miércoles",
+                  "shortTitle": "Queda un lugar en Octavos de la Copa MX; estos son los resultados del miércoles",
+                  "description": "Toluca se despidió de forma honrosa de la Copa MX y Morelia quedó fuera tras empatar con Alebrijes de Oaxaca.",
+                  "shortDescription": "Toluca se despidió de forma honrosa de la Copa MX y Morelia quedó fuera tras empatar con Alebrijes de Oaxaca.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-ad95-d62f-afef-fdb5fbb80000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn3.uvnimg.com/ee/68/492975854555bc21121ed2ae8696/2c988165becb46f59bb0d5548a9828a6",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/ba5921d/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fee%2F68%2F492975854555bc21121ed2ae8696%2F2c988165becb46f59bb0d5548a9828a6",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/40be67f/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fee%2F68%2F492975854555bc21121ed2ae8696%2F2c988165becb46f59bb0d5548a9828a6",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/6ad3872/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fee%2F68%2F492975854555bc21121ed2ae8696%2F2c988165becb46f59bb0d5548a9828a6",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/ad637db/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fee%2F68%2F492975854555bc21121ed2ae8696%2F2c988165becb46f59bb0d5548a9828a6",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Copa MX",
+                      "link": "https://performance.univision.com/deportes/futbol/copa-mx-league"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3564775",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/copa-mx/queda-un-lugar-en-octavos-de-la-copa-mx-estos-son-los-resultados-del-miercoles-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Queda un lugar en Octavos de la Copa MX; estos son los resultados del miércoles",
+                              "description": "Toluca se despidió de forma honrosa de la Copa MX y Morelia quedó fuera tras empatar con Alebrijes de Oaxaca.",
+                              "imageUrl": "https://cdn3.uvnimg.com/ee/68/492975854555bc21121ed2ae8696/2c988165becb46f59bb0d5548a9828a6"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/copa-mx/queda-un-lugar-en-octavos-de-la-copa-mx-estos-son-los-resultados-del-miercoles-video",
+                              "title": "Queda un lugar en Octavos de la Copa MX; estos son los resultados del miércoles",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/copa-mx/queda-un-lugar-en-octavos-de-la-copa-mx-estos-son-los-resultados-del-miercoles-video",
+                              "message": "Queda un lugar en Octavos de la Copa MX; estos son los resultados del miércoles"
+                          },
+                          "mail": {
+                              "subject": "Queda un lugar en Octavos de la Copa MX; estos son los resultados del miércoles",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nQueda un lugar en Octavos de la Copa MX; estos son los resultados del miércoles\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/copa-mx/queda-un-lugar-en-octavos-de-la-copa-mx-estos-son-los-resultados-del-miercoles-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "Not Rated",
+                  "genre": null,
+                  "durationString": "0:58",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univisiondeportes.com",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-ac9e-d680-a5ff-efbf2da20000",
+                  "uri": "/shows/locura-deportiva/el-ultimo-as-bajo-la-manga-del-atlas-un-delantero-ex-porto-video",
+                  "type": "video",
+                  "updateDate": "2018-09-05T22:08:25-04:00",
+                  "publishDate": "2018-09-05T21:53:00-04:00",
+                  "expirationDate": "2023-09-05T21:53:00-04:00",
+                  "title": "El último ‘as bajo la manga’ del Atlas: un delantero ex Porto",
+                  "shortTitle": "El último ‘as bajo la manga’ del Atlas: un delantero ex Porto",
+                  "description": "Luego de la malograda contratación del atacante chileno Mauricio Pinilla, los Rojinegros están detrás de Kléber Laube Pinheiro, artillero brasileño del Estoril Praia, club de la liga de Portugal. Aquí el informe.",
+                  "shortDescription": "Luego de la malograda contratación del atacante chileno Mauricio Pinilla, los Rojinegros están detrás de Kléber Laube Pinheiro, artillero brasileño del Estoril Praia, club de la liga de Portugal. Aquí el informe.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-ac9f-d7f5-a9e7-bebf7af20000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn1.uvnimg.com/fe/6f/ce981ef6426d87ccf3aa8988dc28/4b92228044504c4fbe3d3e9d0924d2a1",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/73fd6e6/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ffe%2F6f%2Fce981ef6426d87ccf3aa8988dc28%2F4b92228044504c4fbe3d3e9d0924d2a1",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/9cee8ca/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ffe%2F6f%2Fce981ef6426d87ccf3aa8988dc28%2F4b92228044504c4fbe3d3e9d0924d2a1",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/a248a14/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ffe%2F6f%2Fce981ef6426d87ccf3aa8988dc28%2F4b92228044504c4fbe3d3e9d0924d2a1",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/a14201a/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ffe%2F6f%2Fce981ef6426d87ccf3aa8988dc28%2F4b92228044504c4fbe3d3e9d0924d2a1",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Locura Deportiva",
+                      "link": "https://performance.univision.com/shows/locura-deportiva"
+                  },
+                  "primaryTopic": "Programas",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3564715",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/shows/locura-deportiva/el-ultimo-as-bajo-la-manga-del-atlas-un-delantero-ex-porto-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "El último ‘as bajo la manga’ del Atlas: un delantero ex Porto",
+                              "description": "Luego de la malograda contratación del atacante chileno Mauricio Pinilla, los Rojinegros están detrás de Kléber Laube Pinheiro, artillero brasileño del Estoril Praia, club de la liga de Portugal. Aquí el informe.",
+                              "imageUrl": "https://cdn1.uvnimg.com/fe/6f/ce981ef6426d87ccf3aa8988dc28/4b92228044504c4fbe3d3e9d0924d2a1"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/shows/locura-deportiva/el-ultimo-as-bajo-la-manga-del-atlas-un-delantero-ex-porto-video",
+                              "title": "El último ‘as bajo la manga’ del Atlas: un delantero ex Porto",
+                              "via": "Univision"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/shows/locura-deportiva/el-ultimo-as-bajo-la-manga-del-atlas-un-delantero-ex-porto-video",
+                              "message": "El último ‘as bajo la manga’ del Atlas: un delantero ex Porto"
+                          },
+                          "mail": {
+                              "subject": "El último ‘as bajo la manga’ del Atlas: un delantero ex Porto",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEl último ‘as bajo la manga’ del Atlas: un delantero ex Porto\n\nEncuéntralo en este enlace: https://performance.univision.com/shows/locura-deportiva/el-ultimo-as-bajo-la-manga-del-atlas-un-delantero-ex-porto-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "1:12",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-ac05-dbd3-a56f-ff97c2d20000",
+                  "uri": "/deportes/futbol/liga-mx/rafa-marquez-explico-el-caso-pinilla-atlas-busca-un-delantero-y-cerrar-el-dt",
+                  "type": "article",
+                  "updateDate": "2018-09-05T19:37:23-04:00",
+                  "publishDate": "2018-09-05T19:29:37-04:00",
+                  "expirationDate": null,
+                  "title": "Rafa Márquez descarta ‘compras de pánico’ en Atlas",
+                  "shortTitle": "Rafa Márquez descarta ‘compras de pánico’ en Atlas",
+                  "description": "El directivo Rojinero explicó el caso Pinilla y confirmó que Guillermo Hoyos es candidato para DT, como lo fueron Juan Manuel Lillo y Jorge Almirón.",
+                  "shortDescription": "El directivo Rojinero explicó el caso Pinilla y confirmó que Guillermo Hoyos es candidato para DT, como lo fueron Juan Manuel Lillo y Jorge Almirón.",
+                  "richTextDescription": [],
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-4a0c-dbb4-a9e5-dbbdbc950000",
+                      "title": "Rafael Márquez",
+                      "caption": "Imago7",
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn3.uvnimg.com/e3/f3/da0a08be40c2b9347d1f186d0f39/imago-713333.jpg",
+                              "width": 3543,
+                              "height": 2362
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/b1ed9d5/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fe3%2Ff3%2Fda0a08be40c2b9347d1f186d0f39%2Fimago-713333.jpg",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/b4afe81/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fe3%2Ff3%2Fda0a08be40c2b9347d1f186d0f39%2Fimago-713333.jpg",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/6baf272/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fe3%2Ff3%2Fda0a08be40c2b9347d1f186d0f39%2Fimago-713333.jpg",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/57eb065/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fe3%2Ff3%2Fda0a08be40c2b9347d1f186d0f39%2Fimago-713333.jpg",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "leadType": "video",
+                  "articleType": "standard"
+              }
+          ]
+      },
+      {
+          "type": "ListWidget",
+          "settings": {
+              "uid": "00000166-6a35-dd95-afef-eb75f62c0000",
+              "updateDate": null,
+              "publishDate": null,
+              "title": "Más Noticias",
+              "type": "listwidget",
+              "titleLink": null,
+              "uri": null
+          },
+          "contents": [
+              {
+                  "uid": "00000165-abe4-dbfd-a365-efff2e360000",
+                  "uri": "/deportes/futbol/liga-mx/rafa-marquez-explico-el-caso-pinilla-atlas-busca-un-delantero-y-cerrar-el-dt-video",
+                  "type": "video",
+                  "updateDate": "2018-09-05T18:42:07-04:00",
+                  "publishDate": "2018-09-05T18:32:00-04:00",
+                  "expirationDate": "2028-09-04T18:32:00-04:00",
+                  "title": "Rafa Márquez explicó el caso Pinilla: Atlas busca un delantero y cerrar el DT",
+                  "shortTitle": "Rafa Márquez explicó el caso Pinilla: Atlas busca un delantero y cerrar el DT",
+                  "description": "Rafa Márquez habló de Mauricio Pinilla, sigue buscando delantero y confirmó que Guillermo Hoyos es candidato como lo fueron Juan Manuel Lillo y Jorge Almirón.",
+                  "shortDescription": "Rafa Márquez habló de Mauricio Pinilla, sigue buscando delantero y confirmó que Guillermo Hoyos es candidato como lo fueron Juan Manuel Lillo y Jorge Almirón.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-abe5-da6c-a1e5-bbf75d6c0001",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn3.uvnimg.com/bb/83/0af296d94acd92d9e8b387f7530d/6b7eddc7c2384a99be97f623c836acba",
+                              "width": 594,
+                              "height": 334
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/3647882/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fbb%2F83%2F0af296d94acd92d9e8b387f7530d%2F6b7eddc7c2384a99be97f623c836acba",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/160af4a/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fbb%2F83%2F0af296d94acd92d9e8b387f7530d%2F6b7eddc7c2384a99be97f623c836acba",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/8f07979/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fbb%2F83%2F0af296d94acd92d9e8b387f7530d%2F6b7eddc7c2384a99be97f623c836acba",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/9121db6/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fbb%2F83%2F0af296d94acd92d9e8b387f7530d%2F6b7eddc7c2384a99be97f623c836acba",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/5d25929/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fbb%2F83%2F0af296d94acd92d9e8b387f7530d%2F6b7eddc7c2384a99be97f623c836acba",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3564615",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/rafa-marquez-explico-el-caso-pinilla-atlas-busca-un-delantero-y-cerrar-el-dt-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Rafa Márquez explicó el caso Pinilla: Atlas busca un delantero y cerrar el DT",
+                              "description": "Rafa Márquez habló de Mauricio Pinilla, sigue buscando delantero y confirmó que Guillermo Hoyos es candidato como lo fueron Juan Manuel Lillo y Jorge Almirón.",
+                              "imageUrl": "https://cdn3.uvnimg.com/bb/83/0af296d94acd92d9e8b387f7530d/6b7eddc7c2384a99be97f623c836acba"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/rafa-marquez-explico-el-caso-pinilla-atlas-busca-un-delantero-y-cerrar-el-dt-video",
+                              "title": "Rafa Márquez explicó el caso Pinilla: Atlas busca un delantero y cerrar el DT",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/rafa-marquez-explico-el-caso-pinilla-atlas-busca-un-delantero-y-cerrar-el-dt-video",
+                              "message": "Rafa Márquez explicó el caso Pinilla: Atlas busca un delantero y cerrar el DT"
+                          },
+                          "mail": {
+                              "subject": "Rafa Márquez explicó el caso Pinilla: Atlas busca un delantero y cerrar el DT",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nRafa Márquez explicó el caso Pinilla: Atlas busca un delantero y cerrar el DT\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/rafa-marquez-explico-el-caso-pinilla-atlas-busca-un-delantero-y-cerrar-el-dt-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "2:30",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a758-d814-afed-f7dc06a60000",
+                  "uri": "/deportes/futbol/liga-mx/esperanza-para-atlas-zamorano-confirmo-que-el-delantero-mauricio-pinilla-viaja-rumbo-a-guadalajara-video",
+                  "type": "video",
+                  "updateDate": "2018-09-04T22:44:53-04:00",
+                  "publishDate": "2018-09-04T21:24:00-04:00",
+                  "expirationDate": "2028-09-03T21:24:00-04:00",
+                  "title": "Esperanza para Atlas: Zamorano confirmó que el delantero Mauricio Pinilla viaja rumbo a Guadalajara",
+                  "shortTitle": "Esperanza para Atlas: Zamorano confirmó que el delantero Mauricio Pinilla viaja rumbo a Guadalajara",
+                  "description": "Nuestro experto de Línea de Cuatro aseguró que el atacante chileno va de camino a México para incorporarse con los ‘Rojinegros’. “Hermano, estoy en el aeropuerto y voy viajando para Guadalajara”, le dijo el futbolista a ‘Bam-Bam’.",
+                  "shortDescription": "Nuestro experto de Línea de Cuatro aseguró que el atacante chileno va de camino a México para incorporarse con los ‘Rojinegros’. “Hermano, estoy en el aeropuerto y voy viajando para Guadalajara”, le dijo el futbolista a ‘Bam-Bam’.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a75a-da13-a9ed-b75fd5a00000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn2.uvnimg.com/44/21/e17b833f4d20a783e7cf1b18364c/fa5dcd5e66c44d508010186c06de4c16",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/00bad8e/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F21%2Fe17b833f4d20a783e7cf1b18364c%2Ffa5dcd5e66c44d508010186c06de4c16",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/de32425/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F21%2Fe17b833f4d20a783e7cf1b18364c%2Ffa5dcd5e66c44d508010186c06de4c16",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/2cee961/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F21%2Fe17b833f4d20a783e7cf1b18364c%2Ffa5dcd5e66c44d508010186c06de4c16",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/62cd9b0/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F21%2Fe17b833f4d20a783e7cf1b18364c%2Ffa5dcd5e66c44d508010186c06de4c16",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/de7fa6b/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F21%2Fe17b833f4d20a783e7cf1b18364c%2Ffa5dcd5e66c44d508010186c06de4c16",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3564242",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/esperanza-para-atlas-zamorano-confirmo-que-el-delantero-mauricio-pinilla-viaja-rumbo-a-guadalajara-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Esperanza para Atlas: Zamorano confirmó que el delantero Mauricio Pinilla viaja rumbo a Guadalajara",
+                              "description": "Nuestro experto de Línea de Cuatro aseguró que el atacante chileno va de camino a México para incorporarse con los ‘Rojinegros’. “Hermano, estoy en el aeropuerto y voy viajando para Guadalajara”, le dijo el futbolista a ‘Bam-Bam’.",
+                              "imageUrl": "https://cdn2.uvnimg.com/44/21/e17b833f4d20a783e7cf1b18364c/fa5dcd5e66c44d508010186c06de4c16"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/esperanza-para-atlas-zamorano-confirmo-que-el-delantero-mauricio-pinilla-viaja-rumbo-a-guadalajara-video",
+                              "title": "Esperanza para Atlas: Zamorano confirmó que el delantero Mauricio Pinilla viaja rumbo a Guadalajara",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/esperanza-para-atlas-zamorano-confirmo-que-el-delantero-mauricio-pinilla-viaja-rumbo-a-guadalajara-video",
+                              "message": "Esperanza para Atlas: Zamorano confirmó que el delantero Mauricio Pinilla viaja rumbo a Guadalajara"
+                          },
+                          "mail": {
+                              "subject": "Esperanza para Atlas: Zamorano confirmó que el delantero Mauricio Pinilla viaja rumbo a Guadalajara",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEsperanza para Atlas: Zamorano confirmó que el delantero Mauricio Pinilla viaja rumbo a Guadalajara\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/esperanza-para-atlas-zamorano-confirmo-que-el-delantero-mauricio-pinilla-viaja-rumbo-a-guadalajara-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "1:19",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a704-d3d3-a175-ef0791050000",
+                  "uri": "/deportes/futbol/mexico/jose-pekerman-suena-como-opcion-para-dirigir-a-mexico-video",
+                  "type": "video",
+                  "updateDate": "2018-09-04T19:59:21-04:00",
+                  "publishDate": "2018-09-04T19:49:00-04:00",
+                  "expirationDate": "2028-09-03T19:49:00-04:00",
+                  "title": "José Pekerman suena como opción para dirigir a México",
+                  "shortTitle": "José Pekerman suena como opción para dirigir a México",
+                  "description": "No sería la primera vez que la FMF busca al DT argentino, quien tiene pasado en el balompié azteca.",
+                  "shortDescription": "No sería la primera vez que la FMF busca al DT argentino, quien tiene pasado en el balompié azteca.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a706-da13-a9ed-b757bb0b0000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn3.uvnimg.com/99/6b/ab15484749f1ac26790e019d0d6d/c08a32c59af647899a3e3dc8a118fcfd",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/568302f/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F99%2F6b%2Fab15484749f1ac26790e019d0d6d%2Fc08a32c59af647899a3e3dc8a118fcfd",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/d6470b6/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F99%2F6b%2Fab15484749f1ac26790e019d0d6d%2Fc08a32c59af647899a3e3dc8a118fcfd",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/4ba39d3/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F99%2F6b%2Fab15484749f1ac26790e019d0d6d%2Fc08a32c59af647899a3e3dc8a118fcfd",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/f71196b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F99%2F6b%2Fab15484749f1ac26790e019d0d6d%2Fc08a32c59af647899a3e3dc8a118fcfd",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/908cab9/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F99%2F6b%2Fab15484749f1ac26790e019d0d6d%2Fc08a32c59af647899a3e3dc8a118fcfd",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "México",
+                      "link": "https://performance.univision.com/deportes/futbol/mexico"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3564207",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/mexico/jose-pekerman-suena-como-opcion-para-dirigir-a-mexico-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "José Pekerman suena como opción para dirigir a México",
+                              "description": "No sería la primera vez que la FMF busca al DT argentino, quien tiene pasado en el balompié azteca.",
+                              "imageUrl": "https://cdn3.uvnimg.com/99/6b/ab15484749f1ac26790e019d0d6d/c08a32c59af647899a3e3dc8a118fcfd"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/mexico/jose-pekerman-suena-como-opcion-para-dirigir-a-mexico-video",
+                              "title": "José Pekerman suena como opción para dirigir a México",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/mexico/jose-pekerman-suena-como-opcion-para-dirigir-a-mexico-video",
+                              "message": "José Pekerman suena como opción para dirigir a México"
+                          },
+                          "mail": {
+                              "subject": "José Pekerman suena como opción para dirigir a México",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nJosé Pekerman suena como opción para dirigir a México\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/mexico/jose-pekerman-suena-como-opcion-para-dirigir-a-mexico-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "1:32",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univisiondeportes.com",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a638-d2b8-a5ed-be3dbe910000",
+                  "uri": "/deportes/futbol/copa-mx/ultimo-llamado-pumas-atlas-morelia-y-queretaro-se-juegan-la-vida-para-seguir-en-la-copa-mx-video",
+                  "type": "video",
+                  "updateDate": "2018-09-04T16:30:35-04:00",
+                  "publishDate": "2018-09-04T16:01:00-04:00",
+                  "expirationDate": "2028-09-01T16:01:00-04:00",
+                  "title": "¡Último llamado! Pumas, Atlas, Morelia y Querétaro se juegan la 'vida' para seguir en la Copa MX",
+                  "shortTitle": "¡Último llamado! Pumas, Atlas, Morelia y Querétaro se juegan la 'vida' para seguir en la Copa MX",
+                  "description": "Los cuatro clubes de la Primera División deberán asegurar los tres puntos y esperar resultados para asegurar su cupo a la siguiente ronda del torneo copero. Aquí todos los detalles de la jornada seis.",
+                  "shortDescription": "Los cuatro clubes de la Primera División deberán asegurar los tres puntos y esperar resultados para asegurar su cupo a la siguiente ronda del torneo copero. Aquí todos los detalles de la jornada seis.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a63a-d164-afe7-a6bf67d60000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn4.uvnimg.com/1b/6c/1a4317354374ae6012f2faeec9b7/d81eccd9ced14a20b3e6942fe8141fdf",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/5411a02/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F1b%2F6c%2F1a4317354374ae6012f2faeec9b7%2Fd81eccd9ced14a20b3e6942fe8141fdf",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/fb44c27/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F1b%2F6c%2F1a4317354374ae6012f2faeec9b7%2Fd81eccd9ced14a20b3e6942fe8141fdf",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/e1c8abe/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F1b%2F6c%2F1a4317354374ae6012f2faeec9b7%2Fd81eccd9ced14a20b3e6942fe8141fdf",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/9fd736f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F1b%2F6c%2F1a4317354374ae6012f2faeec9b7%2Fd81eccd9ced14a20b3e6942fe8141fdf",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/dfe9564/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F1b%2F6c%2F1a4317354374ae6012f2faeec9b7%2Fd81eccd9ced14a20b3e6942fe8141fdf",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Copa MX",
+                      "link": "https://performance.univision.com/deportes/futbol/copa-mx-league"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3564048",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/copa-mx/ultimo-llamado-pumas-atlas-morelia-y-queretaro-se-juegan-la-vida-para-seguir-en-la-copa-mx-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "¡Último llamado! Pumas, Atlas, Morelia y Querétaro se juegan la 'vida' para seguir en la Copa MX",
+                              "description": "Los cuatro clubes de la Primera División deberán asegurar los tres puntos y esperar resultados para asegurar su cupo a la siguiente ronda del torneo copero. Aquí todos los detalles de la jornada seis.",
+                              "imageUrl": "https://cdn4.uvnimg.com/1b/6c/1a4317354374ae6012f2faeec9b7/d81eccd9ced14a20b3e6942fe8141fdf"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/copa-mx/ultimo-llamado-pumas-atlas-morelia-y-queretaro-se-juegan-la-vida-para-seguir-en-la-copa-mx-video",
+                              "title": "¡Último llamado! Pumas, Atlas, Morelia y Querétaro se juegan la 'vida' para seguir en la Copa MX",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/copa-mx/ultimo-llamado-pumas-atlas-morelia-y-queretaro-se-juegan-la-vida-para-seguir-en-la-copa-mx-video",
+                              "message": "¡Último llamado! Pumas, Atlas, Morelia y Querétaro se juegan la 'vida' para seguir en la Copa MX"
+                          },
+                          "mail": {
+                              "subject": "¡Último llamado! Pumas, Atlas, Morelia y Querétaro se juegan la 'vida' para seguir en la Copa MX",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\n¡Último llamado! Pumas, Atlas, Morelia y Querétaro se juegan la 'vida' para seguir en la Copa MX\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/copa-mx/ultimo-llamado-pumas-atlas-morelia-y-queretaro-se-juegan-la-vida-para-seguir-en-la-copa-mx-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "Not Rated",
+                  "genre": null,
+                  "durationString": "1:16",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network / Televisa Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a624-d62f-afef-f6b43bf60000",
+                  "uri": "/deportes/futbol/liga-mx/los-pobres-numeros-que-dejo-gerardo-espinoza-en-su-paso-por-el-atlas-video",
+                  "type": "video",
+                  "updateDate": "2018-09-04T16:15:02-04:00",
+                  "publishDate": "2018-09-04T15:40:00-04:00",
+                  "expirationDate": "2028-09-03T15:40:00-04:00",
+                  "title": "Los pobres números que dejó Gerardo Espinoza en su paso por el Atlas",
+                  "shortTitle": "Los pobres números que dejó Gerardo Espinoza en su paso por el Atlas",
+                  "description": "El exfutbolista sinaloense no logró tener los mismos resultados que obtuvo en su anterior interinato en el club rojinegro. La mala racha de los ‘Zorros’ se vio reflejada en una terrible marca sin poder hacer goles.",
+                  "shortDescription": "El exfutbolista sinaloense no logró tener los mismos resultados que obtuvo en su anterior interinato en el club rojinegro. La mala racha de los ‘Zorros’ se vio reflejada en una terrible marca sin poder hacer goles.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a625-d62f-afef-f6b55e8e0000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn3.uvnimg.com/82/72/422b113e4752a4d14eebdd7d0883/52e9b861c8724f1285434a4a1094204f",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/dddd578/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F82%2F72%2F422b113e4752a4d14eebdd7d0883%2F52e9b861c8724f1285434a4a1094204f",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/7880b95/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F82%2F72%2F422b113e4752a4d14eebdd7d0883%2F52e9b861c8724f1285434a4a1094204f",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/550e4ab/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F82%2F72%2F422b113e4752a4d14eebdd7d0883%2F52e9b861c8724f1285434a4a1094204f",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/f589199/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F82%2F72%2F422b113e4752a4d14eebdd7d0883%2F52e9b861c8724f1285434a4a1094204f",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/ce5be23/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F82%2F72%2F422b113e4752a4d14eebdd7d0883%2F52e9b861c8724f1285434a4a1094204f",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3564044",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/los-pobres-numeros-que-dejo-gerardo-espinoza-en-su-paso-por-el-atlas-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Los pobres números que dejó Gerardo Espinoza en su paso por el Atlas",
+                              "description": "El exfutbolista sinaloense no logró tener los mismos resultados que obtuvo en su anterior interinato en el club rojinegro. La mala racha de los ‘Zorros’ se vio reflejada en una terrible marca sin poder hacer goles.",
+                              "imageUrl": "https://cdn3.uvnimg.com/82/72/422b113e4752a4d14eebdd7d0883/52e9b861c8724f1285434a4a1094204f"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/los-pobres-numeros-que-dejo-gerardo-espinoza-en-su-paso-por-el-atlas-video",
+                              "title": "Los pobres números que dejó Gerardo Espinoza en su paso por el Atlas",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/los-pobres-numeros-que-dejo-gerardo-espinoza-en-su-paso-por-el-atlas-video",
+                              "message": "Los pobres números que dejó Gerardo Espinoza en su paso por el Atlas"
+                          },
+                          "mail": {
+                              "subject": "Los pobres números que dejó Gerardo Espinoza en su paso por el Atlas",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLos pobres números que dejó Gerardo Espinoza en su paso por el Atlas\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/los-pobres-numeros-que-dejo-gerardo-espinoza-en-su-paso-por-el-atlas-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "0:49",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network / Televisa Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a2bc-d251-abe5-f6fc5aec0000",
+                  "uri": "/deportes/futbol/liga-mx/septimo-puesto-la-pasion-se-desbordo-en-el-clasico-tapatio-video",
+                  "type": "video",
+                  "updateDate": "2018-09-04T02:02:11-04:00",
+                  "publishDate": "2018-09-03T23:54:00-04:00",
+                  "expirationDate": "2028-09-02T23:54:00-04:00",
+                  "title": "Séptimo puesto: la pasión se desbordó en el Clásico Tapatío",
+                  "shortTitle": "Séptimo puesto: la pasión se desbordó en el Clásico Tapatío",
+                  "description": "En los cuartos de final del Clausura 2015, Chivas y Atlas midieron fuerzas, pero esas se trasladaron a los hinchas rojinegros que invadieron la cancha. El Rebaño se impuso sobre los Zorros.",
+                  "shortDescription": "En los cuartos de final del Clausura 2015, Chivas y Atlas midieron fuerzas, pero esas se trasladaron a los hinchas rojinegros que invadieron la cancha. El Rebaño se impuso sobre los Zorros.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a32c-d251-abe5-f7ec8b900000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn4.uvnimg.com/ba/a8/03153e0c4db99017b92e7e9a3b1f/4bc5b20cc35d466d91fe9175a16acd76",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/5ded187/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fba%2Fa8%2F03153e0c4db99017b92e7e9a3b1f%2F4bc5b20cc35d466d91fe9175a16acd76",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/b327dc3/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fba%2Fa8%2F03153e0c4db99017b92e7e9a3b1f%2F4bc5b20cc35d466d91fe9175a16acd76",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/2f4f4ab/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fba%2Fa8%2F03153e0c4db99017b92e7e9a3b1f%2F4bc5b20cc35d466d91fe9175a16acd76",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/032c1e2/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fba%2Fa8%2F03153e0c4db99017b92e7e9a3b1f%2F4bc5b20cc35d466d91fe9175a16acd76",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/ec801ba/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fba%2Fa8%2F03153e0c4db99017b92e7e9a3b1f%2F4bc5b20cc35d466d91fe9175a16acd76",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563825",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/septimo-puesto-la-pasion-se-desbordo-en-el-clasico-tapatio-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Séptimo puesto: la pasión se desbordó en el Clásico Tapatío",
+                              "description": "En los cuartos de final del Clausura 2015, Chivas y Atlas midieron fuerzas, pero esas se trasladaron a los hinchas rojinegros que invadieron la cancha. El Rebaño se impuso sobre los Zorros.",
+                              "imageUrl": "https://cdn4.uvnimg.com/ba/a8/03153e0c4db99017b92e7e9a3b1f/4bc5b20cc35d466d91fe9175a16acd76"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/septimo-puesto-la-pasion-se-desbordo-en-el-clasico-tapatio-video",
+                              "title": "Séptimo puesto: la pasión se desbordó en el Clásico Tapatío",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/septimo-puesto-la-pasion-se-desbordo-en-el-clasico-tapatio-video",
+                              "message": "Séptimo puesto: la pasión se desbordó en el Clásico Tapatío"
+                          },
+                          "mail": {
+                              "subject": "Séptimo puesto: la pasión se desbordó en el Clásico Tapatío",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nSéptimo puesto: la pasión se desbordó en el Clásico Tapatío\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/septimo-puesto-la-pasion-se-desbordo-en-el-clasico-tapatio-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "1:51",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a245-d3d3-a175-ef47ce640000",
+                  "uri": "/deportes/futbol/liga-mx/atlas-despide-a-gerardo-espinoza-tras-cosechar-dos-de-24-puntos-posibles-del-apertura-2018-fotos",
+                  "type": "slideshow",
+                  "updateDate": "2018-09-03T23:31:08-04:00",
+                  "publishDate": "2018-09-03T23:14:15-04:00",
+                  "expirationDate": null,
+                  "title": "Atlas despide a Gerardo Espinoza tras cosechar dos de 24 puntos posibles del Apertura 2018",
+                  "shortTitle": "Atlas despide a Gerardo Espinoza tras cosechar dos de 24 puntos posibles del Apertura 2018",
+                  "description": "La directiva de los Rojinegros no tuvo más alternativa que cambiar de mando, son el peor equipo de la Liga MX, con ofensiva estéril y defensa frágil.",
+                  "shortDescription": "La directiva de los Rojinegros no tuvo más alternativa que cambiar de mando, son el peor equipo de la Liga MX, con ofensiva estéril y ",
+                  "richTextDescription": [],
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a279-ddaa-a57f-b77d65440001",
+                      "title": null,
+                      "caption": "",
+                      "credit": "Imago7",
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn3.uvnimg.com/f2/a4/72e4258a4a40b12437b6242a51d9/imago-704210.jpg",
+                              "width": 3100,
+                              "height": 2066
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/a0cbb6e/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Ff2%2Fa4%2F72e4258a4a40b12437b6242a51d9%2Fimago-704210.jpg",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/65fa1fe/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Ff2%2Fa4%2F72e4258a4a40b12437b6242a51d9%2Fimago-704210.jpg",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/2b81f84/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Ff2%2Fa4%2F72e4258a4a40b12437b6242a51d9%2Fimago-704210.jpg",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/80536d4/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Ff2%2Fa4%2F72e4258a4a40b12437b6242a51d9%2Fimago-704210.jpg",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/650661c/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Ff2%2Fa4%2F72e4258a4a40b12437b6242a51d9%2Fimago-704210.jpg",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": []
+              },
+              {
+                  "uid": "00000165-a261-d251-abe5-f6e1a4800000",
+                  "uri": "/deportes/futbol/liga-mx/atlas-cesa-a-gerardo-espinoza-como-su-director-tecnico-video",
+                  "type": "video",
+                  "updateDate": "2018-09-03T22:22:04-04:00",
+                  "publishDate": "2018-09-03T22:07:00-04:00",
+                  "expirationDate": "2028-09-02T22:07:00-04:00",
+                  "title": "Atlas cesa a Gerardo Espinoza como su director técnico",
+                  "shortTitle": "Atlas cesa a Gerardo Espinoza como su director técnico",
+                  "description": "Por el momento los Rojinegros tendrán de interino a Raúl Chabrand y en los próximos días se anunciará al nuevo entrenador.",
+                  "shortDescription": "Por el momento los Rojinegros tendrán de interino a Raúl Chabrand y en los próximos días se anunciará al nuevo entrenador.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a263-d7f5-a9e7-b2ef06480000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn4.uvnimg.com/70/a9/4375f6a94ddf9fc66ce8e7ca0113/c3e554717949462499cf2c6ead14ddf1",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/de2fabc/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F70%2Fa9%2F4375f6a94ddf9fc66ce8e7ca0113%2Fc3e554717949462499cf2c6ead14ddf1",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/1270fa9/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F70%2Fa9%2F4375f6a94ddf9fc66ce8e7ca0113%2Fc3e554717949462499cf2c6ead14ddf1",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/d7b997c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F70%2Fa9%2F4375f6a94ddf9fc66ce8e7ca0113%2Fc3e554717949462499cf2c6ead14ddf1",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/baa0f04/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F70%2Fa9%2F4375f6a94ddf9fc66ce8e7ca0113%2Fc3e554717949462499cf2c6ead14ddf1",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/b02bdb0/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F70%2Fa9%2F4375f6a94ddf9fc66ce8e7ca0113%2Fc3e554717949462499cf2c6ead14ddf1",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563804",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/atlas-cesa-a-gerardo-espinoza-como-su-director-tecnico-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Atlas cesa a Gerardo Espinoza como su director técnico",
+                              "description": "Por el momento los Rojinegros tendrán de interino a Raúl Chabrand y en los próximos días se anunciará al nuevo entrenador.",
+                              "imageUrl": "https://cdn4.uvnimg.com/70/a9/4375f6a94ddf9fc66ce8e7ca0113/c3e554717949462499cf2c6ead14ddf1"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/atlas-cesa-a-gerardo-espinoza-como-su-director-tecnico-video",
+                              "title": "Atlas cesa a Gerardo Espinoza como su director técnico",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/atlas-cesa-a-gerardo-espinoza-como-su-director-tecnico-video",
+                              "message": "Atlas cesa a Gerardo Espinoza como su director técnico"
+                          },
+                          "mail": {
+                              "subject": "Atlas cesa a Gerardo Espinoza como su director técnico",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nAtlas cesa a Gerardo Espinoza como su director técnico\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/atlas-cesa-a-gerardo-espinoza-como-su-director-tecnico-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "1:09",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univisiondeportes.com",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a257-d62f-afef-f6f7a9ef0000",
+                  "uri": "/deportes/futbol/liga-mx/noveno-puesto-atlas-y-chivas-se-enfrentaron-en-los-cuartos-de-final-del-apertura-2004-video",
+                  "type": "video",
+                  "updateDate": "2018-09-04T02:04:53-04:00",
+                  "publishDate": "2018-09-03T22:04:00-04:00",
+                  "expirationDate": "2028-09-02T22:04:00-04:00",
+                  "title": "Noveno puesto: Atlas y Chivas se enfrentaron en los cuartos de final del Apertura 2004",
+                  "shortTitle": "Noveno puesto: Atlas y Chivas se enfrentaron en los cuartos de final del Apertura 2004",
+                  "description": "Fue la única vez que los Rojinegros eliminaron al Rebaño Sagrado en una liguilla. En semifinales los Zorros cayeron contra Pumas, que luego terminó siendo campeón.",
+                  "shortDescription": "Fue la única vez que los Rojinegros eliminaron al Rebaño Sagrado en una liguilla. En semifinales los Zorros cayeron contra Pumas, que luego terminó siendo campeón.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a32f-ddaa-a57f-b77f003a0000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn4.uvnimg.com/66/bc/c821af1e4b40a4a9db039bab7adc/2598c97d2994401ea75c01235bb1c9be",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/ced9a63/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F66%2Fbc%2Fc821af1e4b40a4a9db039bab7adc%2F2598c97d2994401ea75c01235bb1c9be",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/51ab1ec/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F66%2Fbc%2Fc821af1e4b40a4a9db039bab7adc%2F2598c97d2994401ea75c01235bb1c9be",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/d1f5678/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F66%2Fbc%2Fc821af1e4b40a4a9db039bab7adc%2F2598c97d2994401ea75c01235bb1c9be",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/a4a9338/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F66%2Fbc%2Fc821af1e4b40a4a9db039bab7adc%2F2598c97d2994401ea75c01235bb1c9be",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/26535de/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F66%2Fbc%2Fc821af1e4b40a4a9db039bab7adc%2F2598c97d2994401ea75c01235bb1c9be",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563803",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/noveno-puesto-atlas-y-chivas-se-enfrentaron-en-los-cuartos-de-final-del-apertura-2004-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Noveno puesto: Atlas y Chivas se enfrentaron en los cuartos de final del Apertura 2004",
+                              "description": "Fue la única vez que los Rojinegros eliminaron al Rebaño Sagrado en una liguilla. En semifinales los Zorros cayeron contra Pumas, que luego terminó siendo campeón.",
+                              "imageUrl": "https://cdn4.uvnimg.com/66/bc/c821af1e4b40a4a9db039bab7adc/2598c97d2994401ea75c01235bb1c9be"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/noveno-puesto-atlas-y-chivas-se-enfrentaron-en-los-cuartos-de-final-del-apertura-2004-video",
+                              "title": "Noveno puesto: Atlas y Chivas se enfrentaron en los cuartos de final del Apertura 2004",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/noveno-puesto-atlas-y-chivas-se-enfrentaron-en-los-cuartos-de-final-del-apertura-2004-video",
+                              "message": "Noveno puesto: Atlas y Chivas se enfrentaron en los cuartos de final del Apertura 2004"
+                          },
+                          "mail": {
+                              "subject": "Noveno puesto: Atlas y Chivas se enfrentaron en los cuartos de final del Apertura 2004",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nNoveno puesto: Atlas y Chivas se enfrentaron en los cuartos de final del Apertura 2004\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/noveno-puesto-atlas-y-chivas-se-enfrentaron-en-los-cuartos-de-final-del-apertura-2004-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "1:29",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a240-ddaa-a57f-b7750fa60000",
+                  "uri": "/deportes/futbol/liga-mx/atlas-anuncia-cese-de-gerardo-espinoza-como-dt",
+                  "type": "article",
+                  "updateDate": "2018-09-03T23:27:19-04:00",
+                  "publishDate": "2018-09-03T21:51:53-04:00",
+                  "expirationDate": null,
+                  "title": "Atlas anuncia cese de Gerardo Espinoza como DT",
+                  "shortTitle": "Atlas anuncia cese de Gerardo Espinoza como DT",
+                  "description": "Espinoza seguirá en la institución, pero ya no como entrenador del primer equipo.",
+                  "shortDescription": "Espinoza seguirá en la institución, pero ya no como entrenador del primer equipo.",
+                  "richTextDescription": [],
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a244-d3d3-a175-ef4766ec0000",
+                      "title": "Gerardo Espinoza",
+                      "caption": "Imago7",
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn1.uvnimg.com/5d/94/482ac9c745fc87a25795cafee18f/imago-724488.jpg",
+                              "width": 3888,
+                              "height": 2592
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/4b9c839/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F5d%2F94%2F482ac9c745fc87a25795cafee18f%2Fimago-724488.jpg",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/4e9e5d0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F5d%2F94%2F482ac9c745fc87a25795cafee18f%2Fimago-724488.jpg",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/9776e7a/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F5d%2F94%2F482ac9c745fc87a25795cafee18f%2Fimago-724488.jpg",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/f473fc8/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F5d%2F94%2F482ac9c745fc87a25795cafee18f%2Fimago-724488.jpg",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn4.performance.univision.com/dims4/default/bd80ec9/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F5d%2F94%2F482ac9c745fc87a25795cafee18f%2Fimago-724488.jpg",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "leadType": "video",
+                  "articleType": "standard"
+              },
+              {
+                  "uid": "00000165-a1e6-dbfd-a365-e5ffe1510000",
+                  "uri": "/shows/futbol-club/exquisitos-los-cinco-golazos-de-la-jornada-8-en-la-liga-mx-video",
+                  "type": "video",
+                  "updateDate": "2018-09-03T20:37:13-04:00",
+                  "publishDate": "2018-09-03T19:56:00-04:00",
+                  "expirationDate": "2028-08-31T19:56:00-04:00",
+                  "title": "Exquisitos: los cinco golazos de la Jornada 8 en la Liga MX",
+                  "shortTitle": "Exquisitos: los cinco golazos de la Jornada 8 en la Liga MX",
+                  "description": "Cruz Azul abre y cierra este top de anotaciones con el soberbio remate desde larga distancia de Elías Hernández y la jugada colectiva, también polémica, en el gol de Roberto Alvarado. Aquí los ‘poemas’.",
+                  "shortDescription": "Cruz Azul abre y cierra este top de anotaciones con el soberbio remate desde larga distancia de Elías Hernández y la jugada colectiva, también polémica, en el gol de Roberto Alvarado. Aquí los ‘poemas’.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a1f0-d7ce-a165-bffa9ef20000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn2.uvnimg.com/66/61/e9809b134d29a3a0dd08fa73045a/508f685496744a9aaa5b87bf4ec752ba",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/073dded/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F66%2F61%2Fe9809b134d29a3a0dd08fa73045a%2F508f685496744a9aaa5b87bf4ec752ba",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/0b15d88/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F66%2F61%2Fe9809b134d29a3a0dd08fa73045a%2F508f685496744a9aaa5b87bf4ec752ba",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/aac91d6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F66%2F61%2Fe9809b134d29a3a0dd08fa73045a%2F508f685496744a9aaa5b87bf4ec752ba",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/cb1aca9/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F66%2F61%2Fe9809b134d29a3a0dd08fa73045a%2F508f685496744a9aaa5b87bf4ec752ba",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/2caa902/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F66%2F61%2Fe9809b134d29a3a0dd08fa73045a%2F508f685496744a9aaa5b87bf4ec752ba",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Fútbol Club",
+                      "link": "https://performance.univision.com/shows/futbol-club"
+                  },
+                  "primaryTopic": "Programas",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563770",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/shows/futbol-club/exquisitos-los-cinco-golazos-de-la-jornada-8-en-la-liga-mx-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Exquisitos: los cinco golazos de la Jornada 8 en la Liga MX",
+                              "description": "Cruz Azul abre y cierra este top de anotaciones con el soberbio remate desde larga distancia de Elías Hernández y la jugada colectiva, también polémica, en el gol de Roberto Alvarado. Aquí los ‘poemas’.",
+                              "imageUrl": "https://cdn2.uvnimg.com/66/61/e9809b134d29a3a0dd08fa73045a/508f685496744a9aaa5b87bf4ec752ba"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/shows/futbol-club/exquisitos-los-cinco-golazos-de-la-jornada-8-en-la-liga-mx-video",
+                              "title": "Exquisitos: los cinco golazos de la Jornada 8 en la Liga MX",
+                              "via": "Univision"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/shows/futbol-club/exquisitos-los-cinco-golazos-de-la-jornada-8-en-la-liga-mx-video",
+                              "message": "Exquisitos: los cinco golazos de la Jornada 8 en la Liga MX"
+                          },
+                          "mail": {
+                              "subject": "Exquisitos: los cinco golazos de la Jornada 8 en la Liga MX",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nExquisitos: los cinco golazos de la Jornada 8 en la Liga MX\n\nEncuéntralo en este enlace: https://performance.univision.com/shows/futbol-club/exquisitos-los-cinco-golazos-de-la-jornada-8-en-la-liga-mx-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "2:28",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a169-d8a7-a76d-eded504e0000",
+                  "uri": "/deportes/futbol/liga-mx/analisis-numerico-de-la-j8-en-la-liga-mx-video",
+                  "type": "video",
+                  "updateDate": "2018-09-03T17:53:06-04:00",
+                  "publishDate": "2018-09-03T17:11:00-04:00",
+                  "expirationDate": "2028-09-02T17:11:00-04:00",
+                  "title": "Análisis numérico de la J8 en la Liga MX",
+                  "shortTitle": "Análisis numérico de la J8 en la Liga MX",
+                  "description": "Algunas de las estadísticas que sobresalieron en la jornada ocho fueron cuatro remontadas, 30 goles, solo dos partidos en ceros y 810 minutos de sequía que dejó de lado Atlas tras convertirle un tanto a Tigres.",
+                  "shortDescription": "Algunas de las estadísticas que sobresalieron en la jornada ocho fueron cuatro remontadas, 30 goles, solo dos partidos en ceros y 810 minutos de sequía que dejó de lado Atlas tras convertirle un tanto a Tigres.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a16a-d8a7-a76d-edeeb33f0000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn1.uvnimg.com/d8/00/dd0b20d141d889b0839086ca043f/bce11661ab1147d1b8db504f3a1d4952",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/cbd0337/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fd8%2F00%2Fdd0b20d141d889b0839086ca043f%2Fbce11661ab1147d1b8db504f3a1d4952",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/27827b6/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fd8%2F00%2Fdd0b20d141d889b0839086ca043f%2Fbce11661ab1147d1b8db504f3a1d4952",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/0ebadfd/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fd8%2F00%2Fdd0b20d141d889b0839086ca043f%2Fbce11661ab1147d1b8db504f3a1d4952",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/5423ad7/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fd8%2F00%2Fdd0b20d141d889b0839086ca043f%2Fbce11661ab1147d1b8db504f3a1d4952",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn2.performance.univision.com/dims4/default/741bbd4/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fd8%2F00%2Fdd0b20d141d889b0839086ca043f%2Fbce11661ab1147d1b8db504f3a1d4952",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563698",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/analisis-numerico-de-la-j8-en-la-liga-mx-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Análisis numérico de la J8 en la Liga MX",
+                              "description": "Algunas de las estadísticas que sobresalieron en la jornada ocho fueron cuatro remontadas, 30 goles, solo dos partidos en ceros y 810 minutos de sequía que dejó de lado Atlas tras convertirle un tanto a Tigres.",
+                              "imageUrl": "https://cdn1.uvnimg.com/d8/00/dd0b20d141d889b0839086ca043f/bce11661ab1147d1b8db504f3a1d4952"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/analisis-numerico-de-la-j8-en-la-liga-mx-video",
+                              "title": "Análisis numérico de la J8 en la Liga MX",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/analisis-numerico-de-la-j8-en-la-liga-mx-video",
+                              "message": "Análisis numérico de la J8 en la Liga MX"
+                          },
+                          "mail": {
+                              "subject": "Análisis numérico de la J8 en la Liga MX",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nAnálisis numérico de la J8 en la Liga MX\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/analisis-numerico-de-la-j8-en-la-liga-mx-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "2:20",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a048-d38a-a965-aa4ab8460000",
+                  "uri": "/deportes/futbol/liga-mx/a-lo-messi-camilo-sanvezzo-y-el-rifle-andrade-dieron-catedra-de-regate-en-la-liga-mx-video",
+                  "type": "video",
+                  "updateDate": "2018-09-03T12:37:15-04:00",
+                  "publishDate": "2018-09-03T12:12:00-04:00",
+                  "expirationDate": "2028-09-02T12:12:00-04:00",
+                  "title": "¡A lo Messi! Camilo Sanvezzo y el 'Rifle' Andrade dieron cátedra de regate en la Liga MX",
+                  "shortTitle": "¡A lo Messi! Camilo Sanvezzo y el 'Rifle' Andrade dieron cátedra de regate en la Liga MX",
+                  "description": "El brasileño y el colombiano se quedaron con los puestos de privilegio en la lista de las cuatro mejores anotaciones de la jornada número ocho de la competición.",
+                  "shortDescription": "El brasileño y el colombiano se quedaron con los puestos de privilegio en la lista de las cuatro mejores anotaciones de la jornada número ocho de la competición.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a04a-d3d3-a175-ed4f0d4e0000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn1.uvnimg.com/99/0b/ed45042544538273932131555486/0c1f95226bb14dbe96be22a94d6db171",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/dccb5b9/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F99%2F0b%2Fed45042544538273932131555486%2F0c1f95226bb14dbe96be22a94d6db171",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/099d4e0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F99%2F0b%2Fed45042544538273932131555486%2F0c1f95226bb14dbe96be22a94d6db171",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/8da87fa/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F99%2F0b%2Fed45042544538273932131555486%2F0c1f95226bb14dbe96be22a94d6db171",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/0ce222d/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F99%2F0b%2Fed45042544538273932131555486%2F0c1f95226bb14dbe96be22a94d6db171",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/10e891c/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F99%2F0b%2Fed45042544538273932131555486%2F0c1f95226bb14dbe96be22a94d6db171",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563591",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/a-lo-messi-camilo-sanvezzo-y-el-rifle-andrade-dieron-catedra-de-regate-en-la-liga-mx-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "¡A lo Messi! Camilo Sanvezzo y el 'Rifle' Andrade dieron cátedra de regate en la Liga MX",
+                              "description": "El brasileño y el colombiano se quedaron con los puestos de privilegio en la lista de las cuatro mejores anotaciones de la jornada número ocho de la competición.",
+                              "imageUrl": "https://cdn1.uvnimg.com/99/0b/ed45042544538273932131555486/0c1f95226bb14dbe96be22a94d6db171"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/a-lo-messi-camilo-sanvezzo-y-el-rifle-andrade-dieron-catedra-de-regate-en-la-liga-mx-video",
+                              "title": "¡A lo Messi! Camilo Sanvezzo y el 'Rifle' Andrade dieron cátedra de regate en la Liga MX",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/a-lo-messi-camilo-sanvezzo-y-el-rifle-andrade-dieron-catedra-de-regate-en-la-liga-mx-video",
+                              "message": "¡A lo Messi! Camilo Sanvezzo y el 'Rifle' Andrade dieron cátedra de regate en la Liga MX"
+                          },
+                          "mail": {
+                              "subject": "¡A lo Messi! Camilo Sanvezzo y el 'Rifle' Andrade dieron cátedra de regate en la Liga MX",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\n¡A lo Messi! Camilo Sanvezzo y el 'Rifle' Andrade dieron cátedra de regate en la Liga MX\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/a-lo-messi-camilo-sanvezzo-y-el-rifle-andrade-dieron-catedra-de-regate-en-la-liga-mx-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "1:15",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-a004-d5b4-a7f5-fbc495030000",
+                  "uri": "/deportes/futbol/liga-mx/atlas-sigue-en-su-caida-libre-en-la-tabla-del-cociente-de-la-liga-video",
+                  "type": "video",
+                  "updateDate": "2018-09-03T11:29:45-04:00",
+                  "publishDate": "2018-09-03T11:06:00-04:00",
+                  "expirationDate": "2028-09-02T11:06:00-04:00",
+                  "title": "Atlas sigue en su caída libre en la tabla del cociente de la Liga",
+                  "shortTitle": "Atlas sigue en su caída libre en la tabla del cociente de la Liga",
+                  "description": "Tras una nueva derrota en la competición, esta vez 3-1 contra Tigres, el equipo rojinegro ya aparece en el puesto 14 del descenso con un promedio de 1,1842. Por otro lado, Pumas logró cumplir la regla de los menores.",
+                  "shortDescription": "Tras una nueva derrota en la competición, esta vez 3-1 contra Tigres, el equipo rojinegro ya aparece en el puesto 14 del descenso con un promedio de 1,1842. Por otro lado, Pumas logró cumplir la regla de los menores.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-a00d-d210-a365-b5afc0380000",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn1.uvnimg.com/1c/27/dbe01139467994b4908fc8522d54/474d964200fb40f2a688444d50dadedb",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/45ddf2c/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F1c%2F27%2Fdbe01139467994b4908fc8522d54%2F474d964200fb40f2a688444d50dadedb",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/4f25ec9/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F1c%2F27%2Fdbe01139467994b4908fc8522d54%2F474d964200fb40f2a688444d50dadedb",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/e9c022b/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F1c%2F27%2Fdbe01139467994b4908fc8522d54%2F474d964200fb40f2a688444d50dadedb",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/bd94c11/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F1c%2F27%2Fdbe01139467994b4908fc8522d54%2F474d964200fb40f2a688444d50dadedb",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn3.performance.univision.com/dims4/default/e8cceca/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F1c%2F27%2Fdbe01139467994b4908fc8522d54%2F474d964200fb40f2a688444d50dadedb",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563554",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/atlas-sigue-en-su-caida-libre-en-la-tabla-del-cociente-de-la-liga-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "Atlas sigue en su caída libre en la tabla del cociente de la Liga",
+                              "description": "Tras una nueva derrota en la competición, esta vez 3-1 contra Tigres, el equipo rojinegro ya aparece en el puesto 14 del descenso con un promedio de 1,1842. Por otro lado, Pumas logró cumplir la regla de los menores.",
+                              "imageUrl": "https://cdn1.uvnimg.com/1c/27/dbe01139467994b4908fc8522d54/474d964200fb40f2a688444d50dadedb"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/atlas-sigue-en-su-caida-libre-en-la-tabla-del-cociente-de-la-liga-video",
+                              "title": "Atlas sigue en su caída libre en la tabla del cociente de la Liga",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/atlas-sigue-en-su-caida-libre-en-la-tabla-del-cociente-de-la-liga-video",
+                              "message": "Atlas sigue en su caída libre en la tabla del cociente de la Liga"
+                          },
+                          "mail": {
+                              "subject": "Atlas sigue en su caída libre en la tabla del cociente de la Liga",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nAtlas sigue en su caída libre en la tabla del cociente de la Liga\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/atlas-sigue-en-su-caida-libre-en-la-tabla-del-cociente-de-la-liga-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "0:55",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-9fe6-dbfd-a365-dfff1e3d0000",
+                  "uri": "/deportes/futbol/liga-mx/la-j8-fue-una-fiesta-de-goles-sorpresas-y-resurrecciones-video",
+                  "type": "video",
+                  "updateDate": "2018-09-03T10:50:19-04:00",
+                  "publishDate": "2018-09-03T10:28:00-04:00",
+                  "expirationDate": "2028-09-02T10:28:00-04:00",
+                  "title": "La J8 fue una fiesta de goles, sorpresas y resurrecciones",
+                  "shortTitle": "La J8 fue una fiesta de goles, sorpresas y resurrecciones",
+                  "description": "Fueron 30 anotaciones en los nueve encuentros de la jornada número ocho del A2018 de la Liga MX, en la cual se vio a Santos perder contra Toluca y a Pumas revivir contra León.",
+                  "shortDescription": "Fueron 30 anotaciones en los nueve encuentros de la jornada número ocho del A2018 de la Liga MX, en la cual se vio a Santos perder contra Toluca y a Pumas revivir contra León.",
+                  "richTextDescription": null,
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-9fe8-db61-a5fd-fff8b77d0001",
+                      "title": "preview",
+                      "caption": null,
+                      "credit": null,
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn1.uvnimg.com/6e/47/f5e89c134b6fbefd6f2e2351466b/26475a33a6494ac68df6baea65556509",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/9c0940e/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6e%2F47%2Ff5e89c134b6fbefd6f2e2351466b%2F26475a33a6494ac68df6baea65556509",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/f700d24/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6e%2F47%2Ff5e89c134b6fbefd6f2e2351466b%2F26475a33a6494ac68df6baea65556509",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/bee93ff/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6e%2F47%2Ff5e89c134b6fbefd6f2e2351466b%2F26475a33a6494ac68df6baea65556509",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/a97e503/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6e%2F47%2Ff5e89c134b6fbefd6f2e2351466b%2F26475a33a6494ac68df6baea65556509",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn5.performance.univision.com/dims4/default/30eb8b1/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F6e%2F47%2Ff5e89c134b6fbefd6f2e2351466b%2F26475a33a6494ac68df6baea65556509",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "mcpid": "3563541",
+                  "sharing": {
+                      "options": {
+                          "facebook": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/la-j8-fue-una-fiesta-de-goles-sorpresas-y-resurrecciones-video",
+                              "isFeedDialog": false,
+                              "appId": "645138725541385",
+                              "title": "La J8 fue una fiesta de goles, sorpresas y resurrecciones",
+                              "description": "Fueron 30 anotaciones en los nueve encuentros de la jornada número ocho del A2018 de la Liga MX, en la cual se vio a Santos perder contra Toluca y a Pumas revivir contra León.",
+                              "imageUrl": "https://cdn1.uvnimg.com/6e/47/f5e89c134b6fbefd6f2e2351466b/26475a33a6494ac68df6baea65556509"
+                          },
+                          "twitter": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/la-j8-fue-una-fiesta-de-goles-sorpresas-y-resurrecciones-video",
+                              "title": "La J8 fue una fiesta de goles, sorpresas y resurrecciones",
+                              "via": "UnivisionSports"
+                          },
+                          "whatsapp": {
+                              "url": "https://performance.univision.com/deportes/futbol/liga-mx/la-j8-fue-una-fiesta-de-goles-sorpresas-y-resurrecciones-video",
+                              "message": "La J8 fue una fiesta de goles, sorpresas y resurrecciones"
+                          },
+                          "mail": {
+                              "subject": "La J8 fue una fiesta de goles, sorpresas y resurrecciones",
+                              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLa J8 fue una fiesta de goles, sorpresas y resurrecciones\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx/la-j8-fue-una-fiesta-de-goles-sorpresas-y-resurrecciones-video\n\nVisitamos www.univision.com"
+                          }
+                      }
+                  },
+                  "rating": "TV-14",
+                  "genre": null,
+                  "durationString": "3:07",
+                  "authRequired": false,
+                  "longform": false,
+                  "longformPlayList": false,
+                  "episodeNo": "0",
+                  "seasonName": null,
+                  "hasNextEpisode": false,
+                  "source": "Univision Deportes Network",
+                  "sourceStation": null
+              },
+              {
+                  "uid": "00000165-9d99-ddaa-a57f-9dfd60d80000",
+                  "uri": "/deportes/futbol/liga-mx/se-impone-nueva-cuota-goleadora-en-la-jornada-8-de-la-liga-mx",
+                  "type": "article",
+                  "updateDate": "2018-09-03T00:17:29-04:00",
+                  "publishDate": "2018-09-03T00:17:30-04:00",
+                  "expirationDate": null,
+                  "title": "Se impone nueva cuota goleadora en la jornada 8 de la Liga MX",
+                  "shortTitle": "Se impone nueva cuota goleadora en la jornada 8 de la Liga MX",
+                  "description": "Justo en el meridiano de competición en el balompié azteca y se alcanzó la mayor cuota goleadora en lo que va del torneo Apertura 2018.",
+                  "shortDescription": "Justo en el meridiano de competición en el balompié azteca y se alcanzó la mayor cuota goleadora en lo que va del torneo Apertura 2018.",
+                  "richTextDescription": [],
+                  "image": {
+                      "type": "image",
+                      "uid": "00000165-9da1-d3d3-a175-fda712950000",
+                      "title": "Así se desarrolló la jornada con más goles en Liga MX",
+                      "caption": "La fecha 8 del balompié azteca impone nueva marca de anotaciones ¿Habrá otra mejor?",
+                      "credit": "Getty Images / Univision Deportes",
+                      "renditions": {
+                          "original": {
+                              "href": "https://cdn1.uvnimg.com/36/03/9d1c85a74c30a385738fa0988618/marca-goles-liga-mx-ap2018-020918.jpg",
+                              "width": 1920,
+                              "height": 1080
+                          },
+                          "16x9-med": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/f4223d7/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F36%2F03%2F9d1c85a74c30a385738fa0988618%2Fmarca-goles-liga-mx-ap2018-020918.jpg",
+                              "width": 400,
+                              "height": 225
+                          },
+                          "16x9-mobile": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/3eef35c/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F36%2F03%2F9d1c85a74c30a385738fa0988618%2Fmarca-goles-liga-mx-ap2018-020918.jpg",
+                              "width": 480,
+                              "height": 270
+                          },
+                          "16x9-sm": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/44cb61e/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F36%2F03%2F9d1c85a74c30a385738fa0988618%2Fmarca-goles-liga-mx-ap2018-020918.jpg",
+                              "width": 246,
+                              "height": 138
+                          },
+                          "16x9-tablet": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/d46753e/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F36%2F03%2F9d1c85a74c30a385738fa0988618%2Fmarca-goles-liga-mx-ap2018-020918.jpg",
+                              "width": 1024,
+                              "height": 576
+                          },
+                          "16x9-loading": {
+                              "href": "https://cdn1.performance.univision.com/dims4/default/c2c7215/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F36%2F03%2F9d1c85a74c30a385738fa0988618%2Fmarca-goles-liga-mx-ap2018-020918.jpg",
+                              "width": 30,
+                              "height": 17
+                          }
+                      }
+                  },
+                  "isSensitive": false,
+                  "primaryTag": {
+                      "name": "Liga MX",
+                      "link": "https://performance.univision.com/deportes/futbol/liga-mx"
+                  },
+                  "primaryTopic": "Deportes",
+                  "contentPriority": "standard",
+                  "authors": [],
+                  "leadType": "image",
+                  "articleType": "standard"
+              }
+          ]
+      }
+  ],
+  "tagHierarchy": [
+      {
+          "name": "deportes",
+          "url": "https://performance.univision.com/temas/deportes"
+      },
+      {
+          "name": "futbol",
+          "url": "https://performance.univision.com/deportes/futbol"
+      },
+      {
+          "name": "competencias de futbol",
+          "url": "https://performance.univision.com/temas/competencias-de-futbol"
+      },
+      {
+          "name": "liga mx (apertura)",
+          "url": "https://performance.univision.com/deportes/futbol/liga-mx-apertura"
+      },
+      {
+          "name": "liga mx (apertura) | 2018",
+          "url": null
+      },
+      {
+          "name": "atlas vs toluca",
+          "url": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28"
+      }
+  ],
+  "tracking": {
+      "tealium": {
+          "account": "main",
+          "environment": "dev",
+          "data": {
+              "all_tags": [
+                  "atlas vs toluca",
+                  "liga mx (apertura) | 2018",
+                  "liga mx (apertura)",
+                  "competencias de futbol",
+                  "futbol",
+                  "deportes",
+                  "liga mx"
+              ],
+              "brand": "atlas vs toluca",
+              "content_created_date": "1530289497078",
+              "content_creator": "00000151-58e0-d9a7-a5d7-f9eec9aa0013",
+              "content_id": "00000164-29f5-d91c-a7ed-abfdc20c0000",
+              "content_modified_date": "1538165195215",
+              "content_type": "soccermatch",
+              "entity_type": "soccermatch",
+              "environment_name": "staging",
+              "language": "es",
+              "match_id": "00000164-29f5-d91c-a7ed-abfdc20c0000",
+              "page_name": "deportes:atlas vs toluca:soccermatch:atl vs tol",
+              "parent_tags": [
+                  "atlas vs toluca",
+                  "liga mx (apertura) | 2018",
+                  "liga mx (apertura)",
+                  "competencias de futbol",
+                  "futbol",
+                  "deportes"
+              ],
+              "parent_topic": "deportes",
+              "permalink": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28",
+              "portal_theme": "deportes",
+              "primary_tag": "atlas vs toluca",
+              "primary_tag_uid": "00000164-29f5-d91c-a7ed-abfdc20c0000",
+              "primary_tag_en": "atlas vs toluca",
+              "promo_title": "atlas vs toluca",
+              "publisher_tags": [
+                  "atlas vs toluca",
+                  "liga mx"
+              ],
+              "short_title": "atl vs tol",
+              "short_title_en": "atl vs tol",
+              "tags_en": [
+                  "atlas vs toluca",
+                  "liga mx (apertura) | 2018",
+                  "liga mx (apertura)",
+                  "soccer competitions",
+                  " soccer",
+                  "sports",
+                  "liga mx"
+              ],
+              "title": "atlas vs toluca",
+              "title_en": "atlas vs toluca",
+              "topics": [
+                  "deportes"
+              ],
+              "uci_division": "uim-adops",
+              "website": "univision",
+              "uni_platform": "Website"
+          }
+      },
+      "nielsen": {
+          "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+          "vcid": "c03",
+          "environment": "dev",
+          "primaryTopic": "Deportes"
+      }
+  },
+  "uid": "00000164-29f5-d91c-a7ed-abfdc20c0000",
+  "isAuth": false,
+  "metaTagData": {
+      "openGraph": {
+          "type": null,
+          "title": "ATL vs TOL",
+          "description": "Atlas vs Toluca | 2018-09-28",
+          "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+          "siteName": "Univision",
+          "url": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28"
+      },
+      "twitter": {
+          "card": "summary_large_image",
+          "title": "ATL vs TOL",
+          "description": "Atlas vs Toluca | 2018-09-28",
+          "creator": null,
+          "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+      },
+      "facebook": {
+          "pages": "259955926518,173155703431,174725429795,130815470261839"
+      }
+  },
+  "liveStreamEnabled": null,
+  "seo": {
+      "title": "Atlas vs Toluca - Univision",
+      "description": "Partido Atlas vs Toluca Liga MX (Apertura) a las 22:00 el 2018-09-28 en Estadio Jalisco. Donde jugarán Oscar Ustari, José Hernández, Cristopher Toselli, Miguel Fraga, Jonathan Estrada, [], Jaine Steven Barreiro, Leiton Jimenez, Rafael Márquez, Gaddi Aguirre, Daniel Arreola, José Monroy, Luis Reyes, [\"Osvaldo González\"], Cristian Calderón, [\"Carlos Robles\"], Édson Rivera, Carlos Treviño, [], [], Edgar Zaldivar, Bryan Garnica, [], Juan Pablo Vigón, Clifford Aboagye, Cándido Ramírez, José Ávila, Serge Patrick Njoh, [], Ravel Morrison, [], [\"Jesús García\"], Ismael Govea, [], [], Martín Barragán, [], Jose Rivaldo Lozano Silva, Daniel Hernández Trejo, Milton Caraglio, Ángelo Henríquez, Ían Torres, Cristian Arriaga, Joé; Pérez, [], [\"Edgar Hernández\"], Omar González, Andrés Andrade, Lorenzo Reyes, Jefferson Duque, Alejandro Diaz, [], Heriberto Olvera, Ricardo Álvarez, Fidel Martínez, [], []Alfredo Talavera, Ramon Pasquel, Miguel Ángel Centeno, Luis García, Carlos Rodríguez, Eduardo García, Santiago García, Maximiliano Perg, Osvaldo González, Óscar Ricardo Rojas, Cristian Borja, Rodrigo Salinas, Carlos Calvo, Andy García, Juan Felipe Delgadillo Fuentes, Francisco Gamboa, [], Ricardo Cruz, Brian Rubio, Isaac Cherem, Ernesto Bejarano, Juan Morales, [], Aldo Benítez, Rubens Sambueza, Antonio Ríos, Pablo Barrientos, Jorge Sartiaguín, Alan Medina, Iván Zamora, Diego González, Arturo Tapia, Diego Gama, [\"Daniel González\"], Alexis Ochoa, Gabriel Hauche, Ernesto Vega, Fernando Uribe, Luis Quiñónes, Alexis Canelo, Martin Abundiz, Fabián Monilla, Richard Ruiz, Adolfo Dominguez, [\"William da Silva\"], Leonel López, Luis Mendoza, Amaury Escoto, [], Héctor Acosta, Javier Cabrera, Enrique Triverio, [], [], [], [], Jonatan Becerril, [] | Liga MX (Apertura) | Fútbol | Deportes | Univision",
+      "keywords": [
+          "Liga MX (Apertura)",
+          "Atlas",
+          "Toluca",
+          "Estadio Jalisco",
+          "Oscar Ustari",
+          "Jose Hernandez",
+          "Cristopher Toselli",
+          "Miguel Fraga",
+          "Jonathan Estrada",
+          "[]",
+          "Jaine Steven Barreiro",
+          "Leiton Jimenez",
+          "Rafael Marquez",
+          "Gaddi Aguirre",
+          "Daniel Arreola",
+          "Jose Monroy",
+          "Luis Reyes",
+          "[\"Osvaldo Gonzalez\"]",
+          "Cristian Calderon",
+          "[\"Carlos Robles\"]",
+          "Edson Rivera",
+          "Carlos Trevino",
+          "Edgar Zaldivar",
+          "Bryan Garnica",
+          "Juan Pablo Vigon",
+          "Clifford Aboagye",
+          "Candido Ramirez",
+          "Jose Avila",
+          "Serge Patrick Njoh",
+          "Ravel Morrison",
+          "[\"Jesus Garcia\"]",
+          "Ismael Govea",
+          "Martin Barragan",
+          "Jose Rivaldo Lozano Silva",
+          "Daniel Hernandez Trejo",
+          "Milton Caraglio",
+          "Angelo Henriquez",
+          "Ian Torres",
+          "Cristian Arriaga",
+          "Joe; Perez",
+          "[\"Edgar Hernandez\"]",
+          "Omar Gonzalez",
+          "Andres Andrade",
+          "Lorenzo Reyes",
+          "Jefferson Duque",
+          "Alejandro Diaz",
+          "Heriberto Olvera",
+          "Ricardo Alvarez",
+          "Fidel Martinez",
+          "Alfredo Talavera",
+          "Ramon Pasquel",
+          "Miguel Angel Centeno",
+          "Luis Garcia",
+          "Carlos Rodriguez",
+          "Eduardo Garcia",
+          "Santiago Garcia",
+          "Maximiliano Perg",
+          "Osvaldo Gonzalez",
+          "Oscar Ricardo Rojas",
+          "Cristian Borja",
+          "Rodrigo Salinas",
+          "Carlos Calvo",
+          "Andy Garcia",
+          "Juan Felipe Delgadillo Fuentes",
+          "Francisco Gamboa",
+          "Ricardo Cruz",
+          "Brian Rubio",
+          "Isaac Cherem",
+          "Ernesto Bejarano",
+          "Juan Morales",
+          "Aldo Benitez",
+          "Rubens Sambueza",
+          "Antonio Rios",
+          "Pablo Barrientos",
+          "Jorge Sartiaguin",
+          "Alan Medina",
+          "Ivan Zamora",
+          "Diego Gonzalez",
+          "Arturo Tapia",
+          "Diego Gama",
+          "[\"Daniel Gonzalez\"]",
+          "Alexis Ochoa",
+          "Gabriel Hauche",
+          "Ernesto Vega",
+          "Fernando Uribe",
+          "Luis Quinones",
+          "Alexis Canelo",
+          "Martin Abundiz",
+          "Fabian Monilla",
+          "Richard Ruiz",
+          "Adolfo Dominguez",
+          "[\"William da Silva\"]",
+          "Leonel Lopez",
+          "Luis Mendoza",
+          "Amaury Escoto",
+          "Hector Acosta",
+          "Javier Cabrera",
+          "Enrique Triverio",
+          "Jonatan Becerril",
+          "Atlas Toluca hoy",
+          "Atlas posiciones",
+          "Atlas resultados",
+          "Toluca posiciones",
+          "Toluca resultados"
+      ],
+      "robots": [],
+      "tagHierarchy": [
+          {
+              "@id": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28",
+              "name": "Atlas vs Toluca",
+              "image": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+          },
+          {
+              "@id": "https://performance.univision.com/deportes/futbol/liga-mx-apertura",
+              "name": "Liga MX (Apertura)",
+              "image": "https://cdn1.uvnimg.com/ed/0a/63b5aef84c41918e0ab5d7868822/copa-mxpng.png"
+          },
+          {
+              "@id": "https://performance.univision.com/temas/competencias-de-futbol",
+              "name": "Competencias de Fútbol",
+              "image": null
+          },
+          {
+              "@id": "https://performance.univision.com/deportes/futbol",
+              "name": "Fútbol",
+              "image": null
+          },
+          {
+              "@id": "https://performance.univision.com/deportes",
+              "name": "Deportes",
+              "image": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+          },
+          {
+              "@id": "https://performance.univision.com",
+              "name": "Univision.com",
+              "image": "https://cdn3.uvnimg.com/a8/a8/a07b20854d2f848ac3d26d57fce4/univisionlogo.jpg"
+          }
+      ]
+  },
+  "homeTeamId": "1284",
+  "matchId": "993875",
+  "image": {
+      "type": "image",
+      "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+      "title": "Univision Fallback Image",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+          "original": {
+              "href": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+          }
+      }
+  },
+  "hasMatchHighlights": true,
+  "richTextDescription": null,
+  "shortDescription": "Atlas vs Toluca | 2018-09-28",
+  "sharing": {
+      "options": {
+          "facebook": {
+              "url": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28",
+              "isFeedDialog": false,
+              "appId": "645138725541385",
+              "title": "ATL vs TOL",
+              "description": "Atlas vs Toluca | 2018-09-28",
+              "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+          },
+          "twitter": {
+              "url": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28",
+              "title": "ATL vs TOL",
+              "via": "UnivisionSports"
+          },
+          "whatsapp": {
+              "url": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28",
+              "message": "ATL vs TOL"
+          },
+          "mail": {
+              "subject": "ATL vs TOL",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nATL vs TOL\n\nEncuéntralo en este enlace: https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28\n\nVisitamos www.univision.com"
+          }
+      }
+  },
+  "uri": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28",
+  "neuLionMatchId": "g993875",
+  "primaryTopic": "Deportes",
+  "isSensitive": false,
+  "brandable": {
+      "uid": "00000164-29f5-d91c-a7ed-abfdc20c0000",
+      "uri": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28",
+      "type": "soccermatch",
+      "updateDate": "2018-09-28T16:06:35-04:00",
+      "publishDate": "2018-06-29T12:24:57-04:00",
+      "title": "Atlas vs Toluca",
+      "shortTitle": "ATL vs TOL",
+      "description": "Atlas vs Toluca | 2018-09-28",
+      "shortDescription": "Atlas vs Toluca | 2018-09-28",
+      "richTextDescription": null,
+      "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+              "original": {
+                  "href": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                  "width": 1200,
+                  "height": 630
+              }
+          }
+      },
+      "isSensitive": false,
+      "primaryTag": {
+          "name": "Atlas vs Toluca",
+          "link": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28"
+      },
+      "primaryTopic": "Deportes"
+  },
+  "primaryTag": {
+      "name": "Atlas vs Toluca",
+      "link": "https://performance.univision.com/deportes/futbol/liga-mx-apertura/atlas-vs-toluca-liga-mx-apertura-2018-09-28"
+  },
+  "awayTeamId": "1286",
+  "ttl": 3600,
+  "feedGeneratedAt": "2018-10-12T17:36:53-04:00"
+}

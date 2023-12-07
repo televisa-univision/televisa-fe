@@ -1,0 +1,116 @@
+.CaptionsWrapper {
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 0 -15px 20px;
+  padding-left: 20px;
+
+  @include media-breakpoint-up('sm') {
+    width: 213px;
+    max-width: 213px;
+    margin: 24px 8px 0;
+    padding-left: 0;
+
+    &.WrapperOpen {
+      width: auto;
+      max-width: 100%;
+
+      .CaptionsButtonWrapper {
+        text-align: left;
+      }
+
+      .CaptionsButton {
+        padding-left: 20px;
+      }
+
+      .CaptionsContent {
+       padding: 0 20px 24px 24px;
+      }
+    }
+  }
+
+  > p {
+    margin: 20px 0 0;
+    text-transform: lowercase;
+    display: none;
+  }
+
+  .CaptionsContent {
+    display: block;
+    font-size: rem(14px);
+    line-height: rem(20px);
+    padding: 0 20px 24px 4px;
+  }
+}
+
+.CaptionsButtonWrapper {
+  @include media-breakpoint-up('sm') {
+    text-align: center;
+  }
+}
+
+.CaptionsButton {
+  text-transform: uppercase;
+  flex: 1 1 auto;
+  text-align: left;
+  padding: 10px 0;
+  font-size: rem(11px);
+  align-items: center;
+  font-weight: bold;
+  max-height: 40px;
+
+  svg {
+    &:first-child {
+      width: 24px;
+      height: 16px;
+      margin-right: 5px;
+    }
+
+    position: relative;
+    bottom: 1px;
+  }
+}
+
+.closeContainer {
+  position: fixed;
+  bottom: 20px;
+  z-index: $zindex-base;
+}
+
+button.captionsClose {
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+
+  &_dark {
+    background-color: $white;
+  }
+
+  &_light {
+    background-color: $black;
+  }
+}
+
+.Captions_light {
+  color: $grey-black;
+  background-color: $very-light-grey;
+
+  .CaptionsContent {
+    color: $black;
+  }
+}
+
+.Captions_dark {
+  color: $grey;
+  background: $darker-grey;
+
+  .CaptionsContent {
+    color: $white;
+  }
+}
+
+.CaptionLine {
+  display: block;
+  margin-bottom: 8px;
+}

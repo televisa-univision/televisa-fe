@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 0 8px;
+}
+
+.logoWrapper {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  align-self: flex-start;
+}
+
+.logo {
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.iconWrapper {
+  display: flex;
+  align-self: center;
+  width: 16px;
+  svg {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+.playersWrapper {
+  padding: 14px 0 0 0;
+}
+
+.noInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 0;
+  text-transform: uppercase;
+  font-size: rem(14px);
+}

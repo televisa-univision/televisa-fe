@@ -1,0 +1,121 @@
+{
+  "name": "@univision/fe-icons",
+  "version": "10.680.1",
+  "description": "Icons components library",
+  "author": "UVN Platform Engineers",
+  "license": "MIT",
+  "homepage": "https://github.com/univision/univision-fe/packages/icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision/univision-fe.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "yarn": ">=1.22.0"
+  },
+  "bugs": {
+    "url": "https://github.com/univision/univision-fe/issues"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "main": "dist/components/Icon/index.js",
+  "scripts": {
+    "start": "npm-run-all lint jest storybook",
+    "start:native": "react-native start",
+    "reset:native": "watchman watch-del-all && rm -rf $TMPDIR/react-* && rm -rf node_modules/ && yarn cache clean && yarn && react-native start --reset-cache",
+    "docs": "esdoc",
+    "test": "NODE_ENV=test npm-run-all test:web test:ios test:android",
+    "test:watch": "jest --bail --verbose --watchAll",
+    "test:android": "jest --config='./config/tests.android.js' --coverage --runInBand --colors",
+    "test:ios": "jest --config='./config/tests.ios.js' --coverage --runInBand --colors",
+    "test:web": "jest --config='./config/tests.web.js' --coverage --runInBand --colors",
+    "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:src lint:test",
+    "lint:src": "eslint --config ../../.eslintrc 'src/**/*.js' --ignore-pattern 'src/**/*.spec.js'",
+    "lint:test": "eslint --config ../../.eslintrc.spec 'src/**/*.spec.js'",
+    "storybook": "start-storybook -p 6006",
+    "storybook:native": "rnstl --silent && storybook start -p 7007 | react-native start --config $(pwd)/rn-cli.config.js",
+    "clean": "rimraf dist",
+    "export": "build-storybook -c .storybook -o dist/story",
+    "babel": "BABEL_BUILD=true babel src --out-dir dist --copy-files --no-copy-ignored",
+    "build": "npm-run-all clean babel build:post",
+    "build:post": "rimraf '+(dist)/**/+(__tests__|__mocks__|*.stories.*)'",
+    "build:watch": "npm-run-all 'babel --watch'",
+    "run:ios": "react-native run-ios",
+    "run:android": "react-native run-android",
+    "preandroid": "./scripts/start_android_emulator.sh &"
+  },
+  "resolutions": {
+    "@babel/parser": "7.7.5"
+  },
+  "dependencies": {
+    "@babel/parser": "7.7.5",
+    "@babel/plugin-transform-flow-strip-types": "^7.8.3",
+    "@babel/runtime": "^7.8.4",
+    "@storybook/react-native": "4.1.18",
+    "@univision/fe-utilities": "^10.680.1",
+    "core-js": "^2.6.5",
+    "metro-react-native-babel-preset": "^0.48.5",
+    "prop-types": "^15.7.2",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-native-svg": "^7.2.0",
+    "react-native-web": "0.9.13",
+    "react-style-proptype": "^3.2.2",
+    "styled-components": "^5.0.1",
+    "svgs": "^4.1.0"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "4.1.18",
+    "@storybook/addon-info": "4.1.18",
+    "@storybook/addon-links": "4.1.18",
+    "@storybook/addons": "4.1.18",
+    "@storybook/react": "4.1.18",
+    "@testing-library/jest-dom": "5.11.8",
+    "@testing-library/react": "11.2.3",
+    "art": "^0.10.3",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "enzyme-to-json": "^3.4.0",
+    "esdoc": "^1.1.0",
+    "eslint": "6.5.1",
+    "jest": "^26.6.3",
+    "jest-canvas-mock": "^2.2.0",
+    "react-art": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-native": "0.57.2",
+    "react-native-storybook-loader": "1.7.0",
+    "react-test-renderer": "16.13.0",
+    "rimraf": "^2.6.2",
+    "schedule": "^0.4.0"
+  },
+  "peerDependencies": {
+    "metro": "^0.48.1",
+    "react-native": "0.57.2"
+  },
+  "config": {
+    "react-native-storybook-loader": {
+      "searchDir": [
+        "./src"
+      ],
+      "pattern": "**/**!(node_modules)/*.stories.js",
+      "outputFile": ".storybook/native/story-loader.js"
+    }
+  },
+  "jest": {
+    "coverageThreshold": {
+      "global": {
+        "statements": 100,
+        "branches": 100,
+        "functions": 100,
+        "lines": 100
+      }
+    },
+    "setupFiles": [
+      "<rootDir>/config/tests.env.js"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/config/tests.setup.js"
+    ]
+  }
+}

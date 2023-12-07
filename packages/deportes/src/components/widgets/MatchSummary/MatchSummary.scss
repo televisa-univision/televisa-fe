@@ -1,0 +1,7 @@
+.wrapper {
+  display: block;
+
+  @include media-breakpoint-up('xs') {
+    display: flex;
+  }
+}

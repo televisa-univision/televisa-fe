@@ -1,0 +1,5 @@
+.h3Container {
+  &+ div > p > br:first-child{
+    display: none;
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "settings": {
+    "type": "allvideoplaylistvideo",
+    "uid": "00000174-7a48-df03-a1f7-7a5b42140007",
+    "livestream": {
+      "type": "livestream",
+      "uid": "00000171-3d1a-dbcb-a173-bd1e963b0000",
+      "uri": "https://uat.x.univision.com/tudn-livestream-24-7-dai",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri": "https://uat.tudn.com",
+        "name": "deportes",
+        "title": "Deportes"
+      },
+      "title": "TUDN 24/7 DAI Test",
+      "description": "Sigue aquí la transmisión de los mejores partidos para que revivas las emociones y los goles que te hicieron vibrar.",
+      "image": {
+        "type": "image",
+        "uid": "00000171-3c40-d32b-a57b-fd40f9af0000",
+        "title": "Real Madrid-Atlético de Madrid 2014",
+        "caption": "LISBON, PORTUGAL - MAY 24: Sergio Ramos of Real Madrid celebrates scoring their first goal in stoppage time during the UEFA Champions League Final between Real Madrid and Atletico de Madrid at Estadio da Luz on May 24, 2014 in Lisbon, Portugal. (Photo by Shaun Botterill/Getty Images)",
+        "credit": "Shaun Botterill/Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/9e/6e/8867e90f4bdd9bf6e2a093e5a3a6/gettyimages-493626377.jpg",
+            "width": 3000,
+            "height": 2087
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/956adb3/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9e%2F6e%2F8867e90f4bdd9bf6e2a093e5a3a6%2Fresizes%2F500%2Fgettyimages-493626377.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/4b4538b/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9e%2F6e%2F8867e90f4bdd9bf6e2a093e5a3a6%2Fresizes%2F1500%2Fgettyimages-493626377.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/88fcc4c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9e%2F6e%2F8867e90f4bdd9bf6e2a093e5a3a6%2Fresizes%2F500%2Fgettyimages-493626377.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/4856736/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9e%2F6e%2F8867e90f4bdd9bf6e2a093e5a3a6%2Fresizes%2F1500%2Fgettyimages-493626377.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/e9ba1aa/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9e%2F6e%2F8867e90f4bdd9bf6e2a093e5a3a6%2Fresizes%2F500%2Fgettyimages-493626377.jpg",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": "EN VIVO",
+      "updateDate": "2020-09-10T09:57:34-04:00",
+      "publishDate": "2020-04-02T18:55:07-04:00",
+      "expirationDate": "3000-01-01T00:00:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        }
+      ],
+      "disableReactions": false,
+      "digitalChannelSchedule": [
+        {
+          "title": "Primer programa título",
+          "description": "Descripción de este programa",
+          "live": true,
+          "days": [
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Sunday",
+            "Wednesday",
+            "Tuesday",
+            "Saturday"
+          ],
+          "timeZone": "US/Eastern",
+          "startTime": "00:00",
+          "endTime": "17:40"
+        },
+        {
+          "title": "Segundo programa título",
+          "description": "Descripción de este programa",
+          "live": true,
+          "days": [
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Sunday",
+            "Wednesday",
+            "Tuesday",
+            "Saturday"
+          ],
+          "timeZone": "US/Eastern",
+          "startTime": "17:40",
+          "endTime": "19:00"
+        },
+        {
+          "title": "Tercer programa título",
+          "description": "Descripción de este programa",
+          "live": true,
+          "days": [
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Sunday",
+            "Wednesday",
+            "Tuesday",
+            "Saturday"
+          ],
+          "timeZone": "US/Eastern",
+          "startTime": "19:00",
+          "endTime": "21:00"
+        },
+        {
+          "title": "Cuarto programa",
+          "description": "Descripción de este programa",
+          "live": false,
+          "days": [
+            "Monday",
+            "Friday",
+            "Wednesday"
+          ],
+          "timeZone": "US/Eastern",
+          "startTime": "21:00",
+          "endTime": "23:50"
+        }
+      ],
+      "livestreamId": "univision-tudn",
+      "autoPlay": true,
+      "tvssUrl": "auth.dev.y.univision.com",
+      "mainImage": "https://uvn-brightspot.s3.amazonaws.com/9e/6e/8867e90f4bdd9bf6e2a093e5a3a6/gettyimages-493626377.jpg",
+      "unauthenticatedVideoTvssUrl": "https://auth.dev.y.univision.com/api/v2/video-auth/adhoc-url-signature-token",
+      "hlsRenditionUrl": "https://usapr-i.akamaihd.net/hls/live/702697/tudn247/master.m3u8",
+      "liveStreamType": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/65c2102dxaE",
+            "isFeedDialog": false,
+            "title": "TUDN 24/7 DAI Test",
+            "description": "Sigue aquí la transmisión de los mejores partidos para que revivas las emociones y los goles que te hicieron vibrar.",
+            "imageUrl": null,
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/65c2102dxaE",
+            "title": "TUDN 24/7 DAI Test",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/65c2102dxaE",
+            "message": "TUDN 24/7 DAI Test"
+          },
+          "mail": {
+            "subject": "TUDN 24/7 DAI Test",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTUDN 24/7 DAI Test\n\nEncuéntralo en este enlace:http://uni.vi/65c2102dxaE\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "enableDai": true,
+      "jwRecommendationChannel": "kv7nEgyM",
+      "isDigitalChannelLiveStream": false,
+      "isAkamaiTokenEnabled": false,
+      "auth": false,
+      "active": true,
+      "isAuth": false,
+      "player": "JW",
+      "isActive": true,
+      "isVertical": "Deportes"
+    },
+    "otherTabs": [
+      null
+    ],
+    "mainTabLabel": null,
+    "title": "Video playlist livestream",
+    "titleLink": null,
+    "lazyLoaded": false
+  },
+  "analyticsData": {
+    "widget": {
+      "widget_pos": 0,
+      "widget_title": "video playlist livestream",
+      "widget_type": "all - video playlist - video"
+    }
+  },
+  "contents": [],
+  "breakingNewsMode": false,
+  "id": "00000174-7a48-df03-a1f7-7a5b42140007",
+  "type": "AllVideoPlaylistVideo",
+  "commonRootSection": null
+}

@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+
+  @include media-breakpoint-down('sm') {
+    flex-wrap: wrap;
+  }
+
+  @include media-breakpoint-up('sm') {
+    padding-top: 1rem;
+  }
+}

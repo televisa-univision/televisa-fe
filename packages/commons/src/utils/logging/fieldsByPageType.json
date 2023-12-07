@@ -1,0 +1,70 @@
+{
+  "common": [
+    "contentPriority",
+    "data",
+    "device",
+    "domain",
+    "env",
+    "externalWidgets",
+    "feedGeneratedAt",
+    "isSensitive",
+    "language",
+    "name",
+    "pageCategory",
+    "primaryTag",
+    "primaryTopic",
+    "requestParams",
+    "tagHierarchy",
+    "theme",
+    "title",
+    "ttl",
+    "type",
+    "uid",
+    "uri",
+    "userAgent",
+    "variant",
+    "widgets"
+  ],
+  "article": [
+    "authors",
+    "body",
+    "image",
+    "isEnableForGoogleAmp",
+    "lead",
+    "value"
+  ],
+  "liveblog": [
+    "displayLeadMedia",
+    "displayPinnedPost",
+    "hideLabel",
+    "leadMedia",
+    "options",
+    "pinnedPost",
+    "posts"
+  ],
+  "slideshow": [
+    "autoPlayTimer",
+    "disableAutoPlay",
+    "hideDescription",
+    "image",
+    "nextSlideshows",
+    "slides",
+    "vertical"
+  ],
+  "video": [
+    "durationString",
+    "dynamicPlaylist",
+    "episodeNo",
+    "genre",
+    "hasCustomPlaylist",
+    "hasNextEpisode",
+    "image",
+    "jwRecommendationChannel",
+    "longform",
+    "longformPlaylist",
+    "mcpid",
+    "seasonName",
+    "widgets"
+  ],
+  "section": []
+}

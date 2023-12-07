@@ -1,0 +1,394 @@
+.button,
+.icon button {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+// Fix issue with mobile logos on dark mode
+.dark {
+  .logoMobileNoTitle {
+    height: 24px;
+  }
+}
+
+.section {
+  button {
+    margin-right: 0;
+  }
+}
+
+.sections {
+  @include media-breakpoint-up('sm') {
+    width: auto;
+    padding: 0 10px;
+  }
+  .icon {
+    height: 13px;
+  }
+}
+
+.logo {
+  height: 28px;
+  width: auto;
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}
+
+.logoMobile {
+  img {
+    height: auto;
+    max-height: 24px;
+    width: auto;
+  }
+
+  &.isTudn {
+    display: none;
+  }
+
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}
+
+.logoMobileNoTitle {
+  height: auto;
+  max-height: 24px;
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}
+
+.logoDesktop {
+  display: none;
+
+  &.isTudn {
+    height: auto;
+    max-height: 16px;
+    display: block;
+    padding-right: 8px;
+  }
+
+  @include media-breakpoint-up('sm') {
+    display: block;
+  }
+}
+
+.logoDesktopNoTitle {
+  height: auto;
+  max-height: 29px;
+  display: none;
+
+  @include media-breakpoint-up('sm') {
+    display: block;
+  }
+}
+
+.branding {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @include media-breakpoint-down('sm') {
+    justify-content: left;
+  }
+}
+
+.mobileNoTitleCenter {
+  @include media-breakpoint-down('sm') {
+    justify-content: center;
+  }
+}
+
+.icon {
+  margin: 0;
+  svg {
+    width: 16px;
+    height: 16px;
+  }
+  path {
+    fill: $darker-grey;
+    .dark &,
+    .theme & {
+      fill: $white;
+    }
+  }
+}
+
+@include media-breakpoint-up('md') {
+  .section nav {
+    margin-top:8px;
+  }
+}
+
+.sectionControlContainer,
+.searchContainer {
+  position: static;
+  display: flex;
+  align-items: center;
+}
+.searchContainer {
+  justify-content: flex-end;
+  form {
+    border-bottom-width: 0;
+  }
+}
+
+.userLoggedIn.searchContainer {
+  [data-element-name="SearchButton"] {
+    display: none;
+    @include media-breakpoint-up('sm') {
+      display: flex;
+    }
+  }
+
+  @include media-breakpoint-up('sm') {
+    & > *:after {
+      content: "";
+      border-left: 1px solid $light-grey;
+      height: 22px;
+      margin-right: 2px;
+      align-self: center;
+    }
+    & > *:last-child:after{
+      border: none;
+    }
+  }
+}
+
+.sectionsLabel {
+  display: none;
+  text-transform: uppercase;
+  font-size: rem(9px);
+  letter-spacing: 0.5px;
+  @include uvs-font('a', 'bold');
+  margin-left: 8px;
+  color: $darker-grey;
+  .dark &,
+  .theme & {
+    color: $white;
+  }
+  @include media-breakpoint-up('sm') {
+    display: inline;
+    letter-spacing: 0;
+    font-size: rem(10px);
+  }
+}
+
+.wrapperTitle {
+  position: relative;
+  a {
+    padding: 0;
+  }
+  &.longTitle {
+    margin-left: 5px;
+    a {
+      @include media-breakpoint-up('sm') {
+        overflow-x: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+    @include media-breakpoint-up('sm') {
+      width: 100%;
+    }
+  }
+}
+
+.search {
+  input {
+    color: $white;
+    padding: 8px 2px 5px;
+    &::placeholder {
+      .theme & {
+        color: fade-out($white, .5);
+      }
+    }
+    input:-webkit-autofill .light & {
+      color: $black;
+    }
+  }
+  > form {
+    > span {
+      padding: 5px;
+    }
+    .light & {
+      background: $white;
+    }
+    @include media-breakpoint-up('sm') {
+      .light & {
+        border-bottom: 1px solid $white-grey;
+      }
+      .dark & {
+        border-bottom: 1px solid $grey-black;
+      }
+      .theme & {
+        border-bottom: 1px solid $white;
+      }
+    }
+  }
+}
+.mobileHide {
+  @include media-breakpoint-down('xs') {
+    display: none;
+  }
+}
+.sectionName {
+  text-transform:uppercase;
+  @include uvs-font('a', 'bold');
+  display: block;
+  line-height: rem(14px);
+  font-size: rem(14px);
+  padding-left: 8px;
+  color: $darker-grey;
+  white-space: nowrap;
+  letter-spacing: 0.58px;
+  @include media-breakpoint-up('md') {
+    font-size: rem(16px);
+    line-height: rem(19px);
+    letter-spacing: 0.72px;
+  }
+  .dark &,
+  .theme & {
+    color: $white;
+  }
+}
+
+.followMenu {
+  @include media-breakpoint-up('md') {
+    > span {
+      margin: 4px;
+    }
+  }
+}
+
+.hideUpper {
+  display: none;
+}
+
+.upper {
+  margin: 0;
+  padding: 4px 0 3px;
+  border-bottom: 1px solid $white-grey;
+
+  @include media-breakpoint-up('sm') {
+    padding: 8px 0 7px;
+  }
+  .withFollowMenu {
+    @include media-breakpoint-down('xs') {
+      > div:nth-child(2) {
+        flex: 0;
+        justify-content: flex-start;
+      }
+      > div:nth-child(1),
+      > div:nth-child(3) {
+        flex: 0;
+      }
+      > div:nth-child(3) {
+        margin-left: auto;
+        > div > span {
+          display: none;
+        }
+        @include media-breakpoint-up('xs') {
+          > div > span {
+            display: inline-block;
+          }
+        }
+      }
+    }
+    @include media-breakpoint-down('xxs') {
+      > div:nth-child(1) {
+        max-width: 82px;
+        position: relative;
+      }
+      > div:nth-child(2) {
+        flex: initial;
+        margin-left: 10px;
+        width: 39%;
+      }
+    }
+  }
+  .dark & {
+    border-bottom-color: $darker-grey;
+    background: $black;
+  }
+  .light & {
+    background: $white;
+  }
+  .theme & {
+    border-bottom-color: transparent;
+  }
+}
+
+.shadow {
+  display: none;
+}
+
+.wrapperTitle {
+  @include media-breakpoint-up('sm') {
+    margin-left: 10px;
+  }
+}
+.divider {
+  @include media-breakpoint-down('sm') {
+    background: white;
+    z-index: 99;
+    padding-right: rem(5px);
+    padding-bottom: rem(5px);
+    font-size: rem(16px);
+    padding-top: rem(5px);
+    margin-left: rem(-8px);
+  }
+}
+.toAnimate {
+  position: relative;
+  overflow: hidden;
+  .wrapperTitle {
+    position: absolute;
+    animation: floatText 20s infinite running ease-in-out;
+  }
+  .shadow {
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 100%;
+    top: 0;
+    z-index: 1;
+  }
+  .shadowLeft {
+    left: 0;
+    @include gradient-horizontal($white, fade-out($white, 1));
+    .dark & {
+      @include gradient-horizontal($black, fade-out($black, 1));
+    }
+  }
+  .shadowRight {
+    right: 0;
+    @include gradient-horizontal(fade-out($white, 1), $white);
+    .dark & {
+      @include gradient-horizontal(fade-out($black, 1), $black);
+    }
+  }
+
+  @keyframes floatText {
+    from { transform: translateX(0%); }
+  }
+}
+
+.justifyTitle {
+  justify-content: left;
+  overflow: hidden;
+  @include media-breakpoint-up('sm') {
+    justify-content: center;
+  }
+}
+
+.backgroundBlack {
+  background: $black;
+}
+
+.backgroundWhite {
+  background: $white;
+}

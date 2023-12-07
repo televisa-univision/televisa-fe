@@ -1,0 +1,3859 @@
+{
+  "settings": {
+    "type": "indexwidget",
+    "uid": "c",
+    "title": "Index widget test",
+    "titleLink": {
+      "href": "https://performance.univision.com/famosos",
+      "target": "_self",
+      "text": "Famosos",
+      "uid": "00000177-3eab-da66-a7f7-beff02720001"
+    },
+    "lazyLoaded": true
+  },
+  "widgetContext": {
+    "id": "00000177-3eab-da66-a7f7-beff027d0016",
+    "name": "Top Quick Links",
+    "title": "Index widget test",
+    "type": "List",
+    "widgetType": "IndexWidget",
+    "position": 18,
+    "isActionBarEnabled": true
+  },
+  "analyticsData": {
+    "widget": {
+      "widget_pos": 2,
+      "widget_title": "no title - 00000177-07f2-db7f-a7ff-c7f236ca0000",
+      "widget_type": "list widget"
+    }
+  },
+  "content": [
+    {
+      "type": "article",
+      "uid": "00000177-0378-db20-a5ff-237bf1c40005",
+      "uri": "https://www.univision.com/local/los-angeles-kmex/ice-captura-al-fugitivo-mas-buscado-del-sur-de-california",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-070d-ddc6-a5dd-179f207d0000",
+        "uri": "https://www.univision.com/local/los-angeles-kmex",
+        "name": "univision 34 los angeles",
+        "title": "Univision 34 Los Angeles"
+      },
+      "title": "ICE captura al fugitivo \"más buscado\" del sur de California",
+      "description": "Las autoridades estaban buscando al inmigrante por más de dos años. El Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE) informó que fue arrestado después de una operación en el sur del estado dorado.",
+      "image": {
+        "type": "image",
+        "uid": "00000177-0381-d38a-a9f7-a3f99b9a0000",
+        "title": "Police ICE",
+        "caption": null,
+        "credit": "Charles Reed/Charles Reed - U.S. Immigration",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/8f/6b/779d99584dce91cc0745d27fa6a4/50044703666-35839e1540-k.jpg",
+            "width": 2048,
+            "height": 1365,
+            "focusPoint": {
+              "x": 0.5041236796193118,
+              "y": 0.5115919629057187
+            }
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-14T20:32:05-05:00",
+      "publishDate": "2021-01-14T20:16:26-05:00",
+      "expirationDate": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/pNqw102wJfI",
+            "isFeedDialog": false,
+            "title": "ICE captura al fugitivo \"más buscado\" del sur de California",
+            "description": "Las autoridades estaban buscando al inmigrante por más de dos años. El Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE) informó que fue arrestado después de una operación en el sur del estado dorado.",
+            "imageUrl": "https://st1.uvnimg.com/3b/c5/fc12a6b1413ab0ac49ccd58998b2/08e4ae1525354b7b90db3b70a768d7ee",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/pNqw102wJfI",
+            "title": "ICE captura al fugitivo \"más buscado\" del sur de California",
+            "via": "Univision34LA"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/pNqw102wJfI",
+            "message": "ICE captura al fugitivo \"más buscado\" del sur de California"
+          },
+          "mail": {
+            "subject": "ICE captura al fugitivo \"más buscado\" del sur de California",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nICE captura al fugitivo \"más buscado\" del sur de California\n\nEncuéntralo en este enlace:http://uni.vi/pNqw102wJfI\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://www.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-070d-ddc6-a5dd-179f207d0000",
+          "uri": "https://www.univision.com/local/los-angeles-kmex",
+          "name": "univision 34 los angeles",
+          "title": "Univision 34 Los Angeles"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "readTime": 2,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p><b>LOS ÁNGELES, California. </b>- El Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE) informó este jueves que <b>arrestaron a uno de los fugitivos más buscados de ICE</b> en una acción policial realizada en Anaheim, <a href=\"https://www.univision.com/temas/california\">California</a>.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "FxAiYXAY",
+      "dynamicPlaylist": true,
+      "useWebviewInApps": true,
+      "primaryTag": {
+        "name": "Univision 34 Los Angeles",
+        "link": "https://www.univision.com/local/los-angeles-kmex"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000177-0399-de19-a377-e7f99b760000",
+      "uri": "https://www.univision.com/local/miami-wltv/estos-son-los-cambios-anunciados-por-uscis-en-el-proceso-de-renovacion-de-la-green-card-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-0717-ddc6-a5dd-179779c80000",
+        "uri": "https://www.univision.com/local/miami-wltv",
+        "name": "univision 23 miami",
+        "title": "Univision 23 Miami"
+      },
+      "title": "Estos son los cambios anunciados por USCIS en el proceso de renovación de la Green Card",
+      "description": "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) informó que desde el 2021 las personas que vayan a renovar este documento recibirán un formulario en vez del sello adhesivo para comprobar su vigencia.",
+      "image": {
+        "type": "image",
+        "uid": "00000177-039a-d6b1-a1f7-37df0a900000",
+        "title": "d8133916968f49f4a929ee93d3335270",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/70/d0/844cfa264ccf90ce43b83d71795c/d8133916968f49f4a929ee93d3335270",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-14T20:13:44-05:00",
+      "publishDate": "2021-01-14T20:00:00-05:00",
+      "expirationDate": "2031-01-14T20:00:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/JJbj102wJfA",
+            "isFeedDialog": false,
+            "title": "Estos son los cambios anunciados por USCIS en el proceso de renovación de la Green Card",
+            "description": "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) informó que desde el 2021 las personas que vayan a renovar este documento recibirán un formulario en vez del sello adhesivo para comprobar su vigencia.",
+            "imageUrl": "https://st1.uvnimg.com/70/d0/844cfa264ccf90ce43b83d71795c/d8133916968f49f4a929ee93d3335270",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/JJbj102wJfA",
+            "title": "Estos son los cambios anunciados por USCIS en el proceso de renovación de la Green Card",
+            "via": "univision23"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/JJbj102wJfA",
+            "message": "Estos son los cambios anunciados por USCIS en el proceso de renovación de la Green Card"
+          },
+          "mail": {
+            "subject": "Estos son los cambios anunciados por USCIS en el proceso de renovación de la Green Card",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEstos son los cambios anunciados por USCIS en el proceso de renovación de la Green Card\n\nEncuéntralo en este enlace:http://uni.vi/JJbj102wJfA\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://www.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0717-ddc6-a5dd-179779c80000",
+          "uri": "https://www.univision.com/local/miami-wltv",
+          "name": "univision 23 miami",
+          "title": "Univision 23 Miami"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3978493",
+      "durationString": "1:58",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-15_3978493.mp4",
+      "show": null,
+      "categories": ["Television", "Noticias", "Locales"],
+      "dateCreated": "2021-01-14T20:06:00-05:00",
+      "airDate": "2021-01-14T18:00:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "195",
+      "seriesName": "Miami",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "Miamigeo",
+        "inmigracion",
+        "recomendaciones",
+        "green card",
+        "tramites",
+        "WQBA1140am",
+        "Servicio de Ciudadanía e Inmigración de los Estados Unidos",
+        "residencia",
+        "Radiomambi710am",
+        "USCIS",
+        "MIAMI",
+        "comunidad"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/0E6/EB4/0E6EB47D1E434CC3983D4C4A2278581A.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/00E/38D/00E38D4D984342D48E5EE8725CE0ADDE.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705281145&Signature=lAsqvUsgQXfvPKruDuYK62Gm8mqAPZ32Zp2GeP%2FMeCabTlpivqqRdU%2FG3gt5VXtIdkNba6tHRGRtuAPN5OgdtPZ7jTp2vqnbv0iTnpPQSFl%2BHPQLeku%2FisXzPMFOHer5Mb6LMeJOqHE8LxpfcbF36e2khBW03xFpPbOCr6iweyU1IXtuQfWPugp9hDclLtmmvmBGG3lEwelLzBjgYGwAMG8oh3gD6VTt5caGmV0hhyXSSvaP51zPh8ivizSx8uejTDVvjMsZdwS8G28pmPVHletmMeQFJ1pF1fA%2BXvP25Uh3uOnW3%2FqrTMIpv3sCeOdCqAnQkTQLk0RXx2IDYks36A%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3978493/00E38D4D984342D48E5EE8725CE0ADDE_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 4031,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "News",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/d906476/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F70%2Fd0%2F844cfa264ccf90ce43b83d71795c%2Fd8133916968f49f4a929ee93d3335270",
+      "shortUrl": "http://uni.vi/JJbj102wJfA",
+      "permalink": "https://www.univision.com/local/miami-wltv/estos-son-los-cambios-anunciados-por-uscis-en-el-proceso-de-renovacion-de-la-green-card-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/miami/wltv",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "inmigracion",
+            "greencard",
+            "miami",
+            "recomendaciones",
+            "tramites",
+            "comunidad"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "iPKoFC9A",
+      "primaryTag": {
+        "name": "Univision 23 Miami",
+        "link": "https://www.univision.com/local/miami-wltv"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000177-02f5-d6d8-adff-9af53d4c0000",
+      "uri": "https://www.univision.com/shows/primer-impacto/primera-caravana-del-ano-cientos-de-migrantes-salen-de-honduras-con-el-sueno-de-llegar-a-eeuu-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000148-12d2-dd17-abec-12fac4d10000",
+        "uri": "https://www.univision.com/shows/primer-impacto",
+        "name": "primer impacto",
+        "title": "Primer Impacto"
+      },
+      "title": "Primera caravana del año: cientos de migrantes salen de Honduras con el sueño de llegar a EEUU",
+      "description": "El gobierno de Guatemala asegura que si es necesario usará la fuerza para no dejar pasar a quienes buscan cruzar la frontera. \"Me quedé sin casa, sin nada y vengo huyendo de la delincuencia\", dice uno de los integrantes de esta caravana.",
+      "image": {
+        "type": "image",
+        "uid": "00000177-02f5-de19-a377-e6f5bf790000",
+        "title": "e878f453e1154550a5cc0b99f07562e9",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/89/e0/10b87e24467cb0c4ea8d197caec0/e878f453e1154550a5cc0b99f07562e9",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-14T17:14:37-05:00",
+      "publishDate": "2021-01-14T17:05:00-05:00",
+      "expirationDate": "2031-01-14T17:05:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/gCCe102wIXZ",
+            "isFeedDialog": false,
+            "title": "Primera caravana del año: cientos de migrantes salen de Honduras con el sueño de llegar a EEUU",
+            "description": "El gobierno de Guatemala asegura que si es necesario usará la fuerza para no dejar pasar a quienes buscan cruzar la frontera. \"Me quedé sin casa, sin nada y vengo huyendo de la delincuencia\", dice uno de los integrantes de esta caravana.",
+            "imageUrl": "https://st1.uvnimg.com/89/e0/10b87e24467cb0c4ea8d197caec0/e878f453e1154550a5cc0b99f07562e9",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/gCCe102wIXZ",
+            "title": "Primera caravana del año: cientos de migrantes salen de Honduras con el sueño de llegar a EEUU",
+            "via": "PrimerImpacto"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/gCCe102wIXZ",
+            "message": "Primera caravana del año: cientos de migrantes salen de Honduras con el sueño de llegar a EEUU"
+          },
+          "mail": {
+            "subject": "Primera caravana del año: cientos de migrantes salen de Honduras con el sueño de llegar a EEUU",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPrimera caravana del año: cientos de migrantes salen de Honduras con el sueño de llegar a EEUU\n\nEncuéntralo en este enlace:http://uni.vi/gCCe102wIXZ\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://www.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000148-12d2-dd17-abec-12fac4d10000",
+          "uri": "https://www.univision.com/shows/primer-impacto",
+          "name": "primer impacto",
+          "title": "Primer Impacto"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3978375",
+      "durationString": "1:47",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-14_3978375.mp4",
+      "show": null,
+      "categories": ["Noticias"],
+      "dateCreated": "2021-01-14T17:08:08-05:00",
+      "airDate": "2021-01-14T17:05:00-05:00",
+      "rating": "Not Rated",
+      "season": 2021,
+      "series": "15",
+      "seriesName": "Primer Impacto",
+      "registryEntries": [
+        {
+          "assetIdentifier": "PRIM000000000",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        },
+        {
+          "assetIdentifier": "Inmigración",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "Primer Impacto",
+        "frontera de honduras y guatemala",
+        "caravana hacia eeuu",
+        "centroamerica",
+        "inmigrantes guatemaltecos",
+        "inmigrantes hondureños",
+        "inmigrantes de honduras",
+        "caravana por centroamerica",
+        "guatemala",
+        "eeuu",
+        "inmigracion",
+        "noticias",
+        "PI Reportajes",
+        "reportajes de impacto",
+        "asilo",
+        "información",
+        "honduras",
+        "Univision",
+        "inmigrantes indocumentados",
+        "niños",
+        "Erika Porras",
+        "caravana de inmigrantes"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/8A0/4A7/8A04A7408094463B9E1EF85D9079B94A.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/173/E35/173E35E3F7B14A45B9BE4F160D2EF195.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705270376&Signature=Xm1%2Fz5tp1bxACNs6%2BXiQT2STBQu%2FCu2WDhFAOion8Us6TJpNHHBWoMZXqokYiYfVRHZO2AZnIYaPUf%2BP11neeiNkEUUqnCnRYMDbKpeXzyCebCqqwKCkSYL9psYQUUSFmg7kDKJOZEnAa6lGmHx3SyiK3qk0ksoN3CCp%2FJmQV7XRjGmtMUqqAdeCL%2F4CPA32JRfR7SBo61%2Fo3xV4Ruv2QLaz5bw%2BT%2FpJW2RmeMFPIyh5tuR98rbYErf6MjwKl2orUV3nd%2FsdVm0DFMqs5vSk0fuqEDMoVroIBDhIh9vOTMGCL0ky2byi8uZsShqTckmxgdEm5jVOLAJSUEhBqCwKlg%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3978375/173E35E3F7B14A45B9BE4F160D2EF195_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 2444,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": "Primer Impacto"
+      },
+      "videoSubType": "",
+      "adContentType": "News",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/101dc12/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F89%2Fe0%2F10b87e24467cb0c4ea8d197caec0%2Fe878f453e1154550a5cc0b99f07562e9",
+      "shortUrl": "http://uni.vi/gCCe102wIXZ",
+      "permalink": "https://www.univision.com/shows/primer-impacto/primera-caravana-del-ano-cientos-de-migrantes-salen-de-honduras-con-el-sueno-de-llegar-a-eeuu-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias/shows/primerimpacto",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "pireportajes",
+            "estadosunidos",
+            "inmigracion",
+            "asilopolitico",
+            "inmigrantesindocumentados",
+            "ninos",
+            "erikaporras",
+            "guatemala",
+            "honduras",
+            "americacentral"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "9Kof53WW",
+      "primaryTag": {
+        "name": "Primer Impacto",
+        "link": "https://www.univision.com/shows/primer-impacto"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000177-023f-d422-ab77-22bf50110000",
+      "uri": "https://www.univision.com/local/houston-kxln/activistas-instan-a-la-comunidad-mexicana-a-tramitar-y-registrar-la-credencial-para-ejercer-su-derecho-al-voto-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-071a-d7c0-a1dd-ef5e405a0000",
+        "uri": "https://www.univision.com/local/houston-kxln",
+        "name": "univision 45 houston",
+        "title": "Univision 45 Houston"
+      },
+      "title": "Activistas instan a la comunidad mexicana a tramitar y registrar la credencial para ejercer su derecho al voto",
+      "description": "En junio de 2021 se realizarán las elecciones de medio término en México, en las cuales estarán en juego puestos de gobernadores, diputados y senadores, por lo cual es de vital importancia que la comunidad inmigrante participe en el proceso si puede hacerlo. Acá te contamos los requisitos para tramitar la credencial y votar.",
+      "image": {
+        "type": "image",
+        "uid": "00000177-0240-dafc-a7ff-377631ab0000",
+        "title": "185d2d0df23d4ec597187208c2285183",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/fd/c9/34a70c3c475fa90ff5f270980e54/185d2d0df23d4ec597187208c2285183",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-14T14:45:19-05:00",
+      "publishDate": "2021-01-14T13:47:00-05:00",
+      "expirationDate": "2031-01-14T13:47:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/5dww102wIyB",
+            "isFeedDialog": false,
+            "title": "Activistas instan a la comunidad mexicana a tramitar y registrar la credencial para ejercer su derecho al voto",
+            "description": "En junio de 2021 se realizarán las elecciones de medio término en México, en las cuales estarán en juego puestos de gobernadores, diputados y senadores, por lo cual es de vital importancia que la comunidad inmigrante participe en el proceso si puede hacerlo. Acá te contamos los requisitos para tramitar la credencial y votar.",
+            "imageUrl": "https://st1.uvnimg.com/fd/c9/34a70c3c475fa90ff5f270980e54/185d2d0df23d4ec597187208c2285183",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/5dww102wIyB",
+            "title": "Activistas instan a la comunidad mexicana a tramitar y registrar la credencial para ejercer su derecho al voto",
+            "via": "noticiashouston"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/5dww102wIyB",
+            "message": "Activistas instan a la comunidad mexicana a tramitar y registrar la credencial para ejercer su derecho al voto"
+          },
+          "mail": {
+            "subject": "Activistas instan a la comunidad mexicana a tramitar y registrar la credencial para ejercer su derecho al voto",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nActivistas instan a la comunidad mexicana a tramitar y registrar la credencial para ejercer su derecho al voto\n\nEncuéntralo en este enlace:http://uni.vi/5dww102wIyB\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://www.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-071a-d7c0-a1dd-ef5e405a0000",
+          "uri": "https://www.univision.com/local/houston-kxln",
+          "name": "univision 45 houston",
+          "title": "Univision 45 Houston"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3978269",
+      "durationString": "1:46",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-14_3978269.mp4",
+      "show": null,
+      "categories": ["Noticias", "Locales"],
+      "dateCreated": "2021-01-14T13:48:41-05:00",
+      "airDate": "2021-01-14T12:30:00-05:00",
+      "rating": "TV-Y",
+      "season": 2021,
+      "series": "1480",
+      "seriesName": "Edición Digital Houston",
+      "registryEntries": [
+        {
+          "assetIdentifier": "Activistas instan a la comunidad mexicana a tramitar y registrar su credencial para ejercer su derecho al voto",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "Edición Digital Houston",
+        "inmigracion",
+        "KLATAmerica1010am",
+        "interes humano",
+        "sociedad",
+        "mexico pais",
+        "inmigrantes",
+        "houstongeo",
+        "elecciones",
+        "comunidad",
+        "votaciones"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/B3C/0B1/B3C0B141C6604698B0108715959241D1.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/802/C2A/802C2AA6E6D84DC9B86598A9A7969583.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705258469&Signature=dxQOuLRlSkiR9kq1WINfaFkdLq4fCETds73OiHjJt5BZNPi9mdTaUpdfp7Z4mDZO%2BqyUjqAa85UeWQVEdPBKYisqbeRrLveCXc8Vg%2ByJrpqmsaDZ8RmEO%2FS2AqjRCYfhNKZQn%2BlR4TwJxo%2F%2B83jg7jT6el5bGoUfx8TGF21dahWu3dTcr5gxgNjJiReokrA%2FOtX2f8JvXOY7eZgRzi3bazf%2B17oIlBC0W9U0PjMihIulHlEp41N6M6fx7hj3Vlz%2F%2BnDGbSZeNn9eV9liaM8AoLP11U4TmeXzSNtohT%2BNF9vWTVZW6ejYg4A9MFvUBKOJaW2edNW%2FUpKluu%2FltHnt0Q%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3978269/802C2AA6E6D84DC9B86598A9A7969583_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 11673,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/e06be5d/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2Fc9%2F34a70c3c475fa90ff5f270980e54%2F185d2d0df23d4ec597187208c2285183",
+      "shortUrl": "http://uni.vi/5dww102wIyB",
+      "permalink": "https://www.univision.com/local/houston-kxln/activistas-instan-a-la-comunidad-mexicana-a-tramitar-y-registrar-la-credencial-para-ejercer-su-derecho-al-voto-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/houston/kxln",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "ediciondigitalhouston",
+            "elecciones",
+            "inmigracion",
+            "houston",
+            "mexico",
+            "comunidad",
+            "sociedad"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "CuZkx6n3",
+      "primaryTag": {
+        "name": "Univision 45 Houston",
+        "link": "https://www.univision.com/local/houston-kxln"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000177-0193-d3db-adf7-a3ff7e800000",
+      "uri": "https://www.univision.com/shows/despierta-america/mexico-exige-que-los-trabajadores-sin-importar-su-condicion-migratoria-sean-vacunados-en-eeuu-video",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+        "uri": "https://www.univision.com/shows/despierta-america",
+        "name": "despierta américa",
+        "title": "Despierta América"
+      },
+      "title": "México exige que los trabajadores (sin importar su condición migratoria) sean vacunados en EEUU",
+      "description": "La condición migratoria de los mexicanos que laboran en EEUU no debería ser un impedimento para recibir la vacuna. Marcelo Ebrard, secretario de Relaciones Exteriores de México, sale en defensa de quienes laboran en fábricas, campos u otras áreas, argumentando que es un derecho que todos sean inmunizados.",
+      "image": {
+        "type": "image",
+        "uid": "00000177-019a-de6c-a1ff-bdbef9900000",
+        "title": "1c0e2b1b88d14a4789eb11a2ff186674",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/00/c9/ae76757646b1bb87c52759ace6de/1c0e2b1b88d14a4789eb11a2ff186674",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-14T10:57:26-05:00",
+      "publishDate": "2021-01-14T08:17:00-05:00",
+      "expirationDate": "2031-01-14T08:17:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/jew3102wI25",
+            "isFeedDialog": false,
+            "title": "México exige que los trabajadores (sin importar su condición migratoria) sean vacunados en EEUU",
+            "description": "La condición migratoria de los mexicanos que laboran en EEUU no debería ser un impedimento para recibir la vacuna. Marcelo Ebrard, secretario de Relaciones Exteriores de México, sale en defensa de quienes laboran en fábricas, campos u otras áreas, argumentando que es un derecho que todos sean inmunizados.",
+            "imageUrl": "https://st1.uvnimg.com/00/c9/ae76757646b1bb87c52759ace6de/1c0e2b1b88d14a4789eb11a2ff186674",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/jew3102wI25",
+            "title": "México exige que los trabajadores (sin importar su condición migratoria) sean vacunados en EEUU",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/jew3102wI25",
+            "message": "México exige que los trabajadores (sin importar su condición migratoria) sean vacunados en EEUU"
+          },
+          "mail": {
+            "subject": "México exige que los trabajadores (sin importar su condición migratoria) sean vacunados en EEUU",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMéxico exige que los trabajadores (sin importar su condición migratoria) sean vacunados en EEUU\n\nEncuéntralo en este enlace:http://uni.vi/jew3102wI25\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://www.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+          "uri": "https://www.univision.com/shows/despierta-america",
+          "name": "despierta america",
+          "title": "Despierta América"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3978060",
+      "durationString": "1:53",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-14_3978060.mp4",
+      "show": null,
+      "categories": ["Variety"],
+      "dateCreated": "2021-01-14T08:20:53-05:00",
+      "airDate": "2021-01-14T08:17:00-05:00",
+      "rating": "Not Rated",
+      "season": 2021,
+      "series": "4",
+      "seriesName": "Despierta America",
+      "registryEntries": [
+        {
+          "assetIdentifier": "DESP000000000",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "inmunización",
+        "inmigrantes",
+        "relaciones exteriores",
+        "coronavirus",
+        "covid-19",
+        "danoticias",
+        "inmigracion",
+        "vacuna",
+        "migracion",
+        "mexico",
+        "noticias",
+        "Marcelo Ebrard",
+        "Despierta América"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/8CE/A0E/8CEA0EA5409D4161A2CFA1B3E8CD2AE8.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/757/F88/757F88755BB24BAB905CF5649BF7DEE0.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705247645&Signature=fpZYHTjNtcQr8sn9QG6CJVVdNZMx%2FC8Nj0E9G1MXtUNYk1Dm%2BLoI%2FfFjHwooTklirQ1p1rXmUQNo3A%2F5x6KU8QLItBo3LM0z9LnwbQC8TsGINpyfPJrKuwVAhmBiSmKHQadnoG0Wzj2GJDRPTKaaK6Nj9bs%2Bhxtcyk5aNu9EicUtPMrLYJ1h5kxm%2BqJLppQ46eDh0%2F3TXZx%2BbBA0VEwU0MpLEgcJkGOnzRYfAd1YAW2nyfWXCdOvGT4lqWwpHkecblpi711aYM0qygXJmbP1I9iAPKVWotuMu2AX4k20SL0cdJoEx8ca7H6PwqVd%2BwTqcZgCBWxTQQRhF%2F6vAtSK2w%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3978060/757F88755BB24BAB905CF5649BF7DEE0_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 8610,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": "Despierta America"
+      },
+      "videoSubType": "",
+      "adContentType": "Entertainment",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/36ab70d/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F00%2Fc9%2Fae76757646b1bb87c52759ace6de%2F1c0e2b1b88d14a4789eb11a2ff186674",
+      "shortUrl": "http://uni.vi/jew3102wI25",
+      "permalink": "https://www.univision.com/shows/despierta-america/mexico-exige-que-los-trabajadores-sin-importar-su-condicion-migratoria-sean-vacunados-en-eeuu-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_entretenimiento/shows/despiertaamerica",
+        "targeting": {
+          "vertical": "entretenimiento",
+          "tag": [
+            "coronavirus",
+            "danoticias",
+            "inmigracion",
+            "marceloebrard",
+            "mexico"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "2luJcVDJ",
+      "primaryTag": {
+        "name": "Despierta América",
+        "link": "https://www.univision.com/shows/despierta-america"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000177-00a1-dafc-a7ff-37b731ab0000",
+      "uri": "https://www.univision.com/local/nueva-york-wxtv/que-pueden-esperar-los-dreamers-en-la-era-biden-esta-es-la-opinion-de-un-abogado-de-inmigracion-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+        "uri": "https://www.univision.com/local/nueva-york-wxtv",
+        "name": "univision 41 nueva york",
+        "title": "Univision 41 Nueva York"
+      },
+      "title": "¿Qué pueden esperar los dreamers en la era Biden? Esta es la opinión de un abogado de inmigración",
+      "description": "Durante la administración Trump, los beneficiarios de la Acción Diferida para los Llegados en la Infancia (DACA) estuvieron en un limbo, pero con la llegada de un nuevo gobierno, crecen las esperanzas para miles de jóvenes inmigrantes protegidos bajo el programa. El abogado Ezequiel Hernández explica qué reglas están vigentes y cuáles son las mayores dificultades para los nuevos candidatos.",
+      "image": {
+        "type": "image",
+        "uid": "00000177-00a2-d422-ab77-22a2ae2f0000",
+        "title": "3c416bd000854cd0836adeebb1d8b5c7",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/32/d2/ca1ae508405cb2d845884a21be9b/3c416bd000854cd0836adeebb1d8b5c7",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-14T06:24:45-05:00",
+      "publishDate": "2021-01-14T06:02:00-05:00",
+      "expirationDate": "2031-01-14T06:02:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/TXLW102wH5e",
+            "isFeedDialog": false,
+            "title": "¿Qué pueden esperar los dreamers en la era Biden? Esta es la opinión de un abogado de inmigración",
+            "description": "Durante la administración Trump, los beneficiarios de la Acción Diferida para los Llegados en la Infancia (DACA) estuvieron en un limbo, pero con la llegada de un nuevo gobierno, crecen las esperanzas para miles de jóvenes inmigrantes protegidos bajo el programa. El abogado Ezequiel Hernández explica qué reglas están vigentes y cuáles son las mayores dificultades para los nuevos candidatos.",
+            "imageUrl": "https://st1.uvnimg.com/32/d2/ca1ae508405cb2d845884a21be9b/3c416bd000854cd0836adeebb1d8b5c7",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/TXLW102wH5e",
+            "title": "¿Qué pueden esperar los dreamers en la era Biden? Esta es la opinión de un abogado de inmigración",
+            "via": "univisionNY"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/TXLW102wH5e",
+            "message": "¿Qué pueden esperar los dreamers en la era Biden? Esta es la opinión de un abogado de inmigración"
+          },
+          "mail": {
+            "subject": "¿Qué pueden esperar los dreamers en la era Biden? Esta es la opinión de un abogado de inmigración",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Qué pueden esperar los dreamers en la era Biden? Esta es la opinión de un abogado de inmigración\n\nEncuéntralo en este enlace:http://uni.vi/TXLW102wH5e\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://www.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+          "uri": "https://www.univision.com/local/nueva-york-wxtv",
+          "name": "univision 41 nueva york",
+          "title": "Univision 41 Nueva York"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3978041",
+      "durationString": "3:50",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-14_3978041.mp4",
+      "show": null,
+      "categories": ["Television", "Noticias", "Locales"],
+      "dateCreated": "2021-01-14T06:03:24-05:00",
+      "airDate": "2021-01-14T05:00:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "315",
+      "seriesName": "New York",
+      "registryEntries": [
+        {
+          "assetIdentifier": "¿Qué pueden esperar los dreamers en la era Biden? Esta es la opinión de un abogado de inmigración",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "New York",
+        "Consejos de Inmigración",
+        "Ezequiel Hernández",
+        "DACA",
+        "Donald Trump",
+        "Preguntas y respuestas Inmigracion",
+        "Joe Biden",
+        "Inmigración Nuevas Reglas",
+        "newyorkgeo",
+        "Entrevistas",
+        "newyorkwado",
+        "inmigrantes indocumentados",
+        "dreamers",
+        "inmigración",
+        "WADO",
+        "Patricia Fuenmayor"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/8F4/356/8F435616A7914A1C88449110BEA95634.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/77E/5B3/77E5B37C96824B46BA7B0B4F98C71C90.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705231378&Signature=HZ1jRAZ6R9ztjrWIsgheEdl4FS5VcOqOPwvH%2Be3YQDVsAxkvu569f%2BdXe6EU7kCCKwkb%2FfJP9sVKTaUTFXzAjL3cZeHXtltCnL9VgM5TVgkLB6WIyybShyqimkGk69%2FD0yKcbV8st5CePFohzlpRj9Ifi1N1YIE228FY6PezTupSYYp3WZzyXGpT3L0ia9ElTdAz0fgDCei7%2FH88x5if3L8WgqB0dXsr%2BZrjjArZlI5h2%2FuXeG1qvKJBxEvBOYqd2sueMgP0LrKIwP1ZCgBMVkZDDhqJVGjgwk9HLVZCazfv5sB%2B3z9AD%2F7c1aNQ3G6mScf0%2Biv3oemFCsRggO9gPA%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3978041/77E5B37C96824B46BA7B0B4F98C71C90_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 9899,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "News",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/ab70078/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F32%2Fd2%2Fca1ae508405cb2d845884a21be9b%2F3c416bd000854cd0836adeebb1d8b5c7",
+      "shortUrl": "http://uni.vi/TXLW102wH5e",
+      "permalink": "https://www.univision.com/local/nueva-york-wxtv/que-pueden-esperar-los-dreamers-en-la-era-biden-esta-es-la-opinion-de-un-abogado-de-inmigracion-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/nuevayork/wxtv",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "inmigracion",
+            "dreamers",
+            "deferredactionforchildhoodarrivalsdaca",
+            "inmigrantesindocumentados",
+            "gobierno",
+            "joebiden",
+            "donaldtrump",
+            "casablanca",
+            "inmigracionnuevasreglas",
+            "preguntasyrespuestasinmigracion",
+            "consejosdeinmigracion",
+            "nuevayork",
+            "estadosunidos",
+            "entrevistas",
+            "patriciafuenmayor"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "jLVGJsl4",
+      "primaryTag": {
+        "name": "Univision 41 Nueva York",
+        "link": "https://www.univision.com/local/nueva-york-wxtv"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000177-0040-db20-a5ff-216369ac0002",
+      "uri": "https://www.univision.com/noticias/america-latina/honduras-200-migrantes-hondurenos-rumbo-a-eeuu-covid-huracanes",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6edb-d67e-adff-7fdf1c1b0000",
+        "uri": "https://www.univision.com/noticias/america-latina",
+        "name": "américa latina",
+        "title": "América Latina"
+      },
+      "title": "\"Nos vamos porque hemos perdido todo\": un nuevo grupo de migrantes hondureños parte rumbo a EEUU",
+      "description": "Cerca de dos centenares de hondureños iniciaron la noche del miércoles una caminata rumbo a la frontera con Guatemala, donde las autoridades han instalado un fuerte dispositivo de seguridad que les exigirá documentación en regla y pruebas negativas de covid-19.",
+      "image": {
+        "type": "image",
+        "uid": "00000177-0040-db20-a5ff-21636a550000",
+        "title": "AMC-INM HONDURAS-MIGRANTES",
+        "caption": "Portando una bandera hondureña, migrantes que esperan llegar a la frontera con Estados Unidos caminan por una autovía a las afueras de San Pedro Sula, en Honduras, poco después de iniciar su marcha, el 13 de enero de 2021. (AP Foto/Moisés Castillo)",
+        "credit": "Moises Castillo/AP",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/39/3a/932043a74988bd8bd31677229083/ap21014199335664.jpg",
+            "width": 2736,
+            "height": 1824,
+            "focusPoint": {
+              "x": 0.4766845453189422,
+              "y": 0.3293333333333333
+            }
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-14T05:50:44-05:00",
+      "publishDate": "2021-01-14T05:50:44-05:00",
+      "expirationDate": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/yd02102wGSK",
+            "isFeedDialog": false,
+            "title": "\"Nos vamos porque hemos perdido todo\": un nuevo grupo de migrantes hondureños parte rumbo a EEUU",
+            "description": "Cerca de dos centenares de hondureños iniciaron la noche del miércoles una caminata rumbo a la frontera con Guatemala, donde las autoridades han instalado un fuerte dispositivo de seguridad que les exigirá documentación en regla y pruebas negativas de covid-19.",
+            "imageUrl": "https://st1.uvnimg.com/9f/56/e9bd65504ce08b5f307699555f4a/c746abafdf84499d83d7c0bd543256bd",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/yd02102wGSK",
+            "title": "\"Nos vamos porque hemos perdido todo\": un nuevo grupo de migrantes hondureños parte rumbo a EEUU",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/yd02102wGSK",
+            "message": "\"Nos vamos porque hemos perdido todo\": un nuevo grupo de migrantes hondureños parte rumbo a EEUU"
+          },
+          "mail": {
+            "subject": "\"Nos vamos porque hemos perdido todo\": un nuevo grupo de migrantes hondureños parte rumbo a EEUU",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"Nos vamos porque hemos perdido todo\": un nuevo grupo de migrantes hondureños parte rumbo a EEUU\n\nEncuéntralo en este enlace:http://uni.vi/yd02102wGSK\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6edb-d67e-adff-7fdf1c1b0000",
+          "uri": "https://www.univision.com/noticias/america-latina",
+          "name": "america latina",
+          "title": "América Latina"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "readTime": 4,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Alrededor de 200 migrantes hondureños iniciaron el miércoles en la noche una marcha a pie por una carretera hacia la frontera con <a href=\"https://www.univision.com/temas/guatemala\">Guatemala</a>, dos días antes de la fecha prevista para la salida de una movilización mayor desde San Pedro Sula, convocada por redes sociales.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "América Latina",
+        "link": "https://www.univision.com/noticias/america-latina"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-fe72-d351-a3f6-ff77f0340001",
+      "uri": "https://www.univision.com/shows/noticiero-univision/mucha-esperanza-inmigrantes-y-activistas-reaccionan-a-las-declaraciones-de-harris-sobre-una-propuesta-migratoria-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+        "uri": "https://www.univision.com/shows/noticiero-univision",
+        "name": "noticiero univision",
+        "title": "Noticiero Univision"
+      },
+      "title": "\"Mucha esperanza\": inmigrantes y activistas reaccionan a las declaraciones de Harris sobre una propuesta migratoria",
+      "description": "La promesa de una iniciativa de reforma migratoria que hizo en exclusiva para Univision la vicepresidenta electa, Kamala Harris, fue recibida con esperanza por millones de familias en todo el país. La propuesta marca un fuerte contraste con la dura política del presidente Donald Trump. \n<b><a href=\"https://www.univision.com/noticias/inmigracion/reforma-migratoria-biden\" target=\"_blank\">Más información aquí</a></b>.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-fe74-d6d8-adfe-fef5f53a0001",
+        "title": "b9e3e820b64a433a942cc5be7b3fea94",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/3b/b8/af0acf9a41f0bfba2a76230f1f7a/b9e3e820b64a433a942cc5be7b3fea94",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Luis  Megid",
+          "image": {
+            "type": "image",
+            "uid": "0000015c-1239-da8c-a17c-f2fd8fcc0000",
+            "title": "Megid 1[1].JPG",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/df/e0/2a6dc0964cdfab2881590e2b66f1/megid-1-1.JPG",
+                "width": 2022,
+                "height": 2716,
+                "focusPoint": {
+                  "x": 0.487,
+                  "y": 0.30305286671630677
+                }
+              }
+            }
+          },
+          "uri": "https://www.univision.com/temas/luis-megid",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/LuisMegidNews/?ref=br_rs",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": {
+              "text": null,
+              "name": "Instagram",
+              "url": "https://www.instagram.com/luismegid/",
+              "target": "_blank"
+            },
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": null,
+            "youTubeUrl": {
+              "text": null,
+              "name": "YouTube",
+              "url": "https://www.youtube.com/user/UnivisionNoticias",
+              "target": "_blank"
+            }
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Corresponsal en San Francisco de Noticiero Univision",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2021-01-13T20:40:39-05:00",
+      "publishDate": "2021-01-13T18:57:00-05:00",
+      "expirationDate": "2031-01-13T18:57:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/dRbF102wEXE",
+            "isFeedDialog": false,
+            "title": "\"Mucha esperanza\": inmigrantes y activistas reaccionan a las declaraciones de Harris sobre una propuesta migratoria",
+            "description": "La promesa de una iniciativa de reforma migratoria que hizo en exclusiva para Univision la vicepresidenta electa, Kamala Harris, fue recibida con esperanza por millones de familias en todo el país. La propuesta marca un fuerte contraste con la dura política del presidente Donald Trump. Más información aquí.",
+            "imageUrl": "https://st1.uvnimg.com/3b/b8/af0acf9a41f0bfba2a76230f1f7a/b9e3e820b64a433a942cc5be7b3fea94",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/dRbF102wEXE",
+            "title": "\"Mucha esperanza\": inmigrantes y activistas reaccionan a las declaraciones de Harris sobre una propuesta migratoria",
+            "via": "uninoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/dRbF102wEXE",
+            "message": "\"Mucha esperanza\": inmigrantes y activistas reaccionan a las declaraciones de Harris sobre una propuesta migratoria"
+          },
+          "mail": {
+            "subject": "\"Mucha esperanza\": inmigrantes y activistas reaccionan a las declaraciones de Harris sobre una propuesta migratoria",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"Mucha esperanza\": inmigrantes y activistas reaccionan a las declaraciones de Harris sobre una propuesta migratoria\n\nEncuéntralo en este enlace:http://uni.vi/dRbF102wEXE\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://www.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision",
+          "name": "noticiero univision",
+          "title": "Noticiero Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3977900",
+      "durationString": "1:42",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-13_3977900.mp4",
+      "show": null,
+      "categories": ["Television", "Shows", "Noticias"],
+      "dateCreated": "2021-01-13T18:57:36-05:00",
+      "airDate": "2021-01-13T18:57:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "13",
+      "seriesName": "Noticiero Univision",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "Congreso EEUU",
+        "Edición Diurna",
+        "Proyectos de Ley",
+        "television",
+        "Pandemia",
+        "activistas",
+        "videos",
+        "Propuestas de Ley",
+        "Kamala Harris",
+        "Reforma migratoria",
+        "Democratas",
+        "eeuu",
+        "Inmigrantes",
+        "noticas",
+        "Politica",
+        "noticiero univision",
+        "inmigrantes indocumentados",
+        "donald trump",
+        "dreamers",
+        "propuesta migratoria",
+        "Promesas",
+        "Luis Megid"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/4A3/E23/4A3E23BCA8874E2B8F6EB26321593A12.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/09C/92C/09C92CEB7AF74C85906BD29C5B9D41DD.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705194828&Signature=SXTcj3As7QVUvRI02423wVajWl5MA6ecVfQkMHPwJLSTEgMhNePFaw2qQvEkZn8HimkGO5kkqCYVQyvA5KKCjtT5m5LmLuSinxzdjpyXPFv8QV7sRIQeCZfBICTZUgnE1VZJH02w7EJu6gyiuCrD%2BxTevoQDBW9v4cEk025LLdGKM7eNg%2F5orFZZRMXY1MFwJtNlQv32bOsx7el%2F91N3y16oEi%2Fgs2DadxNkHniz8hc8yEn2GSkrB0gc2V90w8NGcR5341FEfIMzTSPdinCTShmbZoYpi86mp2CHDhUm1kJ9mkGbMy%2FBNla0EEBXkCxQw1w5Fr2iHCz26VmY%2B%2FP4TQ%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3977900/09C92CEB7AF74C85906BD29C5B9D41DD_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 2408,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/75eced9/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3b%2Fb8%2Faf0acf9a41f0bfba2a76230f1f7a%2Fb9e3e820b64a433a942cc5be7b3fea94",
+      "shortUrl": "http://uni.vi/dRbF102wEXE",
+      "permalink": "https://www.univision.com/shows/noticiero-univision/mucha-esperanza-inmigrantes-y-activistas-reaccionan-a-las-declaraciones-de-harris-sobre-una-propuesta-migratoria-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias/shows/noticierounivision",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "inmigracion",
+            "reformamigratoria",
+            "kamalaharris",
+            "inmigrantesindocumentados",
+            "dreamers",
+            "congresodeeeuu",
+            "proyectodeley",
+            "estadosunidos",
+            "politica",
+            "donaldtrump",
+            "activismo",
+            "partidodemocrata",
+            "luismegid",
+            "gobierno"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "MtQmdppn",
+      "primaryTag": {
+        "name": "Noticiero Univision",
+        "link": "https://www.univision.com/shows/noticiero-univision"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-fd38-d3db-adf6-fffe83df0000",
+      "uri": "https://www.univision.com/local/nueva-york-wxtv/conoce-cuales-son-los-cambios-mas-recientes-para-el-proceso-de-asilo-politico-en-eeuu-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+        "uri": "https://www.univision.com/local/nueva-york-wxtv",
+        "name": "univision 41 nueva york",
+        "title": "Univision 41 Nueva York"
+      },
+      "title": "Conoce cuáles son los cambios más recientes para el proceso de asilo político en EEUU",
+      "description": "El pasado viernes una corte en el norte de California dejó sin efecto temporal una de las medidas planteadas por la administración de Donald Trump, la cual buscaba endurecer los requisitos para solicitantes de asilo político en territorio estadounidense. La abogada Claudia Bernal explica en detalle de qué trata el fallo emitido por la legislatura del Estado Dorado.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-fd39-d422-ab76-ffb91fde0001",
+        "title": "5a5e49e2f55e4417b70b97d78ae819fb",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/cd/e2/a776976f4e60bf78a26b13005ae5/5a5e49e2f55e4417b70b97d78ae819fb",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-13T14:31:09-05:00",
+      "publishDate": "2021-01-13T12:58:00-05:00",
+      "expirationDate": "2031-01-13T12:58:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/ZFmX102wDG1",
+            "isFeedDialog": false,
+            "title": "Conoce cuáles son los cambios más recientes para el proceso de asilo político en EEUU",
+            "description": "El pasado viernes una corte en el norte de California dejó sin efecto temporal una de las medidas planteadas por la administración de Donald Trump, la cual buscaba endurecer los requisitos para solicitantes de asilo político en territorio estadounidense. La abogada Claudia Bernal explica en detalle de qué trata el fallo emitido por la legislatura del Estado Dorado.",
+            "imageUrl": "https://st1.uvnimg.com/cd/e2/a776976f4e60bf78a26b13005ae5/5a5e49e2f55e4417b70b97d78ae819fb",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/ZFmX102wDG1",
+            "title": "Conoce cuáles son los cambios más recientes para el proceso de asilo político en EEUU",
+            "via": "univisionNY"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/ZFmX102wDG1",
+            "message": "Conoce cuáles son los cambios más recientes para el proceso de asilo político en EEUU"
+          },
+          "mail": {
+            "subject": "Conoce cuáles son los cambios más recientes para el proceso de asilo político en EEUU",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nConoce cuáles son los cambios más recientes para el proceso de asilo político en EEUU\n\nEncuéntralo en este enlace:http://uni.vi/ZFmX102wDG1\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://www.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+          "uri": "https://www.univision.com/local/nueva-york-wxtv",
+          "name": "univision 41 nueva york",
+          "title": "Univision 41 Nueva York"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3977661",
+      "durationString": "2:42",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-13_3977661.mp4",
+      "show": null,
+      "categories": ["Noticias", "Locales"],
+      "dateCreated": "2021-01-13T12:59:11-05:00",
+      "airDate": "2021-01-13T12:58:00-05:00",
+      "rating": "TV-Y",
+      "season": 2021,
+      "series": "1478",
+      "seriesName": "Edición Digital Nueva York",
+      "registryEntries": [
+        {
+          "assetIdentifier": "Conoce cuáles son los cambios más recientes para el proceso de asilo político en EEUU",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "inmigrantes indocumentos",
+        "sociedad",
+        "INMIGRACION",
+        "asilo politico",
+        "newyorkgeo",
+        "politica",
+        "latinos",
+        "leyes y prohibiciones",
+        "Newyorkwado",
+        "donald trump",
+        "PREGUNTAS Y RESPUESTAS INMIGRACION",
+        "comunidad",
+        "Edición Digital Nueva York"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/F19/45F/F1945F619896488EB933556E62632CD8.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/BE1/034/BE1034BDA1554BE6B25FBAAD83B1447C.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705174125&Signature=meH%2B3uwAT9Eu1aoIyhbAKDG%2FCWUBSMOb1kXU8NldREQM%2BWkqG%2BGxqmO5ELBlB5vIoHjiXFrT8kQpHabdRZN4KJ6T2oalJFkOzAUtvMXaifEGNRIeR6zMdGjHQw3ttdiiviSkhvq7tUutJtvL%2BG6zGJcfQxP5tGh0UAMyjvRDkbbtUZ%2F2ggOJp7VQqwDylng6aX%2FEuNXNPm6oW%2F29XjAlJtJvi2ZoSNQJMssjc6Zql0FmdiFrmedrbuMqm77sbJEkKE892bgfJrc0Cm8XjqbTjCebsIgrnhcVxg4xTuR3wP%2BaAqEPBVCAafAWe6XphsFWzF%2BRvZj1BGfj4Q5pPJ89TA%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3977661/BE1034BDA1554BE6B25FBAAD83B1447C_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 9507,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/68318c7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fcd%2Fe2%2Fa776976f4e60bf78a26b13005ae5%2F5a5e49e2f55e4417b70b97d78ae819fb",
+      "shortUrl": "http://uni.vi/ZFmX102wDG1",
+      "permalink": "https://www.univision.com/local/nueva-york-wxtv/conoce-cuales-son-los-cambios-mas-recientes-para-el-proceso-de-asilo-politico-en-eeuu-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/nuevayork/wxtv",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "ediciondigitalnuevayork",
+            "inmigracion",
+            "preguntasyrespuestasinmigracion",
+            "inmigrantesindocumentados",
+            "donaldtrump",
+            "asilopolitico",
+            "latinos",
+            "politica",
+            "leyesyprohibiciones",
+            "comunidad",
+            "sociedad",
+            "nuevayork"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "mCV3K5bv",
+      "primaryTag": {
+        "name": "Univision 41 Nueva York",
+        "link": "https://www.univision.com/local/nueva-york-wxtv"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-fccc-d6d8-adfe-feed358a0000",
+      "uri": "https://www.univision.com/shows/despierta-america/se-lograra-frenar-las-deportaciones-analizamos-el-plan-migratorio-propuesto-por-la-administracion-biden-video",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+        "uri": "https://www.univision.com/shows/despierta-america",
+        "name": "despierta américa",
+        "title": "Despierta América"
+      },
+      "title": "¿Se logrará frenar las deportaciones? Analizamos el plan migratorio propuesto por la administración Biden",
+      "description": "Tras la entrevista concedida por Kamala Harris a la periodista Ilia Calderón, Clarissa Martínez, vicepresidenta de la organización Unidos US, conversó con Satcha Pretto para analizar las propuestas migratorias. ¿Qué se espera de la administración de Joe Biden en cuando a las deportaciones? ¿Logrará concretar su plan de reforma migratoria?",
+      "image": {
+        "type": "image",
+        "uid": "00000176-fcce-de6c-a1ff-fcee07fc0000",
+        "title": "7226c253c05144c49f922bb694cdb07f",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/21/cd/1e4fe35148c789c5875727ad3276/7226c253c05144c49f922bb694cdb07f",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-13T12:46:54-05:00",
+      "publishDate": "2021-01-13T10:13:00-05:00",
+      "expirationDate": "2031-01-13T10:13:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/Hrhb102wDpy",
+            "isFeedDialog": false,
+            "title": "¿Se logrará frenar las deportaciones? Analizamos el plan migratorio propuesto por la administración Biden",
+            "description": "Tras la entrevista concedida por Kamala Harris a la periodista Ilia Calderón, Clarissa Martínez, vicepresidenta de la organización Unidos US, conversó con Satcha Pretto para analizar las propuestas migratorias. ¿Qué se espera de la administración de Joe Biden en cuando a las deportaciones? ¿Logrará concretar su plan de reforma migratoria?",
+            "imageUrl": "https://st1.uvnimg.com/21/cd/1e4fe35148c789c5875727ad3276/7226c253c05144c49f922bb694cdb07f",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/Hrhb102wDpy",
+            "title": "¿Se logrará frenar las deportaciones? Analizamos el plan migratorio propuesto por la administración Biden",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/Hrhb102wDpy",
+            "message": "¿Se logrará frenar las deportaciones? Analizamos el plan migratorio propuesto por la administración Biden"
+          },
+          "mail": {
+            "subject": "¿Se logrará frenar las deportaciones? Analizamos el plan migratorio propuesto por la administración Biden",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Se logrará frenar las deportaciones? Analizamos el plan migratorio propuesto por la administración Biden\n\nEncuéntralo en este enlace:http://uni.vi/Hrhb102wDpy\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://www.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+          "uri": "https://www.univision.com/shows/despierta-america",
+          "name": "despierta america",
+          "title": "Despierta América"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3977465",
+      "durationString": "3:37",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-13_3977465.mp4",
+      "show": null,
+      "categories": ["Variety"],
+      "dateCreated": "2021-01-13T10:14:59-05:00",
+      "airDate": "2021-01-13T10:13:00-05:00",
+      "rating": "Not Rated",
+      "season": 2021,
+      "series": "4",
+      "seriesName": "Despierta America",
+      "registryEntries": [
+        {
+          "assetIdentifier": "DESP000000000",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "danoticias",
+        "kamala harris",
+        "noticias",
+        "clarissa martínez",
+        "migración",
+        "deportaciones",
+        "Unidos US",
+        "joe biden",
+        "inmigración",
+        "Despierta América",
+        "plan migratoria"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/A78/BD9/A78BD932341D4D919522DDE60E84D87D.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/499/B30/499B30E9AC104CA59CBF8751C72316BC.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705167108&Signature=T3%2BlitlN%2BfEOVYAlLfnyK41Zn%2BiRbH8J9ddEydtO3Crm73rarrYTcb0IsoT%2FvwfxjPUp7U%2BgcWBlSqhSBwPFzMdDU97Dy%2Fetvk4YY%2Ffi1XPswIz5SPdvsRgibTqBmlR9krMieXQ3xxtWArOisZPc6%2FFYAkXmpIXpVWM0snSFBi456KxxYLJk7niqkXJM33%2B1mBOIih8UU1q3SIz%2BxbIPzwKMBIXw51GZoHAbr1hlYGJhS9ZBkX2waxF%2Fhk2uRxwrVXhYGT7iiAGDIK7T%2FqzCH%2BhQRyqzaWe3AWOgPDNQramz9rMDmiHymMNWmED%2FkI7vpvv8nOEXYmj%2BVuUCqvt8CQ%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3977465/499B30E9AC104CA59CBF8751C72316BC_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 8539,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": "Despierta America"
+      },
+      "videoSubType": "",
+      "adContentType": "Entertainment",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/6e8fefb/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F21%2Fcd%2F1e4fe35148c789c5875727ad3276%2F7226c253c05144c49f922bb694cdb07f",
+      "shortUrl": "http://uni.vi/Hrhb102wDpy",
+      "permalink": "https://www.univision.com/shows/despierta-america/se-lograra-frenar-las-deportaciones-analizamos-el-plan-migratorio-propuesto-por-la-administracion-biden-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_entretenimiento/shows/despiertaamerica",
+        "targeting": {
+          "vertical": "entretenimiento",
+          "tag": [
+            "danoticias",
+            "kamalaharris",
+            "deportaciones",
+            "joebiden",
+            "inmigracion"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "Sjo8JTSL",
+      "primaryTag": {
+        "name": "Despierta América",
+        "link": "https://www.univision.com/shows/despierta-america"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-fc3e-d422-ab76-febeb2560000",
+      "uri": "https://www.univision.com/shows/despierta-america/que-cambiara-en-inmigracion-abogada-jessica-dominguez-analiza-las-respuestas-de-kamala-harris-a-ilia-calderon-video",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+        "uri": "https://www.univision.com/shows/despierta-america",
+        "name": "despierta américa",
+        "title": "Despierta América"
+      },
+      "title": "¿Qué cambiará en inmigración? Abogada Jessica Domínguez analiza las respuestas de Kamala Harris a Ilia Calderón",
+      "description": "La vicepresidenta electa le reveló a Ilia Calderón que durante la administración que encabezará Joe Biden se pretende legalizar a todos los indocumentados que residen en el país. ¿Qué tan viable es que realmente suceda esta propuesta del nuevo gobierno? La abogada Jessica Domínguez nos explica.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-fc3f-d422-ab76-febf28660000",
+        "title": "16cb21d2200e4512821ac708fb100867",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/59/02/f96643c34cff8dfa2581bb377bf0/16cb21d2200e4512821ac708fb100867",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-13T10:06:45-05:00",
+      "publishDate": "2021-01-13T09:02:00-05:00",
+      "expirationDate": "2031-01-13T09:02:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/m6Y7102wCYA",
+            "isFeedDialog": false,
+            "title": "¿Qué cambiará en inmigración? Abogada Jessica Domínguez analiza las respuestas de Kamala Harris a Ilia Calderón",
+            "description": "La vicepresidenta electa le reveló a Ilia Calderón que durante la administración que encabezará Joe Biden se pretende legalizar a todos los indocumentados que residen en el país. ¿Qué tan viable es que realmente suceda esta propuesta del nuevo gobierno? La abogada Jessica Domínguez nos explica.",
+            "imageUrl": "https://st1.uvnimg.com/59/02/f96643c34cff8dfa2581bb377bf0/16cb21d2200e4512821ac708fb100867",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/m6Y7102wCYA",
+            "title": "¿Qué cambiará en inmigración? Abogada Jessica Domínguez analiza las respuestas de Kamala Harris a Ilia Calderón",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/m6Y7102wCYA",
+            "message": "¿Qué cambiará en inmigración? Abogada Jessica Domínguez analiza las respuestas de Kamala Harris a Ilia Calderón"
+          },
+          "mail": {
+            "subject": "¿Qué cambiará en inmigración? Abogada Jessica Domínguez analiza las respuestas de Kamala Harris a Ilia Calderón",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Qué cambiará en inmigración? Abogada Jessica Domínguez analiza las respuestas de Kamala Harris a Ilia Calderón\n\nEncuéntralo en este enlace:http://uni.vi/m6Y7102wCYA\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://www.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+          "uri": "https://www.univision.com/shows/despierta-america",
+          "name": "despierta america",
+          "title": "Despierta América"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3977443",
+      "durationString": "3:48",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-13_3977443.mp4",
+      "show": null,
+      "categories": ["Variety"],
+      "dateCreated": "2021-01-13T09:03:10-05:00",
+      "airDate": "2021-01-13T09:02:00-05:00",
+      "rating": "Not Rated",
+      "season": 2021,
+      "series": "4",
+      "seriesName": "Despierta America",
+      "registryEntries": [
+        {
+          "assetIdentifier": "DESP000000000",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        },
+        {
+          "assetIdentifier": "kamala harris administracion biden temas inmigracion ciudadania despierta america",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "inmigracion",
+        "kamala harris",
+        "dudas de inmigracion",
+        "dateayuda",
+        "dainmigracion",
+        "administracion biden",
+        "ciudadania",
+        "jessica dominguez",
+        "indocumentados",
+        "el angel de la justicia",
+        "Despierta América"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/54C/7AE/54C7AE5DEA7141328992F6926C39BD7B.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/4D1/F93/4D1F937C00E348019AF1B55CC9502EAB.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705157749&Signature=qx6QIoM8YQyD8ZJRhpvyQKewIpVkHdrmPh9dBDOyPRp8FrbvYvvdsl2IMuMFCODbgimxB5Q1Q4o%2FiPtSyekPAHPixkmehh6lx6oWhx%2B2v%2FI9HK3nnx1bOciZQMnJwTb%2F%2Fc9Ii7rNr%2BSsal6RQcN1%2BVNtJCEJESuVh%2BpSObqN%2FjG5JSCNvYvddJ4wK0es9BauMsu1kliZTd%2BlcDAQpOUBoebossoaJfTP2yWsbY0D2OCX%2Bn2YD7wzLMHCSb6C2fZSWcpb4QH8daqBxhF%2Fl6ceDoYri%2BjTYAbHe3ZhG7Mn4cnT8Qo3KerlL4iMmo5ce7fL99cRJFGBsqaxzWeS6QrrNg%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3977443/4D1F937C00E348019AF1B55CC9502EAB_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 8763,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": "Despierta America"
+      },
+      "videoSubType": "",
+      "adContentType": "Entertainment",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/92c6ef7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F59%2F02%2Ff96643c34cff8dfa2581bb377bf0%2F16cb21d2200e4512821ac708fb100867",
+      "shortUrl": "http://uni.vi/m6Y7102wCYA",
+      "permalink": "https://www.univision.com/shows/despierta-america/que-cambiara-en-inmigracion-abogada-jessica-dominguez-analiza-las-respuestas-de-kamala-harris-a-ilia-calderon-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_entretenimiento/shows/despiertaamerica",
+        "targeting": {
+          "vertical": "entretenimiento",
+          "tag": ["inmigracion", "kamalaharris", "dateayuda", "ciudadania"]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "fwVjIlIT",
+      "primaryTag": {
+        "name": "Despierta América",
+        "link": "https://www.univision.com/shows/despierta-america"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000176-f912-d968-ab77-fff7b5620002",
+      "uri": "https://www.univision.com/noticias/inmigracion/aplauden-reforma-migratoria-de-biden-pero-advierten-que-necesita-votos-republicanos",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+        "uri": "https://www.univision.com/noticias/inmigracion",
+        "name": "inmigración",
+        "title": "Inmigración"
+      },
+      "title": "La reforma migratoria de Biden abrirá una puerta cerrada por Trump, pero encontrará un camino cuesta arriba en el Senado",
+      "description": "Organizaciones y activistas reciben con beneplácito la promesa del nuevo gobierno de enviar al Congreso, en los primeros 100 días, un proyecto de reforma migratoria con una vía para la ciudadanía para millones de indocumentados, pero advierten que para aprobarla necesitan votos republicanos.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f97f-db20-a5ff-f97ffeff0000",
+        "title": "TOPSHOT-US-CHILDREN-IMMIGRATION-TEDDYBEARS",
+        "caption": "Voluntarios de la organización Families Belong Together y la Franciscan Action Network (FAN) colocaron osos de peluche y 'jaulas' para representar a los niños separados de sus familias como parte de las políticas migratorias estadounidenses.",
+        "credit": "SAUL LOEB/AFP via Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/ab/b5/55e98e814593a80eddd68f223bba/gettyimages-1229643541.jpg",
+            "width": 1024,
+            "height": 650,
+            "focusPoint": {
+              "x": 0.24818024263431543,
+              "y": 0.648471615720524
+            }
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Jorge Cancino",
+          "image": {
+            "type": "image",
+            "uid": "00000156-c7ab-d070-a55f-c7fbf2e70000",
+            "title": "Jorge Cancino",
+            "caption": "Jorge Cancino",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/49/11/4c4aed1249fead3b9606370f8a37/cancino-jorge1.jpg",
+                "width": 0,
+                "height": 0,
+                "focusPoint": {
+                  "x": 0.5568627450980392,
+                  "y": 0.4216417910447761
+                }
+              }
+            }
+          },
+          "uri": "https://www.univision.com/temas/jorge-cancino",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/jorge.cancino3",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": {
+              "text": null,
+              "name": "LinkedIn",
+              "url": "https://www.linkedin.com/in/jorge-cancino-04516030",
+              "target": "_blank"
+            },
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/cancino_jorge",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Editor Principal de Inmigración",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2021-01-13T05:55:07-05:00",
+      "publishDate": "2021-01-13T05:55:07-05:00",
+      "expirationDate": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/qp10102wC3l",
+            "isFeedDialog": false,
+            "title": "La reforma migratoria de Biden abrirá una puerta cerrada por Trump, pero encontrará un camino cuesta arriba en el Senado",
+            "description": "Organizaciones y activistas reciben con beneplácito la promesa del nuevo gobierno de enviar al Congreso, en los primeros 100 días, un proyecto de reforma migratoria con una vía para la ciudadanía para millones de indocumentados, pero advierten que para aprobarla necesitan votos republicanos.",
+            "imageUrl": "https://st1.uvnimg.com/b7/84/c1fbbe38438b93fd3b1fb50f8508/328f832295534440851c262f188095bc",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/qp10102wC3l",
+            "title": "La reforma migratoria de Biden abrirá una puerta cerrada por Trump, pero encontrará un camino cuesta arriba en el Senado",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/qp10102wC3l",
+            "message": "La reforma migratoria de Biden abrirá una puerta cerrada por Trump, pero encontrará un camino cuesta arriba en el Senado"
+          },
+          "mail": {
+            "subject": "La reforma migratoria de Biden abrirá una puerta cerrada por Trump, pero encontrará un camino cuesta arriba en el Senado",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa reforma migratoria de Biden abrirá una puerta cerrada por Trump, pero encontrará un camino cuesta arriba en el Senado\n\nEncuéntralo en este enlace:http://uni.vi/qp10102wC3l\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+          "uri": "https://www.univision.com/noticias/inmigracion",
+          "name": "inmigracion",
+          "title": "Inmigración"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "readTime": 5,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Activistas y organizaciones que defienden los derechos de los inmigrantes respaldan la promesa hecha por el presidente electo, <a href=\"https://www.univision.com/temas/joe-biden\" target=\"_blank\">Joe Biden</a>, de enviar al Senado un plan de reforma migratoria integral en los primeros 100 días de mandato, pero advierten que la iniciativa puede nacer muerta si primero no consigue al menos 10 votos republicanos.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Inmigración",
+        "link": "https://www.univision.com/noticias/inmigracion"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-f950-dafc-a7fe-ff7654e20000",
+      "uri": "https://www.univision.com/shows/noticiero-univision/en-nueva-york-las-puertas-estan-abiertas-sin-importar-su-estatus-migratorio-encargados-de-vacunas-contra-el-covid-19-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+        "uri": "https://www.univision.com/shows/noticiero-univision",
+        "name": "noticiero univision",
+        "title": "Noticiero Univision"
+      },
+      "title": "\"En Nueva York las puertas están abiertas, sin importar su estatus migratorio\": encargados de vacunas contra el covid-19",
+      "description": "La doctora Yury Parra, coordinadora de unos de los centros de vacunación que atiende las 24 horas en la Gran Manzana y los siete días de la semana, asegura que la desinformación sobre la inmunización es el mayor reto. \"No estamos introduciendo el virus\", precisa, invitando a la comunidad a que no tengan miedo por su estatus migratorio, pues todos tienen derecho a recibir la inyección. \n<b><a href=\"https://www.univision.com/noticias/salud/pruebas-tests-viajeros-internacionales-coronavirus-covid-19\" target=\"_blank\">Más información aquí</a></b>.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f951-d3db-adf6-fbff29bc0000",
+        "title": "f57d87a63c8349e98cb1e00a528a09c1",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/68/6e/3fbda8f44a4bac0ae8544fa65b1a/f57d87a63c8349e98cb1e00a528a09c1",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-12T20:31:06-05:00",
+      "publishDate": "2021-01-12T18:56:00-05:00",
+      "expirationDate": "2031-01-12T18:56:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/Ijen102wAjW",
+            "isFeedDialog": false,
+            "title": "\"En Nueva York las puertas están abiertas, sin importar su estatus migratorio\": encargados de vacunas contra el covid-19",
+            "description": "La doctora Yury Parra, coordinadora de unos de los centros de vacunación que atiende las 24 horas en la Gran Manzana y los siete días de la semana, asegura que la desinformación sobre la inmunización es el mayor reto. \"No estamos introduciendo el virus\", precisa, invitando a la comunidad a que no tengan miedo por su estatus migratorio, pues todos tienen derecho a recibir la inyección. Más información aquí.",
+            "imageUrl": "https://st1.uvnimg.com/68/6e/3fbda8f44a4bac0ae8544fa65b1a/f57d87a63c8349e98cb1e00a528a09c1",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/Ijen102wAjW",
+            "title": "\"En Nueva York las puertas están abiertas, sin importar su estatus migratorio\": encargados de vacunas contra el covid-19",
+            "via": "uninoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/Ijen102wAjW",
+            "message": "\"En Nueva York las puertas están abiertas, sin importar su estatus migratorio\": encargados de vacunas contra el covid-19"
+          },
+          "mail": {
+            "subject": "\"En Nueva York las puertas están abiertas, sin importar su estatus migratorio\": encargados de vacunas contra el covid-19",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"En Nueva York las puertas están abiertas, sin importar su estatus migratorio\": encargados de vacunas contra el covid-19\n\nEncuéntralo en este enlace:http://uni.vi/Ijen102wAjW\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://www.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision",
+          "name": "noticiero univision",
+          "title": "Noticiero Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3976902",
+      "durationString": "2:00",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-12_3976902.mp4",
+      "show": null,
+      "categories": ["Television", "Shows", "Noticias"],
+      "dateCreated": "2021-01-12T18:57:41-05:00",
+      "airDate": "2021-01-12T18:56:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "13",
+      "seriesName": "Noticiero Univision",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "enfermedades",
+        "fase 1B",
+        "inmunización",
+        "Edición Diurna",
+        "sociedad",
+        "television",
+        "medicina",
+        "coronavirus",
+        "covid-19",
+        "coronavirus New york",
+        "videos",
+        "vacunas",
+        "Vacuna contra el coronavirus",
+        "Fabiola Galindo",
+        "salud",
+        "noticas",
+        "centros de vacunación",
+        "noticiero univision",
+        "comunidad"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/56D/C2D/56DC2DB92A9246A99C8B0D2369528BC2.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/A15/A06/A15A067152D64E05B8F208338FABF5B5.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705108587&Signature=feoQcPLdRy5uEivnIVVnEfAWgqFPND0fXM73yOCS7GdQW2vr1wcGtJdOVtmcty8RgAvHekfoZvtbcPSqZguL09HvrM5DFKflncipJ2asjveCs5Mo9aQ1ygoG26SbWz3uTai3avbU0HU94POf7csShZi42AycHXyYxPBkk2GYZRZGfTHAHRYfj38n0%2BrItx%2BjnQrKVnYKzoJ25ldecA9HBtA%2FRjrdItf77cNbqrADMjux0gcu9G%2BYXixtolDA7liCH1lY%2FyNTGmj4w8fgEKWrE5B%2B532SZGlnasHclTJRQfucP0wo%2Fk9sZhyd7OVV8pnhhfwBrWdKWTtLgf3x17QadQ%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3976902/A15A067152D64E05B8F208338FABF5B5_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 2412,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/50e6838/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F68%2F6e%2F3fbda8f44a4bac0ae8544fa65b1a%2Ff57d87a63c8349e98cb1e00a528a09c1",
+      "shortUrl": "http://uni.vi/Ijen102wAjW",
+      "permalink": "https://www.univision.com/shows/noticiero-univision/en-nueva-york-las-puertas-estan-abiertas-sin-importar-su-estatus-migratorio-encargados-de-vacunas-contra-el-covid-19-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias/shows/noticierounivision",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "coronavirusnuevayork",
+            "coronavirus",
+            "vacunas",
+            "salud",
+            "medicina",
+            "enfermedades",
+            "comunidad",
+            "sociedad",
+            "seguridadyprevencion",
+            "inmigracion",
+            "estadosunidos"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "6GYwQilt",
+      "primaryTag": {
+        "name": "Noticiero Univision",
+        "link": "https://www.univision.com/shows/noticiero-univision"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-f90e-d3db-adf6-fbfeb5b40000",
+      "uri": "https://www.univision.com/shows/noticiero-univision/nuestro-plan-migratorio-permitiria-que-dreamers-y-beneficiarios-del-tps-obtengan-la-green-card-de-manera-automatica-kamala-harris-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+        "uri": "https://www.univision.com/shows/noticiero-univision",
+        "name": "noticiero univision",
+        "title": "Noticiero Univision"
+      },
+      "title": "\"Nuestro plan migratorio permitiría que dreamers y beneficiarios del TPS obtengan la green card de manera automática\": Kamala Harris",
+      "description": "La vicepresidenta electa, Kamala Harris, dijo en exclusiva a Univision que el gobierno de Joe Biden buscará reducir el tiempo para obtener la ciudadanía, pasando de 13 años a ocho años; además, se pondrán más jueces migratorios para ayudar con los procesos de aquellos que llegan a la frontera y así acabar con los retrasos. Sobre las declaraciones de Trump tras el asalto al Capitolio, Harris dijo que \"él continúa perpetuando mentiras y fomentando odio y división en nuestro país\". \n<b><a href=\"https://www.univision.com/noticias/inmigracion/reforma-migratoria-biden\" target=\"_blank\">Más información aquí</a></b>.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f90f-d422-ab76-fbafa0600001",
+        "title": "328f832295534440851c262f188095bc",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/b7/84/c1fbbe38438b93fd3b1fb50f8508/328f832295534440851c262f188095bc",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Ilia Calderon",
+          "image": {
+            "type": "image",
+            "uid": "0000015b-983d-d866-a57b-dfffc7ee0000",
+            "title": "Ilia Calderon",
+            "caption": null,
+            "credit": "www.sidphoto.com",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/6e/06/858517da4ca8af08ff3b927f08b6/ilia-calderon-revised.jpg",
+                "width": 808,
+                "height": 808,
+                "focusPoint": {
+                  "x": 0.5137111517367459,
+                  "y": 0.4753199268738574
+                }
+              }
+            }
+          },
+          "uri": "https://www.univision.com/temas/ilia-calderon",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/IliaCalderon/",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": {
+              "text": null,
+              "name": "Instagram",
+              "url": "https://www.instagram.com/iliacalderon/",
+              "target": "_blank"
+            },
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/iliacalderon",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Presentadora de Noticiero Univision y Aquí y Ahora ",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2021-01-12T19:22:40-05:00",
+      "publishDate": "2021-01-12T18:35:00-05:00",
+      "expirationDate": "2031-01-12T18:35:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/nqUB102wAdX",
+            "isFeedDialog": false,
+            "title": "\"Nuestro plan migratorio permitiría que dreamers y beneficiarios del TPS obtengan la green card de manera automática\": Kamala Harris",
+            "description": "La vicepresidenta electa, Kamala Harris, dijo en exclusiva a Univision que el gobierno de Joe Biden buscará reducir el tiempo para obtener la ciudadanía, pasando de 13 años a ocho años; además, se pondrán más jueces migratorios para ayudar con los procesos de aquellos que llegan a la frontera y así acabar con los retrasos. Sobre las declaraciones de Trump tras el asalto al Capitolio, Harris dijo que \"él continúa perpetuando mentiras y fomentando odio y división en nuestro país\". Más información aquí.",
+            "imageUrl": "https://st1.uvnimg.com/b7/84/c1fbbe38438b93fd3b1fb50f8508/328f832295534440851c262f188095bc",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/nqUB102wAdX",
+            "title": "\"Nuestro plan migratorio permitiría que dreamers y beneficiarios del TPS obtengan la green card de manera automática\": Kamala Harris",
+            "via": "uninoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/nqUB102wAdX",
+            "message": "\"Nuestro plan migratorio permitiría que dreamers y beneficiarios del TPS obtengan la green card de manera automática\": Kamala Harris"
+          },
+          "mail": {
+            "subject": "\"Nuestro plan migratorio permitiría que dreamers y beneficiarios del TPS obtengan la green card de manera automática\": Kamala Harris",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"Nuestro plan migratorio permitiría que dreamers y beneficiarios del TPS obtengan la green card de manera automática\": Kamala Harris\n\nEncuéntralo en este enlace:http://uni.vi/nqUB102wAdX\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://www.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision",
+          "name": "noticiero univision",
+          "title": "Noticiero Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3976741",
+      "durationString": "2:59",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-12_3976741.mp4",
+      "show": null,
+      "categories": ["Television", "Shows", "Noticias"],
+      "dateCreated": "2021-01-12T18:35:41-05:00",
+      "airDate": "2021-01-12T18:35:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "13",
+      "seriesName": "Noticiero Univision",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "kamala harris",
+        "gobierno",
+        "DACA",
+        "capitolio",
+        "videos",
+        "ilia calderon",
+        "partido democrata",
+        "soñadores",
+        "TPS",
+        "dreamers",
+        "donald trump",
+        "comunidad",
+        "manifestaciones",
+        "entrevistas",
+        "television",
+        "asalto al capitolio",
+        "violencia",
+        "protestas en el capitolio",
+        "politica",
+        "eeuu",
+        "inmigracion",
+        "protestas",
+        "noticas",
+        "noticiero univision",
+        "joe biden",
+        "Edicion diurna"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/tmp/synd/1A37689F9AF3412B960B4A715FB2FD04",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/EFE/F3B/EFEF3BD4AD3A4FBB8034D7A67FED579A.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705104297&Signature=Iu%2B6ADYnOM3PaBrgTboEeO%2Fnf%2BpV3BXV7psM%2BBrbqMVbbcdLFQ24Okia%2B1%2BkSpZd7xFc2XMIOsuNGHISwVp3COx5U8yj3y%2FBVALex08ac1JRildxHcC2qjzdg315gguXULuwG5d%2FUR7sLj2iXyMKzafbMiQEC%2Bb5mOcMJUpaBp728FseN3vXQkNkuBfe8XDzmdgquSonNTLUkdnpCXAgT1uYF0imi2JkLcQRGVMKDwZwjafVLrutJKAjRErQMiP1TZjHefks9l8Vu01Fb79cdQejOygI5KJZtZTeTt3C9sxP8c2CyIqH8FyqXPPT6jvLRS20VSUUGb8LR4gdyctIXg%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3976741/EFEF3BD4AD3A4FBB8034D7A67FED579A_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 2383,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/21200d3/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2F84%2Fc1fbbe38438b93fd3b1fb50f8508%2F328f832295534440851c262f188095bc",
+      "shortUrl": "http://uni.vi/nqUB102wAdX",
+      "permalink": "https://www.univision.com/shows/noticiero-univision/nuestro-plan-migratorio-permitiria-que-dreamers-y-beneficiarios-del-tps-obtengan-la-green-card-de-manera-automatica-kamala-harris-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias/shows/noticierounivision",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "kamalaharris",
+            "gobierno",
+            "deferredactionforchildhoodarrivalsdaca",
+            "iliacalderon",
+            "dreamers",
+            "donaldtrump",
+            "manifestaciones",
+            "entrevistas",
+            "violencia",
+            "politica",
+            "estadosunidos",
+            "inmigracion",
+            "protestas",
+            "joebiden",
+            "estatusdeprotecciontemporal"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "shyldaFh",
+      "primaryTag": {
+        "name": "Noticiero Univision",
+        "link": "https://www.univision.com/shows/noticiero-univision"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000176-f885-d38a-a9f6-fbfdc1330002",
+      "uri": "https://www.univision.com/noticias/inmigracion/reforma-migratoria-biden",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+        "uri": "https://www.univision.com/noticias/inmigracion",
+        "name": "inmigración",
+        "title": "Inmigración"
+      },
+      "title": "Entrevista exclusiva: Kamala Harris habla de reforma migratoria y asegura que todos los inmigrantes tendrán acceso a la vacuna",
+      "description": "En entrevista exclusiva con el Noticiero Univision, la vicepresidenta electa ofreció detalles sobre el plan de reforma migratoria del presidente electo, Joe Biden, y aseguró que todos los migrantes indocumentados tendrán acceso a la vacuna del covid-19.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f88f-d968-ab77-feefe3b10000",
+        "title": "Sen. Kamala Harris Speaks At Her Alma Mater Howard University",
+        "caption": "La vicepresidenta electa de Estados Unidos, Kamala Harris.",
+        "credit": "Al Drago/Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/f9/72/5517017645c0a06b9c9cbdb63b02/gettyimages-1085871002.jpg",
+            "width": 4516,
+            "height": 3011,
+            "focusPoint": {
+              "x": 0.5825331088153644,
+              "y": 0.5829694323144105
+            }
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Ilia Calderon",
+          "image": {
+            "type": "image",
+            "uid": "0000015b-983d-d866-a57b-dfffc7ee0000",
+            "title": "Ilia Calderon",
+            "caption": null,
+            "credit": "www.sidphoto.com",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/6e/06/858517da4ca8af08ff3b927f08b6/ilia-calderon-revised.jpg",
+                "width": 808,
+                "height": 808,
+                "focusPoint": {
+                  "x": 0.5137111517367459,
+                  "y": 0.4753199268738574
+                }
+              }
+            }
+          },
+          "uri": "https://www.univision.com/temas/ilia-calderon",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/IliaCalderon/",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": {
+              "text": null,
+              "name": "Instagram",
+              "url": "https://www.instagram.com/iliacalderon/",
+              "target": "_blank"
+            },
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/iliacalderon",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Presentadora de Noticiero Univision y Aquí y Ahora ",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        },
+        {
+          "fullName": "Jorge Cancino",
+          "image": {
+            "type": "image",
+            "uid": "00000156-c7ab-d070-a55f-c7fbf2e70000",
+            "title": "Jorge Cancino",
+            "caption": "Jorge Cancino",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/49/11/4c4aed1249fead3b9606370f8a37/cancino-jorge1.jpg",
+                "width": 0,
+                "height": 0,
+                "focusPoint": {
+                  "x": 0.5568627450980392,
+                  "y": 0.4216417910447761
+                }
+              }
+            }
+          },
+          "uri": "https://www.univision.com/temas/jorge-cancino",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/jorge.cancino3",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": {
+              "text": null,
+              "name": "LinkedIn",
+              "url": "https://www.linkedin.com/in/jorge-cancino-04516030",
+              "target": "_blank"
+            },
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/cancino_jorge",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Editor Principal de Inmigración",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2021-01-13T11:01:23-05:00",
+      "publishDate": "2021-01-12T16:59:32-05:00",
+      "expirationDate": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/vfwg102wzZ4",
+            "isFeedDialog": false,
+            "title": "Entrevista exclusiva: Kamala Harris habla de reforma migratoria y asegura que todos los inmigrantes tendrán acceso a la vacuna",
+            "description": "En entrevista exclusiva con el Noticiero Univision, la vicepresidenta electa ofreció detalles sobre el plan de reforma migratoria del presidente electo, Joe Biden, y aseguró que todos los migrantes indocumentados tendrán acceso a la vacuna del covid-19.",
+            "imageUrl": "https://st1.uvnimg.com/b7/84/c1fbbe38438b93fd3b1fb50f8508/328f832295534440851c262f188095bc",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/vfwg102wzZ4",
+            "title": "Entrevista exclusiva: Kamala Harris habla de reforma migratoria y asegura que todos los inmigrantes tendrán acceso a la vacuna",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/vfwg102wzZ4",
+            "message": "Entrevista exclusiva: Kamala Harris habla de reforma migratoria y asegura que todos los inmigrantes tendrán acceso a la vacuna"
+          },
+          "mail": {
+            "subject": "Entrevista exclusiva: Kamala Harris habla de reforma migratoria y asegura que todos los inmigrantes tendrán acceso a la vacuna",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEntrevista exclusiva: Kamala Harris habla de reforma migratoria y asegura que todos los inmigrantes tendrán acceso a la vacuna\n\nEncuéntralo en este enlace:http://uni.vi/vfwg102wzZ4\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+          "uri": "https://www.univision.com/noticias/inmigracion",
+          "name": "inmigracion",
+          "title": "Inmigración"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "readTime": 5,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>La vicepresidenta electa de Estados Unidos, Kamala Harris, dijo este martes al Noticiero Univision que el nuevo gobierno que será encabezado por Joe Biden y que asume la próxima semana “tiene planeado” presentar y enviar al Congreso <a href=\"https://www.univision.com/noticias/inmigracion/reforma-migratoria-de-biden-necesita-votos-republicanos-para-ser-aprobada\">un plan de reforma migratoria</a> que incluirá un camino a la ciudadanía para millones de indocumentados.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Inmigración",
+        "link": "https://www.univision.com/noticias/inmigracion"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-f85d-d422-ab76-fafdf0640000",
+      "uri": "https://www.univision.com/noticias/edicion-digital/trump-califica-de-turba-a-quienes-entraron-al-capitolio-pero-insiste-en-el-fraude-de-las-elecciones-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000157-0fd4-d0c4-a977-efd79c140000",
+        "uri": "https://www.univision.com/noticias/edicion-digital",
+        "name": "edicion digital",
+        "title": "Edicion Digital"
+      },
+      "title": "Trump califica de turba a quienes entraron al Capitolio, pero insiste en el fraude de las elecciones",
+      "description": "En su visita al muro fronterizo, el presidente Trump intentó distanciarse una vez más de los sucesos del Capitolio, pero se refirió a la suspensión de sus cuentas en las redes sociales y afirmó que la libertad de expresión estaba bajo ataque. \n<b><a href=\"https://www.univision.com/noticias/inmigracion/trump-visita-tramo-del-muro-en-texas-simbolo-de-su-politica-de-tolerancia-cero\">Más información aquí</a></b>.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f85f-d6d8-adfe-faffcf730000",
+        "title": "bfd29a9114524cb2aa999d5cbf809a9f",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/dc/96/dabd4b0b4971a9de1311afabae80/bfd29a9114524cb2aa999d5cbf809a9f",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-12T16:00:10-05:00",
+      "publishDate": "2021-01-12T15:34:00-05:00",
+      "expirationDate": "2031-01-12T15:34:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/l0mM102wzPy",
+            "isFeedDialog": false,
+            "title": "Trump califica de turba a quienes entraron al Capitolio, pero insiste en el fraude de las elecciones",
+            "description": "En su visita al muro fronterizo, el presidente Trump intentó distanciarse una vez más de los sucesos del Capitolio, pero se refirió a la suspensión de sus cuentas en las redes sociales y afirmó que la libertad de expresión estaba bajo ataque. Más información aquí.",
+            "imageUrl": "https://st1.uvnimg.com/dc/96/dabd4b0b4971a9de1311afabae80/bfd29a9114524cb2aa999d5cbf809a9f",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/l0mM102wzPy",
+            "title": "Trump califica de turba a quienes entraron al Capitolio, pero insiste en el fraude de las elecciones",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/l0mM102wzPy",
+            "message": "Trump califica de turba a quienes entraron al Capitolio, pero insiste en el fraude de las elecciones"
+          },
+          "mail": {
+            "subject": "Trump califica de turba a quienes entraron al Capitolio, pero insiste en el fraude de las elecciones",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTrump califica de turba a quienes entraron al Capitolio, pero insiste en el fraude de las elecciones\n\nEncuéntralo en este enlace:http://uni.vi/l0mM102wzPy\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "00000157-0fd4-d0c4-a977-efd79c140000",
+          "uri": "https://www.univision.com/noticias/edicion-digital",
+          "name": "edicion digital",
+          "title": "Edicion Digital"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3976585",
+      "durationString": "19:32",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-12_3976585.mp4",
+      "show": null,
+      "categories": ["Television", "Shows", "Noticias"],
+      "dateCreated": "2021-01-12T15:35:11-05:00",
+      "airDate": "2021-01-12T15:00:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "13",
+      "seriesName": "Noticiero Univision",
+      "registryEntries": [
+        {
+          "assetIdentifier": "Trump califica de turba a quienes entraron al Capitolio, pero insiste en el fraude de las elecciones",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "muro fronterizo",
+        "gobierno",
+        "trump visita texas",
+        "television",
+        "inmigrantes",
+        "Donald trump",
+        "videos",
+        "texas",
+        "muro con mexico",
+        "politica",
+        "inmigracion",
+        "noticas",
+        "noticiero univision",
+        "polemica",
+        "indocumentados"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/A01/E7A/A01E7A769BF4407186BF696376AD88D9.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/8E4/3FD/8E43FD08B20D473CBD3EA86F7D631FE4.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705092780&Signature=cgIrFQKBYIOsYMLXS60EJuihACpqQW4JTZ2sn5BhJ6zz%2FOgthnae%2FGMu9D5IEW%2BjmXFiftUxeKy8WNK5IQBSaEOvDr7nKHhDs2E4DOuX3uGxr0CrfjYDBz7q67IFOzGLNtAXb%2BEhrvpchIqsWlqXHkagdCOYvX0mEgQYemiWYBHFxWNlrUjBb5vbQ7GO0E84oOE7qWRs9DaTynqE0aLoS7s%2BcAdgbIoUXSTQqgc9HdYblwRXYyBN6Ekvrre6o%2B3hqRwsalSlrGD8g5wLx1mTA9Q5mIVg4MlLdhXjkKXonCYPstxOByfFSLVjfiyPfJL6JzmD%2FhhMba3O44wQEDxbZg%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3976585/8E43FD08B20D473CBD3EA86F7D631FE4_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 4024,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/64a5c71/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F96%2Fdabd4b0b4971a9de1311afabae80%2Fbfd29a9114524cb2aa999d5cbf809a9f",
+      "shortUrl": "http://uni.vi/l0mM102wzPy",
+      "permalink": "https://www.univision.com/noticias/edicion-digital/trump-califica-de-turba-a-quienes-entraron-al-capitolio-pero-insiste-en-el-fraude-de-las-elecciones-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticierounivisionediciondigital",
+            "murofronterizo",
+            "gobierno",
+            "politica",
+            "donaldtrump",
+            "inmigracion",
+            "polemica",
+            "texas",
+            "fronteraeeuumexico"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "UV3VRJvT",
+      "primaryTag": {
+        "name": "Edicion Digital",
+        "link": "https://www.univision.com/noticias/edicion-digital"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-f85a-dafc-a7fe-ff7e9c860000",
+      "uri": "https://www.univision.com/noticias/edicion-digital/simpatizantes-y-opositores-del-presidente-trump-se-manifiestan-sobre-su-visita-a-texas-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000157-0fd4-d0c4-a977-efd79c140000",
+        "uri": "https://www.univision.com/noticias/edicion-digital",
+        "name": "edicion digital",
+        "title": "Edicion Digital"
+      },
+      "title": "Simpatizantes y opositores del presidente Trump se manifiestan sobre su visita a Texas",
+      "description": "El presidente Trump llega a Texas a visitar el muro fronterizo en medio de la turbulencia política que se vive en Washington. Esta sería la última visita de Donald Trump a la frontera como presidente de Estados Unidos. \n<b><a href=\"https://www.univision.com/noticias/inmigracion/trump-visita-tramo-del-muro-en-texas-simbolo-de-su-politica-de-tolerancia-cero\">Más información aquí</a></b>.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f85b-d6d8-adfe-fafb1dbd0000",
+        "title": "5768b9dc5c1f4bd8bf001e75e87c4863",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/61/00/56c5751443348a4a3464dc1d596b/5768b9dc5c1f4bd8bf001e75e87c4863",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-12T15:50:24-05:00",
+      "publishDate": "2021-01-12T15:13:00-05:00",
+      "expirationDate": "2031-01-12T15:13:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/RZJm102wzOT",
+            "isFeedDialog": false,
+            "title": "Simpatizantes y opositores del presidente Trump se manifiestan sobre su visita a Texas",
+            "description": "El presidente Trump llega a Texas a visitar el muro fronterizo en medio de la turbulencia política que se vive en Washington. Esta sería la última visita de Donald Trump a la frontera como presidente de Estados Unidos. Más información aquí.",
+            "imageUrl": "https://st1.uvnimg.com/61/00/56c5751443348a4a3464dc1d596b/5768b9dc5c1f4bd8bf001e75e87c4863",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/RZJm102wzOT",
+            "title": "Simpatizantes y opositores del presidente Trump se manifiestan sobre su visita a Texas",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/RZJm102wzOT",
+            "message": "Simpatizantes y opositores del presidente Trump se manifiestan sobre su visita a Texas"
+          },
+          "mail": {
+            "subject": "Simpatizantes y opositores del presidente Trump se manifiestan sobre su visita a Texas",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSimpatizantes y opositores del presidente Trump se manifiestan sobre su visita a Texas\n\nEncuéntralo en este enlace:http://uni.vi/RZJm102wzOT\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "00000157-0fd4-d0c4-a977-efd79c140000",
+          "uri": "https://www.univision.com/noticias/edicion-digital",
+          "name": "edicion digital",
+          "title": "Edicion Digital"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3976579",
+      "durationString": "3:57",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-12_3976579.mp4",
+      "show": null,
+      "categories": ["Television", "Shows", "Noticias"],
+      "dateCreated": "2021-01-12T15:14:33-05:00",
+      "airDate": "2021-01-12T15:00:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "13",
+      "seriesName": "Noticiero Univision",
+      "registryEntries": [
+        {
+          "assetIdentifier": "Simpatizantes y opositores del presidente Trump se manifiestan sobre su visita a Texas",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "muro fronterizo",
+        "gobierno",
+        "trump visita texas",
+        "television",
+        "inmigrantes",
+        "videos",
+        "texas",
+        "politica",
+        "inmigracion",
+        "Pedro Rojas",
+        "noticas",
+        "muro con méxico",
+        "noticiero univision",
+        "polemica",
+        "donald trump",
+        "indocumentados"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/E66/359/E66359C59F61477595F5B4874F529231.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/A77/27B/A7727BB43FE244998819EBE2E28A41F8.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705092466&Signature=aFjtZ4psLFutvSJjL02iEWArQhfnH4HR8mFW5FjotL8kO4T8LKGgIWAu8CXLCshUIiN1O3cTSZ%2FZ9nSaf5mjo40GF2xo6f33IJB8kVqyMYxfHXBlumtAw3AvMVbX%2BIRHH5gciRbLr8l4bN5QjNsA3qHWAW5oOMdNUG8%2Fkrk4SeBhNzh43DTJlRU3DR1XkSi65ehvZ%2B1x3OA2LWabPw83snXbyZLXxN8RjA7bMEnw2AVL%2BrPLfQJuCr5FC2vsyci0JeMKSqlgQtUYMYOha0khqX9z5X%2BoBuqL4dHGB2AerFrWSNdlnYH7gGZ%2Br8GkyRJAwOGWPY8wABC8d5jAfNK7uA%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3976579/A7727BB43FE244998819EBE2E28A41F8_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 4074,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/c95ad1b/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F61%2F00%2F56c5751443348a4a3464dc1d596b%2F5768b9dc5c1f4bd8bf001e75e87c4863",
+      "shortUrl": "http://uni.vi/RZJm102wzOT",
+      "permalink": "https://www.univision.com/noticias/edicion-digital/simpatizantes-y-opositores-del-presidente-trump-se-manifiestan-sobre-su-visita-a-texas-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticierounivisionediciondigital",
+            "murofronterizo",
+            "politica",
+            "gobierno",
+            "inmigracion",
+            "polemica",
+            "donaldtrump",
+            "fronteraeeuumexico",
+            "texas",
+            "carolinasarassa",
+            "borjavoces"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "fXO34SgQ",
+      "primaryTag": {
+        "name": "Edicion Digital",
+        "link": "https://www.univision.com/noticias/edicion-digital"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-f821-d422-ab76-faa1bb960000",
+      "uri": "https://www.univision.com/local/san-antonio-kwex/edicion-digital-san-antonio/familia-haitiana-acude-a-la-frontera-acuna-del-rio-para-reclamar-el-cuerpo-de-un-familiar-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000015c-9d70-d26b-a55d-df7cde810000",
+        "uri": "https://www.univision.com/local/san-antonio-kwex/edicion-digital-san-antonio",
+        "name": "edicion digital san antonio",
+        "title": "Edicion Digital San Antonio"
+      },
+      "title": "Familia haitiana acude a la frontera Acuña-Del Río para reclamar el cuerpo de un familiar",
+      "description": "El inmigrante haitiano y su esposa fueron encontrados ahogados flotando en el Río Bravo. Las autoridades informaron que la mujer se encontraba embarazada.",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f822-dafc-a7fe-ff365c230000",
+        "title": "dc3bd7e6cd984c8ca7721c0258807d6d",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/a5/f7/2fb935d64feca34932728a3972cf/dc3bd7e6cd984c8ca7721c0258807d6d",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-12T14:47:03-05:00",
+      "publishDate": "2021-01-12T14:41:00-05:00",
+      "expirationDate": "2031-01-12T14:41:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/hT3q102wzGo",
+            "isFeedDialog": false,
+            "title": "Familia haitiana acude a la frontera Acuña-Del Río para reclamar el cuerpo de un familiar",
+            "description": "El inmigrante haitiano y su esposa fueron encontrados ahogados flotando en el Río Bravo. Las autoridades informaron que la mujer se encontraba embarazada.",
+            "imageUrl": "https://st1.uvnimg.com/a5/f7/2fb935d64feca34932728a3972cf/dc3bd7e6cd984c8ca7721c0258807d6d",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/hT3q102wzGo",
+            "title": "Familia haitiana acude a la frontera Acuña-Del Río para reclamar el cuerpo de un familiar",
+            "via": "UnivisionSATX"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/hT3q102wzGo",
+            "message": "Familia haitiana acude a la frontera Acuña-Del Río para reclamar el cuerpo de un familiar"
+          },
+          "mail": {
+            "subject": "Familia haitiana acude a la frontera Acuña-Del Río para reclamar el cuerpo de un familiar",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFamilia haitiana acude a la frontera Acuña-Del Río para reclamar el cuerpo de un familiar\n\nEncuéntralo en este enlace:http://uni.vi/hT3q102wzGo\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://www.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0b36-ddc6-a5dd-1bb62fa10000",
+          "uri": "https://www.univision.com/local/san-antonio-kwex",
+          "name": "univision 41 san antonio",
+          "title": "Univision 41 San Antonio"
+        },
+        {
+          "uuid": "0000015c-9d70-d26b-a55d-df7cde810000",
+          "uri": "https://www.univision.com/local/san-antonio-kwex/edicion-digital-san-antonio",
+          "name": "edicion digital san antonio",
+          "title": "Edicion Digital San Antonio"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3976561",
+      "durationString": "1:34",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-12_3976561.mp4",
+      "show": null,
+      "categories": ["Noticias", "Locales"],
+      "dateCreated": "2021-01-12T14:42:39-05:00",
+      "airDate": "2021-01-12T12:30:00-05:00",
+      "rating": "TV-Y",
+      "season": 2021,
+      "series": "1561",
+      "seriesName": "Edición Digital San Antonio",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": ["Edición Digital San Antonio"],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/1A9/04E/1A904E243AE54171A9D93EF6C7B8A594.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/A66/13C/A6613C4602704A27B557AE20AED16007.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705088751&Signature=iqpqL0q8alon%2F7fDnQ1zHWhCbxsUX4Z2VvQFp6gBO2S2s%2BWMjqLVRHZ94cEqcdtzLULpx0%2FLSgpY6pPMLR%2Bbp0puMVyvR5%2FvCBqbUvMraNMHH%2FOJpM4v6p8kV2ZjNjpk4YOWDnDeQ8lZnXRyPyGzRFslHVtc1kf3o%2FiCH8%2BtxgN0J%2BT9%2BLmT7w6LYhGHnzYjn9p3DGq0YulTUHqNLvSRyEPsZ2P6SuVnhzS%2FiX1oeQnhBdqJPONYw0dx9DlqqGtQpktcXHts6wbIzfzwUAwHQVmjUz0aYsfDEPv58N3SZHeNDJszTEBPl%2FvyGUNb5RgmaIQeZHvGbMaSmY8hpcfG%2FA%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3976561/A6613C4602704A27B557AE20AED16007_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 4831,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "News",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/062af9c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa5%2Ff7%2F2fb935d64feca34932728a3972cf%2Fdc3bd7e6cd984c8ca7721c0258807d6d",
+      "shortUrl": "http://uni.vi/hT3q102wzGo",
+      "permalink": "https://www.univision.com/local/san-antonio-kwex/edicion-digital-san-antonio/familia-haitiana-acude-a-la-frontera-acuna-del-rio-para-reclamar-el-cuerpo-de-un-familiar-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/sanantonio/kwex",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "sanantonio",
+            "fronteraeeuumexico",
+            "inmigracion",
+            "ediciondigitalsanantonio"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "Wf4XyyRS",
+      "primaryTag": {
+        "name": "Edicion Digital San Antonio",
+        "link": "https://www.univision.com/local/san-antonio-kwex/edicion-digital-san-antonio"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000176-f7be-d6d8-adfe-ffffead80000",
+      "uri": "https://www.univision.com/noticias/edicion-digital/el-presidente-trump-viaja-a-texas-para-celebrar-la-construccion-de-400-millas-del-muro-fronterizo-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "00000157-0fd4-d0c4-a977-efd79c140000",
+        "uri": "https://www.univision.com/noticias/edicion-digital",
+        "name": "edicion digital",
+        "title": "Edicion Digital"
+      },
+      "title": "El presidente Trump viaja a Texas para celebrar la construcción de 400 millas del muro fronterizo",
+      "description": "Alejado del caos en Washington DC, Donald Trump planea una visita al muro fronterizo, una de sus promesas de campaña, y ha asegurado que tratará de seguir expandiendo el muro en lo que queda de su gobierno. \n<b><a href=\"https://www.univision.com/noticias/inmigracion/trump-visita-tramo-del-muro-en-texas-simbolo-de-su-politica-de-tolerancia-cero\">Más información aquí. </a></b>",
+      "image": {
+        "type": "image",
+        "uid": "00000176-f7bf-d3db-adf6-f7ffe93a0000",
+        "title": "75222e74d3b14a418850a300fdd71e81",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/0d/92/940c816a476f9e2877ff596a2dbe/75222e74d3b14a418850a300fdd71e81",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Pedro-Rojas ",
+          "image": {
+            "type": "image",
+            "uid": "0000015d-572d-dc20-a3df-5f3f59ef0000",
+            "title": "Pedro_Rojas-Univision1.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/db/ab/c12aa7ca4145bdffc9353d5fcce8/pedro-rojas-univision1.jpg",
+                "width": 612,
+                "height": 392,
+                "focusPoint": {
+                  "x": 0.4940257668308511,
+                  "y": 0.4388317817996233
+                }
+              }
+            }
+          },
+          "uri": "https://www.univision.com/temas/pedro-rojas",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/pedrorojasunivision/",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/projas_p",
+              "target": "_blank"
+            },
+            "youTubeUrl": {
+              "text": null,
+              "name": "YouTube",
+              "url": "https://www.youtube.com/user/UnivisionNoticias",
+              "target": "_blank"
+            }
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Corresponsal en Texas de Noticiero Univision",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2021-01-12T13:01:30-05:00",
+      "publishDate": "2021-01-12T12:48:00-05:00",
+      "expirationDate": "2031-01-12T12:48:00-05:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/sgL3102wzr4",
+            "isFeedDialog": false,
+            "title": "El presidente Trump viaja a Texas para celebrar la construcción de 400 millas del muro fronterizo",
+            "description": "Alejado del caos en Washington DC, Donald Trump planea una visita al muro fronterizo, una de sus promesas de campaña, y ha asegurado que tratará de seguir expandiendo el muro en lo que queda de su gobierno. Más información aquí.",
+            "imageUrl": "https://st1.uvnimg.com/0d/92/940c816a476f9e2877ff596a2dbe/75222e74d3b14a418850a300fdd71e81",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/sgL3102wzr4",
+            "title": "El presidente Trump viaja a Texas para celebrar la construcción de 400 millas del muro fronterizo",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/sgL3102wzr4",
+            "message": "El presidente Trump viaja a Texas para celebrar la construcción de 400 millas del muro fronterizo"
+          },
+          "mail": {
+            "subject": "El presidente Trump viaja a Texas para celebrar la construcción de 400 millas del muro fronterizo",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEl presidente Trump viaja a Texas para celebrar la construcción de 400 millas del muro fronterizo\n\nEncuéntralo en este enlace:http://uni.vi/sgL3102wzr4\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "00000157-0fd4-d0c4-a977-efd79c140000",
+          "uri": "https://www.univision.com/noticias/edicion-digital",
+          "name": "edicion digital",
+          "title": "Edicion Digital"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3976493",
+      "durationString": "1:39",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2031-01-12_3976493.mp4",
+      "show": null,
+      "categories": ["Television", "Shows", "Noticias"],
+      "dateCreated": "2021-01-12T12:50:49-05:00",
+      "airDate": "2021-01-12T12:00:00-05:00",
+      "rating": "TV-G",
+      "season": 2021,
+      "series": "13",
+      "seriesName": "Noticiero Univision",
+      "registryEntries": [
+        {
+          "assetIdentifier": "El presidente Trump viaja a Texas para celebrar la construcción de 400 millas del muro fronterizo",
+          "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/"
+        }
+      ],
+      "headline": null,
+      "keywords": [
+        "EEUU",
+        "Inmigración",
+        "gobierno",
+        "Donald Trump",
+        "Muro Fronterizo",
+        "television",
+        "videos",
+        "Política",
+        "Frontera EEUU México",
+        "México País",
+        "Pedro Rojas",
+        "noticas",
+        "Texas",
+        "noticiero univision",
+        "Borja Voces"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [
+        {
+          "link": "https://vmscdn-download.storage.googleapis.com/captionupl/6F8/58B/6F858B11FE9148639DDA926902EF4E19.vtt",
+          "linkQualifierFmg": {
+            "contentType": "VTT"
+          }
+        }
+      ],
+      "snapshotLinks": [
+        "https://vmscdn-download.storage.googleapis.com/iupl/00E/57F/00E57FBE8B2748FDB3910F3FD6424277.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1705082296&Signature=Ya8ORzhblU%2FPk7fXf0G%2B3erYxLAijm0anCZ3rzyGHBeoY6KY9ZR%2Ba2HiEEpiblqERwooDL4omAbbG75EPOXWFucVmMvbo25KZseShQeW7BtyenVxxOJ9%2BtnnQr7oRUhQ8R%2BU0YXfJnPVYPqRwOpxT7zDkHKVNqTS4tUkV5%2FeTHWpqh8ln%2BrXJarVJjivz2cvch%2FJDNKiIy1vTtxA%2B9MbzhTMkKYsMiCAdLvzUExQas80eGvDcuPYLmpDTj%2BOq3HIjRmxMG3kc6I0Nf%2F1qzQipPqavLMSHYwd9oQgfK%2FPM9fim8UQLBeapQtZYAs%2BSPnfjKfzNB2c7ej4uqxoBgR4lg%3D%3D",
+        "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3976493/00E57FBE8B2748FDB3910F3FD6424277_190x107.jpg"
+      ],
+      "copyrightYear": 2021,
+      "copyrightOwners": ["© 2015 Univision Communications Inc."],
+      "supplier": "Univision",
+      "videoBitrate": 3999,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "Sports",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "https://usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/d5a3116/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0d%2F92%2F940c816a476f9e2877ff596a2dbe%2F75222e74d3b14a418850a300fdd71e81",
+      "shortUrl": "http://uni.vi/sgL3102wzr4",
+      "permalink": "https://www.univision.com/noticias/edicion-digital/el-presidente-trump-viaja-a-texas-para-celebrar-la-construccion-de-400-millas-del-muro-fronterizo-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "inmigracion",
+            "politica",
+            "donaldtrump",
+            "murofronterizo",
+            "fronteraeeuumexico",
+            "gobierno",
+            "estadosunidos",
+            "borjavoces",
+            "pedrorojas",
+            "noticierounivisionediciondigital"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "jwKey": "jEKZu9to",
+      "primaryTag": {
+        "name": "Edicion Digital",
+        "link": "https://www.univision.com/noticias/edicion-digital"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000176-f72b-d968-ab77-ffef95840002",
+      "uri": "https://www.univision.com/local/san-antonio-kwex/residentes-fronterizos-se-manifestaran-contra-donald-trump",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-0b36-ddc6-a5dd-1bb62fa10000",
+        "uri": "https://www.univision.com/local/san-antonio-kwex",
+        "name": "univision 41 san antonio",
+        "title": "Univision 41 San Antonio"
+      },
+      "title": "Residentes fronterizos se manifestarán contra Trump y la supremacía blanca ",
+      "description": "Las protestas organizadas por La Union del Pueblo Entero está programada para comenzar al mediodía frente a la oficina de la entidad, a solo millas de donde se espera que Trump visite en la ciudad de Alamo.",
+      "image": {
+        "type": "image",
+        "uid": "0000015a-d393-df96-ab5a-ffbbd4ae0000",
+        "title": "Trump protesta",
+        "caption": "Varias personas que trabajan en el sector de tecnología protestaron contra el presidente Trump en Palo Alto, California el 14 de marzo de 2017.",
+        "credit": "Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/04/23/118bd05f4a3b83d581419b3928f6/gettyimages-653399070.jpg",
+            "width": 4161,
+            "height": 2807
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2021-01-12T13:36:04-05:00",
+      "publishDate": "2021-01-12T12:14:04-05:00",
+      "expirationDate": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/Ip7N102wzkG",
+            "isFeedDialog": false,
+            "title": "Residentes fronterizos se manifestarán contra Trump y la supremacía blanca ",
+            "description": "Las protestas organizadas por La Union del Pueblo Entero está programada para comenzar al mediodía frente a la oficina de la entidad, a solo millas de donde se espera que Trump visite en la ciudad de Alamo.",
+            "imageUrl": "https://st1.uvnimg.com/8f/33/0cbcb61b48f89640db90f0e027da/fa4e5865313e4ed086cff40133a8fe79",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/Ip7N102wzkG",
+            "title": "Residentes fronterizos se manifestarán contra Trump y la supremacía blanca ",
+            "via": "UnivisionSATX"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/Ip7N102wzkG",
+            "message": "Residentes fronterizos se manifestarán contra Trump y la supremacía blanca "
+          },
+          "mail": {
+            "subject": "Residentes fronterizos se manifestarán contra Trump y la supremacía blanca ",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nResidentes fronterizos se manifestarán contra Trump y la supremacía blanca \n\nEncuéntralo en este enlace:http://uni.vi/Ip7N102wzkG\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://www.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0b36-ddc6-a5dd-1bb62fa10000",
+          "uri": "https://www.univision.com/local/san-antonio-kwex",
+          "name": "univision 41 san antonio",
+          "title": "Univision 41 San Antonio"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "readTime": 3,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p><b>SAN ANTONIO, Texas.- </b>Residestes y grupos organizaciones civiles que se oponen a la política del presidente <a href=\"https://www.univision.com/temas/donald-trump\">Donald Trump</a> se manifestarán en el Valle del Río Grande contra él y la supremacía blanca en medio de su visita a la frontera de Texas con México.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "X415xSuj",
+      "dynamicPlaylist": true,
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Univision 41 San Antonio",
+        "link": "https://www.univision.com/local/san-antonio-kwex"
+      }
+    }
+  ],
+  "breakingNewsMode": false,
+  "id": "00000177-07f2-db7f-a7ff-c7f236ca0000",
+  "type": "ListWidget",
+  "commonRootSection": null
+}

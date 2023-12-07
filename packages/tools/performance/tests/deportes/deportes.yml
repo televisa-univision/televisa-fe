@@ -1,0 +1,18 @@
+config:
+  target: 'http://localhost:8080'
+  phases:
+    - duration: 600
+      arrivalRate: 1
+scenarios:
+  - name: "Deportes"
+    flow:
+      - get:
+          url: "/deportes"
+      - get:
+          url: "/deportes/futbol/liga-campeones-concacaf/guadalajara-vs-toronto-fc-liga-campeones-concacaf-2018-04-25"
+      - get:
+          url: "/deportes/futbol/liga-mx"
+      - get:
+          url: "/deportes/futbol/liga-mx-clausura/equipos"
+      - get:
+          url: "/deportes/futbol/ligas-y-torneos"

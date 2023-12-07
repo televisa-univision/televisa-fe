@@ -1,0 +1,1395 @@
+[
+  {
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "201908141741",
+        "dateReleased": "2019-08-14T17:41:25-04:00",
+        "title": {
+          "es": "TEST HLS"
+        },
+        "headline": {
+          "es": "TEST HLS"
+        },
+        "description": {
+          "es": ""
+        },
+        "language": "es",
+        "episode": {
+          "number": 0
+        },
+        "fileDuration": "live",
+        "ratings": [
+          {
+            "ratingValue": ""
+          }
+        ],
+        "snapshotLinks": [
+          {
+            "link": null
+          }
+        ],
+        "transcriptLinks": [],
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "series": {
+          "name": {
+            "es": ""
+          }
+        }
+      },
+      "photoVideoMetadata_fmg": {
+        "adConfig": {
+          "hasPreRoll": "Allow"
+        },
+        "authRequired": false,
+        "videoType": "livestream",
+        "thumbnail": "",
+        "tmsId": "",
+        "shareUrl": ""
+      }
+    }
+  },
+  {
+    "id": "univision-3884829",
+    "createdDate": "2020-07-10T03:47:36+00:00",
+    "modifiedDate": "2020-07-10T03:48:18+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3884829",
+        "dateCreated": "2020-07-10T03:14:40+00:00",
+        "dateReleased": "2020-07-10T03:13:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2030-07-10T03:13:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2020-07-10T03:00:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-G",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2020
+        },
+        "series": {
+          "name": {
+            "es": "New York"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/315"
+        },
+        "registryEntries": [
+          {
+            "assetIdentifier": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+            "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/seo/friendly-key"
+          }
+        ],
+        "description": {
+          "es": "“Es un recordatorio de que necesitamos una sociedad más equitativa y una sociedad donde las personas sean tratadas según su carácter sin importar el color”, dijo Ysabel Abreu, portavoz de la presidencia de Manhattan. Entretanto, simpatizantes del presidente Donald Trump criticaron la pieza artística."
+        },
+        "headline": {
+          "es": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump"
+        },
+        "keywords": [
+          "New York",
+          "WADO",
+          "newyorkgeo",
+          "newyorkwado",
+          "Víctor Javier Solano",
+          "pintura",
+          "arte",
+          "mural",
+          "Black Lives Matter",
+          "Trump",
+          "Manhattan",
+          "criticas"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump"
+        },
+        "transcriptLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/7DF/145/7DF14567D7AA416992BDBC5E928514B9.dfxp?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960884&Signature=Bp2iwbjma44dwYcXNT9HF5UhSvxHyMS5dcQr0hmpv0EoDo0amIzXwL4NYLJp2PZ6RO%2B02PYU5FiDTawmjtNWoJ9MM3pTuPOaXbS6IkYR78%2BZtaclYcYUjJI9UJErEr0QBjBbLytTJkfSlCqhochWgU2J%2BJDH3PvqpOb0y%2BpfERd6VXIK%2B6s4Qdjw2aZko2vh2mAMsvwpJrZvT%2BeZ5oUzvbIN3QCAij7Mf2a1X3upF4Jfl22FfrftsuUoYGCrZb3KlAhXTBW5KtGVt8Xd1EwKwyvXMnr2nhzUN8aNvlRHMme%2BXhQDeHRUQx%2FYnp7lSocwqADVcE2YZpyOnK0A16UyBw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/dfxp/es",
+            "linkQuals_fmg": {
+              "contentType": "DFXP",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/3AB/07F/3AB07F7231DD4F43B10682077E933C97.json?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960884&Signature=mEyLsTDXD7N%2FXBe6aA9MMKanPklm3AXThBJdfHbv0xGOTdjExEOn%2Fb0uB098p%2FhjIS%2FPEirU%2BhURfmYvL2%2FV3J4VtJ1Q9NJp813%2BYgMBwt89%2FVrzSyDjhT5nreUey8KQgEZGwnGmEaPW3YpqrSQ4bVHe0x2726HqS6i%2B2Mei9jHuXiOQlP4wVgvdKmN2m%2BtExH7cqdTkem3qgmUvg4NGas2Z3IQmvVpsnxFjxOXhPb1et6Wrta2epkwSF%2FwqUPKvPzdY8CgQPrtBxyhnE9t1dbGwADLVvZQnCBiuZG%2By1aWnDgSwDnfBs6CCmNHV9spsZFz%2Bznx2hJnxRF2gSIvq6w%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/json/es",
+            "linkQuals_fmg": {
+              "contentType": "JSON",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/5E6/EAA/5E6EAAD467B64A91B20E5678D33FB3A8.scc?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960884&Signature=DPRpFyI1k3ElHoXPdl1SHrE7Q6bW%2BaIozorTLptSf4PQa7FbNL0KF9NdmuWj%2FXX3oaTT5hpgtXn522KpK%2FBoBc3jwmHfu77ugZ2dxHZRfAikhQH1jWDQSnfTR1mu8K%2FercqjdO1ZWx9XojtqZsL6irAPlewteQofh2fkBHT%2FKsbpwWVDlvaYdP7N5eFkH17f6ft8VXYuUZh9KoopgQZYDo5XAzFcNy4sa9CThKFapId%2FP6z%2FL0stD6SoOJW8qKS7t1z%2B6GuPZb8yDrp4AQrKgJrl2kesQrgaonPM0BBC9fT3%2F97H5OLBWSMV%2BNe2KJwnZSjZIwufPQbomam9p7o65w%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/scc/es",
+            "linkQuals_fmg": {
+              "contentType": "SCC",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/B5A/F04/B5AF042174BB4FAF9F561C293E4B2DCD.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960884&Signature=lRdA28CmlxKH24gmMV%2BbphqVAKFVbLrs9GpIRoHRvIp%2BiMU3kag%2FUKNOJ64CcWovPs2pQHUHSklm9jsCjBR08uyeUpyQdqg9XSHvepFoJXYrWFzfQrBhHzcsX%2F2D9gex9Wxw%2BSYy%2BMGLfaPV5bMizUHaVrVeXA27hajgAdx7KvZOH13iDydFuAFu0LygdJ1xM2EZ095ry4QMJpA%2BRGaKGpobRHXiMf2Rz474vQn7m%2FX6i7uHVoGDNFQ%2BB0Yk7GMpNuJ9oBu9s%2B%2FgEVi5SAvUV%2BHQnnXeKRrGRPtgMlzcWTmEGZDH0X6y4k7Q%2B%2BTdAv1Ah4dongoPhZr5djw67XOgaw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/smpte-tt/es",
+            "linkQuals_fmg": {
+              "contentType": "SMPTE-TT",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/FD0/5F7/FD05F7B469844324A9289D9B09C4D3D7.vtt?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960884&Signature=RfCYxGyt5O4PnCXIxHEumNYJsrkRJRxBkhKxfu9o7aK%2FP61SIQfUSPk7Ju1h0i0R9rs2dquzP8Qq2iaXPVfxbFgSMP3GYojS8o9oAc5p0ULLkH8CfmwBadZar7vr4NIyUnl7DXgfTKpSSkStR0jG28ql1gqMOZTv%2B9mHCX4mYdoV%2BlZVWFnEpmFr2ARfAmHW51qfHIXuux28XgsgGP6%2FepnEvjZymbWlt2g3OzmEfzRacQZ6KW4JPHQfhbfJp2YZnpZsPEINj%2B0w6IN%2ByHvkjshADrWfb5H%2B%2BZvxSxSXDnsQTSw7yODXGyQG8XejQgWWSkgsmRnKU7thAzYoOjErng%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/vtt/es",
+            "linkQuals_fmg": {
+              "contentType": "VTT",
+              "language": "es"
+            }
+          }
+        ],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/iupl/6D7/D72/6D7D721277B143BAB0D4A1FE6AEE5F1A.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960884&Signature=xVJGt5V0zDBzbszNJZXa07io4Aj8ogubWunPSxN8BYvSD8Ti35zze48RT1vtds2hG1ice6FfXlsfFKu4bV7VhrHeJp6hR2Y1%2FHybFhMgShDwvqP869QoiKNHSNrVPwnRPb6%2FzTA4JNMQAiaA2kP0ylYtiAAimVZcqYxFtcUT0teaGBj2%2BZaJ%2FcO0AmjhpLgliYlxHmadEA7dN2yBBo0jUEdMjHtzqlRg6QwZ5ioTBvLCqcrS0RN8FLRK6oUo3SGxjgQ649mduQg9VsDe%2BT%2BumXTH15iskcQS7L3UMWIWsGoJUVLZ61OnxZT9eMeZ8FIUA0YStIbjVFKi7HIznmRScA%3D%3D",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884829/6D7D721277B143BAB0D4A1FE6AEE5F1A_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "fileDuration": 238,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 10298
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/315/20/07/09/3884829/200709_3884829_Habitantes_de_Manhattan_opinan_sobre_el_mura_1594352766_100.m3u8?Expires=1688960884&KeyName=mcpkey1&Signature=2vmMqHG6YzBFmpMdPN0GZ5Fc0Ag",
+            "frameSize": {
+              "widthPixels": 360,
+              "heightPixels": 204
+            },
+            "videoBitrate": "100",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/315/20/07/09/3884829/200709_3884829_Habitantes_de_Manhattan_opinan_sobre_el_mura_1594352766_140.m3u8?Expires=1688960884&KeyName=mcpkey1&Signature=3X55SOsPUWiN0tEYj0fBrBfkdA0",
+            "frameSize": {
+              "widthPixels": 428,
+              "heightPixels": 240
+            },
+            "videoBitrate": "140",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/315/20/07/09/3884829/200709_3884829_Habitantes_de_Manhattan_opinan_sobre_el_mura_1594352766_360.m3u8?Expires=1688960884&KeyName=mcpkey1&Signature=qZkUSs0gHAG7e3HmJIK75hDaqUY",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "360",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/315/20/07/09/3884829/200709_3884829_Habitantes_de_Manhattan_opinan_sobre_el_mura_1594352766_950.m3u8?Expires=1688960884&KeyName=mcpkey1&Signature=5f6HD-yLXewt0JMosTbfIRmZ_Ug",
+            "frameSize": {
+              "widthPixels": 856,
+              "heightPixels": 480
+            },
+            "videoBitrate": "950",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/315/20/07/09/3884829/200709_3884829_Habitantes_de_Manhattan_opinan_sobre_el_mura_1594352766_2000.m3u8?Expires=1688960884&KeyName=mcpkey1&Signature=T_s-kNkFbU10SlUyZy-nqgGZYqc",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "2000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/315/20/07/09/3884829/200709_3884829_Habitantes_de_Manhattan_opinan_sobre_el_mura_1594352766_4200.m3u8?Expires=1688960884&KeyName=mcpkey1&Signature=pnLZkZlatlHWrCE12clTb6e1CF8",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "4200",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3884829?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "News",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "jdmEnLnP",
+        "digitalType": "Clipped",
+        "primaryTag": {
+          "id": "0000014d-0712-d7c0-a1dd-ef564db40000",
+          "title": "TU CIUDAD"
+        },
+        "primaryTopic": "",
+        "categories": [
+          "Locales",
+          "Television",
+          "Noticias"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884829/6D7D721277B143BAB0D4A1FE6AEE5F1A_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3884829.xml"
+    }
+  },
+  {
+    "id": "univision-3884839",
+    "createdDate": "2020-07-10T03:39:49+00:00",
+    "modifiedDate": "2020-07-10T03:40:09+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3884839",
+        "dateCreated": "2020-07-10T03:32:41+00:00",
+        "dateReleased": "2020-07-10T03:30:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2030-07-10T03:30:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2020-07-10T03:00:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-PG",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2020
+        },
+        "series": {
+          "name": {
+            "es": "Houston"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/319"
+        },
+        "registryEntries": [],
+        "description": {
+          "es": "Autoridades en Houston también indicaron que el número de llamadas a los bomberos para avisar sobre muertes han aumentado en comparación con el año 2019 y creen que esto se deba a que el conteo de decesos relacionados al virus es mayor a lo que muestran las cifras oficiales."
+        },
+        "headline": {
+          "es": "Cifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud"
+        },
+        "keywords": [
+          "Houston",
+          "Houstongeo",
+          "KLATAmerica1010am",
+          "coronavirus",
+          "bomberos",
+          "emergencia",
+          "muertes",
+          "enfermedades"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Cifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud"
+        },
+        "transcriptLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/BA0/DC8/BA0DC8C757904E2AB525FA86EA0B522B.dfxp?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960405&Signature=cqXH8tdEWnf9PmOTh9386RIR5R8NY20NEb%2B%2FrrzROVa6aVOhmkgIkAcROMKvmQc0yCZy0nBZ%2F0y%2Bpl68FB%2Fo5ZZPK2v47B8wgRjnm4C67gyoHtlCWENl9MFGxzjdWWjXhEiWZYQly6FKsgwhCWCuFuKpdlQxEYGytE%2BMGjr4AH%2B%2BkxSD3uDZJQ6ty1Q2UK4hXK%2Fw85UUFg99ZA0BCqniORJZ%2BnmfOKHo2PeA6AgTYG2BBqqNTAnKbJNb%2FXrXJM2YsdGm4dF8UV3M9qk6TMcH4dwsWnqBUiHXRu%2FOkwcZc18ZWkslTUUT%2BpIJf%2FWR9NccjAAqRNkxn8lyvTIrkjwabA%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/dfxp/es",
+            "linkQuals_fmg": {
+              "contentType": "DFXP",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/032/CC0/032CC0641F394CA6AF4816341493E5F3.json?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960405&Signature=ltVdR1pTtVLPMBRmaqHZFAxnX6iqivisKq1vSOOVLLZFhUtO6qomDq8g6SOeoW%2FKYUfRrCMg3UJq1Ypg3eCYVEz2tp%2BjRZIZoPDqjrjg1wJ1gZ8D3wxvwzEh2CRj1XDe74dqXiodmrrAYb%2FsV2v%2BKJqiFx%2FRrKkcnHWAQEs5lU8XukbSDwS8Jgpso8bvArxKOZbXHVVLWyYCWjNKdq5MzelGEHQJ5Maf3OfOmYyi2CLM9sWk6Oa3AsnESn1R5iwiECiV0FKlvQI5XWjpkvn1XyNyud2F3ur%2FOPKbe7M1gHEDn8ncjshh0RWBXIPlS1B%2FIFHY%2FUXg06AiMIIB8F5gTw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/json/es",
+            "linkQuals_fmg": {
+              "contentType": "JSON",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/F14/E16/F14E16AC1D804D418FF5ADD17E22D2E7.scc?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960405&Signature=MQCJFBIhJ474n6YG4lQnpQCA9MNAdDX7IdVBEWb7eJmyWlcKSyFKBxPXG5X8IH%2BJU0%2BlpyPDYHD0JauXgXAfz8h4OsCVe6Yd6v%2BeC2qdFuT%2BTRV9J6kNt9HS5NkhvdDuaBsEqSAWhzK3FgW1c8iiQwHlC0jz999woKs0%2F4rljKGo%2FQdb5eYkcj7JTUBnAnwGlXb2aXpLxAnvsrjxk6CaILFuD6vYxw9Sbf%2BzjWx8bHuRAO%2FOlSk%2FIap1CAz6ab1RQtjzXN%2F9KMJLYfp6CHg6sIVoUgEkOoLQT5YvPbVo%2FB0PHlOCrrAQIZYfRYy8qBsZoFZUyYWsAjpqM4XXNhfQAg%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/scc/es",
+            "linkQuals_fmg": {
+              "contentType": "SCC",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/81D/382/81D382FCB0A04F53B542C97630A6EAC0.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960405&Signature=GoLZlVmtzoFTo8qfLR%2BPBE723xdzB2hKNdNU2K89gLEjAHSO8fAvxtyRvFRRi3W%2BEBm%2FZ4c1rCNUXiU6yuLFAidxFxnfXKgygRjDZR3M9DDOg1Ws3kNSUdJLp6K16ULYbAYN3lCql3P7gV6zqSqCOs0fBySEYx2gvVdXk2gOAqPQQ4lp%2FtylQMD00XdTiMYrOhxqPdDf2t6uYc%2BiLtm4TjUw9acXOx2dJeDGdC1hxr3i5Jr%2BYxz6OMlE%2F3tjjiRDdWHniv43erkIizawW6OUCCy0CK6mSBhWQ9NdYGCT%2Bl3D7QYaeWKLr1kMpk8HjeDXhORx%2BxmktAHG9r8neo802Q%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/smpte-tt/es",
+            "linkQuals_fmg": {
+              "contentType": "SMPTE-TT",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/captionupl/FD0/676/FD06763361ED4612A7EB2C1D694CDBA1.vtt?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960405&Signature=gCKJBGZUso8Y60tyCtyNk4onkvhoqE4pVTyep%2Fne8iSuN8AgYYlzNon9P0lzN%2FvBJDGIW9eo681aSeLWD8Zw4KiB1Q8VB0sqDC9Pz%2BwaPEo%2Bbc9E0h7mNSILm71APVhJ3DKSlg3KHP6KtQxZydqVhnjvMP3shEcH979g7myq4jFL5Eydx12vYQU0M%2FDWZ%2FGJotUUSGba1B8XajQumhfYXbJEoQNtonUMa1UDS0FjOV0Ty3V97IiITjYtXmjtvPZp3XDLt2uBuUnzrduTRPrAnIXt7hm6noJNCDwlAM%2Fn1YRVX9tSfYzm0Fj5Q9Yx8lAIP1jJxbJbWvT8XPXhotq1vA%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/vtt/es",
+            "linkQuals_fmg": {
+              "contentType": "VTT",
+              "language": "es"
+            }
+          }
+        ],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/iupl/83A/D4C/83AD4C2B8EF04048A67E7B9336C40104.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688960405&Signature=BZ6IE47%2BwMRwFzFKkLuY9x4UuTi2O2cBSXnjB9R1ZcN%2BohaOhyQWTErW8cSwcFeNucBJ4Tz5KhcYUfBhpE0zgvoXTnWzGuO8jqrrBWHttEZYKFiRoBObAAkh7n5OOjtCOBsYJyGE%2F66jMhspcWdSs7R%2BW7cBJsQUnpdUDPGYswe4PxEjid0r7%2F%2BmrTNbmJlbWXSq%2BrBNQdoHyCMLUV1hkv420SbRD%2F7vK8i27CUzRT%2Bl%2FG5wOk59GmOCXUEVDkgeOjq0PKnA%2FHGTfjBUtWE1yKnI%2B2%2BcOFSFLdwAwhfWG9n9lJbGn3Mgx3BZQjZpmZQOg89fBPK4LTSxjLJHgiHFEA%3D%3D",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884839/83AD4C2B8EF04048A67E7B9336C40104_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "fileDuration": 146,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 9385
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/319/20/07/09/3884839/200709_3884839_Cifras_bajas_de_casos_de_coronavirus_en_Texa_1594352268_100.m3u8?Expires=1688960405&KeyName=mcpkey1&Signature=tn4qwNNZ4pH1fdUMP9TM8Pwt7as",
+            "frameSize": {
+              "widthPixels": 360,
+              "heightPixels": 204
+            },
+            "videoBitrate": "100",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/319/20/07/09/3884839/200709_3884839_Cifras_bajas_de_casos_de_coronavirus_en_Texa_1594352268_140.m3u8?Expires=1688960405&KeyName=mcpkey1&Signature=N1LKrzM9aWNk4_SRHq5iL90o37c",
+            "frameSize": {
+              "widthPixels": 428,
+              "heightPixels": 240
+            },
+            "videoBitrate": "140",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/319/20/07/09/3884839/200709_3884839_Cifras_bajas_de_casos_de_coronavirus_en_Texa_1594352268_360.m3u8?Expires=1688960405&KeyName=mcpkey1&Signature=pUhXPgGrEj4cxXvkVMrXrwOfXYk",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "360",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/319/20/07/09/3884839/200709_3884839_Cifras_bajas_de_casos_de_coronavirus_en_Texa_1594352268_950.m3u8?Expires=1688960405&KeyName=mcpkey1&Signature=zgWxPXGThMlz3mS4IHcihheGO1Q",
+            "frameSize": {
+              "widthPixels": 856,
+              "heightPixels": 480
+            },
+            "videoBitrate": "950",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/319/20/07/09/3884839/200709_3884839_Cifras_bajas_de_casos_de_coronavirus_en_Texa_1594352268_2000.m3u8?Expires=1688960405&KeyName=mcpkey1&Signature=_f3Gr_WCjYRTfX9rrBiotVT4oSo",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "2000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/319/20/07/09/3884839/200709_3884839_Cifras_bajas_de_casos_de_coronavirus_en_Texa_1594352268_4200.m3u8?Expires=1688960405&KeyName=mcpkey1&Signature=mBj98P7N0e3k7aLeR7CtVd1SgfE",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "4200",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3884839?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "News",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "UMWMvf5h",
+        "digitalType": "Clipped",
+        "primaryTag": {
+          "id": "0000014d-071a-d7c0-a1dd-ef5e405a0000",
+          "title": "TU CIUDAD"
+        },
+        "primaryTopic": "",
+        "categories": [
+          "Locales",
+          "Television",
+          "Noticias"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884839/83AD4C2B8EF04048A67E7B9336C40104_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3884839.xml"
+    }
+  },
+  {
+    "id": "univision-3884821",
+    "createdDate": "2020-07-10T02:56:07+00:00",
+    "modifiedDate": "2020-07-10T02:57:01+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3884821",
+        "dateCreated": "2020-07-10T02:53:23+00:00",
+        "dateReleased": "2020-07-10T02:49:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2030-07-10T02:49:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2020-07-10T02:49:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-Y",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2020
+        },
+        "series": {
+          "name": {
+            "es": "Fútbol"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/367"
+        },
+        "registryEntries": [],
+        "description": {
+          "es": "El defensor de 21 años está en el radar del Genk de Bélgica, club que ya se comunicó con Santos."
+        },
+        "headline": {
+          "es": "Gerardo Arteaga es buscado desde el futbol europeo"
+        },
+        "keywords": [
+          "futbol",
+          "soccer",
+          "video",
+          "videos",
+          "GENK",
+          "Gerardo Arteaga",
+          "Santos Laguna"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Gerardo Arteaga es buscado desde el futbol europeo"
+        },
+        "transcriptLinks": [],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/iupl/43B/904/43B9044155B3459BBAC8F2EBF23103EA.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688957808&Signature=IrB9eSsr%2FqAtdH99Jmfr1lE%2FpH2h6GDOG8c0eF0kW9DkDaB8ukUsEnniCWPDvDln8WMVwHYRGCWOoECEUJmaX7KIFVvx5KfCuhVmjnu%2FY%2FSu4%2FiMmdi4WtNDtolYaP6xIzZ9n%2FkZP8SEVf9V9mwHQFNZLwr0oaO5fCBPIE%2Fc6xDtWLo7l5Z6POYjWnZnLXQGIiJ9oW2J1mDUerj9F%2F2M4nxoam0nLBddT%2Bwt02Izz9NjZRJ9z2D1zvV6WUMcG%2F51bmUa63QvkY0kBl2kKFc93UN9eHv1YTXbdBIgWuargcrSPr2n9FlVQyY8ICLXVNJYueGgbQGcfJy5pB9E9zbkxw%3D%3D",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884821/43B9044155B3459BBAC8F2EBF23103EA_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "TUDN"
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "TUDN.COM"
+          }
+        },
+        "fileDuration": 63,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 12378
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/367/20/07/09/3884821/200709_3884821_Gerardo_Arteaga_es_buscado_desde_el_futbol_e_1594349646_100.m3u8?Expires=1688957808&KeyName=mcpkey1&Signature=Gpj9XlIldk-u06m3PjBWeRJsP04",
+            "frameSize": {
+              "widthPixels": 360,
+              "heightPixels": 204
+            },
+            "videoBitrate": "100",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/367/20/07/09/3884821/200709_3884821_Gerardo_Arteaga_es_buscado_desde_el_futbol_e_1594349646_140.m3u8?Expires=1688957808&KeyName=mcpkey1&Signature=cZwmjzkI4Qckt5NFup-UqYAQaJs",
+            "frameSize": {
+              "widthPixels": 428,
+              "heightPixels": 240
+            },
+            "videoBitrate": "140",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/367/20/07/09/3884821/200709_3884821_Gerardo_Arteaga_es_buscado_desde_el_futbol_e_1594349646_360.m3u8?Expires=1688957808&KeyName=mcpkey1&Signature=U9VuFeAAIGeAhZxtbMCg6BO5w64",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "360",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/367/20/07/09/3884821/200709_3884821_Gerardo_Arteaga_es_buscado_desde_el_futbol_e_1594349646_950.m3u8?Expires=1688957808&KeyName=mcpkey1&Signature=9rVQ4NJxJO43FSnIIvFvpahKxV8",
+            "frameSize": {
+              "widthPixels": 856,
+              "heightPixels": 480
+            },
+            "videoBitrate": "950",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/367/20/07/09/3884821/200709_3884821_Gerardo_Arteaga_es_buscado_desde_el_futbol_e_1594349646_2000.m3u8?Expires=1688957808&KeyName=mcpkey1&Signature=tZI9PKTifVDQ5qhRlC4gw0vaxao",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "2000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/367/20/07/09/3884821/200709_3884821_Gerardo_Arteaga_es_buscado_desde_el_futbol_e_1594349646_4200.m3u8?Expires=1688957808&KeyName=mcpkey1&Signature=PHSeqX1WjlJZiCrJdggN2Tp7I6Q",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "4200",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3884821?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "Sports",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "gpyRR6gy",
+        "primaryTag": {
+          "id": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "title": "DEPORTES"
+        },
+        "primaryTopic": "",
+        "categories": [
+          "Futbol",
+          "Deportes"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884821/43B9044155B3459BBAC8F2EBF23103EA_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3884821.xml"
+    }
+  },
+  {
+    "id": "univision-3879732",
+    "createdDate": "2020-07-08T19:16:06+00:00",
+    "modifiedDate": "2020-07-08T19:27:40+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3879732",
+        "dateCreated": "2020-06-29T16:14:30+00:00",
+        "dateReleased": "2020-07-10T04:00:00+00:00",
+        "episode": {
+          "number": 81
+        },
+        "publicationEvents": [
+          {
+            "date": "2021-02-15T05:00:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2020-07-09T23:00:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-14",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 1
+        },
+        "series": {
+          "name": {
+            "es": "¿Qué Culpa Tiene Fatmagül?"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/2195"
+        },
+        "registryEntries": [
+          {
+            "assetIdentifier": "EP034691620081",
+            "registryIdentifier": "http://www.gracenote.com/tms-id",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/gracenote/tms-id"
+          },
+          {
+            "assetIdentifier": "FATM000000000",
+            "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/mcp/prg-external-id"
+          },
+          {
+            "assetIdentifier": "que-culpa-tiene-fatmagul-capitulo-81",
+            "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/seo/friendly-key"
+          },
+          {
+            "assetIdentifier": "FATM100097003",
+            "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/mcp/external-id"
+          }
+        ],
+        "description": {
+          "es": "La hermana de Kerim decide dar el primer paso y va a buscarlo a su casa para conocerlo. Fatmagul acepta estar enamorada de Kerim al verlo enfermo en su cama."
+        },
+        "headline": {
+          "es": "¿Qué Culpa Tiene Fatmagül? Capítulo 81"
+        },
+        "keywords": [
+          "¿Qué Culpa Tiene Fatmagül? Capítulo 81",
+          "Que Culpa Tiene Fatmagul",
+          "Fatmagul",
+          "Beren Saat",
+          "Engin Akyürek",
+          "Fırat Çelik",
+          "Kaan Erdogan",
+          "Engin Selim Öztürk",
+          "Kaan Taşaner",
+          "Buğra Gülsoy",
+          "novela",
+          "novela turca",
+          "capítulos completos"
+        ],
+        "language": "es",
+        "title": {
+          "es": "¿Qué Culpa Tiene Fatmagül? Capítulo 81"
+        },
+        "transcriptLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/ugcupl/149/C06/149C06A15BED49158A5254CAE524B101.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688844452&Signature=sgb9DOrJ5trCOa3GFIkkFZIGxyuulF0Ob8dfPpVd5A5qdHzqQk1fvAe3B%2F0f2EjEUO0l40xia2KKQd6GElA3pYRq2iSLQqzj2Xi72OHBo0qAH8Ok7nBfWq3QPWZKR%2BkbJlUG7qHWlVXRwJ6OFYdkjPg6pnq%2F6etZFyKsO%2Bw5SoN%2FbMI%2B21Jx27sZQTOzZ1SlH0wGUFfAceMCTZmhz0rPsjQqi4Po%2BKOASv2NiUfrqer3Zs675sPLxE3ajZvX8jMTnNmwLFHiOdG7r45UZ6B8e%2BORGP3C58ROwSPEdrii5fpZs2Mwq4tVcmf6Z4UO0Zn4%2FThQG7%2FxY4MqbktMNwuOFw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/smpte-tt/es",
+            "linkQuals_fmg": {
+              "contentType": "SMPTE-TT",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/ugcupl/149/C06/149C06A15BED49158A5254CAE524B101.xml?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688844452&Signature=sgb9DOrJ5trCOa3GFIkkFZIGxyuulF0Ob8dfPpVd5A5qdHzqQk1fvAe3B%2F0f2EjEUO0l40xia2KKQd6GElA3pYRq2iSLQqzj2Xi72OHBo0qAH8Ok7nBfWq3QPWZKR%2BkbJlUG7qHWlVXRwJ6OFYdkjPg6pnq%2F6etZFyKsO%2Bw5SoN%2FbMI%2B21Jx27sZQTOzZ1SlH0wGUFfAceMCTZmhz0rPsjQqi4Po%2BKOASv2NiUfrqer3Zs675sPLxE3ajZvX8jMTnNmwLFHiOdG7r45UZ6B8e%2BORGP3C58ROwSPEdrii5fpZs2Mwq4tVcmf6Z4UO0Zn4%2FThQG7%2FxY4MqbktMNwuOFw%3D%3D",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/dfxp/es",
+            "linkQuals_fmg": {
+              "contentType": "DFXP",
+              "language": "es"
+            }
+          },
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/tmp/synd/DBE61A580FE94236AE0F25779966C3DC",
+            "linkQualifier": "https://api.vmh.univision.com/cv/v1/codes/transcripts/vtt/es",
+            "linkQuals_fmg": {
+              "contentType": "VTT",
+              "language": "es"
+            }
+          }
+        ],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/iupl/05C/120/05C12086B4D543CB84D11598E1FA091C.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688844451&Signature=OtsFrzUztpUQaoQ8SM42f%2FAg8BKWmgGSp3Mnp0YfKkuZMoSjBMaoyET6%2BZ8963va7VEMUkEbJufTohg4SwEQzXOq%2BhuF7%2BETcU%2Fx%2BISnrnwy3T6ZIWyW9pxmeALtawPjFdi4HhcX3xAol64VHB%2Bzm7kUn%2FzxL5ib4QRmuaz5KoEIsnFHpFGXTMrRcXSKLD0pbEQaaMCfCUoUZGVCVy1mMh29XaFwahD0AU7WIRB%2BEX%2FhLttjjb4Vw7buDV4ooSuRd9AJi7FSI1SMNskkAUcI9TnlOUKuyEVeUfEs%2B%2BLhmD8PvVZvKxP8GLGQvDxMeWD32ohdKj0%2FKQipive%2BKB88bg%3D%3D",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3879732/05C12086B4D543CB84D11598E1FA091C_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "contributors": [
+          {
+            "name": {
+              "es": "Hilal Saral"
+            },
+            "roles": [
+              "Director"
+            ]
+          },
+          {
+            "name": {
+              "es": "Engin Akyürek"
+            },
+            "roles": [
+              "Actor"
+            ]
+          },
+          {
+            "name": {
+              "es": "Kaan Erdogan"
+            },
+            "roles": [
+              "Actor"
+            ]
+          },
+          {
+            "name": {
+              "es": "Kaan Tasaner"
+            },
+            "roles": [
+              "Actor"
+            ]
+          },
+          {
+            "name": {
+              "es": "Beren Saat"
+            },
+            "roles": [
+              "Actor"
+            ]
+          },
+          {
+            "name": {
+              "es": "Firat Çeli"
+            },
+            "roles": [
+              "Actor"
+            ]
+          },
+          {
+            "name": {
+              "es": "Engin Selim Öztürk"
+            },
+            "roles": [
+              "Actor"
+            ]
+          },
+          {
+            "name": {
+              "es": "Bugra Gülsoy"
+            },
+            "roles": [
+              "Actor"
+            ]
+          },
+          {
+            "name": {
+              "es": "Kerem Çatay"
+            },
+            "roles": [
+              "Producer"
+            ]
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "Kanal D"
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Kanal D"
+          }
+        },
+        "fileDuration": 2497,
+        "frameSize": {
+          "widthPixels": 1920,
+          "heightPixels": 1080
+        },
+        "videoBitrate": 146969
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "Unimas",
+        "networks": [
+          "Unimas"
+        ],
+        "videoType": "long-form",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/2195/20/06/29/3879732/200629_3879732___Que_Culpa_Tiene_Fatmagul__Capitulo_81_1594234488_100.m3u8?Expires=1688844452&KeyName=mcpkey1&Signature=4aBqKl65nqYOiiS4KjTBk5qDM7E",
+            "frameSize": {
+              "widthPixels": 360,
+              "heightPixels": 204
+            },
+            "videoBitrate": "100",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/2195/20/06/29/3879732/200629_3879732___Que_Culpa_Tiene_Fatmagul__Capitulo_81_1594234488_140.m3u8?Expires=1688844452&KeyName=mcpkey1&Signature=DjjR36MHS-781rgbTNv2fmnc14s",
+            "frameSize": {
+              "widthPixels": 428,
+              "heightPixels": 240
+            },
+            "videoBitrate": "140",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/2195/20/06/29/3879732/200629_3879732___Que_Culpa_Tiene_Fatmagul__Capitulo_81_1594234488_360.m3u8?Expires=1688844452&KeyName=mcpkey1&Signature=yd6R_ChmF8ZJtIKqUoDnSJ5Qy8Y",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "360",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/2195/20/06/29/3879732/200629_3879732___Que_Culpa_Tiene_Fatmagul__Capitulo_81_1594234488_950.m3u8?Expires=1688844452&KeyName=mcpkey1&Signature=hZkP8w0TmvfJngzMWal1Z0kiT6I",
+            "frameSize": {
+              "widthPixels": 856,
+              "heightPixels": 480
+            },
+            "videoBitrate": "950",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/2195/20/06/29/3879732/200629_3879732___Que_Culpa_Tiene_Fatmagul__Capitulo_81_1594234488_2000.m3u8?Expires=1688844452&KeyName=mcpkey1&Signature=vq9T392pL9bs2McjDMg98Qy3h_E",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "2000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/2195/20/06/29/3879732/200629_3879732___Que_Culpa_Tiene_Fatmagul__Capitulo_81_1594234488_4200.m3u8?Expires=1688844452&KeyName=mcpkey1&Signature=Fe4mffISsuMe8wK1DqGPsKf7p4M",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "4200",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3879732?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          },
+          {
+            "name": "15 day authentication rule",
+            "access": "public",
+            "match": "all",
+            "conditions": [
+              {
+                "scope": "period",
+                "value": "publish_date+0:15"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [
+          {
+            "timeSegment": 678,
+            "duration": 2
+          },
+          {
+            "timeSegment": 1014,
+            "duration": 2
+          },
+          {
+            "timeSegment": 1248,
+            "duration": 2
+          },
+          {
+            "timeSegment": 1712,
+            "duration": 2
+          },
+          {
+            "timeSegment": 2083,
+            "duration": 2
+          }
+        ],
+        "titleManagement": {
+          "tvShowSeason": "1",
+          "tvShow": "¿Qué Culpa Tiene Fatmagül? Capítulo 81"
+        },
+        "videoSubType": "",
+        "adContentType": "Entertainment",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "o0joFDyG",
+        "primaryTag": {
+          "id": "00000171-0d5e-dbc0-a9ff-3ffff4a60000",
+          "title": "SHOWS"
+        },
+        "primaryTopic": "",
+        "categories": [
+          "Drama",
+          "Romance"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3879732/05C12086B4D543CB84D11598E1FA091C_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3879732.xml"
+    }
+  },
+  {
+    "id": "univision-3884637",
+    "createdDate": "2020-07-09T22:38:55+00:00",
+    "modifiedDate": "2020-07-10T04:08:21+00:00",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "3884637",
+        "dateCreated": "2020-07-09T22:24:38+00:00",
+        "dateReleased": "2020-07-09T22:24:00+00:00",
+        "episode": {
+          "number": 0
+        },
+        "publicationEvents": [
+          {
+            "date": "2030-07-09T22:24:00+00:00",
+            "identifier": "https://schema.org/expires"
+          },
+          {
+            "date": "2020-07-09T22:00:00+00:00",
+            "identifier": "https://api.vmh.univision.com/cv/v1/codes/dates/broadcast"
+          }
+        ],
+        "ratings": [
+          {
+            "ratingValue": "TV-G",
+            "ratingSourceLink": "https://www.fcc.gov/vchip"
+          }
+        ],
+        "season": {
+          "number": 2020
+        },
+        "series": {
+          "name": {
+            "es": "Chicago"
+          },
+          "identifier": "https://api.vmh.univision.com/cv/v1/codes/series/318"
+        },
+        "registryEntries": [
+          {
+            "assetIdentifier": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago",
+            "registryIdentifier": "http://www.anvato.com/solutions/media-content-platform/",
+            "role": "https://api.vmh.univision.com/cv/v1/codes/registry-roles/seo/friendly-key"
+          }
+        ],
+        "description": {
+          "es": "El pronóstico indica que las temperaturas máximas en la Ciudad de los Vientos alcanzarán los 89 grados Fahrenheit y las mínimas los 71 grados. Se espera que el termómetro se mantenga en niveles similares durante el fin de semana."
+        },
+        "headline": {
+          "es": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago"
+        },
+        "keywords": [
+          "Chicago",
+          "univision chicago",
+          "univision chicago news",
+          "univision",
+          "univision chicago noticias",
+          "66",
+          "Chicagogeo",
+          "WRTOAmerica12am",
+          "clima",
+          "tiempo",
+          "pronostico",
+          "temperatura",
+          "medio ambiente",
+          "fenomenos naturales",
+          "meteorologia",
+          "ericka pino"
+        ],
+        "language": "es",
+        "title": {
+          "es": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago"
+        },
+        "transcriptLinks": [],
+        "snapshotLinks": [
+          {
+            "link": "https://vmscdn-download.storage.googleapis.com/iupl/ED4/678/ED4678E6E2764E928238AACE8CAD082E.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1688962093&Signature=o0GTRal6BJaUWyLiPQHpW1YPrw24E1NqQ1feFAezMKy357Sgq0I%2Fwtq0b2JNvPxbbjCelNJJ1atMcAUoA%2F598O94E%2FP1OXpRs932gbv6XLW3Wb0TN5M6%2BMJQsqsgGIre%2FsIjLtJvsLd254t06GXAjAVibFKQKabA43T8TkIY68MYcN8CJ%2BgkW6HMcddyM5H2Q%2B4LyMVoQIa4mYc0oSHhY%2BtCo5%2F2%2B8ji3RgpycOdL4a35vFTKQDuuH%2F9N3nAUfQr8bOMj23t7VapIt6CPx6xjLuBsKlHjHy5JKZcuVMZLHxcTpPiNjCxJHH87lyyGMhdy00ADgVulmY6j6YY6D2f2g%3D%3D",
+            "role": "preview"
+          },
+          {
+            "link": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884637/ED4678E6E2764E928238AACE8CAD082E_190x107.jpg",
+            "role": "rendition"
+          }
+        ],
+        "copyrightYear": 2020,
+        "copyrightOwners": [
+          {
+            "name": {
+              "es": "© 2015 Univision Communications Inc."
+            }
+          }
+        ],
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "fileDuration": 187,
+        "frameSize": {
+          "widthPixels": 1280,
+          "heightPixels": 720
+        },
+        "videoBitrate": 3968
+      },
+      "photoVideoMetadata_fmg": {
+        "company": "univision",
+        "network": "",
+        "networks": [],
+        "videoType": "clip",
+        "tvssDomain": "https://usprauth.univision.com",
+        "videoRenditions": [
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/318/20/07/09/3884637/200709_3884637_Chicago_se_prepara_para_una_manana_de_vierne_1594334251_100.m3u8?Expires=1688962093&KeyName=mcpkey1&Signature=6ENRaH3Z_v4GzryXIsLsUF5GB68",
+            "frameSize": {
+              "widthPixels": 360,
+              "heightPixels": 204
+            },
+            "videoBitrate": "100",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/318/20/07/09/3884637/200709_3884637_Chicago_se_prepara_para_una_manana_de_vierne_1594334251_140.m3u8?Expires=1688962093&KeyName=mcpkey1&Signature=sd-p5ihKXo-I-oPxXu-tCLaguYc",
+            "frameSize": {
+              "widthPixels": 428,
+              "heightPixels": 240
+            },
+            "videoBitrate": "140",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/318/20/07/09/3884637/200709_3884637_Chicago_se_prepara_para_una_manana_de_vierne_1594334251_360.m3u8?Expires=1688962093&KeyName=mcpkey1&Signature=dAvOcme4hhmu3rtm9a99fMzKP1o",
+            "frameSize": {
+              "widthPixels": 640,
+              "heightPixels": 360
+            },
+            "videoBitrate": "360",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/318/20/07/09/3884637/200709_3884637_Chicago_se_prepara_para_una_manana_de_vierne_1594334251_950.m3u8?Expires=1688962093&KeyName=mcpkey1&Signature=QrcALK8rCJVyhAzPbHhqt8eIr4E",
+            "frameSize": {
+              "widthPixels": 856,
+              "heightPixels": 480
+            },
+            "videoBitrate": "950",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/318/20/07/09/3884637/200709_3884637_Chicago_se_prepara_para_una_manana_de_vierne_1594334251_2000.m3u8?Expires=1688962093&KeyName=mcpkey1&Signature=12xtN3_CHMjDFi9IScHtxOMGaPk",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "2000",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://oiaqnocss6k3lxvnfcail63uec.gcdn.anvato.net/us/vod/318/20/07/09/3884637/200709_3884637_Chicago_se_prepara_para_una_manana_de_vierne_1594334251_4200.m3u8?Expires=1688962093&KeyName=mcpkey1&Signature=0SmcpNPLLYSVF4-Fm2x62pLsx9I",
+            "frameSize": {
+              "widthPixels": 1920,
+              "heightPixels": 1080
+            },
+            "videoBitrate": "4200",
+            "fileFormat": "m3u8-hp-v3"
+          },
+          {
+            "url": "https://tkx.apis.anvato.net/rest/v2/mcp/video/3884637?anvack=XmAa59dz3Jf17o3jIpcKapojugNdB8Ad",
+            "frameSize": {
+              "widthPixels": 1280,
+              "heightPixels": 720
+            },
+            "videoBitrate": "Variant",
+            "fileFormat": "m3u8-variant"
+          }
+        ],
+        "accessRules": [
+          {
+            "name": "US/PTO.RICO",
+            "access": "private",
+            "match": "any",
+            "conditions": [
+              {
+                "scope": "country",
+                "value": "US"
+              },
+              {
+                "scope": "country",
+                "value": "PR"
+              }
+            ]
+          }
+        ],
+        "authRequired": false,
+        "adConfig": {
+          "contextBased": "Deny",
+          "inVideo": "Allow",
+          "inStream": "Allow",
+          "hasPreRoll": "Allow",
+          "hasPostRoll": "Deny"
+        },
+        "adSlots": [],
+        "titleManagement": {
+          "tvShowSeason": "",
+          "tvShow": ""
+        },
+        "videoSubType": "",
+        "adContentType": "News",
+        "advertiser": "",
+        "is360": false,
+        "jwKey": "XaOF4LU1",
+        "digitalType": "Clipped",
+        "primaryTag": {
+          "id": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+          "title": "TU CIUDAD"
+        },
+        "primaryTopic": "",
+        "categories": [
+          "Locales",
+          "Television",
+          "Noticias"
+        ],
+        "videoRecirc": true,
+        "hasNewLabel": false,
+        "thumbnail": "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3884637/ED4678E6E2764E928238AACE8CAD082E_190x107.jpg"
+      }
+    },
+    "source": {
+      "bucket": "prd-univision-api-services-vmhmetadatabu-s3bucket-dkqqx5xgvnsb",
+      "file": "3884637.xml"
+    }
+  }
+]

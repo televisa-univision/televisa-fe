@@ -1,0 +1,1229 @@
+{
+  "settings": {
+    "type": "allvideoplaylistvideo",
+    "uid": "00000174-6aa3-db6f-a17c-eeb335900006",
+    "otherTabs": [
+      null
+    ],
+    "mainTabLabel": "TAB DEPORTES",
+    "title": "VIDEO PLAYLIST UN TAB ",
+    "titleLink": null,
+    "lazyLoaded": false
+  },
+  "analyticsData": {
+    "widget": {
+      "widget_pos": 2,
+      "widget_title": "video playlist un tab ",
+      "widget_type": "all - video playlist - video"
+    }
+  },
+  "contents": [
+    {
+      "type": "video",
+      "uid": "0000015e-20ad-d30f-a95f-edbf4d8e0000",
+      "uri": null,
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Test Test Test 333",
+      "description": "Test Test More Tests 333",
+      "image": {
+        "type": "image",
+        "uid": "00000174-2c67-d56a-a1fc-ec677ac50000",
+        "title": "3a27f918640f4a739fe194a517f29d88",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot-lower.s3.amazonaws.com/aa/02/e4c0ab19438d8d9cfbd119aa63f4/3a27f918640f4a739fe194a517f29d88",
+            "width": 512,
+            "height": 288
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/016ca40/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faa%2F02%2Fe4c0ab19438d8d9cfbd119aa63f4%2Fresizes%2F500%2F3a27f918640f4a739fe194a517f29d88",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/c6d495f/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faa%2F02%2Fe4c0ab19438d8d9cfbd119aa63f4%2F3a27f918640f4a739fe194a517f29d88",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/f54a9b6/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faa%2F02%2Fe4c0ab19438d8d9cfbd119aa63f4%2Fresizes%2F500%2F3a27f918640f4a739fe194a517f29d88",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/3f4b7eb/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faa%2F02%2Fe4c0ab19438d8d9cfbd119aa63f4%2F3a27f918640f4a739fe194a517f29d88",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/c7c3379/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faa%2F02%2Fe4c0ab19438d8d9cfbd119aa63f4%2Fresizes%2F500%2F3a27f918640f4a739fe194a517f29d88",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-08-26T16:13:32-04:00",
+      "publishDate": "2020-08-03T16:08:00-04:00",
+      "expirationDate": "2030-08-03T16:08:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3361422",
+      "durationString": "1:59",
+      "episodeNo": "0",
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2030-08-03_3361422.mp4",
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/9qIo100McXH",
+            "isFeedDialog": false,
+            "title": "Test Test Test 333",
+            "description": "Test Test More Tests 333",
+            "imageUrl": "https://uvn-brightspot-lower.s3.amazonaws.com/aa/02/e4c0ab19438d8d9cfbd119aa63f4/3a27f918640f4a739fe194a517f29d88",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/9qIo100McXH",
+            "title": "Test Test Test 333",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/9qIo100McXH",
+            "message": "Test Test Test 333"
+          },
+          "mail": {
+            "subject": "Test Test Test 333",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTest Test Test 333\n\nEncuéntralo en este enlace:http://uni.vi/9qIo100McXH\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticierounivisionediciondigital"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Noticias"
+      ],
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "0000015e-20b0-dae8-a75e-79b1c0960000",
+      "uri": null,
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Testing Video Ingestion2",
+      "description": "Testing video ingestion",
+      "image": {
+        "type": "image",
+        "uid": "00000174-2c67-d56a-a1fc-ec677a1f0000",
+        "title": "d42034b583d24bdda26bcc36e1bab914",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot-lower.s3.amazonaws.com/af/9d/c47668fb4a6b9e4ba21261daac4e/d42034b583d24bdda26bcc36e1bab914",
+            "width": 512,
+            "height": 288
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/f3a410a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faf%2F9d%2Fc47668fb4a6b9e4ba21261daac4e%2Fresizes%2F500%2Fd42034b583d24bdda26bcc36e1bab914",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/8d8eb1f/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faf%2F9d%2Fc47668fb4a6b9e4ba21261daac4e%2Fd42034b583d24bdda26bcc36e1bab914",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/2430ba6/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faf%2F9d%2Fc47668fb4a6b9e4ba21261daac4e%2Fresizes%2F500%2Fd42034b583d24bdda26bcc36e1bab914",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/0b43c2d/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faf%2F9d%2Fc47668fb4a6b9e4ba21261daac4e%2Fd42034b583d24bdda26bcc36e1bab914",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/d8613be/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Faf%2F9d%2Fc47668fb4a6b9e4ba21261daac4e%2Fresizes%2F500%2Fd42034b583d24bdda26bcc36e1bab914",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-08-26T16:13:32-04:00",
+      "publishDate": "2020-08-03T14:46:00-04:00",
+      "expirationDate": "2030-08-03T14:46:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3361420",
+      "durationString": "1:59",
+      "episodeNo": "0",
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2030-08-03_3361420.mp4",
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/kNIH100McXB",
+            "isFeedDialog": false,
+            "title": "Testing Video Ingestion2",
+            "description": "Testing video ingestion",
+            "imageUrl": "https://uvn-brightspot-lower.s3.amazonaws.com/af/9d/c47668fb4a6b9e4ba21261daac4e/d42034b583d24bdda26bcc36e1bab914",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/kNIH100McXB",
+            "title": "Testing Video Ingestion2",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/kNIH100McXB",
+            "message": "Testing Video Ingestion2"
+          },
+          "mail": {
+            "subject": "Testing Video Ingestion2",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTesting Video Ingestion2\n\nEncuéntralo en este enlace:http://uni.vi/kNIH100McXB\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticierounivisionediciondigital"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Noticias"
+      ],
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "0000016b-156c-ddbb-a3ff-1f7e41ed0000",
+      "uri": "https://uat.tudn.com/futbol/mls/tiro-desviado-de-nicolas-gaitan-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Temp Test3",
+      "description": "Temp Test3",
+      "image": {
+        "type": "image",
+        "uid": "00000173-c874-de9d-a3fb-fa74b00d0000",
+        "title": "ef630bf1c2814f2695519deaab7c331e",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot-lower.s3.amazonaws.com/d5/67/484408c94192a3f7695f70c436da/ef630bf1c2814f2695519deaab7c331e",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/e31abb7/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fd5%2F67%2F484408c94192a3f7695f70c436da%2Fresizes%2F500%2Fef630bf1c2814f2695519deaab7c331e",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/48078cc/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fd5%2F67%2F484408c94192a3f7695f70c436da%2Fresizes%2F1500%2Fef630bf1c2814f2695519deaab7c331e",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/bd07583/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fd5%2F67%2F484408c94192a3f7695f70c436da%2Fresizes%2F500%2Fef630bf1c2814f2695519deaab7c331e",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/58a16f5/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fd5%2F67%2F484408c94192a3f7695f70c436da%2Fresizes%2F1500%2Fef630bf1c2814f2695519deaab7c331e",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/3491589/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fd5%2F67%2F484408c94192a3f7695f70c436da%2Fresizes%2F500%2Fef630bf1c2814f2695519deaab7c331e",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-08-07T06:25:56-04:00",
+      "publishDate": "2020-07-24T16:07:00-04:00",
+      "expirationDate": "2030-07-24T16:07:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "unidepp56016",
+      "durationString": "1:00",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2030-07-24_unidepp56016.mp4",
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/btnN101CcSd",
+            "isFeedDialog": false,
+            "title": "Temp Test3",
+            "description": "Temp Test3",
+            "imageUrl": "https://uvn-brightspot-lower.s3.amazonaws.com/d5/67/484408c94192a3f7695f70c436da/ef630bf1c2814f2695519deaab7c331e",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/btnN101CcSd",
+            "title": "Temp Test3",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/btnN101CcSd",
+            "message": "Temp Test3"
+          },
+          "mail": {
+            "subject": "Temp Test3",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTemp Test3\n\nEncuéntralo en este enlace:http://uni.vi/btnN101CcSd\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticierounivisionediciondigital"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Noticias"
+      ],
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "0000015e-20ac-d9e9-a7fe-3eaf14290000",
+      "uri": null,
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Temp Test3",
+      "description": "Temp Test3",
+      "image": {
+        "type": "image",
+        "uid": "00000173-b52c-d55f-a77b-bdfed3af0000",
+        "title": "5d19803da70e4a1aa59c768c40af37bf",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot-lower.s3.amazonaws.com/ac/30/63fe10024a3f827a5fe0172befa3/5d19803da70e4a1aa59c768c40af37bf",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/4a47192/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fac%2F30%2F63fe10024a3f827a5fe0172befa3%2Fresizes%2F500%2F5d19803da70e4a1aa59c768c40af37bf",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/90d7d15/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fac%2F30%2F63fe10024a3f827a5fe0172befa3%2Fresizes%2F1500%2F5d19803da70e4a1aa59c768c40af37bf",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/810b9b2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fac%2F30%2F63fe10024a3f827a5fe0172befa3%2Fresizes%2F500%2F5d19803da70e4a1aa59c768c40af37bf",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/58547ed/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fac%2F30%2F63fe10024a3f827a5fe0172befa3%2Fresizes%2F1500%2F5d19803da70e4a1aa59c768c40af37bf",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/3f1ffc2/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fac%2F30%2F63fe10024a3f827a5fe0172befa3%2Fresizes%2F500%2F5d19803da70e4a1aa59c768c40af37bf",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-08-03T12:34:39-04:00",
+      "publishDate": "2020-07-24T16:07:00-04:00",
+      "expirationDate": "2030-07-24T16:07:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3361417",
+      "durationString": "1:00",
+      "episodeNo": "0",
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": "2030-07-24_3361417.mp4",
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/1hJu100McX9",
+            "isFeedDialog": false,
+            "title": "Temp Test3",
+            "description": "Temp Test3",
+            "imageUrl": "https://uvn-brightspot-lower.s3.amazonaws.com/ac/30/63fe10024a3f827a5fe0172befa3/5d19803da70e4a1aa59c768c40af37bf",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/1hJu100McX9",
+            "title": "Temp Test3",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/1hJu100McX9",
+            "message": "Temp Test3"
+          },
+          "mail": {
+            "subject": "Temp Test3",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTemp Test3\n\nEncuéntralo en este enlace:http://uni.vi/1hJu100McX9\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticierounivisionediciondigital"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Noticias"
+      ],
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000173-3613-d6d1-a177-3f3b3aec0002",
+      "uri": "https://uat.x.univision.com/noticias/diosdado-cabello-anuncia-positivo-por-coronavirus",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Diosdado Cabello anuncia positivo por coronavirus",
+      "description": "Cabello informó el jueves que se encuentra aislado para cumplir con el tratamiento indicado tras haber dado positivo en la prueba. Omar Prieto, el gobernador del estado de Zulia, también ha resultado contagiado.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3616-d6d1-a177-3f3ece780000",
+        "title": "3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+        "caption": "Diosdado Cabello, jefe de la Asamblea Nacional Constituyente (ANC) de Venezuela.",
+        "credit": "Miguel Gutiérrez/EFE",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/ab/1d/565eb9cb47838dc714fe9a92edef/3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+            "width": 900,
+            "height": 599
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/4bd5065/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fab%2F1d%2F565eb9cb47838dc714fe9a92edef%2Fresizes%2F500%2F3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/416d143/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fab%2F1d%2F565eb9cb47838dc714fe9a92edef%2F3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/0761713/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fab%2F1d%2F565eb9cb47838dc714fe9a92edef%2Fresizes%2F500%2F3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/f032273/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fab%2F1d%2F565eb9cb47838dc714fe9a92edef%2F3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/8264cb0/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fab%2F1d%2F565eb9cb47838dc714fe9a92edef%2Fresizes%2F500%2F3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T21:45:08-04:00",
+      "publishDate": "2020-07-09T21:42:44-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "readTime": null,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>El dirigente chavista <a href=\"https://www.univision.com/temas/diosdado-cabello\">Diosdado Cabello</a>, anunció este jueves que dio positivo en un test de detección de covid-19.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/czsd102irfE",
+            "isFeedDialog": false,
+            "title": "Diosdado Cabello anuncia positivo por coronavirus",
+            "description": "Cabello informó el jueves que se encuentra aislado para cumplir con el tratamiento indicado tras haber dado positivo en la prueba. Omar Prieto, el gobernador del estado de Zulia, también ha resultado contagiado.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/ab/1d/565eb9cb47838dc714fe9a92edef/3b9eb412fec57ecf9d7bbe1ac49e68ecd16cdb2aw.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/czsd102irfE",
+            "title": "Diosdado Cabello anuncia positivo por coronavirus",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/czsd102irfE",
+            "message": "Diosdado Cabello anuncia positivo por coronavirus"
+          },
+          "mail": {
+            "subject": "Diosdado Cabello anuncia positivo por coronavirus",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDiosdado Cabello anuncia positivo por coronavirus\n\nEncuéntralo en este enlace:http://uni.vi/czsd102irfE\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-35f8-d6e1-a7fb-7df90e3a0000",
+      "uri": "https://uat.x.univision.com/noticias/en-video-al-menos-una-persona-muerta-tras-el-azote-de-un-gigantesco-tornado-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "En video: Al menos una persona muerta tras el azote de un gigantesco tornado",
+      "description": "Un tornado irrumpió de repente en el condado de Otter Tail, en Minnesota, dejando al menos un muerto y varios heridos y varias casas destruidas por completo. Mas noticias aquí.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-35fb-d082-a9ff-fdfb0d740000",
+        "title": "ebd77fb522244e1081347c767a0e64fc",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/81/4d/4e02031f4127a34c7769a7269f7b/ebd77fb522244e1081347c767a0e64fc",
+            "width": 190,
+            "height": 107
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/9541dd2/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F4d%2F4e02031f4127a34c7769a7269f7b%2Febd77fb522244e1081347c767a0e64fc",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/d16fb52/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F4d%2F4e02031f4127a34c7769a7269f7b%2Febd77fb522244e1081347c767a0e64fc",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/ec98102/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F4d%2F4e02031f4127a34c7769a7269f7b%2Febd77fb522244e1081347c767a0e64fc",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/f182917/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F4d%2F4e02031f4127a34c7769a7269f7b%2Febd77fb522244e1081347c767a0e64fc",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/816e369/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F4d%2F4e02031f4127a34c7769a7269f7b%2Febd77fb522244e1081347c767a0e64fc",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T19:48:31-04:00",
+      "publishDate": "2020-07-09T19:12:00-04:00",
+      "expirationDate": "2030-07-09T19:12:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884700",
+      "durationString": "0:59",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/IXv7102ir7j",
+            "isFeedDialog": false,
+            "title": "En video: Al menos una persona muerta tras el azote de un gigantesco tornado",
+            "description": "Un tornado irrumpió de repente en el condado de Otter Tail, en Minnesota, dejando al menos un muerto y varios heridos y varias casas destruidas por completo. Mas noticias aquí.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/81/4d/4e02031f4127a34c7769a7269f7b/ebd77fb522244e1081347c767a0e64fc",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/IXv7102ir7j",
+            "title": "En video: Al menos una persona muerta tras el azote de un gigantesco tornado",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/IXv7102ir7j",
+            "message": "En video: Al menos una persona muerta tras el azote de un gigantesco tornado"
+          },
+          "mail": {
+            "subject": "En video: Al menos una persona muerta tras el azote de un gigantesco tornado",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn video: Al menos una persona muerta tras el azote de un gigantesco tornado\n\nEncuéntralo en este enlace:http://uni.vi/IXv7102ir7j\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticiasoriginaldigital",
+            "noticias"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Noticias"
+      ],
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000173-35c2-da6d-a377-bfca34500002",
+      "uri": "https://uat.x.univision.com/noticias/autoridades-creen-que-naya-rivera-murio-ahogada-y-concentran-sus-esfuerzos-en-la-recuperacion-del-cuerpo",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Autoridades creen que Naya Rivera murió ahogada y concentran sus esfuerzos en la recuperación del cuerpo",
+      "description": "La búsqueda de Naya Rivera se convirtió en un proceso de recuperación este jueves. Por medio de helicópteros, drones y vehículos todoterreno intentan localizar el cuerpo de la actriz, que desapareció en el lago el miércoles.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-35ee-d299-a377-ffff3bb30000",
+        "title": "a348f33ac45449a7b464be05b7774556",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/9c/0b/aab96e47470489546a2c547f9970/a348f33ac45449a7b464be05b7774556",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/373cfa2/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9c%2F0b%2Faab96e47470489546a2c547f9970%2Fresizes%2F500%2Fa348f33ac45449a7b464be05b7774556",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/0ba32ab/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9c%2F0b%2Faab96e47470489546a2c547f9970%2Fresizes%2F1500%2Fa348f33ac45449a7b464be05b7774556",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/866ed83/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9c%2F0b%2Faab96e47470489546a2c547f9970%2Fresizes%2F500%2Fa348f33ac45449a7b464be05b7774556",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/200bd95/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9c%2F0b%2Faab96e47470489546a2c547f9970%2Fresizes%2F1500%2Fa348f33ac45449a7b464be05b7774556",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/787ae51/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9c%2F0b%2Faab96e47470489546a2c547f9970%2Fresizes%2F500%2Fa348f33ac45449a7b464be05b7774556",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T19:57:23-04:00",
+      "publishDate": "2020-07-09T18:59:14-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "readTime": null,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Autoridades continúan este jueves con la búsqueda de la actriz Naya Rivera, parte del elenco de la serie “Glee” en un lago al sur de <a href=\"https://www.univision.com/temas/california\">California</a>, <b>luego de que su hijo de 4 años fue hallado con un chaleco salvavidas puesto dentro de un bote arrendado. </b></p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/Jotu102ir52",
+            "isFeedDialog": false,
+            "title": "Autoridades creen que Naya Rivera murió ahogada y concentran sus esfuerzos en la recuperación del cuerpo",
+            "description": "La búsqueda de Naya Rivera se convirtió en un proceso de recuperación este jueves. Por medio de helicópteros, drones y vehículos todoterreno intentan localizar el cuerpo de la actriz, que desapareció en el lago el miércoles.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/9c/0b/aab96e47470489546a2c547f9970/a348f33ac45449a7b464be05b7774556",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/Jotu102ir52",
+            "title": "Autoridades creen que Naya Rivera murió ahogada y concentran sus esfuerzos en la recuperación del cuerpo",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/Jotu102ir52",
+            "message": "Autoridades creen que Naya Rivera murió ahogada y concentran sus esfuerzos en la recuperación del cuerpo"
+          },
+          "mail": {
+            "subject": "Autoridades creen que Naya Rivera murió ahogada y concentran sus esfuerzos en la recuperación del cuerpo",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAutoridades creen que Naya Rivera murió ahogada y concentran sus esfuerzos en la recuperación del cuerpo\n\nEncuéntralo en este enlace:http://uni.vi/Jotu102ir52\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-3370-d082-a9ff-fff893db0000",
+      "uri": "https://uat.x.univision.com/noticias/en-un-minuto-trump-y-amlo-se-deshacen-en-elogios-y-evitan-hablar-en-publico-del-muro-y-la-crisis-migratoria-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "En un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria",
+      "description": "En otras noticias, buscan a la actriz Naya Rivera desaparecida en un lago de California; Trump amenaza a los gobernadores con retirarles fondos si no abren las escuelas pese al coronavirus y el gobierno propone negar asilo a personas procedentes de países con enfermedades contagiosas. Más información en UnivisionNoticias.com.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3372-d082-a9ff-fffa00a40000",
+        "title": "2055131aaec6454e811c0e1d1867d304",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/83/f0/0099dca549739767d492b009af38/2055131aaec6454e811c0e1d1867d304",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/f4fceb1/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2Ff0%2F0099dca549739767d492b009af38%2Fresizes%2F500%2F2055131aaec6454e811c0e1d1867d304",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/eaedc26/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2Ff0%2F0099dca549739767d492b009af38%2Fresizes%2F1500%2F2055131aaec6454e811c0e1d1867d304",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/846ea0c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2Ff0%2F0099dca549739767d492b009af38%2Fresizes%2F500%2F2055131aaec6454e811c0e1d1867d304",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/7804fe6/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2Ff0%2F0099dca549739767d492b009af38%2Fresizes%2F1500%2F2055131aaec6454e811c0e1d1867d304",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/da579ed/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F83%2Ff0%2F0099dca549739767d492b009af38%2Fresizes%2F500%2F2055131aaec6454e811c0e1d1867d304",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T07:59:35-04:00",
+      "publishDate": "2020-07-09T07:47:00-04:00",
+      "expirationDate": "2030-07-09T07:47:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884334",
+      "durationString": "1:13",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/hTbo102ipzk",
+            "isFeedDialog": false,
+            "title": "En un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria",
+            "description": "En otras noticias, buscan a la actriz Naya Rivera desaparecida en un lago de California; Trump amenaza a los gobernadores con retirarles fondos si no abren las escuelas pese al coronavirus y el gobierno propone negar asilo a personas procedentes de países con enfermedades contagiosas. Más información en UnivisionNoticias.com.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/83/f0/0099dca549739767d492b009af38/2055131aaec6454e811c0e1d1867d304",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/hTbo102ipzk",
+            "title": "En un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/hTbo102ipzk",
+            "message": "En un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria"
+          },
+          "mail": {
+            "subject": "En un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn un minuto: Trump y AMLO se deshacen en elogios y evitan hablar en público del muro y la crisis migratoria\n\nEncuéntralo en este enlace:http://uni.vi/hTbo102ipzk\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticiasoriginaldigital",
+            "noticias",
+            "tomaposesionamlo",
+            "lareunionnortena",
+            "casablanca"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Noticias"
+      ],
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-2c88-d299-a377-fefd87f40000",
+      "uri": "https://uat.x.univision.com/noticias/este-travieso-gato-se-tomo-el-desayuno-del-decano-de-canterbury-durante-la-transmision-de-la-oracion-matutina-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Este travieso gato se tomó el desayuno del decano de Canterbury durante la transmisión de la oración matutina",
+      "description": "Mientras se dirigía a sus fieles en el habitual mensaje matutino, Robert Willis, el decano de Canterbury, fue interrumpido por uno de sus gatos, que vive en la célebre catedral anglicana.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-3031-ddfd-a37b-b779be7a0000",
+        "title": "b24e5afd89814d76bacc0c6c5061bdd8",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/b7/bb/4431051e4e2893c68fc26cc7dec4/b24e5afd89814d76bacc0c6c5061bdd8",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/5c5a81b/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fbb%2F4431051e4e2893c68fc26cc7dec4%2Fresizes%2F500%2Fb24e5afd89814d76bacc0c6c5061bdd8",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/83cfcf7/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fbb%2F4431051e4e2893c68fc26cc7dec4%2Fresizes%2F1500%2Fb24e5afd89814d76bacc0c6c5061bdd8",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/eef59fe/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fbb%2F4431051e4e2893c68fc26cc7dec4%2Fresizes%2F500%2Fb24e5afd89814d76bacc0c6c5061bdd8",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/38051fd/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fbb%2F4431051e4e2893c68fc26cc7dec4%2Fresizes%2F1500%2Fb24e5afd89814d76bacc0c6c5061bdd8",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/339884c/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb7%2Fbb%2F4431051e4e2893c68fc26cc7dec4%2Fresizes%2F500%2Fb24e5afd89814d76bacc0c6c5061bdd8",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T16:50:32-04:00",
+      "publishDate": "2020-07-07T23:15:00-04:00",
+      "expirationDate": "2030-07-07T23:15:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3883689",
+      "durationString": "0:53",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/X52f102iiXr",
+            "isFeedDialog": false,
+            "title": "Este travieso gato se tomó el desayuno del decano de Canterbury durante la transmisión de la oración matutina",
+            "description": "Mientras se dirigía a sus fieles en el habitual mensaje matutino, Robert Willis, el decano de Canterbury, fue interrumpido por uno de sus gatos, que vive en la célebre catedral anglicana.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/b7/bb/4431051e4e2893c68fc26cc7dec4/b24e5afd89814d76bacc0c6c5061bdd8",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/X52f102iiXr",
+            "title": "Este travieso gato se tomó el desayuno del decano de Canterbury durante la transmisión de la oración matutina",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/X52f102iiXr",
+            "message": "Este travieso gato se tomó el desayuno del decano de Canterbury durante la transmisión de la oración matutina"
+          },
+          "mail": {
+            "subject": "Este travieso gato se tomó el desayuno del decano de Canterbury durante la transmisión de la oración matutina",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEste travieso gato se tomó el desayuno del decano de Canterbury durante la transmisión de la oración matutina\n\nEncuéntralo en este enlace:http://uni.vi/X52f102iiXr\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticiasoriginaldigital",
+            "noticias"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Noticias"
+      ],
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000173-2bcf-de27-a5f3-bfcf2f940002",
+      "uri": "https://uat.x.univision.com/noticias/el-cometa-neowise-podra-ser-detectado-a-simple-vista-esta-semana-y-es-el-mas-brillante-que-se-observa-en-mucho-tiempo",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "El cometa Neowise podrá ser detectado a simple vista esta semana y es el más brillante que se observa en mucho tiempo",
+      "description": "El cuerpo celeste llegará al punto más cercano de su órbita con la Tierra esta semana y será visible al amanecer y al anochecer en el hemisferio norte del continente.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2c0b-da82-a97f-ffab26dd0000",
+        "title": "50087542858_fb1ca12fd6_k.jpg",
+        "caption": "Foto del cometa Neowise publicada por la NASA.",
+        "credit": "NASA vía flickr",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/40/64/3b87234e472ca8d55bd70ade085a/50087542858-fb1ca12fd6-k.jpg",
+            "width": 2048,
+            "height": 1365,
+            "focusPoint": {
+              "x": 0.4612144274256419,
+              "y": 0.7918044297333302
+            }
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/f5d3fd3/2147483647/crop/500x281%2B0%2B51/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F40%2F64%2F3b87234e472ca8d55bd70ade085a%2Fresizes%2F500%2F50087542858-fb1ca12fd6-k.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/0815c11/2147483647/crop/1500x844%2B0%2B155/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F40%2F64%2F3b87234e472ca8d55bd70ade085a%2Fresizes%2F1500%2F50087542858-fb1ca12fd6-k.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/e479e64/2147483647/crop/500x281%2B0%2B51/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F40%2F64%2F3b87234e472ca8d55bd70ade085a%2Fresizes%2F500%2F50087542858-fb1ca12fd6-k.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/8e2740f/2147483647/crop/1500x844%2B0%2B156/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F40%2F64%2F3b87234e472ca8d55bd70ade085a%2Fresizes%2F1500%2F50087542858-fb1ca12fd6-k.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/005e76f/2147483647/crop/500x283%2B0%2B49/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F40%2F64%2F3b87234e472ca8d55bd70ade085a%2Fresizes%2F500%2F50087542858-fb1ca12fd6-k.jpg",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-08T11:58:05-04:00",
+      "publishDate": "2020-07-07T21:25:15-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "readTime": null,
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Neowise, un cometa recientemente descubierto, <b> podrá verse a simple vista durante esta semana. Se trata del primero visible de este año. </b></p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/p04v102ilT4",
+            "isFeedDialog": false,
+            "title": "El cometa Neowise podrá ser detectado a simple vista esta semana y es el más brillante que se observa en mucho tiempo",
+            "description": "El cuerpo celeste llegará al punto más cercano de su órbita con la Tierra esta semana y será visible al amanecer y al anochecer en el hemisferio norte del continente.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/40/64/3b87234e472ca8d55bd70ade085a/50087542858-fb1ca12fd6-k.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/p04v102ilT4",
+            "title": "El cometa Neowise podrá ser detectado a simple vista esta semana y es el más brillante que se observa en mucho tiempo",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/p04v102ilT4",
+            "message": "El cometa Neowise podrá ser detectado a simple vista esta semana y es el más brillante que se observa en mucho tiempo"
+          },
+          "mail": {
+            "subject": "El cometa Neowise podrá ser detectado a simple vista esta semana y es el más brillante que se observa en mucho tiempo",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEl cometa Neowise podrá ser detectado a simple vista esta semana y es el más brillante que se observa en mucho tiempo\n\nEncuéntralo en este enlace:http://uni.vi/p04v102ilT4\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    }
+  ],
+  "breakingNewsMode": false,
+  "id": "00000174-6aa3-db6f-a17c-eeb335900006",
+  "type": "AllVideoPlaylistVideo",
+  "commonRootSection": {
+    "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+    "uri": "https://uat.x.univision.com/noticias",
+    "name": "noticias univision",
+    "title": "Noticias Univision"
+  }
+}

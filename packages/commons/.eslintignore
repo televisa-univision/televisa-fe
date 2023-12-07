@@ -1,0 +1,10 @@
+config/*
+node_modules/*
+build/*
+dist/*
+esm/*
+cjs/*
+coverage/*
+docs/*
+src/assets/icons/amp/processed.js
+src/webpack/loaders.js

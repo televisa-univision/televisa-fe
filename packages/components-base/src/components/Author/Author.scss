@@ -1,0 +1,39 @@
+.author {
+  color: $darker-grey;
+  display: block;
+  text-transform: uppercase;
+  a {
+    color: $darker-grey;
+    &:hover {
+      color: $grey;
+    }
+  }
+}
+
+.small {
+  font-size: rem(11px);
+  line-height: rem(13px);
+}
+
+ .regular {
+  font-size: rem(14px);
+  line-height: rem(17px);
+}
+
+ .large {
+  font-size: rem(16px);
+  line-height: rem(19px);
+}
+
+.name {
+  color: $darker-grey;
+}
+
+.company {
+  color: $grey-black;
+}
+
+.separator {
+  color: $darker-grey;
+  padding: 0 5px;
+}

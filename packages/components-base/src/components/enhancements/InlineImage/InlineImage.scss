@@ -1,0 +1,35 @@
+.inlineImage {
+  margin-bottom: 1rem;
+
+  &.withCaption {
+    margin-bottom: 1rem;
+  }
+
+  .left &, .right & {
+    background: $white;
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  .left,
+  .right {
+    max-width: 310px;
+    background: url($striped-background);
+  }
+
+  .left {
+    float: left;
+    margin-right: 40px;
+    padding: 0 10px 10px 0;
+  }
+
+  .right {
+     float: right;
+     margin-left: 40px;
+     padding: 0 0 10px 10px;
+  }
+}
+
+.offset_md_2 {
+  @include make-col-offset(2, "md");
+}

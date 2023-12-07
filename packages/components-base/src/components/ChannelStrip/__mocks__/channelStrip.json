@@ -1,0 +1,2635 @@
+{
+  "type": "tagnode",
+  "uid": "00000150-5e48-debe-ad50-dff93dd20000",
+  "uri": "https://www.univision.com/temas/nu-edicion-nocturna",
+  "vertical": null,
+  "title": "NU Edición Nocturna",
+  "description": "Cubrimiento detallado del juicio al secreto denunciante presidente Trump y la entrega de los documentos de la senadora Pelosi",
+  "cardLabel": null,
+  "updateDate": "2018-08-08T11:19:59-04:00",
+  "publishDate": "2015-10-12T19:00:53-04:00",
+  "expirationDate": "3000-01-01T00:00:00-05:00",
+  "timestamp": "12:00 - 1:30 PM",
+  "adSettings": {},
+  "tracking": {},
+  "analyticsData": {
+    "apps": {
+      "common": {
+        "adtag_value": "section_global/temas",
+        "all_tags": [],
+        "content_created_date": "2015-10-12",
+        "content_id": "00000150-5e48-debe-ad50-dff93dd20000",
+        "content_type": "univisiontag",
+        "title": "nu edicion nocturna"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetid": "00000150-5e48-debe-ad50-dff93dd20000",
+          "section": "univisiontag",
+          "segB": "noticias",
+          "type": "static"
+        },
+        "contentSpecific": {
+          "segB": "noticias"
+        }
+      }
+    },
+    "web": {
+      "common": {
+        "adtag_value": "section_global/temas",
+        "all_tags": [],
+        "content_created_date": "2015-10-12",
+        "content_id": "00000150-5e48-debe-ad50-dff93dd20000",
+        "content_modified_date": "2018-08-08",
+        "content_type": "univisiontag",
+        "permalink": "https://www.univision.com/temas/nu-edicion-nocturna",
+        "platform": "website",
+        "seo_optimized": "false",
+        "title": "nu edicion nocturna",
+        "uci_division": "news"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetid": "00000150-5e48-debe-ad50-dff93dd20000",
+          "section": "univisiontag",
+          "segB": "noticias",
+          "type": "static"
+        },
+        "contentSpecific": {
+          "segB": "noticias"
+        }
+      }
+    }
+  },
+  "metaTagData": {
+    "openGraph": {
+      "type": null,
+      "title": "NU Edición Nocturna",
+      "description": "NU Edición Nocturna",
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/3522223/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+      "url": "https://www.univision.com/temas/nu-edicion-nocturna",
+      "siteName": "Univision"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "NU Edición Nocturna",
+      "description": "NU Edición Nocturna",
+      "creator": null,
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/3522223/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg"
+    },
+    "facebook": {
+      "pages": null
+    }
+  },
+  "seo": {
+    "title": "NU Edición Nocturna: Últimas noticias, videos y fotos de NU Edición Nocturna | Univision",
+    "description": "Últimas noticias de NU Edición Nocturna. Mantente informado con las últimas noticias, videos y fotos de NU Edición Nocturna que te brinda Univision | Univision",
+    "canonicalUrl": "https://www.univision.com/temas/nu-edicion-nocturna",
+    "keywords": null,
+    "robots": [],
+    "ld_json": null,
+    "news_keywords": ["NU Edición Nocturna"]
+  },
+  "widgets": [
+    {
+      "settings": {
+        "type": "gridwidget",
+        "uid": "$-1996878261",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false,
+        "seeMoreLink": null
+      },
+      "analyticsData": {
+        "widget": {
+          "widget_pos": 1,
+          "widget_title": "no title - 00000170-63df-d3be-a1f9-63ff61cb0001",
+          "widget_type": "grid widget"
+        }
+      },
+      "contents": [
+        {
+          "type": "livestream",
+          "uid": "0000015d-f5d0-de2c-a57f-f5d4d5660000",
+          "uri": "https://uat.x.univision.com/test/univision-24-7-en-vivo-ssl-test-livestream",
+          "vertical": "Test",
+          "parent": {
+            "uuid": "00000150-6167-d892-af79-e56f9f0b0000",
+            "uri": "https://uat.x.univision.com/test",
+            "name": "test navigation section ",
+            "title": "TEST Navigation Section "
+          },
+          "title": "Univision 24/7 En Vivo SSL TEST",
+          "description": "",
+          "image": {
+            "type": "image",
+            "uid": "00000168-8769-dbde-ade8-efff9df80001",
+            "title": "En%2520Vivo%2520Banner.png",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uat2.x.univision.com/dims4/default/d08b3fe/2147483647/strip/true/thumbnail/376x212/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc9%2Fdc%2F687fce02432d89b0ae0a5a7089a5%2F6971b1c1d1294dfa97b12cbf02f66653",
+                "width": 1600,
+                "height": 900
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": "EN VIVO",
+          "updateDate": "2020-03-27T12:38:39-04:00",
+          "publishDate": "2017-08-18T10:49:50-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "hierarchy": [
+            "{name: \"test navigation section \", title: \"TEST Nav…}"
+          ],
+          "digitalChannelSchedule": [
+            {
+              "title": "First program",
+              "description": "First program description",
+              "live": true,
+              "days": [
+                "Monday",
+                "Thursday",
+                "Friday",
+                "Sunday",
+                "Wednesday",
+                "Tuesday",
+                "Saturday"
+              ],
+              "timeZone": "US/Eastern",
+              "startTime": "04:00",
+              "endTime": "12:00"
+            },
+            {
+              "title": "Second program",
+              "description": "Second program Description",
+              "live": false,
+              "days": [
+                "Monday",
+                "Thursday",
+                "Friday",
+                "Sunday",
+                "Wednesday",
+                "Tuesday",
+                "Saturday"
+              ],
+              "timeZone": "US/Eastern",
+              "startTime": "12:00",
+              "endTime": "23:00"
+            }
+          ],
+          "livestreamId": "RheXVrdDp6Bp--pfczurhQd3IWnm8IBx",
+          "autoPlay": false,
+          "tvssUrl": "auth.univision.com",
+          "mainImage": "https://uvn-brightspot.s3.amazonaws.com/32/6c/0ce891514878b1bd00100a1eae10/En%252520Vivo%252520Banner.png",
+          "unauthenticatedVideoTvssUrl": "https://auth.univision.com/api/v1/video-auth/neulion-url-signature-token",
+          "hlsRenditionUrl": "https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_ipad.m3u8",
+          "liveStreamType": null,
+          "sharing": {
+            "options": "{facebook: {…}, mail: {…}, twitter: {…}, whatsapp: …}"
+          },
+          "active": true,
+          "auth": true,
+          "primaryTag": {
+            "name": "TEST Navigation Section ",
+            "link": "https://uat.x.univision.com/test"
+          }
+        },
+        {
+          "type": "vixplayer",
+          "uid": "00000183-9e51-df44-a783-fedd908e0000",
+          "uri": null,
+          "vertical": "Local",
+          "parent": null,
+          "title": "EPG Test",
+          "description": null,
+          "image": null,
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2022-10-13T11:34:32-04:00",
+          "publishDate": "2022-10-03T10:50:28-04:00",
+          "expirationDate": null,
+          "sharing": null,
+          "hierarchy": [],
+          "featuredTags": [],
+          "disableReactions": false,
+          "digitalChannelSchedule": [
+            {
+              "title": "Noticiero Matutino Nueva York",
+              "description": "Noticiero Matutino Nueva York",
+              "live": false,
+              "days": [
+                "Monday",
+                "Thursday",
+                "Friday",
+                "Sunday",
+                "Wednesday",
+                "Tuesday",
+                "Saturday"
+              ],
+              "timeZone": "US/Eastern",
+              "startTime": "01:00",
+              "endTime": "02:00"
+            },
+            {
+              "title": "La Voz de la Mañana",
+              "description": "La Voz de la Mañana",
+              "live": true,
+              "days": [
+                "Monday",
+                "Thursday",
+                "Friday",
+                "Sunday",
+                "Wednesday",
+                "Tuesday",
+                "Saturday"
+              ],
+              "timeZone": "US/Eastern",
+              "startTime": "19:00",
+              "endTime": "21:00"
+            }
+          ],
+          "url": {
+            "href": "https://vix.com/es-es/embed/channel:mcp:callsign:frequancy-News-24-7?embed=core",
+            "target": "_blank",
+            "text": null,
+            "uid": "00000183-a3c7-d466-a5ab-a3efc05f0000"
+          }
+        }
+      ],
+      "id": "00000170-63df-d3be-a1f9-63ff61cb0000",
+      "type": "GridWidget",
+      "commonRootSection": {
+        "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+        "uri": "https://www.univision.com/shows",
+        "name": "shows",
+        "title": "Shows"
+      }
+    },
+    {
+      "settings": {
+        "type": "listwidget",
+        "uid": "$597407220",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "analyticsData": {
+        "widget": {
+          "widget_pos": 2,
+          "widget_title": "no title - 00000170-63df-d3be-a1f9-63ff61d40002",
+          "widget_type": "list widget"
+        }
+      },
+      "contents": [
+        {
+          "type": "video",
+          "uid": "00000170-610f-d6dc-a1f6-f11f809e0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/detienen-a-dos-sospechosos-en-conexion-con-la-desaparicion-y-el-asesinato-de-una-nina-en-mexico-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Edición Digital Miami",
+          "description": "Edición Digital Miami",
+          "image": {
+            "type": "image",
+            "uid": "00000170-610f-d3be-a1f9-636fad890000",
+            "title": "8912fb34fbb34eeda0f8cdf848f646a0",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/dc/c5/08f06939484aa2818b55d2877482/8912fb34fbb34eeda0f8cdf848f646a0",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Ivan Macias",
+              "image": {
+                "type": "image",
+                "uid": "0000015b-9c74-d657-a3fb-dcf4d28b0000",
+                "title": "Ivan Macias",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/aa/1a/8f09bdca4105a5c85e18f8385df0/ivan-macias.jpeg",
+                    "width": 500,
+                    "height": 435
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/ivan-macias",
+              "socialNetworks": {
+                "facebookUrl": {
+                  "text": null,
+                  "name": "Facebook",
+                  "url": "https://www.facebook.com/ivanmaciasnews/?ref=aymt_homepage_panel",
+                  "target": "_blank"
+                },
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/ivanmaciasnews",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/channel/UC9SUMV0oYm0XK9H-c3GmKaQ",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal en México de Primer Impacto",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-20T00:28:00-05:00",
+          "publishDate": "2020-02-19T23:50:00-05:00",
+          "expirationDate": "2030-02-18T23:50:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3819751",
+          "durationString": "2:08",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-19_3819751.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/HELl102ansu",
+                "isFeedDialog": false,
+                "title": "Detienen a dos sospechosos en conexión con la desaparición y el asesinato de una niña en México",
+                "description": "Las autoridades informaron que fueron arrestadas dos personas sospechosas del feminicidio de Fátima, la pequeña de 7 años que fue abusada sexualmente, torturada y cuyo cuerpo fue hallado en una bolsa. Las detenciones se realizaron este miércoles en una población del Estado de México, cerca de la capital. Vea más de esta noticia.",
+                "imageUrl": "https://st1.uvnimg.com/dc/c5/08f06939484aa2818b55d2877482/8912fb34fbb34eeda0f8cdf848f646a0",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/HELl102ansu",
+                "title": "Detienen a dos sospechosos en conexión con la desaparición y el asesinato de una niña en México",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/HELl102ansu",
+                "message": "Detienen a dos sospechosos en conexión con la desaparición y el asesinato de una niña en México"
+              },
+              "mail": {
+                "subject": "Detienen a dos sospechosos en conexión con la desaparición y el asesinato de una niña en México",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDetienen a dos sospechosos en conexión con la desaparición y el asesinato de una niña en México\n\nEncuéntralo en este enlace:http://uni.vi/HELl102ansu\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-5c2d-dba8-af75-5e3dbbf60000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/eeuu-sanciona-a-una-filial-de-la-petrolera-rusa-rosneft-por-apoyar-al-regimen-de-nicolas-maduro-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "EEUU sanciona a una filial de la petrolera rusa Rosneft por apoyar al régimen de Nicolás Maduro",
+          "description": "La medida del Departamento de Tesoro busca asfixiar las arcas del gobierno venezolano dado que la comercialización de petróleo representa cerca del 95% de sus exportaciones. En concreto, la sanción congela los activos en Estados Unidos de Rosneft Trading y de su presidente Didier Casimiro. \n<b><a href=\"https://www.univision.com/noticias/america-latina/trump-aumenta-la-presion-sobre-maduro-y-sanciona-a-petrolera-rusa-por-camuflar-el-crudo-venezolano\">Vea más de esta noticia</a></b>.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-5c2d-d4e9-a577-feffe7850000",
+            "title": "b3d8e076af1a49a0a814546ded81f88c",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/04/56/da69f81b4be1a94d9f3276aabb71/b3d8e076af1a49a0a814546ded81f88c",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Janet Rodriguez",
+              "image": {
+                "type": "image",
+                "uid": "0000015b-9c67-d866-a57b-dff7b55e0000",
+                "title": "Jsnet Rodriguez",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/a0/5f/2aa2fba844f9ade55ed4ea767e8c/janrodrigueztv.jpeg.256x256_q100_crop-smart.jpg",
+                    "width": 256,
+                    "height": 256,
+                    "focusPoint": {
+                      "x": 0.62890625,
+                      "y": 0.53515625
+                    }
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/janet-rodriguez",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/janrodrigueztv",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/user/UnivisionNoticias",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal en la Casa Blanca de Noticiero Univision",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-19T01:43:04-05:00",
+          "publishDate": "2020-02-18T23:58:00-05:00",
+          "expirationDate": "2030-02-17T23:58:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3819135",
+          "durationString": "2:07",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-18_3819135.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/qlQY102af0f",
+                "isFeedDialog": false,
+                "title": "EEUU sanciona a una filial de la petrolera rusa Rosneft por apoyar al régimen de Nicolás Maduro",
+                "description": "La medida del Departamento de Tesoro busca asfixiar las arcas del gobierno venezolano dado que la comercialización de petróleo representa cerca del 95% de sus exportaciones. En concreto, la sanción congela los activos en Estados Unidos de Rosneft Trading y de su presidente Didier Casimiro. Vea más de esta noticia.",
+                "imageUrl": "https://st1.uvnimg.com/04/56/da69f81b4be1a94d9f3276aabb71/b3d8e076af1a49a0a814546ded81f88c",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/qlQY102af0f",
+                "title": "EEUU sanciona a una filial de la petrolera rusa Rosneft por apoyar al régimen de Nicolás Maduro",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/qlQY102af0f",
+                "message": "EEUU sanciona a una filial de la petrolera rusa Rosneft por apoyar al régimen de Nicolás Maduro"
+              },
+              "mail": {
+                "subject": "EEUU sanciona a una filial de la petrolera rusa Rosneft por apoyar al régimen de Nicolás Maduro",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEEUU sanciona a una filial de la petrolera rusa Rosneft por apoyar al régimen de Nicolás Maduro\n\nEncuéntralo en este enlace:http://uni.vi/qlQY102af0f\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-5c36-dba8-af75-5e3766430000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/gobierno-de-trump-anuncia-que-se-saltara-10-leyes-contractuales-para-acelerar-la-construccion-del-muro-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Gobierno de Trump anuncia que se saltará 10 leyes contractuales para acelerar la construcción del muro",
+          "description": "El secretario interino del Departamento de Seguridad Nacional (DHS), Chad Wolf, dijo que la decisión está basada en la autoridad de una ley de 2015 que otorga amplios poderes. Además, recalcó que el proyecto es financiado con los fondos de su departamento y el de Defensa, un socio clave.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-5c36-da92-a374-7f3694310000",
+            "title": "c71de82044c54a3e968a46d70da9cd40",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/2b/7d/d0926dd44f94b796ba129bce8c30/c71de82044c54a3e968a46d70da9cd40",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Claudia Uceda",
+              "image": {
+                "type": "image",
+                "uid": "0000016a-7a99-d905-a36a-7afdd6c70000",
+                "title": "CLAUDIA BIOGRAFIA PIC.jpg",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/5d/65/4f7f12264d958017839f6eaf4b31/claudia-biografia-pic.jpg",
+                    "width": 571,
+                    "height": 506
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/claudia-uceda",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/claudiauceda",
+                  "target": "_blank"
+                },
+                "youTubeUrl": null
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal de Univision Noticias",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-19T01:51:43-05:00",
+          "publishDate": "2020-02-18T23:52:00-05:00",
+          "expirationDate": "2030-02-17T23:52:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3819131",
+          "durationString": "1:55",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-18_3819131.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/Tu9e102af1g",
+                "isFeedDialog": false,
+                "title": "Gobierno de Trump anuncia que se saltará 10 leyes contractuales para acelerar la construcción del muro",
+                "description": "El secretario interino del Departamento de Seguridad Nacional (DHS), Chad Wolf, dijo que la decisión está basada en la autoridad de una ley de 2015 que otorga amplios poderes. Además, recalcó que el proyecto es financiado con los fondos de su departamento y el de Defensa, un socio clave.",
+                "imageUrl": "https://st1.uvnimg.com/2b/7d/d0926dd44f94b796ba129bce8c30/c71de82044c54a3e968a46d70da9cd40",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/Tu9e102af1g",
+                "title": "Gobierno de Trump anuncia que se saltará 10 leyes contractuales para acelerar la construcción del muro",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/Tu9e102af1g",
+                "message": "Gobierno de Trump anuncia que se saltará 10 leyes contractuales para acelerar la construcción del muro"
+              },
+              "mail": {
+                "subject": "Gobierno de Trump anuncia que se saltará 10 leyes contractuales para acelerar la construcción del muro",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nGobierno de Trump anuncia que se saltará 10 leyes contractuales para acelerar la construcción del muro\n\nEncuéntralo en este enlace:http://uni.vi/Tu9e102af1g\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-5c1b-dba8-af75-5e1bddd80001",
+          "uri": "https://www.univision.com/shows/noticiero-univision/greyhound-no-esta-obligada-a-permitir-redadas-migratorias-en-sus-autobuses-segun-un-documento-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Greyhound no está obligada a permitir redadas migratorias en sus autobuses, según un documento",
+          "description": "Un memorando interno de la Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP), obtenido por The Associated Press, contradice los argumentos que ha dado la compañía al insistir que la ley federal le exige permitir los controles de los agentes de la Patrulla Fronteriza en sus vehículos. \n<b><a href=\"https://www.univision.com/noticias/inmigracion/greyhound-seguira-permitiendo-que-la-patrulla-fronteriza-le-pida-papeles-a-sus-pasajeros\">Vea más de esta noticia</a></b>.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-5c1c-dba8-af75-5e1d13900000",
+            "title": "7bf9227e3d66459a8e1d46dc3179a1d4",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/30/6b/156651fe4b73ae1216299ea63739/7bf9227e3d66459a8e1d46dc3179a1d4",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Juan Carlos Gonzalez",
+              "image": {
+                "type": "image",
+                "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+                "title": "Univision Fallback Image",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                    "width": 1200,
+                    "height": 630
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/juan-carlos-gonzalez",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/juancarlosonair",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "http://www.univision.com/shows/noticiero-univision",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal en California de Noticiero Univision",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-19T01:23:41-05:00",
+          "publishDate": "2020-02-18T23:48:00-05:00",
+          "expirationDate": "2030-02-17T23:48:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3819128",
+          "durationString": "2:00",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-18_3819128.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/1DJI102aeYW",
+                "isFeedDialog": false,
+                "title": "Greyhound no está obligada a permitir redadas migratorias en sus autobuses, según un documento",
+                "description": "Un memorando interno de la Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP), obtenido por The Associated Press, contradice los argumentos que ha dado la compañía al insistir que la ley federal le exige permitir los controles de los agentes de la Patrulla Fronteriza en sus vehículos. Vea más de esta noticia.",
+                "imageUrl": "https://st1.uvnimg.com/30/6b/156651fe4b73ae1216299ea63739/7bf9227e3d66459a8e1d46dc3179a1d4",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/1DJI102aeYW",
+                "title": "Greyhound no está obligada a permitir redadas migratorias en sus autobuses, según un documento",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/1DJI102aeYW",
+                "message": "Greyhound no está obligada a permitir redadas migratorias en sus autobuses, según un documento"
+              },
+              "mail": {
+                "subject": "Greyhound no está obligada a permitir redadas migratorias en sus autobuses, según un documento",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nGreyhound no está obligada a permitir redadas migratorias en sus autobuses, según un documento\n\nEncuéntralo en este enlace:http://uni.vi/1DJI102aeYW\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-5c0b-d6dc-a1f6-dc1bcff40000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/trump-conmuta-la-sentencia-de-una-mujer-de-origen-cubano-condenada-por-fraude-al-medicare-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Trump conmuta la sentencia de una mujer de origen cubano condenada por fraude al Medicare",
+          "description": "Los padres de Judith Negrón, quien fue sentenciada a 35 años de cárcel en 2011, le confirmaron la noticia a través de una llamada telefónica y, en medio de lágrimas, celebraron el próximo reencuentro con su hija, que permanece detenida en una prisión de Florida.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-5c0b-d4e9-a577-fedbfb420000",
+            "title": "a9c50516f54d4338b30e895894532b2e",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/c5/ae/ad3b225b4f07a1732e2e8a1a645c/a9c50516f54d4338b30e895894532b2e",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Galo Arellano",
+              "image": {
+                "type": "image",
+                "uid": "0000015d-7658-de57-a5dd-ff5ffabd0000",
+                "title": "8.jpg",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/87/9a/2dad71d24531aa3af6f6a9b622b5/8.jpg",
+                    "width": 2000,
+                    "height": 2000,
+                    "focusPoint": {
+                      "x": 0.547,
+                      "y": 0.426
+                    }
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/galo-arellano",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/galoecuador",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/user/UnivisionNoticias",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal de Noticiero Univision",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-19T01:05:14-05:00",
+          "publishDate": "2020-02-18T23:46:00-05:00",
+          "expirationDate": "2030-02-17T23:46:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3819124",
+          "durationString": "2:30",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-18_3819124.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/Zopu102aeXI",
+                "isFeedDialog": false,
+                "title": "Trump conmuta la sentencia de una mujer de origen cubano condenada por fraude al Medicare",
+                "description": "Los padres de Judith Negrón, quien fue sentenciada a 35 años de cárcel en 2011, le confirmaron la noticia a través de una llamada telefónica y, en medio de lágrimas, celebraron el próximo reencuentro con su hija, que permanece detenida en una prisión de Florida.",
+                "imageUrl": "https://st1.uvnimg.com/c5/ae/ad3b225b4f07a1732e2e8a1a645c/a9c50516f54d4338b30e895894532b2e",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/Zopu102aeXI",
+                "title": "Trump conmuta la sentencia de una mujer de origen cubano condenada por fraude al Medicare",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/Zopu102aeXI",
+                "message": "Trump conmuta la sentencia de una mujer de origen cubano condenada por fraude al Medicare"
+              },
+              "mail": {
+                "subject": "Trump conmuta la sentencia de una mujer de origen cubano condenada por fraude al Medicare",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTrump conmuta la sentencia de una mujer de origen cubano condenada por fraude al Medicare\n\nEncuéntralo en este enlace:http://uni.vi/Zopu102aeXI\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-5bec-dba8-af75-5bfdf34f0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/boy-scouts-de-eeuu-se-declara-en-bancarrota-ante-creciente-numero-de-demandas-por-abuso-sexual-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Boy Scouts de EEUU se declara en bancarrota ante creciente número de demandas por abuso sexual",
+          "description": "La declaración de quiebra ayudará a \"compensar equitativamente\" a las víctimas a través de la creación de un fideicomiso y permitirá que la organización juvenil continúe operando a nivel local, indicaron en un comunicado.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-628c-dba8-af75-629d03940000",
+            "title": "026956d22b3242b393c50668c90a660d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/9d/3e/565f0e7645879a1ef2e9b4894157/026956d22b3242b393c50668c90a660d",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Dulce Castellanos",
+              "image": {
+                "type": "image",
+                "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+                "title": "Univision Fallback Image",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                    "width": 1200,
+                    "height": 630
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/dulce-castellanos",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": null,
+                "youTubeUrl": null
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": null,
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-20T07:21:47-05:00",
+          "publishDate": "2020-02-18T23:45:00-05:00",
+          "expirationDate": "2030-02-17T23:45:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3819123",
+          "durationString": "2:06",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-18_3819123.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/a5vo102aeUn",
+                "isFeedDialog": false,
+                "title": "Boy Scouts de EEUU se declara en bancarrota ante creciente número de demandas por abuso sexual",
+                "description": "La declaración de quiebra ayudará a \"compensar equitativamente\" a las víctimas a través de la creación de un fideicomiso y permitirá que la organización juvenil continúe operando a nivel local, indicaron en un comunicado.",
+                "imageUrl": "https://st1.uvnimg.com/9d/3e/565f0e7645879a1ef2e9b4894157/026956d22b3242b393c50668c90a660d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/a5vo102aeUn",
+                "title": "Boy Scouts de EEUU se declara en bancarrota ante creciente número de demandas por abuso sexual",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/a5vo102aeUn",
+                "message": "Boy Scouts de EEUU se declara en bancarrota ante creciente número de demandas por abuso sexual"
+              },
+              "mail": {
+                "subject": "Boy Scouts de EEUU se declara en bancarrota ante creciente número de demandas por abuso sexual",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nBoy Scouts de EEUU se declara en bancarrota ante creciente número de demandas por abuso sexual\n\nEncuéntralo en este enlace:http://uni.vi/a5vo102aeUn\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-5bd5-da92-a374-7bd730a40000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/identifican-a-la-presunta-responsable-del-secuestro-de-una-nina-de-7-anos-asesinada-en-mexico-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Identifican a la presunta responsable del secuestro de una niña de 7 años asesinada en México",
+          "description": "Las autoridades indicaron que ubicaron el domicilio de la sospechosa en la alcaldía de Xochimilco, en el sur de la Ciudad de México. Según la investigación, en el lugar se encontraron prendas de la pequeña Fátima Cecilia Aldrighetti Antón. La menor fue sepultada este martes en medio de la indignación de sus familiares y vecinos. \n<b><a href=\"https://www.univision.com/noticias/criminalidad/autoridades-mexicanas-identifican-a-la-presunta-responsable-de-la-desaparicion-de-fatima\">Vea más de esta noticia</a></b>.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-5bd5-dba8-af75-5bd561510000",
+            "title": "6b42ef0d9cfa4d4995f5786136ace94d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/8b/8c/6cca064e4b709b4c1e57f572cd1d/6b42ef0d9cfa4d4995f5786136ace94d",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-19T00:06:23-05:00",
+          "publishDate": "2020-02-18T23:43:00-05:00",
+          "expirationDate": "2030-02-17T23:43:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3819118",
+          "durationString": "2:12",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-18_3819118.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/Cw8t102aeSh",
+                "isFeedDialog": false,
+                "title": "Identifican a la presunta responsable del secuestro de una niña de 7 años asesinada en México",
+                "description": "Las autoridades indicaron que ubicaron el domicilio de la sospechosa en la alcaldía de Xochimilco, en el sur de la Ciudad de México. Según la investigación, en el lugar se encontraron prendas de la pequeña Fátima Cecilia Aldrighetti Antón. La menor fue sepultada este martes en medio de la indignación de sus familiares y vecinos. Vea más de esta noticia.",
+                "imageUrl": "https://st1.uvnimg.com/8b/8c/6cca064e4b709b4c1e57f572cd1d/6b42ef0d9cfa4d4995f5786136ace94d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/Cw8t102aeSh",
+                "title": "Identifican a la presunta responsable del secuestro de una niña de 7 años asesinada en México",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/Cw8t102aeSh",
+                "message": "Identifican a la presunta responsable del secuestro de una niña de 7 años asesinada en México"
+              },
+              "mail": {
+                "subject": "Identifican a la presunta responsable del secuestro de una niña de 7 años asesinada en México",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nIdentifican a la presunta responsable del secuestro de una niña de 7 años asesinada en México\n\nEncuéntralo en este enlace:http://uni.vi/Cw8t102aeSh\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-56e8-d4cd-a3f9-fef93b8e0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/juez-de-nueva-york-ordena-remover-varios-pisos-de-un-rascacielos-de-lujo-casi-terminado-en-manhattan-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Juez de Nueva York ordena remover varios pisos de un rascacielos de lujo casi terminado en Manhattan",
+          "description": "El edificio está ubicado cerca del Lincoln Center y el Central Park. La decisión judicial fue tomada luego de hallar un supuesto exceso en los límites de zonificación tras una demanda entablada por la Sociedad Municipal de Arte, que acusó a los constructores de manipular regulaciones.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-56e8-d6b2-a9fd-5ffd66080000",
+            "title": "7c366f63224a4457bfddb81ec1c6fe14",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/dd/b6/48d5e0ef4fe98ba33c9fe92058e3/7c366f63224a4457bfddb81ec1c6fe14",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Peggy Carranza",
+              "image": {
+                "type": "image",
+                "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+                "title": "Univision Fallback Image",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                    "width": 1200,
+                    "height": 630
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/peggy-carranza",
+              "socialNetworks": {
+                "facebookUrl": {
+                  "text": null,
+                  "name": "Facebook",
+                  "url": "https://www.facebook.com/peggycarranza",
+                  "target": "_blank"
+                },
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/peggycarranza",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/user/UnivisionNoticias",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal en Nueva York de Noticiero Univision",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-18T01:08:38-05:00",
+          "publishDate": "2020-02-18T00:00:00-05:00",
+          "expirationDate": "2030-02-17T00:00:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818501",
+          "durationString": "1:46",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-17_3818501.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/VJyV102a6Sf",
+                "isFeedDialog": false,
+                "title": "Juez de Nueva York ordena remover varios pisos de un rascacielos de lujo casi terminado en Manhattan",
+                "description": "El edificio está ubicado cerca del Lincoln Center y el Central Park. La decisión judicial fue tomada luego de hallar un supuesto exceso en los límites de zonificación tras una demanda entablada por la Sociedad Municipal de Arte, que acusó a los constructores de manipular regulaciones.",
+                "imageUrl": "https://st1.uvnimg.com/dd/b6/48d5e0ef4fe98ba33c9fe92058e3/7c366f63224a4457bfddb81ec1c6fe14",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/VJyV102a6Sf",
+                "title": "Juez de Nueva York ordena remover varios pisos de un rascacielos de lujo casi terminado en Manhattan",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/VJyV102a6Sf",
+                "message": "Juez de Nueva York ordena remover varios pisos de un rascacielos de lujo casi terminado en Manhattan"
+              },
+              "mail": {
+                "subject": "Juez de Nueva York ordena remover varios pisos de un rascacielos de lujo casi terminado en Manhattan",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nJuez de Nueva York ordena remover varios pisos de un rascacielos de lujo casi terminado en Manhattan\n\nEncuéntralo en este enlace:http://uni.vi/VJyV102a6Sf\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-56d8-da51-a5fa-77db9d110000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/autoridades-de-los-angeles-expresan-su-rechazo-al-plan-de-desplegar-agentes-migratorios-en-ciudades-santuario-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Autoridades de Los Ángeles expresan su rechazo al plan de desplegar agentes migratorios en ciudades santuario",
+          "description": "En un video publicado en su cuenta de Twitter, el alcalde Eric Garcetti dijo que los uniformados del Departamento de Policía de Los Ángeles (LAPD) no harán el trabajo de oficiales federales e instó a los residentes de la ciudad a no tener miedo.\n<b><a href=\"https://www.univision.com/noticias/inmigracion/la-patrulla-fronteriza-desplegara-fuerzas-de-elite-en-ciudades-santuario-segun-the-new-york-times\"> Vea más de esta noticia</a></b>.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-56d8-da12-a57f-ded8c4b50000",
+            "title": "4307c7c790c541bb871145540aa30fd4",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/48/1f/3e4343044cc9a25e23506e8edec7/4307c7c790c541bb871145540aa30fd4",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-18T00:55:21-05:00",
+          "publishDate": "2020-02-17T23:48:00-05:00",
+          "expirationDate": "2030-02-16T23:48:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818496",
+          "durationString": "2:11",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-17_3818496.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/Wna2102a6R1",
+                "isFeedDialog": false,
+                "title": "Autoridades de Los Ángeles expresan su rechazo al plan de desplegar agentes migratorios en ciudades santuario",
+                "description": "En un video publicado en su cuenta de Twitter, el alcalde Eric Garcetti dijo que los uniformados del Departamento de Policía de Los Ángeles (LAPD) no harán el trabajo de oficiales federales e instó a los residentes de la ciudad a no tener miedo. Vea más de esta noticia.",
+                "imageUrl": "https://st1.uvnimg.com/48/1f/3e4343044cc9a25e23506e8edec7/4307c7c790c541bb871145540aa30fd4",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/Wna2102a6R1",
+                "title": "Autoridades de Los Ángeles expresan su rechazo al plan de desplegar agentes migratorios en ciudades santuario",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/Wna2102a6R1",
+                "message": "Autoridades de Los Ángeles expresan su rechazo al plan de desplegar agentes migratorios en ciudades santuario"
+              },
+              "mail": {
+                "subject": "Autoridades de Los Ángeles expresan su rechazo al plan de desplegar agentes migratorios en ciudades santuario",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAutoridades de Los Ángeles expresan su rechazo al plan de desplegar agentes migratorios en ciudades santuario\n\nEncuéntralo en este enlace:http://uni.vi/Wna2102a6R1\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-56c8-da12-a57f-dec85b180000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/catorce-estadounidenses-que-fueron-evacuados-de-un-crucero-en-japon-estan-siendo-tratados-en-nebraska-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Catorce estadounidenses que fueron evacuados de un crucero en Japón están siendo tratados en Nebraska",
+          "description": "Los pacientes que dieron positivo en las pruebas del coronavirus se encuentran internados en el Centro Médico de la Universidad de Nebraska en Omaha. Según los expertos que los recibieron, los adultos permanecen aislados y algunos no presentan síntomas de la enfermedad. \n<b><a href=\"https://www.univision.com/noticias/salud/china-reporta-1-868-muertos-y-mas-de-72-400-contagiados-por-coronavirus\">Vea más de esta noticia</a></b>.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-56c8-da51-a5fa-77db881a0000",
+            "title": "6292177b34d1471f8fba5241050847c0",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/9b/c9/e04ebbcf4cbcb0a9b4a42293cba1/6292177b34d1471f8fba5241050847c0",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Galo Arellano",
+              "image": {
+                "type": "image",
+                "uid": "0000015d-7658-de57-a5dd-ff5ffabd0000",
+                "title": "8.jpg",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/87/9a/2dad71d24531aa3af6f6a9b622b5/8.jpg",
+                    "width": 2000,
+                    "height": 2000,
+                    "focusPoint": {
+                      "x": 0.547,
+                      "y": 0.426
+                    }
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/galo-arellano",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/galoecuador",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/user/UnivisionNoticias",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal de Noticiero Univision",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-18T00:35:47-05:00",
+          "publishDate": "2020-02-17T23:47:00-05:00",
+          "expirationDate": "2030-02-16T23:47:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818495",
+          "durationString": "2:12",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-17_3818495.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/E6L7102a6Qa",
+                "isFeedDialog": false,
+                "title": "Catorce estadounidenses que fueron evacuados de un crucero en Japón están siendo tratados en Nebraska",
+                "description": "Los pacientes que dieron positivo en las pruebas del coronavirus se encuentran internados en el Centro Médico de la Universidad de Nebraska en Omaha. Según los expertos que los recibieron, los adultos permanecen aislados y algunos no presentan síntomas de la enfermedad. Vea más de esta noticia.",
+                "imageUrl": "https://st1.uvnimg.com/9b/c9/e04ebbcf4cbcb0a9b4a42293cba1/6292177b34d1471f8fba5241050847c0",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/E6L7102a6Qa",
+                "title": "Catorce estadounidenses que fueron evacuados de un crucero en Japón están siendo tratados en Nebraska",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/E6L7102a6Qa",
+                "message": "Catorce estadounidenses que fueron evacuados de un crucero en Japón están siendo tratados en Nebraska"
+              },
+              "mail": {
+                "subject": "Catorce estadounidenses que fueron evacuados de un crucero en Japón están siendo tratados en Nebraska",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCatorce estadounidenses que fueron evacuados de un crucero en Japón están siendo tratados en Nebraska\n\nEncuéntralo en este enlace:http://uni.vi/E6L7102a6Qa\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-56bd-d660-a176-f7fd4e2d0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/el-sueno-americano-resulto-ser-una-pesadilla-para-dos-hondurenos-que-aseguran-haber-sido-secuestrados-en-mexico-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "El sueño americano resultó ser una pesadilla para dos hondureños que aseguran haber sido secuestrados en México",
+          "description": "Dennis Flores y Víctor Manuel Alvarado cuentan que cuando estaban en un albergue en Apizaco, Tlaxcala, se les acercó un sujeto que se hizo pasar por traficante de personas y les ofreció que los cruzaría a Estados Unidos. Sin embargo, el supuesto 'pollero' hacía parte de una banda de secuestradores.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-56bd-d4cd-a3f9-fefd764f0000",
+            "title": "66844eb8b2b846158f3f4232f84185a6",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/f2/30/6b0aa4744d478c7fc586f8bdfa09/66844eb8b2b846158f3f4232f84185a6",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-18T00:21:44-05:00",
+          "publishDate": "2020-02-17T23:44:00-05:00",
+          "expirationDate": "2030-02-16T23:44:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818494",
+          "durationString": "2:06",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-17_3818494.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/JApt102a6Pz",
+                "isFeedDialog": false,
+                "title": "El sueño americano resultó ser una pesadilla para dos hondureños que aseguran haber sido secuestrados en México",
+                "description": "Dennis Flores y Víctor Manuel Alvarado cuentan que cuando estaban en un albergue en Apizaco, Tlaxcala, se les acercó un sujeto que se hizo pasar por traficante de personas y les ofreció que los cruzaría a Estados Unidos. Sin embargo, el supuesto 'pollero' hacía parte de una banda de secuestradores.",
+                "imageUrl": "https://st1.uvnimg.com/f2/30/6b0aa4744d478c7fc586f8bdfa09/66844eb8b2b846158f3f4232f84185a6",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/JApt102a6Pz",
+                "title": "El sueño americano resultó ser una pesadilla para dos hondureños que aseguran haber sido secuestrados en México",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/JApt102a6Pz",
+                "message": "El sueño americano resultó ser una pesadilla para dos hondureños que aseguran haber sido secuestrados en México"
+              },
+              "mail": {
+                "subject": "El sueño americano resultó ser una pesadilla para dos hondureños que aseguran haber sido secuestrados en México",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEl sueño americano resultó ser una pesadilla para dos hondureños que aseguran haber sido secuestrados en México\n\nEncuéntralo en este enlace:http://uni.vi/JApt102a6Pz\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-56a9-d660-a176-f7e9220c0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/entre-gritos-y-lagrimas-exigen-justicia-por-el-asesinato-de-una-nina-de-7-anos-en-mexico-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Entre gritos y lágrimas, exigen justicia por el asesinato de una niña de 7 años en México",
+          "description": "La pequeña Fátima Cecilia Aldrighetti Antón es la víctima más reciente de la violencia de género en la Ciudad de México. Su cuerpo fue encontrado este fin de semana dentro de una bolsa de plástico, días después que fuera vista por última vez saliendo de su escuela. \n<b><a href=\"https://www.univision.com/noticias/criminalidad/justiciaparafatima-indignacion-en-mexico-por-el-asesinato-de-una-nina-de-7-anos\">Vea más de esta noticia</a></b>.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-56a9-d660-a176-f7e94cda0000",
+            "title": "b7a7e9ef94154080bba78ce95920163f",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/b3/25/36c1faf54048a1bac242a9f98099/b7a7e9ef94154080bba78ce95920163f",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-17T23:59:35-05:00",
+          "publishDate": "2020-02-17T23:39:00-05:00",
+          "expirationDate": "2030-02-16T23:39:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818493",
+          "durationString": "2:05",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-17_3818493.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/ttnI102a6Og",
+                "isFeedDialog": false,
+                "title": "Entre gritos y lágrimas, exigen justicia por el asesinato de una niña de 7 años en México",
+                "description": "La pequeña Fátima Cecilia Aldrighetti Antón es la víctima más reciente de la violencia de género en la Ciudad de México. Su cuerpo fue encontrado este fin de semana dentro de una bolsa de plástico, días después que fuera vista por última vez saliendo de su escuela. Vea más de esta noticia.",
+                "imageUrl": "https://st1.uvnimg.com/b3/25/36c1faf54048a1bac242a9f98099/b7a7e9ef94154080bba78ce95920163f",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/ttnI102a6Og",
+                "title": "Entre gritos y lágrimas, exigen justicia por el asesinato de una niña de 7 años en México",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/ttnI102a6Og",
+                "message": "Entre gritos y lágrimas, exigen justicia por el asesinato de una niña de 7 años en México"
+              },
+              "mail": {
+                "subject": "Entre gritos y lágrimas, exigen justicia por el asesinato de una niña de 7 años en México",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEntre gritos y lágrimas, exigen justicia por el asesinato de una niña de 7 años en México\n\nEncuéntralo en este enlace:http://uni.vi/ttnI102a6Og\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-51c9-d6b2-a9fd-5dddb0140000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/escandalo-en-republica-dominicana-por-la-suspension-sorpresiva-de-las-elecciones-municipales-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Escándalo en República Dominicana por la suspensión sorpresiva de las elecciones municipales",
+          "description": "Cuatro horas después del inicio del proceso, la Junta Central Electoral anunció que se suspendía la jornada de elecciones por fallas técnicas y errores en el sistema de voto automatizado. Los partidos políticos, principalmente los de oposición, exigen explicaciones, investigación e identificación de responsables por este hecho.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-51c9-d58b-a1f3-5dfbd91b0000",
+            "title": "a34ac4af73374ce29a0a870a00956fb8",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/4b/e7/9a7df0ab44b4a61c960404e70785/a34ac4af73374ce29a0a870a00956fb8",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-17T01:17:31-05:00",
+          "publishDate": "2020-02-17T01:10:00-05:00",
+          "expirationDate": "2030-02-16T01:10:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818063",
+          "durationString": "1:38",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-16_3818063.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/Oeyf102a1Xo",
+                "isFeedDialog": false,
+                "title": "Escándalo en República Dominicana por la suspensión sorpresiva de las elecciones municipales",
+                "description": "Cuatro horas después del inicio del proceso, la Junta Central Electoral anunció que se suspendía la jornada de elecciones por fallas técnicas y errores en el sistema de voto automatizado. Los partidos políticos, principalmente los de oposición, exigen explicaciones, investigación e identificación de responsables por este hecho.",
+                "imageUrl": "https://st1.uvnimg.com/4b/e7/9a7df0ab44b4a61c960404e70785/a34ac4af73374ce29a0a870a00956fb8",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/Oeyf102a1Xo",
+                "title": "Escándalo en República Dominicana por la suspensión sorpresiva de las elecciones municipales",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/Oeyf102a1Xo",
+                "message": "Escándalo en República Dominicana por la suspensión sorpresiva de las elecciones municipales"
+              },
+              "mail": {
+                "subject": "Escándalo en República Dominicana por la suspensión sorpresiva de las elecciones municipales",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEscándalo en República Dominicana por la suspensión sorpresiva de las elecciones municipales\n\nEncuéntralo en este enlace:http://uni.vi/Oeyf102a1Xo\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-51b8-d660-a176-f5f846750000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/la-historia-del-sacerdote-catolico-que-no-renuncio-a-estar-casado-y-tener-hijos-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "La historia del sacerdote católico que no renunció a estar casado y tener hijos",
+          "description": "Joshua Whitfield se convirtió en cura católico en el 2012, a pesar de estar casado, gracias a una serie de reglas aprobadas por Juan Pablo II en 1980, y ahora ejerce como sacerdote en Dallas, Texas. Sin embargo, tiene unas restricciones especiales, como la prohibición de convertirse en obispo y de volver a casarse si su esposa muere.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-51b8-d58b-a1f3-5dfa70be0000",
+            "title": "0dcd88ce07854dbd99f88fcffb32bf5a",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/bf/4d/1eed3f65484fa6bf3860edb733d3/0dcd88ce07854dbd99f88fcffb32bf5a",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Galo Arellano",
+              "image": {
+                "type": "image",
+                "uid": "0000015d-7658-de57-a5dd-ff5ffabd0000",
+                "title": "8.jpg",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/87/9a/2dad71d24531aa3af6f6a9b622b5/8.jpg",
+                    "width": 2000,
+                    "height": 2000,
+                    "focusPoint": {
+                      "x": 0.547,
+                      "y": 0.426
+                    }
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/galo-arellano",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/galoecuador",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/user/UnivisionNoticias",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal de Noticiero Univision",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-17T00:58:51-05:00",
+          "publishDate": "2020-02-17T00:52:00-05:00",
+          "expirationDate": "2030-02-16T00:52:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818061",
+          "durationString": "1:51",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-16_3818061.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/xd8W102a1W5",
+                "isFeedDialog": false,
+                "title": "La historia del sacerdote católico que no renunció a estar casado y tener hijos",
+                "description": "Joshua Whitfield se convirtió en cura católico en el 2012, a pesar de estar casado, gracias a una serie de reglas aprobadas por Juan Pablo II en 1980, y ahora ejerce como sacerdote en Dallas, Texas. Sin embargo, tiene unas restricciones especiales, como la prohibición de convertirse en obispo y de volver a casarse si su esposa muere.",
+                "imageUrl": "https://st1.uvnimg.com/bf/4d/1eed3f65484fa6bf3860edb733d3/0dcd88ce07854dbd99f88fcffb32bf5a",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/xd8W102a1W5",
+                "title": "La historia del sacerdote católico que no renunció a estar casado y tener hijos",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/xd8W102a1W5",
+                "message": "La historia del sacerdote católico que no renunció a estar casado y tener hijos"
+              },
+              "mail": {
+                "subject": "La historia del sacerdote católico que no renunció a estar casado y tener hijos",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa historia del sacerdote católico que no renunció a estar casado y tener hijos\n\nEncuéntralo en este enlace:http://uni.vi/xd8W102a1W5\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-51a3-d6b2-a9fd-5dbfacd80000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/miembros-de-la-tribu-indigena-tohono-oodham-protestan-contra-la-construccion-del-muro-fronterizo-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Miembros de la tribu indígena Tohono O'odham protestan contra la construcción del muro fronterizo",
+          "description": "Los indígenas aseguran que la obra atenta contra la naturaleza, el medio ambiente y la cultura, y que se están utilizando explosivos para destruir una montaña sagrada. Este domingo llegaron hasta una estación de la Patrulla Fronteriza en Arizona, acompañados de activistas, para manifestar su rechazo por el muro.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-51a3-da51-a5fa-73b3e06f0000",
+            "title": "d13e8ea157f7467cab3342bb5c5bd12d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/02/75/c96868de422599ce62076ff45fe6/d13e8ea157f7467cab3342bb5c5bd12d",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-17T00:35:02-05:00",
+          "publishDate": "2020-02-17T00:29:00-05:00",
+          "expirationDate": "2030-02-16T00:29:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818058",
+          "durationString": "1:44",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-16_3818058.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/IK2L102a1UV",
+                "isFeedDialog": false,
+                "title": "Miembros de la tribu indígena Tohono O'odham protestan contra la construcción del muro fronterizo",
+                "description": "Los indígenas aseguran que la obra atenta contra la naturaleza, el medio ambiente y la cultura, y que se están utilizando explosivos para destruir una montaña sagrada. Este domingo llegaron hasta una estación de la Patrulla Fronteriza en Arizona, acompañados de activistas, para manifestar su rechazo por el muro.",
+                "imageUrl": "https://st1.uvnimg.com/02/75/c96868de422599ce62076ff45fe6/d13e8ea157f7467cab3342bb5c5bd12d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/IK2L102a1UV",
+                "title": "Miembros de la tribu indígena Tohono O'odham protestan contra la construcción del muro fronterizo",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/IK2L102a1UV",
+                "message": "Miembros de la tribu indígena Tohono O'odham protestan contra la construcción del muro fronterizo"
+              },
+              "mail": {
+                "subject": "Miembros de la tribu indígena Tohono O'odham protestan contra la construcción del muro fronterizo",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMiembros de la tribu indígena Tohono O'odham protestan contra la construcción del muro fronterizo\n\nEncuéntralo en este enlace:http://uni.vi/IK2L102a1UV\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-5199-d6b2-a9fd-5d9df71e0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/migrantes-rusos-llegan-al-albergue-de-mexicali-en-mexico-y-esperan-para-solicitar-asilo-en-eeuu-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Migrantes rusos llegan al albergue de Mexicali, en México, y esperan para solicitar asilo en EEUU",
+          "description": "En el lugar se refugian principalmente personas de Centroamérica y la llegada de ciudadanos rusos ha despertado un poco de curiosidad. Algunos de ellos aseguran que buscan asilo porque en Rusia se sienten amenazados. Se espera que otros migrantes de ese país sigan llegando a México en los próximos días.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-519a-d6b2-a9fd-5d9f24010000",
+            "title": "0c1a3930d9714d0785329f0d2274fdee",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/af/60/9e092c964e71b81e68443d8b5097/0c1a3930d9714d0785329f0d2274fdee",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-17T00:24:31-05:00",
+          "publishDate": "2020-02-17T00:16:00-05:00",
+          "expirationDate": "2030-02-16T00:16:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3818055",
+          "durationString": "1:56",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-16_3818055.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/lGop102a1Uy",
+                "isFeedDialog": false,
+                "title": "Migrantes rusos llegan al albergue de Mexicali, en México, y esperan para solicitar asilo en EEUU",
+                "description": "En el lugar se refugian principalmente personas de Centroamérica y la llegada de ciudadanos rusos ha despertado un poco de curiosidad. Algunos de ellos aseguran que buscan asilo porque en Rusia se sienten amenazados. Se espera que otros migrantes de ese país sigan llegando a México en los próximos días.",
+                "imageUrl": "https://st1.uvnimg.com/af/60/9e092c964e71b81e68443d8b5097/0c1a3930d9714d0785329f0d2274fdee",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/lGop102a1Uy",
+                "title": "Migrantes rusos llegan al albergue de Mexicali, en México, y esperan para solicitar asilo en EEUU",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/lGop102a1Uy",
+                "message": "Migrantes rusos llegan al albergue de Mexicali, en México, y esperan para solicitar asilo en EEUU"
+              },
+              "mail": {
+                "subject": "Migrantes rusos llegan al albergue de Mexicali, en México, y esperan para solicitar asilo en EEUU",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMigrantes rusos llegan al albergue de Mexicali, en México, y esperan para solicitar asilo en EEUU\n\nEncuéntralo en este enlace:http://uni.vi/lGop102a1Uy\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-4ca1-d58b-a1f3-4cf301960000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/queda-libre-el-anciano-mexicano-que-termino-preso-por-defenderse-de-un-asalto-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Queda libre el anciano mexicano que terminó preso por defenderse de un asalto",
+          "description": "El caso de Lucio Yáñez García causó gran polémica en el país, pues el hombre de 74 años hirió con un cuchillo a un sujeto que trataba de robarle su violín, su única herramienta de trabajo. Tras recibir quejas y cuestionamientos, la justicia mexicana revisó el caso y dejó en libertad al anciano después de un año en prisión.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-4ca1-d660-a176-fde92a4e0000",
+            "title": "24c0da806193491980042a6c6cf8ab7c",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/65/a4/1d59c9054bbcaf6245eb7bf181e2/24c0da806193491980042a6c6cf8ab7c",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-02-16T01:14:36-05:00",
+          "publishDate": "2020-02-16T01:07:00-05:00",
+          "expirationDate": "2030-02-15T01:07:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3817817",
+          "durationString": "1:55",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-15_3817817.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/sNmM1029YyO",
+                "isFeedDialog": false,
+                "title": "Queda libre el anciano mexicano que terminó preso por defenderse de un asalto",
+                "description": "El caso de Lucio Yáñez García causó gran polémica en el país, pues el hombre de 74 años hirió con un cuchillo a un sujeto que trataba de robarle su violín, su única herramienta de trabajo. Tras recibir quejas y cuestionamientos, la justicia mexicana revisó el caso y dejó en libertad al anciano después de un año en prisión.",
+                "imageUrl": "https://st1.uvnimg.com/65/a4/1d59c9054bbcaf6245eb7bf181e2/24c0da806193491980042a6c6cf8ab7c",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/sNmM1029YyO",
+                "title": "Queda libre el anciano mexicano que terminó preso por defenderse de un asalto",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/sNmM1029YyO",
+                "message": "Queda libre el anciano mexicano que terminó preso por defenderse de un asalto"
+              },
+              "mail": {
+                "subject": "Queda libre el anciano mexicano que terminó preso por defenderse de un asalto",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nQueda libre el anciano mexicano que terminó preso por defenderse de un asalto\n\nEncuéntralo en este enlace:http://uni.vi/sNmM1029YyO\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-4c93-da51-a5fa-6f938bba0000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/alertan-sobre-posibles-estafas-a-guatemaltecos-interesados-en-visas-de-trabajo-en-eeuu-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Alertan sobre posibles estafas a guatemaltecos interesados en visas de trabajo en EEUU",
+          "description": "El gobierno guatemalteco fue advertido de presuntos grupos ilegales que estarían prometiendo visas de trabajo a través de engaños sobre el acuerdo firmado con EEUU para beneficiar a los agricultores. Los estafadores estarían cobrando entre 300 y 500 dólares, pero el presidente Alejandro Giammattei recordó que estos trámites solo se pueden hacer con el Ministerio de Trabajo.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-4c93-da51-a5fa-6f93b5d00000",
+            "title": "0d8585215c7740da9554088065e4113b",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/5a/2f/dfd45bb34b2dbc2278869e9910d0/0d8585215c7740da9554088065e4113b",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Erika Porras",
+              "image": {
+                "type": "image",
+                "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+                "title": "Univision Fallback Image",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                    "width": 1200,
+                    "height": 630
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/erika-porras",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": null,
+                "youTubeUrl": null
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": null,
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-16T01:03:01-05:00",
+          "publishDate": "2020-02-16T00:53:00-05:00",
+          "expirationDate": "2030-02-15T00:53:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3817813",
+          "durationString": "2:08",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-15_3817813.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/UC8O1029Yyu",
+                "isFeedDialog": false,
+                "title": "Alertan sobre posibles estafas a guatemaltecos interesados en visas de trabajo en EEUU",
+                "description": "El gobierno guatemalteco fue advertido de presuntos grupos ilegales que estarían prometiendo visas de trabajo a través de engaños sobre el acuerdo firmado con EEUU para beneficiar a los agricultores. Los estafadores estarían cobrando entre 300 y 500 dólares, pero el presidente Alejandro Giammattei recordó que estos trámites solo se pueden hacer con el Ministerio de Trabajo.",
+                "imageUrl": "https://st1.uvnimg.com/5a/2f/dfd45bb34b2dbc2278869e9910d0/0d8585215c7740da9554088065e4113b",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/UC8O1029Yyu",
+                "title": "Alertan sobre posibles estafas a guatemaltecos interesados en visas de trabajo en EEUU",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/UC8O1029Yyu",
+                "message": "Alertan sobre posibles estafas a guatemaltecos interesados en visas de trabajo en EEUU"
+              },
+              "mail": {
+                "subject": "Alertan sobre posibles estafas a guatemaltecos interesados en visas de trabajo en EEUU",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAlertan sobre posibles estafas a guatemaltecos interesados en visas de trabajo en EEUU\n\nEncuéntralo en este enlace:http://uni.vi/UC8O1029Yyu\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-4c81-d6b2-a9fd-4d9deb480000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/en-video-el-nino-que-estuvo-a-punto-de-ahogarse-en-una-piscina-rodeado-de-adultos-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "En video: El niño que estuvo a punto de ahogarse en una piscina rodeado de adultos",
+          "description": "Un niño de 9 años fue quien alertó a los adultos de que el pequeño de 2 años se estaba ahogando en una piscina de Michigan. Sobrevivió gracias a las acciones de un grupo de enfermeras que estaba en el lugar. Una de las principales recomendaciones es inscribir a los menores en clases de natación, lo que disminuye en un 88% el riesgo de ahogarse.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-4c82-da51-a5fa-6f9317af0000",
+            "title": "72f8ee28fb914a80bc9401e96719f05b",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/5f/79/53408c7b4e0fab520dded4a6fe59/72f8ee28fb914a80bc9401e96719f05b",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Lourdes Del Río",
+              "image": {
+                "type": "image",
+                "uid": "0000015b-9824-d657-a3fb-d8a4e3fb0000",
+                "title": "Lourdes del Rio",
+                "caption": "Lourdes del Rio",
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/1d/cb/8df2a25d46e2b4166485d87ab7c2/img-0040.JPG",
+                    "width": 2724,
+                    "height": 4096,
+                    "focusPoint": {
+                      "x": 0.5149812734082397,
+                      "y": 0.4246575342465753
+                    }
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/lourdes-del-rio",
+              "socialNetworks": {
+                "facebookUrl": {
+                  "text": null,
+                  "name": "Facebook",
+                  "url": "https://www.facebook.com/LourdesDelRioUnivision/",
+                  "target": "_blank"
+                },
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/Lourdes_DelRio",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/univision%20noticias",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal de Noticiero Univision ",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-16T00:39:58-05:00",
+          "publishDate": "2020-02-16T00:34:00-05:00",
+          "expirationDate": "2030-02-15T00:34:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3817809",
+          "durationString": "1:54",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-15_3817809.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/KgQG1029YxO",
+                "isFeedDialog": false,
+                "title": "En video: El niño que estuvo a punto de ahogarse en una piscina rodeado de adultos",
+                "description": "Un niño de 9 años fue quien alertó a los adultos de que el pequeño de 2 años se estaba ahogando en una piscina de Michigan. Sobrevivió gracias a las acciones de un grupo de enfermeras que estaba en el lugar. Una de las principales recomendaciones es inscribir a los menores en clases de natación, lo que disminuye en un 88% el riesgo de ahogarse.",
+                "imageUrl": "https://st1.uvnimg.com/5f/79/53408c7b4e0fab520dded4a6fe59/72f8ee28fb914a80bc9401e96719f05b",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/KgQG1029YxO",
+                "title": "En video: El niño que estuvo a punto de ahogarse en una piscina rodeado de adultos",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/KgQG1029YxO",
+                "message": "En video: El niño que estuvo a punto de ahogarse en una piscina rodeado de adultos"
+              },
+              "mail": {
+                "subject": "En video: El niño que estuvo a punto de ahogarse en una piscina rodeado de adultos",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn video: El niño que estuvo a punto de ahogarse en una piscina rodeado de adultos\n\nEncuéntralo en este enlace:http://uni.vi/KgQG1029YxO\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "00000170-4c6d-d58b-a1f3-4cffbdc10000",
+          "uri": "https://www.univision.com/shows/noticiero-univision/arrestan-a-adolescente-de-14-anos-relacionado-con-el-asesinato-de-la-joven-tessa-majors-en-nueva-york-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+            "uri": "https://www.univision.com/shows/noticiero-univision",
+            "name": "noticiero univision",
+            "title": "Noticiero Univision"
+          },
+          "title": "Arrestan a adolescente de 14 años relacionado con el asesinato de la joven Tessa Majors en Nueva York",
+          "description": "Autoridades neoyorquinas informaron que al menor de edad ya se le formularon cargos de asesinato en segundo grado y hurto, y será juzgado como adulto por la muerte de Tessa Majors, de 18 años, el pasado 11 de diciembre en el Morningside Park de Manhattan. Otro adolescente, de 13 años, ya había sido arrestado por el caso.",
+          "image": {
+            "type": "image",
+            "uid": "00000170-4c6d-da51-a5fa-6f7fe83d0001",
+            "title": "bac9d2df091c44a28eed07bd5ad56667",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/93/90/0f7ffecd4c058ac1ad51b7e10c02/bac9d2df091c44a28eed07bd5ad56667",
+                "width": 1920,
+                "height": 1080
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Peggy Carranza",
+              "image": {
+                "type": "image",
+                "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+                "title": "Univision Fallback Image",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                    "width": 1200,
+                    "height": 630
+                  }
+                }
+              },
+              "uri": "https://www.univision.com/temas/peggy-carranza",
+              "socialNetworks": {
+                "facebookUrl": {
+                  "text": null,
+                  "name": "Facebook",
+                  "url": "https://www.facebook.com/peggycarranza",
+                  "target": "_blank"
+                },
+                "googleUrl": null,
+                "instagramUrl": null,
+                "linkedinUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": null,
+                  "name": "Twitter",
+                  "url": "https://twitter.com/peggycarranza",
+                  "target": "_blank"
+                },
+                "youTubeUrl": {
+                  "text": null,
+                  "name": "YouTube",
+                  "url": "https://www.youtube.com/user/UnivisionNoticias",
+                  "target": "_blank"
+                }
+              },
+              "link": null,
+              "mediaCompany": null,
+              "designation": null,
+              "description": "Corresponsal en Nueva York de Noticiero Univision",
+              "address": null,
+              "phoneNumber": null,
+              "website": null
+            }
+          ],
+          "cardLabel": null,
+          "updateDate": "2020-02-16T00:19:41-05:00",
+          "publishDate": "2020-02-16T00:12:00-05:00",
+          "expirationDate": "2030-02-15T00:12:00-05:00",
+          "hierarchy": [
+            {
+              "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+              "uri": "https://www.univision.com/shows",
+              "name": "shows",
+              "title": "Shows"
+            },
+            {
+              "uuid": "00000148-12c2-dd17-abec-12ea711c0000",
+              "uri": "https://www.univision.com/shows/noticiero-univision",
+              "name": "noticiero univision",
+              "title": "Noticiero Univision"
+            }
+          ],
+          "contentPriority": "STANDARD",
+          "mcpid": "3817805",
+          "durationString": "1:52",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "previewUrl": "2030-02-15_3817805.mp4",
+          "show": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/dMS11029Yxf",
+                "isFeedDialog": false,
+                "title": "Arrestan a adolescente de 14 años relacionado con el asesinato de la joven Tessa Majors en Nueva York",
+                "description": "Autoridades neoyorquinas informaron que al menor de edad ya se le formularon cargos de asesinato en segundo grado y hurto, y será juzgado como adulto por la muerte de Tessa Majors, de 18 años, el pasado 11 de diciembre en el Morningside Park de Manhattan. Otro adolescente, de 13 años, ya había sido arrestado por el caso.",
+                "imageUrl": "https://st1.uvnimg.com/93/90/0f7ffecd4c058ac1ad51b7e10c02/bac9d2df091c44a28eed07bd5ad56667",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/dMS11029Yxf",
+                "title": "Arrestan a adolescente de 14 años relacionado con el asesinato de la joven Tessa Majors en Nueva York",
+                "via": "uninoticias"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/dMS11029Yxf",
+                "message": "Arrestan a adolescente de 14 años relacionado con el asesinato de la joven Tessa Majors en Nueva York"
+              },
+              "mail": {
+                "subject": "Arrestan a adolescente de 14 años relacionado con el asesinato de la joven Tessa Majors en Nueva York",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nArrestan a adolescente de 14 años relacionado con el asesinato de la joven Tessa Majors en Nueva York\n\nEncuéntralo en este enlace:http://uni.vi/dMS11029Yxf\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Noticiero Univision",
+            "link": "https://www.univision.com/shows/noticiero-univision"
+          }
+        }
+      ],
+      "id": "00000170-63df-d3be-a1f9-63ff61d40001",
+      "type": "ListWidget",
+      "commonRootSection": {
+        "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+        "uri": "https://www.univision.com/shows",
+        "name": "shows",
+        "title": "Shows"
+      }
+    }
+  ],
+  "source": "Univision",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "https://www.univision.com/temas/nu-edicion-nocturna",
+        "isFeedDialog": false,
+        "title": "NU Edición Nocturna",
+        "description": null,
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "https://www.univision.com/temas/nu-edicion-nocturna",
+        "title": "NU Edición Nocturna",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "https://www.univision.com/temas/nu-edicion-nocturna",
+        "message": "NU Edición Nocturna"
+      },
+      "mail": {
+        "subject": "NU Edición Nocturna",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNU Edición Nocturna\n\nEncuéntralo en este enlace:https://www.univision.com/temas/nu-edicion-nocturna\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "secondaryTags": null,
+  "ttl": 3600,
+  "feedGeneratedAt": "2020-02-20T13:32:28-05:00"
+}

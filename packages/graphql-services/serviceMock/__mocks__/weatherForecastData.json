@@ -1,0 +1,233 @@
+{
+  "tempF": 59,
+  "icon": 34,
+  "phrase": "Soleado",
+  "maxTempF": 78,
+  "minTempF": 58,
+  "humidity": 64,
+  "windDirection": "SSE",
+  "windSpeedMph": 14,
+  "precipChance": 0,
+  "precipType": "rain",
+  "forecasts": {
+    "hourly": [
+      {
+        "localeTime": null,
+        "tempF": 59,
+        "icon": 34
+      },
+      {
+        "localeTime": "2021-03-26T10:00:00-05:00",
+        "tempF": 61,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T11:00:00-05:00",
+        "tempF": 66,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T12:00:00-05:00",
+        "tempF": 70,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T13:00:00-05:00",
+        "tempF": 73,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T14:00:00-05:00",
+        "tempF": 75,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T15:00:00-05:00",
+        "tempF": 77,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T16:00:00-05:00",
+        "tempF": 78,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T17:00:00-05:00",
+        "tempF": 79,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T18:00:00-05:00",
+        "tempF": 78,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T19:00:00-05:00",
+        "tempF": 76,
+        "icon": 32
+      },
+      {
+        "localeTime": "2021-03-26T20:00:00-05:00",
+        "tempF": 72,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-26T21:00:00-05:00",
+        "tempF": 69,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-26T22:00:00-05:00",
+        "tempF": 68,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-26T23:00:00-05:00",
+        "tempF": 66,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-27T00:00:00-05:00",
+        "tempF": 64,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-27T01:00:00-05:00",
+        "tempF": 62,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-27T02:00:00-05:00",
+        "tempF": 62,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-27T03:00:00-05:00",
+        "tempF": 61,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-27T04:00:00-05:00",
+        "tempF": 60,
+        "icon": 31
+      },
+      {
+        "localeTime": "2021-03-27T05:00:00-05:00",
+        "tempF": 59,
+        "icon": 33
+      },
+      {
+        "localeTime": "2021-03-27T06:00:00-05:00",
+        "tempF": 59,
+        "icon": 29
+      },
+      {
+        "localeTime": "2021-03-27T07:00:00-05:00",
+        "tempF": 59,
+        "icon": 27
+      },
+      {
+        "localeTime": "2021-03-27T08:00:00-05:00",
+        "tempF": 59,
+        "icon": 11
+      },
+      {
+        "localeTime": "2021-03-27T09:00:00-05:00",
+        "tempF": 62,
+        "icon": 28
+      }
+    ],
+    "daily": [
+      {
+        "localeTime": "2021-03-27T10:00:00",
+        "icon": 37,
+        "precipChance": 30,
+        "precipType": "rain",
+        "phrase": "Tormentas aisladas",
+        "minTempF": 55,
+        "maxTempF": 80
+      },
+      {
+        "localeTime": "2021-03-28T10:00:00",
+        "icon": 34,
+        "precipChance": 0,
+        "precipType": "rain",
+        "phrase": "Mayormente soleado",
+        "minTempF": 46,
+        "maxTempF": 71
+      },
+      {
+        "localeTime": "2021-03-29T10:00:00",
+        "icon": 32,
+        "precipChance": 0,
+        "precipType": "rain",
+        "phrase": "Soleado",
+        "minTempF": 52,
+        "maxTempF": 76
+      },
+      {
+        "localeTime": "2021-03-30T10:00:00",
+        "icon": 30,
+        "precipChance": 0,
+        "precipType": "rain",
+        "phrase": "Parcialmente nublado",
+        "minTempF": 55,
+        "maxTempF": 79
+      },
+      {
+        "localeTime": "2021-03-31T10:00:00",
+        "icon": 39,
+        "precipChance": 30,
+        "precipType": "rain",
+        "phrase": "Chubascos dispersos",
+        "minTempF": 45,
+        "maxTempF": 66
+      },
+      {
+        "localeTime": "2021-04-01T10:00:00",
+        "icon": 32,
+        "precipChance": 0,
+        "precipType": "rain",
+        "phrase": "Soleado",
+        "minTempF": 49,
+        "maxTempF": 71
+      },
+      {
+        "localeTime": "2021-04-02T10:00:00",
+        "icon": 34,
+        "precipChance": 0,
+        "precipType": "rain",
+        "phrase": "Mayormente soleado",
+        "minTempF": 48,
+        "maxTempF": 77
+      },
+      {
+        "localeTime": "2021-04-03T10:00:00",
+        "icon": 30,
+        "precipChance": 0,
+        "precipType": "rain",
+        "phrase": "Parcialmente nublado",
+        "minTempF": 58,
+        "maxTempF": 73
+      },
+      {
+        "localeTime": "2021-04-04T10:00:00",
+        "icon": 28,
+        "precipChance": 20,
+        "precipType": "rain",
+        "phrase": "Mayormente nublado",
+        "minTempF": 60,
+        "maxTempF": 77
+      },
+      {
+        "localeTime": "2021-04-05T10:00:00",
+        "icon": 28,
+        "precipChance": 24,
+        "precipType": "rain",
+        "phrase": "Mayormente nublado",
+        "minTempF": 63,
+        "maxTempF": 79
+      }
+    ]
+  }
+}

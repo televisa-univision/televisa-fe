@@ -1,0 +1,158 @@
+.container {
+  color: $darker-grey;
+}
+
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 550px;
+  padding: 1.5rem 0;
+  width: 100%;
+
+  > :first-child {
+    margin-right: 1rem;
+  }
+}
+
+.meta {
+  @include media-breakpoint-down('sm') {
+    padding: 0 10px;
+  }
+}
+
+.sharingBar {
+  flex-direction: row;
+  > div:first-child {
+    font-size: rem(9px);
+  }
+  @include media-breakpoint-up('sm') {
+    display: inline-flex;
+  }
+}
+
+.adContainer {
+  margin: 0 auto rem(32px);
+  padding: 0;
+  max-width: 1440px;
+}
+
+.slideContainer {
+  @include media-breakpoint-down('md') {
+    max-width: 100%;
+  }
+}
+
+.slide {
+  margin: 0 auto;
+}
+
+.content {
+  margin-bottom: rem(16px);
+  position: relative;
+  justify-content: center;
+
+  @include media-breakpoint-up('sm') {
+    margin-bottom: 1.5rem;
+  }
+
+  .contentWrap {
+    padding: 0;
+    min-height: 240px;
+    @include media-breakpoint-up('sm') {
+      min-height: 400px;
+    }
+  }
+}
+
+.captionWrap {
+  justify-content: center;
+}
+
+.captionHeader {
+  margin-bottom: rem(12px);
+  flex: auto;
+  display: flex;
+  flex-direction: column;
+
+  @media screen and (min-width: 375px) {
+    flex-direction: row;
+  }
+}
+
+.captionCount {
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: bold;
+  align-items: center;
+  flex: auto;
+  display: flex;
+}
+
+.creditCaption {
+  color: $grey;
+}
+
+.captionTruncate {
+  margin-bottom: 2rem;
+  > span,
+  > div {
+    font-size: rem(14px);
+    line-height: rem(17px);
+    display: inline;
+  }
+  > button {
+    margin-left: 10px;
+  }
+}
+
+.visibilityHelper {
+  overflow: auto;
+}
+
+.wrapper {
+  margin: 0 auto;
+
+  @include media-breakpoint-up('lg') {
+    width: 833px;
+  }
+}
+
+.portrait {
+  img {
+    max-height: calc(100vh - 200px);
+    @include media-breakpoint-up('sm') {
+      max-height: calc(100vh - 300px);
+      min-height: 400px;
+    }
+    width: auto;
+  }
+}
+
+.landscape {
+  img {
+    @include media-breakpoint-up('sm') {
+      width: 819px;
+    }
+    @include media-breakpoint-up('lg') {
+      width: 833px;
+    }
+  }
+}
+
+.picture {
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  > div {
+    display: none;
+  }
+
+  > picture {
+    position: relative;
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timeout": 10000,
+  "pollApi": {
+    "url": "/proxy/api/uncached/poll-api"
+  },
+  "weather": {
+    "url": "/proxy/api/cached/weather",
+    "errorMessage": "Not found"
+  },
+  "weatherAlerts": {
+    "url": "/proxy/api/cached/weather/alerts",
+    "errorMessage": "Not found"
+  },
+  "weatherLocation": {
+    "url": "/proxy/api/cached/weather/location/search",
+    "errorMessage": "Bad request. The request could not be understood by the server due to malformed syntax or there is no data found for the location requested."
+  },
+  "brackets": {
+    "url": "/proxy/api/cached/sports/v1/standings/soccer"
+  },
+  "events": {
+    "url": "/proxy/api/cached/sports/v1/commentary/soccer",
+    "errorMessage": "Not found"
+  },
+  "matches": {
+    "url": "/proxy/api/cached/sports/v1/schedule-results/soccer"
+  },
+  "scoreCell": {
+    "url": "/proxy/api/cached/sports/v1/score-cells/soccer"
+  },
+  "squad": {
+    "url": "/proxy/api/cached/sports/v1/rosters/soccer",
+    "errorMessage": "Internal error"
+  },
+  "stats": {
+    "url": "/proxy/api/cached/sports/v1/stats/soccer",
+    "errorMessage": "Not found"
+  }
+}

@@ -1,0 +1,50 @@
+.river {
+  position: relative;
+  margin-bottom: 35px;
+  @include media-breakpoint-up('md') {
+    margin-bottom: 25px;
+  }
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10px;
+    background: url($striped-background);
+    margin-bottom: 25px;
+  }
+}
+
+.resultList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  .resultItem {
+    margin-bottom: 16px;
+    &.ADResult {
+      display: block;
+      @include media-breakpoint-up('md') {
+        display: none;
+      }
+    }
+  }
+}
+
+.emptyResults {
+  padding: 25px;
+  margin: 10px 0;
+  border-top: 1px solid $white-grey;
+  border-bottom: 1px solid $white-grey;
+  .title {
+    margin: 0;
+    font-size: rem(18px);
+    text-align: center;
+    line-height: 1.2;
+    color: $darker-grey;
+  }
+  @include media-breakpoint-up('md') {
+    padding: 40px 0;
+    .title {
+      font-size: rem(22px);
+    }
+  }
+}

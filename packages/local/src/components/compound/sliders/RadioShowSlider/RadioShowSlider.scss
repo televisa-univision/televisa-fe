@@ -1,0 +1,90 @@
+.radioShowSlider .item {
+  position: relative;
+
+  height: 550px;
+
+  @include media-breakpoint-down("sm") {
+    height: 350px;
+    margin-bottom: 1rem;
+  }
+}
+
+.titleWrap {
+  position: absolute;
+  color: $white;
+  bottom: 8.5rem;
+  left: 0;
+  right: 0;
+  line-height: 1;
+  font-size: 36px;
+  text-align: center;
+  font-weight: 600;
+  z-index: $zindex-base + 1;
+
+  @include media-breakpoint-down("sm") {
+    bottom: 5.25rem;
+  }
+}
+
+.title {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 550px;
+
+  @include media-breakpoint-down("sm") {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+  }
+}
+
+.image {
+  background-size: cover;
+  background-position: top center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  &:before,
+  &:after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    z-index: $zindex-base;
+  }
+
+  &:before {
+    @include gradient-y(fade-out($black, .1), fade-out($black, 1), 5%, 20%);
+  }
+
+  &:after {
+    @include gradient-y(fade-out($black, 1), fade-out($black, .1), 50%, 95%);
+  }
+}
+
+.radioShowSlider .dots {
+  bottom: 6.75rem;
+
+  @include media-breakpoint-down("sm") {
+    bottom: 4.75rem;
+  }
+
+  li {
+    height: 5px;
+    width: 5px;
+    background-color: fade-out($white, 0.5);
+    border-radius: 100%;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}

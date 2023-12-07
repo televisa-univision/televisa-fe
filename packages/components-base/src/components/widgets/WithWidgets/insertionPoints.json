@@ -1,0 +1,18 @@
+{
+  "belowHeader": {
+    "description": "Below the header",
+    "position": "below"
+  },
+  "aboveFooter": {
+    "description": "Above the footer",
+    "position": "above"
+  },
+  "belowArticleBody": {
+    "description": "Below the article body",
+    "position": "below"
+  },
+  "belowContentBody": {
+    "description": "Below any content body",
+    "position": "below"
+  }
+}

@@ -1,0 +1,83 @@
+.caption, .credit {
+  color: $darker-grey;
+  font-size: rem(16px);
+  line-height: rem(20px);
+  em {
+    font-style: normal;
+    font-weight: 600;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.vertical {
+  margin-bottom: rem(32px);
+  @include media-breakpoint-up('sm') {
+    padding: 0;
+  }
+
+  .caption a{
+    color: #2358BF;
+  }
+
+  .credit a{
+    color: $grey !important;
+  }
+}
+
+.slideshow {
+  .caption {
+    font-size: rem(14px);
+    line-height: rem(17px);
+  }
+}
+
+.article {
+  @include uvs-font('a', 'regular');
+  position: relative;
+  padding: rem(8px) rem(20px);
+
+  @include media-breakpoint-up('sm') {
+    padding: rem(8px) 0;
+    text-align: left;
+  }
+
+  & .caption {
+    display: inline-block;
+  }
+
+  & .separator {
+    left: 20px;
+    top: .5rem;
+    width: 40px;
+    border-top: 1px solid $theme-default-primary;
+    position: absolute;
+    right: 0;
+
+    @include media-breakpoint-up('sm') {
+      top: 1rem;
+      right: auto;
+      left: 0;
+    }
+  }
+}
+
+.title {
+  @include uvs-font('a', 'bold');
+}
+
+.credit {
+  color: $grey;
+}
+
+.isWorldCupMVP {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: rem(14px);
+  line-height: rem(24px);
+  @include media-breakpoint-up('md') {
+    font-size: rem(16px);
+    line-height: rem(27px);
+  }
+}

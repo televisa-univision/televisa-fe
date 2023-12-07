@@ -1,0 +1,8 @@
+.meta {
+  flex: auto;
+  &.hideMobile {
+    @include media-breakpoint-down('sm') {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,10 @@
+// All css classes that needs to be use global
+// like .col,.row etc need to be here
+@import '~bootstrap/scss/reboot';
+@import '~bootstrap/scss/grid';
+
+// Overriding some bootstrap mixins
+@import 'mixins/bootstrap';
+
+@import 'app/fonts';
+@import 'global/content';

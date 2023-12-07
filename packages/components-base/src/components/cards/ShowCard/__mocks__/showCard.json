@@ -1,0 +1,119 @@
+{
+  "type": "show",
+  "uid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+  "uri": "https://uat2.x.univision.com/shows/despierta-america",
+  "title": "No te pierdas el estreno de una historia de amor, venganza y música urbana",
+  "description": "Yamelí es condenada injustamente a prisión, donde queda embarazada y pierde al bebé. Después de que sea liberada, planea vengarse del hombre que la traicionó.",
+  "airTime": "LUN-VIE 7AM/6C",
+  "headerLogo": {
+    "type": "image",
+    "uid": "0000016a-94f7-d52f-af7a-96ffa6fc0000",
+    "title": "logo-la-reinasoyyo.svg",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://st1.uvnimg.com/7a/1e/6400de2b4dba9de2c395768f6473/logo-lareinasoyyo.svg",
+        "width": 0,
+        "height": 0
+      },
+      "16x9-mobile": {
+        "href": "https://st1.uvnimg.com/dims4/default/93bde0c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 480,
+        "height": 270
+      },
+      "16x9-loading": {
+        "href": "https://st1.uvnimg.com/dims4/default/e6e6975/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 30,
+        "height": 17
+      },
+      "16x9-sm": {
+        "href": "https://st1.uvnimg.com/dims4/default/3d3d449/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 246,
+        "height": 138
+      },
+      "16x9-tablet": {
+        "href": "https://st1.uvnimg.com/dims4/default/9ac1b51/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 1024,
+        "height": 576
+      },
+      "16x9": {
+        "href": "https://st1.uvnimg.com/dims4/default/1ecd3ea/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 1240,
+        "height": 698
+      },
+      "16x9-med": {
+        "href": "https://st1.uvnimg.com/dims4/default/9214327/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 400,
+        "height": 225
+      },
+      "16x9-extended": {
+        "href": "https://st1.uvnimg.com/dims4/default/f2dff4b/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 1440,
+        "height": 810
+      },
+      "1x1-person-profile": {
+        "href": "https://st1.uvnimg.com/dims4/default/51e648c/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe0%2Fd3%2F13525b8c4adbbb3e77cc1353b17d%2Flogo-la-reinasoyyo.svg",
+        "width": 182,
+        "height": 182
+      }
+    }
+  },
+  "showCardArtwork": {
+    "type": "image",
+    "uid": "0000016c-2a3e-dfc9-a7ed-bf3f71c50000",
+    "title": "LaReinaSoyYo.jpg",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://st1.uvnimg.com/af/3d/4176652440be8792e3f666e6d717/lareinasoyyo.jpg",
+        "width": 150,
+        "height": 150
+      },
+      "16x9-mobile": {
+        "href": "https://st1.uvnimg.com/dims4/default/94d5bae/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 480,
+        "height": 270
+      },
+      "16x9-loading": {
+        "href": "https://st1.uvnimg.com/dims4/default/8b21838/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 30,
+        "height": 17
+      },
+      "16x9-sm": {
+        "href": "https://st1.uvnimg.com/dims4/default/7a3488c/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 246,
+        "height": 138
+      },
+      "16x9-tablet": {
+        "href": "https://st1.uvnimg.com/dims4/default/bb77917/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 1024,
+        "height": 576
+      },
+      "16x9": {
+        "href": "https://st1.uvnimg.com/dims4/default/179cf8c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 1240,
+        "height": 698
+      },
+      "16x9-med": {
+        "href": "https://st1.uvnimg.com/dims4/default/de3e40a/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 400,
+        "height": 225
+      },
+      "16x9-extended": {
+        "href": "https://st1.uvnimg.com/dims4/default/4f44f1f/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 1440,
+        "height": 810
+      },
+      "1x1-person-profile": {
+        "href": "https://st1.uvnimg.com/dims4/default/ae45b5d/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F3d%2F4176652440be8792e3f666e6d717%2Flareinasoyyo.jpg",
+        "width": 182,
+        "height": 182
+      }
+    }
+  },
+  "feedConsumer": "UNIVISION",
+  "schedule": null,
+  "cardLabel": "NUEVO"
+}

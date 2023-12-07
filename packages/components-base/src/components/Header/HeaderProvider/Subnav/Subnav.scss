@@ -1,0 +1,29 @@
+.subnav {
+  position: relative;
+  margin: 0;
+  &:after {
+    content: '';
+    @include gradient-y($white-grey, fade-out($white-grey, 1));
+    height: 4px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    overflow: auto;
+    @include media-breakpoint-up('sm') {
+      justify-content: center;
+    }
+  }
+}
+
+.dark {
+  background: $black;
+  &:after {
+    display: none;
+  }
+}

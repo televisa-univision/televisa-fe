@@ -1,0 +1,435 @@
+{
+  "settings": {
+    "type": "localopening",
+    "uid": "00000171-7514-d819-a1f9-7577e69b001b",
+    "slideshow": {},
+    "video": {},
+    "title": "LOCAL OPEN WIDGET TEST",
+    "titleLink": null,
+    "lazyLoaded": false,
+    "seeMoreLink": null
+  },
+  "analyticsData": {},
+  "content": [
+    {
+      "type": "article",
+      "uid": "0000016e-db81-d89e-a36f-db83e79c0002",
+      "uri": "https://uat.x.univision.com/local/los-angeles-kmex/cuatro-personas-muertas-y-mas-de-10-heridos-luego-de-un-tiroteo-en-la-base-naval-de-pensacola",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-0717-ddc6-a5dd-179779c80000",
+        "uri": "https://uat.x.univision.com/local/miami-wltv",
+        "name": "univision 23 miami",
+        "title": "Univision 23 Miami"
+      },
+      "title": "Cuatro personas muertas y más de 10 heridos luego de un tiroteo en la Base Naval de Pensacola",
+      "description": "Las autoridades informaron que entre las víctimas fatales está el tirador que abrió fuego, dentro de la estación ubicada en Florida, conocida como la \"cuna de la aviación naval\". El tiroteo generó una masiva respuesta de agentes de distintas corporaciones a la base, la cual cerró todas sus puertas para la restricción de todo movimiento.\n<br>",
+      "image": {
+        "type": "image",
+        "uid": "0000016e-dc71-dcd7-a9ff-fcf765c70000",
+        "title": "9a6c89bff40b494ba4824ed2aff176b6",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://cdn4.uvnimg.com/e3/9b/09fb0d1446218b264a87c5a046a7/istock-465094438.jpg",
+            "width": 2000,
+            "height": 1500,
+            "focusPoint": {
+              "x": 0.4402221059003526,
+              "y": 0.5631530468559164
+            }
+          }
+        }
+      },
+      "authors": [
+      ],
+      "cardLabel": null,
+      "updateDate": "2020-04-16T10:36:08-04:00",
+      "publishDate": "2019-12-06T09:04:45-05:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://uat.x.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0717-ddc6-a5dd-179779c80000",
+          "uri": "https://uat.x.univision.com/local/miami-wltv",
+          "name": "univision 23 miami",
+          "title": "Univision 23 Miami"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "articleType": "Standard",
+      "body": null,
+      "jwRecommendationChannel": "dDcbf2Po",
+      "dynamicPlaylist": true,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/zxK81022Pjc",
+            "isFeedDialog": false,
+            "title": "Cuatro personas muertas y más de 10 heridos luego de un tiroteo en la Base Naval de Pensacola",
+            "description": "Las autoridades informaron que entre las víctimas fatales está el tirador que abrió fuego, dentro de la estación ubicada en Florida, conocida como la \"cuna de la aviación naval\". El tiroteo generó una masiva respuesta de agentes de distintas corporaciones a la base, la cual cerró todas sus puertas para la restricción de todo movimiento.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/fb/8f/9b5138544ad8ad5604b450f07652/9a6c89bff40b494ba4824ed2aff176b6",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/zxK81022Pjc",
+            "title": "Cuatro personas muertas y más de 10 heridos luego de un tiroteo en la Base Naval de Pensacola",
+            "via": "Univision34LA"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/zxK81022Pjc",
+            "message": "Cuatro personas muertas y más de 10 heridos luego de un tiroteo en la Base Naval de Pensacola"
+          },
+          "mail": {
+            "subject": "Cuatro personas muertas y más de 10 heridos luego de un tiroteo en la Base Naval de Pensacola",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCuatro personas muertas y más de 10 heridos luego de un tiroteo en la Base Naval de Pensacola\n\nEncuéntralo en este enlace:http://uni.vi/zxK81022Pjc\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Univision 23 Miami",
+        "link": "https://uat.x.univision.com/local/miami-wltv"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "0000016f-832a-df30-ad6f-9b7f906d0002",
+      "uri": "https://uat.x.univision.com/local/los-angeles-kmex/shows/premio-lo-nuestro/este-martes-14-de-enero-conoceras-a-los-nominados-a-premio-lo-nuestro-2020",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "00000148-188e-de6d-ab4c-daae84cc0000",
+        "uri": "https://uat.x.univision.com/shows/premio-lo-nuestro",
+        "name": "premio lo nuestro",
+        "title": "Premio Lo Nuestro"
+      },
+      "title": "Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+      "description": "La esperada premiación se acerca y te decimos cómo puedes seguir la transmisión especial que Univision tiene preparada para que no te pierdas ningún detalle de quiénes son los nominados a la edición número 32 de Premio Lo Nuestro.",
+      "image": {
+        "type": "image",
+        "uid": "0000016f-87f7-de6a-adff-9fff6fbc0000",
+        "title": "Thumbnail_8-ene---Premios-lo-nuestro_2.jpg",
+        "caption": null,
+        "credit": "Univision",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/12/af/46f7d99e4c97b2f378a723fde768/thumbnail-8-ene-premios-lo-nuestro-2.jpg",
+            "width": 1920,
+            "height": 1080,
+            "focusPoint": {
+              "x": 0.5123452876466369,
+              "y": 0.62
+            }
+          }
+        }
+      },
+      "authors": [
+      ],
+      "cardLabel": "DESTACADO",
+      "updateDate": "2020-04-16T12:41:02-04:00",
+      "publishDate": "2020-01-09T13:49:30-05:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://uat.x.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000148-188e-de6d-ab4c-daae84cc0000",
+          "uri": "https://uat.x.univision.com/shows/premio-lo-nuestro",
+          "name": "premio lo nuestro",
+          "title": "Premio Lo Nuestro"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "livestream",
+      "articleType": "Standard",
+      "body": null,
+      "jwRecommendationChannel": "78MDrZDv",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/TGBD1025YVN",
+            "isFeedDialog": false,
+            "title": "Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+            "description": "La esperada premiación se acerca y te decimos cómo puedes seguir la transmisión especial que Univision tiene preparada para que no te pierdas ningún detalle de quiénes son los nominados a la edición número 32 de Premio Lo Nuestro.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/82/3c/186b763249b28e1663f4ace64d41/slate-ultimahora.jpg",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/TGBD1025YVN",
+            "title": "Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+            "via": "Univision34LA"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/TGBD1025YVN",
+            "message": "Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 "
+          },
+          "mail": {
+            "subject": "Este martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 ",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEste martes 14 de enero conocerás a los nominados a Premio Lo Nuestro 2020 \n\nEncuéntralo en este enlace:http://uni.vi/TGBD1025YVN\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Premio Lo Nuestro",
+        "link": "https://uat.x.univision.com/shows/premio-lo-nuestro"
+      }
+    },
+    {
+      "type": "livestream",
+      "uid": "00000171-4a5c-d93e-a1f1-da5fa3cb0000",
+      "uri": "https://uat.x.univision.com/local/los-angeles-kmex/noticias/diario-del-coronavirus-livestream",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://uat.x.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "Diario del Coronavirus",
+      "description": "Ante la crisis del coronavirus, mantenemos nuestro compromiso de informar y responder tus preguntas. Maria Antonieta Collins y Jorge Ramos presentan este programa especial.",
+      "image": {
+        "type": null,
+        "uid": null,
+        "title": null,
+        "caption": null,
+        "credit": null,
+        "renditions": null
+      },
+      "authors": [
+      ],
+      "cardLabel": "EN VIVO",
+      "updateDate": "2020-04-05T08:43:21-04:00",
+      "publishDate": "2020-04-05T08:43:21-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "digitalChannelSchedule": [
+      ],
+      "livestreamId": "202003161148",
+      "autoPlay": true,
+      "tvssUrl": "auth.univision.com",
+      "mainImage": null,
+      "unauthenticatedVideoTvssUrl": "https://auth.univision.com/api/v2/video-auth/adhoc-url-signature-token",
+      "hlsRenditionUrl": null,
+      "liveStreamType": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/4Ak3102dBpP",
+            "isFeedDialog": false,
+            "title": "Diario del Coronavirus",
+            "description": "Ante la crisis del coronavirus, mantenemos nuestro compromiso de informar y responder tus preguntas. Maria Antonieta Collins y Jorge Ramos presentan este programa especial.",
+            "imageUrl": null,
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/4Ak3102dBpP",
+            "title": "Diario del Coronavirus",
+            "via": "Univision34LA"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/4Ak3102dBpP",
+            "message": "Diario del Coronavirus"
+          },
+          "mail": {
+            "subject": "Diario del Coronavirus",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDiario del Coronavirus\n\nEncuéntralo en este enlace:http://uni.vi/4Ak3102dBpP\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "enableDai": false,
+      "jwRecommendationChannel": null,
+      "isDigitalChannelLiveStream": false,
+      "active": true,
+      "auth": false,
+      "primaryTag": {
+        "name": "Noticias Univision",
+        "link": "https://uat.x.univision.com/noticias"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "0000016c-83a2-d97b-a36c-efa6ab2b0002",
+      "uri": "https://uat.x.univision.com/local/los-angeles-kmex/noticias/america-latina/lideres-evangelicos-amparados-por-la-casa-blanca-exportan-agenda-fundamentalista-a-america-latina",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6edb-d67e-adff-7fdf1c1b0000",
+        "uri": "https://uat.x.univision.com/noticias/america-latina",
+        "name": "américa latina",
+        "title": "América Latina"
+      },
+      "title": "Líderes evangélicos amparados por la Casa Blanca exportan agenda fundamentalista a América Latina",
+      "description": "Un grupo de líderes evangélicos fundamentalistas vinculados a la Casa Blanca han extendido sus ministerios a varios países latinoamericanos y han hecho tratos con presidentes cuestionados tales como Daniel Ortega en Nicaragua, Jimmy Morales en Guatemala y Juan Orlando Hernández en Honduras. Columbia Journalism Investigations (CJI), el Centro Latinoamericano de Investigación Periodística (CLIP) y 15 medios de investigación también documentaron cómo estos líderes han influenciado mandatarios y políticas frente a Israel en varios países de la región.\n<i> </i>\n<br>",
+      "image": {
+        "type": "image",
+        "uid": "0000016c-8712-dc4e-a7ef-e7b374330000",
+        "title": "39e21baefce54ffdb0fccea8459f8b2b",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/9c/f9/0c5b03e34f7892283904081b07e0/39e21baefce54ffdb0fccea8459f8b2b",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      },
+      "authors": [
+      ],
+      "cardLabel": null,
+      "updateDate": "2020-04-20T11:11:36-04:00",
+      "publishDate": "2019-08-12T14:01:02-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://uat.x.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6edb-d67e-adff-7fdf1c1b0000",
+          "uri": "https://uat.x.univision.com/noticias/america-latina",
+          "name": "america latina",
+          "title": "América Latina"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "articleType": "Standard",
+      "body": null,
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/QwSi101IwAY",
+            "isFeedDialog": false,
+            "title": "Líderes evangélicos amparados por la Casa Blanca exportan agenda fundamentalista a América Latina",
+            "description": "Un grupo de líderes evangélicos fundamentalistas vinculados a la Casa Blanca han extendido sus ministerios a varios países latinoamericanos y han hecho tratos con presidentes cuestionados tales como Daniel Ortega en Nicaragua, Jimmy Morales en Guatemala y Juan Orlando Hernández en Honduras. Columbia Journalism Investigations (CJI), el Centro Latinoamericano de Investigación Periodística (CLIP) y 15 medios de investigación también documentaron cómo estos líderes han influenciado mandatarios y políticas frente a Israel en varios países de la región.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/9c/f9/0c5b03e34f7892283904081b07e0/39e21baefce54ffdb0fccea8459f8b2b",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/QwSi101IwAY",
+            "title": "Líderes evangélicos amparados por la Casa Blanca exportan agenda fundamentalista a América Latina",
+            "via": "Univision34LA"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/QwSi101IwAY",
+            "message": "Líderes evangélicos amparados por la Casa Blanca exportan agenda fundamentalista a América Latina"
+          },
+          "mail": {
+            "subject": "Líderes evangélicos amparados por la Casa Blanca exportan agenda fundamentalista a América Latina",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLíderes evangélicos amparados por la Casa Blanca exportan agenda fundamentalista a América Latina\n\nEncuéntralo en este enlace:http://uni.vi/QwSi101IwAY\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "América Latina",
+        "link": "https://uat.x.univision.com/noticias/america-latina"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "00000161-a644-d703-a3f3-a7dea40b0000",
+      "uri": "https://uat.x.univision.com/local/los-angeles-kmex/famosos/salma-hayek-se-vuelve-rubia-y-las-redes-se-vuelven-locas",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "00000166-4216-dd50-a166-e73f34130000",
+        "uri": "https://uat.x.univision.com/famosos",
+        "name": "famosos",
+        "title": "Famosos"
+      },
+      "title": "Salma Hayek se vuelve rubia (y las redes se vuelven locas) ",
+      "description": "La actriz mexicana, que es muy afecta a cambiar de imagen, sorprendió en redes sociales con su nuevo look para la temporada de premios. TEST\n<a href=\"https://uat.x.univision.com/deportes/futbol/bundesliga/fc-schalke-04-vs-tsg-1899-hoffenheim-bundesliga-2020-03-07\"> </a>",
+      "image": {
+        "type": "image",
+        "uid": "0000015e-e319-d7a5-a3ff-effb0c3c0000",
+        "title": "Salma Hayek ",
+        "caption": null,
+        "credit": "Instagram @salmahayek",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/be/ef/9c09fdb94981a843adf85a3a1bd6/2.jpg",
+            "width": 1200,
+            "height": 636
+          }
+        }
+      },
+      "authors": [
+      ],
+      "cardLabel": null,
+      "updateDate": "2020-04-05T04:33:59-04:00",
+      "publishDate": "2018-02-17T22:11:16-05:00",
+      "expirationDate": "3000-01-01T00:00:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "00000166-4216-dd50-a166-e73f34130000",
+          "uri": "https://uat.x.univision.com/famosos",
+          "name": "famosos",
+          "title": "Famosos"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "articleType": "Standard",
+      "body": null,
+      "jwRecommendationChannel": "78MDrZDv",
+      "dynamicPlaylist": false,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/HH6N100X8jR",
+            "isFeedDialog": false,
+            "title": "Salma Hayek se vuelve rubia (y las redes se vuelven locas) ",
+            "description": "La actriz mexicana, que es muy afecta a cambiar de imagen, sorprendió en redes sociales con su nuevo look para la temporada de premios. TEST",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/44/a5/aee16ae84a22be0bf50a7996e08a/0d6ad739873d4ef2b70ff993bbe95d8a",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/HH6N100X8jR",
+            "title": "Salma Hayek se vuelve rubia (y las redes se vuelven locas) ",
+            "via": "Univision34LA"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/HH6N100X8jR",
+            "message": "Salma Hayek se vuelve rubia (y las redes se vuelven locas) "
+          },
+          "mail": {
+            "subject": "Salma Hayek se vuelve rubia (y las redes se vuelven locas) ",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSalma Hayek se vuelve rubia (y las redes se vuelven locas) \n\nEncuéntralo en este enlace:http://uni.vi/HH6N100X8jR\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Famosos",
+        "link": "https://uat.x.univision.com/famosos"
+      }
+    }
+  ],
+  "id": "00000171-7514-d819-a1f9-7577e69b001b",
+  "type": "LocalOpening",
+  "commonRootSection": null
+}

@@ -1,0 +1,44 @@
+.collapsible {
+  background-color: $light-grey;
+}
+
+.header {
+  background-color: $light-grey;
+  height: 25px;
+  width: 100%;
+  padding: 1px 5px;
+  margin: 0;
+}
+
+.header.isOpen {
+  background-color: $grey;
+}
+
+.title {
+  margin: 0 5px;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  float: left;
+}
+
+.button {
+  float: right;
+  margin: 0 5px;
+  height: 20px;
+  width: 20px;
+  position: relative;
+  transition: transform 300ms;
+}
+
+.button.isOpen {
+  transform: rotateZ(180deg);
+}
+
+.icon {
+  fill: $white;
+  height: 20px;
+  width: 20px;
+  top: 0;
+  left: 0;
+  position: absolute;
+}

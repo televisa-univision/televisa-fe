@@ -1,0 +1,126 @@
+{
+  "hubResponse": {
+    "id": "123456",
+    "videoMetadata": {
+      "photoVideoMetadataIPTC": {
+        "identifier": "123456",
+        "episode": {
+          "number": 0
+        },
+        "fileDuration": 100,
+        "language": "es",
+        "description": {
+          "es": "Description"
+        },
+        "supplier": {
+          "name": {
+            "es": "Univision"
+          }
+        },
+        "title": {
+          "es": "Here we have a test title longer than seventy five characters for testing purposes."
+        }
+      },
+      "photoVideoMetadata_fmg": {
+        "thumbnail": "thumbnail.jpg",
+        "shareUrl": "http://share",
+        "videoType": "long-form",
+        "authRequired": false
+      }
+    }
+  },
+  "parsedItems": {
+    "authRequired": false,
+    "contentId": null,
+    "description": "Description",
+    "duration": 100,
+    "hasNewLabel": false,
+    "hasNextEpisode": true,
+    "image": "thumbnail.jpg",
+    "longform": {
+      "episode": 0
+    },
+    "mcpid": "123456",
+    "publishDate": null,
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://share"
+        },
+        "mail": {
+          "body": "Here we have a test title longer than seventy five characters for testing purposes.: http://share",
+          "subject": "Here we have a test title longer than seventy five characters for testing purposes."
+        },
+        "twitter": {
+          "title": "Here we have a test title longer than seventy five characters for testing p...",
+          "url": "http://share",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "title": "Here we have a test title longer than seventy five characters for testing p...",
+          "url": "http://share"
+        }
+      }
+    },
+    "sharingOptions": {
+      "facebook": {
+        "url": "http://share"
+      },
+      "mail": {
+        "body": "Here we have a test title longer than seventy five characters for testing purposes.: http://share",
+        "subject": "Here we have a test title longer than seventy five characters for testing purposes."
+      },
+      "twitter": {
+        "title": "Here we have a test title longer than seventy five characters for testing p...",
+        "url": "http://share",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "title": "Here we have a test title longer than seventy five characters for testing p...",
+        "url": "http://share"
+      }
+    },
+    "shortTitle": "Here we have a test title longer than seventy five characters for testing p...",
+    "source": "Univision",
+    "title": "Here we have a test title longer than seventy five characters for testing purposes.",
+    "uri": "123456",
+    "videoType": "long-form"
+  },
+  "soccerMatch": {
+    "original": {
+      "matchId": "g12345",
+      "optaId": "12345",
+      "isAuth": false,
+      "title": "title",
+      "description": "description",
+      "mainImage": "main-image.jpg",
+      "uri": "uri",
+      "image": {
+        "renditions": {
+          "original": {
+            "href": "image.jpg"
+          }
+        }
+      }
+    },
+    "parsed": {
+      "description": "description",
+      "gameId": "g12345",
+      "optaId": "12345",
+      "image": "main-image.jpg",
+      "statusInterval": 30,
+      "shareUrl": "uri",
+      "title": "title"
+    }
+  },
+  "videoInfo": {
+    "status": "success",
+    "data": [{
+      "mcpid": "123456",
+      "shortUrl": "http://share",
+      "permalink": "https://longurl",
+      "via": "Univision",
+      "thumbnailImage": "thumbnail.jpg"
+    }]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "type": "article",
+  "uid": "00000170-c76b-d6dd-a5ff-c7ef85fe0002",
+  "uri": "https://www.univision.com/noticias/salud/que-hacer-en-caso-de-un-brote-de-coronavirus-en-tu-comunidad",
+  "vertical": "Noticias",
+  "parent": {
+    "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+    "uri": "https://www.univision.com/noticias/salud",
+    "name": "salud",
+    "title": "Salud"
+  },
+  "title": "Qué hacer en caso de un brote de coronavirus en tu comunidad",
+  "description": "Los Centros para el Control y la Prevención de Enfermedades emitieron una serie de recomendaciones sobre cómo actuar en caso de que una comunidad enfrente un brote de coronavirus. Entre las medidas se encuentra lavarse las manos constantemente con agua y jabón, mantener una distancia de al menos seis pies y mantenerse informado.",
+  "image": {
+    "type": "image",
+    "uid": "00000162-8889-dcb3-a37a-a9bf981f0001",
+    "title": "HRC 2018 - Horoscopo numero de la suerte",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot.s3.amazonaws.com/19/2b/08de2da74d86bef5c75236e16b58/numerosuerte-sabado.jpg",
+        "width": 1200,
+        "height": 675
+      }
+    }
+  },
+  "authors": [],
+  "cardLabel": null,
+  "updateDate": "2020-03-10T23:10:36-04:00",
+  "publishDate": "2020-03-10T23:10:36-04:00",
+  "expirationDate": null,
+  "hierarchy": [
+    {
+      "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+      "uri": "https://www.univision.com/noticias",
+      "name": "noticias univision",
+      "title": "Noticias Univision"
+    },
+    {
+      "uuid": "0000014f-6a7b-dedf-abdf-6afbcb7c0000",
+      "uri": "https://www.univision.com/noticias/salud",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "contentPriority": "STANDARD",
+  "leadType": "image",
+  "articleType": "Standard",
+  "body": [
+    {
+      "type": "test",
+      "value": "Test test"
+    }
+  ],
+  "jwRecommendationChannel": "eWP6Mwpy",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "http://uni.vi/qwNo102ch2O",
+        "isFeedDialog": false,
+        "title": "Qué hacer en caso de un brote de coronavirus en tu comunidad",
+        "description": "Los Centros para el Control y la Prevención de Enfermedades emitieron una serie de recomendaciones sobre cómo actuar en caso de que una comunidad enfrente un brote de coronavirus. Entre las medidas se encuentra lavarse las manos constantemente con agua y jabón, mantener una distancia de al menos seis pies y mantenerse informado.",
+        "imageUrl": "https://st1.uvnimg.com/fb/bd/b2cb83764bddacf1a26d999e82db/ap-20071062860381.jpg",
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "http://uni.vi/qwNo102ch2O",
+        "title": "Qué hacer en caso de un brote de coronavirus en tu comunidad",
+        "via": "UniNoticias"
+      },
+      "whatsapp": {
+        "url": "http://uni.vi/qwNo102ch2O",
+        "message": "Qué hacer en caso de un brote de coronavirus en tu comunidad"
+      },
+      "mail": {
+        "subject": "Qué hacer en caso de un brote de coronavirus en tu comunidad",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nQué hacer en caso de un brote de coronavirus en tu comunidad\n\nEncuéntralo en este enlace:http://uni.vi/qwNo102ch2O\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "useWebviewInApps": false,
+  "primaryTag": {
+    "name": "Salud",
+    "link": "https://www.univision.com/noticias/salud"
+  },
+  "feedConsumer": "UNIVISION",
+  "schedule": null
+}

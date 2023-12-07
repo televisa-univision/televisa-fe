@@ -1,0 +1,46 @@
+.navWrapper {
+  background: $very-light-grey;
+  width: 100%;
+  display: flex;
+
+  > div {
+    margin-right: 0;
+  }
+}
+.carousel {
+  width: 100%;
+}
+
+.carouselItem {
+  width: 400px;
+}
+.leftArrow button {
+  width: 60px;
+  @include gradient-horizontal(rgba($very-light-grey, .9), fade-out($very-light-grey, 1), 70%, 100%);
+  @include media-breakpoint-up('sm') {
+    width: 80px;
+  }
+}
+
+.rightArrow button {
+  width: 60px;
+  @include gradient-horizontal(fade-out($very-light-grey, 1), rgba($very-light-grey, .9), 0%, 70%);
+  @include media-breakpoint-up('sm') {
+    width: 80px;
+  }
+}
+
+.arrowColor button {
+  svg {
+    fill: $darker-grey;
+  }
+  &:hover {
+    svg {
+      fill: $grey-black;
+    }
+  }
+}
+
+.date {
+  width: 100%;
+}

@@ -1,0 +1,1001 @@
+directive @complexity(value: Int!, multipliers: [String!]) on FIELD_DEFINITION
+
+directive @cacheControl(maxAge: Int, scope: CacheControlScope) on FIELD_DEFINITION | OBJECT | INTERFACE
+
+type AddReactionResponse {
+  reaction: ReactionInfo!
+}
+
+type AlreadyApplied {
+  alreadyApplied: Boolean!
+}
+
+type ApploiCity {
+  city: String!
+  state: String!
+  stateAbbreviation: String!
+  location: ApploiLocation
+}
+
+type ApploiIndustry {
+  en: String
+  es: String
+}
+
+type ApploiJob {
+  id: ID!
+  name: Internationalization!
+  brandName: String!
+  description: Internationalization!
+  publishedDate: DateTime
+  jobType: ApploiJobType
+  industry: String
+  city: String
+  state: String
+  jobCode: String
+  redirectApplyUrl: String!
+  partner: ApploiPartner!
+  applyMethod: ApplyMethod
+  resumeRequired: Boolean
+}
+
+enum ApploiJobType {
+  FULL_TIME
+  PART_TIME
+  ALL
+}
+
+type ApploiLocation {
+  latitude: Float!
+  longitude: Float!
+}
+
+input ApploiLocationInput {
+  latitude: Float!
+  longitude: Float!
+  radius: Int!
+}
+
+type ApploiPartner {
+  sponsored: Boolean
+  source: String
+  redirectApply: String
+  utmMedium: String
+  utmCampaign: String
+  keyword: String
+  searchFetchId: String
+  page: Int
+  order: Int
+  cityCenter: String
+  utmSource: String
+}
+
+input ApploiPartnerInput {
+  sponsored: Boolean
+  source: String
+  redirectApply: String
+  utmMedium: String
+  utmCampaign: String
+  keyword: String
+  searchFetchId: String
+  page: Int
+  order: Int
+  cityCenter: String
+  utmSource: String
+}
+
+type ApploiUser {
+  email: String
+  firstName: String
+  lastName: String
+  phoneNumber: String
+  resumeFileName: String
+}
+
+enum ApplyMethod {
+  QUICK
+  REDIRECT
+  FULL
+}
+
+type Article implements Content {
+  authors: [Author!]!
+  cardLabel: String
+  contentPriority: String
+  description: String
+  expirationDate: DateTime
+  hierarchy: [HierarchyItem!]!
+  image: Image
+  parent: HierarchyItem
+  publishDate: DateTime
+  title: String
+  type: String!
+  uid: ID!
+  updateDate: DateTime
+  uri: String
+  vertical: String
+  askExpertData: AskExpertData
+  body: [ArticleBodyParagraph!]!
+  horoscopeData: HoroscopeData
+  jobListingData: JobListingData
+  jwRecommendationChannel: String!
+  recipeData: RecipeData
+}
+
+interface ArticleBodyParagraph {
+  type: String!
+}
+
+type AskExpertData {
+  phoneNumber: String
+  website: String
+}
+
+enum AuthFlow {
+  acp
+  pcke
+}
+
+type Author {
+  address: String
+  description: String
+  designation: String
+  fullName: String!
+  image: Image
+  link: String
+  mediaCompany: String
+  phoneNumber: String
+  socialNetworks: PersonSocialNetworks
+  uri: String
+  website: String
+}
+
+enum CacheControlScope {
+  PUBLIC
+  PRIVATE
+}
+
+type CacheInvalidationResponse {
+  cacheKey: String
+}
+
+interface Content {
+  authors: [Author!]!
+  cardLabel: String
+  contentPriority: String
+  description: String
+  expirationDate: DateTime
+  hierarchy: [HierarchyItem!]!
+  image: Image
+  parent: HierarchyItem
+  publishDate: DateTime
+  title: String
+  type: String!
+  uid: ID!
+  updateDate: DateTime
+  uri: String
+  vertical: String
+}
+
+type ContentReactions {
+  contentId: ID!
+  userReaction: Reaction
+  counts: [ReactionCount!]!
+}
+
+type DailyForecast {
+  localeTime: DateTime
+  icon: Int
+  precipChance: Int
+  precipType: String
+  phrase: String
+  minTempF: Int
+  maxTempF: Int
+}
+
+enum DataSource {
+  abacast
+  apploi
+  reactions
+  uforiaAPI
+  weatherAPI
+}
+
+scalar Date
+
+scalar DateTime
+
+enum ExternalSystem {
+  MVPD
+  SALESFORCE
+  URBAN_AIRSHIP
+}
+
+input ExternalSystemInput {
+  id: ID!
+  name: ExternalSystem!
+}
+
+type FacebookShare {
+  appId: String
+  description: String
+  imageUrl: String
+  isFeedDialog: Boolean!
+  title: String
+  url: String
+}
+
+type FavoriteHoroscopes {
+  daily(requestingUrl: String!): [FavoriteItem!]!
+  signIds: [ID!]!
+}
+
+union FavoriteItem = Article | GenericCmsContent | Show | Slideshow | UnivisionTag | Video
+
+type FavoritesResult {
+  ids: [ID!]!
+  items: [FavoriteItem!]!
+}
+
+type FocusPoint {
+  x: Float!
+  y: Float!
+}
+
+type ForecastTypes {
+  hourly: [HourlyForecast]!
+  daily: [DailyForecast]!
+}
+
+type GenericCmsContent implements RawJson {
+  json: String!
+}
+
+input GeoCode {
+  latitude: Float!
+  longitude: Float!
+}
+
+type HierarchyItem {
+  name: String
+  title: String
+  uri: String
+  uuid: ID!
+}
+
+type HighImpactImages {
+  desktop: Image
+  mobile: Image
+}
+
+type HoroscopeData {
+  horoscopeDate: Date
+  horoscopeDescription: String
+  signData: UnivisionTag
+}
+
+type HourlyForecast {
+  localeTime: DateTime
+  tempF: Int
+  icon: Int
+}
+
+type Image {
+  caption: String
+  credit: String
+  uid: ID!
+  renditions: ImageRenditions
+  title: String
+  type: String!
+}
+
+type ImageRendition {
+  focusPoint: FocusPoint
+  height: Int!
+  href: String
+  width: Int!
+}
+
+type ImageRenditions {
+  original: ImageRendition
+}
+
+type Internationalization {
+  en: String
+  es: String
+}
+
+input JobApplyInput {
+  partner: ApploiPartnerInput!
+  jobId: String!
+}
+
+type JobListingData {
+  cityName: String
+  employment: String
+  website: String
+}
+
+enum Language {
+  en
+  es
+}
+
+type MailShare {
+  body: String
+  subject: String
+}
+
+input MergeUsersInput {
+  sourceAccessToken: String!
+  system: System!
+  targetAccessToken: String!
+}
+
+type Mutation {
+  quickApply(utmSource: String, user: UserApplyInput!, job: JobApplyInput!, resume: ResumeApplyInput): QuickApplyResponse
+  writeReaction(contentId: ID!, reaction: Reaction): Reaction @deprecated(reason: "use 'addReaction' and 'removeReaction'.")
+  addReaction(contentId: ID!, reaction: Reaction!): AddReactionResponse!
+  removeReaction(contentId: ID!): RemoveReactionResponse!
+  addFavoriteHoroscopeSign(signId: ID!, requestingUrl: String!): FavoritesResult!
+  createAnonymousUser: TokenResponse! @deprecated(reason: "use 'createUser'.")
+  createUser(input: UserInput): TokenResponse!
+  mergeUsers(input: MergeUsersInput!): TokenResponse!
+  removeFavoriteHoroscopeSign(signId: ID!, requestingUrl: String!): FavoritesResult!
+  updateFavoriteHoroscopeSign(signId: ID!, requestingUrl: String!, isRemove: Boolean = false): FavoritesResult! @deprecated(reason: "use 'addFavoriteHoroscopeSign' and 'removeFavoriteHoroscopeSign'.")
+  updateUser(input: UserInput!): TokenResponse!
+  cacheInvalidation(dataSource: DataSource!, cacheKey: String!): CacheInvalidationResponse
+}
+
+type PersonSocialNetworks {
+  facebookUrl: SocialNetwork
+  googleUrl: SocialNetwork
+  instagramUrl: SocialNetwork
+  linkedinUrl: SocialNetwork
+  pinterestUrl: SocialNetwork
+  snapchatUrl: SocialNetwork
+  twitterUrl: SocialNetwork
+  youTubeUrl: SocialNetwork
+}
+
+type Query {
+  getApploiCities(location: ApploiLocationInput!): [ApploiCity!]!
+  getApploiJobs(language: Language = en, location: ApploiLocationInput, city: String, cityCenter: String, state: String, searchTerm: String, industry: String, teams: String, utmSource: String, size: Int, page: Int! = 1): [ApploiJob!]!
+  getApploiIndustries: [ApploiIndustry!]!
+  getJobApplicationStatus(jobId: String!, token: String!): AlreadyApplied!
+  getApploiUser(token: String!): ApploiUser!
+  getTokens(code: String!, codeVerifier: String): TokensResponse
+  readReactions(contentIds: [ID!]!): ReactionsResponse @deprecated(reason: "use 'getReactions'.")
+  getReactions(contentIds: [ID!]!): ReactionsResponse
+  getSpanishTranslation(text: String!): String
+  getRadioStations: [RadioStation!]!
+  getStationsByTagName(tagName: String!): [RadioStation!]!
+  getStationsByCityId(cityId: Int!): [RadioStation!]!
+  authenticatedUser: User! @deprecated(reason: "use 'getUser'.")
+  getUser: User!
+  getVideoAdUserGroup(videoDuration: Int!): VideoAdUserGroup!
+  systemUserCheckIn(system: System!, systemUserId: ID!): SystemUserCheckInResponse!
+  getWeatherAlertsHeadlines(country: String, areaIds: [String!]!, language: WeatherAlertSearchLanguage = ES, ignoreSeverity: [WeatherAlertSeverity!], limit: Int): WeatherAlertsHeadlinesResponse!
+  getWeatherAlerts(alerts: [String!]!, language: WeatherAlertSearchLanguage): [WeatherAlert!]!
+  getWeatherAlertsWithDescription(country: String, areaIds: [String!]!, language: WeatherAlertSearchLanguage = ES, ignoreSeverity: [WeatherAlertSeverity!], limit: Int): WeatherAlertsWithDescriptionResponse!
+  getWeatherForecastByTvStation(language: WeatherForecastLanguage!, tvStation: TvStation!, shouldInvalidateCache: Boolean = false): WeatherForecast!
+  getWeatherForecastByGeoCode(language: WeatherForecastLanguage!, geoCode: GeoCode!, shouldInvalidateCache: Boolean = false): WeatherForecast!
+}
+
+type QuickApplyResponse {
+  token: String
+}
+
+type RadioStation {
+  id: ID!
+  name: String!
+  description: String!
+  images: [UforiaImage]!
+  url: String!
+  nowPlayingUrl: String!
+  iconImage: UforiaImage!
+  relatedStations(size: Int!): [RadioStation]
+}
+
+interface RawJson {
+  json: String!
+}
+
+enum Reaction {
+  LIKE
+  LOVE
+  FUNNY
+  SURPRISED
+  DISLIKE
+  SAD
+}
+
+type ReactionCount {
+  reaction: Reaction!
+  count: Int!
+}
+
+type ReactionInfo {
+  content: Reaction!
+}
+
+type ReactionsResponse {
+  reactions: [ContentReactions!]!
+}
+
+type RecipeData {
+  difficulty: String
+  mealTypes: [String!]
+  totalMinutes: Int
+}
+
+type RemoveReactionResponse {
+  contentId: ID!
+}
+
+input ResumeApplyInput {
+  name: String!
+  data: String!
+}
+
+type ShareOptions {
+  facebook: FacebookShare
+  mail: MailShare
+  twitter: TwitterShare
+  whatsapp: WhatsAppShare
+}
+
+type Sharing {
+  options: ShareOptions
+}
+
+type Show implements Content {
+  authors: [Author!]!
+  cardLabel: String
+  contentPriority: String
+  description: String
+  expirationDate: DateTime
+  hierarchy: [HierarchyItem!]!
+  image: Image
+  parent: HierarchyItem
+  publishDate: DateTime
+  title: String
+  type: String!
+  uid: ID!
+  updateDate: DateTime
+  uri: String
+  vertical: String
+  airTime: String
+  headerLogo: Image
+  highImpactImages: HighImpactImages
+  showCardArtwork: Image
+  socialNetworks: [SocialNetwork!]!
+  trailerMcpId: String
+}
+
+type Slideshow implements Content {
+  authors: [Author!]!
+  cardLabel: String
+  contentPriority: String
+  description: String
+  expirationDate: DateTime
+  hierarchy: [HierarchyItem!]!
+  image: Image
+  parent: HierarchyItem
+  publishDate: DateTime
+  title: String
+  type: String!
+  uid: ID!
+  updateDate: DateTime
+  uri: String
+  vertical: String
+  cardImages: [Image!]!
+  jwRecommendationChannel: String!
+  slideCount: Int!
+  slideshowType: String!
+}
+
+type SocialNetwork {
+  name: String
+  target: String
+  text: String
+  url: String
+}
+
+type Song {
+  id: Int!
+  time: String!
+  artist: String!
+  title: String!
+  album: String
+  label: String
+  isrc: String
+  smallimage: String!
+  mediumimage: String!
+  largeimage: String!
+  amazonpurchaseurl: String
+  itunespurchaseurl: String
+  averagerating: Float
+  numberofratings: Int
+}
+
+enum System {
+  UFORIA
+  UNIVISION
+}
+
+type SystemUserCheckInResponse {
+  accessToken: String
+  user: User
+}
+
+type TextParagraph implements ArticleBodyParagraph {
+  type: String!
+  value: String!
+}
+
+type TokenResponse {
+  accessToken: String!
+  user: User!
+}
+
+type TokensResponse {
+  idToken: String!
+  refreshToken: String!
+  accessToken: String!
+  continuationUri: String
+}
+
+enum TvStation {
+  KABE
+  KAKW
+  KDTV
+  KFTV
+  KMEX
+  KTVW
+  KUTH
+  KUVN
+  KUVS
+  KWEX
+  KXLN
+  WGBO
+  WLII
+  WLTV
+  WUVC
+  WUVG
+  WUVP
+  WXTV
+}
+
+type TwitterShare {
+  title: String
+  url: String
+  via: String!
+}
+
+type UforiaImage {
+  id: ID!
+  imagePackage: UforiaImagePackage!
+  imageType: String!
+}
+
+type UforiaImageInfo {
+  url: String!
+  width: Int!
+  height: Int!
+}
+
+type UforiaImagePackage {
+  smallImage: UforiaImageInfo
+  mediumImage: UforiaImageInfo
+  largeImage: UforiaImageInfo
+  extraLargeImage: UforiaImageInfo
+}
+
+type UnivisionTag implements Content {
+  authors: [Author!]!
+  cardLabel: String
+  contentPriority: String
+  description: String
+  expirationDate: DateTime
+  hierarchy: [HierarchyItem!]!
+  image: Image
+  parent: HierarchyItem
+  publishDate: DateTime
+  title: String
+  type: String!
+  uid: ID!
+  updateDate: DateTime
+  uri: String
+  vertical: String
+}
+
+scalar Upload
+
+type User {
+  id: ID!
+  dailyHoroscopes(requestingUrl: String!): FavoritesResult! @deprecated(reason: "now stored under 'User.favorites.horoscopes'.")
+  favorites: UserFavorites!
+}
+
+input UserApplyInput {
+  firstName: String!
+  lastName: String!
+  email: String!
+  phone: String
+}
+
+type UserFavorites {
+  horoscopes: FavoriteHoroscopes!
+}
+
+input UserInput {
+  email: String
+  externalSystems: [ExternalSystemInput!]
+  system: System!
+  systemUserId: ID
+}
+
+type Video implements Content {
+  authors: [Author!]!
+  cardLabel: String
+  contentPriority: String
+  description: String
+  expirationDate: DateTime
+  hierarchy: [HierarchyItem!]!
+  image: Image
+  parent: HierarchyItem
+  publishDate: DateTime
+  title: String
+  type: String!
+  uid: ID!
+  updateDate: DateTime
+  uri: String
+  vertical: String
+  authRequired: Boolean!
+  durationString: String
+  episodeNo: String
+  hasNextEpisode: Boolean!
+  longform: Boolean!
+  longformPlayList: Boolean!
+  mcpid: String
+  previewUrl: String
+  sharing: Sharing
+  show: Show
+  source: String!
+}
+
+enum VideoAdUserGroup {
+  STANDARD
+  LOW_RETENTION
+  HIGH_RETENTION
+}
+
+type WeatherAlert implements WeatherAlertModel {
+  adminDistrict: String
+  adminDistrictCode: String
+  areaId: String!
+  areaName: String
+  areaTypeCode: WeatherAlertAreaTypeCode
+  categories: [WeatherAlertHeadlinesCategory!]!
+  certainty: WeatherAlertCertainty!
+  certaintyCode: Int
+  countryCode: String
+  countryName: String
+  detailKey: String!
+  disclaimer: String
+  effectiveTimeLocal: String
+  effectiveTimeLocalTimeZone: String
+  eventDescription: String
+  eventTrackingNumber: String
+  expireTimeLocal: String
+  expireTimeLocalTimeZone: String
+  expireTimeUTC: DateTime
+  flood: WeatherAlertHeadlinesFlood
+  headlineText: String
+  ianaTimeZone: String
+  identifier: String
+  issueTimeLocal: String
+  issueTimeLocalTimeZone: String
+  latitude: Float
+  longitude: Float
+  messageType: WeatherAlertMessageType!
+  messageTypeCode: Int
+  officeAdminDistrict: String
+  officeAdminDistrictCode: String
+  officeCode: String
+  officeCountryCode: String
+  officeName: String
+  onsetTimeLocal: String
+  onsetTimeLocalTimeZone: String
+  phenomena: String
+  polygon: [WeatherAlertPolygon]
+  processTimeUTC: DateTime
+  productIdentifier: String
+  responseTypes: [WeatherAlertHeadlinesResponseTypes]
+  severity: WeatherAlertSeverity!
+  severityCode: Int
+  significance: String
+  source: String
+  synopsis: String
+  texts: [WeatherAlertTexts!]!
+  urgency: WeatherAlertUrgency!
+  urgencyCode: Int
+}
+
+enum WeatherAlertAreaTypeCode {
+  C
+  Z
+  CLC
+}
+
+enum WeatherAlertCategory {
+  Geo
+  Met
+  Safety
+  Security
+  Rescue
+  Fire
+  Health
+  Env
+  Transport
+  Infra
+  CBRNE
+  Other
+}
+
+enum WeatherAlertCertainty {
+  Observed
+  Likely
+  Possible
+  Unlikely
+  Unknown
+}
+
+enum WeatherAlertFloodImmediateCauseCode {
+  ER
+  SM
+  RS
+  DM
+  IJ
+  GO
+  IC
+  FS
+  FT
+  ET
+  WT
+  DR
+  MC
+  OT
+  UU
+}
+
+enum WeatherAlertFloodRecordStatusCode {
+  NO
+  NR
+  UU
+  OO
+}
+
+type WeatherAlertHeadline implements WeatherAlertModel {
+  adminDistrict: String
+  adminDistrictCode: String
+  areaId: String!
+  areaName: String
+  areaTypeCode: WeatherAlertAreaTypeCode
+  categories: [WeatherAlertHeadlinesCategory!]!
+  certainty: WeatherAlertCertainty!
+  certaintyCode: Int
+  countryCode: String
+  countryName: String
+  detailKey: String!
+  disclaimer: String
+  effectiveTimeLocal: String
+  effectiveTimeLocalTimeZone: String
+  eventDescription: String
+  eventTrackingNumber: String
+  expireTimeLocal: String
+  expireTimeLocalTimeZone: String
+  expireTimeUTC: DateTime
+  flood: WeatherAlertHeadlinesFlood
+  headlineText: String
+  ianaTimeZone: String
+  identifier: String
+  issueTimeLocal: String
+  issueTimeLocalTimeZone: String
+  latitude: Float
+  longitude: Float
+  messageType: WeatherAlertMessageType!
+  messageTypeCode: Int
+  officeAdminDistrict: String
+  officeAdminDistrictCode: String
+  officeCode: String
+  officeCountryCode: String
+  officeName: String
+  onsetTimeLocal: String
+  onsetTimeLocalTimeZone: String
+  phenomena: String
+  processTimeUTC: DateTime
+  productIdentifier: String
+  responseTypes: [WeatherAlertHeadlinesResponseTypes]
+  severity: WeatherAlertSeverity!
+  severityCode: Int
+  significance: String
+  source: String
+  urgency: WeatherAlertUrgency!
+  urgencyCode: Int
+}
+
+type WeatherAlertHeadlinesCategory {
+  category: WeatherAlertCategory!
+  categoryCode: Int!
+}
+
+type WeatherAlertHeadlinesFlood {
+  floodCrestTimeLocal: String
+  floodCrestTimeLocalTimeZone: String
+  floodEndTimeLocal: String
+  floodEndTimeLocalTimeZone: String
+  floodImmediateCause: String
+  floodImmediateCauseCode: WeatherAlertFloodImmediateCauseCode
+  floodLocationId: String
+  floodLocationName: String
+  floodRecordStatus: String
+  floodRecordStatusCode: WeatherAlertFloodRecordStatusCode
+  floodSeverity: String
+  floodSeverityCode: String
+  floodStartTimeLocal: String
+  floodStartTimeLocalTimeZone: String
+}
+
+type WeatherAlertHeadlinesResponseTypes {
+  responseType: WeatherAlertResponseType
+  responseTypeCode: Int
+}
+
+enum WeatherAlertMessageType {
+  New
+  Update
+  Cancel
+}
+
+interface WeatherAlertModel {
+  adminDistrict: String
+  adminDistrictCode: String
+  areaId: String!
+  areaName: String
+  areaTypeCode: WeatherAlertAreaTypeCode
+  categories: [WeatherAlertHeadlinesCategory!]!
+  certainty: WeatherAlertCertainty!
+  certaintyCode: Int
+  countryCode: String
+  countryName: String
+  detailKey: String!
+  disclaimer: String
+  effectiveTimeLocal: String
+  effectiveTimeLocalTimeZone: String
+  eventDescription: String
+  eventTrackingNumber: String
+  expireTimeLocal: String
+  expireTimeLocalTimeZone: String
+  expireTimeUTC: DateTime
+  flood: WeatherAlertHeadlinesFlood
+  headlineText: String
+  ianaTimeZone: String
+  identifier: String
+  issueTimeLocal: String
+  issueTimeLocalTimeZone: String
+  latitude: Float
+  longitude: Float
+  messageType: WeatherAlertMessageType!
+  messageTypeCode: Int
+  officeAdminDistrict: String
+  officeAdminDistrictCode: String
+  officeCode: String
+  officeCountryCode: String
+  officeName: String
+  onsetTimeLocal: String
+  onsetTimeLocalTimeZone: String
+  phenomena: String
+  processTimeUTC: DateTime
+  productIdentifier: String
+  responseTypes: [WeatherAlertHeadlinesResponseTypes]
+  severity: WeatherAlertSeverity!
+  severityCode: Int
+  significance: String
+  source: String
+  urgency: WeatherAlertUrgency!
+  urgencyCode: Int
+}
+
+type WeatherAlertPolygon {
+  lat: Float
+  lon: Float
+}
+
+enum WeatherAlertResponseType {
+  Shelter
+  Evacuate
+  Prepare
+  Execute
+  Avoid
+  Monitor
+  Assess
+  AllClear
+  None
+}
+
+type WeatherAlertsApiResponse {
+  alertDetail: WeatherAlert!
+}
+
+enum WeatherAlertSearchLanguage {
+  ES
+  EN
+}
+
+enum WeatherAlertSeverity {
+  Extreme
+  Severe
+  Moderate
+  Minor
+  Unknown
+}
+
+type WeatherAlertsHeadlinesApiResponse {
+  metadata: WeatherAlertsMetadataResponse!
+  alerts: [WeatherAlertHeadline!]!
+}
+
+type WeatherAlertsHeadlinesResponse {
+  totalCount: Int!
+  alerts: [WeatherAlertHeadline!]!
+}
+
+type WeatherAlertsMetadataResponse {
+  next: Int
+}
+
+type WeatherAlertsWithDescriptionResponse {
+  totalCount: Int!
+  alerts: [WeatherAlert!]!
+}
+
+type WeatherAlertTexts {
+  description: String
+  instruction: String
+  languageCode: String
+  overview: String
+}
+
+enum WeatherAlertUrgency {
+  Immediate
+  Expected
+  Future
+  Past
+  Unknown
+}
+
+type WeatherForecast {
+  tempF: Int
+  icon: Int
+  phrase: String
+  maxTempF: Int
+  minTempF: Int
+  humidity: Int
+  windDirection: String
+  windSpeedMph: Int
+  precipChance: Int
+  precipType: String
+  forecasts: ForecastTypes
+}
+
+enum WeatherForecastLanguage {
+  ES
+  EN
+}
+
+type WhatsAppShare {
+  title: String
+  url: String
+}

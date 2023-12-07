@@ -1,0 +1,18 @@
+{
+  "gordoflaca": {
+    "backgroundColor": "#5D2B78",
+    "title": "El Gordo y La Flaca",
+    "uri": "/shows/el-gordo-y-la-flaca"
+  },
+  "alpunto": {
+    "backgroundColor": "#4e4e4e",
+    "title": "Al Punto",
+    "uri": "/shows/al-punto"
+  },
+  "rosariotijeras": {
+    "backgroundColor": "#4e4e4e",
+    "backgroundImage": "/image.jpg",
+    "title": "Al Punto",
+    "uri": "/shows/al-punto"
+  }
+}

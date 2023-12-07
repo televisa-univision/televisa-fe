@@ -1,0 +1,172 @@
+.linkList {
+  align-self: flex-end;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  @include media-breakpoint-up('sm') {
+    line-height: 0;
+  }
+}
+
+.primary {
+  @include media-breakpoint-down("xs") {
+    align-self: stretch;
+  }
+  li {
+    text-align: center;
+    display: inline-block;
+    @include media-breakpoint-down("sm") {
+      display:none;
+      &:nth-child(-n+3),
+      &.moreWrapper {
+        display: inline-block;
+      }
+    }
+
+    @include media-breakpoint-down("xs") {
+      display: block;
+      &:nth-child(-n+3) {
+        display: block;
+      }
+      border-bottom: 1px solid $black-grey;
+      .light &,
+      .theme & {
+        border-bottom-color: $very-light-grey;
+      }
+    }
+  }
+}
+
+.btnReset {
+  background: transparent;
+  padding: 10px;
+}
+
+
+.more {
+  @extend .btnReset;
+
+  font-size: rem(11px);
+  color: $white;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 7px 10px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  -webkit-font-smoothing: antialiased;
+
+  svg {
+    margin-left: 10px;
+    vertical-align: text-bottom;
+  }
+
+  &:hover {
+    color: $white;
+    div > * {
+      background-color: $white;
+    }
+    .light &,
+    .theme & {
+      color: $darker-grey;
+      div > * {
+        background-color: $darker-grey;
+      }
+    }
+  }
+}
+
+.nav {
+  align-self: stretch;
+  @include media-breakpoint-up("sm") {
+    align-self: inherit;
+    display: flex;
+  }
+
+  li a {
+    color: $white;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: rem(14px);
+    line-height: 1;
+    padding: 16px 8px;
+    @include media-breakpoint-up("sm") {
+      padding: 26px 8px 24px 8px;
+      margin-right: 8px;
+    }
+  }
+
+  &.light li a,
+  &.theme li a {
+    margin-right: 0;
+    color: $darker-grey;
+    padding-top: 28px;
+    @include media-breakpoint-up('sm') {
+      font-size: rem(12px);
+      color: $grey;
+    }
+  }
+}
+
+.overlayHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 3px;
+  a, button {
+    padding: 10px;
+  }
+}
+
+.closer {
+  background: transparent;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  color: $light-grey;
+  text-transform: uppercase;
+  font-size: rem(12px);
+  font-weight: 100;
+  z-index: 4;
+  svg {
+    .light &,
+    .theme & {
+      fill: $grey;
+    }
+  }
+}
+
+@include media-breakpoint-up('sm') {
+  .hoverState a {
+    position: relative;
+
+    &:after {
+      position: absolute;
+      content: "";
+      width: 2px;
+      bottom: 0px;
+      right: 10px;
+      border-bottom: 2px solid $white;
+      opacity: 0;
+
+      transition: all 0.4s ease-out;
+
+      .light &,
+      .theme & {
+        border-bottom: 2px solid $grey;
+      }
+    }
+
+    &:hover::after {
+      opacity: 1;
+      width: calc(100% - 20px);
+      left: 10px;
+
+      transition: all 0.25s ease-out;
+    }
+  }
+}

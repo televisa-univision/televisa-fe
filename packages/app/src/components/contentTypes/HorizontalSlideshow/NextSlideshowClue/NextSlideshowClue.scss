@@ -1,0 +1,34 @@
+.container {
+  align-items: center;
+  background-color: $black-grey;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  width: 127px;
+
+  @include media-breakpoint-up('md') {
+    padding: 16px;
+    width: 229px;
+  }
+}
+
+.nextGalleryTitle {
+  align-self: flex-start;
+  color: $grey;
+  font-size: rem(11px);
+  font-weight: bold;
+  line-height: 13px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+.slideshowTitle {
+  align-self: flex-start;
+  color: $white;
+  font-size: rem(14px);
+  font-weight: 700;
+  line-height: 17px;
+  margin-top: 8px;
+  text-transform: capitalize;
+}

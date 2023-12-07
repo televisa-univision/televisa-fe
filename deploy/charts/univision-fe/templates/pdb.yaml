@@ -1,0 +1,16 @@
+apiVersion: policy/v1beta1
+kind: PodDisruptionBudget
+metadata:
+  name: {{ include "univision-fe.fullname" . }}
+  labels:
+    app.kubernetes.io/name: {{ include "univision-fe.name" . }}
+    helm.sh/chart: {{ include "univision-fe.chart" . }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
+spec:
+  maxUnavailable:  {{ .Values.pdb.maxUnavailable }}
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: {{ include "univision-fe.name" . }}
+      app.kubernetes.io/instance: {{ .Release.Name }}
+

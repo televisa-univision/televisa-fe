@@ -1,0 +1,611 @@
+[
+  {
+    "uid": "0000015f-4ab8-dfa7-a1df-eeb949250000",
+    "uri": "/los-angeles/klve/a-lot-of-enhancements",
+    "type": "article",
+    "updateDate": "2017-12-12T09:54:59-05:00",
+    "publishDate": "2017-10-23T15:35:16-04:00",
+    "expirationDate": null,
+    "title": "A lot of enhancements",
+    "shortTitle": "A lot of enhancements",
+    "description": "A lot of enhancements",
+    "shortDescription": "A lot of enhancements",
+    "richTextDescription": [],
+    "image": {
+      "type": "image",
+      "uid": "0000015f-4a88-d615-a7ff-6a9fcf760000",
+      "title":
+        "Dwyane Wade, centro, de los Cavaliers de Cleveland, se dirige a la canasta entre Terrence Ross, izquierda, y Evan Fournier, del Magic de Orlando, en duelo de NBA el sábado 21 de octubre de 2017 en Cleveland. (AP Foto/Tony Dejak)",
+      "caption":
+        "Dwyane Wade, centro, de los Cavaliers de Cleveland, se dirige a la canasta entre Terrence Ross, izquierda, y Evan Fournier, del Magic de Orlando, en duelo de NBA el sábado 21 de octubre de 2017 en Cleveland. (AP Foto/Tony Dejak)",
+      "credit": "The Associated Press",
+      "renditions": {
+        "original": {
+          "href":
+            "https://cdn3.performance.univision.com/4c/ed/f85ecd8b4944911f690644080644/c1ab694a05af45bebff95b2fef5af960",
+          "width": 3456,
+          "height": 2500
+        },
+        "1x1-xxs-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/5314907/2147483647/thumbnail/80x80/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 80,
+          "height": 80
+        },
+        "16x9-med": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/1fd29b7/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 400,
+          "height": 225
+        },
+        "1x1-xs-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/f200df8/2147483647/thumbnail/140x140/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 140,
+          "height": 140
+        },
+        "16x9": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/2dbf8e0/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/9c20491/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/fae7e8f/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/022e613/2147483647/thumbnail/1024x576/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/e19b352/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/847d40e/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 480,
+          "height": 480
+        },
+        "16x9-loading": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/93488fc/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 30,
+          "height": 17
+        }
+      }
+    },
+    "primaryTag": {
+      "name": "K-Love 107.5",
+      "link": "/los-angeles/klve"
+    },
+    "primaryTopic": "Local",
+    "leadType": null
+  },
+  {
+    "uid": "0000015e-8198-d479-a5df-f7fe036b0000",
+    "uri":
+      "/los-angeles/klve/musica/uforia-music/thalia-demuestra-que-extrana-a-las-marias-tanto-como-nosotros-fotos",
+    "type": "video",
+    "updateDate": "2017-12-04T15:49:24-05:00",
+    "publishDate": "2017-09-14T20:50:27-04:00",
+    "expirationDate": null,
+    "title": "Thalía demuestra que extraña a las 'Marías' tanto como nosotros",
+    "shortTitle": "Thalía demuestra que extraña a las 'Marías' tanto como nosotros",
+    "description":
+      "La intérprete de 'Amor a la Mexicana' ha dejado en claro que ni ella ni sus fans han olvidado sus icónicos personajes telenoveleros.",
+    "shortDescription":
+      "La intérprete de 'Amor a la Mexicana' ha dejado en claro que ni ella ni sus fans han olvidado sus icónicos personajes telenoveleros.",
+    "richTextDescription": [],
+    "image": {
+      "type": "image",
+      "uid": "0000015e-81c6-d479-a5df-f7e68b720000",
+      "title": "Thalía",
+      "caption": "",
+      "credit": "Getty Images",
+      "renditions": {
+        "original": {
+          "href": "https://cdn2.uvnimg.com/a8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        "1x1-xxs-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/b91be52/2147483647/crop/1080x1080%2B533%2B0/resize/80x80/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 80,
+          "height": 80
+        },
+        "16x9-med": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/05b420c/2147483647/crop/0x0%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "1x1-xs-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/8cc24c0/2147483647/crop/1080x1080%2B533%2B0/resize/140x140/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "16x9": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/a5c9313/2147483647/thumbnail/1918x1080/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/f5c1979/2147483647/crop/0x0%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/4dcd929/2147483647/crop/1920x1077%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/3bd7151/2147483647/crop/0x0%2B0%2B0/resize/1024x576/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/2251b54/2147483647/crop/0x0%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/60f9d3b/2147483647/crop/1080x1080%2B533%2B0/resize/480x480/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 480,
+          "height": 480
+        },
+        "16x9-loading": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/615757d/2147483647/crop/1905x1080%2B14%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 30,
+          "height": 17
+        }
+      }
+    },
+    "primaryTag": {
+      "name": "Uforia Music",
+      "link": "https://performance.univision.com/temas/uforia-music"
+    },
+    "primaryTopic": "Música"
+  },
+  {
+    "uid": "00000160-3067-d4d9-a36f-7eff09fc0000",
+    "uri":
+      "/los-angeles/klve/estilo-de-vida/belleza/selena-siempre-bella-pero-no-siempre-igualsaqsaqaq",
+    "type": "article",
+    "updateDate": "2017-12-07T04:55:55-05:00",
+    "publishDate": "2017-12-07T04:55:55-05:00",
+    "expirationDate": null,
+    "title": "Selena, siempre bella pero no siempre igualsaqsaqaq",
+    "shortTitle": "Selena, siempre bella pero no siempre igualsaqsaqaq",
+    "description":
+      "Orgulloso ejemplar de la belleza latina y siempre recordada, aquí te mostramos su evolución a lo largo de los años\r\n",
+    "shortDescription":
+      "Orgulloso ejemplar de la belleza latina y siempre recordada, aquí te mostramos su evolución a lo largo de los años\r\n",
+    "richTextDescription": [],
+    "image": {
+      "type": "image",
+      "uid": "00000156-e184-d189-abde-efffc8640000",
+      "title": "Selena GIF",
+      "caption":
+        "Selena es galardonada como mejor vocalista y mejor artista en los Tejano Music Awards de 1987. Es a partir de este momento que su carrera rebasa el ámbito local y, con ello, su look también adquiere una firma propia. ",
+      "credit": "giphy.com",
+      "renditions": {
+        "original": {
+          "href":
+            "https://cdn3.uvnimg.com/95/08/8f8f3cac456eae48504d6ff79ea2/selena-quintanilla.gif",
+          "width": 0,
+          "height": 0
+        },
+        "1x1-xxs-mobile": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/7993027/2147483647/thumbnail/80x80/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 80,
+          "height": 80
+        },
+        "16x9-med": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/5d35f05/2147483647/thumbnail/400x225/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 400,
+          "height": 225
+        },
+        "1x1-xs-mobile": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/5943df5/2147483647/thumbnail/140x140/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 140,
+          "height": 140
+        },
+        "16x9": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/688d833/2147483647/thumbnail/1240x698/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/5bb24d6/2147483647/thumbnail/480x270/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/83b9eed/2147483647/thumbnail/246x138/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/ddd727b/2147483647/thumbnail/1024x576/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/d050de7/2147483647/thumbnail/1440x810/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/47062de/2147483647/thumbnail/480x480/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 480,
+          "height": 480
+        },
+        "16x9-loading": {
+          "href":
+            "https://cdn2.performance.univision.com/dims4/default/207f2a8/2147483647/thumbnail/30x17/quality/75/format/jpg/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F95%2F08%2F8f8f3cac456eae48504d6ff79ea2%2Fselena-quintanilla.gif",
+          "width": 30,
+          "height": 17
+        }
+      }
+    },
+    "primaryTag": {
+      "name": "Belleza",
+      "link": "https://performance.univision.com/temas/belleza"
+    },
+    "primaryTopic": "Estilo de Vida",
+    "leadType": "image"
+  },
+  {
+    "uid": "0000015f-4ab8-dfa7-a1df-eeb949250001",
+    "uri": "/los-angeles/klve/a-lot-of-enhancements",
+    "type": "article",
+    "updateDate": "2017-12-12T09:54:59-05:00",
+    "publishDate": "2017-10-23T15:35:16-04:00",
+    "expirationDate": null,
+    "title": "A lot of enhancements",
+    "shortTitle": "A lot of enhancements",
+    "description": "A lot of enhancements",
+    "shortDescription": "A lot of enhancements",
+    "richTextDescription": [],
+    "image": {
+      "type": "image",
+      "uid": "0000015f-4a88-d615-a7ff-6a9fcf760000",
+      "title":
+        "Dwyane Wade, centro, de los Cavaliers de Cleveland, se dirige a la canasta entre Terrence Ross, izquierda, y Evan Fournier, del Magic de Orlando, en duelo de NBA el sábado 21 de octubre de 2017 en Cleveland. (AP Foto/Tony Dejak)",
+      "caption":
+        "Dwyane Wade, centro, de los Cavaliers de Cleveland, se dirige a la canasta entre Terrence Ross, izquierda, y Evan Fournier, del Magic de Orlando, en duelo de NBA el sábado 21 de octubre de 2017 en Cleveland. (AP Foto/Tony Dejak)",
+      "credit": "The Associated Press",
+      "renditions": {
+        "original": {
+          "href":
+            "https://cdn3.performance.univision.com/4c/ed/f85ecd8b4944911f690644080644/c1ab694a05af45bebff95b2fef5af960",
+          "width": 3456,
+          "height": 2500
+        },
+        "1x1-xxs-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/5314907/2147483647/thumbnail/80x80/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 80,
+          "height": 80
+        },
+        "16x9-med": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/1fd29b7/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 400,
+          "height": 225
+        },
+        "1x1-xs-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/f200df8/2147483647/thumbnail/140x140/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 140,
+          "height": 140
+        },
+        "16x9": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/2dbf8e0/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/9c20491/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/fae7e8f/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/022e613/2147483647/thumbnail/1024x576/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/e19b352/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/847d40e/2147483647/thumbnail/480x480/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 480,
+          "height": 480
+        },
+        "16x9-loading": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/93488fc/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.performance.univision.com%2F4c%2Fed%2Ff85ecd8b4944911f690644080644%2Fc1ab694a05af45bebff95b2fef5af960",
+          "width": 30,
+          "height": 17
+        }
+      }
+    },
+    "primaryTag": {
+      "name": "K-Love 107.5",
+      "link": "/los-angeles/klve"
+    },
+    "primaryTopic": "Local",
+    "leadType": null
+  },
+  {
+    "uid": "0000015e-8198-d479-a5df-f7fe036b0001",
+    "uri":
+      "/los-angeles/klve/musica/uforia-music/thalia-demuestra-que-extrana-a-las-marias-tanto-como-nosotros-fotos",
+    "type": "slideshow",
+    "updateDate": "2017-12-04T15:49:24-05:00",
+    "publishDate": "2017-09-14T20:50:27-04:00",
+    "expirationDate": null,
+    "title": "Thalía demuestra que extraña a las 'Marías' tanto como nosotros",
+    "shortTitle": "Thalía demuestra que extraña a las 'Marías' tanto como nosotros",
+    "description":
+      "La intérprete de 'Amor a la Mexicana' ha dejado en claro que ni ella ni sus fans han olvidado sus icónicos personajes telenoveleros.",
+    "shortDescription":
+      "La intérprete de 'Amor a la Mexicana' ha dejado en claro que ni ella ni sus fans han olvidado sus icónicos personajes telenoveleros.",
+    "richTextDescription": [],
+    "image": {
+      "type": "image",
+      "uid": "0000015e-81c6-d479-a5df-f7e68b720000",
+      "title": "Thalía",
+      "caption": "",
+      "credit": "Getty Images",
+      "renditions": {
+        "original": {
+          "href": "https://cdn2.uvnimg.com/a8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        "1x1-xxs-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/b91be52/2147483647/crop/1080x1080%2B533%2B0/resize/80x80/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 80,
+          "height": 80
+        },
+        "16x9-med": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/05b420c/2147483647/crop/0x0%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "1x1-xs-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/8cc24c0/2147483647/crop/1080x1080%2B533%2B0/resize/140x140/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "16x9": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/a5c9313/2147483647/thumbnail/1918x1080/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/f5c1979/2147483647/crop/0x0%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/4dcd929/2147483647/crop/1920x1077%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/3bd7151/2147483647/crop/0x0%2B0%2B0/resize/1024x576/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/2251b54/2147483647/crop/0x0%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/60f9d3b/2147483647/crop/1080x1080%2B533%2B0/resize/480x480/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 480,
+          "height": 480
+        },
+        "16x9-loading": {
+          "href":
+            "https://cdn1.performance.univision.com/dims4/default/615757d/2147483647/crop/1905x1080%2B14%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fa8-af-4aa8fe9f4599a5d482338e10bd8b-collagefinal.jpg",
+          "width": 30,
+          "height": 17
+        }
+      }
+    },
+    "primaryTag": {
+      "name": "Uforia Music",
+      "link": "https://performance.univision.com/temas/uforia-music"
+    },
+    "primaryTopic": "Música"
+  },
+  {
+    "uid": "0000015e-7bf5-dfed-a3de-fff7a03d0000",
+    "uri":
+      "/los-angeles/klve/musica/omar-y-argelia-show/por-que-hillary-acepto-las-infidelidades-del-expresidente-bill-clinton-update-video",
+    "type": "video",
+    "updateDate": "2017-11-16T02:13:27-05:00",
+    "publishDate": "2017-09-13T11:42:00-04:00",
+    "expirationDate": "2027-09-13T11:42:00-04:00",
+    "title": "¿Por qué Hillary aceptó las infidelidades del expresidente, Bill Clinton? update",
+    "shortTitle": "¿Por qué Hillary aceptó las infidelidades del expresidente, Bill Clinton?",
+    "description":
+      "La exprimera dama finalmente habló de las razones porque decidió perdonar y quedarse con el exmandatario estadounidense. ",
+    "shortDescription":
+      "La exprimera dama finalmente habló de las razones porque decidió perdonar y quedarse con el exmandatario estadounidense. ",
+    "richTextDescription": [],
+    "image": {
+      "type": "image",
+      "uid": "0000015e-7c0c-d2a0-af5f-fc3d92050000",
+      "title": "Hillary ",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn3.uvnimg.com/b0/ff/a209c80a4add8b64b0ba177de964/846073482.jpg",
+          "width": 594,
+          "height": 355
+        },
+        "1x1-xxs-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/685695d/2147483647/crop/355x355%2B107%2B0/resize/80x80/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 80,
+          "height": 80
+        },
+        "16x9-med": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/4c1df89/2147483647/crop/594x334%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "1x1-xs-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/3940b5c/2147483647/crop/355x355%2B107%2B0/resize/140x140/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "16x9": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/6849c6f/2147483647/thumbnail/594x334/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/d86e23b/2147483647/crop/594x334%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/5c8aa5f/2147483647/crop/594x333%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/c819f3f/2147483647/crop/594x334%2B0%2B0/resize/1024x576/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/c314231/2147483647/crop/594x334%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-mobile": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/6dd3586/2147483647/crop/355x355%2B107%2B0/resize/480x480/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 480,
+          "height": 480
+        },
+        "16x9-loading": {
+          "href":
+            "https://cdn4.performance.univision.com/dims4/default/30291ca/2147483647/crop/594x337%2B0%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb0%2Fff%2Fa209c80a4add8b64b0ba177de964%2F846073482.jpg",
+          "width": 30,
+          "height": 17
+        }
+      }
+    },
+    "primaryTag": {
+      "name": "Omar y Argelia Show",
+      "link": "https://performance.univision.com/temas/omar-y-argelia-show"
+    },
+    "primaryTopic": "Música",
+    "mcpid": "3368308",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url":
+            "https://performance.univision.com/los-angeles/klve/musica/omar-y-argelia-show/por-que-hillary-acepto-las-infidelidades-del-expresidente-bill-clinton-update-video",
+          "redirectUrl":
+            "https://performance.univision.com/los-angeles/klve/musica/omar-y-argelia-show/por-que-hillary-acepto-las-infidelidades-del-expresidente-bill-clinton-update-video",
+          "isFeedDialog": false,
+          "baseUrl": null,
+          "appId": "645138725541385",
+          "title": "¿Por qué Hillary aceptó las infidelidades del expresidente, Bill Clinton?",
+          "description":
+            "La exprimera dama finalmente habló de las razones porque decidió perdonar y quedarse con el exmandatario estadounidense. ",
+          "imageUrl": "https://cdn3.uvnimg.com/b0/ff/a209c80a4add8b64b0ba177de964/846073482.jpg"
+        },
+        "twitter": {
+          "url":
+            "https://performance.univision.com/los-angeles/klve/musica/omar-y-argelia-show/por-que-hillary-acepto-las-infidelidades-del-expresidente-bill-clinton-update-video",
+          "title": "¿Por qué Hillary aceptó las infidelidades del expresidente, Bill Clinton?",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url":
+            "https://performance.univision.com/los-angeles/klve/musica/omar-y-argelia-show/por-que-hillary-acepto-las-infidelidades-del-expresidente-bill-clinton-update-video",
+          "message": "¿Por qué Hillary aceptó las infidelidades del expresidente, Bill Clinton?"
+        },
+        "mail": {
+          "subject": "¿Por qué Hillary aceptó las infidelidades del expresidente, Bill Clinton?",
+          "body":
+            "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\n¿Por qué Hillary aceptó las infidelidades del expresidente, Bill Clinton?\n\nEncuéntralo en este enlace: https://performance.univision.com/los-angeles/klve/musica/omar-y-argelia-show/por-que-hillary-acepto-las-infidelidades-del-expresidente-bill-clinton-update-video\n\nVisitamos www.univision.com"
+        }
+      }
+    }
+  }
+]

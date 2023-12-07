@@ -1,0 +1,118 @@
+.showMore {
+  &:hover {
+    .visibilityTrigger {
+      background: rgba(0,0,0,0.02);
+    }
+  }
+  &.dark {
+    &:hover {
+      .visibilityTrigger {
+        background: rgba(255,255,255,0.15);
+      }
+    }
+  }
+  .visibilityTrigger {
+    padding: 13px 16px;
+    background: transparent;
+    color: $darker-grey;
+    svg {
+      fill: $darker-grey;
+    }
+  }
+}
+
+.visibilityTrigger {
+  border: none;
+  color: $darker-grey;
+  text-transform: none;
+  font-size: rem(14px);
+  height: 48px;
+
+  &:hover {
+    background: rgba(0,0,0,0.02);
+    color: $darker-grey;
+  }
+
+  svg {
+    fill: $darker-grey;
+  }
+
+  .dark & {
+    color: $white;
+    &:hover {
+      background: rgba(255,255,255,0.15);
+    }
+    svg {
+      fill: $white;
+    }
+  }
+}
+
+.list{
+  list-style: none;
+  background: $white;
+  min-width: 192px;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 0 4px 0 rgba(0,0,0,0.1);
+  position: absolute;
+  z-index: $zindex-navigation;
+  transform: translateY(-20px);
+  opacity: 0;
+  transition: all .3s;
+  visibility: hidden;
+  overflow: hidden;
+  padding: 0px;
+
+  &.tudn {
+    background: $very-light-grey;
+  }
+  &.open {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+
+  li {
+    &:hover{
+      background: rgba(0,0,0,0.02);
+      cursor: pointer;
+      a.extraLink {
+        color: $darker-grey;
+      }
+    }
+    a.extraLink {
+      color: $darker-grey;
+      display: inline-block;
+      padding: 16px;
+      position: relative;
+      font-size: rem(14px);
+      line-height: 1;
+      letter-spacing: 0.5px;
+    }
+  }
+
+  .dark & {
+    li {
+      &.tudn {
+        &:hover {
+          background: $white-grey;
+        }
+      }
+      &:hover {
+        background: rgba(255,255,255,0.1);
+        a.extraLink {
+          color: $white;
+          &.tudn {
+            color: $tudn-grey;
+          }
+        }
+      }
+      a.extraLink {
+        color: $white;
+        &.tudn {
+          color: $tudn-grey;
+        }
+      }
+    }
+  }
+}

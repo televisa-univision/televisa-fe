@@ -1,0 +1,43 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+
+// Grid breakpoints
+//
+// Define the minimum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+
+// Grid columns
+//
+// Specify the width of the gutters.
+$grid-gutter-width: 8px;
+$grid-margin-width: 40px; //20px is the margin for each side
+
+// Grid breakpoints
+//
+// Define the minimum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+
+$grid-breakpoints: (
+  xxs: 0,
+  xs: 480px,
+  sm: 768px,
+  md: 1024px,
+  lg: 1280px,
+  xl: 1440px
+);
+@include _assert-ascending($grid-breakpoints, "$grid-breakpoints");
+@include _assert-starts-at-zero($grid-breakpoints);
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+  xs: 480px,
+  sm: 768px,
+  md: 1024px,
+  lg: 1260px + $grid-margin-width //content of 1260px in desktop
+);
+@include _assert-ascending($container-max-widths, "$container-max-widths");

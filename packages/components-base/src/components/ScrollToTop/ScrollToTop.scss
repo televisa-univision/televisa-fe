@@ -1,0 +1,45 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  right: 1.5rem;
+  bottom: 4vh;
+  z-index: $zindex-base-screen;
+  height: 44px;
+  width: 44px;
+  background-color: $black;
+  box-shadow: 4px 6px 6px 0 rgba(0, 0, 0, .24);
+  border-radius: 50%;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 200ms linear, visbility 200ms linear;
+
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+
+  &::after {
+    content: '';
+    display: block;
+    width: 11px;
+    height: 11px;
+    margin: 0 auto -7px;
+    border-left: 1px solid $white;
+    border-top: 1px solid $white;
+    transform: rotate(45deg);
+  }
+}
+
+.visible {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+:global(.jw-skin-anchor) > div > div:last-child{
+  @include media-breakpoint-down('sm') {
+    bottom: 12vh;
+  }
+}

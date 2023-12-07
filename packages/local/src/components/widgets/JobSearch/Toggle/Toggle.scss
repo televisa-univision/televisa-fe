@@ -1,0 +1,14 @@
+.badge:not(:last-child) {
+  margin-right: .8rem;
+  font-family: $font-c-family, sans-serif;
+  font-weight: bold;
+}
+
+.unselect {
+  background-color: $very-light-grey !important;
+  span {
+    color: $grey-black;
+    font-family: $font-c-family, sans-serif;
+    font-weight: normal;
+  }
+}

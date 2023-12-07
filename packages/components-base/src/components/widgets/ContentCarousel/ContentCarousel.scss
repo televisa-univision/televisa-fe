@@ -1,0 +1,73 @@
+.contentCarousel {
+  button {
+    @include media-breakpoint-up('md') {
+      visibility: visible;
+    }
+    // Arrow containers fill the entire height of the card
+    // Adjust position of arrow icon to center with image instead of it's container
+    &:after, &:before {
+      position: absolute;
+      top: 25%;
+      @include media-breakpoint-up('md') {
+        top: 24%;
+      }
+      @include media-breakpoint-up('lg') {
+        top: 26%;
+      }
+      @include media-breakpoint-up('xl') {
+        top: 28%;
+      }
+    }
+  }
+}
+
+.card {
+  padding: 0 2px;
+  text-align: center;
+  width: 200px;
+  @include media-breakpoint-up('md') {
+    visibility: visible;
+    width: auto;
+    max-width: 400px;
+  }
+}
+
+.image {
+  background-color: $light-grey;
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 57%;
+}
+
+.info {
+  margin-top: -18px;
+  text-align: center;
+}
+
+.topic {
+  background-color: $darker-grey;
+  color: $white;
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  padding: 0 1rem;
+}
+
+.noTitle {
+  margin-top: 20px;
+}
+
+.contentCarousel .title h3 {
+  color: $black-grey;
+  font-size: 1rem;
+  line-height: 1.1875rem;
+
+  @include media-breakpoint-up('md') {
+    font-size: 1.125rem;
+    line-height: 1.3125rem;
+  }
+
+  a {
+    color: $black-grey;
+  }
+}

@@ -1,0 +1,83 @@
+.stats {
+  display: flex;
+  flex-direction: row;
+  height: 48px;
+  border-bottom: 1px solid $very-light-grey;
+  padding: 0 8px;
+
+  @include media-breakpoint-up("sm") {
+    padding: 0 10px;
+  }
+}
+
+.number {
+  width: 40px;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  font-size: rem(14px);
+  color: $black;
+  @include media-breakpoint-up("sm") {
+    width: 50px;
+  }
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  font-size: rem(16px);
+  width: 177px;
+  @include media-breakpoint-up("sm") {
+    width: 250px;
+  }
+  @include media-breakpoint-up("md") {
+    width: 350px;
+  }
+  a {
+    color: $black;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.nationality {
+  text-transform: uppercase;
+  img {
+    width: 23px;
+    height: 13px;
+  }
+}
+
+.outcome {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 0;
+  font-size: rem(14px);
+  color: $black;
+}
+
+.teamName {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  @include media-breakpoint-up("sm") {
+    max-width: 165px;
+  }
+}
+
+.hideMobile {
+  display: none;
+  @include media-breakpoint-up("sm") {
+    display: flex;
+  }
+}
+
+.date {
+  font-size: rem(14px);
+}

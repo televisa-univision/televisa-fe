@@ -1,0 +1,1481 @@
+{
+  "type": "section",
+  "uid": "00000153-860f-dd44-afd7-f67fc3280012",
+  "uri": "https://performance.univision.com/shows",
+  "vertical": "Entretenimiento",
+  "parent": {
+    "uuid": null,
+    "uri": null,
+    "name": null,
+    "title": null
+  },
+  "title": "Shows",
+  "description": "Shows the Section",
+  "updateDate": "2019-07-30T16:07:13-04:00",
+  "publishDate": "2016-07-14T23:05:00-04:00",
+  "expirationDate": null,
+  "adSettings": {
+    "disable3rdPartyAds": false,
+    "disableAds": false,
+    "disableVideoAds": false,
+    "adTagValue": "section_entretenimiento/shows/inicio",
+    "targeting": {
+      "vertical": "entretenimiento"
+    },
+    "contentSpecificSettings": {}
+  },
+  "tracking": {
+    "analytics": {
+      "data": {
+        "adtag_value": "section_entretenimiento/shows/inicio",
+        "all_tags": [],
+        "canonical_url": "https://performance.univision.com/shows",
+        "content_created_date": "2016-07-14",
+        "content_id": "00000153-860f-dd44-afd7-f67fc3280012",
+        "content_modified_date": "2019-07-30",
+        "content_type": "section",
+        "content_vertical": "entretenimiento",
+        "environment_name": "qa",
+        "nielsenVcid": "c04",
+        "permalink": "https://performance.univision.com/shows",
+        "platform": "website",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "shows"
+        ],
+        "section_level1": "shows",
+        "title": "shows",
+        "adtag_platform_prefix": "/rm",
+        "page_title": "Shows y Programas de Univision | Shows | Univision"
+      }
+    },
+    "nielsen": {
+      "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+      "vcid": "c04",
+      "environment": "qa",
+      "primaryTopic": "Shows"
+    }
+  },
+  "analyticsData": {
+    "apps": {
+      "common": {
+        "adtag_value": "section_entretenimiento/shows/inicio",
+        "all_tags": [],
+        "content_created_date": "2016-07-14",
+        "content_id": "00000153-860f-dd44-afd7-f67fc3280012",
+        "content_type": "section",
+        "section": "shows",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "shows"
+        ],
+        "section_level1": "shows",
+        "title": "shows"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "00000153-860f-dd44-afd7-f67fc3280012",
+          "section": "section",
+          "type": "static",
+          "vcid": "c04"
+        },
+        "contentSpecific": {}
+      }
+    },
+    "web": {
+      "common": {
+        "adtag_value": "section_entretenimiento/shows/inicio",
+        "all_tags": [],
+        "content_created_date": "2016-07-14",
+        "content_id": "00000153-860f-dd44-afd7-f67fc3280012",
+        "content_modified_date": "2019-07-30",
+        "content_type": "section",
+        "content_vertical": "entretenimiento",
+        "permalink": "https://performance.univision.com/shows",
+        "platform": "website",
+        "section": "shows",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "shows"
+        ],
+        "section_level1": "shows",
+        "seo_optimized ": true,
+        "title": "shows"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "00000153-860f-dd44-afd7-f67fc3280012",
+          "section": "section",
+          "type": "static",
+          "vcid": "c04"
+        },
+        "contentSpecific": {}
+      }
+    }
+  },
+  "metaTagData": {
+    "openGraph": {
+      "type": null,
+      "title": "Shows",
+      "description": "Shows the Section",
+      "imageUrl": "https://cdn1.performance.univision.com/dims4/default/cf2ec7a/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+      "url": "https://performance.univision.com/shows",
+      "siteName": "Univision"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shows",
+      "description": "Shows the Section",
+      "creator": null,
+      "imageUrl": "https://cdn1.performance.univision.com/dims4/default/cf2ec7a/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg"
+    },
+    "facebook": {
+      "pages": null
+    }
+  },
+  "seo": {
+    "title": "Shows y Programas de Univision | Shows | Univision",
+    "description": "Aquí puedes ver todos los Shows de Univision: Despierta América, El Gordo y La Flaca, Primer Impacto, Noticiero, Sal y Pimienta, Al Punto, Aquí y Ahora, República Deportiva, Nuestra Belleza Latina, La Banda, Premios Juventud, Hoy, Laura, Lánzate, Premios TV y Novelas, Al Punto Florida, Sabadazo, Va por Ti, Crónicas de Sábado, Teletón, Sésame Amigos | Shows | Univision | Univision",
+    "canonicalUrl": "https://performance.univision.com/shows",
+    "keywords": [
+      "documentales",
+      "El Gordo y La Flaca",
+      "Noticiero",
+      "Al Punto Florida",
+      "Nuestra Belleza Latina",
+      "Premios TV y Novelas",
+      "Aqui y Ahora",
+      "shows",
+      "Despierta America",
+      "sabadazo",
+      "Primer Impacto",
+      "La Banda",
+      "teleton",
+      "va por ti",
+      "Al punto",
+      "Cronicas de Sabado",
+      "Sal y Pimienta",
+      "sesame amigos",
+      "Republica Deportiva",
+      "programas de television",
+      "tv shows",
+      "Hoy",
+      "Laura",
+      "Lanzate",
+      "programas",
+      "Premios Juventud"
+    ],
+    "robots": [],
+    "news_keywords": []
+  },
+  "hierarchy": [
+    {
+      "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+      "uri": "https://performance.univision.com/shows",
+      "name": "shows",
+      "title": "Shows"
+    }
+  ],
+  "externalWidgets": null,
+  "widgets": [
+    {
+      "settings": {
+        "type": "highimpactwidget",
+        "uid": "0000016c-4477-dac8-ab7f-dcf70893001a",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016c-4477-dac8-ab7f-dcf70893001a",
+      "type": "LFHighImpactWidget",
+      "contents": [
+        {
+          "type": "show",
+          "uid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+          "uri": "https://performance.univision.com/shows/despierta-america",
+          "vertical": null,
+          "parent": null,
+          "title": "Despierta América - LUN-VIE 7AM/6C",
+          "description": "Despierta América con las más recientes noticias y lo mejor del entretenimiento: chismes, juegos, concursos, consejos útiles e invitados especiales.",
+          "image": {
+            "type": "image",
+            "uid": "00000169-4889-d264-a9ed-599b540a0000",
+            "title": "Despierta America promo universal 2019",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/ed/32/5eff5e014a1dad3fcc1d7c3a59ba/despiertaamerica-featuredshows-2x.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/f102627/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/eef52ad/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c3f1b7d/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/1cf098b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2f85661/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8641d41/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e31ed41/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4b22413/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-04T12:29:45-04:00",
+          "publishDate": "2015-09-14T07:00:00-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "airTime": "LUN-VIE 7AM/6C",
+          "headerLogo": {
+            "type": "image",
+            "uid": "00000162-becd-df9c-a76f-feedbc040000",
+            "title": "Despierta America show header logo_UPDATED",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/d3/57/f4d3341a400993e53c3126d7b7f9/lg-despierta-america.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0ce7935/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/627a26e/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/cf77f91/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/74a61fb/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8e5a8c0/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ccb7af1/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8a01a78/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/a4784cb/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "highImpactImages": {
+            "mobile": null,
+            "desktop": null
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "allcarouseliconpromo",
+        "uid": "0000016c-447c-dac8-ab7f-dcffcad90004",
+        "title": "Destacados",
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016c-447c-dac8-ab7f-dcffcad90004",
+      "type": "AllCarouselIconPromo",
+      "contents": [
+        {
+          "type": "show",
+          "uid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+          "uri": "https://performance.univision.com/shows/despierta-america",
+          "vertical": null,
+          "parent": null,
+          "title": "Despierta América - LUN-VIE 7AM/6C",
+          "description": "Despierta América con las más recientes noticias y lo mejor del entretenimiento: chismes, juegos, concursos, consejos útiles e invitados especiales.",
+          "image": {
+            "type": "image",
+            "uid": "00000169-4889-d264-a9ed-599b540a0000",
+            "title": "Despierta America promo universal 2019",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/ed/32/5eff5e014a1dad3fcc1d7c3a59ba/despiertaamerica-featuredshows-2x.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/f102627/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/eef52ad/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c3f1b7d/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/1cf098b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2f85661/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8641d41/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e31ed41/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4b22413/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fed%2F32%2F5eff5e014a1dad3fcc1d7c3a59ba%2Fresizes%2F500%2Fdespiertaamerica-featuredshows-2x.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-04T12:29:45-04:00",
+          "publishDate": "2015-09-14T07:00:00-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "airTime": "LUN-VIE 7AM/6C",
+          "headerLogo": {
+            "type": "image",
+            "uid": "00000162-becd-df9c-a76f-feedbc040000",
+            "title": "Despierta America show header logo_UPDATED",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/d3/57/f4d3341a400993e53c3126d7b7f9/lg-despierta-america.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0ce7935/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/627a26e/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/cf77f91/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/74a61fb/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8e5a8c0/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ccb7af1/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8a01a78/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/a4784cb/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd3%2F57%2Ff4d3341a400993e53c3126d7b7f9%2Flg-despierta-america.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "highImpactImages": {
+            "mobile": null,
+            "desktop": null
+          }
+        },
+        {
+          "type": "show",
+          "uid": "00000148-0d15-d7ed-a1ef-bd9f5a7b0000",
+          "uri": "https://performance.univision.com/shows/el-gordo-y-la-flaca",
+          "vertical": null,
+          "parent": null,
+          "title": "El Gordo y La Flaca - LUN-VIE 4PM/3C",
+          "description": "Diviértete y mantente al tanto de noticias y chismes con 'El Gordo y La Flaca' que, junto a sus invitados especiales, te harán pasar grandes momentos.",
+          "image": {
+            "type": "image",
+            "uid": "00000165-f97a-daf4-adff-f9fe9f780000",
+            "title": "Promo universal Gordo y Flaca 20 años ",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/e4/39/f8c435a54d88afdcbb8a5efbb6ca/featuredshows-2x-12.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/3669cd1/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Fresizes%2F500%2Ffeaturedshows-2x-12.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0208277/2147483647/crop/495x281%2B0%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Fresizes%2F500%2Ffeaturedshows-2x-12.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e3548df/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Fresizes%2F500%2Ffeaturedshows-2x-12.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ab1accf/2147483647/crop/1198x674%2B0%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Ffeaturedshows-2x-12.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fa9d15c/2147483647/crop/1197x674%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Ffeaturedshows-2x-12.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e12fb9e/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Fresizes%2F500%2Ffeaturedshows-2x-12.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/f03112e/2147483647/crop/1198x674%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Ffeaturedshows-2x-12.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0f501e4/2147483647/crop/281x281%2B92%2B0/resize/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe4%2F39%2Ff8c435a54d88afdcbb8a5efbb6ca%2Fresizes%2F500%2Ffeaturedshows-2x-12.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-23T09:00:04-04:00",
+          "publishDate": "2015-09-22T12:30:00-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "airTime": "LUN-VIE 4PM/3C",
+          "headerLogo": {
+            "type": "image",
+            "uid": "0000016a-98be-dae6-adea-9aff02850000",
+            "title": "logo_GordoFlaca.svg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/fd/1d/d8c9d1fb4ba5b78b4c8d69151d54/logo-gordoflaca.svg",
+                "width": 0,
+                "height": 0
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2a11254/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/dd1d3f3/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e0e1a43/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/56f7363/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/acc246f/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/98b2107/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/1c16b4e/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8eea420/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ffd%2F1d%2Fd8c9d1fb4ba5b78b4c8d69151d54%2Flogo-gordoflaca.svg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "highImpactImages": {
+            "mobile": null,
+            "desktop": null
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "allcarouselhighimpact",
+        "uid": "00000168-2f9d-d691-adfe-efff76af0000",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "00000168-2f9d-d691-adfe-efff76af0000",
+      "type": "AllCarouselHighImpact",
+      "contents": [
+        {
+          "type": "video",
+          "uid": "0000016b-2a9d-d85b-ad6f-3e9fe9640001",
+          "uri": "https://performance.univision.com/shows/silvia-pinal-frente-a-ti/silvia-pinal-frente-a-ti-capitulo-9-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000016a-8ecb-d905-a36a-8eefffa70000",
+            "uri": "https://performance.univision.com/shows/silvia-pinal-frente-a-ti",
+            "name": "silvia pinal, frente a ti",
+            "title": "Silvia Pinal, frente a ti"
+          },
+          "title": "Silvia Pinal, Frente a Ti Capítulo 9",
+          "description": "Emilio le quita a Silvia su nuevo programa de televisión para lograr que descanse de su trabajo. Silvia viaja a Barcelona para comenzar una nueva vida al lado de su hija.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-2abb-d85b-ad6f-3ebb77b30000",
+            "title": "f919ad9eb83d4dc8b92b2d0ecb05ca80",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/47/47/48a44faa487b92168f3af794aba0/f919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c646bfe/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F47%2F47%2F48a44faa487b92168f3af794aba0%2Fresizes%2F500%2Ff919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2c1496d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F47%2F47%2F48a44faa487b92168f3af794aba0%2Fresizes%2F1500%2Ff919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fdf9a49/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F47%2F47%2F48a44faa487b92168f3af794aba0%2Fresizes%2F500%2Ff919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7a2e6e9/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F47%2F47%2F48a44faa487b92168f3af794aba0%2Fresizes%2F500%2Ff919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9e4be73/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F47%2F47%2F48a44faa487b92168f3af794aba0%2Fresizes%2F1500%2Ff919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/ebc859d/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F47%2F47%2F48a44faa487b92168f3af794aba0%2Fresizes%2F500%2Ff919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-07T00:00:14-04:00",
+          "publishDate": "2019-06-07T00:00:00-04:00",
+          "expirationDate": "2019-09-23T00:00:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3687982",
+          "durationString": "42:32",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/jC6d101CDq8",
+                "isFeedDialog": false,
+                "title": "Silvia Pinal, Frente a Ti Capítulo 9",
+                "description": "Emilio le quita a Silvia su nuevo programa de televisión para lograr que descanse de su trabajo. Silvia viaja a Barcelona para comenzar una nueva vida al lado de su hija.",
+                "imageUrl": "https://st1.uvnimg.com/47/47/48a44faa487b92168f3af794aba0/f919ad9eb83d4dc8b92b2d0ecb05ca80",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/jC6d101CDq8",
+                "title": "Silvia Pinal, Frente a Ti Capítulo 9",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/jC6d101CDq8",
+                "message": "Silvia Pinal, Frente a Ti Capítulo 9"
+              },
+              "mail": {
+                "subject": "Silvia Pinal, Frente a Ti Capítulo 9",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSilvia Pinal, Frente a Ti Capítulo 9\n\nEncuéntralo en este enlace:http://uni.vi/jC6d101CDq8\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Silvia Pinal, frente a ti",
+            "link": "https://performance.univision.com/shows/silvia-pinal-frente-a-ti"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-1e97-d4ec-a9ff-beb745fd0000",
+          "uri": "https://performance.univision.com/shows/pequenos-gigantes/pequenos-gigantes-programa-10-video-1",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000157-c373-d5de-a5f7-cf779c440000",
+            "uri": "https://performance.univision.com/shows/pequenos-gigantes",
+            "name": "pequenos gigantes",
+            "title": "Pequeños Gigantes"
+          },
+          "title": "Pequeños Gigantes Programa 10",
+          "description": "Después de diez semanas donde los momentos de diversión, alegría y emoción se hicieron presentes, los pequeños viven el último programa de la competencia con un gran performance al lado de grandes artistas como Paulina Rubio.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-1f5c-d607-a1fb-3fde724f0000",
+            "title": "dfaa27d03b26420cab663648de77ed6d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/85/eb/401662a5413f950405bda7f05c2e/dfaa27d03b26420cab663648de77ed6d",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7d775fb/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Feb%2F401662a5413f950405bda7f05c2e%2Fresizes%2F500%2Fdfaa27d03b26420cab663648de77ed6d",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9e3bec7/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Feb%2F401662a5413f950405bda7f05c2e%2Fresizes%2F1500%2Fdfaa27d03b26420cab663648de77ed6d",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fa1fe7c/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Feb%2F401662a5413f950405bda7f05c2e%2Fresizes%2F500%2Fdfaa27d03b26420cab663648de77ed6d",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fc5075f/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Feb%2F401662a5413f950405bda7f05c2e%2Fresizes%2F500%2Fdfaa27d03b26420cab663648de77ed6d",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/e778b89/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Feb%2F401662a5413f950405bda7f05c2e%2Fresizes%2F1500%2Fdfaa27d03b26420cab663648de77ed6d",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7e06f9a/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F85%2Feb%2F401662a5413f950405bda7f05c2e%2Fresizes%2F500%2Fdfaa27d03b26420cab663648de77ed6d",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-03T18:01:18-04:00",
+          "publishDate": "2019-06-03T00:00:00-04:00",
+          "expirationDate": "2019-08-25T00:00:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3685580",
+          "durationString": "1:26:26",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": true,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/sNuj101CjdI",
+                "isFeedDialog": false,
+                "title": "Pequeños Gigantes Programa 10",
+                "description": "Después de diez semanas donde los momentos de diversión, alegría y emoción se hicieron presentes, los pequeños viven el último programa de la competencia con un gran performance al lado de grandes artistas como Paulina Rubio.",
+                "imageUrl": "https://st1.uvnimg.com/85/eb/401662a5413f950405bda7f05c2e/dfaa27d03b26420cab663648de77ed6d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/sNuj101CjdI",
+                "title": "Pequeños Gigantes Programa 10",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/sNuj101CjdI",
+                "message": "Pequeños Gigantes Programa 10"
+              },
+              "mail": {
+                "subject": "Pequeños Gigantes Programa 10",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPequeños Gigantes Programa 10\n\nEncuéntralo en este enlace:http://uni.vi/sNuj101CjdI\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Pequeños Gigantes",
+            "link": "https://performance.univision.com/shows/pequenos-gigantes"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-4606-dfc1-a3ff-4ee6a7720000",
+          "uri": "https://performance.univision.com/shows/al-punto/second-video-syndicated-al-punto-11-june-2019-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000148-129a-dd17-abec-12fa1c1e0000",
+            "uri": "https://performance.univision.com/shows/al-punto",
+            "name": "al punto",
+            "title": "Al Punto"
+          },
+          "title": "Second Video Syndicated - Al Punto - 11 June 2019",
+          "description": "Second Video Syndicated - Al Punto - 11 June 2019",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-460c-d57b-ab6b-c74fb7c60000",
+            "title": "b4edfb04eced4a7fbdc8e2097c4c3a60",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot-performance.s3.amazonaws.com/96/a8/021a489f41a29ecb8f161c1fbfe1/b4edfb04eced4a7fbdc8e2097c4c3a60",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/74e8f1a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-performance.s3.amazonaws.com%2F96%2Fa8%2F021a489f41a29ecb8f161c1fbfe1%2Fresizes%2F500%2Fb4edfb04eced4a7fbdc8e2097c4c3a60",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/22ca3a3/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-performance.s3.amazonaws.com%2F96%2Fa8%2F021a489f41a29ecb8f161c1fbfe1%2Fresizes%2F1500%2Fb4edfb04eced4a7fbdc8e2097c4c3a60",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/953c14f/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-performance.s3.amazonaws.com%2F96%2Fa8%2F021a489f41a29ecb8f161c1fbfe1%2Fresizes%2F500%2Fb4edfb04eced4a7fbdc8e2097c4c3a60",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fe4880e/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot-performance.s3.amazonaws.com%2F96%2Fa8%2F021a489f41a29ecb8f161c1fbfe1%2Fresizes%2F500%2Fb4edfb04eced4a7fbdc8e2097c4c3a60",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c0767ac/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-performance.s3.amazonaws.com%2F96%2Fa8%2F021a489f41a29ecb8f161c1fbfe1%2Fresizes%2F1500%2Fb4edfb04eced4a7fbdc8e2097c4c3a60",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/f787e15/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-performance.s3.amazonaws.com%2F96%2Fa8%2F021a489f41a29ecb8f161c1fbfe1%2Fresizes%2F500%2Fb4edfb04eced4a7fbdc8e2097c4c3a60",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-11T06:19:26-04:00",
+          "publishDate": "2019-06-11T06:08:00-04:00",
+          "expirationDate": "2039-06-10T06:08:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3360951",
+          "durationString": "0:20",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": false,
+          "hasNextEpisode": true,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/LC5h101CVpV",
+                "isFeedDialog": false,
+                "title": "Second Video Syndicated - Al Punto - 11 June 2019",
+                "description": "Second Video Syndicated - Al Punto - 11 June 2019",
+                "imageUrl": "https://uvn-brightspot-performance.s3.amazonaws.com/96/a8/021a489f41a29ecb8f161c1fbfe1/b4edfb04eced4a7fbdc8e2097c4c3a60",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/LC5h101CVpV",
+                "title": "Second Video Syndicated - Al Punto - 11 June 2019",
+                "via": "Alpunto"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/LC5h101CVpV",
+                "message": "Second Video Syndicated - Al Punto - 11 June 2019"
+              },
+              "mail": {
+                "subject": "Second Video Syndicated - Al Punto - 11 June 2019",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSecond Video Syndicated - Al Punto - 11 June 2019\n\nEncuéntralo en este enlace:http://uni.vi/LC5h101CVpV\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Al Punto",
+            "link": "https://performance.univision.com/shows/al-punto"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-2941-defe-a76b-2f59b7d30000",
+          "uri": "https://performance.univision.com/shows/la-reina-soy-yo/la-reina-soy-yo-capitulo-20-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000016a-0382-d91d-a1ef-43f7aa480000",
+            "uri": "https://performance.univision.com/shows/la-reina-soy-yo",
+            "name": "la reina soy yo",
+            "title": "La Reina Soy Yo"
+          },
+          "title": "La Reina Soy Yo Capítulo 20",
+          "description": "Jack le pide a Yamelí que desista de su venganza antes de que pierda el control de lo que siente por Charly. Yamelí aprovecha las consecuencias del accidente de Vanessa para poner a los padres de Silvana en contra de Charly.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-2967-d0cd-a17b-396727f50000",
+            "title": "59eea47eaf2c46c49b37cfc3d58cf08d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/81/6c/9bc04e9348febe70255f60268f97/59eea47eaf2c46c49b37cfc3d58cf08d",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9dc1cef/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F6c%2F9bc04e9348febe70255f60268f97%2Fresizes%2F500%2F59eea47eaf2c46c49b37cfc3d58cf08d",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/754b0d1/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F6c%2F9bc04e9348febe70255f60268f97%2Fresizes%2F1500%2F59eea47eaf2c46c49b37cfc3d58cf08d",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/403272f/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F6c%2F9bc04e9348febe70255f60268f97%2Fresizes%2F500%2F59eea47eaf2c46c49b37cfc3d58cf08d",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/4282964/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F6c%2F9bc04e9348febe70255f60268f97%2Fresizes%2F500%2F59eea47eaf2c46c49b37cfc3d58cf08d",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/3314727/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F6c%2F9bc04e9348febe70255f60268f97%2Fresizes%2F1500%2F59eea47eaf2c46c49b37cfc3d58cf08d",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/69ce7cb/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F81%2F6c%2F9bc04e9348febe70255f60268f97%2Fresizes%2F500%2F59eea47eaf2c46c49b37cfc3d58cf08d",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-07T00:00:11-04:00",
+          "publishDate": "2019-06-07T00:00:00-04:00",
+          "expirationDate": "2019-12-03T00:00:00-05:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3687968",
+          "durationString": "42:47",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/c5Bf101CDq6",
+                "isFeedDialog": false,
+                "title": "La Reina Soy Yo Capítulo 20",
+                "description": "Jack le pide a Yamelí que desista de su venganza antes de que pierda el control de lo que siente por Charly. Yamelí aprovecha las consecuencias del accidente de Vanessa para poner a los padres de Silvana en contra de Charly.",
+                "imageUrl": "https://st1.uvnimg.com/81/6c/9bc04e9348febe70255f60268f97/59eea47eaf2c46c49b37cfc3d58cf08d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/c5Bf101CDq6",
+                "title": "La Reina Soy Yo Capítulo 20",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/c5Bf101CDq6",
+                "message": "La Reina Soy Yo Capítulo 20"
+              },
+              "mail": {
+                "subject": "La Reina Soy Yo Capítulo 20",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa Reina Soy Yo Capítulo 20\n\nEncuéntralo en este enlace:http://uni.vi/c5Bf101CDq6\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "La Reina Soy Yo",
+            "link": "https://performance.univision.com/shows/la-reina-soy-yo"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-2aa7-defe-a76b-2fbf5c8f0000",
+          "uri": "https://performance.univision.com/shows/por-amar-sin-ley/por-amar-sin-ley-capitulo-59-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000161-9b20-daae-ad7f-9bee4edb0000",
+            "uri": "https://performance.univision.com/shows/por-amar-sin-ley",
+            "name": "por amar sin ley",
+            "title": "Por Amar Sin Ley"
+          },
+          "title": "Por Amar Sin Ley Capítulo 59",
+          "description": "Camila le pide a Sofía regresar a trabajar y hacer su vida de manera normal, pues no quiere que cambie por su enfermedad. Ricardo y Sofía aceptan viajar juntos a Los Cabos para comenzar un gran caso.sdasdasdasd",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-2ac0-dccd-a96b-fbf9d4df0000",
+            "title": "df62a91ea2ea4689ae56c20315c9c46a",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/57/a6/835165c5439c90d48a0dd455ba44/df62a91ea2ea4689ae56c20315c9c46a",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/9b72810/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fa6%2F835165c5439c90d48a0dd455ba44%2Fresizes%2F500%2Fdf62a91ea2ea4689ae56c20315c9c46a",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/5209c16/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fa6%2F835165c5439c90d48a0dd455ba44%2Fresizes%2F1500%2Fdf62a91ea2ea4689ae56c20315c9c46a",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/717923f/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fa6%2F835165c5439c90d48a0dd455ba44%2Fresizes%2F500%2Fdf62a91ea2ea4689ae56c20315c9c46a",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/0d1d373/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fa6%2F835165c5439c90d48a0dd455ba44%2Fresizes%2F500%2Fdf62a91ea2ea4689ae56c20315c9c46a",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/b9a5209/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fa6%2F835165c5439c90d48a0dd455ba44%2Fresizes%2F1500%2Fdf62a91ea2ea4689ae56c20315c9c46a",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/7089280/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2Fa6%2F835165c5439c90d48a0dd455ba44%2Fresizes%2F500%2Fdf62a91ea2ea4689ae56c20315c9c46a",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T05:48:07-04:00",
+          "publishDate": "2019-06-07T00:00:00-04:00",
+          "expirationDate": "2019-10-18T00:00:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3688275",
+          "durationString": "43:35",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/N8Cg101CDq9",
+                "isFeedDialog": false,
+                "title": "Por Amar Sin Ley Capítulo 59",
+                "description": "Camila le pide a Sofía regresar a trabajar y hacer su vida de manera normal, pues no quiere que cambie por su enfermedad. Ricardo y Sofía aceptan viajar juntos a Los Cabos para comenzar un gran caso.sdasdasdasd",
+                "imageUrl": "https://st1.uvnimg.com/57/a6/835165c5439c90d48a0dd455ba44/df62a91ea2ea4689ae56c20315c9c46a",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/N8Cg101CDq9",
+                "title": "Por Amar Sin Ley Capítulo 59",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/N8Cg101CDq9",
+                "message": "Por Amar Sin Ley Capítulo 59"
+              },
+              "mail": {
+                "subject": "Por Amar Sin Ley Capítulo 59",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPor Amar Sin Ley Capítulo 59\n\nEncuéntralo en este enlace:http://uni.vi/N8Cg101CDq9\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Por Amar Sin Ley",
+            "link": "https://performance.univision.com/shows/por-amar-sin-ley"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-28d1-defe-a76b-2fd9e9a80000",
+          "uri": "https://performance.univision.com/shows/jesus/jesus-capitulo-145-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "00000166-ab8d-d498-abe7-bbffaacc0000",
+            "uri": "https://performance.univision.com/shows/jesus",
+            "name": "jesús",
+            "title": "Jesús"
+          },
+          "title": "Jesús Capítulo 145",
+          "description": "Judith culpa a Caifás por la pérdida de su bebé. Anás le pide a Caifás que perdone los pecados de Judith para evitar que sea lapidada. Débora y Santiago se casan y celebran con sus seres más cercanos.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-29b5-d83a-a1ef-6bbf2b090000",
+            "title": "018cb457a9bc4928a3c28a174b3f5adf",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/55/78/84dad111406d826fa2c1ec114472/018cb457a9bc4928a3c28a174b3f5adf",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/83adc23/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2F78%2F84dad111406d826fa2c1ec114472%2Fresizes%2F500%2F018cb457a9bc4928a3c28a174b3f5adf",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2154268/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2F78%2F84dad111406d826fa2c1ec114472%2Fresizes%2F1500%2F018cb457a9bc4928a3c28a174b3f5adf",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/8d1f50f/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2F78%2F84dad111406d826fa2c1ec114472%2Fresizes%2F500%2F018cb457a9bc4928a3c28a174b3f5adf",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2a4aec6/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2F78%2F84dad111406d826fa2c1ec114472%2Fresizes%2F500%2F018cb457a9bc4928a3c28a174b3f5adf",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/f3de659/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2F78%2F84dad111406d826fa2c1ec114472%2Fresizes%2F1500%2F018cb457a9bc4928a3c28a174b3f5adf",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/fabc796/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2F78%2F84dad111406d826fa2c1ec114472%2Fresizes%2F500%2F018cb457a9bc4928a3c28a174b3f5adf",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-07T00:00:03-04:00",
+          "publishDate": "2019-06-07T00:00:00-04:00",
+          "expirationDate": "2019-07-05T00:00:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3688572",
+          "durationString": "42:09",
+          "episodeNo": null,
+          "authRequired": true,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/8Nvj101CDpY",
+                "isFeedDialog": false,
+                "title": "Jesús Capítulo 145",
+                "description": "Judith culpa a Caifás por la pérdida de su bebé. Anás le pide a Caifás que perdone los pecados de Judith para evitar que sea lapidada. Débora y Santiago se casan y celebran con sus seres más cercanos.",
+                "imageUrl": "https://st1.uvnimg.com/55/78/84dad111406d826fa2c1ec114472/018cb457a9bc4928a3c28a174b3f5adf",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/8Nvj101CDpY",
+                "title": "Jesús Capítulo 145",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/8Nvj101CDpY",
+                "message": "Jesús Capítulo 145"
+              },
+              "mail": {
+                "subject": "Jesús Capítulo 145",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nJesús Capítulo 145\n\nEncuéntralo en este enlace:http://uni.vi/8Nvj101CDpY\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Jesús",
+            "link": "https://performance.univision.com/shows/jesus"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-2a10-d9bf-a3eb-2a37027b0000",
+          "uri": "https://performance.univision.com/shows/cronicas-de-sabado/cronicas-madres-gigantes-hijas-gigantes-video",
+          "vertical": "Noticias",
+          "parent": {
+            "uuid": "00000152-8b27-d065-add7-ffafe9270000",
+            "uri": "https://performance.univision.com/shows/cronicas-de-sabado",
+            "name": "crónicas",
+            "title": "Crónicas"
+          },
+          "title": "Crónicas: Madres gigantes, hijas gigantes",
+          "description": "Dos de las participantes del show ‘Pequeños Gigantes’ cuentan cómo fue que cumplieron sus sueños gracias al apoyo de sus madres.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-2ae5-d83a-a1ef-6bff6b4a0000",
+            "title": "1dfbf8b82873488a889b09d12385412f",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/02/86/925a57a24509aa95a2f2be23daf8/1dfbf8b82873488a889b09d12385412f",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/19e81e7/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F86%2F925a57a24509aa95a2f2be23daf8%2Fresizes%2F500%2F1dfbf8b82873488a889b09d12385412f",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c1cfccf/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F86%2F925a57a24509aa95a2f2be23daf8%2Fresizes%2F1500%2F1dfbf8b82873488a889b09d12385412f",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/6b9fca0/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F86%2F925a57a24509aa95a2f2be23daf8%2Fresizes%2F500%2F1dfbf8b82873488a889b09d12385412f",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/39585a0/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F86%2F925a57a24509aa95a2f2be23daf8%2Fresizes%2F500%2F1dfbf8b82873488a889b09d12385412f",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/661b832/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F86%2F925a57a24509aa95a2f2be23daf8%2Fresizes%2F1500%2F1dfbf8b82873488a889b09d12385412f",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/2a0e31d/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F02%2F86%2F925a57a24509aa95a2f2be23daf8%2Fresizes%2F500%2F1dfbf8b82873488a889b09d12385412f",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-05T23:46:45-04:00",
+          "publishDate": "2019-06-03T00:00:00-04:00",
+          "expirationDate": "2030-12-31T00:00:00-05:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3685586",
+          "durationString": "42:51",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": true,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/B67E101Cxo2",
+                "isFeedDialog": false,
+                "title": "Crónicas: Madres gigantes, hijas gigantes",
+                "description": "Dos de las participantes del show ‘Pequeños Gigantes’ cuentan cómo fue que cumplieron sus sueños gracias al apoyo de sus madres.",
+                "imageUrl": "https://st1.uvnimg.com/02/86/925a57a24509aa95a2f2be23daf8/1dfbf8b82873488a889b09d12385412f",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/B67E101Cxo2",
+                "title": "Crónicas: Madres gigantes, hijas gigantes",
+                "via": "CronicasSabado"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/B67E101Cxo2",
+                "message": "Crónicas: Madres gigantes, hijas gigantes"
+              },
+              "mail": {
+                "subject": "Crónicas: Madres gigantes, hijas gigantes",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCrónicas: Madres gigantes, hijas gigantes\n\nEncuéntralo en este enlace:http://uni.vi/B67E101Cxo2\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Crónicas",
+            "link": "https://performance.univision.com/shows/cronicas-de-sabado"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-2ae4-d4f0-a16b-6ff6e89f0000",
+          "uri": "https://performance.univision.com/shows/inseparables/inseparables-programa-6-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uuid": "0000016a-4b10-d3f6-a9fe-efbe54880000",
+            "uri": "https://performance.univision.com/shows/inseparables",
+            "name": "inseparables",
+            "title": "Inseparables"
+          },
+          "title": "Inseparables Programa 6",
+          "description": "Los malentendidos en la competencia provocan problemas entre las parejas y dificultan la convivencia en la casa. Las parejas demuestran en un reto aéreo su conocimiento sobre las cualidades esenciales de las relaciones duraderas.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-2ae4-d4f0-a16b-6ff6f00b0000",
+            "title": "96d96d55320c4e84acf20de1a79d0a2a",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/c0/2d/0877c9ad45d68dcb664c99cbc683/96d96d55320c4e84acf20de1a79d0a2a",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/c228f43/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc0%2F2d%2F0877c9ad45d68dcb664c99cbc683%2Fresizes%2F500%2F96d96d55320c4e84acf20de1a79d0a2a",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/6ece48b/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc0%2F2d%2F0877c9ad45d68dcb664c99cbc683%2Fresizes%2F1500%2F96d96d55320c4e84acf20de1a79d0a2a",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/658d650/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc0%2F2d%2F0877c9ad45d68dcb664c99cbc683%2Fresizes%2F500%2F96d96d55320c4e84acf20de1a79d0a2a",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/d6b7144/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc0%2F2d%2F0877c9ad45d68dcb664c99cbc683%2Fresizes%2F500%2F96d96d55320c4e84acf20de1a79d0a2a",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/46eb73e/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc0%2F2d%2F0877c9ad45d68dcb664c99cbc683%2Fresizes%2F1500%2F96d96d55320c4e84acf20de1a79d0a2a",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://cdn1.performance.univision.com/dims4/default/042db8f/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc0%2F2d%2F0877c9ad45d68dcb664c99cbc683%2Fresizes%2F500%2F96d96d55320c4e84acf20de1a79d0a2a",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-05T23:46:13-04:00",
+          "publishDate": "2019-06-05T00:00:00-04:00",
+          "expirationDate": "2019-11-07T00:00:00-05:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3688558",
+          "durationString": "1:27:35",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/I3Cp101CxHc",
+                "isFeedDialog": false,
+                "title": "Inseparables Programa 6",
+                "description": "Los malentendidos en la competencia provocan problemas entre las parejas y dificultan la convivencia en la casa. Las parejas demuestran en un reto aéreo su conocimiento sobre las cualidades esenciales de las relaciones duraderas.",
+                "imageUrl": "https://st1.uvnimg.com/c0/2d/0877c9ad45d68dcb664c99cbc683/96d96d55320c4e84acf20de1a79d0a2a",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/I3Cp101CxHc",
+                "title": "Inseparables Programa 6",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/I3Cp101CxHc",
+                "message": "Inseparables Programa 6"
+              },
+              "mail": {
+                "subject": "Inseparables Programa 6",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nInseparables Programa 6\n\nEncuéntralo en este enlace:http://uni.vi/I3Cp101CxHc\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Inseparables",
+            "link": "https://performance.univision.com/shows/inseparables"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "allgridlatestvideos",
+        "uid": "0000016a-fa2c-d68d-ab6b-fbae785f0009",
+        "title": "Episodios de TV",
+        "titleLink": null,
+        "lazyLoaded": true
+      },
+      "id": "0000016a-fa2c-d68d-ab6b-fbae785f0009",
+      "type": "AllGridlatestvideos",
+      "contents": []
+    }
+  ],
+  "source": "Univision",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "https://performance.univision.com/shows",
+        "isFeedDialog": false,
+        "title": "Shows",
+        "description": "Shows the Section",
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "https://performance.univision.com/shows",
+        "title": "Shows",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "https://performance.univision.com/shows",
+        "message": "Shows"
+      },
+      "mail": {
+        "subject": "Shows",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nShows\n\nEncuéntralo en este enlace:https://performance.univision.com/shows\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "secondaryTags": null,
+  "sectionType": "section",
+  "socialNetworks": [
+    {
+      "text": "Univision Twitter",
+      "name": "Twitter",
+      "url": "https://twitter.com/Univision",
+      "target": "_blank"
+    },
+    {
+      "text": "Univision Facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/univision",
+      "target": "_blank"
+    },
+    {
+      "text": "Univision Instagram",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/univision/",
+      "target": "_blank"
+    }
+  ],
+  "jwRecommendationChannel": "78MDrZDv",
+  "dynamicPlaylist": false,
+  "ttl": 60,
+  "comscore": "pageview_candidate",
+  "feedGeneratedAt": "2019-08-01T14:39:21-04:00",
+  "tagHierarchy": [
+    {
+      "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+      "uri": "https://performance.univision.com/shows",
+      "name": "shows",
+      "title": "Shows"
+    }
+  ],
+  "primaryTag": {
+    "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+    "uri": "https://performance.univision.com/shows",
+    "name": "shows",
+    "title": "Shows",
+    "link": "https://performance.univision.com/shows"
+  }
+}

@@ -1,0 +1,227 @@
+.brandedHeader {
+  height: 48px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid $white-grey;
+
+  @include media-breakpoint-up('md') {
+    height: 80px;
+  }
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  @include media-breakpoint-up('md') {
+    height: inherit;
+    justify-content: center;
+    position: relative;
+  }
+}
+
+.rightContent {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  @include media-breakpoint-up('md') {
+    margin-left: initial ;
+    position: absolute;
+    right: 10px;
+  }
+  & > *:after {
+    content: "";
+    border-left: 1px solid $light-grey;
+    height: 22px;
+    margin-right: 2px;
+    align-self: center;
+  }
+  & > *:last-child:after{
+    border: none;
+  }
+}
+
+.removeRightContent {
+  display: none;
+  @include media-breakpoint-up('md') {
+    display: flex;
+  }
+}
+
+.forceLeftSection {
+  @include media-breakpoint-down('md') {
+    position: absolute;
+    left: 10px;
+  }
+}
+
+.forceBlock {
+  display: flex;
+}
+
+.forceContentCenter {
+  @include media-breakpoint-down('md') {
+    height: inherit;
+    justify-content: center;
+    position: relative;
+  }
+}
+
+.justifyLogo {
+  margin: 0 auto;
+}
+
+.sections {
+  @include media-breakpoint-up('md') {
+    transition: all 0.2s;
+    position: absolute;
+    left: 10px;
+    min-width: 106px;
+  }
+}
+
+.userStatus {
+  margin-right: 10px;
+}
+
+.dark {
+  background: $black-grey;
+  border-bottom-color: $darker-grey;
+  > div > button svg {
+    fill: $white;
+  }
+}
+
+.tudn {
+  background: none;
+  border-bottom-color: rgba($white, 0.2);
+  > div > button svg {
+    fill: $white;
+  }
+}
+
+.tudnBackground {
+  background-repeat: round;
+  background-size: cover;
+}
+
+.logo {
+  height: 24px;
+  width: auto;
+  @include media-breakpoint-up('md') {
+    height: initial;
+  }
+}
+
+.sectionsBtn {
+  width: 40px;
+  height: 40px;
+  .dark & {
+    svg {
+      height: 13px;
+      fill: $white;
+    }
+  }
+}
+
+.followMenu {
+  > span {
+    display:none;
+  }
+  // Custom mq to show the "siguenos" label
+  @media only screen and (min-width: 414px) {
+    > span {
+      display: inline-block;
+    }
+  }
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.search {
+  margin: 0;
+  max-width: 100%;
+  svg {
+    fill: $darker-grey;
+  }
+  button {
+    width: 40px;
+    .dark & {
+      svg {
+        fill: $white;
+        width: 16px;
+      }
+    }
+  }
+  .tudn & {
+    svg {
+      fill: $white;
+      width: 16px;
+    }
+  }
+  .light & {
+    form {
+      background: $white;
+    }
+  }
+  .dark & {
+    form {
+      background: $black-grey;
+      svg {
+        fill: $white;
+        width: 16px;
+      }
+      > span {
+        svg {
+          fill: $white;
+        }
+      }
+      input {
+        color: $white;
+        &::placeholder {
+          color: $white;
+        }
+      }
+    }
+  }
+  @include media-breakpoint-up('md') {
+    margin-left: initial ;
+    max-width: 40px;
+    transition: all 0.2s;
+    display: inline-flex;
+    button {
+      height: 100%;
+      width: 40px;
+    }
+    form {
+      background: $white;
+      height: 100%;
+      > span {
+        padding: 9px 5px;
+      }
+      input {
+        align-self: center;
+        padding: 8px 32px 8px 8px;
+        font-size: rem(12px);
+        color: $darker-grey;
+        font-weight: 400;
+      }
+    }
+    svg {
+      width: 16px;
+      height: 16px;
+      fill: $darker-grey;
+    }
+  }
+}
+
+.brandedTitle {
+  text-transform: uppercase;
+  @include uvs-font('a', 'bold');
+  display: block;
+  padding-left: 8px;
+  color: $darker-grey;
+  white-space: nowrap;
+  letter-spacing: 0.58px;
+}

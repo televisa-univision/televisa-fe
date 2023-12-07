@@ -1,0 +1,2962 @@
+{
+    "sports-content": {
+        "sports-metadata": {
+            "doc-id": "schedule-results:2022-12-21T03:37:33Z",
+            "fixture-key": "schedule-results",
+            "fixture-name": "Results Schedule",
+            "sports-title": "Results Schedule"
+        },
+        "schedule": [
+            {
+                "schedule-metadata": {
+                    "team-coverage": "multi-team"
+                },
+                "sports-event": [
+                    {
+                        "event-metadata": {
+                            "event-key": "2308561",
+                            "event-status": "post-event",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-11-06T15:30:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Rio Ave vs Boavista",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "12",
+                                "minutes-elapsed": 90,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "2"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "4055",
+                                    "name": {
+                                        "full": "Estádio do Rio Ave"
+                                    },
+                                    "home-location": {
+                                        "city": "Vila do Conde"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308561"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave-vs-boavista-liga-portugal-2022-11-06"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c3-def4-a7ef-dfc30eed0000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-11-06T11:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-11-06T13:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "2847"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "2847",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Rio Ave",
+                                        "abbreviation": "RIA"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/ed/c7/50a960694ecd891b00e572c8121f/1758-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "0",
+                                    "event-outcome": "win",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "194764",
+                                        "player-metadata": {
+                                            "player-key": "194764",
+                                            "name": {
+                                                "first": "Emmanuel",
+                                                "last": "Boateng"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "196",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Boavista",
+                                        "abbreviation": "BFC"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/bb/34/171f300545bba343a20953c86761/5153-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/boavista"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "1",
+                                    "event-outcome": "loss",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "40903",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "Rui",
+                                            "last": "Costa",
+                                            "full": "Rui Costa"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46172",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Tiago",
+                                            "last": "Costa",
+                                            "full": "Tiago Costa"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "58287",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "José Carlos",
+                                            "last": "Silva Martins",
+                                            "full": "José Carlos Silva Martins"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "58914",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "Joao",
+                                            "last": "Carvalho",
+                                            "full": "Joao Carvalho"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "42110",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "Hélder",
+                                            "last": "Malheiro",
+                                            "full": "Hélder Malheiro"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49696",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Hugo Serafim",
+                                            "last": "Silva",
+                                            "full": "Hugo Serafim Silva"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {
+                                "action-soccer-score": [
+                                    {
+                                        "minutesElapsed": "63",
+                                        "period-time": "SecondHalf",
+                                        "date-time": "2022-11-06T16:54:04Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "194764",
+                                                "team-idref": "2847",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "caliente-event-market": {
+                            "eventId": "17158873",
+                            "marketId": "334947695",
+                            "marketName": "Full Time Result",
+                            "marketStatus": "S",
+                            "matchStatus": "Y",
+                            "oddsHome": {
+                                "betReference": "MTA5MzAxNTg0NToxLzUwOjow",
+                                "oddsId": "1093015845",
+                                "oddsName": "Rio Ave",
+                                "status": "A",
+                                "usPrc": "-5000"
+                            },
+                            "oddsDraw": {
+                                "betReference": "MTA5MzAxNTg0NDoxNC8xOjow",
+                                "oddsId": "1093015844",
+                                "oddsName": "Draw",
+                                "status": "A",
+                                "usPrc": "+1400"
+                            },
+                            "oddsAway": {
+                                "betReference": "MTA5MzAxNTg0Mzo0NS8xOjow",
+                                "oddsId": "1093015843",
+                                "oddsName": "Boavista",
+                                "status": "A",
+                                "usPrc": "+4500"
+                            },
+                            "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=17158873",
+                            "marketClosed": true
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308551",
+                            "event-status": "halted",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-10-28T19:15:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Paços de Ferreira vs Marítimo",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "11",
+                                "minutes-elapsed": 36,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "0"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "3275",
+                                    "name": {
+                                        "full": "Estádio Capital do Móvel"
+                                    },
+                                    "home-location": {
+                                        "city": "Pacos de Ferreira"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308551"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/pacos-de-ferreira-vs-maritimo-liga-portugal-2022-10-30"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c2-def4-a7ef-dfc295da0000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-10-30T12:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-10-30T14:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "740"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "1981",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Paços de Ferreira",
+                                        "abbreviation": "FER"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/da/2d/99e14196422eb9afebda81e3f13b/1756-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/pacos-de-ferreira"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "1",
+                                    "event-outcome": "loss",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "740",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Marítimo",
+                                        "abbreviation": "MTO"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/5e/be/6e48d449422e9091f81564536256/1753-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/maritimo"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "0",
+                                    "event-outcome": "win",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "246719",
+                                        "player-metadata": {
+                                            "player-key": "246719",
+                                            "name": {
+                                                "first": "Jesús",
+                                                "last": "Ramírez"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49359",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "Andre",
+                                            "last": "Narciso",
+                                            "full": "Andre Narciso"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "60203",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Vasco",
+                                            "last": "Marques",
+                                            "full": "Vasco Marques"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "60198",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "Francisco",
+                                            "last": "Pereira",
+                                            "full": "Francisco Pereira"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "55171",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "Flávio",
+                                            "last": "Lima",
+                                            "full": "Flávio Lima"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "42210",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "Vasco",
+                                            "last": "Santos",
+                                            "full": "Vasco Santos"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49022",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Joao",
+                                            "last": "Bessa Silva",
+                                            "full": "Joao Bessa Silva"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {
+                                "action-soccer-score": [
+                                    {
+                                        "minutesElapsed": "27",
+                                        "period-time": "FirstHalf",
+                                        "date-time": "2022-10-28T19:46:15Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "246719",
+                                                "team-idref": "740",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "caliente-event-market": {
+                            "eventId": "17102777",
+                            "marketId": "333506707",
+                            "marketName": "Full Time Result",
+                            "marketStatus": "A",
+                            "matchStatus": "Y",
+                            "oddsHome": {
+                                "betReference": "MTA4ODY0NzEzMzozNTAvMTo6MA",
+                                "oddsId": "1088647133",
+                                "oddsName": "Pacos Ferreira",
+                                "status": "A",
+                                "usPrc": "+35000"
+                            },
+                            "oddsDraw": {
+                                "betReference": "MTA4ODY0NzEzMjoxMS8xOjow",
+                                "oddsId": "1088647132",
+                                "oddsName": "Draw",
+                                "status": "A",
+                                "usPrc": "+1100"
+                            },
+                            "oddsAway": {
+                                "betReference": "MTA4ODY0NzEzMToxLzY2Ojow",
+                                "oddsId": "1088647131",
+                                "oddsName": "Maritimo",
+                                "status": "A",
+                                "usPrc": "-6600"
+                            },
+                            "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=17102777",
+                            "marketClosed": true
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308567",
+                            "event-status": "delayed",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-11-13T15:30:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Vitória Guimarães vs Marítimo",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "13",
+                                "minutes-elapsed": 90,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "5"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "2714",
+                                    "name": {
+                                        "full": "Estádio D. Afonso Henriques"
+                                    },
+                                    "home-location": {
+                                        "city": "Guimarães"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308567"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/vitoria-guimaraes-vs-maritimo-liga-portugal-2022-11-13"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c3-def4-a7ef-dfc305c20000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-11-13T11:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-11-13T13:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "740"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "371",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Vitória Guimarães",
+                                        "abbreviation": "VTG"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/e7/05/bd6426764b97923426296439cd83/1759-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/vitoria-guimaraes"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "0",
+                                    "event-outcome": "win",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "149668",
+                                        "player-metadata": {
+                                            "player-key": "149668",
+                                            "name": {
+                                                "first": "",
+                                                "last": "Tiago Silva"
+                                            },
+                                            "sports-property": [
+                                                {
+                                                    "formal-name": "permalink",
+                                                    "value": "https://uat.tudn.com/futbol/jugadores/tiago-rafael-maia-silva"
+                                                }
+                                            ],
+                                            "sports-content-codes": [
+                                                {
+                                                    "sports-content-code": []
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "740",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Marítimo",
+                                        "abbreviation": "MTO"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/5e/be/6e48d449422e9091f81564536256/1753-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/maritimo"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "1",
+                                    "event-outcome": "loss",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46939",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "Bastien",
+                                            "last": "Dechepy",
+                                            "full": "Bastien Dechepy"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49394",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Brice",
+                                            "last": "Le Tellier",
+                                            "full": "Brice Le Tellier"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "48440",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "Julien",
+                                            "last": "Haulbert",
+                                            "full": "Julien Haulbert"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "55399",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "João António",
+                                            "last": "Ferreira Gonçalves",
+                                            "full": "João António Ferreira Gonçalves"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49186",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "Marc",
+                                            "last": "Bollengier",
+                                            "full": "Marc Bollengier"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "41969",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Yohann",
+                                            "last": "Rouinsard",
+                                            "full": "Yohann Rouinsard"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {
+                                "action-soccer-score": [
+                                    {
+                                        "minutesElapsed": "69",
+                                        "period-time": "SecondHalf",
+                                        "date-time": "2022-11-13T17:02:22Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "149668",
+                                                "team-idref": "371",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "caliente-event-market": {
+                            "eventId": "17207730",
+                            "marketId": "336084045",
+                            "marketName": "Full Time Result",
+                            "marketStatus": "A",
+                            "matchStatus": "Y",
+                            "oddsHome": {
+                                "betReference": "MTA5NjU3NjQ2MDoxLzMzOjow",
+                                "oddsId": "1096576460",
+                                "oddsName": "Vitoria Guimaraes",
+                                "status": "A",
+                                "usPrc": "-3300"
+                            },
+                            "oddsDraw": {
+                                "betReference": "MTA5NjU3NjQ1OToxMC8xOjow",
+                                "oddsId": "1096576459",
+                                "oddsName": "Draw",
+                                "status": "A",
+                                "usPrc": "+1000"
+                            },
+                            "oddsAway": {
+                                "betReference": "MTA5NjU3NjQ1ODoyMDAvMTo6MA",
+                                "oddsId": "1096576458",
+                                "oddsName": "Maritimo",
+                                "status": "A",
+                                "usPrc": "+20000"
+                            },
+                            "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=17207730",
+                            "marketClosed": true
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308546",
+                            "event-status": "mid-event",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-10-23T14:30:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Marítimo vs Arouca",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "10",
+                                "minutes-elapsed": 40,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "0"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "2310",
+                                    "name": {
+                                        "full": "Estádio do Marítimo"
+                                    },
+                                    "home-location": {
+                                        "city": "Funchal"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308546"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/maritimo-vs-arouca-liga-portugal-2022-10-23"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c2-def4-a7ef-dfc2a0760000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-10-23T11:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-10-23T13:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "740"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "740",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Marítimo",
+                                        "abbreviation": "MTO"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/5e/be/6e48d449422e9091f81564536256/1753-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/maritimo"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "1",
+                                    "event-outcome": "tie",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "245027",
+                                        "player-metadata": {
+                                            "player-key": "245027",
+                                            "name": {
+                                                "first": "",
+                                                "last": "André Vidigal"
+                                            },
+                                            "sports-property": [
+                                                {
+                                                    "formal-name": "permalink",
+                                                    "value": "https://uat.x.univision.com/temas/andre-vidigal"
+                                                }
+                                            ],
+                                            "sports-content-codes": [
+                                                {
+                                                    "sports-content-code": []
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "5674",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Arouca",
+                                        "abbreviation": "ARO"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/21/6e/f5f1a83743548914fd7953cf1cb2/4462-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/arouca"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "1",
+                                    "event-outcome": "tie",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "533196",
+                                        "player-metadata": {
+                                            "player-key": "533196",
+                                            "name": {
+                                                "first": "",
+                                                "last": "Antony"
+                                            },
+                                            "sports-property": [
+                                                {
+                                                    "formal-name": "permalink",
+                                                    "value": "https://uat.tudn.com/futbol/jugadores/antony"
+                                                }
+                                            ],
+                                            "sports-content-codes": [
+                                                {
+                                                    "sports-content-code": [
+                                                        {
+                                                            "code-name": "Liga Portugal",
+                                                            "code-key": "99",
+                                                            "code-type": "tournament",
+                                                            "code-source": "brightspot"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "42783",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "Manuel",
+                                            "last": "Oliveira",
+                                            "full": "Manuel Oliveira"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46321",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Carlos Alberto",
+                                            "last": "Rocha Campos",
+                                            "full": "Carlos Alberto Rocha Campos"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "58261",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "Hugo",
+                                            "last": "Santos",
+                                            "full": "Hugo Santos"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46723",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "Rui Jorge",
+                                            "last": "Rodrigues da Silva",
+                                            "full": "Rui Jorge Rodrigues da Silva"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "55399",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "João António",
+                                            "last": "Ferreira Gonçalves",
+                                            "full": "João António Ferreira Gonçalves"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "52101",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Angelo",
+                                            "last": "Carneiro",
+                                            "full": "Angelo Carneiro"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {
+                                "action-soccer-score": [
+                                    {
+                                        "minutesElapsed": "12",
+                                        "period-time": "FirstHalf",
+                                        "date-time": "2022-10-23T14:43:16Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "245027",
+                                                "team-idref": "740",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "minutesElapsed": "43",
+                                        "period-time": "FirstHalf",
+                                        "date-time": "2022-10-23T15:14:12Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "533196",
+                                                "team-idref": "5674",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "caliente-event-market": {
+                            "eventId": "16931485",
+                            "marketId": "329354685",
+                            "marketName": "Full Time Result",
+                            "marketStatus": "S",
+                            "matchStatus": "Y",
+                            "oddsHome": {
+                                "betReference": "MTA3NTgxMjQxODo5LzE6OjA",
+                                "oddsId": "1075812418",
+                                "oddsName": "Maritimo",
+                                "status": "A",
+                                "usPrc": "+900"
+                            },
+                            "oddsDraw": {
+                                "betReference": "MTA3NTgxMjQxNzoyLzE1Ojow",
+                                "oddsId": "1075812417",
+                                "oddsName": "Draw",
+                                "status": "A",
+                                "usPrc": "-750"
+                            },
+                            "oddsAway": {
+                                "betReference": "MTA3NTgxMjQxNjoxMC8xOjow",
+                                "oddsId": "1075812416",
+                                "oddsName": "Arouca",
+                                "status": "A",
+                                "usPrc": "+1000"
+                            },
+                            "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=16931485",
+                            "marketClosed": true
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308558",
+                            "event-status": "intermission",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-11-06T18:00:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Marítimo vs FC Famalicão",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "12",
+                                "minutes-elapsed": 88,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "0"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "2310",
+                                    "name": {
+                                        "full": "Estádio do Marítimo"
+                                    },
+                                    "home-location": {
+                                        "city": "Funchal"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308558"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/maritimo-vs-fc-famalicao-liga-portugal-2022-11-06"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c2-def4-a7ef-dfc292530000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-11-06T11:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-11-06T13:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "740"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "740",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Marítimo",
+                                        "abbreviation": "MTO"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/5e/be/6e48d449422e9091f81564536256/1753-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/maritimo"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "0",
+                                    "event-outcome": "tie",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "6644",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "FC Famalicão",
+                                        "abbreviation": "FAM"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/26/57/8bd900cc43f7b4acdc193b96dbde/logo-v3.png"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "0",
+                                    "event-outcome": "tie",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "44474",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "Fábio",
+                                            "last": "Veríssimo",
+                                            "full": "Fábio Veríssimo"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "48670",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Pedro",
+                                            "last": "Martins",
+                                            "full": "Pedro Martins"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "58275",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "Hugo",
+                                            "last": "Marques",
+                                            "full": "Hugo Marques"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "47045",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "José",
+                                            "last": "Rodrigues",
+                                            "full": "José Rodrigues"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49359",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "Andre",
+                                            "last": "Narciso",
+                                            "full": "Andre Narciso"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "48668",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Iancu",
+                                            "last": "Vasilica",
+                                            "full": "Iancu Vasilica"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {}
+                        },
+                        "caliente-event-market": {
+                            "eventId": "17091650",
+                            "marketId": "333244379",
+                            "marketName": "Full Time Result",
+                            "marketStatus": "S",
+                            "matchStatus": "Y",
+                            "oddsHome": {
+                                "betReference": "MTA4Nzg0NTE2OToxOC8xOjow",
+                                "oddsId": "1087845169",
+                                "oddsName": "Maritimo",
+                                "status": "A",
+                                "usPrc": "+1800"
+                            },
+                            "oddsDraw": {
+                                "betReference": "MTA4Nzg0NTE2ODoxLzI1Ojow",
+                                "oddsId": "1087845168",
+                                "oddsName": "Draw",
+                                "status": "A",
+                                "usPrc": "-2500"
+                            },
+                            "oddsAway": {
+                                "betReference": "MTA4Nzg0NTE2NzoxOC8xOjow",
+                                "oddsId": "1087845167",
+                                "oddsName": "FC Famalicao",
+                                "status": "A",
+                                "usPrc": "+1800"
+                            },
+                            "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=17091650",
+                            "marketClosed": true
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308542",
+                            "event-status": "post-event",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-10-24T19:15:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Rio Ave vs Portimonense",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "10",
+                                "minutes-elapsed": 33,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "0"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "4055",
+                                    "name": {
+                                        "full": "Estádio do Rio Ave"
+                                    },
+                                    "home-location": {
+                                        "city": "Vila do Conde"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308542"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave-vs-portimonense-liga-portugal-2022-10-23"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c2-def4-a7ef-dfc2a5460000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-10-23T11:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-10-23T13:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "2847"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "2847",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Rio Ave",
+                                        "abbreviation": "RIA"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/ed/c7/50a960694ecd891b00e572c8121f/1758-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "0",
+                                    "event-outcome": "win",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "194764",
+                                        "player-metadata": {
+                                            "player-key": "194764",
+                                            "name": {
+                                                "first": "Emmanuel",
+                                                "last": "Boateng"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "1980",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Portimonense",
+                                        "abbreviation": "PTM"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/42/c0/a7fb861842faa05f91e8438f5411/mallorca.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/portimonense"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "1",
+                                    "event-outcome": "loss",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "60572",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "Bruno José",
+                                            "last": "Costa",
+                                            "full": "Bruno José Costa"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46250",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Nuno",
+                                            "last": "Manso",
+                                            "full": "Nuno Manso"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46258",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "Tiago",
+                                            "last": "Leandro",
+                                            "full": "Tiago Leandro"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46722",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "Pedro",
+                                            "last": "Ferreira",
+                                            "full": "Pedro Ferreira"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "47886",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "António",
+                                            "last": "Nobre",
+                                            "full": "António Nobre"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "47047",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Nelson",
+                                            "last": "Pereira",
+                                            "full": "Nelson Pereira"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {
+                                "action-soccer-score": [
+                                    {
+                                        "minutesElapsed": "47",
+                                        "period-time": "FirstHalf",
+                                        "date-time": "2022-10-24T20:03:21Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "194764",
+                                                "team-idref": "2847",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "caliente-event-market": {
+                            "eventId": "16992308",
+                            "marketId": "330842512",
+                            "marketName": "Full Time Result",
+                            "marketStatus": "A",
+                            "matchStatus": "Y",
+                            "oddsHome": {
+                                "betReference": "MTA4MDM4MTMxNzoxLzQwOjow",
+                                "oddsId": "1080381317",
+                                "oddsName": "Rio Ave",
+                                "status": "A",
+                                "usPrc": "-4000"
+                            },
+                            "oddsDraw": {
+                                "betReference": "MTA4MDM4MTMxNjoxMi8xOjow",
+                                "oddsId": "1080381316",
+                                "oddsName": "Draw",
+                                "status": "A",
+                                "usPrc": "+1200"
+                            },
+                            "oddsAway": {
+                                "betReference": "MTA4MDM4MTMxNTo0NS8xOjow",
+                                "oddsId": "1080381315",
+                                "oddsName": "Portimonense SC",
+                                "status": "A",
+                                "usPrc": "+4500"
+                            },
+                            "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=16992308",
+                            "marketClosed": true
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308553",
+                            "event-status": "post-event",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-10-30T18:00:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Casa Pia AC vs Rio Ave",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "11",
+                                "minutes-elapsed": 90,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "3"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "5061",
+                                    "name": {
+                                        "full": "Estádio do Jamor"
+                                    },
+                                    "home-location": {
+                                        "city": "Oeiras"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308553"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/casa-pia-ac-vs-rio-ave-liga-portugal-2022-10-30"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c2-def4-a7ef-dfc2985a0000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-10-30T12:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-10-30T14:00:00-04:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "2847"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "5191",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Casa Pia AC",
+                                        "abbreviation": "PIA"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/5191"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "0",
+                                    "event-outcome": "win",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "173518",
+                                        "player-metadata": {
+                                            "player-key": "173518",
+                                            "name": {
+                                                "first": "Saviour",
+                                                "last": "Godwin"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "2847",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Rio Ave",
+                                        "abbreviation": "RIA"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/ed/c7/50a960694ecd891b00e572c8121f/1758-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "1",
+                                    "event-outcome": "loss",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46838",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "Carlos",
+                                            "last": "Macedo",
+                                            "full": "Carlos Macedo"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49019",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Nelson Teixeira",
+                                            "last": "da Cunha",
+                                            "full": "Nelson Teixeira da Cunha"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "58288",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "Fabio Diogo",
+                                            "last": "Oliveira da Silva",
+                                            "full": "Fabio Diogo Oliveira da Silva"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "49454",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "José",
+                                            "last": "Carlos Rodrigues",
+                                            "full": "José Carlos Rodrigues"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "42211",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "Bruno",
+                                            "last": "Esteves",
+                                            "full": "Bruno Esteves"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46385",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Bruno",
+                                            "last": "Jesus",
+                                            "full": "Bruno Jesus"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {
+                                "action-soccer-score": [
+                                    {
+                                        "minutesElapsed": "65",
+                                        "period-time": "SecondHalf",
+                                        "date-time": "2022-10-30T19:30:26Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "173518",
+                                                "team-idref": "5191",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308575",
+                            "event-status": "post-event",
+                            "event-status-note": "Result",
+                            "start-date-time": "2022-11-12T18:00:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Arouca vs Rio Ave",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "13",
+                                "minutes-elapsed": 90,
+                                "period-value": "2",
+                                "time-adjustment": {
+                                    "period-extra-time-elapsed": "8"
+                                }
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "6688",
+                                    "name": {
+                                        "full": "Estádio Municipal de Arouca"
+                                    },
+                                    "home-location": {
+                                        "city": "Arouca"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308575"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/arouca-vs-rio-ave-liga-portugal-2022-11-13"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d7c3-def4-a7ef-dfc3005f0000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-11-13T11:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-11-13T13:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "previous-four-games-for-team",
+                                    "value": "2847"
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "5674",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Arouca",
+                                        "abbreviation": "ARO"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/21/6e/f5f1a83743548914fd7953cf1cb2/4462-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/arouca"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "0",
+                                    "score-opposing": "1",
+                                    "event-outcome": "loss",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "2847",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Rio Ave",
+                                        "abbreviation": "RIA"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/ed/c7/50a960694ecd891b00e572c8121f/1758-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "1",
+                                    "score-opposing": "0",
+                                    "event-outcome": "win",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                },
+                                "player": [
+                                    {
+                                        "id": "484544",
+                                        "player-metadata": {
+                                            "player-key": "484544",
+                                            "name": {
+                                                "first": "Aziz",
+                                                "last": "Yakubu"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "officials": {
+                            "official": [
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46654",
+                                        "position": "Referee",
+                                        "name": {
+                                            "first": "João",
+                                            "last": "Pinheiro",
+                                            "full": "João Pinheiro"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "52409",
+                                        "position": "Lineman#1",
+                                        "name": {
+                                            "first": "Luciano",
+                                            "last": "Maia",
+                                            "full": "Luciano Maia"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "58377",
+                                        "position": "Lineman#2",
+                                        "name": {
+                                            "first": "Luís Carlos",
+                                            "last": "Lopes da Costa",
+                                            "full": "Luís Carlos Lopes da Costa"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "52656",
+                                        "position": "Fourth official",
+                                        "name": {
+                                            "first": "Marcio",
+                                            "last": "Torres",
+                                            "full": "Marcio Torres"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "42067",
+                                        "position": "Video Assistant Referee",
+                                        "name": {
+                                            "first": "Hugo",
+                                            "last": "Miguel",
+                                            "full": "Hugo Miguel"
+                                        }
+                                    }
+                                },
+                                {
+                                    "official-metadata": {
+                                        "official-key": "46720",
+                                        "position": "Assistant VAR Official",
+                                        "name": {
+                                            "first": "Bruno",
+                                            "last": "Vieira",
+                                            "full": "Bruno Vieira"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "event-actions": {
+                            "event-actions-soccer": {
+                                "action-soccer-score": [
+                                    {
+                                        "minutesElapsed": "58",
+                                        "period-time": "SecondHalf",
+                                        "date-time": "2022-11-12T19:16:40Z",
+                                        "score-attempt-type": "regular",
+                                        "action-soccer-play-participant": [
+                                            {
+                                                "player-idref": "484544",
+                                                "team-idref": "2847",
+                                                "role": "scorer"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "caliente-event-market": {
+                            "eventId": "17195336",
+                            "marketId": "335811961",
+                            "marketName": "Full Time Result",
+                            "marketStatus": "S",
+                            "matchStatus": "Y",
+                            "oddsHome": {
+                                "betReference": "MTA5NTY5NDc1NzoxMDAvMTo6MA",
+                                "oddsId": "1095694757",
+                                "oddsName": "Arouca",
+                                "status": "A",
+                                "usPrc": "+10000"
+                            },
+                            "oddsDraw": {
+                                "betReference": "MTA5NTY5NDc1NjoxMy8yOjow",
+                                "oddsId": "1095694756",
+                                "oddsName": "Draw",
+                                "status": "A",
+                                "usPrc": "+650"
+                            },
+                            "oddsAway": {
+                                "betReference": "MTA5NTY5NDc1NToxLzE0Ojow",
+                                "oddsId": "1095694755",
+                                "oddsName": "Rio Ave",
+                                "status": "A",
+                                "usPrc": "-1400"
+                            },
+                            "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=17195336",
+                            "marketClosed": true
+                        }
+                    },
+                    {
+                        "event-metadata": {
+                            "event-key": "2308579",
+                            "event-status": "pre-event",
+                            "event-status-note": "pre-event",
+                            "start-date-time": "2022-12-23T20:15:00Z",
+                            "event-type": "Regular",
+                            "event-name": "Rio Ave vs Marítimo",
+                            "event-outcome-type": "regular",
+                            "event-metadata-soccer": {
+                                "week": "14"
+                            },
+                            "site": {
+                                "site-metadata": {
+                                    "site-key": "4055",
+                                    "name": {
+                                        "full": "Estádio do Rio Ave"
+                                    },
+                                    "home-location": {
+                                        "city": "Vila do Conde"
+                                    }
+                                }
+                            },
+                            "date-coverage-type": "event",
+                            "season-key": "2022",
+                            "period-start-date-time": "2022-12-21T09:00:39Z",
+                            "sports-property": [
+                                {
+                                    "formal-name": "league-key",
+                                    "value": "99"
+                                },
+                                {
+                                    "formal-name": "match-uid",
+                                    "value": "2308579"
+                                },
+                                {
+                                    "formal-name": "opta-detail-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-timing-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "opta-accuracy-id",
+                                    "value": "1"
+                                },
+                                {
+                                    "formal-name": "maximum-number-of-weeks",
+                                    "value": "34"
+                                },
+                                {
+                                    "formal-name": "feature-event",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "livestream-enabled",
+                                    "value": "true"
+                                },
+                                {
+                                    "formal-name": "tve-authenticated",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "tudn-xtra",
+                                    "value": "false"
+                                },
+                                {
+                                    "formal-name": "broadcast-language",
+                                    "value": "Spanish"
+                                },
+                                {
+                                    "formal-name": "television-coverage",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-mx",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "television-coverage-english",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "permalink",
+                                    "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave-vs-maritimo-liga-portugal-2022-12-23"
+                                },
+                                {
+                                    "formal-name": "brightspot-id",
+                                    "value": "00000181-d026-de98-a781-d4bfce300000"
+                                },
+                                {
+                                    "formal-name": "tag-hierarchy",
+                                    "value": "Deportes, Fútbol"
+                                },
+                                {
+                                    "formal-name": "mcp-video-id",
+                                    "value": ""
+                                },
+                                {
+                                    "formal-name": "mcp-stream-start-time",
+                                    "value": "2022-12-28T11:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "mcp-stream-end-time",
+                                    "value": "2022-12-28T13:00:00-05:00"
+                                },
+                                {
+                                    "formal-name": "league-abbreviation",
+                                    "value": "Liga Portugal"
+                                },
+                                {
+                                    "formal-name": "league-coverage",
+                                    "value": "Classic"
+                                },
+                                {
+                                    "formal-name": "soccer-match-section",
+                                    "value": ""
+                                }
+                            ],
+                            "sports-content-codes": {
+                                "sports-content-code": [
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "99",
+                                        "code-type": "tournament"
+                                    },
+                                    {
+                                        "code-name": "Portuguese Primeira Liga",
+                                        "code-key": "PT_PL",
+                                        "code-type": "league"
+                                    },
+                                    {
+                                        "code-name": "Season 2022/2023",
+                                        "code-key": "2022",
+                                        "code-type": "season"
+                                    }
+                                ]
+                            }
+                        },
+                        "team": [
+                            {
+                                "team-metadata": {
+                                    "team-key": "2847",
+                                    "alignment": "home",
+                                    "name": {
+                                        "full": "Rio Ave",
+                                        "abbreviation": "RIA"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/ed/c7/50a960694ecd891b00e572c8121f/1758-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/rio-ave"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "",
+                                    "score-opposing": "",
+                                    "event-outcome": "undecided",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            },
+                            {
+                                "team-metadata": {
+                                    "team-key": "740",
+                                    "alignment": "away",
+                                    "name": {
+                                        "full": "Marítimo",
+                                        "abbreviation": "MTO"
+                                    },
+                                    "sports-property": [
+                                        {
+                                            "formal-name": "logo",
+                                            "value": "https://uvn-brightspot.s3.amazonaws.com/5e/be/6e48d449422e9091f81564536256/1753-eb.png"
+                                        },
+                                        {
+                                            "formal-name": "permalink",
+                                            "value": "https://uat.tudn.com/futbol/liga-portugal/maritimo"
+                                        }
+                                    ]
+                                },
+                                "team-stats": {
+                                    "score": "",
+                                    "score-opposing": "",
+                                    "event-outcome": "undecided",
+                                    "penalty-stats": {
+                                        "count": ""
+                                    }
+                                }
+                            }
+                        ],
+                        "officials": {},
+                        "event-actions": {
+                            "event-actions-soccer": {}
+                        },
+                        "match-player-event-info": {
+                            "prendeExternalLink": "",
+                            "vixExternalLink": "",
+                            "hasBroadcastEvent": false,
+                            "hasMcpLiveStreamId": false,
+                            "vixUsExternalLink": "",
+                            "vixMxExternalLink": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "analyticsData": {
+        "web": {
+            "common": {
+                "content_author": "",
+                "content_created_date": "2022-12-23",
+                "content_id": "00000181-d026-de98-a781-d4bfce300000",
+                "content_modified_date": "2022-09-13",
+                "content_vertical": "deportes",
+                "section": "liga portugal",
+                "seo_focus_keyword": "not defined",
+                "title": "rio ave vs maritimo",
+                "publish_user": "oscar rodriguez",
+                "section_full_hierarchy": [
+                    "deportes",
+                    "futbol",
+                    "liga portugal"
+                ],
+                "section_level1": "deportes",
+                "uci_division": "sports",
+                "content_type": "soccermatch",
+                "all_tags": [
+                    "liga portugal | 2021",
+                    "rio ave",
+                    "maritimo"
+                ],
+                "seo_optimized": 0,
+                "tudnxtra": "false",
+                "permalink": "https://uat.tudn.com/futbol/liga-portugal/rio-ave-vs-maritimo-liga-portugal-2022-12-23",
+                "section_level3": "liga portugal",
+                "section_level2": "futbol",
+                "adtag_value": "section_deportes/futbol/ligaportugal/inicio"
+            },
+            "nielsen": {
+                "common": {
+                    "section": "liga portugal",
+                    "type": "static",
+                    "vcid": "c03"
+                },
+                "contentSpecific": {
+                    "segA": "deportes"
+                }
+            },
+            "contentSpecific": {
+                "section_category": "navigation taxonomy"
+            }
+        },
+        "apps": {
+            "common": {
+                "content_author": "",
+                "content_created_date": "2022-12-23",
+                "content_id": "00000181-d026-de98-a781-d4bfce300000",
+                "section": "liga portugal",
+                "title": "rio ave vs maritimo",
+                "section_full_hierarchy": [
+                    "deportes",
+                    "futbol",
+                    "liga portugal"
+                ],
+                "section_level1": "deportes",
+                "content_type": "soccermatch",
+                "all_tags": [
+                    "liga portugal | 2021",
+                    "rio ave",
+                    "maritimo"
+                ],
+                "tudnxtra": "false",
+                "section_level3": "liga portugal",
+                "section_level2": "futbol",
+                "adtag_value": "section_deportes/futbol/ligaportugal/inicio"
+            },
+            "nielsen": {
+                "common": {
+                    "section": "liga portugal",
+                    "type": "static",
+                    "vcid": "c03"
+                },
+                "contentSpecific": {
+                    "segA": "deportes"
+                }
+            },
+            "contentSpecific": {
+                "section_category": "navigation taxonomy"
+            }
+        }
+    }
+}

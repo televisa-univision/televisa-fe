@@ -1,0 +1,765 @@
+{
+  "status": "success",
+  "data": {
+    "uid": "0000015c-a4cc-d8ae-abde-eeff3c960000",
+    "uri": "http://qa.x.univision.com/deportes/futbol/copa-confederaciones/estas-son-las-cuatro-magnificas-sedes-de-la-confederaciones-rusia-2017-fotos",
+    "type": "slideshow",
+    "device": "desktop",
+    "domain": "univison.com",
+    "env": "prod",
+    "externalWidgets": {},
+    "isSensitive": false,
+    "contentPriority": "standard",
+    "versionCreated": "2017-06-26T16:01:53-04:00",
+    "title": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017",
+    "shortTitle": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017",
+    "description": "Modernidad, historia, infraestructura y mucho fútbol en Sochi, Kazan, San Petersburgo y Moscú.",
+    "shortDescription": "Modernidad, historia, infraestructura y mucho fútbol en Sochi, Kazan, San Petersburgo y Moscú.",
+    "image": {
+      "type": "image",
+      "title": null,
+      "caption": "",
+      "credit": "Getty Images.",
+      "renditions": {
+        "original": {
+          "href": "http://univision-bs.s3.amazonaws.com/0b/25/5f29b0704700a8ae089958ee54d2/e5.jpg",
+          "width": 1366,
+          "height": 768
+        },
+        "16x9-med": {
+          "href": "http://qa.univision.psdops.com/dims4/default/3f77d2f/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Funivision-bs.s3.amazonaws.com%2F0b%2F25%2F5f29b0704700a8ae089958ee54d2%2Fe5.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "http://qa.univision.psdops.com/dims4/default/2466786/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Funivision-bs.s3.amazonaws.com%2F0b%2F25%2F5f29b0704700a8ae089958ee54d2%2Fe5.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "http://qa.univision.psdops.com/dims4/default/e94d720/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Funivision-bs.s3.amazonaws.com%2F0b%2F25%2F5f29b0704700a8ae089958ee54d2%2Fe5.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-sm": {
+          "href": "http://qa.univision.psdops.com/dims4/default/4573b07/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Funivision-bs.s3.amazonaws.com%2F0b%2F25%2F5f29b0704700a8ae089958ee54d2%2Fe5.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "http://qa.univision.psdops.com/dims4/default/c43b1e1/2147483647/thumbnail/1024x576/quality/75/?url=http%3A%2F%2Funivision-bs.s3.amazonaws.com%2F0b%2F25%2F5f29b0704700a8ae089958ee54d2%2Fe5.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href": "http://qa.univision.psdops.com/dims4/default/48badf7/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Funivision-bs.s3.amazonaws.com%2F0b%2F25%2F5f29b0704700a8ae089958ee54d2%2Fe5.jpg",
+          "width": 1440,
+          "height": 810
+        }
+      }
+    },
+    "primaryTag": {
+      "name": "Copa Confederaciones",
+      "link": null
+    },
+    "primaryTopic": "Deportes",
+    "metaTagData": {
+      "settings": null,
+      "googlePlus": {
+        "author": null,
+        "publisher": null
+      },
+      "openGraph": {
+        "type": "uni_og_act:slideshow",
+        "title": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017",
+        "description": "Modernidad, historia, infraestructura y mucho fútbol en Sochi, Kazan, San Petersburgo y Moscú.",
+        "imageUrl": "http://univision-bs.s3.amazonaws.com/0b/25/5f29b0704700a8ae089958ee54d2/e5.jpg",
+        "siteName": "Univision",
+        "url": "http://qa.x.univision.com/en-US/deportes/futbol/copa-confederaciones/estas-son-las-cuatro-magnificas-sedes-de-la-confederaciones-rusia-2017-fotos"
+      },
+      "twitter": {
+        "card": "summary",
+        "title": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017 - Univision",
+        "description": "Modernidad, historia, infraestructura y mucho fútbol en Sochi, Kazan, San Petersburgo y Moscú.",
+        "creator": null,
+        "imageUrl": "http://univision-bs.s3.amazonaws.com/0b/25/5f29b0704700a8ae089958ee54d2/e5.jpg"
+      },
+      "facebook": {
+        "pages": "259955926518,173155703431,174725429795"
+      },
+      "extras": [
+
+      ],
+      "additionalSeoKeywords": [
+
+      ]
+    },
+    "seo": {
+      "title": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017 - Univision",
+      "description": "Modernidad, historia, infraestructura y mucho fútbol en Sochi, Kazan, San Petersburgo y Moscú.",
+      "keywords": [
+
+      ],
+      "robots": [
+
+      ]
+    },
+    "adSettings": {
+      "contentSpecificSettings": {
+        "refreshRates": {
+          "mobileRefreshRate": 2,
+          "tabletRefreshRate": 3,
+          "desktopRefreshRate": 3
+        },
+        "adInterval": 5,
+        "adIntervalVertical": 3,
+        "adViewTime": 4
+      },
+      "disableAds": true,
+      "disableVideoAds": true,
+      "freewheel": {
+        "sectionId": "sports_futbol_slideshow",
+        "assetId": null,
+        "adValue": null,
+        "test": {
+          "displayAdProfilePath": "univision_test",
+          "host": "1b656.v.fwmrm.net",
+          "linkTag2Profile": "univision_linktag2_live",
+          "networkCode": "112214",
+          "profilePath": "univision_Live_HTML5"
+        },
+        "production": {
+          "displayAdProfilePath": "univision_test",
+          "host": "1b656.v.fwmrm.net",
+          "linkTag2Profile": "111976:univision_linktag2_test",
+          "networkCode": "111976",
+          "profilePath": "univision_test_HTML5"
+        }
+      },
+      "dfp": {
+        "adValue": "/sports/futbol/slideshow",
+        "production": {
+          "desktopAdValuePrefix": "d.",
+          "mobileAdValuePrefix": "m.",
+          "networkCode": "7009"
+        },
+        "test": {
+          "desktopAdValuePrefix": "d.",
+          "mobileAdValuePrefix": "m.",
+          "networkCode": "6881"
+        }
+      }
+    },
+    "tracking": {
+      "tealium": {
+        "account": "main",
+        "environment": "qa",
+        "data": {
+          "all_tags": [
+            "copa confederaciones",
+            "competencias de futbol",
+            "futbol",
+            "deportes"
+          ],
+          "content_author": "",
+          "content_created_date": "1498507312917",
+          "content_creator": "00000150-4895-d9d9-ad54-5df527c60013",
+          "content_id": "0000015c-a4cc-d8ae-abde-eeff3c960000",
+          "content_modified_date": "1498507313437",
+          "content_priority": "standard",
+          "content_type": "slideshow",
+          "environment_name": "qa",
+          "page_name": "deportes:copa confederaciones:slideshow:estas son las cuatro magnificas sedes de la confederaciones rusia 2017",
+          "parent_tags": [
+            "copa confederaciones",
+            "competencias de futbol",
+            "futbol",
+            "deportes"
+          ],
+          "parent_topic": "deportes",
+          "primary_tag": "copa confederaciones",
+          "primary_tag_uid": "0000015c-59c4-d938-a15e-d9df74110000",
+          "primary_tag_en": "copa confederaciones",
+          "promo_title": "estas son las cuatro magnificas sedes de la confederaciones rusia 2017",
+          "pub_name": "jose arzuaga",
+          "publisher_tags": [
+            "copa confederaciones"
+          ],
+          "short_title": "estas son las cuatro magnificas sedes de la confederaciones rusia 2017",
+          "short_title_en": "estas son las cuatro magnificas sedes de la confederaciones rusia 2017",
+          "slide_count": "21",
+          "source": "univision",
+          "tags_en": [
+            "copa confederaciones",
+            "soccer competitions",
+            " soccer",
+            "sports"
+          ],
+          "title": "estas son las cuatro magnificas sedes de la confederaciones rusia 2017",
+          "title_en": "estas son las cuatro magnificas sedes de la confederaciones rusia 2017",
+          "topics": [
+            "deportes"
+          ],
+          "uci_division": "sports"
+        }
+      }
+    },
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://qa.x.univision.com/en-US/deportes/futbol/copa-confederaciones/estas-son-las-cuatro-magnificas-sedes-de-la-confederaciones-rusia-2017-fotos",
+          "redirectUrl": "http://qa.x.univision.com/en-US/deportes/futbol/copa-confederaciones/estas-son-las-cuatro-magnificas-sedes-de-la-confederaciones-rusia-2017-fotos",
+          "isFeedDialog": false,
+          "baseUrl": null,
+          "appId": "645138725541385",
+          "title": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017",
+          "description": "Modernidad, historia, infraestructura y mucho fútbol en Sochi, Kazan, San Petersburgo y Moscú.",
+          "imageUrl": "http://univision-bs.s3.amazonaws.com/0b/25/5f29b0704700a8ae089958ee54d2/e5.jpg"
+        },
+        "twitter": {
+          "title": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017",
+          "via": "UnivisionSports"
+        },
+        "whatsapp": {
+          "url": "http://qa.x.univision.com/en-US/deportes/futbol/copa-confederaciones/estas-son-las-cuatro-magnificas-sedes-de-la-confederaciones-rusia-2017-fotos",
+          "message": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017"
+        },
+        "mail": {
+          "subject": "Estas son las cuatro magníficas sedes de la Confederaciones Rusia 2017",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEstas son las cuatro magníficas sedes de la Confederaciones Rusia 2017\n\nEncuéntralo en este enlace: http://qa.x.univision.com/en-US/deportes/futbol/copa-confederaciones/estas-son-las-cuatro-magnificas-sedes-de-la-confederaciones-rusia-2017-fotos\n\nVisitamos www.univision.com"
+        }
+      },
+      "counts": {
+        "facebook": "0"
+      }
+    },
+    "secondaryTags": [
+      {
+        "name": "Zona MX 103.5 FM",
+        "link": "http://performance.univision.com/las-vegas/kisf"
+      },
+      {
+        "name": "Raúl Molinar 'El Pelón'",
+        "link": "http://performance.univision.com/temas/raul-molinar-el-pelon"
+      },
+      {
+        "name": "El Feo",
+        "link": "http://performance.univision.com/temas/el-feo"
+      },
+      {
+        "name": "Zona MX 101.9 FM",
+        "link": "http://performance.univision.com/los-angeles/ksca"
+      },
+      {
+        "name": "Regional Mexicano",
+        "link": "http://performance.univision.com/temas/regional-mexicano"
+      },
+      {
+        "name": "Local",
+        "link": "http://performance.univision.com/temas/local"
+      }
+    ],
+    "source": "Univision",
+    "publishDate": "2017-06-26T16:01:52-04:00",
+    "updateDate": "2017-06-26T16:01:53-04:00",
+    "expirationDate": null,
+    "vertical": true,
+    "disableAutoPlay": false,
+    "autoPlayTimer": 7,
+    "richTextDescription": [
+
+    ],
+    "hideDescription": true,
+    "nextSlideshows": {},
+    "slides": [
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/0b/25/5f29b0704700a8ae089958ee54d2/e5.jpg",
+            "width": 1366,
+            "height": 768
+          }
+        },
+        "hideCaption": false,
+        "caption": "Arranca el ensayo oficial de cara a Rusia 2018 y estas son las cartas de presentación de la Copa Confederaciones.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/7c/c8/5222b323473db13cd593534feb33/e1.jpg",
+            "width": 1152,
+            "height": 1536
+          }
+        },
+        "hideCaption": false,
+        "caption": "El póster oficial de la ciudad sede de Kazan tiene al animal simbólico de la República de Tartaristán: el leopardo de las nieves.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/f9/9a/d97be88b4b7fb80b13a7599060f0/gettyimages-56469369.jpg",
+            "width": 3000,
+            "height": 2131
+          }
+        },
+        "hideCaption": false,
+        "caption": "El leopardo de las nieves está en peligro de extinción. En 2003 se calculaba una población mundial de casi siete mil adultos. Hoy día, el número sigue siendo inferior a diez mil.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/26/7e/d4e62329401b992d02d8cb38afba/gettyimages-480411022.jpg",
+            "width": 4928,
+            "height": 3280
+          }
+        },
+        "hideCaption": false,
+        "caption": "La Arena Kazan fue inaugurada en 2013 y reemplazó al Estadio Central como el recinto futbolístico de una de las ciudades más importantes de la Federación Rusa. Costó 450 millones de dólares.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/97/b4/217d0c2e4c8593283136ee47fb81/gettyimages-480412580.jpg",
+            "width": 4766,
+            "height": 3177
+          }
+        },
+        "hideCaption": false,
+        "caption": "En el 2015 le fueron adaptadas piscinas olímpicas y un techo retráctil para el Mundial de Natación.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/52/b7/8fbe4d574b5ea4a72753a831ffd3/gettyimages-457368724.jpg",
+            "width": 3900,
+            "height": 2915
+          }
+        },
+        "hideCaption": false,
+        "caption": "El estadio tiene la pantalla exterior más grande de Europa. Tiene un área de tres mil 700 metros.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/14/de/6e43ae9e4046b362983764bb9ac2/gettyimages-603237928.jpg",
+            "width": 3000,
+            "height": 2082
+          }
+        },
+        "hideCaption": false,
+        "caption": "El entrenador del Rubin Kazan durante la temporada 2016-2017 fue el español Javi Gracia, quien banqueó a Guillermo Ochoa dos años en Málaga.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/a4/aa/2d596205422db60c73a9ace42df9/e2.jpg",
+            "width": 1152,
+            "height": 1536
+          }
+        },
+        "hideCaption": false,
+        "caption": "En la Copa del Mundo de la FIFA, Moscú contará con dos estadios mundialistas. El más importante será el histórico Luzhniki (en remodelación)...",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/a4/07/059e69a84a1f8682d2f5ec3e0dcd/gettyimages-480024822.jpg",
+            "width": 5184,
+            "height": 3456
+          }
+        },
+        "hideCaption": false,
+        "caption": "... y la Otkrytiye Arena, que durante la Copa Confederaciones será llamado Spartak Stadium, pues su nombre verdadero está patrocinado por un banco ruso.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/e4/22/5928f859434fb5d9a676def29d56/gettyimages-684269908.jpg",
+            "width": 3500,
+            "height": 2750
+          }
+        },
+        "hideCaption": false,
+        "caption": "Es la casa del Spartak de Moscú, flamante campeón de la Russian Premier League 2016-2017.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/24/05/95846759467e925e9e3042a50589/gettyimages-480024800.jpg",
+            "width": 4800,
+            "height": 3195
+          }
+        },
+        "hideCaption": false,
+        "caption": "Abrió sus puertas en septiembre del 2014 y costó más de 400 millones de dólares. Tiene un aforo para 45 mil espectadores.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/01/66/70ca685e4e99a0514f33a679ead6/e3.jpg",
+            "width": 1152,
+            "height": 1536
+          }
+        },
+        "hideCaption": false,
+        "caption": "San Petersburgo es una &#39;joven&#39; ciudad, pues fue fundada en el siglo 18 y cuenta con una arquitectura formidable. Es la más europea de las ciudades rusas.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/12/9a/71e33e2f4c71bb58b7ba0b2adc76/gettyimages-679292276.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        },
+        "hideCaption": false,
+        "caption": "El Estadio Krestovsky fue construido en un islote del mismo nombre y durante los torneos de la FIFA su nombre será Arena Zenit.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/99/70/a12f0774441ca1918b1e3ac911e2/gettyimages-671532166.jpg",
+            "width": 3000,
+            "height": 2000
+          }
+        },
+        "hideCaption": false,
+        "caption": "Este inmueble ultramoderno fue diseñado por el japonés Kisho Kurokawa, <a href=\"http://www.univision.com/deportes/fifa-copa-mundial/este-japones-construyo-la-casa-de-godzilla-y-el-estadio-del-golazo-de-jared-a-buffon-fotos\" target=\"_blank\">que también diseñó el estadio del golazo de Jared Borgetti a Italia en el 2002</a>.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/d4/bd/5342bf114392886e6201aa08c402/gettyimages-695642934.jpg",
+            "width": 3000,
+            "height": 2105
+          }
+        },
+        "hideCaption": false,
+        "caption": "El Zenit es quizás el club más rico de Rusia y recientemente anunció al italiano Roberto Mancini como su flamante estratega.",
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/21/94/5aaf31d74d00bcb5a0eb63ca5202/e4.jpg",
+            "width": 1152,
+            "height": 1536
+          }
+        },
+        "hideCaption": false,
+        "caption": null,
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/01/34/cb95ec5e49b484cbeb1ac31f91a5/gettyimages-621568488.jpg",
+            "width": 7360,
+            "height": 4912
+          }
+        },
+        "hideCaption": false,
+        "caption": null,
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/eb/49/d9fbace7405da75951a208572c87/gettyimages-470402743.jpg",
+            "width": 4812,
+            "height": 3208
+          }
+        },
+        "hideCaption": false,
+        "caption": null,
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/d3/4c/ffdf474b451da6cb122c85e5f8e6/gettyimages-479131697.jpg",
+            "width": 3000,
+            "height": 2001
+          }
+        },
+        "hideCaption": false,
+        "caption": null,
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/89/fd/e900d76a4ac295567c4a40a53d1e/gettyimages-659117734.jpg",
+            "width": 4359,
+            "height": 2906
+          }
+        },
+        "hideCaption": false,
+        "caption": null,
+        "credit": "Getty Images."
+      },
+      {
+        "image": {
+          "original": {
+            "href": "http://univision-bs.s3.amazonaws.com/0e/2a/3d4efcaf4ed48c47d204b756b6a0/gettyimages-480580624.jpg",
+            "width": 4690,
+            "height": 3146
+          }
+        },
+        "hideCaption": false,
+        "caption": null,
+        "credit": "Getty Images."
+      }
+    ],
+    "ttl": 900,
+    "feedGeneratedAt": "2017-06-26T16:02:38-04:00",
+    "authors": [{
+        "uid": "0000015d-148e-dda4-afdf-5eaff9250000",
+        "uri": "http://performance.univision.com/temas/soraya-constante",
+        "type": "person",
+        "updateDate": "2017-07-31T13:58:53-04:00",
+        "publishDate": "2017-07-05T17:03:43-04:00",
+        "expirationDate": null,
+        "title": "Soraya Constante",
+        "shortTitle": null,
+        "description": "Soraya Constante",
+        "shortDescription": null,
+        "richTextDescription": [],
+        "image": {
+          "type": "image",
+          "title": "Soraya 30601",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/c1/80/01aeeaca4ad5973d837ba845d8f2/a.jpeg",
+              "width": 375,
+              "height": 250
+            },
+            "16x9-med": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/fe7faba/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F80%2F01aeeaca4ad5973d837ba845d8f2%2Fa.jpeg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/7730f76/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F80%2F01aeeaca4ad5973d837ba845d8f2%2Fa.jpeg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/3a68a0d/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F80%2F01aeeaca4ad5973d837ba845d8f2%2Fa.jpeg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-sm": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/8124175/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F80%2F01aeeaca4ad5973d837ba845d8f2%2Fa.jpeg",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/f798922/2147483647/thumbnail/1024x576/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F80%2F01aeeaca4ad5973d837ba845d8f2%2Fa.jpeg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-extended": {
+              "href": "https://cdn1.performance.univision.com/dims4/default/b84176d/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F80%2F01aeeaca4ad5973d837ba845d8f2%2Fa.jpeg",
+              "width": 1440,
+              "height": 810
+            }
+          }
+        },
+        "primaryTag": {
+          "name": "Soraya Constante",
+          "link": "http://performance.univision.com/temas/soraya-constante"
+        },
+        "primaryTopic": "Personas",
+        "firstName": "Soraya",
+        "middleName": null,
+        "lastName": "Constante",
+        "knownAs": "Soraya Constante",
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedInUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": {
+            "text": "Soraya Constante",
+            "url": "https://twitter.com/Sory_Constante",
+            "target": "_blank",
+            "hashTags": []
+          },
+          "youTubeUrl": null
+        }
+      },
+      {
+        "uid": "0000015c-eb86-da2c-a55f-ebef10ec0000",
+        "uri": "http://performance.univision.com/temas/yalimar-panell",
+        "type": "person",
+        "updateDate": "2017-06-27T20:31:54-04:00",
+        "publishDate": "2017-06-27T17:49:53-04:00",
+        "expirationDate": null,
+        "title": "Yalimar Panell",
+        "shortTitle": null,
+        "description": "Yalimar Panell",
+        "shortDescription": null,
+        "richTextDescription": [],
+        "image": {
+          "type": null,
+          "renditions": null
+        },
+        "primaryTag": {
+          "name": "Yalimar Panell",
+          "link": "http://performance.univision.com/temas/yalimar-panell"
+        },
+        "primaryTopic": "Personas",
+        "firstName": "Yalimar",
+        "middleName": null,
+        "lastName": "Panell",
+        "knownAs": null,
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedInUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        }
+      },
+      {
+        "uid": "0000015d-377c-dfa7-a9ff-ff7ee85e0000",
+        "uri": "http://performance.univision.com/temas/stephanie-fairyington",
+        "type": "person",
+        "updateDate": "2017-07-13T10:16:21-04:00",
+        "publishDate": "2017-07-12T11:50:17-04:00",
+        "expirationDate": null,
+        "title": "Stephanie  Fairyington",
+        "shortTitle": null,
+        "description": "Stephanie  Fairyington",
+        "shortDescription": null,
+        "richTextDescription": [],
+        "image": {
+          "type": null,
+          "renditions": null
+        },
+        "primaryTag": {
+          "name": "Personas",
+          "link": "http://performance.univision.com/temas/personas"
+        },
+        "primaryTopic": "Personas",
+        "firstName": "Stephanie ",
+        "middleName": null,
+        "lastName": "Fairyington",
+        "knownAs": null,
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedInUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        }
+      },
+      {
+        "uid": "0000015d-3767-d8b1-a35f-7f7f67c80000",
+        "uri": "http://performance.univision.com/temas/paula-caligiuri",
+        "type": "person",
+        "updateDate": "2017-07-13T10:17:29-04:00",
+        "publishDate": "2017-07-12T11:27:11-04:00",
+        "expirationDate": null,
+        "title": "Paula  Caligiuri",
+        "shortTitle": null,
+        "description": "Paula  Caligiuri",
+        "shortDescription": null,
+        "richTextDescription": [],
+        "image": {
+          "type": "image",
+          "title": "salud the conversation small logo",
+          "caption": "",
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/27/ae/fd5469474290877fb5b9884c6a08/the-conversation-minilogo.png",
+              "width": 1027,
+              "height": 636
+            },
+            "16x9-med": {
+              "href": "https://cdn5.performance.univision.com/dims4/default/7cdb9e1/2147483647/crop/1027x578%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F27%2Fae%2Ffd5469474290877fb5b9884c6a08%2Fthe-conversation-minilogo.png",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://cdn5.performance.univision.com/dims4/default/4bd573d/2147483647/crop/1027x578%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F27%2Fae%2Ffd5469474290877fb5b9884c6a08%2Fthe-conversation-minilogo.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://cdn5.performance.univision.com/dims4/default/6d082fb/2147483647/crop/1027x578%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F27%2Fae%2Ffd5469474290877fb5b9884c6a08%2Fthe-conversation-minilogo.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-sm": {
+              "href": "https://cdn5.performance.univision.com/dims4/default/a272f89/2147483647/crop/1027x576%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F27%2Fae%2Ffd5469474290877fb5b9884c6a08%2Fthe-conversation-minilogo.png",
+              "width": 246,
+              "height": 138
+            },
+            "16x9-tablet": {
+              "href": "https://cdn5.performance.univision.com/dims4/default/1a9c953/2147483647/crop/1027x578%2B0%2B0/resize/1024x576/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F27%2Fae%2Ffd5469474290877fb5b9884c6a08%2Fthe-conversation-minilogo.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-extended": {
+              "href": "https://cdn5.performance.univision.com/dims4/default/31fea07/2147483647/crop/1027x578%2B0%2B0/resize/1440x810/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F27%2Fae%2Ffd5469474290877fb5b9884c6a08%2Fthe-conversation-minilogo.png",
+              "width": 1440,
+              "height": 810
+            }
+          }
+        },
+        "primaryTag": {
+          "name": "Personas",
+          "link": "http://performance.univision.com/temas/personas"
+        },
+        "primaryTopic": "Personas",
+        "firstName": "Paula ",
+        "middleName": null,
+        "lastName": "Caligiuri",
+        "knownAs": null,
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedInUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": {
+            "text": "@PaulaCaligiuri",
+            "url": "https://twitter.com/PaulaCaligiuri",
+            "target": "_blank",
+            "hashTags": []
+          },
+          "youTubeUrl": null
+        }
+      }
+    ],
+    "widgets": {}
+  }
+}

@@ -1,0 +1,37 @@
+.container {
+  position: relative;
+  background-color: $darker-grey;
+  height: 550px;
+
+  @include media-breakpoint-down("sm") {
+    height: 350px;
+    margin-bottom: 1rem;
+  }
+}
+
+.launcherWrap {
+  position: absolute;
+  width: 100%;
+  bottom: 1.5rem;
+  z-index: $zindex-base;
+
+  @include media-breakpoint-down("sm") {
+    margin-bottom: -2rem;
+  }
+}
+
+.launcher {
+  width: 100%;
+  max-width: 250px;
+  margin: 0 auto;
+
+  @include media-breakpoint-down("sm") {
+    max-width: 100%;
+  }
+}
+
+.launch {
+  button {
+    background-color: $blue;
+  }
+}

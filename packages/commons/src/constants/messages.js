@@ -1,0 +1,35 @@
+export const NOT_FOUND = 'Not found';
+export const INTERNAL_ERROR = 'Internal error';
+export const API_PAGE_NOT_FOUND = '404 - Api page not found';
+export const SERVER_REQUEST_ERROR = 'No response from Server Request';
+export const SERVER_DYNAMIC_IMPORT_ERROR = 'Error on requestNode dynamic import';
+export const INVALID_KEY = 'Invalid API domain, key';
+export const NOT_RESPONSE_FROM_API_URL = 'No response from API for url';
+export const PROXY_ERROR = 'Proxy error';
+export const REQUEST_TIMEOUT = 'Request timeout';
+export const PARSE_ERROR = 'Parse error';
+export const QUICK_APPLY_ERROR = 'Quick Apply Service Error: ';
+export const SLIDESHOW_EMPTY_ERROR = 'No slides data for slideshow';
+export const SLIDESHOW_EMPTY_INFO = 'Slideshow data was probably empty in web API response';
+export const FAVORITE_HOROSCOPES_ERROR = 'FavoriteHoroscopes Error:';
+export const GRAPHQL_SERVICE_ERROR = 'GRAPHQL_SERVICE_ERROR';
+export const REACTIONS_SERVICE_ERROR = 'Reactions Service Error:';
+export const REACTIONS_EMPTY_ERROR = 'Reactions Error. Having empty array or status ERROR';
+export const WEATHER_FORECAST_ERROR = 'Weather Forecast Service Error:';
+export const WEATHER_ALERTS_ERROR = 'Weather Alert Service Error:';
+export const TRANSLATION_ERROR = 'Translation Service Error:';
+export const USER_LOCATION_ERROR = 'User Location Service Error:';
+export const JOB_RESULT_ERROR = 'Job Search Service Error: ';
+export const SOCCER_PERSON_ERROR = 'Soccer Person Service Error: ';
+
+export const STATUS_200 = 'ok';
+export const STATUS_400 = 'Bad request. The request could not be understood by the server due to malformed syntax or there is no data found for the location requested.';
+export const STATUS_401 = 'Unauthorized. The request requires authentication.';
+export const STATUS_403 = 'Forbidden. The server understood the request but is refusing to fulfill it.';
+export const STATUS_404 = 'Not found. The endpoint requested is not found.';
+export const STATUS_500 = 'Internal server error. The server encountered an unexpected condition which prevented it from fulfilling the request.';
+export const STATUS_204 = 'No content available';
+
+export const PAGE_API_ERROR = '[API] Network Request Error from API call';
+export const PAGE_HEAD_ERROR = '[HEAD] Network Request Error from API calls:';
+export const PAGE_REACT_ERROR = '[BODY] Error rendering react page on the server';

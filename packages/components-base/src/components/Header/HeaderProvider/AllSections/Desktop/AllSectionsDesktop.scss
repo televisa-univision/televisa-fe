@@ -1,0 +1,275 @@
+.container {
+  max-width: 1440px;
+  margin: auto;
+  position: relative;
+}
+
+.desktopHamburger {
+  position: absolute;
+  padding-top: 20px;
+  min-width: 193px;
+  left: 0;
+  top: 100%;
+  height: calc(100vh - 40px);
+  transform: translateY(-20px);
+  background: white;
+  z-index: $zindex-base-behind;
+  transition: transform .2s ease-in, opacity .2s ease-in;
+  visibility: hidden;
+  opacity: 0;
+  border-left: 1px solid $white-grey;
+  margin-top: 20px;
+  text-align: left;
+  &.open {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+    z-index: $zindex-navigation;
+  }
+
+  &:after {
+    content: '';
+    @include gradient-horizontal(fade-out($black, .8), fade-out($black, 1));
+    position: absolute;
+    right: -3px;
+    width: 3px;
+    bottom: 0;
+    top: 0;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  a, button {
+    font-size: rem(11px);
+    color: $darker-grey;
+    display: block;
+    position: relative;
+    &.active {
+      background-color: $very-light-grey;
+      z-index: 10;
+    }
+  }
+
+  .parentSection {
+    > li {
+      span {
+        display: inline;
+      }
+    }
+    > li > a {
+      text-transform: uppercase;
+    }
+    > li > a {
+      @include uvs-font('a', 'bold');
+    }
+  }
+
+  .section {
+    position: relative;
+    transition: all .3s;
+
+    > a, > button, li {
+      white-space:nowrap;
+      padding: 8px 20px 8px 24px;
+      overflow: hidden;
+    }
+    > a {
+      @include uvn-now-logo;
+    }
+  }
+
+  .child {
+    position: fixed;
+    left: calc(100% - 1px);
+    top: 0;
+    border: 1px solid $very-light-grey;
+    border-left: 10px solid $very-light-grey;
+    z-index: 1;
+    background: $white;
+    padding: 15px 30px 15px 0;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    column-count: 2;
+    column-gap: 20px;
+    a {
+      font-size: rem(12px);
+    }
+    &:after {
+      content: '';
+      @include gradient-horizontal(fade-out($black, .8), fade-out($black, 1));
+      position: absolute;
+      right: -3px;
+      width: 3px;
+      bottom: 0;
+      top: 0;
+    }
+    &:before {
+      content: '';
+      @include gradient-horizontal(fade-out($black, 1), fade-out($black, .8));
+      position: absolute;
+      left: -12px;
+      width: 3px;
+      bottom: -1px;
+      top: 0;
+    }
+    &.fullWidth {
+      padding-right: 0;
+      padding-left: 0;
+    }
+    &.twoColumns {
+      width: 450px;
+      li {
+        width: 50%;
+        float: left;
+      }
+    }
+
+    .childItem {
+      padding: 16px 20px 0px 24px;
+    }
+
+    .hasGrandChildren + li:last-of-type {
+      padding-right: 10px;
+      a:before {
+        background-color: $white-grey;
+        content: "";
+        display: block;
+        height: 1px;
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin: 1px 0 20px;
+      }
+    }
+  }
+
+  .highlighted {
+    .highlightedOptions {
+      padding-left: 35px;
+      text-transform: uppercase;
+      @include uvs-font('a', 'bold');
+      background-color: $very-light-grey;
+      width: 100%;
+
+      &:hover {
+        background-color: rgba($darker-grey, 0.15);
+      }
+    }
+  }
+
+  li.hasGrandChildren {
+    margin-right: 10px;
+    > a:after {
+      background-color: $white-grey;
+      content: "";
+      display: inline-block;
+      height: 1px;
+      position: relative;
+      vertical-align: middle;
+      width: 120%;
+      left: 0.5em;
+      margin-bottom: 1px;
+    }
+  }
+
+  .column {
+    display: flex;
+    ul {
+      flex: 1;
+      padding: 8px 0px;
+      &:first-of-type {
+        padding-right: 60px;
+      }
+      li {
+        padding-left: 0px;
+      }
+    }
+  }
+
+}
+
+.arrow {
+  position: absolute;
+  right: 20px;
+  transition: transform .3s;
+  z-index: 1;
+  top: 50%;
+  transform: translateY(-60%);
+  svg {
+    margin: 0;
+    width: 8px;
+    height: 8px;
+    fill: $darker-grey;
+    color: $black;
+  }
+}
+
+.leftIcon {
+  z-index: $zindex-base;
+  position: absolute;
+  padding: 3px 0;
+  left: 20px;
+  svg {
+    margin: 0;
+    fill: $black;
+    width: 18px;
+    height: 18px;
+  }
+}
+
+.expanded {
+  transform: translateX(0);
+  opacity: 1;
+  visibility: visible;
+}
+
+.collapsed {
+  transform: translateX(-20px);
+  opacity: 0;
+  visibility: hidden;
+}
+
+button.controlOverride.overflowControl {
+  display: flex;
+  position: relative;
+  z-index: 1;
+  justify-content: space-between;
+  align-items: center;
+  margin: 11px;
+  background: $white;
+  width: calc(100% - 22px);
+  @include uvs-font('a', 'bold');
+  color: $black;
+  padding: 10px 10px 10px 44px;
+  font-size: rem(14px);
+  svg {
+    fill: $black;
+  }
+}
+.overflow {
+  border-top: 1px solid $white-grey;
+  transform: translateY(-55px);
+  opacity: 0;
+  height: 0;
+  transition: all .3s;
+  visibility: hidden;
+  overflow: hidden;
+}
+
+.overflowOpen {
+  transform: translateY(0);
+  opacity: 1;
+  height: auto;
+  visibility: visible;
+}
+
+:global(.sections-open) {
+  overflow-y: hidden;
+  @include media-breakpoint-up('md') {
+    overflow-y: auto;
+  }
+}

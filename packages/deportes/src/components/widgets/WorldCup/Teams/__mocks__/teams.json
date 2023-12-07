@@ -1,0 +1,3206 @@
+{
+  "league": {
+    "paging": {
+      "totalPages": 0,
+      "totalElements": 0,
+      "numberOfElements": 0,
+      "size": 50,
+      "number": 0,
+      "first": true,
+      "last": true
+    },
+    "leagues": []
+  },
+  "sports-content": {
+    "xmlns": "",
+    "xmlns:xts": "http://www.xmlteam.com",
+    "xmlns:bbc": "",
+    "sports-metadata": {
+      "doc-id": "standings:2022-10-21T17:31:53Z",
+      "date-time": "2022-10-21T17:31:53Z",
+      "fixture-key": "standings",
+      "fixture-name": "Standings",
+      "document-class": "standings",
+      "sports-content-codes": {
+        "sports-content-code": [
+          {
+            "code-name": "World Cup",
+            "code-key": "4",
+            "code-type": "tournament"
+          },
+          {
+            "code-name": "World Cup",
+            "code-key": "IG_WC",
+            "code-type": "league"
+          },
+          {
+            "code-name": "Season 2022/2023",
+            "code-key": "2022",
+            "code-type": "season"
+          },
+          {
+            "code-name": "Mundial - Qatar 2022",
+            "code-key": "00000152-3cc5-d5cc-affa-7dc73f620000",
+            "code-type": "league",
+            "code-source": "brightspot"
+          }
+        ]
+      },
+      "sports-property": [
+        {
+          "formal-name": "compound-key",
+          "value": "soccer:2022:4:standings:en-US:tournament"
+        }
+      ]
+    },
+    "standing": [
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group A",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "1873",
+              "alignment": "none",
+              "name": {
+                "first": "Qatar",
+                "full": "Catar",
+                "nickname": "Qatar",
+                "abbreviation": "QAT"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/82/ec/217af80a43669b394bc380366da1/3752-el.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-catar"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "830",
+              "alignment": "none",
+              "name": {
+                "first": "Ecuador",
+                "full": "Ecuador",
+                "nickname": "Ecuador",
+                "abbreviation": "ECU"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/91/17/bb509b17441785f10e4ed8c181ec/169-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-ecuador"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1226",
+              "alignment": "none",
+              "name": {
+                "first": "Senegal",
+                "full": "Senegal",
+                "nickname": "Senegal",
+                "abbreviation": "SEN"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/ac/35/706e8ef045d6b740298f7eb152b5/asset-2-8.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-senegal"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "366",
+              "alignment": "none",
+              "name": {
+                "first": "Netherlands",
+                "full": "Holanda",
+                "nickname": "Netherlands",
+                "abbreviation": "HOL"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/04/6f/4ca1fa10427f8e7e985b0c9a366e/holanda-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-holanda"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group B",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "114",
+              "alignment": "none",
+              "name": {
+                "first": "England",
+                "full": "Inglaterra",
+                "nickname": "England",
+                "abbreviation": "ENG"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/a9/b9/7cf4f6ed4a76877674d2462924eb/england-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-inglaterra"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1042",
+              "alignment": "none",
+              "name": {
+                "first": "IR Iran",
+                "full": "Irán",
+                "nickname": "IR Iran",
+                "abbreviation": "IRN"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/51/ff/6001ad604540a1167a275c846302/286-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-iran"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "596",
+              "alignment": "none",
+              "name": {
+                "first": "USA",
+                "full": "Estados Unidos",
+                "nickname": "USA",
+                "abbreviation": "USA"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/9b/c5/770c43964bf38a323b4599254757/usa-crest.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-estados-unidos"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "508",
+              "alignment": "none",
+              "name": {
+                "first": "Wales",
+                "full": "Gales",
+                "nickname": "Wales",
+                "abbreviation": "WAL"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/32/fd/0a48b35d4412aa17aaefbacbb5f4/wales-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-gales"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group C",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "632",
+              "alignment": "none",
+              "name": {
+                "first": "Argentina",
+                "full": "Argentina",
+                "nickname": "Argentina",
+                "abbreviation": "ARG"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/f4/de/c08837834fb48d5d730a7dce370c/21-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-argentina"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1264",
+              "alignment": "none",
+              "name": {
+                "first": "Saudi Arabia",
+                "full": "Arabia Saudita",
+                "nickname": "Saudi Arabia",
+                "abbreviation": "RAS"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/d5/7a/148e12f548f9be160495fc1cdbe7/276-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-arabia-saudita"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "659",
+              "alignment": "none",
+              "name": {
+                "first": "Mexico",
+                "full": "México",
+                "nickname": "Mexico",
+                "abbreviation": "MEX"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/c0/14/d40d2dab4542a1f109df13dee396/289-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-mexico"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "511",
+              "alignment": "none",
+              "name": {
+                "first": "Poland",
+                "full": "Polonia",
+                "nickname": "Poland",
+                "abbreviation": "POL"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/4c/6d/d50f23c74cf2ac3217d5f2110538/polonia-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-polonia"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group D",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "368",
+              "alignment": "none",
+              "name": {
+                "first": "France",
+                "full": "Francia",
+                "nickname": "France",
+                "abbreviation": "FRA"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/2f/50/54afd8e249c9ba692dedd8be65fd/francia-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-francia"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "575",
+              "alignment": "none",
+              "name": {
+                "first": "Australia",
+                "full": "Australia",
+                "nickname": "Australia",
+                "abbreviation": "AUS"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/20/e8/ee0bd45748b88b0aede29480a855/209-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-australia"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "369",
+              "alignment": "none",
+              "name": {
+                "first": "Denmark",
+                "full": "Dinamarca",
+                "nickname": "Denmark",
+                "abbreviation": "DEN"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/73/f6/2944825748f7bf70f8ce5b723991/dinamarca-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-dinamarca"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1224",
+              "alignment": "none",
+              "name": {
+                "first": "Tunisia",
+                "full": "Túnez",
+                "nickname": "Tunisia",
+                "abbreviation": "TUN"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/8b/71/ad5dcbff47f78d25aa96cb11f213/299-el.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-tunez"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group E",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "118",
+              "alignment": "none",
+              "name": {
+                "first": "Spain",
+                "full": "España",
+                "nickname": "Spain",
+                "abbreviation": "ESP"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/d1/b2/caac885d423d9ef17f82d4f91c13/espana-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-espana"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "838",
+              "alignment": "none",
+              "name": {
+                "first": "Costa Rica",
+                "full": "Costa Rica",
+                "nickname": "Costa Rica",
+                "abbreviation": "CRC"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/eb/76/ae4288224d8d8bbc038461ae6e01/278-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-costa-rica"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "357",
+              "alignment": "none",
+              "name": {
+                "first": "Germany",
+                "full": "Alemania",
+                "nickname": "Germany",
+                "abbreviation": "GER"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/85/66/8cfe0c4249fbb1b829c4635bd313/alemania-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-alemania"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1266",
+              "alignment": "none",
+              "name": {
+                "first": "Japan",
+                "full": "Japón",
+                "nickname": "Japan",
+                "abbreviation": "JPN"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/ce/b3/42cbd8d04d219944b2962d8c6b04/288-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-japon"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group F",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "360",
+              "alignment": "none",
+              "name": {
+                "first": "Belgium",
+                "full": "Bélgica",
+                "nickname": "Belgium",
+                "abbreviation": "BEL"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/4e/73/18412f99410391b3e966dcd50913/belgium-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-belgica"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "597",
+              "alignment": "none",
+              "name": {
+                "first": "Canada",
+                "full": "Canadá",
+                "nickname": "Canada",
+                "abbreviation": "CAN"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/e3/7e/492f3d0142e1aa6d001870d9e93f/475-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-canada"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1057",
+              "alignment": "none",
+              "name": {
+                "first": "Morocco",
+                "full": "Marruecos",
+                "nickname": "Morocco",
+                "abbreviation": "MAR"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/1f/78/51a27b7e4335aeb7b77043f6bc99/466-el.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-marruecos"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "535",
+              "alignment": "none",
+              "name": {
+                "first": "Croatia",
+                "full": "Croacia",
+                "nickname": "Croatia",
+                "abbreviation": "CRO"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/34/91/c099d58d46a38ae13ae0c0ddba29/279-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-croacia"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group G",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "614",
+              "alignment": "none",
+              "name": {
+                "first": "Brazil",
+                "full": "Brasil",
+                "nickname": "Brazil",
+                "abbreviation": "BRA"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/3b/1a/c92faf0d495195197ffef128d191/167-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-brasil"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "364",
+              "alignment": "none",
+              "name": {
+                "first": "Serbia",
+                "full": "Serbia",
+                "nickname": "Serbia",
+                "abbreviation": "SRB"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/d2/ff/822d2aff47ff93076ba8f0e0e996/serbia-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-serbia"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "497",
+              "alignment": "none",
+              "name": {
+                "first": "Switzerland",
+                "full": "Suiza",
+                "nickname": "Switzerland",
+                "abbreviation": "SUI"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/15/be/93ddef5146b0acbf22d3d7306d05/suiza-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-suiza"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "494",
+              "alignment": "none",
+              "name": {
+                "first": "Cameroon",
+                "full": "Camerún",
+                "nickname": "Cameroon",
+                "abbreviation": "CMR"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/03/78/9d136093453b8891819be277e190/471-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-camerun"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "standing-metadata": {
+          "date-coverage-value": "2022-10-21",
+          "scoping-label": "Group H",
+          "date-coverage-type": "tournament",
+          "competition-scope": "group",
+          "stats-coverage": "expanded",
+          "sports-property": [
+            {
+              "formal-name": "match-day",
+              "value": ""
+            }
+          ],
+          "team-coverage": "multi-team"
+        },
+        "team": [
+          {
+            "team-metadata": {
+              "team-key": "359",
+              "alignment": "none",
+              "name": {
+                "first": "Portugal",
+                "full": "Portugal",
+                "nickname": "Portugal",
+                "abbreviation": "POR"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/fa/1e/fb33825249f988226eb0e18bc133/portugal-2x.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-portugal"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "1",
+                  "type": "events-all"
+                },
+                {
+                  "value": "3",
+                  "type": "events-home"
+                },
+                {
+                  "value": "3",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1219",
+              "alignment": "none",
+              "name": {
+                "first": "Ghana",
+                "full": "Ghana",
+                "nickname": "Ghana",
+                "abbreviation": "GHA"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/03/a5/e28de66141d0b87425812afb9365/283-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-ghana"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "2",
+                  "type": "events-all"
+                },
+                {
+                  "value": "1",
+                  "type": "events-home"
+                },
+                {
+                  "value": "1",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "837",
+              "alignment": "none",
+              "name": {
+                "first": "Uruguay",
+                "full": "Uruguay",
+                "nickname": "Uruguay",
+                "abbreviation": "URU"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/0a/2a/452dc3bf480e9cea25667e0d8de7/172-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-uruguay"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "3",
+                  "type": "events-all"
+                },
+                {
+                  "value": "4",
+                  "type": "events-home"
+                },
+                {
+                  "value": "4",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          {
+            "team-metadata": {
+              "team-key": "1041",
+              "alignment": "none",
+              "name": {
+                "first": "Korea Republic",
+                "full": "Corea del Sur",
+                "nickname": "Korea Republic",
+                "abbreviation": "KOR"
+              },
+              "sports-property": [
+                {
+                  "formal-name": "logo",
+                  "value": "https://st1.uvnimg.com/12/a3/ccc2f59d466a87b20d8a96956bb4/293-eb.png"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://www.tudn.com/futbol/mundial-qatar-2022/equipos/seleccion-corea-del-sur"
+                }
+              ]
+            },
+            "team-stats": {
+              "events-played": "0",
+              "outcome-totals": [
+                {
+                  "alignment-scope": "events-all",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0",
+                  "points-difference": "0",
+                  "relegation-average": ""
+                },
+                {
+                  "alignment-scope": "events-home",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                },
+                {
+                  "alignment-scope": "events-away",
+                  "events-played": "0",
+                  "standing-points": "0",
+                  "wins": "0",
+                  "losses": "0",
+                  "ties": "0",
+                  "points-scored-for": "0",
+                  "points-scored-against": "0"
+                }
+              ],
+              "rank": [
+                {
+                  "value": "4",
+                  "type": "events-all"
+                },
+                {
+                  "value": "2",
+                  "type": "events-home"
+                },
+                {
+                  "value": "2",
+                  "type": "events-away"
+                },
+                {
+                  "value": "N/A",
+                  "type": "rank-previous"
+                }
+              ],
+              "sports-property": [
+                {
+                  "formal-name": "points-per-game",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-home",
+                  "value": ""
+                },
+                {
+                  "formal-name": "points-per-game-away",
+                  "value": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "analyticsData": {
+    "web": {
+      "common": {
+        "section_category": "navigation taxonomy",
+        "content_created_date": "2016-01-13",
+        "content_id": "00000152-3cc5-d5cc-affa-7dc73f620000-posiciones",
+        "content_modified_date": "2022-10-31",
+        "content_vertical": "deportes",
+        "section": "mundial qatar 2022",
+        "title": "mundial - qatar 2022 posiciones",
+        "section_full_hierarchy": [
+          "deportes",
+          "futbol",
+          "mundial qatar 2022"
+        ],
+        "section_level1": "deportes",
+        "uci_division": "sports",
+        "content_type": "league",
+        "all_tags": [
+          "copa mundial | 2022"
+        ],
+        "permalink": "https://www.tudn.com/futbol/mundial-qatar-2022/posiciones",
+        "section_level3": "mundial qatar 2022",
+        "section_level2": "futbol",
+        "adtag_value": "section_deportes/futbol/mundialqatar2022/inicio",
+        "content_author": "",
+        "seo_focus_keyword": "not defined",
+        "publish_user": "migration user",
+        "seo_optimized": 0,
+        "tudnxtra": "false"
+      },
+      "nielsen": {
+        "common": {
+          "assetID": "00000152-3cc5-d5cc-affa-7dc73f620000",
+          "section": "mundial qatar 2022",
+          "type": "static",
+          "vcid": "c03",
+          "assetid": "00000152-3cc5-d5cc-affa-7dc73f620000",
+          "segB": "deportes"
+        },
+        "contentSpecific": {
+          "segB": "deportes",
+          "segA": "deportes"
+        }
+      },
+      "contentSpecific": {
+        "section_category": "navigation taxonomy"
+      }
+    },
+    "apps": {
+      "common": {
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "deportes",
+          "futbol",
+          "mundial qatar 2022"
+        ],
+        "section_level1": "deportes",
+        "content_created_date": "2016-01-13",
+        "content_type": "league",
+        "content_id": "00000152-3cc5-d5cc-affa-7dc73f620000-posiciones",
+        "all_tags": [
+          "copa mundial | 2022"
+        ],
+        "section": "mundial qatar 2022",
+        "section_level3": "mundial qatar 2022",
+        "title": "mundial - qatar 2022 posiciones",
+        "section_level2": "futbol",
+        "adtag_value": "section_deportes/futbol/mundialqatar2022/inicio",
+        "content_author": "",
+        "tudnxtra": "false"
+      },
+      "nielsen": {
+        "common": {
+          "assetID": "00000152-3cc5-d5cc-affa-7dc73f620000",
+          "section": "mundial qatar 2022",
+          "type": "static",
+          "vcid": "c03",
+          "assetid": "00000152-3cc5-d5cc-affa-7dc73f620000",
+          "segB": "deportes"
+        },
+        "contentSpecific": {
+          "segB": "deportes",
+          "segA": "deportes"
+        }
+      },
+      "contentSpecific": {
+        "section_category": "navigation taxonomy"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+.form {
+  margin-bottom: 16px;
+  position: relative;
+  .field {
+    position: relative;
+    margin-bottom: 7px;
+    .submit {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0;
+      width: 40px;
+      height: 40px;
+    }
+  }
+}
+
+.input {
+  display: block;
+  width: 100%;
+  border: 0;
+  height: auto;
+  border-bottom: 1px solid $white-grey;
+  padding: 10px 0;
+  line-height: 1;
+  color: $black;
+  font-size: rem(20);
+  line-height: 1;
+  outline: none;
+  text-transform: uppercase;
+  padding-right: 40px;
+  transition: all 0.2s;
+  &:focus {
+    border-bottom-color: $black;
+  }
+}
+
+.resultText {
+  font-size: rem(18px);
+  line-height: rem(22px);
+  @include uvs-font('a', 'bold');
+  color: $black;
+  margin: 0;
+  @include media-breakpoint-up('md') {
+    position: absolute;
+    top: 52px;
+  }
+}
+
+.filters {
+  margin-top: 30px;
+  .offset {
+    @include make-col-offset(4, "md");
+  }
+  @include media-breakpoint-up('md') {
+    margin-top: 10px;
+  }
+}
+
+.filterField {
+  margin-bottom: 10px;
+  border-bottom: 1px solid $black;
+  padding-bottom: 10px;
+  cursor: pointer;
+  label {
+    display: block;
+    width: 100%;
+    margin: 0;
+    span {
+      display: block;
+      color: $grey;
+      text-transform: uppercase;
+      font-size: rem(11px);
+      line-height: rem(13px);
+      margin-bottom: 5px;
+      transition: all 0.2s;
+    }
+    > div {
+      border: none;
+      svg {
+        width: 18px;
+        height: 18px;
+        right: 0;
+      }
+    }
+  }
+  .select {
+    font-size: rem(18px);
+    line-height: rem(22px);
+    padding: 0;
+    @include uvs-font('a', 'bold');
+    color: $black;
+    outline: none;
+    transition: all 0.2s;
+    &.active {
+      background: green;
+    }
+  }
+  @include media-breakpoint-up('md') {
+    position: relative;
+    label {
+      > div {
+        margin-top: -20px;
+        svg {
+          top: 32px;
+        }
+      }
+    }
+    .select {
+      padding-top: 20px;
+      cursor: pointer;
+    }
+    &:hover {
+      label {
+        span {
+          color: $grey-black;
+        }
+      }
+      .select {
+        color: $grey-black;
+      }
+    }
+  }
+}

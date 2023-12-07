@@ -1,0 +1,28 @@
+{
+  "uri": "/local/atlanta-wuvg",
+  "ads": {
+    "desktop": {
+      "top": "prev_scp=client=desktop&pos=TOP&seq=D-F728-1&vertical=local&contenttype=section&bkpt=1024",
+      "mid1": "prev_scp=client=desktop&pos=MID&seq=D-F728-2&vertical=local&contenttype=section&bkpt=1024",
+      "mid2": "prev_scp=client=desktop&pos=MID&seq=D-728-3&vertical=local&contenttype=section&bkpt=1024"
+    },
+    "mobile": {
+      "top": "prev_scp=client=mobile&pos=TOP&seq=M-320-1&vertical=local&contenttype=section&bkpt=320",
+      "mid1": "prev_scp=client=mobile&pos=MID&seq=M-320-2&vertical=local&contenttype=section&bkpt=320",
+      "mid2": "prev_scp=client=mobile&pos=MID&seq=M-300-3&vertical=local&contenttype=section&bkpt=320"
+    }
+  },
+  "selectors": {
+    "topAd": "[data-widget-type='SectionAd'][data-position='3']",
+    "midAd1": "[data-widget-type='SectionAd'][data-position='8']",
+    "midAd2": "[data-widget-type='SectionAd'][data-position='12']",
+    "widgets": "[data-widget-type]"
+  },
+  "tracking": {
+    "dataLayer": {
+      "adtag_value": "section_local/tv/atlanta/wuvg/inicio",
+      "permalink": "https://uat2.x.univision.com/local/atlanta-wuvg",
+      "content_type": "tvstation"
+    }
+  }
+}

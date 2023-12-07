@@ -1,0 +1,9 @@
+.dropdown {
+  > div {
+    > button:first-of-type, > select {
+      font-size: 20px;
+      background-color: $grey;
+      padding: 5px;
+    }
+  }
+}

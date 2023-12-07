@@ -1,0 +1,1113 @@
+{
+  "status": "success",
+  "data": {
+    "uid": "0000014c-7663-d7e3-a9dd-7fe3734a0000",
+    "uri": "/entretenimiento",
+    "type": "section",
+    "updateDate": "2018-06-21T16:06:19-04:00",
+    "publishDate": "2015-09-29T05:00:00-04:00",
+    "expirationDate": null,
+    "title": "Entretenimiento",
+    "shortTitle": "Entretenimiento",
+    "description": "Toda la información sobre las celebridades.",
+    "shortDescription": "Toda la información sobre las celebridades.",
+    "richTextDescription": null,
+    "isSensitive": false,
+    "primaryTag": {
+      "name": "Entretenimiento",
+      "link": "/temas/entretenimiento"
+    },
+    "primaryTopic": "Entretenimiento",
+    "secondaryTags": [],
+    "externalWidgets": {
+      "civicScience": "<script type=\"text/javascript\" src=\"https://www.civicscience.com/widget/jspoll/?elt=civsci-id-1982593013&tgtid=353021a7-5542-fa94-d9b5-9e775f5fa70b\" defer></script><div id=\"civsci-id-1982593013\"></div>"
+    },
+    "contentPriority": "standard",
+    "adSettings": {
+      "isDisable3rdPartyAds": false,
+      "adTagValue": "section_entretenimiento/inicio",
+      "targeting": {
+        "contenttype": "section",
+        "client": "desktop"
+      },
+      "disableAds": false,
+      "freewheel": {
+        "sectionId": "entertainment_homepage",
+        "assetId": null,
+        "adValue": null,
+        "test": {
+          "displayAdProfilePath": "univision_test",
+          "host": "https://1b656.v.fwmrm.net",
+          "linkTag2Profile": "111976:univision_linktag2_test",
+          "networkCode": "111976",
+          "profilePath": "univision_test_HTML5"
+        },
+        "production": {
+          "displayAdProfilePath": "univision_test",
+          "host": "https://1b656.v.fwmrm.net",
+          "linkTag2Profile": "univision_linktag2_live",
+          "networkCode": "112214",
+          "profilePath": "univision_Live_HTML5"
+        }
+      },
+      "dfp": {
+        "adValue": "/entertainment/homepage",
+        "production": {
+          "desktopAdValuePrefix": "d.",
+          "mobileAdValuePrefix": "m.",
+          "networkCode": "6881"
+        },
+        "test": {
+          "desktopAdValuePrefix": "d.",
+          "mobileAdValuePrefix": "m.",
+          "networkCode": "7009"
+        }
+      }
+    },
+    "tracking": {
+      "tealium": {
+        "account": "main",
+        "environment": "prod",
+        "data": {
+          "all_tags": [
+            "entretenimiento"
+          ],
+          "content_created_date": "1443517200000",
+          "content_creator": "00000153-389b-dc48-a77f-7bffcac90000",
+          "content_id": "0000014c-7663-d7e3-a9dd-7fe3734a0000",
+          "content_modified_date": "1529611579709",
+          "content_priority": "standard",
+          "content_type": "section",
+          "environment_name": "production",
+          "language": "es",
+          "page_name": "entretenimiento:entretenimiento:section:entretenimiento",
+          "parent_tags": [
+            "entretenimiento"
+          ],
+          "parent_topic": "entretenimiento",
+          "permalink": "https://www.univision.com/entretenimiento",
+          "portal_theme": "entretenimiento",
+          "primary_tag": "entretenimiento",
+          "primary_tag_uid": "0000014b-a9eb-de67-a74f-b9fb7ae50001",
+          "primary_tag_en": "entertainment ",
+          "promo_title": "entretenimiento",
+          "publisher_tags": [
+            "entretenimiento"
+          ],
+          "short_title": "entretenimiento",
+          "short_title_en": "entretenimiento",
+          "tags_en": [
+            "entertainment "
+          ],
+          "title": "entretenimiento",
+          "title_en": "entretenimiento",
+          "topics": [
+            "entretenimiento"
+          ],
+          "uci_division": "entertainment",
+          "website": "univision",
+          "uni_platform": "Website"
+        }
+      },
+      "nielsen": {
+        "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid": "c02",
+        "environment": "prod",
+        "primaryTopic": "Entretenimiento"
+      }
+    },
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "https://www.univision.com/entretenimiento",
+          "redirectUrl": "https://www.univision.com/entretenimiento",
+          "isFeedDialog": false,
+          "baseUrl": null,
+          "appId": "645138725541385",
+          "title": "Entretenimiento",
+          "description": "Toda la información sobre las celebridades.",
+          "imageUrl": "https://cdn4.uvnimg.com/00/3c/90880d0f4fba9fecd47ee665d130/8e70407a6e0b43fb9a2b8d9ab1bec51d"
+        },
+        "twitter": {
+          "url": "https://www.univision.com/entretenimiento",
+          "title": "Entretenimiento",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "https://www.univision.com/entretenimiento",
+          "message": "Entretenimiento"
+        },
+        "mail": {
+          "subject": "Entretenimiento",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEntretenimiento\n\nEncuéntralo en este enlace: https://www.univision.com/entretenimiento\n\nVisitamos www.univision.com"
+        }
+      }
+    },
+    "metaTagData": {
+      "settings": null,
+      "googlePlus": {
+        "author": null,
+        "publisher": null
+      },
+      "openGraph": {
+        "type": null,
+        "title": "Entretenimiento",
+        "description": "Toda la información sobre las celebridades.",
+        "imageUrl": "https://cdn4.uvnimg.com/00/3c/90880d0f4fba9fecd47ee665d130/8e70407a6e0b43fb9a2b8d9ab1bec51d",
+        "siteName": "Univision",
+        "url": "https://www.univision.com/entretenimiento"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Entretenimiento",
+        "description": "Toda la información sobre las celebridades.",
+        "creator": null,
+        "imageUrl": "https://cdn4.uvnimg.com/00/3c/90880d0f4fba9fecd47ee665d130/8e70407a6e0b43fb9a2b8d9ab1bec51d"
+      },
+      "facebook": {
+        "pages": "259955926518,173155703431,174725429795,130815470261839"
+      },
+      "extras": [],
+      "additionalSeoKeywords": []
+    },
+    "seo": {
+      "title": "Noticias de entretenimiento: horóscopo, farándula, chismes, famosos | Entretenimiento - Univision",
+      "description": "Últimas noticias de entretenimiento. Horóscopo, chismes de la farándula, series, novelas, shows, fotos y videos de famosos hispanos y artistas de Hollywood | Entretenimiento | Univision",
+      "keywords": [
+        "artistas",
+        "chismes",
+        "hollywood",
+        "shows",
+        "series",
+        "horoscopos",
+        "entretenimiento",
+        "farandula",
+        "novelas",
+        "famosos"
+      ],
+      "robots": [],
+      "tagHierarchy": [
+        {
+          "@id": "https://www.univision.com/entretenimiento",
+          "name": "Entretenimiento",
+          "image": "https://cdn4.uvnimg.com/00/3c/90880d0f4fba9fecd47ee665d130/8e70407a6e0b43fb9a2b8d9ab1bec51d"
+        },
+        {
+          "@id": "https://www.univision.com",
+          "name": "Univision.com",
+          "image": "https://cdn3.uvnimg.com/a8/a8/a07b20854d2f848ac3d26d57fce4/univisionlogo.jpg"
+        }
+      ]
+    },
+    "brandable": null,
+    "tagHierarchy": [
+      {
+        "name": "entretenimiento",
+        "url": "https://www.univision.com/temas/entretenimiento"
+      }
+    ],
+    "widgets": [
+      {
+        "type": "AllExternalEmbed",
+        "id": "00000164-23f2-d2f8-a56e-b3fb605d0002",
+        "settings": {
+          "fullWidth": false,
+          "lazyLoadUrl": "https://static.univision.com/external-content/embed.js?path=%2Ffragments%2Fentretenimiento%2Fbanner-pj-boletos%2Fbanner-pj.html&display=iframe",
+          "display": "iframe",
+          "html": "<script src=\"https://static.univision.com/external-content/embed.js?path=%2Ffragments%2Fentretenimiento%2Fbanner-pj-boletos%2Fbanner-pj.html&display=iframe\"></script>",
+          "type": "rich",
+          "lazyLoad": false,
+          "url": "https://static.univision.com/fragments/entretenimiento/banner-pj-boletos/banner-pj.html",
+          "title": null,
+          "titleLink": null
+        },
+        "contents": null
+      },
+      {
+        "type": "AllCarouselHighImpact",
+        "settings": {
+          "uid": "00000163-efe7-db8f-a36f-efefb16e0002",
+          "updateDate": null,
+          "publishDate": null,
+          "title": null,
+          "type": "allcarouselhighimpact",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": [
+          {
+            "uid": "00000164-38fa-dfc0-a575-38fa6da20000",
+            "uri": "https://elfutboleslodemenos.blogs.univision.com/",
+            "type": "externalcontent",
+            "updateDate": null,
+            "publishDate": null,
+            "title": "El Fútbol es lo de menos",
+            "description": null,
+            "image": {
+              "type": "image",
+              "uid": "00000163-efe9-db20-a767-efef3e310000",
+              "title": "El futbol es lo de menos alto impacto",
+              "caption": "",
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://cdn1.uvnimg.com/e3/d7/b08292d4444e899e277d5ad6e36a/destacado4-logo.jpg",
+                  "width": 1920,
+                  "height": 685
+                },
+                "16x9-med": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/9e5d7ff/2147483647/crop/1217x685%2B368%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fe3%2Fd7%2Fb08292d4444e899e277d5ad6e36a%2Fdestacado4-logo.jpg",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/161e8d6/2147483647/crop/1216x684%2B368%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fe3%2Fd7%2Fb08292d4444e899e277d5ad6e36a%2Fdestacado4-logo.jpg",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-sm": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/b03a83a/2147483647/crop/1221x685%2B366%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fe3%2Fd7%2Fb08292d4444e899e277d5ad6e36a%2Fdestacado4-logo.jpg",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/4cf3528/2147483647/crop/1217x685%2B368%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fe3%2Fd7%2Fb08292d4444e899e277d5ad6e36a%2Fdestacado4-logo.jpg",
+                  "width": 1024,
+                  "height": 576
+                },
+                "1x1-mobile": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/74ca521/2147483647/crop/685x685%2B634%2B0/resize/480x480/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fe3%2Fd7%2Fb08292d4444e899e277d5ad6e36a%2Fdestacado4-logo.jpg",
+                  "width": 480,
+                  "height": 480
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "AllVideoPlaylistVideo",
+        "settings": {
+          "mainTabLabel": "Lo último",
+          "uid": "00000162-ad11-dc65-abea-bd31e4950000",
+          "updateDate": null,
+          "publishDate": null,
+          "otherTabs": [
+            {
+              "label": null,
+              "content": []
+            }
+          ],
+          "title": "Videos",
+          "type": "allvideoplaylistvideo",
+          "titleLink": null,
+          "uri": null
+        },
+        "contents": [
+          {
+            "uid": "00000164-38c7-ddc4-a3e4-3ce710c70000",
+            "uri": "/entretenimiento/juan-rivera-dijo-varias-cosas-de-su-madre-que-no-le-van-a-gustar-a-la-matriarca-de-los-rivera-video",
+            "type": "video",
+            "updateDate": "2018-06-25T17:43:20-04:00",
+            "publishDate": "2018-06-25T17:03:00-04:00",
+            "expirationDate": "2028-06-24T17:03:00-04:00",
+            "title": "Juan Rivera dijo varias cosas de su madre que no le van a gustar a la matriarca de Los Rivera",
+            "shortTitle": "Juan Rivera dijo varias cosas de su madre que no le van a gustar a la matriarca de Los Rivera",
+            "description": "Juan Rivera, el hermano menor de la fallecida ‘Diva de la banda’, publicó un video hablando de su mamá Doña Rosa. Ella no estaba presente para escucharlo y todo lo dijo en la propia casa.",
+            "shortDescription": "Juan Rivera, el hermano menor de la fallecida ‘Diva de la banda’, publicó un video hablando de su mamá Doña Rosa. Ella no estaba presente para escucharlo y todo lo dijo en la propia casa.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-38d0-ddc4-a3e4-3cf5fe550000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://cdn3.uvnimg.com/7c/7b/57c65f0940d58cb67276990d75da/ca2e7be7d7794412b689ae3079b55c49",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/f1561a5/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7c%2F7b%2F57c65f0940d58cb67276990d75da%2Fca2e7be7d7794412b689ae3079b55c49",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/bc3a326/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7c%2F7b%2F57c65f0940d58cb67276990d75da%2Fca2e7be7d7794412b689ae3079b55c49",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/a3e908d/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7c%2F7b%2F57c65f0940d58cb67276990d75da%2Fca2e7be7d7794412b689ae3079b55c49",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/1a8bf8b/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7c%2F7b%2F57c65f0940d58cb67276990d75da%2Fca2e7be7d7794412b689ae3079b55c49",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/a1d7661/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7c%2F7b%2F57c65f0940d58cb67276990d75da%2Fca2e7be7d7794412b689ae3079b55c49",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/f8258bd/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F7c%2F7b%2F57c65f0940d58cb67276990d75da%2Fca2e7be7d7794412b689ae3079b55c49",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": {
+              "name": "Entretenimiento",
+              "link": "/temas/entretenimiento"
+            },
+            "primaryTopic": "Entretenimiento",
+            "secondaryTags": [
+              {
+                "name": "Los Rivera",
+                "link": "/temas/los-rivera"
+              },
+              {
+                "name": "Jenni Rivera",
+                "link": null
+              },
+              {
+                "name": "Vida y Familia",
+                "link": "https://www.univision.com/temas/vida-y-familia"
+              },
+              {
+                "name": "Familia y Hogar",
+                "link": "/temas/familia-y-hogar"
+              },
+              {
+                "name": "Polémica",
+                "link": "/temas/polemica"
+              },
+              {
+                "name": "Regional Mexicano",
+                "link": "https://www.univision.com/temas/regional-mexicano"
+              },
+              {
+                "name": "Uforia Music",
+                "link": "/temas/uforia-music"
+              },
+              {
+                "name": "Redes Sociales",
+                "link": "/temas/redes-sociales"
+              },
+              {
+                "name": "Videos Virales",
+                "link": "/temas/videos-virales"
+              },
+              {
+                "name": "Vídeos Musicales",
+                "link": "/temas/videos-musicales"
+              },
+              {
+                "name": "Entretenimiento",
+                "link": null
+              },
+              {
+                "name": "Special",
+                "link": null
+              },
+              {
+                "name": "Conflictos Familiares",
+                "link": "/temas/conflictos-familiares"
+              },
+              {
+                "name": "Qué Buena 104.3 FM",
+                "link": "https://www.univision.com/austin/klqb"
+              },
+              {
+                "name": "Qué Buena 105.1 FM",
+                "link": "https://www.univision.com/chicago/wojo"
+              },
+              {
+                "name": "Que buena 97.5 FM",
+                "link": "https://www.univision.com/el-paso/kbna"
+              },
+              {
+                "name": "Qué Buena 94.1 FM Dallas",
+                "link": "https://www.univision.com/dallas/klno"
+              },
+              {
+                "name": "Qué Buena 106.5 FM",
+                "link": "https://www.univision.com/san-diego/klnv"
+              },
+              {
+                "name": "Qué Buena 98.9 & 99.1 FM",
+                "link": "https://www.univision.com/san-francisco/ksol"
+              },
+              {
+                "name": "Qué Buena 92.7 FM",
+                "link": "https://www.univision.com/nueva-york/wqbu"
+              },
+              {
+                "name": "Qué Buena 92.9 FM",
+                "link": "https://www.univision.com/san-antonio/krom"
+              },
+              {
+                "name": "Qué Buena 105.9 FM",
+                "link": "https://www.univision.com/arizona/khot"
+              },
+              {
+                "name": "Zona MX 99.1FM Dallas",
+                "link": "https://www.univision.com/dallas/kfzo"
+              },
+              {
+                "name": "Qué Buena 102.9 FM Houston",
+                "link": "https://www.univision.com/houston/kltn"
+              },
+              {
+                "name": "Zona MX 103.5 FM",
+                "link": "https://www.univision.com/las-vegas/kisf"
+              },
+              {
+                "name": "Zona MX 101.9 FM",
+                "link": "https://www.univision.com/los-angeles/ksca"
+              },
+              {
+                "name": "KGBT La Jefa 98.5 FM",
+                "link": "https://www.univision.com/mcallen/kgbt"
+              },
+              {
+                "name": "Zona MX 107.9",
+                "link": "https://www.univision.com/fresno/klle"
+              },
+              {
+                "name": "La Jefa 107.5",
+                "link": "https://www.univision.com/fresno/kond"
+              },
+              {
+                "name": "Latino Mix 104.9 y 93.3",
+                "link": "https://www.univision.com/houston/kqbu"
+              },
+              {
+                "name": "Local",
+                "link": "/temas/local"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533591",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/HtDh1018ALi",
+                  "redirectUrl": "http://uni.vi/HtDh1018ALi",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Juan Rivera dijo varias cosas de su madre que no le van a gustar a la matriarca de Los Rivera",
+                  "description": "Juan Rivera, el hermano menor de la fallecida ‘Diva de la banda’, publicó un video hablando de su mamá Doña Rosa. Ella no estaba presente para escucharlo y todo lo dijo en la propia casa.",
+                  "imageUrl": "https://cdn3.uvnimg.com/7c/7b/57c65f0940d58cb67276990d75da/ca2e7be7d7794412b689ae3079b55c49"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/HtDh1018ALi",
+                  "title": "Juan Rivera dijo varias cosas de su madre que no le van a gustar a la matriarca de Los Rivera",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/HtDh1018ALi",
+                  "message": "Juan Rivera dijo varias cosas de su madre que no le van a gustar a la matriarca de Los Rivera"
+                },
+                "mail": {
+                  "subject": "Juan Rivera dijo varias cosas de su madre que no le van a gustar a la matriarca de Los Rivera",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nJuan Rivera dijo varias cosas de su madre que no le van a gustar a la matriarca de Los Rivera\n\nEncuéntralo en este enlace: http://uni.vi/HtDh1018ALi\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-PG",
+            "genre": null,
+            "durationString": "1:21",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision",
+            "sourceStation": null
+          },
+          {
+            "uid": "00000164-38b3-d2c7-abf6-7df32a3a0000",
+            "uri": "/entretenimiento/buenos-en-el-futbol-y-el-canto-asi-fue-el-palomazo-que-memo-ochoa-y-osorio-se-echaron-con-christian-nodal-video",
+            "type": "video",
+            "updateDate": "2018-06-25T17:04:20-04:00",
+            "publishDate": "2018-06-25T16:27:00-04:00",
+            "expirationDate": "2028-06-24T16:27:00-04:00",
+            "title": "Buenos en el fútbol y el canto: así fue el ‘palomazo’ que Memo Ochoa y Osorio se echaron con Christian Nodal",
+            "shortTitle": "Buenos en el fútbol y el canto: así fue el ‘palomazo’ que Memo Ochoa y Osorio se echaron con Christian Nodal",
+            "description": "El joven cantante de regional mexicano visitó a los seleccionados en su concentración y además de ponerlos a cantar el tema ‘Adiós, amor’, le dedicó al defensa Miguel Layún ‘Las mañanitas’ por su cumpleaños.",
+            "shortDescription": "El joven cantante de regional mexicano visitó a los seleccionados en su concentración y además de ponerlos a cantar el tema ‘Adiós, amor’, le dedicó al defensa Miguel Layún ‘Las mañanitas’ por su cumpleaños.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-38b3-d2c7-abf6-7df37c930000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://cdn2.uvnimg.com/2b/60/6d9ef11a4a36b444077a16123a6d/8737aa476737441690eaf94bf106e59a",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/dbc4b1b/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F60%2F6d9ef11a4a36b444077a16123a6d%2F8737aa476737441690eaf94bf106e59a",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/3522ab6/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F60%2F6d9ef11a4a36b444077a16123a6d%2F8737aa476737441690eaf94bf106e59a",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/b34d47f/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F60%2F6d9ef11a4a36b444077a16123a6d%2F8737aa476737441690eaf94bf106e59a",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/0d4379d/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F60%2F6d9ef11a4a36b444077a16123a6d%2F8737aa476737441690eaf94bf106e59a",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/e9c599d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F60%2F6d9ef11a4a36b444077a16123a6d%2F8737aa476737441690eaf94bf106e59a",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/7eb1bb0/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F60%2F6d9ef11a4a36b444077a16123a6d%2F8737aa476737441690eaf94bf106e59a",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": {
+              "name": "Entretenimiento",
+              "link": "/temas/entretenimiento"
+            },
+            "primaryTopic": "Entretenimiento",
+            "secondaryTags": [
+              {
+                "name": "Christian Nodal",
+                "link": "https://www.univision.com/temas/christian-nodal"
+              },
+              {
+                "name": "Música",
+                "link": "/musica"
+              },
+              {
+                "name": "Celebridades",
+                "link": "/temas/celebridades"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533568",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/g8kH1018AEA",
+                  "redirectUrl": "http://uni.vi/g8kH1018AEA",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Buenos en el fútbol y el canto: así fue el ‘palomazo’ que Memo Ochoa y Osorio se echaron con Christian Nodal",
+                  "description": "El joven cantante de regional mexicano visitó a los seleccionados en su concentración y además de ponerlos a cantar el tema ‘Adiós, amor’, le dedicó al defensa Miguel Layún ‘Las mañanitas’ por su cumpleaños.",
+                  "imageUrl": "https://cdn2.uvnimg.com/2b/60/6d9ef11a4a36b444077a16123a6d/8737aa476737441690eaf94bf106e59a"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/g8kH1018AEA",
+                  "title": "Buenos en el fútbol y el canto: así fue el ‘palomazo’ que Memo Ochoa y Osorio se echaron con Christian Nodal",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/g8kH1018AEA",
+                  "message": "Buenos en el fútbol y el canto: así fue el ‘palomazo’ que Memo Ochoa y Osorio se echaron con Christian Nodal"
+                },
+                "mail": {
+                  "subject": "Buenos en el fútbol y el canto: así fue el ‘palomazo’ que Memo Ochoa y Osorio se echaron con Christian Nodal",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nBuenos en el fútbol y el canto: así fue el ‘palomazo’ que Memo Ochoa y Osorio se echaron con Christian Nodal\n\nEncuéntralo en este enlace: http://uni.vi/g8kH1018AEA\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-PG",
+            "genre": null,
+            "durationString": "1:09",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision",
+            "sourceStation": null
+          },
+          {
+            "uid": "00000164-389e-d2c7-abf6-7dff6c090000",
+            "uri": "/entretenimiento/yo-soy-janney-la-entrevista-mas-personal-de-chiquis-rivera-video",
+            "type": "video",
+            "updateDate": "2018-06-25T17:36:08-04:00",
+            "publishDate": "2018-06-25T14:41:00-04:00",
+            "expirationDate": "2028-06-24T14:41:00-04:00",
+            "title": "\"Yo soy Janney\", la entrevista más personal de Chiquis Rivera",
+            "shortTitle": "\"Yo soy Janney\", la entrevista más personal de Chiquis Rivera",
+            "description": "Este video forma parte del reportaje especial \"Yo soy Janney\": la verdad desnuda de Chiquis Rivera.",
+            "shortDescription": "Este video forma parte del reportaje especial \"Yo soy Janney\": la verdad desnuda de Chiquis Rivera.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-38e0-ddc4-a3e4-3ce518890001",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://cdn1.uvnimg.com/2b/d7/d5fab5304f6495c82cebbe0c6aef/9f4bfe3754fc433f9d4560cde10f5096",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/2c37fe2/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F2b%2Fd7%2Fd5fab5304f6495c82cebbe0c6aef%2F9f4bfe3754fc433f9d4560cde10f5096",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/21440ff/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F2b%2Fd7%2Fd5fab5304f6495c82cebbe0c6aef%2F9f4bfe3754fc433f9d4560cde10f5096",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/4a98c38/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F2b%2Fd7%2Fd5fab5304f6495c82cebbe0c6aef%2F9f4bfe3754fc433f9d4560cde10f5096",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/bdb6844/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F2b%2Fd7%2Fd5fab5304f6495c82cebbe0c6aef%2F9f4bfe3754fc433f9d4560cde10f5096",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/730428c/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F2b%2Fd7%2Fd5fab5304f6495c82cebbe0c6aef%2F9f4bfe3754fc433f9d4560cde10f5096",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/342de5e/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F2b%2Fd7%2Fd5fab5304f6495c82cebbe0c6aef%2F9f4bfe3754fc433f9d4560cde10f5096",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": {
+              "name": "Entretenimiento",
+              "link": "/temas/entretenimiento"
+            },
+            "primaryTopic": "Entretenimiento",
+            "secondaryTags": [],
+            "contentPriority": "standard",
+            "mcpid": "3533518",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/eUcV1018Awt",
+                  "redirectUrl": "http://uni.vi/eUcV1018Awt",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "\"Yo soy Janney\", la entrevista más personal de Chiquis Rivera",
+                  "description": "Este video forma parte del reportaje especial \"Yo soy Janney\": la verdad desnuda de Chiquis Rivera.",
+                  "imageUrl": "https://cdn1.uvnimg.com/2b/d7/d5fab5304f6495c82cebbe0c6aef/9f4bfe3754fc433f9d4560cde10f5096"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/eUcV1018Awt",
+                  "title": "\"Yo soy Janney\", la entrevista más personal de Chiquis Rivera",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/eUcV1018Awt",
+                  "message": "\"Yo soy Janney\", la entrevista más personal de Chiquis Rivera"
+                },
+                "mail": {
+                  "subject": "\"Yo soy Janney\", la entrevista más personal de Chiquis Rivera",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\n\"Yo soy Janney\", la entrevista más personal de Chiquis Rivera\n\nEncuéntralo en este enlace: http://uni.vi/eUcV1018Awt\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-PG",
+            "genre": null,
+            "durationString": "17:28",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision",
+            "sourceStation": null
+          },
+          {
+            "uid": "00000164-3890-d2c7-abf6-7df38a2b0000",
+            "uri": "/entretenimiento/lactancia-en-bicicleta-la-nueva-modalidad-de-aislinn-derbez-para-alimentar-a-kailani-mientras-mauricio-pedalea-video",
+            "type": "video",
+            "updateDate": "2018-06-25T16:11:56-04:00",
+            "publishDate": "2018-06-25T14:26:00-04:00",
+            "expirationDate": "2028-06-24T14:26:00-04:00",
+            "title": "Lactancia en bicicleta: la nueva modalidad de Aislinn Derbez para alimentar a Kailani (mientras Mauricio pedalea)",
+            "shortTitle": "Lactancia en bicicleta: la nueva modalidad de Aislinn Derbez para alimentar a Kailani (mientras Mauricio pedalea)",
+            "description": "La hija de Eugenio Derbez está convirtiendo a su primogénita en una ‘todo terreno’. Y es que ahora la amamantó en pleno sol y abordo de una bicicleta, mientras su esposo Mauricio Ochmann servía de ‘motor’.",
+            "shortDescription": "La hija de Eugenio Derbez está convirtiendo a su primogénita en una ‘todo terreno’. Y es que ahora la amamantó en pleno sol y abordo de una bicicleta, mientras su esposo Mauricio Ochmann servía de ‘motor’.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-3893-d2c7-abf6-7df301210000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://cdn1.uvnimg.com/37/d0/29e7d58a45eb9f942eb9a6d96808/1a7e25f04542415aa089ad63e9baaae2",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/cb3738c/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F37%2Fd0%2F29e7d58a45eb9f942eb9a6d96808%2F1a7e25f04542415aa089ad63e9baaae2",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/620faa0/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F37%2Fd0%2F29e7d58a45eb9f942eb9a6d96808%2F1a7e25f04542415aa089ad63e9baaae2",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/6c643fa/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F37%2Fd0%2F29e7d58a45eb9f942eb9a6d96808%2F1a7e25f04542415aa089ad63e9baaae2",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/08d3a3e/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F37%2Fd0%2F29e7d58a45eb9f942eb9a6d96808%2F1a7e25f04542415aa089ad63e9baaae2",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/50dc380/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F37%2Fd0%2F29e7d58a45eb9f942eb9a6d96808%2F1a7e25f04542415aa089ad63e9baaae2",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://cdn2.uvnimg.com/dims4/default/feb3627/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F37%2Fd0%2F29e7d58a45eb9f942eb9a6d96808%2F1a7e25f04542415aa089ad63e9baaae2",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": {
+              "name": "Entretenimiento",
+              "link": "/temas/entretenimiento"
+            },
+            "primaryTopic": "Entretenimiento",
+            "secondaryTags": [
+              {
+                "name": "Aislinn Derbez",
+                "link": "https://www.univision.com/temas/aislinn-derbez"
+              },
+              {
+                "name": "Celebridades",
+                "link": "/temas/celebridades"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533513",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/BlgI1018Aoq",
+                  "redirectUrl": "http://uni.vi/BlgI1018Aoq",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Lactancia en bicicleta: la nueva modalidad de Aislinn Derbez para alimentar a Kailani (mientras Mauricio pedalea)",
+                  "description": "La hija de Eugenio Derbez está convirtiendo a su primogénita en una ‘todo terreno’. Y es que ahora la amamantó en pleno sol y abordo de una bicicleta, mientras su esposo Mauricio Ochmann servía de ‘motor’.",
+                  "imageUrl": "https://cdn1.uvnimg.com/37/d0/29e7d58a45eb9f942eb9a6d96808/1a7e25f04542415aa089ad63e9baaae2"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/BlgI1018Aoq",
+                  "title": "Lactancia en bicicleta: la nueva modalidad de Aislinn Derbez para alimentar a Kailani (mientras Mauricio pedalea)",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/BlgI1018Aoq",
+                  "message": "Lactancia en bicicleta: la nueva modalidad de Aislinn Derbez para alimentar a Kailani (mientras Mauricio pedalea)"
+                },
+                "mail": {
+                  "subject": "Lactancia en bicicleta: la nueva modalidad de Aislinn Derbez para alimentar a Kailani (mientras Mauricio pedalea)",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLactancia en bicicleta: la nueva modalidad de Aislinn Derbez para alimentar a Kailani (mientras Mauricio pedalea)\n\nEncuéntralo en este enlace: http://uni.vi/BlgI1018Aoq\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-PG",
+            "genre": null,
+            "durationString": "1:01",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision",
+            "sourceStation": null
+          },
+          {
+            "uid": "00000164-3806-d2c7-abf6-7d673fd70000",
+            "uri": "/entretenimiento/lupillo-rivera-se-cubre-el-tatuaje-que-se-hizo-por-mayeli-con-algo-que-le-gusta-mucho-a-mayeli-video",
+            "type": "video",
+            "updateDate": "2018-06-25T13:48:25-04:00",
+            "publishDate": "2018-06-25T12:52:00-04:00",
+            "expirationDate": "2028-06-24T12:52:00-04:00",
+            "title": "Lupillo Rivera se cubre el tatuaje que se hizo por Mayeli con algo que le gusta mucho a Mayeli",
+            "shortTitle": "Lupillo Rivera se cubre el tatuaje que se hizo por Mayeli con algo que le gusta mucho a Mayeli",
+            "description": "'El toro del corrido’ se tatuó en el brazo para poder tapar un tatuaje que al parecer son sus iniciales y las de su ex, Mayeli Alonso. Lo curioso es que cuando enseñaba a sus seguidores el proceso del dibujo, ella por otro lado mostraba emocionada la misma figura que Lupillo se tatuaba diciendo que es su favorita.",
+            "shortDescription": "'El toro del corrido’ se tatuó en el brazo para poder tapar un tatuaje que al parecer son sus iniciales y las de su ex, Mayeli Alonso. Lo curioso es que cuando enseñaba a sus seguidores el proceso del dibujo, ella por otro lado mostraba emocionada la misma figura que Lupillo se tatuaba diciendo que es su favorita.",
+            "richTextDescription": null,
+            "image": {
+              "type": "image",
+              "uid": "00000164-3808-d2c7-abf6-7d6b73800000",
+              "title": "preview",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://cdn3.uvnimg.com/d1/bf/974612394830aaab9674c233d4f4/87b64aaff9e549a186aef888845f1a73",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/e8eb124/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fd1%2Fbf%2F974612394830aaab9674c233d4f4%2F87b64aaff9e549a186aef888845f1a73",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/7b6ab40/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fd1%2Fbf%2F974612394830aaab9674c233d4f4%2F87b64aaff9e549a186aef888845f1a73",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/37717bf/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fd1%2Fbf%2F974612394830aaab9674c233d4f4%2F87b64aaff9e549a186aef888845f1a73",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/32753fc/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fd1%2Fbf%2F974612394830aaab9674c233d4f4%2F87b64aaff9e549a186aef888845f1a73",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/344d961/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fd1%2Fbf%2F974612394830aaab9674c233d4f4%2F87b64aaff9e549a186aef888845f1a73",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://cdn4.uvnimg.com/dims4/default/164bae2/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fd1%2Fbf%2F974612394830aaab9674c233d4f4%2F87b64aaff9e549a186aef888845f1a73",
+                  "width": 400,
+                  "height": 225
+                }
+              }
+            },
+            "isSensitive": false,
+            "primaryTag": {
+              "name": "Entretenimiento",
+              "link": "/temas/entretenimiento"
+            },
+            "primaryTopic": "Entretenimiento",
+            "secondaryTags": [
+              {
+                "name": "Los Rivera",
+                "link": "/temas/los-rivera"
+              },
+              {
+                "name": "Regional Mexicano",
+                "link": "https://www.univision.com/temas/regional-mexicano"
+              },
+              {
+                "name": "Uforia Music",
+                "link": "/temas/uforia-music"
+              },
+              {
+                "name": "Lupillo Rivera",
+                "link": "https://www.univision.com/temas/lupillo-rivera"
+              },
+              {
+                "name": "Tatuajes",
+                "link": "/temas/tatuajes"
+              },
+              {
+                "name": "Naturaleza",
+                "link": "/temas/naturaleza"
+              },
+              {
+                "name": "Divorcio",
+                "link": "/temas/divorcio"
+              },
+              {
+                "name": "Problemas de Pareja",
+                "link": "/temas/problemas-de-pareja"
+              },
+              {
+                "name": "Redes Sociales",
+                "link": "/temas/redes-sociales"
+              },
+              {
+                "name": "Videos Virales",
+                "link": "/temas/videos-virales"
+              },
+              {
+                "name": "Entretenimiento",
+                "link": null
+              },
+              {
+                "name": "Musica",
+                "link": null
+              },
+              {
+                "name": "Qué Buena 104.3 FM",
+                "link": "https://www.univision.com/austin/klqb"
+              },
+              {
+                "name": "Qué Buena 105.1 FM",
+                "link": "https://www.univision.com/chicago/wojo"
+              },
+              {
+                "name": "Que buena 97.5 FM",
+                "link": "https://www.univision.com/el-paso/kbna"
+              },
+              {
+                "name": "Qué Buena 94.1 FM Dallas",
+                "link": "https://www.univision.com/dallas/klno"
+              },
+              {
+                "name": "Qué Buena 106.5 FM",
+                "link": "https://www.univision.com/san-diego/klnv"
+              },
+              {
+                "name": "Qué Buena 98.9 & 99.1 FM",
+                "link": "https://www.univision.com/san-francisco/ksol"
+              },
+              {
+                "name": "Qué Buena 92.7 FM",
+                "link": "https://www.univision.com/nueva-york/wqbu"
+              },
+              {
+                "name": "Qué Buena 92.9 FM",
+                "link": "https://www.univision.com/san-antonio/krom"
+              },
+              {
+                "name": "Qué Buena 105.9 FM",
+                "link": "https://www.univision.com/arizona/khot"
+              },
+              {
+                "name": "Zona MX 99.1FM Dallas",
+                "link": "https://www.univision.com/dallas/kfzo"
+              },
+              {
+                "name": "Qué Buena 102.9 FM Houston",
+                "link": "https://www.univision.com/houston/kltn"
+              },
+              {
+                "name": "Zona MX 103.5 FM",
+                "link": "https://www.univision.com/las-vegas/kisf"
+              },
+              {
+                "name": "Zona MX 101.9 FM",
+                "link": "https://www.univision.com/los-angeles/ksca"
+              },
+              {
+                "name": "KGBT La Jefa 98.5 FM",
+                "link": "https://www.univision.com/mcallen/kgbt"
+              },
+              {
+                "name": "Zona MX 107.9",
+                "link": "https://www.univision.com/fresno/klle"
+              },
+              {
+                "name": "La Jefa 107.5",
+                "link": "https://www.univision.com/fresno/kond"
+              },
+              {
+                "name": "Latino Mix 104.9 y 93.3",
+                "link": "https://www.univision.com/houston/kqbu"
+              },
+              {
+                "name": "Local",
+                "link": "/temas/local"
+              }
+            ],
+            "contentPriority": "standard",
+            "mcpid": "3533459",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/ibwu1018zlM",
+                  "redirectUrl": "http://uni.vi/ibwu1018zlM",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Lupillo Rivera se cubre el tatuaje que se hizo por Mayeli con algo que le gusta mucho a Mayeli",
+                  "description": "'El toro del corrido’ se tatuó en el brazo para poder tapar un tatuaje que al parecer son sus iniciales y las de su ex, Mayeli Alonso. Lo curioso es que cuando enseñaba a sus seguidores el proceso del dibujo, ella por otro lado mostraba emocionada la misma figura que Lupillo se tatuaba diciendo que es su favorita.",
+                  "imageUrl": "https://cdn3.uvnimg.com/d1/bf/974612394830aaab9674c233d4f4/87b64aaff9e549a186aef888845f1a73"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/ibwu1018zlM",
+                  "title": "Lupillo Rivera se cubre el tatuaje que se hizo por Mayeli con algo que le gusta mucho a Mayeli",
+                  "via": "Univision"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/ibwu1018zlM",
+                  "message": "Lupillo Rivera se cubre el tatuaje que se hizo por Mayeli con algo que le gusta mucho a Mayeli"
+                },
+                "mail": {
+                  "subject": "Lupillo Rivera se cubre el tatuaje que se hizo por Mayeli con algo que le gusta mucho a Mayeli",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLupillo Rivera se cubre el tatuaje que se hizo por Mayeli con algo que le gusta mucho a Mayeli\n\nEncuéntralo en este enlace: http://uni.vi/ibwu1018zlM\n\nVisitamos www.univision.com"
+                }
+              }
+            },
+            "rating": "TV-PG",
+            "genre": null,
+            "durationString": "2:32",
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "episodeNo": "0",
+            "seasonName": null,
+            "hasNextEpisode": false,
+            "authors": [],
+            "tempAuthors": [],
+            "source": "Univision",
+            "sourceStation": null
+          }
+        ]
+      }
+    ],
+    "isNationalRadioShow": false,
+    "socialNetworks": [],
+    "ttl": 900,
+    "feedGeneratedAt": "2018-06-25T18:04:54-04:00"
+  }
+}

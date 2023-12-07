@@ -1,0 +1,100 @@
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  button {
+    background-color: $black;
+    border: 1px solid $white;
+    &:hover {
+      background-color: $theme-default-primary
+    }
+    &.endVideos {
+      border: none;
+      background: linear-gradient(180deg, $black 0%, $darker-grey 100%);
+      border-bottom: 2px solid $white;
+    }
+  }  
+}
+.contentWrapper {
+  background-color:$black;
+  margin-bottom: 24px;
+
+  @include media-breakpoint-up('sm') {
+    margin-bottom: 72px;
+  }
+
+  .uvs-text-link {
+    color: $white;
+  }
+
+  h3 a {
+    color: $white;
+  }
+}
+
+.adWrapper {
+  margin: 15px 0 42px;
+  display: flex;
+  flex: 1 1 100%;
+  justify-content: center;
+}
+
+.dropdown {
+  color: $white;
+  background-color: $black;
+  letter-spacing: rem(0.7px);
+  font-size: rem(12px);
+  line-height: rem(12px);
+  font-weight: bold;
+}
+
+.selectorWrapper {
+  margin: 20px 0;
+  display: none;
+
+  @include media-breakpoint-up('sm') {
+    min-width: 320px;
+    margin: 0;
+  }
+
+  > div {
+    border: 1px solid $white;
+
+    @include media-breakpoint-up('sm') {
+      width: 300px;
+    }
+
+    select {
+      max-height: 40px;
+      padding-top: 13px;
+      padding-bottom: 13px;
+    }
+  }
+
+  svg path {
+    fill: $white;
+  }
+}
+
+.cardsWrapper {
+  margin-top: 20px;
+
+  @include media-breakpoint-up('sm') {
+    margin-top: 0;
+  }
+}
+
+.cardWrapper {
+  margin-bottom: 16px;
+  @include media-breakpoint-up('sm') {
+    margin-bottom: 24px;
+  }
+  .uvs-text-link {
+    color: $white;
+  }
+
+  h3 a {
+    color: $white;
+  }
+}
+

@@ -1,0 +1,31 @@
+.date {
+  color: $black;
+  font-weight: 700;
+  text-align: left;
+  font-size: rem(16px);
+  line-height: 19px;
+  padding: 30px 0 20px;
+  border-bottom: 1px solid $light-grey;
+}
+
+.noInfo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  min-height: 74px;
+  border-bottom: 1px solid $light-grey;
+  font-size: rem(14px);
+  line-height: 17px;
+  @include media-breakpoint-up("sm") {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+.wrapper {
+  margin-top: 16px;
+  @include media-breakpoint-up("sm") {
+    margin-top: 0;
+  }
+}

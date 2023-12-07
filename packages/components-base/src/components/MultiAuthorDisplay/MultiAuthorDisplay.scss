@@ -1,0 +1,194 @@
+.authors {
+  align-items: center;
+  display: flex;
+  flex: auto;
+  .articleAuthor, .authorSeparator, .authorSeparatorLast, .by {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+.authorsDate {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  &.lineal {
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-start;
+    .date {
+      padding-left: 6px;
+    }
+    @include media-breakpoint-up('md') {
+      flex-direction: column;
+      align-items: flex-start;
+      .date {
+        padding-left: 0;
+      }
+    }
+  }
+}
+
+.sponsored {
+  img {
+    max-height: 28px;
+    width: auto;
+  }
+  div {
+    margin-bottom: 10px;
+    span {
+      font-size: rem(12px);
+    }
+  }
+}
+
+
+.inlineDate {
+  margin-left: 10px;
+}
+
+.author {
+  align-items: center;
+  color: $black;
+  display: flex;
+  font-size: rem(10px);
+  flex-direction: row;
+  line-height: rem(14px);
+  padding-right: 10px;
+  margin-bottom: 2px;
+  text-transform: uppercase;
+
+  em {
+    color: $darker-grey;
+    font-style: normal;
+  }
+}
+
+.articleAuthor, .authorSeparator, .authorSeparatorLast, .by {
+  font-size: rem(10px);
+  letter-spacing: 0.4px;
+  line-height: rem(14px);
+}
+
+.by {
+  color: $darker-grey;
+  margin-right: 5px;
+  text-transform: uppercase;
+}
+
+.date {
+  color: $darker-grey;
+  font-size: rem(10px);
+  letter-spacing: 0.4px;
+  line-height: rem(14px);
+  text-transform: uppercase;
+}
+
+.avatar {
+  background-color: $grey;
+  background-position: center;
+  background-size: cover;
+  flex-shrink: 0;
+  height: 50px;
+  margin-right: 1rem;
+  width: 50px;
+}
+
+.avatarTelevisa {
+  background-color: $grey;
+  background-position: center;
+  background-size: cover;
+  flex-shrink: 0;
+  height: 50px;
+  margin-right: 0.5rem;
+  width: 50px;
+}
+
+.multiContainer {
+  display: none;
+  flex-direction: column;
+  margin-bottom: 8px;
+  min-height: 20px;
+  overflow: auto;
+
+  &.active {
+    display: flex;
+  }
+}
+
+.authorContainer {
+  display: flex;
+  flex: auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: center;
+  line-height: rem(14px);
+}
+
+.authorSeparator {
+  margin: 0 5px 0 0;
+}
+
+.authorSeparatorLast {
+  margin: 0 5px;
+}
+
+.articleAuthorCont {
+  @include media-breakpoint-up('sm') {
+    margin-bottom: 0;
+  }
+  &:last-child {
+    margin-bottom: 0;
+    .authorSeparator {
+      display: none;
+    }
+  }
+}
+
+.button {
+  background: none;
+  color: $theme-default-primary;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.oneAuthor {
+  align-items: center;
+  color: $black;
+  display: flex;
+  flex-direction: row;
+
+  > div {
+    margin-top: -5px;
+  }
+
+  button { // Twitter button
+    display: flex;
+    margin-left: 8px;
+    font-size: rem(14px);
+  }
+}
+
+.multi {
+  padding-left: 20px;
+}
+
+.source {
+  padding-left: 5px;
+}
+
+.isWorldCupMVP {
+  font-family: 'Roboto Flex', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: rem(10px);
+  line-height: rem(12px);
+}
+
+.isWorldCupMVP .uvs-font-a-bold {
+  font-style: normal;
+  font-weight: 400;
+}

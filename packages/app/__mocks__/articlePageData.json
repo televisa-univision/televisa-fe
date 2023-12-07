@@ -1,0 +1,2145 @@
+{
+  "data":{
+     "page":{
+        "data":{
+           "type":"article",
+           "uid":"00000175-56b2-da08-af7d-f7be6b710004",
+           "uri":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+           "vertical":"Deportes",
+           "parent":{
+              "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "uri":"https://www.tudn.com/futbol/liga-mx",
+              "name":"liga mx",
+              "title":"Liga MX"
+           },
+           "title":"Miguel Herrera confirma alineación titular del América para enfrentar al Atlas",
+           "description":"El Piojo eligió su once con dos regresos tras lesión y decide mantener a Óscar Jiménez en el arco. ",
+           "image":{
+              "type":"image",
+              "uid":"00000175-56c8-d796-ab75-f6caf0930000",
+              "title":"fa3d0349e9af420aa773d270dd4fc787",
+              "caption":null,
+              "credit":null,
+              "renditions":{
+                 "original":{
+                    "href":"https://st1.uvnimg.com/d7/cb/0a06b3c246bfbfa756dc6c41d420/fa3d0349e9af420aa773d270dd4fc787",
+                    "width":1920,
+                    "height":1080
+                 },
+                 "article-lead-sm":{
+                    "href":"https://st1.uvnimg.com/dims4/default/05f449a/2147483647/thumbnail/414x156%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                    "width":414,
+                    "height":156
+                 },
+                 "16x9-med":{
+                    "href":"https://st1.uvnimg.com/dims4/default/dd0fcc8/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                    "width":400,
+                    "height":225
+                 },
+                 "article-lead-md":{
+                    "href":"https://st1.uvnimg.com/dims4/default/dd247e9/2147483647/thumbnail/1024x384%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F1500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                    "width":1024,
+                    "height":384
+                 },
+                 "16x9-mobile":{
+                    "href":"https://st1.uvnimg.com/dims4/default/cdb676b/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                    "width":480,
+                    "height":270
+                 },
+                 "16x9-sm":{
+                    "href":"https://st1.uvnimg.com/dims4/default/de88a00/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                    "width":246,
+                    "height":138
+                 },
+                 "16x9-tablet":{
+                    "href":"https://st1.uvnimg.com/dims4/default/6101006/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F1500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                    "width":1024,
+                    "height":576
+                 },
+                 "article-lead-xl":{
+                    "href":"https://st1.uvnimg.com/dims4/default/151481e/2147483647/thumbnail/1440x540%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F1500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                    "width":1440,
+                    "height":540
+                 }
+              }
+           },
+           "authors":[
+
+           ],
+           "cardLabel":null,
+           "updateDate":"2020-10-23T14:54:08-04:00",
+           "publishDate":"2020-10-23T14:24:08-04:00",
+           "expirationDate":null,
+           "hierarchy":[
+              {
+                 "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                 "uri":"https://www.tudn.com",
+                 "name":"deportes",
+                 "title":"Deportes"
+              },
+              {
+                 "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                 "uri":"https://www.tudn.com/futbol",
+                 "name":"futbol",
+                 "title":"Fútbol"
+              },
+              {
+                 "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                 "uri":"https://www.tudn.com/futbol/liga-mx",
+                 "name":"liga mx",
+                 "title":"Liga MX"
+              }
+           ],
+           "disableReactions":false,
+           "contentPriority":"STANDARD",
+           "adSettings":{
+              "disable3rdPartyAds":false,
+              "disableAds":false,
+              "adTagValue":"article_deportes/futbol/ligamx",
+              "targeting":{
+                 "vertical":"deportes",
+                 "tag":[
+                    "america",
+                    "miguelherrera"
+                 ]
+              },
+              "contentSpecificSettings":{
+
+              }
+           },
+           "tracking":{
+              "analytics":{
+                 "data":{
+                    "adtag_value":"article_deportes/futbol/ligamx",
+                    "all_tags":[
+                       "america",
+                       "miguel herrera"
+                    ],
+                    "article_lead_type":"video",
+                    "article_type":"standard",
+                    "canonical_url":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+                    "content_author":"",
+                    "content_created_date":"2020-10-23",
+                    "content_id":"00000175-56b2-da08-af7d-f7be6b710004",
+                    "content_modified_date":"2020-10-23",
+                    "content_priority":"standard",
+                    "content_type":"article",
+                    "content_vertical":"deportes",
+                    "environment_name":"prod",
+                    "nielsenVcid":"c03",
+                    "permalink":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+                    "platform":"website",
+                    "section_full_hierarchy":[
+                       "deportes",
+                       "futbol",
+                       "liga mx"
+                    ],
+                    "section_level1":"deportes",
+                    "section_level2":"futbol",
+                    "section_level3":"liga mx",
+                    "seo_optimized":"true",
+                    "title":"miguel herrera confirma alineacion titular del america para enfrentar al atlas",
+                    "uci_division":"sports",
+                    "word_count":418
+                 }
+              },
+              "nielsen":{
+                 "appId":"P1720327D-4A43-44EE-B0CC-447E55A947EE",
+                 "vcid":"c03",
+                 "environment":"prod",
+                 "primaryTopic":"Deportes"
+              }
+           },
+           "analyticsData":{
+              "apps":{
+                 "common":{
+                    "adtag_value":"article_deportes/futbol/ligamx",
+                    "all_tags":[
+                       "america",
+                       "miguel herrera"
+                    ],
+                    "content_created_date":"2020-10-23",
+                    "content_id":"00000175-56b2-da08-af7d-f7be6b710004",
+                    "content_type":"article",
+                    "section":"liga mx",
+                    "section_full_hierarchy":[
+                       "deportes",
+                       "futbol",
+                       "liga mx"
+                    ],
+                    "section_level1":"deportes",
+                    "section_level2":"futbol",
+                    "section_level3":"liga mx",
+                    "title":"miguel herrera confirma alineacion titular del america para enfrentar al atlas"
+                 },
+                 "contentSpecific":{
+                    "article_lead_type":"video",
+                    "article_type":"standard",
+                    "word_count":418
+                 },
+                 "nielsen":{
+                    "common":{
+                       "assetid":"00000175-56b2-da08-af7d-f7be6b710004",
+                       "section":"article",
+                       "segB":"deportes",
+                       "type":"static",
+                       "vcid":"c03"
+                    },
+                    "contentSpecific":{
+                       "segB":"deportes"
+                    }
+                 }
+              },
+              "web":{
+                 "common":{
+                    "adtag_value":"article_deportes/futbol/ligamx",
+                    "all_tags":[
+                       "america",
+                       "miguel herrera"
+                    ],
+                    "content_created_date":"2020-10-23",
+                    "content_id":"00000175-56b2-da08-af7d-f7be6b710004",
+                    "content_modified_date":"2020-10-23",
+                    "content_type":"article",
+                    "content_vertical":"deportes",
+                    "permalink":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+                    "platform":"website",
+                    "section":"liga mx",
+                    "section_full_hierarchy":[
+                       "deportes",
+                       "futbol",
+                       "liga mx"
+                    ],
+                    "section_level1":"deportes",
+                    "section_level2":"futbol",
+                    "section_level3":"liga mx",
+                    "seo_focus_keyword":"america",
+                    "seo_optimized":80,
+                    "title":"miguel herrera confirma alineacion titular del america para enfrentar al atlas",
+                    "uci_division":"sports"
+                 },
+                 "contentSpecific":{
+                    "article_lead_type":"video",
+                    "article_type":"standard",
+                    "word_count":418
+                 },
+                 "nielsen":{
+                    "common":{
+                       "assetid":"00000175-56b2-da08-af7d-f7be6b710004",
+                       "section":"article",
+                       "segB":"deportes",
+                       "type":"static",
+                       "vcid":"c03"
+                    },
+                    "contentSpecific":{
+                       "segB":"deportes"
+                    }
+                 }
+              }
+           },
+           "metaTagData":{
+              "openGraph":{
+                 "type":"uni_og_act:article",
+                 "title":"Estos son los elegidos por el Piojo para iniciar contra Atlas",
+                 "description":"El Piojo eligió su once con dos regresos tras lesión y decide mantener a Óscar Jiménez en el arco.",
+                 "imageUrl":"https://st1.uvnimg.com/dims4/default/5e50da0/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Ffa3d0349e9af420aa773d270dd4fc787",
+                 "url":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+                 "siteName":"Univision"
+              },
+              "twitter":{
+                 "card":"summary_large_image",
+                 "title":"Estos son los elegidos por el Piojo para iniciar contra Atlas",
+                 "description":"El Piojo eligió su once con dos regresos tras lesión y decide mantener a Óscar Jiménez en el arco.",
+                 "creator":null,
+                 "imageUrl":"https://st1.uvnimg.com/dims4/default/5e50da0/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Ffa3d0349e9af420aa773d270dd4fc787"
+              },
+              "facebook":{
+                 "pages":null
+              }
+           },
+           "seo":{
+              "title":"Miguel Herrera confirma alineación titular del América para enfrentar al Atlas | Deportes Liga MX | TUDN Univision",
+              "description":"El Piojo eligió su once con dos regresos tras lesión y decide mantener a Óscar Jiménez en el arco del América. | Deportes Liga MX | TUDN Univision",
+              "canonicalUrl":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+              "keywords":[
+                 "América",
+                 "Atlas",
+                 "Miguel Herrera",
+                 "alineación",
+                 "lesionados"
+              ],
+              "robots":[
+
+              ],
+              "ld_json":null,
+              "news_keywords":[
+
+              ]
+           },
+           "externalWidgets":{
+              "civicScience":"<script type=\"text/javascript\" src=\"https://www.civicscience.com/widget/jspoll/?elt=a3de587f-6808-20b4-89b0-26a3bab1144f&tgtid=6d5c3185-be60-47a4-255e-a14a8d6e14c5\" defer></script><div id=\"a3de587f-6808-20b4-89b0-26a3bab1144f\"></div>"
+           },
+           "widgets":[
+              {
+                 "settings":{
+                    "type":"crossverticallistwidget",
+                    "uid":"00000175-52b6-dca0-ab7d-fff72fb20002",
+                    "title":"Gratis: Los canales en vivo más populares en Unow",
+                    "titleLink":{
+                       "href":"https://tv.univision.com/?seoName=futbol-playlist&utm_source=univisioncom&utm_medium=Video-Widget",
+                       "target":"_blank",
+                       "text":null,
+                       "uid":"00000175-52b6-dca0-ab7d-fff72fb20000"
+                    },
+                    "lazyLoaded":false
+                 },
+                 "analyticsData":{
+                    "widget":{
+                       "widget_pos":1,
+                       "widget_title":"gratis: los canales en vivo mas populares en unow",
+                       "widget_type":"cross vertical list widget"
+                    }
+                 },
+                 "contents":[
+                    {
+                       "type":"videochannelpromo",
+                       "uid":"00000175-529a-dca0-ab7d-fffbbf210000",
+                       "uri":"https://tv.univision.com/?seoName=futbol-playlist&utm_source=univisioncom&utm_medium=Video-Widget",
+                       "vertical":null,
+                       "parent":null,
+                       "title":"Canal de futbol: Partidos en vivo gratis",
+                       "description":"Canal de futbol: Partidos en vivo gratis",
+                       "image":{
+                          "type":"image",
+                          "uid":"00000175-529a-dca0-ab7d-fffbbf910000",
+                          "title":"Futbol Promo Art.jpg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/36/99/1e4ba4de4ba598fe54cd2c20e6eb/futbol-promo-art.jpg",
+                                "width":512,
+                                "height":288
+                             }
+                          }
+                       },
+                       "authors":[
+
+                       ],
+                       "cardLabel":null,
+                       "updateDate":"2020-10-22T19:20:42-04:00",
+                       "publishDate":"2020-10-22T19:20:42-04:00",
+                       "expirationDate":null,
+                       "hierarchy":[
+
+                       ],
+                       "disableReactions":false,
+                       "logo":{
+                          "type":"image",
+                          "uid":"00000175-529a-dca0-ab7d-fffbbf900000",
+                          "title":"Futbol.svg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/62/da/f12697d2401081879ed3d9894285/futbol.svg",
+                                "width":0,
+                                "height":0
+                             }
+                          }
+                       }
+                    },
+                    {
+                       "type":"videochannelpromo",
+                       "uid":"00000175-52a4-d8e5-a777-7fbe75410000",
+                       "uri":"https://tv.univision.com/?seoName=musicplaylist&utm_source=univisioncom&utm_medium=Video-Widget",
+                       "vertical":null,
+                       "parent":null,
+                       "title":"Música en vivo desde Uforia Debut",
+                       "description":"Música en vivo desde Uforia Debut",
+                       "image":{
+                          "type":"image",
+                          "uid":"00000175-52a4-d8e5-a777-7fbe75aa0000",
+                          "title":"Uforia Promo Art.jpg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/83/6f/50e1be704723a5038b5e97875c54/uforia-promo-art.jpg",
+                                "width":512,
+                                "height":288
+                             }
+                          }
+                       },
+                       "authors":[
+
+                       ],
+                       "cardLabel":null,
+                       "updateDate":"2020-10-22T19:29:11-04:00",
+                       "publishDate":"2020-10-22T19:29:11-04:00",
+                       "expirationDate":null,
+                       "hierarchy":[
+
+                       ],
+                       "disableReactions":false,
+                       "logo":{
+                          "type":"image",
+                          "uid":"00000175-52a4-d8e5-a777-7fbe75a90000",
+                          "title":"Uforia.svg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/36/8f/f0a92d7b42ff93f51d14a78891d0/uforia.svg",
+                                "width":0,
+                                "height":0
+                             }
+                          }
+                       }
+                    },
+                    {
+                       "type":"videochannelpromo",
+                       "uid":"00000175-52a3-da08-af7d-f7af0bf70000",
+                       "uri":"https://tv.univision.com/?seoName=challenge-28-playlist&utm_source=univisioncom&utm_medium=Video-Widget",
+                       "vertical":null,
+                       "parent":null,
+                       "title":"Lo mejor de Despierta América en Vivo",
+                       "description":"Lo mejor de Despierta América en Vivo",
+                       "image":{
+                          "type":"image",
+                          "uid":"00000175-52a3-da08-af7d-f7af0c760000",
+                          "title":"DA promo art.jpg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/03/39/2dc581ff4c3899d61a7d223539e2/da-promo-art.jpg",
+                                "width":512,
+                                "height":288
+                             }
+                          }
+                       },
+                       "authors":[
+
+                       ],
+                       "cardLabel":null,
+                       "updateDate":"2020-10-22T19:28:08-04:00",
+                       "publishDate":"2020-10-22T19:28:08-04:00",
+                       "expirationDate":null,
+                       "hierarchy":[
+
+                       ],
+                       "disableReactions":false,
+                       "logo":{
+                          "type":"image",
+                          "uid":"00000175-52a3-da08-af7d-f7af0c750000",
+                          "title":"DespiertaAmerica.svg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/79/75/c199fce0441f8cce4d7f36535876/despiertaamerica.svg",
+                                "width":0,
+                                "height":0
+                             }
+                          }
+                       }
+                    },
+                    {
+                       "type":"videochannelpromo",
+                       "uid":"00000175-52a1-da08-af7d-f7ad41a20000",
+                       "uri":"https://tv.univision.com/?seoName=cocina-playlist&utm_source=univisioncom&utm_medium=Video-Widget",
+                       "vertical":null,
+                       "parent":null,
+                       "title":"Recetas de Delicioso en vivo",
+                       "description":"Recetas de Delicioso en vivo",
+                       "image":{
+                          "type":"image",
+                          "uid":"00000175-52a1-da08-af7d-f7ad42200000",
+                          "title":"Deliciosp Promo Art.jpg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/a4/0e/424a9ee4441d8d2fc9afa6acff33/deliciosp-promo-art.jpg",
+                                "width":512,
+                                "height":288
+                             }
+                          }
+                       },
+                       "authors":[
+
+                       ],
+                       "cardLabel":null,
+                       "updateDate":"2020-10-22T19:26:35-04:00",
+                       "publishDate":"2020-10-22T19:26:35-04:00",
+                       "expirationDate":null,
+                       "hierarchy":[
+
+                       ],
+                       "disableReactions":false,
+                       "logo":{
+                          "type":"image",
+                          "uid":"00000175-52a1-da08-af7d-f7ad421f0000",
+                          "title":"Delicioso.svg",
+                          "caption":null,
+                          "credit":null,
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/05/6c/f83700ea4edd889c05cbc02fb0f1/delicioso.svg",
+                                "width":0,
+                                "height":0
+                             }
+                          }
+                       }
+                    }
+                 ],
+                 "breakingNewsMode":false,
+                 "id":"00000175-52b6-dca0-ab7d-fff72fb20002",
+                 "type":"CrossVerticalListWidget",
+                 "commonRootSection":null
+              }
+           ],
+           "source":"TUDN.com",
+           "sharing":{
+              "options":{
+                 "facebook":{
+                    "url":"http://uni.vi/t3yM102qcCL",
+                    "isFeedDialog":false,
+                    "title":"Miguel Herrera confirma alineación titular del América para enfrentar al Atlas",
+                    "description":"El Piojo eligió su once con dos regresos tras lesión y decide mantener a Óscar Jiménez en el arco.",
+                    "imageUrl":"https://st1.uvnimg.com/d7/cb/0a06b3c246bfbfa756dc6c41d420/fa3d0349e9af420aa773d270dd4fc787",
+                    "appId":"1007833782615811"
+                 },
+                 "twitter":{
+                    "url":"http://uni.vi/t3yM102qcCL",
+                    "title":"Miguel Herrera confirma alineación titular del América para enfrentar al Atlas",
+                    "via":"TUDNUSA"
+                 },
+                 "whatsapp":{
+                    "url":"http://uni.vi/t3yM102qcCL",
+                    "message":"Miguel Herrera confirma alineación titular del América para enfrentar al Atlas"
+                 },
+                 "mail":{
+                    "subject":"Miguel Herrera confirma alineación titular del América para enfrentar al Atlas",
+                    "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMiguel Herrera confirma alineación titular del América para enfrentar al Atlas\n\nEncuéntralo en este enlace:http://uni.vi/t3yM102qcCL\n\nVisítanos https://www.univision.com"
+                 }
+              }
+           },
+           "secondaryTags":[
+              {
+                 "name":"América",
+                 "link":"https://www.tudn.com/futbol/liga-mx/america"
+              },
+              {
+                 "name":"Miguel Herrera",
+                 "link":null
+              }
+           ],
+           "globalWidgets":[
+
+           ],
+           "leadType":"video",
+           "readTime":2,
+           "articleType":"standard",
+           "body":[
+              {
+                 "type":"text",
+                 "value":"<p>Quedó definido el cuadro titular con el cual <b>Miguel Herrera</b> enfrentará al <b>Atlas</b> este sábado, el mismo cuenta con tres cambios respecto al equipo que inició <a href=\"https://www.univision.com/deportes/futbol/liga-mx/leon-derroto-3-2-al-america-en-el-guardianes-2020-y-lo-puso-en-repechaje\" target=\"_blank\">frente al León el pasado lunes</a>.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>El <b>Piojo</b> ahora sí podrá contar con <a href=\"https://www.univision.com/deportes/futbol/liga-mx/guillermo-ochoa-se-luce-en-entrenamiento-con-grandes-atajadas\" target=\"_blank\">un par de centrales nominales</a>, una buena noticia tomando en cuenta cómo han sufrido las Águilas en esa zona del campo, donde han tenido que improvisar con jugadores que no conocen dicha posición.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>Los jugadores seleccionados para medirse con los rojinegros en un esquema 4-4-2 son: Óscar Jiménez, Jorge Sánchez, <b>Sebastián Cáceres</b>, <b>Emanuel Aguilera</b>, Luis Fuentes, Santiago Cáseres, Richard Sánchez, Sebastián Córdova, <b>Leonardo Suárez</b>, Henry Martín y Federico Viñas.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>Herrera decidió mantener a Jiménez en el arco al menos una jornada más debido a que <b>Guillermo Ochoa</b> apenas se está reincorporando a los entrenamientos, \"esperemos que Memo esté al cien la siguiente semana\", señaló\".</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>Con la incorporación de Aguilera y Cáceres, ambos lesionados durante la seguidilla de clásicos del presente <b>Guard1anes 2020</b>, Santiago Cáseres repetirá pero en el once, pero como contención, mientras que el sacrificado será Luis Reyes, nominalmente lateral izquierdo.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>La fuerte lesión que sufrió el lunes <b>Nicolás Benedetti</b>, quien se había ganado un lugar como 'inicialista', <a href=\"https://www.univision.com/deportes/futbol/liga-mx/nicolas-benedetti-lesionado-la-mitad-de-su-estancia-en-mexico\" target=\"_blank\">lo mantendrá lejos de la cancha por un tiempo considerable</a> y será suplantado con <b>Leonardo Suárez</b>, que estará buscando ganarse la permanencia en el equipo azulcrema pues en diciembre finaliza su préstamo desde el Villarreal, aunque cuenta con una opción de compra.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>Con la anexión del argentino Cáseres al medio campo, <b>Giovani dos Santos</b> sale de los once que arrancan ante el combinado rojinegro, que podría estar estrenando su uniforme alterno con motivo del día de muertos presentado esta semana por medio de sus redes sociales.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>América es quinto con 25 unidades y debido al nuevo formato de competencia, <a href=\"https://www.univision.com/deportes/futbol/liga-mx/liga-mx-liguilla-y-repechaje-asi-se-jugaria-hoy-la-fase-definitiva-del-torneo-guardianes-2020\" target=\"_blank\">se encuentra fuera de la zona de clasificación directa</a> a la <b>Liguilla</b>. Estaría jugándose su boleto en la reclasificación, por lo que ganar es obligatorio pensando en mantenerse en la lucha por esos cuatro boletos con solo 9 puntos aún por disputarse.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>Atlas es décimo quinto con 13 puntos, 11 de ellos ganados desde la Jornada 5 cuando llegó Diego Cocca a la dirección técnica del club, solo una victoria le sirve para mantenerse con vida en el certamen.</p>"
+              },
+              {
+                 "type":"text",
+                 "value":"<p>El encuentro se llevará a cabo este sábado 24 de octubre a las 22:00 ET en el Estadio Azteca y se podrá disfrutar en exclusiva por las cadenas de Univision para Estados Unidos.</p>"
+              },
+              {
+                 "type":"enhancement",
+                 "enhancementData":{
+
+                 },
+                 "objectData":{
+                    "type":"slideshow",
+                    "uid":"00000175-4400-d3fb-adff-df51bf020001",
+                    "uri":"https://www.tudn.com/futbol/liga-mx/nicolas-benedetti-se-vuelve-a-lesionar-y-es-baja-con-el-america-fotos",
+                    "vertical":"Deportes",
+                    "parent":{
+                       "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                       "uri":"https://www.tudn.com/futbol/liga-mx",
+                       "name":"liga mx",
+                       "title":"Liga MX"
+                    },
+                    "title":"Nicolás Benedetti se vuelve a lesionar y es baja con el América",
+                    "description":"El hospital del América sigue creciendo y el delantero colombiano regresa a la enfermería.",
+                    "image":{
+                       "type":"image",
+                       "uid":"00000175-4414-d996-a9f5-7c7eea580001",
+                       "title":"_LMX_G20_LEO_AME_",
+                       "caption":"during the game Leon vs America, corresponding to Day 14 of the Torneo Apertura Guard1anes 2020 of the Liga BBVA MX, at Victoria Stadium, on October 19, 2020. <br><br> durante el partido Leon vs America, correspondiente a la Jornada 14 del Torneo Apertura Guard1anes 2020 de la Liga BBVA MX, en el Estadio Victoria, el 19 de Octubre de 2020.",
+                       "credit":"Isaac Ortiz/MEXSPORT",
+                       "renditions":{
+                          "original":{
+                             "href":"https://st1.uvnimg.com/4a/50/231170ae4ec3af8f930518e649ea/20201019-4590.jpg",
+                             "width":4000,
+                             "height":2667
+                          },
+                          "slideshow-mobile-horizontal":{
+                             "href":"https://st1.uvnimg.com/dims4/default/0061440/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                             "width":414,
+                             "height":550
+                          },
+                          "slideshow-4x3-vertical":{
+                             "href":"https://st1.uvnimg.com/dims4/default/617c44e/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                             "width":1093,
+                             "height":820
+                          },
+                          "horizontal-slideshow-loading":{
+                             "href":"https://st1.uvnimg.com/dims4/default/427f1fd/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F500%2F20201019-4590.jpg",
+                             "width":150,
+                             "height":50
+                          },
+                          "16x9":{
+                             "href":"https://st1.uvnimg.com/dims4/default/196a2f9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                             "width":1240,
+                             "height":698
+                          },
+                          "16x9-mobile":{
+                             "href":"https://st1.uvnimg.com/dims4/default/ba57bb6/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F500%2F20201019-4590.jpg",
+                             "width":480,
+                             "height":270
+                          },
+                          "16x9-tablet":{
+                             "href":"https://st1.uvnimg.com/dims4/default/f8935d6/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                             "width":1024,
+                             "height":576
+                          },
+                          "slideshow-horizontal":{
+                             "href":"https://st1.uvnimg.com/dims4/default/6b42990/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                             "width":935,
+                             "height":645
+                          },
+                          "16x9-loading":{
+                             "href":"https://st1.uvnimg.com/dims4/default/b6a6602/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F500%2F20201019-4590.jpg",
+                             "width":30,
+                             "height":17
+                          },
+                          "slideshow-4x3-vertical-mobile":{
+                             "href":"https://st1.uvnimg.com/dims4/default/f64562b/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                             "width":420,
+                             "height":620
+                          }
+                       }
+                    },
+                    "authors":[
+
+                    ],
+                    "cardLabel":null,
+                    "updateDate":"2020-10-19T23:49:34-04:00",
+                    "publishDate":"2020-10-19T23:49:34-04:00",
+                    "expirationDate":null,
+                    "hierarchy":[
+                       {
+                          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                          "uri":"https://www.tudn.com",
+                          "name":"deportes",
+                          "title":"Deportes"
+                       },
+                       {
+                          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                          "uri":"https://www.tudn.com/futbol",
+                          "name":"futbol",
+                          "title":"Fútbol"
+                       },
+                       {
+                          "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                          "uri":"https://www.tudn.com/futbol/liga-mx",
+                          "name":"liga mx",
+                          "title":"Liga MX"
+                       }
+                    ],
+                    "disableReactions":false,
+                    "contentPriority":"STANDARD",
+                    "slideshowType":"verticalslideshow",
+                    "slideCount":12,
+                    "cardImages":[
+                       {
+                          "type":"image",
+                          "uid":"00000175-4414-d996-a9f5-7c7eea580001",
+                          "title":"_LMX_G20_LEO_AME_",
+                          "caption":"during the game Leon vs America, corresponding to Day 14 of the Torneo Apertura Guard1anes 2020 of the Liga BBVA MX, at Victoria Stadium, on October 19, 2020. <br><br> durante el partido Leon vs America, correspondiente a la Jornada 14 del Torneo Apertura Guard1anes 2020 de la Liga BBVA MX, en el Estadio Victoria, el 19 de Octubre de 2020.",
+                          "credit":"Isaac Ortiz/MEXSPORT",
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/4a/50/231170ae4ec3af8f930518e649ea/20201019-4590.jpg",
+                                "width":4000,
+                                "height":2667
+                             },
+                             "slideshow-mobile-horizontal":{
+                                "href":"https://st1.uvnimg.com/dims4/default/0061440/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                                "width":414,
+                                "height":550
+                             },
+                             "slideshow-4x3-vertical":{
+                                "href":"https://st1.uvnimg.com/dims4/default/617c44e/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                                "width":1093,
+                                "height":820
+                             },
+                             "horizontal-slideshow-loading":{
+                                "href":"https://st1.uvnimg.com/dims4/default/427f1fd/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F500%2F20201019-4590.jpg",
+                                "width":150,
+                                "height":50
+                             },
+                             "16x9":{
+                                "href":"https://st1.uvnimg.com/dims4/default/196a2f9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                                "width":1240,
+                                "height":698
+                             },
+                             "16x9-mobile":{
+                                "href":"https://st1.uvnimg.com/dims4/default/ba57bb6/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F500%2F20201019-4590.jpg",
+                                "width":480,
+                                "height":270
+                             },
+                             "16x9-tablet":{
+                                "href":"https://st1.uvnimg.com/dims4/default/f8935d6/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                                "width":1024,
+                                "height":576
+                             },
+                             "slideshow-horizontal":{
+                                "href":"https://st1.uvnimg.com/dims4/default/6b42990/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                                "width":935,
+                                "height":645
+                             },
+                             "16x9-loading":{
+                                "href":"https://st1.uvnimg.com/dims4/default/b6a6602/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F500%2F20201019-4590.jpg",
+                                "width":30,
+                                "height":17
+                             },
+                             "slideshow-4x3-vertical-mobile":{
+                                "href":"https://st1.uvnimg.com/dims4/default/f64562b/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2F50%2F231170ae4ec3af8f930518e649ea%2Fresizes%2F1500%2F20201019-4590.jpg",
+                                "width":420,
+                                "height":620
+                             }
+                          }
+                       },
+                       {
+                          "type":"image",
+                          "uid":"00000175-4414-d996-a9f5-7c7eea3f0000",
+                          "title":"_LMX_G20_LEO_AME_",
+                          "caption":"NICOLAS BENEDETTI IS INJURED during the game Leon vs America, corresponding to Day 14 of the Torneo Apertura Guard1anes 2020 of the Liga BBVA MX, at Victoria Stadium, on October 19, 2020. \n<br>\n<br> NICOLAS BENEDETTI DE LESIONA durante el partido Leon vs America, correspondiente a la Jornada 14 del Torneo Apertura Guard1anes 2020 de la Liga BBVA MX, en el Estadio Victoria, el 19 de Octubre de 2020.",
+                          "credit":"Isaac Ortiz/Isaac Ortiz",
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/50/de/4f1359884b5fad66275c7a1c0459/20201019-4585.jpg",
+                                "width":4000,
+                                "height":2666
+                             },
+                             "slideshow-mobile-horizontal":{
+                                "href":"https://st1.uvnimg.com/dims4/default/96ce5f6/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F1500%2F20201019-4585.jpg",
+                                "width":414,
+                                "height":550
+                             },
+                             "slideshow-4x3-vertical":{
+                                "href":"https://st1.uvnimg.com/dims4/default/2b1e319/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F1500%2F20201019-4585.jpg",
+                                "width":1093,
+                                "height":820
+                             },
+                             "horizontal-slideshow-loading":{
+                                "href":"https://st1.uvnimg.com/dims4/default/fe140e5/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F500%2F20201019-4585.jpg",
+                                "width":150,
+                                "height":50
+                             },
+                             "16x9":{
+                                "href":"https://st1.uvnimg.com/dims4/default/b37b00d/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F1500%2F20201019-4585.jpg",
+                                "width":1240,
+                                "height":698
+                             },
+                             "16x9-mobile":{
+                                "href":"https://st1.uvnimg.com/dims4/default/a90dbc7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F500%2F20201019-4585.jpg",
+                                "width":480,
+                                "height":270
+                             },
+                             "16x9-tablet":{
+                                "href":"https://st1.uvnimg.com/dims4/default/c2f7202/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F1500%2F20201019-4585.jpg",
+                                "width":1024,
+                                "height":576
+                             },
+                             "slideshow-horizontal":{
+                                "href":"https://st1.uvnimg.com/dims4/default/cbb5acd/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F1500%2F20201019-4585.jpg",
+                                "width":935,
+                                "height":645
+                             },
+                             "16x9-loading":{
+                                "href":"https://st1.uvnimg.com/dims4/default/e7e31a0/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F500%2F20201019-4585.jpg",
+                                "width":30,
+                                "height":17
+                             },
+                             "slideshow-4x3-vertical-mobile":{
+                                "href":"https://st1.uvnimg.com/dims4/default/0b861ff/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F50%2Fde%2F4f1359884b5fad66275c7a1c0459%2Fresizes%2F1500%2F20201019-4585.jpg",
+                                "width":420,
+                                "height":620
+                             }
+                          }
+                       },
+                       {
+                          "type":"image",
+                          "uid":"00000175-4414-d996-a9f5-7c7eea450001",
+                          "title":"_LMX_G20_LEO_AME_",
+                          "caption":"NICOLAS BENEDETTI IS INJURED during the game Leon vs America, corresponding to Day 14 of the Torneo Apertura Guard1anes 2020 of the Liga BBVA MX, at Victoria Stadium, on October 19, 2020. \n<br>\n<br> NICOLAS BENEDETTI DE LESIONA durante el partido Leon vs America, correspondiente a la Jornada 14 del Torneo Apertura Guard1anes 2020 de la Liga BBVA MX, en el Estadio Victoria, el 19 de Octubre de 2020.",
+                          "credit":"Isaac Ortiz/Isaac Ortiz",
+                          "renditions":{
+                             "original":{
+                                "href":"https://st1.uvnimg.com/27/94/34a7aaa043eca2b471516b7d5775/20201019-4581.jpg",
+                                "width":4000,
+                                "height":2667
+                             },
+                             "slideshow-mobile-horizontal":{
+                                "href":"https://st1.uvnimg.com/dims4/default/9419431/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F1500%2F20201019-4581.jpg",
+                                "width":414,
+                                "height":550
+                             },
+                             "slideshow-4x3-vertical":{
+                                "href":"https://st1.uvnimg.com/dims4/default/6274817/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F1500%2F20201019-4581.jpg",
+                                "width":1093,
+                                "height":820
+                             },
+                             "horizontal-slideshow-loading":{
+                                "href":"https://st1.uvnimg.com/dims4/default/ebd551b/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F500%2F20201019-4581.jpg",
+                                "width":150,
+                                "height":50
+                             },
+                             "16x9":{
+                                "href":"https://st1.uvnimg.com/dims4/default/a9049b4/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F1500%2F20201019-4581.jpg",
+                                "width":1240,
+                                "height":698
+                             },
+                             "16x9-mobile":{
+                                "href":"https://st1.uvnimg.com/dims4/default/8e04088/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F500%2F20201019-4581.jpg",
+                                "width":480,
+                                "height":270
+                             },
+                             "16x9-tablet":{
+                                "href":"https://st1.uvnimg.com/dims4/default/d43e7ab/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F1500%2F20201019-4581.jpg",
+                                "width":1024,
+                                "height":576
+                             },
+                             "slideshow-horizontal":{
+                                "href":"https://st1.uvnimg.com/dims4/default/eda056b/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F1500%2F20201019-4581.jpg",
+                                "width":935,
+                                "height":645
+                             },
+                             "16x9-loading":{
+                                "href":"https://st1.uvnimg.com/dims4/default/19d3630/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F500%2F20201019-4581.jpg",
+                                "width":30,
+                                "height":17
+                             },
+                             "slideshow-4x3-vertical-mobile":{
+                                "href":"https://st1.uvnimg.com/dims4/default/7fca104/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2F94%2F34a7aaa043eca2b471516b7d5775%2Fresizes%2F1500%2F20201019-4581.jpg",
+                                "width":420,
+                                "height":620
+                             }
+                          }
+                       }
+                    ],
+                    "jwRecommendationChannel":"3xQGeJjl",
+                    "sharing":{
+                       "options":{
+                          "facebook":{
+                             "url":"http://uni.vi/JfO4102pNPV",
+                             "isFeedDialog":false,
+                             "title":"Nicolás Benedetti se vuelve a lesionar y es baja con el América",
+                             "description":"El hospital del América sigue creciendo y el delantero colombiano regresa a la enfermería.",
+                             "imageUrl":"https://st1.uvnimg.com/4a/50/231170ae4ec3af8f930518e649ea/20201019-4590.jpg",
+                             "appId":"1007833782615811"
+                          },
+                          "twitter":{
+                             "url":"http://uni.vi/JfO4102pNPV",
+                             "title":"Nicolás Benedetti se vuelve a lesionar y es baja con el América",
+                             "via":"TUDNUSA"
+                          },
+                          "whatsapp":{
+                             "url":"http://uni.vi/JfO4102pNPV",
+                             "message":"Nicolás Benedetti se vuelve a lesionar y es baja con el América"
+                          },
+                          "mail":{
+                             "subject":"Nicolás Benedetti se vuelve a lesionar y es baja con el América",
+                             "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNicolás Benedetti se vuelve a lesionar y es baja con el América\n\nEncuéntralo en este enlace:http://uni.vi/JfO4102pNPV\n\nVisítanos https://www.univision.com"
+                          }
+                       }
+                    }
+                 }
+              }
+           ],
+           "jwRecommendationChannel":"3xQGeJjl",
+           "dynamicPlaylist":false,
+           "useWebviewInApps":false,
+           "lead":{
+              "type":"video",
+              "uid":"00000175-56c8-d465-af7f-fefe39a00000",
+              "uri":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-titulares-para-juego-contra-atlas-video",
+              "vertical":"Deportes",
+              "parent":{
+                 "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                 "uri":"https://www.tudn.com/futbol/liga-mx",
+                 "name":"liga mx",
+                 "title":"Liga MX"
+              },
+              "title":"Miguel Herrera confirma titulares para juego contra Atlas",
+              "description":"El Piojo confirmó que hay dos regresos y señaló quien suplirá a Nicolás Benedetti.",
+              "image":{
+                 "type":"image",
+                 "uid":"00000175-56c8-d796-ab75-f6caf0930000",
+                 "title":"fa3d0349e9af420aa773d270dd4fc787",
+                 "caption":null,
+                 "credit":null,
+                 "renditions":{
+                    "original":{
+                       "href":"https://st1.uvnimg.com/d7/cb/0a06b3c246bfbfa756dc6c41d420/fa3d0349e9af420aa773d270dd4fc787",
+                       "width":1920,
+                       "height":1080
+                    },
+                    "16x9-med":{
+                       "href":"https://st1.uvnimg.com/dims4/default/dd0fcc8/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                       "width":400,
+                       "height":225
+                    },
+                    "16x9":{
+                       "href":"https://st1.uvnimg.com/dims4/default/97fbe30/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F1500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                       "width":1240,
+                       "height":698
+                    },
+                    "16x9-mobile":{
+                       "href":"https://st1.uvnimg.com/dims4/default/cdb676b/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                       "width":480,
+                       "height":270
+                    },
+                    "16x9-sm":{
+                       "href":"https://st1.uvnimg.com/dims4/default/de88a00/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                       "width":246,
+                       "height":138
+                    },
+                    "16x9-tablet":{
+                       "href":"https://st1.uvnimg.com/dims4/default/6101006/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F1500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                       "width":1024,
+                       "height":576
+                    },
+                    "16x9-extended":{
+                       "href":"https://st1.uvnimg.com/dims4/default/a16f936/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F1500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                       "width":1440,
+                       "height":810
+                    },
+                    "16x9-loading":{
+                       "href":"https://st1.uvnimg.com/dims4/default/9fb60af/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Fresizes%2F500%2Ffa3d0349e9af420aa773d270dd4fc787",
+                       "width":30,
+                       "height":17
+                    }
+                 }
+              },
+              "authors":[
+
+              ],
+              "cardLabel":null,
+              "updateDate":"2020-10-23T14:51:13-04:00",
+              "publishDate":"2020-10-23T14:41:00-04:00",
+              "expirationDate":"2021-10-23T14:41:00-04:00",
+              "hierarchy":[
+                 {
+                    "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                    "uri":"https://www.tudn.com",
+                    "name":"deportes",
+                    "title":"Deportes"
+                 },
+                 {
+                    "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                    "uri":"https://www.tudn.com/futbol",
+                    "name":"futbol",
+                    "title":"Fútbol"
+                 },
+                 {
+                    "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                    "uri":"https://www.tudn.com/futbol/liga-mx",
+                    "name":"liga mx",
+                    "title":"Liga MX"
+                 }
+              ],
+              "disableReactions":false,
+              "contentPriority":"STANDARD",
+              "mcpid":"3937822",
+              "durationString":"1:09",
+              "episodeNo":null,
+              "authRequired":false,
+              "longform":false,
+              "longformPlayList":false,
+              "hasNextEpisode":false,
+              "source":"Univision",
+              "previewUrl":"2021-10-23_3937822.mp4",
+              "show":null,
+              "sharing":{
+                 "options":{
+                    "facebook":{
+                       "url":"http://uni.vi/nWtc102qcJR",
+                       "isFeedDialog":false,
+                       "title":"Miguel Herrera confirma titulares para juego contra Atlas",
+                       "description":"El Piojo confirmó que hay dos regresos y señaló quien suplirá a Nicolás Benedetti.",
+                       "imageUrl":"https://st1.uvnimg.com/d7/cb/0a06b3c246bfbfa756dc6c41d420/fa3d0349e9af420aa773d270dd4fc787",
+                       "appId":"1007833782615811"
+                    },
+                    "twitter":{
+                       "url":"http://uni.vi/nWtc102qcJR",
+                       "title":"Miguel Herrera confirma titulares para juego contra Atlas",
+                       "via":"TUDNUSA"
+                    },
+                    "whatsapp":{
+                       "url":"http://uni.vi/nWtc102qcJR",
+                       "message":"Miguel Herrera confirma titulares para juego contra Atlas"
+                    },
+                    "mail":{
+                       "subject":"Miguel Herrera confirma titulares para juego contra Atlas",
+                       "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMiguel Herrera confirma titulares para juego contra Atlas\n\nEncuéntralo en este enlace:http://uni.vi/nWtc102qcJR\n\nVisítanos https://www.univision.com"
+                    }
+                 }
+              },
+              "categories":[
+                 "Futbol"
+              ],
+              "dateCreated":"2020-10-23T14:43:30-04:00",
+              "airDate":"2020-10-23T14:41:00-04:00",
+              "rating":"TV-14",
+              "season":2020,
+              "series":"937",
+              "seriesName":"Liga MX VOD",
+              "registryEntries":[
+                 {
+                    "assetIdentifier":"LGMX000000000",
+                    "registryIdentifier":"http://www.anvato.com/solutions/media-content-platform/"
+                 }
+              ],
+              "headline":null,
+              "keywords":[
+                 "Atlas",
+                 "Highlights",
+                 "Soccer",
+                 "Nicolás Benedetti",
+                 "Liga MX",
+                 "Goals",
+                 "Miguel Herrera",
+                 "Sports"
+              ],
+              "language":"es",
+              "accessRules":[
+                 {
+                    "name":"US/PTO.RICO",
+                    "access":"private",
+                    "match":"any",
+                    "conditions":[
+                       {
+                          "scope":"country",
+                          "value":"US",
+                          "rangeStart":null,
+                          "rangeEnd":null
+                       },
+                       {
+                          "scope":"country",
+                          "value":"PR",
+                          "rangeStart":null,
+                          "rangeEnd":null
+                       }
+                    ]
+                 }
+              ],
+              "adConfig":{
+                 "contextBased":"Deny",
+                 "inVideo":"Allow",
+                 "inStream":"Allow",
+                 "hasPreRoll":"Allow",
+                 "hasPostRoll":"Deny"
+              },
+              "transcriptLinks":[
+
+              ],
+              "snapshotLinks":[
+                 "https://vmscdn-download.storage.googleapis.com/iupl/C7A/7E7/C7A7E78949234240AEDCEE56C89591E5.jpg?GoogleAccessId=onemcpadmin@anvato-mcp-apps.iam.gserviceaccount.com&Expires=1698086784&Signature=QaOdrrQ2Rf%2FkMkzCOB9UsGCkgP5U3hI0ySt3%2FwgevXgZtu5j8t4tsVVAZpULwq1zYUEcfzjbVsZgw2LDdsacbGORX770RD5TSf4r7%2FHajWbAqZDvKSxIn8AOYEF5nkU1hQGbPnHLo6T5nBplErT54ua%2FeRDHDQaK8R50KoOFbZ4KRCgOVggxZ%2FJZEAke8fagrn4UNGXOF6bgllgi7DXbnyyr6iWaGrOepBgpsqoc5iryTyibZCwfkAZnS0I9EDmv7mYoitbJxwXVR5uVOswocExjIWb7HFT4HJcfmuJW%2BiZJbBTWTYMgS6OBcJ9O%2FuU2CRdqqBEZailCAKkrlDl%2FFA%3D%3D",
+                 "https://anvato-gcdn-oiaqnocss6k3lxvnfcail63uec-us.storage.googleapis.com/us/vod/3937822/C7A7E78949234240AEDCEE56C89591E5_190x107.jpg"
+              ],
+              "copyrightYear":2020,
+              "copyrightOwners":[
+                 "TUDN"
+              ],
+              "supplier":"TUDN.COM",
+              "videoBitrate":4900,
+              "network":"",
+              "networks":[
+
+              ],
+              "videoType":"clip",
+              "titleManagement":{
+                 "tvShowSeason":"",
+                 "tvShow":"Liga MX"
+              },
+              "videoSubType":"",
+              "adContentType":"Sports",
+              "advertiser":"",
+              "is360":false,
+              "primaryTopic":"",
+              "videoRecirc":true,
+              "tvssDomain":"usprauth.univision.com",
+              "thumbnailImage":"https://st1.uvnimg.com/dims4/default/afd7425/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd7%2Fcb%2F0a06b3c246bfbfa756dc6c41d420%2Ffa3d0349e9af420aa773d270dd4fc787",
+              "shortUrl":"http://uni.vi/nWtc102qcJR",
+              "permalink":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-titulares-para-juego-contra-atlas-video",
+              "adSettings":{
+                 "disable3rdPartyAds":false,
+                 "disableAds":false,
+                 "adTagValue":"video_deportes/futbol/ligamx",
+                 "targeting":{
+                    "vertical":"deportes",
+                    "tag":[
+                       "nicolasbenedetti",
+                       "america",
+                       "ligamx",
+                       "atlas"
+                    ]
+                 },
+                 "contentSpecificSettings":{
+
+                 }
+              },
+              "jwKey":"JFUjJCcj"
+           },
+           "tags":[
+              {
+                 "title":"América",
+                 "url":"https://www.tudn.com/futbol/liga-mx/america"
+              },
+              {
+                 "title":"Miguel Herrera",
+                 "url":null
+              }
+           ],
+           "isInfiniteScrollEnabled":true,
+           "hidePublishDate":false,
+           "showUpdateDate":false,
+           "videoLeadRelatedContent":null,
+           "relatedContent":{
+              "relatedContentTitle":"Artículos Relacionados",
+              "relatedContent":[
+                 {
+                    "type":"article",
+                    "uid":"00000175-56ab-da08-af7d-f7af61aa0002",
+                    "uri":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-las-lesiones-se-magnifican-en-america",
+                    "vertical":"Deportes",
+                    "parent":{
+                       "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                       "uri":"https://www.tudn.com/futbol/liga-mx",
+                       "name":"liga mx",
+                       "title":"Liga MX"
+                    },
+                    "title":"Miguel Herrera: \"Las lesiones se magnifican en América\"",
+                    "description":"El técnico de las Águilas reveló que, a partir de este momento, quedan prohibidos los entrenamientos particulares y externos al club.",
+                    "image":{
+                       "type":"image",
+                       "uid":"00000174-a9dc-d982-ad7c-eddd18a10000",
+                       "title":"Miguel Herrera",
+                       "caption":"Herrera destacó mejoría de su escuadra.",
+                       "credit":"Adrian Macias/MEXSPORT",
+                       "renditions":{
+                          "original":{
+                             "href":"https://st1.uvnimg.com/2e/82/0d6ff07948f09c17b8969bd358ab/20200919-5996.jpg",
+                             "width":4000,
+                             "height":2667,
+                             "focusPoint":{
+                                "x":0.4537985368598762,
+                                "y":0.11663066954643629
+                             }
+                          },
+                          "article-lead-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/dc7a6ce/2147483647/crop/500x188%2B0%2B0/resize/414x156%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F82%2F0d6ff07948f09c17b8969bd358ab%2Fresizes%2F500%2F20200919-5996.jpg",
+                             "width":414,
+                             "height":156
+                          },
+                          "16x9-med":{
+                             "href":"https://st1.uvnimg.com/dims4/default/ce53582/2147483647/crop/500x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F82%2F0d6ff07948f09c17b8969bd358ab%2Fresizes%2F500%2F20200919-5996.jpg",
+                             "width":400,
+                             "height":225
+                          },
+                          "article-lead-md":{
+                             "href":"https://st1.uvnimg.com/dims4/default/aa24573/2147483647/crop/1500x563%2B0%2B0/resize/1024x384%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F82%2F0d6ff07948f09c17b8969bd358ab%2Fresizes%2F1500%2F20200919-5996.jpg",
+                             "width":1024,
+                             "height":384
+                          },
+                          "16x9-mobile":{
+                             "href":"https://st1.uvnimg.com/dims4/default/7f0c757/2147483647/crop/500x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F82%2F0d6ff07948f09c17b8969bd358ab%2Fresizes%2F500%2F20200919-5996.jpg",
+                             "width":480,
+                             "height":270
+                          },
+                          "16x9-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/033fcb6/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F82%2F0d6ff07948f09c17b8969bd358ab%2Fresizes%2F500%2F20200919-5996.jpg",
+                             "width":246,
+                             "height":138
+                          },
+                          "16x9-tablet":{
+                             "href":"https://st1.uvnimg.com/dims4/default/b1c9c7c/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F82%2F0d6ff07948f09c17b8969bd358ab%2Fresizes%2F1500%2F20200919-5996.jpg",
+                             "width":1024,
+                             "height":576
+                          },
+                          "article-lead-xl":{
+                             "href":"https://st1.uvnimg.com/dims4/default/512d1fb/2147483647/crop/1500x563%2B0%2B0/resize/1440x540%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2e%2F82%2F0d6ff07948f09c17b8969bd358ab%2Fresizes%2F1500%2F20200919-5996.jpg",
+                             "width":1440,
+                             "height":540
+                          }
+                       }
+                    },
+                    "authors":[
+
+                    ],
+                    "cardLabel":null,
+                    "updateDate":"2020-10-23T14:30:03-04:00",
+                    "publishDate":"2020-10-23T14:30:03-04:00",
+                    "expirationDate":null,
+                    "hierarchy":[
+                       {
+                          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                          "uri":"https://www.tudn.com",
+                          "name":"deportes",
+                          "title":"Deportes"
+                       },
+                       {
+                          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                          "uri":"https://www.tudn.com/futbol",
+                          "name":"futbol",
+                          "title":"Fútbol"
+                       },
+                       {
+                          "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                          "uri":"https://www.tudn.com/futbol/liga-mx",
+                          "name":"liga mx",
+                          "title":"Liga MX"
+                       }
+                    ],
+                    "disableReactions":false,
+                    "contentPriority":"STANDARD",
+                    "leadType":"image",
+                    "readTime":2,
+                    "articleType":"Standard",
+                    "body":[
+                       {
+                          "type":"text",
+                          "value":"<p><b>Miguel Herrera</b> es consciente de las lesiones que ha presentado su equipo; sin embargo, consideró que esto es algo que todos los equipos viven, pero en <a href=\"https://www.univision.com/deportes/futbol/liga-mx/america/*\">América</a> se \"magnifican\". Para evitar una mayor cantidad en en el cuadro azulcrema, el técnico pidió a los jugadores que no tomaran entrenamientos externos a los que llevan a cabo dentro de la institución para afrontar <a href=\"https://www.univision.com/deportes/temas/guardianes\">Guard1anes 2020</a>.</p>"
+                       }
+                    ],
+                    "jwRecommendationChannel":"3xQGeJjl",
+                    "dynamicPlaylist":false,
+                    "sharing":{
+                       "options":{
+                          "facebook":{
+                             "url":"http://uni.vi/WuO9102qcEK",
+                             "isFeedDialog":false,
+                             "title":"Miguel Herrera: \"Las lesiones se magnifican en América\"",
+                             "description":"El técnico de las Águilas reveló que, a partir de este momento, quedan prohibidos los entrenamientos particulares y externos al club.",
+                             "imageUrl":"https://st1.uvnimg.com/2e/82/0d6ff07948f09c17b8969bd358ab/20200919-5996.jpg",
+                             "appId":"1007833782615811"
+                          },
+                          "twitter":{
+                             "url":"http://uni.vi/WuO9102qcEK",
+                             "title":"Miguel Herrera: \"Las lesiones se magnifican en América\"",
+                             "via":"TUDNUSA"
+                          },
+                          "whatsapp":{
+                             "url":"http://uni.vi/WuO9102qcEK",
+                             "message":"Miguel Herrera: \"Las lesiones se magnifican en América\""
+                          },
+                          "mail":{
+                             "subject":"Miguel Herrera: \"Las lesiones se magnifican en América\"",
+                             "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMiguel Herrera: \"Las lesiones se magnifican en América\"\n\nEncuéntralo en este enlace:http://uni.vi/WuO9102qcEK\n\nVisítanos https://www.univision.com"
+                          }
+                       }
+                    },
+                    "useWebviewInApps":false
+                 },
+                 {
+                    "type":"article",
+                    "uid":"00000175-5111-d47e-a5fd-df57610b0002",
+                    "uri":"https://www.tudn.com/futbol/liga-mx/guillermo-ochoa-se-luce-en-entrenamiento-con-grandes-atajadas",
+                    "vertical":"Deportes",
+                    "parent":{
+                       "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                       "uri":"https://www.tudn.com/futbol/liga-mx",
+                       "name":"liga mx",
+                       "title":"Liga MX"
+                    },
+                    "title":"Guillermo Ochoa se luce en entrenamiento con grandes atajadas",
+                    "description":"El cancerbero está cerca de volver a la actividad y se lució durante la práctica de este jueves.",
+                    "image":{
+                       "type":"image",
+                       "uid":"00000175-5283-d456-af7d-dbcb2dfc0000",
+                       "title":"20e3a4cec3a645c59d835d12f8234874",
+                       "caption":null,
+                       "credit":null,
+                       "renditions":{
+                          "original":{
+                             "href":"https://st1.uvnimg.com/dc/82/01eedb354f9b805d308d57e832c1/20e3a4cec3a645c59d835d12f8234874",
+                             "width":1920,
+                             "height":1080
+                          },
+                          "article-lead-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/4a91143/2147483647/thumbnail/414x156%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F82%2F01eedb354f9b805d308d57e832c1%2Fresizes%2F500%2F20e3a4cec3a645c59d835d12f8234874",
+                             "width":414,
+                             "height":156
+                          },
+                          "16x9-med":{
+                             "href":"https://st1.uvnimg.com/dims4/default/597369d/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F82%2F01eedb354f9b805d308d57e832c1%2Fresizes%2F500%2F20e3a4cec3a645c59d835d12f8234874",
+                             "width":400,
+                             "height":225
+                          },
+                          "article-lead-md":{
+                             "href":"https://st1.uvnimg.com/dims4/default/89bf3cd/2147483647/thumbnail/1024x384%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F82%2F01eedb354f9b805d308d57e832c1%2Fresizes%2F1500%2F20e3a4cec3a645c59d835d12f8234874",
+                             "width":1024,
+                             "height":384
+                          },
+                          "16x9-mobile":{
+                             "href":"https://st1.uvnimg.com/dims4/default/859dc8c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F82%2F01eedb354f9b805d308d57e832c1%2Fresizes%2F500%2F20e3a4cec3a645c59d835d12f8234874",
+                             "width":480,
+                             "height":270
+                          },
+                          "16x9-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/32fa7f5/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F82%2F01eedb354f9b805d308d57e832c1%2Fresizes%2F500%2F20e3a4cec3a645c59d835d12f8234874",
+                             "width":246,
+                             "height":138
+                          },
+                          "16x9-tablet":{
+                             "href":"https://st1.uvnimg.com/dims4/default/990970d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F82%2F01eedb354f9b805d308d57e832c1%2Fresizes%2F1500%2F20e3a4cec3a645c59d835d12f8234874",
+                             "width":1024,
+                             "height":576
+                          },
+                          "article-lead-xl":{
+                             "href":"https://st1.uvnimg.com/dims4/default/9d13a95/2147483647/thumbnail/1440x540%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F82%2F01eedb354f9b805d308d57e832c1%2Fresizes%2F1500%2F20e3a4cec3a645c59d835d12f8234874",
+                             "width":1440,
+                             "height":540
+                          }
+                       }
+                    },
+                    "authors":[
+
+                    ],
+                    "cardLabel":null,
+                    "updateDate":"2020-10-22T19:18:28-04:00",
+                    "publishDate":"2020-10-22T12:58:03-04:00",
+                    "expirationDate":null,
+                    "hierarchy":[
+                       {
+                          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                          "uri":"https://www.tudn.com",
+                          "name":"deportes",
+                          "title":"Deportes"
+                       },
+                       {
+                          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                          "uri":"https://www.tudn.com/futbol",
+                          "name":"futbol",
+                          "title":"Fútbol"
+                       },
+                       {
+                          "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                          "uri":"https://www.tudn.com/futbol/liga-mx",
+                          "name":"liga mx",
+                          "title":"Liga MX"
+                       }
+                    ],
+                    "disableReactions":false,
+                    "contentPriority":"STANDARD",
+                    "leadType":"video",
+                    "readTime":2,
+                    "articleType":"Standard",
+                    "body":[
+                       {
+                          "type":"text",
+                          "value":"<p><b>Emanuel Aguilera </b>y <b>Guillermo Ochoa</b> ya están listos para reaparecer con <b>América</b>, ambos han superado las lesiones que los aquejaban.</p>"
+                       }
+                    ],
+                    "jwRecommendationChannel":"3xQGeJjl",
+                    "dynamicPlaylist":false,
+                    "sharing":{
+                       "options":{
+                          "facebook":{
+                             "url":"http://uni.vi/9bv5102q4BS",
+                             "isFeedDialog":false,
+                             "title":"Guillermo Ochoa se luce en entrenamiento con grandes atajadas",
+                             "description":"El cancerbero está cerca de volver a la actividad y se lució durante la práctica de este jueves.",
+                             "imageUrl":"https://st1.uvnimg.com/dc/82/01eedb354f9b805d308d57e832c1/20e3a4cec3a645c59d835d12f8234874",
+                             "appId":"1007833782615811"
+                          },
+                          "twitter":{
+                             "url":"http://uni.vi/9bv5102q4BS",
+                             "title":"Guillermo Ochoa se luce en entrenamiento con grandes atajadas",
+                             "via":"TUDNUSA"
+                          },
+                          "whatsapp":{
+                             "url":"http://uni.vi/9bv5102q4BS",
+                             "message":"Guillermo Ochoa se luce en entrenamiento con grandes atajadas"
+                          },
+                          "mail":{
+                             "subject":"Guillermo Ochoa se luce en entrenamiento con grandes atajadas",
+                             "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nGuillermo Ochoa se luce en entrenamiento con grandes atajadas\n\nEncuéntralo en este enlace:http://uni.vi/9bv5102q4BS\n\nVisítanos https://www.univision.com"
+                          }
+                       }
+                    },
+                    "useWebviewInApps":false
+                 },
+                 {
+                    "type":"article",
+                    "uid":"00000175-522e-dca0-ab7d-ff7fef850002",
+                    "uri":"https://www.tudn.com/futbol/liga-mx/jurgen-damm-no-ve-a-gignac-en-la-mls-se-retira-en-tigres",
+                    "vertical":"Deportes",
+                    "parent":{
+                       "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                       "uri":"https://www.tudn.com/futbol/liga-mx",
+                       "name":"liga mx",
+                       "title":"Liga MX"
+                    },
+                    "title":"Jurgen Damm no ve a Gignac en la MLS: \"Se retira en Tigres\"",
+                    "description":"El jugador del Atlanta United exige jugar en una sede neutral para el partido de la Concacaf ante América. ",
+                    "image":{
+                       "type":"image",
+                       "uid":"00000175-523e-d66c-a1ff-ffbf33130000",
+                       "title":"Tigres UANL v Tijuana - Torneo Apertura 2018 Liga MX",
+                       "caption":"Andre-Pierre Gignac y Jurgen Damm.",
+                       "credit":"Getty Images",
+                       "renditions":{
+                          "original":{
+                             "href":"https://st1.uvnimg.com/67/57/cdc30e2b4c0eb9f5e7fc9475a13a/gettyimages-1007492972.jpg",
+                             "width":5181,
+                             "height":3454
+                          },
+                          "article-lead-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/b5b59ca/2147483647/thumbnail/414x156%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F57%2Fcdc30e2b4c0eb9f5e7fc9475a13a%2Fresizes%2F500%2Fgettyimages-1007492972.jpg",
+                             "width":414,
+                             "height":156
+                          },
+                          "16x9-med":{
+                             "href":"https://st1.uvnimg.com/dims4/default/a804b65/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F57%2Fcdc30e2b4c0eb9f5e7fc9475a13a%2Fresizes%2F500%2Fgettyimages-1007492972.jpg",
+                             "width":400,
+                             "height":225
+                          },
+                          "article-lead-md":{
+                             "href":"https://st1.uvnimg.com/dims4/default/89ae744/2147483647/thumbnail/1024x384%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F57%2Fcdc30e2b4c0eb9f5e7fc9475a13a%2Fresizes%2F1500%2Fgettyimages-1007492972.jpg",
+                             "width":1024,
+                             "height":384
+                          },
+                          "16x9-mobile":{
+                             "href":"https://st1.uvnimg.com/dims4/default/91a5402/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F57%2Fcdc30e2b4c0eb9f5e7fc9475a13a%2Fresizes%2F500%2Fgettyimages-1007492972.jpg",
+                             "width":480,
+                             "height":270
+                          },
+                          "16x9-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/1aa8882/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F57%2Fcdc30e2b4c0eb9f5e7fc9475a13a%2Fresizes%2F500%2Fgettyimages-1007492972.jpg",
+                             "width":246,
+                             "height":138
+                          },
+                          "16x9-tablet":{
+                             "href":"https://st1.uvnimg.com/dims4/default/d400f3b/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F57%2Fcdc30e2b4c0eb9f5e7fc9475a13a%2Fresizes%2F1500%2Fgettyimages-1007492972.jpg",
+                             "width":1024,
+                             "height":576
+                          },
+                          "article-lead-xl":{
+                             "href":"https://st1.uvnimg.com/dims4/default/495b86e/2147483647/thumbnail/1440x540%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F57%2Fcdc30e2b4c0eb9f5e7fc9475a13a%2Fresizes%2F1500%2Fgettyimages-1007492972.jpg",
+                             "width":1440,
+                             "height":540
+                          }
+                       }
+                    },
+                    "authors":[
+
+                    ],
+                    "cardLabel":null,
+                    "updateDate":"2020-10-22T18:43:25-04:00",
+                    "publishDate":"2020-10-22T17:53:26-04:00",
+                    "expirationDate":null,
+                    "hierarchy":[
+                       {
+                          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                          "uri":"https://www.tudn.com",
+                          "name":"deportes",
+                          "title":"Deportes"
+                       },
+                       {
+                          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                          "uri":"https://www.tudn.com/futbol",
+                          "name":"futbol",
+                          "title":"Fútbol"
+                       },
+                       {
+                          "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                          "uri":"https://www.tudn.com/futbol/liga-mx",
+                          "name":"liga mx",
+                          "title":"Liga MX"
+                       }
+                    ],
+                    "disableReactions":false,
+                    "contentPriority":"STANDARD",
+                    "leadType":"video",
+                    "readTime":2,
+                    "articleType":"Standard",
+                    "body":[
+                       {
+                          "type":"text",
+                          "value":"<p><b>Jurgen Damm</b>, jugador del <b>Atlanta United</b>, habló de <b>Gignac</b>, su excompañero en <b>Tigres</b>, y comentó que es más factible que el francés se retire en la <b>Liga MX</b> a que juegue en la <b>MLS</b> por un tema de edad.</p>"
+                       }
+                    ],
+                    "jwRecommendationChannel":"3xQGeJjl",
+                    "dynamicPlaylist":false,
+                    "sharing":{
+                       "options":{
+                          "facebook":{
+                             "url":"http://uni.vi/w3Sc102q7ft",
+                             "isFeedDialog":false,
+                             "title":"Jurgen Damm no ve a Gignac en la MLS: \"Se retira en Tigres\"",
+                             "description":"El jugador del Atlanta United exige jugar en una sede neutral para el partido de la Concacaf ante América.",
+                             "imageUrl":"https://st1.uvnimg.com/a8/a1/899cfdd8432f8ddb94bcfda40551/d0f85c1e5d67440a9e087d41c6b8198b",
+                             "appId":"1007833782615811"
+                          },
+                          "twitter":{
+                             "url":"http://uni.vi/w3Sc102q7ft",
+                             "title":"Jurgen Damm no ve a Gignac en la MLS: \"Se retira en Tigres\"",
+                             "via":"TUDNUSA"
+                          },
+                          "whatsapp":{
+                             "url":"http://uni.vi/w3Sc102q7ft",
+                             "message":"Jurgen Damm no ve a Gignac en la MLS: \"Se retira en Tigres\""
+                          },
+                          "mail":{
+                             "subject":"Jurgen Damm no ve a Gignac en la MLS: \"Se retira en Tigres\"",
+                             "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nJurgen Damm no ve a Gignac en la MLS: \"Se retira en Tigres\"\n\nEncuéntralo en este enlace:http://uni.vi/w3Sc102q7ft\n\nVisítanos https://www.univision.com"
+                          }
+                       }
+                    },
+                    "useWebviewInApps":false
+                 },
+                 {
+                    "type":"article",
+                    "uid":"00000175-5060-d1e3-abff-52e7d5160002",
+                    "uri":"https://www.tudn.com/futbol/liga-mx/liga-mx-las-aguilas-del-america-y-su-rival-inesperado-en-el-torneo-guardianes-2020",
+                    "vertical":"Deportes",
+                    "parent":{
+                       "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                       "uri":"https://www.tudn.com/futbol/liga-mx",
+                       "name":"liga mx",
+                       "title":"Liga MX"
+                    },
+                    "title":"Liga MX | Las Águilas del América y su rival inesperado en el Torneo Guardianes 2020 ",
+                    "description":"Las lesiones se han convertido en el principal obstáculo que debe superar Miguel &#39;Piojo&#39; Herrera y sus Águilas del América en el Torneo Guard1anes 2020 y desde hace un año en la Liga MX del futbol mexicano.",
+                    "image":{
+                       "type":"image",
+                       "uid":"00000174-d2d1-d1cf-a7fc-fff5fd8e0000",
+                       "title":"Lesión Emanuel Aguilera jornada 12 Guardianes 2020",
+                       "caption":"Aguilera salió lesionado en el partido frente a Cruz Azul.",
+                       "credit":"Mexsport",
+                       "renditions":{
+                          "original":{
+                             "href":"https://st1.uvnimg.com/31/bb/773aeaab4c968a98d0be13750387/lesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":4000,
+                             "height":2667
+                          },
+                          "article-lead-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/2e7fa4b/2147483647/thumbnail/414x156%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fbb%2F773aeaab4c968a98d0be13750387%2Fresizes%2F500%2Flesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":414,
+                             "height":156
+                          },
+                          "16x9-med":{
+                             "href":"https://st1.uvnimg.com/dims4/default/007686e/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fbb%2F773aeaab4c968a98d0be13750387%2Fresizes%2F500%2Flesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":400,
+                             "height":225
+                          },
+                          "article-lead-md":{
+                             "href":"https://st1.uvnimg.com/dims4/default/eb74860/2147483647/thumbnail/1024x384%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fbb%2F773aeaab4c968a98d0be13750387%2Fresizes%2F1500%2Flesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":1024,
+                             "height":384
+                          },
+                          "16x9-mobile":{
+                             "href":"https://st1.uvnimg.com/dims4/default/c832cef/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fbb%2F773aeaab4c968a98d0be13750387%2Fresizes%2F500%2Flesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":480,
+                             "height":270
+                          },
+                          "16x9-sm":{
+                             "href":"https://st1.uvnimg.com/dims4/default/e2e722e/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fbb%2F773aeaab4c968a98d0be13750387%2Fresizes%2F500%2Flesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":246,
+                             "height":138
+                          },
+                          "16x9-tablet":{
+                             "href":"https://st1.uvnimg.com/dims4/default/066005e/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fbb%2F773aeaab4c968a98d0be13750387%2Fresizes%2F1500%2Flesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":1024,
+                             "height":576
+                          },
+                          "article-lead-xl":{
+                             "href":"https://st1.uvnimg.com/dims4/default/2a7497b/2147483647/thumbnail/1440x540%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fbb%2F773aeaab4c968a98d0be13750387%2Fresizes%2F1500%2Flesion-emanuel-aguilera-jornada-12-guardianes-2020.jpg",
+                             "width":1440,
+                             "height":540
+                          }
+                       }
+                    },
+                    "authors":[
+                       {
+                          "fullName":"Mark Cube",
+                          "image":{
+                             "type":"image",
+                             "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+                             "title":"Univision Fallback Image",
+                             "caption":null,
+                             "credit":null,
+                             "renditions":{
+                                "original":{
+                                   "href":"https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                                   "width":1200,
+                                   "height":630
+                                },
+                                "1x1-xxs-mobile":{
+                                   "href":"https://st1.uvnimg.com/dims4/default/ba2cc8e/2147483647/thumbnail/80x80/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+                                   "width":80,
+                                   "height":80
+                                },
+                                "16x9-med":{
+                                   "href":"https://st1.uvnimg.com/dims4/default/a627980/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+                                   "width":400,
+                                   "height":225
+                                },
+                                "16x9-mobile":{
+                                   "href":"https://st1.uvnimg.com/dims4/default/32508af/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+                                   "width":480,
+                                   "height":270
+                                },
+                                "16x9-sm":{
+                                   "href":"https://st1.uvnimg.com/dims4/default/fd4e070/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+                                   "width":246,
+                                   "height":138
+                                },
+                                "16x9-tablet":{
+                                   "href":"https://st1.uvnimg.com/dims4/default/402797d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+                                   "width":1024,
+                                   "height":576
+                                },
+                                "1x1-mobile":{
+                                   "href":"https://st1.uvnimg.com/dims4/default/5bed394/2147483647/thumbnail/480x480/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+                                   "width":480,
+                                   "height":480
+                                }
+                             }
+                          },
+                          "uri":"https://www.univision.com/temas/mark-cube",
+                          "socialNetworks":{
+                             "facebookUrl":null,
+                             "googleUrl":null,
+                             "instagramUrl":null,
+                             "linkedinUrl":null,
+                             "pinterestUrl":null,
+                             "snapchatUrl":null,
+                             "twitterUrl":null,
+                             "youTubeUrl":null
+                          },
+                          "link":null,
+                          "mediaCompany":null,
+                          "designation":null,
+                          "description":"",
+                          "address":null,
+                          "phoneNumber":null,
+                          "website":null
+                       }
+                    ],
+                    "cardLabel":null,
+                    "updateDate":"2020-10-22T10:52:23-04:00",
+                    "publishDate":"2020-10-22T10:06:12-04:00",
+                    "expirationDate":null,
+                    "hierarchy":[
+                       {
+                          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                          "uri":"https://www.tudn.com",
+                          "name":"deportes",
+                          "title":"Deportes"
+                       },
+                       {
+                          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                          "uri":"https://www.tudn.com/futbol",
+                          "name":"futbol",
+                          "title":"Fútbol"
+                       },
+                       {
+                          "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                          "uri":"https://www.tudn.com/futbol/liga-mx",
+                          "name":"liga mx",
+                          "title":"Liga MX"
+                       }
+                    ],
+                    "disableReactions":false,
+                    "contentPriority":"STANDARD",
+                    "leadType":"video",
+                    "readTime":3,
+                    "articleType":"Standard",
+                    "body":[
+                       {
+                          "type":"text",
+                          "value":"<p>Las <b><a href=\"https://www.univision.com/deportes/futbol/liga-mx/america/*\">Águilas del América</a></b> y su larga lista de lesionados en el <b>Torneo Guard1anes 2020</b> se ha convertido en el principal rival para los dirigidos por <b>Miguel 'Piojo' Herrera </b>por la Liga MX. La lucha por el título no es solo contra los 17 clubes que completan la primera división del futbol profesional mexicano, sino que han tenido que sortear las lesiones del elenco americanista durante el úlitmo año del campeonato azteca.</p>"
+                       }
+                    ],
+                    "jwRecommendationChannel":"3xQGeJjl",
+                    "dynamicPlaylist":false,
+                    "sharing":{
+                       "options":{
+                          "facebook":{
+                             "url":"http://uni.vi/OtjA102q3JE",
+                             "isFeedDialog":false,
+                             "title":"Liga MX | Las Águilas del América y su rival inesperado en el Torneo Guardianes 2020 ",
+                             "description":"Las lesiones se han convertido en el principal obstáculo que debe superar Miguel 'Piojo' Herrera y sus Águilas del América en el Torneo Guard1anes 2020 y desde hace un año en la Liga MX del futbol mexicano.",
+                             "imageUrl":"https://st1.uvnimg.com/90/32/2212b90e43fa8a0a002030975dd4/1f15cf31e4e0466697ccfb9b02300a1b",
+                             "appId":"1007833782615811"
+                          },
+                          "twitter":{
+                             "url":"http://uni.vi/OtjA102q3JE",
+                             "title":"Liga MX | Las Águilas del América y su rival inesperado en el Torneo Guardianes 2020 ",
+                             "via":"TUDNUSA"
+                          },
+                          "whatsapp":{
+                             "url":"http://uni.vi/OtjA102q3JE",
+                             "message":"Liga MX | Las Águilas del América y su rival inesperado en el Torneo Guardianes 2020 "
+                          },
+                          "mail":{
+                             "subject":"Liga MX | Las Águilas del América y su rival inesperado en el Torneo Guardianes 2020 ",
+                             "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLiga MX | Las Águilas del América y su rival inesperado en el Torneo Guardianes 2020 \n\nEncuéntralo en este enlace:http://uni.vi/OtjA102q3JE\n\nVisítanos https://www.univision.com"
+                          }
+                       }
+                    },
+                    "useWebviewInApps":false
+                 }
+              ]
+           },
+           "sponsor":null,
+           "isOpinionArticle":false,
+           "opinionText":null,
+           "fullWidth":false,
+           "enableForGoogleAmp":true,
+           "ttl":14400,
+           "feedGeneratedAt":"2020-10-23T14:54:43-04:00",
+           "tagHierarchy":[
+              {
+                 "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                 "uri":"https://www.tudn.com",
+                 "name":"deportes",
+                 "title":"Deportes"
+              },
+              {
+                 "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+                 "uri":"https://www.tudn.com/futbol",
+                 "name":"futbol",
+                 "title":"Fútbol"
+              },
+              {
+                 "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+                 "uri":"https://www.tudn.com/futbol/liga-mx",
+                 "name":"liga mx",
+                 "title":"Liga MX"
+              }
+           ],
+           "primaryTag":{
+              "uuid":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+              "uri":"https://www.tudn.com/futbol/liga-mx",
+              "name":"liga mx",
+              "title":"Liga MX",
+              "link":"https://www.tudn.com/futbol/liga-mx"
+           },
+           "isSensitive":false
+        },
+        "loading":false,
+        "error":null,
+        "env":"production",
+        "device":"mobile",
+        "config":{
+           "deploy":{
+              "env":"production",
+              "multiSite":true
+           },
+           "dims":{
+              "baseUrl":"https://st1.uvnimg.com/dims4/default/",
+              "sharedSecret":"the2pahSh6ohh7rooGh8looghi7ge7ie"
+           },
+           "graphql":"https://graphql.univision.com",
+           "ssoIframeUrl":"https://sso.univision.com",
+           "syndicator":{
+              "uri":"https://syndicator.univision.com",
+              "content":"https://syndicator.univision.com/web-api/content",
+              "video":"https://syndicator.univision.com/feed/video-api",
+              "search":"https://syndicator.univision.com/web-api/search",
+              "widget":"https://syndicator.univision.com/web-api/widget",
+              "webAppState":"/proxy/api/cached/web-app-state",
+              "localMarketContent":"https://syndicator.univision.com/web-api/local-market-content"
+           },
+           "videoHub":{
+              "env":"prod",
+              "profile":"4339f617-c610-45d1-91eb-5e3bcad402ee"
+           },
+           "tracking":{
+              "spaMonitoring":false
+           }
+        },
+        "uaDevice":"mobile-android",
+        "userAgent":"Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Mobile Safari/537.36",
+        "requestParams":{
+           "url":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+           "from":"nextjs"
+        },
+        "sites":{
+           "univision":"https://www.univision.com",
+           "tudn":"https://www.tudn.com"
+        },
+        "domain":"https://www.tudn.com",
+        "headers":{
+           "x-is-user-loc-eu":"false"
+        },
+        "originalUrl":"https://www.tudn.com/futbol/liga-mx/miguel-herrera-confirma-alineacion-titular-del-america-para-enfrentar-al-atlas",
+        "requestId":"6e44a040-156a-11eb-bb28-511a55ddc555",
+        "language":"es",
+        "theme":{
+           "actionBarType":"Soccer",
+           "card":{
+              "isDark":{
+                 "audio":true,
+                 "default":false,
+                 "externallink":true,
+                 "podcastseries":true,
+                 "radiostation":true,
+                 "section":true,
+                 "show":true,
+                 "slideshow":true,
+                 "soccermatch":true,
+                 "tvstation":true,
+                 "video":true,
+                 "videoInline":false
+              },
+              "headlineFont":{
+                 "default":"uvs-font-b-bold"
+              }
+           },
+           "brandedHeaderLogoFill":"#ffffff",
+           "exposedNavGradient":"linear-gradient(229deg, #003F2C 0%, #016849 100%)",
+           "footerLogo":"/assets/styles/images/tudn_white_logo.9f127f2ec0bf06b2efb19df85a131ca8.svg",
+           "globalNavBackgroundColor":"#000000",
+           "gradient":{
+              "end":"#007350",
+              "start":"#079F70"
+           },
+           "headlineFont":{
+              "default":"uvs-font-b-bold"
+           },
+           "isBrandedHeaderBlack":true,
+           "isFooterDark":true,
+           "primary":"#007350",
+           "registration":{
+              "badgeColor":"#007350",
+              "gradient":{
+                 "end":"#007350",
+                 "start":"#079F70"
+              },
+              "mvpd":{
+                 "backgroundMobile":"/assets/styles/images/mobile-background-mvpd-tudn.bf1b010beb7dedf6612cd2766569b466.png",
+                 "backgroundMobileEdit":"/assets/styles/images/mobile-background-mvpd-edit-tudn.60d2082bf727d263dca916398e55084c.png",
+                 "backgroundDesktop":"/assets/styles/images/desktop-background-mvpd-tudn.2e7521a023988cc2f80202c8dec9e491.png"
+              },
+              "primary":"#007350",
+              "welcomeIcon":"tudn"
+           },
+           "secondary":"#079F70",
+           "shortTitleAlignCenter":false,
+           "shortTitleGradient":"linear-gradient(229deg, #003F2C 0%, #016849 100%)",
+           "showTudnRegistration":true,
+           "subNavBackgroundColor":"#005239",
+           "tagColor":"#079F70",
+           "tertiary":"#005239",
+           "alphaGradient":"linear-gradient(to top, rgba(0, 115, 80, 0.95) 0%, rgba(0, 115, 80, 0) 50%)",
+           "solidGradient":"linear-gradient(to bottom, #007350 0%, #079F70 100%)",
+           "horizontalGradient":"linear-gradient(to right, #007350 0%, #079F70 100%)"
+        },
+        "pageCategory":"futbol",
+        "isAmp":false,
+        "isSpa":true,
+        "isTudn":true,
+        "site":"tudn",
+        "headerTitle":"Liga MX",
+        "navData":{
+           "theme":{
+              "primary":"#3a3a3a",
+              "secondary":"#000000",
+              "custom":{
+                 "a":"#23a2ee",
+                 "a:hover":"#23a2ee"
+              }
+           },
+           "globalHeader":true,
+           "logoDesktop":"/assets/styles/images/logo-univision-color.49f6b4c4450cea582fa78cbc00dee7d8.svg",
+           "logoMobile":"/assets/styles/images/tulip-color.21c63a7e99b474a951680dc9e407e566.svg",
+           "sectionTitle":"Liga MX",
+           "variant":"light",
+           "baseUrl":"/",
+           "links":{
+              "primary":[
+
+              ],
+              "secondary":[
+                 {
+                    "name":"Entretenimiento",
+                    "link":"/entretenimiento",
+                    "contents":[
+                       {
+                          "name":"Estilo de vida",
+                          "link":"/estilo-de-vida"
+                       },
+                       {
+                          "name":"Horóscopos",
+                          "link":"/entretenimiento/horoscopos"
+                       },
+                       {
+                          "name":"Radio",
+                          "link":"/musica/uforia-music/radio"
+                       },
+                       {
+                          "name":"Musica",
+                          "link":"/musica"
+                       },
+                       {
+                          "name":"Podcasts",
+                          "link":"/musica/podcast-uforia-on-demand"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Televisión",
+                    "link":"/",
+                    "contents":[
+                       {
+                          "name":"Programas",
+                          "link":"/programas/shows/shows-programas-y-noticiero"
+                       },
+                       {
+                          "name":"Shows",
+                          "link":"/shows"
+                       },
+                       {
+                          "name":"Novelas",
+                          "link":"/novelas"
+                       },
+                       {
+                          "name":"Series",
+                          "link":"/series"
+                       },
+                       {
+                          "name":"Guía de TV",
+                          "link":"/entretenimiento/longform/univision-guia-programacion-de-television-shows-novelas-y-series"
+                       },
+                       {
+                          "name":"TV en vivo",
+                          "link":"/entretenimiento/longform/senal-en-vivo-univision-tv-en-vivo"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Noticias",
+                    "link":"/noticias",
+                    "contents":[
+                       {
+                          "name":"Política",
+                          "link":"/noticias/politica"
+                       },
+                       {
+                          "name":"Inmigración",
+                          "link":"/noticias/inmigracion"
+                       },
+                       {
+                          "name":"América Latina",
+                          "link":"/noticias/america-latina"
+                       },
+                       {
+                          "name":"México",
+                          "link":"/noticias/mexico"
+                       },
+                       {
+                          "name":"Salud",
+                          "link":"/noticias/salud"
+                       },
+                       {
+                          "name":"Educación",
+                          "link":"/noticias/educacion"
+                       },
+                       {
+                          "name":"Dinero",
+                          "link":"/noticias/dinero"
+                       },
+                       {
+                          "name":"Planeta",
+                          "link":"/noticias/medio-ambiente"
+                       },
+                       {
+                          "name":"Trending",
+                          "link":"/noticias/trending"
+                       },
+                       {
+                          "name":"Detector de mentiras",
+                          "link":"/noticias/detector-de-mentiras"
+                       },
+                       {
+                          "name":"Tu Ciudad",
+                          "link":"/sitios-locales"
+                       }
+                    ]
+                 },
+                 {
+                    "name":"Deportes",
+                    "link":"/",
+                    "site":"tudn",
+                    "contents":[
+                       {
+                          "name":"Liga MX",
+                          "link":"/futbol/liga-mx",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"Mundial Rusia 2018",
+                          "link":"/mundial-rusia-2018",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"Fútbol",
+                          "link":"/futbol",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"Ligas y torneos",
+                          "link":"/futbol/ligas-y-torneos",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"NBA",
+                          "link":"/nba",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"NFL",
+                          "link":"/futbol-americano/national-football-league",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"MLS",
+                          "link":"/futbol/mls",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"UDN Radio",
+                          "link":"/univision-deportes-radio",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"Boxeo",
+                          "link":"/boxeo",
+                          "site":"tudn"
+                       },
+                       {
+                          "name":"Fórmula 1",
+                          "link":"/formula-1",
+                          "site":"tudn"
+                       }
+                    ]
+                 }
+              ]
+           }
+        }
+     },
+     "headerConf":{
+        "brandableType":null,
+        "isHamburgerMenuOpen":false,
+        "isMarketSelectorOpen":false,
+        "isSearchFieldOpen":false,
+        "userLogIn":false,
+        "activePath":"https://www.tudn.com",
+        "brandedNavLogoUri":"/",
+        "contentType":"article",
+        "links":[
+           {
+              "name":"Estadísticas",
+              "link":"/futbol/resultados-y-estadisticas-futbol",
+              "site":"tudn"
+           },
+           {
+              "name":"Liga MX",
+              "link":"/futbol/liga-mx",
+              "site":"tudn"
+           },
+           {
+              "name":"Selección MX",
+              "link":"/futbol/mexico",
+              "site":"tudn"
+           },
+           {
+              "name":"Selección USA",
+              "link":"/futbol/eeuu",
+              "site":"tudn"
+           },
+           {
+              "name":"MLS",
+              "link":"/futbol/mls",
+              "site":"tudn"
+           },
+           {
+              "name":"Fútbol Europa",
+              "link":"/futbol/europa",
+              "site":"tudn"
+           }
+        ],
+        "shouldRenderMVPD":false,
+        "subNavType":"contentSubNav",
+        "vertical":"Deportes",
+        "title":{
+           "name":"Liga MX",
+           "link":"/futbol/liga-mx",
+           "logo":null,
+           "target":"_self",
+           "site":"tudn"
+        },
+        "globalNavTop":true,
+        "brandedNavLogoName":"tudn"
+     },
+     "search":{
+        "dateFilter":null,
+        "filter":null,
+        "page":1,
+        "query":"",
+        "ready":false,
+        "results":[
+
+        ],
+        "totalPages":1,
+        "totalResults":1
+     }
+  }
+}

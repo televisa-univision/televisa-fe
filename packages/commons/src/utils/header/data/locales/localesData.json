@@ -1,0 +1,65 @@
+{
+  "/local/arizona-ktvw": {
+    "headerLogo": "https://st1.uvnimg.com/f5/de/ccc9b92c49bc833c93fc725744ed/arizona-32px.svg"
+  },
+  "/local/atlanta-wuvg": {
+    "headerLogo": "https://st1.uvnimg.com/35/b8/4e1ed5c444f284038c8e83e52629/atlanta-32px.svg"
+  },
+  "/local/austin-kakw": {
+    "headerLogo": "https://st1.uvnimg.com/09/fd/273181d44a5bb4e490258b8bdae0/austin-32px.svg"
+  },
+  "/local/bakersfield-kabe": {
+    "headerLogo": "https://st1.uvnimg.com/53/1e/408bff21487998480725786b0c5e/bakersfield-desktop.svg"
+  },
+  "/local/chicago-wgbo": {
+    "headerLogo": "https://st1.uvnimg.com/48/42/b2ddf9d24b2cace31836900fe9be/chicago-32px.svg"
+  },
+  "/local/dallas-kuvn": {
+    "headerLogo": "https://st1.uvnimg.com/eb/02/2383103f4a6c8380c9126a5322fd/dallas-32px.svg"
+  },
+  "/local/fresno-kftv": {
+    "headerLogo": "https://st1.uvnimg.com/7f/14/01cc667b42ec8d185efc5d298b84/fresno-32px.svg"
+  },
+  "/local/houston-kxln": {
+    "headerLogo": "https://st1.uvnimg.com/71/95/eff9d8074abb9afacfefe95c2b93/houston-32px.svg"
+  },
+  "/local/los-angeles-kmex": {
+    "headerLogo": "https://st1.uvnimg.com/57/c4/f47371784402bd4ddc786a1bd1bf/losangeles-32px.svg"
+  },
+  "/local/miami-wltv": {
+    "headerLogo": "https://st1.uvnimg.com/0e/52/123b694145a38afeced2f3a7379c/miami-32px.svg"
+  },
+  "/local/north-carolina-wuvc": {
+    "headerLogo": "https://st1.uvnimg.com/87/08/e2047e3544a2a1af62eaee8c74a6/northcarolina-32px.svg"
+  },
+  "/local/nueva-york-wxtv": {
+    "headerLogo": "https://st1.uvnimg.com/28/06/db7c28564fa0b4739d1a925704c2/nuevayork-32px.svg"
+  },
+  "/local/orlando-wven": {
+    "headerLogo": "https://st1.uvnimg.com/34/5f/73b7f8054d7d8844fd4dd18ebe09/orlando.svg"
+  },
+  "/local/philadelphia-wuvp": {
+    "headerLogo": "https://st1.uvnimg.com/dc/88/49980ad44c1aa6b1ddf9d36b4d34/philadelphia-32px.svg"
+  },
+  "/local/puerto-rico-wlii": {
+    "headerLogo": "https://st1.uvnimg.com/5b/0f/23bc23364e6c8d7c673919700599/puertorico-32px.svg"
+  },
+  "/local/sacramento-kuvs": {
+    "headerLogo": "https://st1.uvnimg.com/69/d6/9f4ab0f34887a2ab9ad26a7ee96b/sacramento-32px.svg"
+  },
+  "/local/san-antonio-kwex": {
+    "headerLogo": "https://st1.uvnimg.com/71/ec/2466d85c46dc9672d443becb6148/sanantonio-32px.svg"
+  },
+  "/local/san-francisco-kdtv": {
+    "headerLogo": "https://st1.uvnimg.com/99/2a/a7fd07a74639be398d4f5acda503/area-de-la-bahia-32px.svg"
+  },
+  "/local/salt-lake-city-kuth": {
+    "headerLogo": "https://st1.uvnimg.com/13/7b/2f81823c43a8aaea86b2184dcfaa/salt-lake-city-desktop.svg"
+  },
+  "/local/tampa-wvea": {
+    "headerLogo": "https://st1.uvnimg.com/46/f8/516f2cc940618852d30d8cd87afb/tampa.svg"
+  },
+  "/local/washington-dc-wfdc": {
+    "headerLogo": "https://st1.uvnimg.com/0e/a7/c6db13164116aef4492addb658aa/washington-dc-32px.svg"
+  }
+}

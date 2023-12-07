@@ -1,0 +1,14 @@
+.buttonBase{
+  letter-spacing: 0.75px;
+  @include uvs-font('c', 'bold');
+}
+
+.plain {
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  outline:none;
+  letter-spacing: initial;
+  @include uvs-font('a', 'regular');
+}

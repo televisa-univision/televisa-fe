@@ -1,0 +1,22 @@
+// Roboto light
+@include font-face($font-a-family, '#{$fonts-path}roboto-light', 300);
+
+// Roboto regular
+@include font-face($font-a-family, '#{$fonts-path}roboto-regular', 400);
+
+// Roboto Condensed regular
+@include font-face($font-c-family, '#{$fonts-path}roboto-condensed-regular', 400);
+
+// Roboto bold
+@include font-face($font-a-family, '#{$fonts-path}roboto-bold', 700);
+
+// Montserrat
+@include font-face($font-b-family, '#{$fonts-path}montserrat-black', 900);
+@include font-face($font-b-family, '#{$fonts-path}montserrat-bold', 700);
+@include font-face($font-b-family, '#{$fonts-path}montserrat-semibold', 600);
+@include font-face($font-b-family, '#{$fonts-path}montserrat-medium', 500);
+@include font-face($font-b-family, '#{$fonts-path}montserrat-regular', 400);
+
+body {
+  background-color: #262626;
+}

@@ -1,0 +1,34 @@
+.gridWrapper {
+  margin: 10px 0;
+}
+.imgWrapper{
+  img{
+    width: 100%;
+  }
+}
+.cardsWrapper {
+  margin-top: 20px;
+}
+
+.cardWrapper:not(:nth-last-child(-n+2)) {
+    margin-bottom: 16px;
+}
+
+.left {
+  justify-content: flex-start;
+}
+
+.center {
+  justify-content: center;
+}
+
+.right {
+  justify-content: flex-end;
+}
+
+.moreEpisodes {
+  margin-top: 16px;
+  @include media-breakpoint-up('md') {
+    margin-top: 40px;
+  }
+}

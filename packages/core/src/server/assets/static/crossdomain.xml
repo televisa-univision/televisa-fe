@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- http://www.univision.com/crossdomain.xml -->
+<cross-domain-policy>
+  <allow-access-from domain="*.univision.com" />
+  <allow-access-from domain="*.clearspring.com" />
+  <allow-access-from domain="*.streamtheworld.com" />
+  <allow-access-from domain="*.streamtheworld.net" />
+  <allow-access-from domain="*.myspacecdn.com"/>
+  <allow-access-from domain="*.uvnimg.com" />
+</cross-domain-policy>
+
+

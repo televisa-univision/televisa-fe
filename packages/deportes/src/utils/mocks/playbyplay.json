@@ -1,0 +1,1539 @@
+{
+  "sports-content":{
+    "xmlns:bbc":"http://www.bbc.co.uk/sport/sports-data",
+    "sports-metadata":{
+      "fixture-key":"event-commentary",
+      "fixture-name":"Event Commentary",
+      "language":"es-419",
+      "document-class":"event-summary",
+      "sports-content-codes":{
+        "sports-content-code":[
+          {
+            "code-name":"Opta",
+            "code-key":"optasports.com",
+            "code-type":"publisher"
+          },
+          {
+            "code-name":"XML Team Solutions, Inc.",
+            "code-key":"xmlteam.com",
+            "code-type":"distributor"
+          },
+          {
+            "code-name":"Soccer",
+            "code-key":"15054000",
+            "code-type":"sport"
+          },
+          {
+            "code-key":"3",
+            "code-type":"tournament"
+          },
+          {
+            "code-name":"European Championship Finals",
+            "code-key":"l.uefa.org.euro",
+            "code-type":"league",
+            "code-source":"xmlteam.com"
+          },
+          {
+            "code-key":"2015",
+            "code-type":"season"
+          },
+          {
+            "code-key":"511",
+            "code-type":"team"
+          },
+          {
+            "code-key":"497",
+            "code-type":"team"
+          },
+          {
+            "code-key":"",
+            "code-type":"team"
+          },
+          {
+            "code-key":"o.fifa.com-t.280",
+            "code-type":"team"
+          }
+        ]
+      },
+      "date-time":"2016-06-25T16:44:31+01:00",
+      "sports-property":[
+        {
+          "value":"soccer:2015:3:event-commentary:es-419:838543",
+          "formal-name":"compound-key"
+        }
+      ],
+      "doc-id":"xt.opta.commentary-esl-20160625164431-498700794-838543"
+    },
+    "xmlns":"http://iptc.org/std/SportsML/2008-04-01/",
+    "xmlns:xts":"http://www.xmlteam.com",
+    "sports-event":{
+      "team":[
+        {
+          "team-metadata":{
+            "alignment":"away",
+            "name":{
+              "first":"Poland",
+              "full":"Poland",
+              "abbreviation":"Poland",
+              "nickname":"Poland"
+            },
+            "team-key":"511"
+          },
+          "team-stats":{
+            "score":"1",
+            "event-outcome":"tie",
+            "score-opposing":"1"
+          },
+          "id":"t.511"
+        },
+        {
+          "team-metadata":{
+            "alignment":"home",
+            "name":{
+              "first":"Switzerland",
+              "full":"Switzerland",
+              "abbreviation":"Switzerland",
+              "nickname":"Switzerland"
+            },
+            "team-key":"497"
+          },
+          "team-stats":{
+            "score":"1",
+            "event-outcome":"tie",
+            "score-opposing":"1"
+          },
+          "id":"t.497"
+        }
+      ],
+      "event-metadata":{
+        "event-status-note":"Result",
+        "event-key":"838543",
+        "event-outcome-type":"regular",
+        "event-status":"post-event",
+        "event-name":"Switzerland v Poland",
+        "event-metadata-soccer":{
+          "week":"4",
+          "minutesElapsed":"128"
+        },
+        "start-date-time":"2016-06-25T14:00:00+01:00",
+        "sports-property":[
+          {
+            "formal-name":"neulion-match-id",
+            "value":"257685"
+          },
+          {
+            "formal-name":"neulion-season-id",
+            "value":"2015"
+          },
+          {
+            "formal-name":"livestream-enabled",
+            "value":false
+          },
+          {
+            "formal-name":"featured-event",
+            "value":null
+          },
+          {
+            "formal-name":"league-key",
+            "value":"3"
+          },
+          {
+            "formal-name":"match-uid",
+            "value":"00000154-8a3e-dcda-a55e-da3f231a0000"
+          },
+          {
+            "formal-name":"television-coverage",
+            "value":null
+          },
+          {
+            "formal-name":"adobe-network-id",
+            "value":null
+          },
+          {
+            "formal-name":"livestream-slate-enabled",
+            "value":null
+          },
+          {
+            "formal-name":"tiered-primary-network-id",
+            "value":null
+          },
+          {
+            "formal-name":"tiered-primary-network-title",
+            "value":null
+          },
+          {
+            "formal-name":"tiered-secondary-network-ids",
+            "value":null
+          },
+          {
+            "formal-name":"tiered-secondary-network-title",
+            "value":null
+          },
+          {
+            "formal-name":"neulion-ap",
+            "value":0
+          },
+          {
+            "formal-name":"neulion-gs",
+            "value":-1
+          },
+          {
+            "formal-name":"tve-authenticated",
+            "value":false
+          },
+          {
+            "formal-name":"kiswe-available",
+            "value":false
+          },
+          {
+            "formal-name":"opta-detail-id",
+            "value":"1"
+          },
+          {
+            "formal-name":"opta-timing-id",
+            "value":"1"
+          },
+          {
+            "formal-name":"opta-accuracy-id",
+            "value":"1"
+          },
+          {
+            "formal-name":"supports-alerts",
+            "value":"true"
+          },
+          {
+            "formal-name":"permalink",
+            "value":"https://www.univision.com/deportes/futbol/eurocopa-2016/suiza-vs-polonia-eurocopa-2016-2016-06-25"
+          },
+          {
+            "formal-name":"highlight",
+            "value":null
+          },
+          {
+            "formal-name":"clip",
+            "value":null
+          }
+        ],
+        "sports-content-codes":{
+          "sports-content-code":[
+            {
+              "code-type":"tournament",
+              "code-key":"3",
+              "code-name":"Eurocopa 2016"
+            },
+            {
+              "code-type":"league",
+              "code-key":"l.uefa.org.euro",
+              "code-name":"Eurocopa 2016"
+            },
+            {
+              "code-type":"tournament-round-type",
+              "code-key":"Octavos de final",
+              "code-name":"Octavos de final",
+              "code-source":"optasports.com"
+            },
+            {
+              "code-type":"tournament-round-number",
+              "code-key":"2",
+              "code-name":"Octavos de final",
+              "code-source":"optasports.com"
+            }
+          ]
+        }
+      },
+      "event-actions":{
+        "event-actions-soccer":{
+          "action-soccer-substitution":[
+            {
+              "period-time":"3",
+              "id":"a.1454013035",
+              "minutesElapsed":"104",
+              "comment":"Cambio en Poland, ingresa al campo Slawomir Peszko sustituyendo a Kamil Grosicki."
+            },
+            {
+              "period-time":"3",
+              "id":"a.2116451598",
+              "minutesElapsed":"101",
+              "comment":"Cambio en Poland, ingresa al campo Tomasz Jodlowiec sustituyendo a Krzysztof Maczynski."
+            },
+            {
+              "period-time":"2",
+              "id":"a.1163412965",
+              "minutesElapsed":"77",
+              "comment":"Cambio en Switzerland, ingresa al campo Gelson Fernandes sustituyendo a Valon Behrami debido a una lesión."
+            },
+            {
+              "period-time":"2",
+              "id":"a.1336455335",
+              "minutesElapsed":"70",
+              "comment":"Cambio en Switzerland, ingresa al campo Eren Derdiyok sustituyendo a Admir Mehmedi."
+            },
+            {
+              "period-time":"2",
+              "id":"a.1554095035",
+              "minutesElapsed":"58",
+              "comment":"Cambio en Switzerland, ingresa al campo Breel Embolo sustituyendo a Blerim Dzemaili."
+            }
+          ],
+          "action-soccer-score":[
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.933403402",
+              "minutesElapsed":"128",
+              "comment":"¡Goooool!  Switzerland 1(4), Poland 1(5). Grzegorz Krychowiak (Poland) convirtió el penalti  Disparo con la derecha al ángulo superior izquierdo."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.673383467",
+              "minutesElapsed":"127",
+              "comment":"¡Goooool!  Switzerland 1(4), Poland 1(4). Ricardo Rodríguez (Switzerland) convirtió el penalti  zurdazo disparo rastrero, junto al palo izquierdo."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.177635124",
+              "minutesElapsed":"126",
+              "comment":"¡Goooool!  Switzerland 1(3), Poland 1(4). Jakub Blaszczykowski (Poland) convirtió el penalti  Disparo con la derecha por el lado derecho de la portería."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.739816340",
+              "minutesElapsed":"126",
+              "comment":"¡Goooool!  Switzerland 1(3), Poland 1(3). Fabian Schär (Switzerland) convirtió el penalti  Disparo con la derecha por el centro del arco."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.358587940",
+              "minutesElapsed":"125",
+              "comment":"¡Goooool!  Switzerland 1(2), Poland 1(3). Kamil Glik (Poland) convirtió el penalti  Disparo con la derecha disparo rastrero, junto al palo izquierdo."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.590124345",
+              "minutesElapsed":"124",
+              "comment":"¡Goooool!  Switzerland 1(2), Poland 1(2). Xherdan Shaqiri (Switzerland) convirtió el penalti  zurdazo por el lado derecho de la portería."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.1908159448",
+              "minutesElapsed":"124",
+              "comment":"¡Goooool!  Switzerland 1(1), Poland 1(2). Arkadiusz Milik (Poland) convirtió el penalti  zurdazo por arriba."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.43939712",
+              "minutesElapsed":"122",
+              "comment":"¡Goooool!  Switzerland 1(1), Poland 1(1). Robert Lewandowski (Poland) convirtió el penalti  Disparo con la derecha por arriba."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"4",
+              "id":"a.261368838",
+              "minutesElapsed":"122",
+              "comment":"¡Goooool!  Switzerland 1(1), Poland 1. Stephan Lichtsteiner (Switzerland) convirtió el penalti  Disparo con la derecha al centro de la portería."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"2",
+              "id":"a.920061874",
+              "minutesElapsed":"82",
+              "comment":"¡Gooooool!  Switzerland 1, Poland 1. Xherdan Shaqiri (Switzerland) zurdazo desde el centro del área por el lado derecho de la portería. Asistencia de Eren Derdiyok."
+            },
+            {
+              "score-attempt-type":"regular",
+              "period-time":"1",
+              "id":"a.589842108",
+              "minutesElapsed":"39",
+              "comment":"¡Gooooool!  Switzerland 0, Poland 1. Jakub Blaszczykowski (Poland) Disparo con la derecha desde el centro del área al centro de la portería. Asistencia de Kamil Grosicki tras un contragolpe."
+            }
+          ],
+          "action-soccer-penalty":[
+            {
+              "period-time":"3",
+              "penalty-level":"yellow-card",
+              "id":"a.5530782",
+              "minutesElapsed":"117",
+              "comment":"Johan Djourou (Switzerland) ha sido amonestado con tarjeta amarilla por juego peligroso."
+            },
+            {
+              "period-time":"3",
+              "penalty-level":"yellow-card",
+              "id":"a.908872259",
+              "minutesElapsed":"111",
+              "comment":"Michal Pazdan (Poland) ha sido amonestado con tarjeta amarilla por juego peligroso."
+            },
+            {
+              "period-time":"2",
+              "penalty-level":"yellow-card",
+              "id":"a.1002484773",
+              "minutesElapsed":"58",
+              "comment":"Artur Jedrzejczyk (Poland) ha sido amonestado con tarjeta amarilla por juego peligroso."
+            },
+            {
+              "period-time":"2",
+              "penalty-level":"yellow-card",
+              "id":"a.1621396594",
+              "minutesElapsed":"55",
+              "comment":"Fabian Schär (Switzerland) ha sido amonestado con tarjeta amarilla por juego peligroso."
+            }
+          ],
+          "action-soccer-play":[
+            {
+              "play-type":"game-end",
+              "period-time":"4",
+              "id":"a.498700794",
+              "minutesElapsed":"128",
+              "comment":"Final del partido' Switzerland 1(4), Poland 1(5)."
+            },
+            {
+              "play-type":"period-end",
+              "period-time":"4",
+              "id":"a.20489001",
+              "minutesElapsed":"128",
+              "comment":"Final Penaltis' Switzerland 1(4), Poland 1(5)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"shootout",
+              "score-attempt-result":"missed",
+              "period-time":"4",
+              "id":"a.1384763116",
+              "minutesElapsed":"123",
+              "comment":"¡Penalti fallado! Disparo fuera de Granit Xhaka (Switzerland) zurdazo muy cerca del palo izquierdo pero sale ligeramente desviado."
+            },
+            {
+              "play-type":"period-start",
+              "period-time":"4",
+              "id":"a.748565661",
+              "minutesElapsed":"121",
+              "comment":"Empieza Penaltis Switzerland 1, Poland 1."
+            },
+            {
+              "play-type":"period-end",
+              "period-time":"3",
+              "id":"a.1393344846",
+              "minutesElapsed":"121",
+              "comment":"Final tiempo de descuento de la segunda parte' Switzerland 1, Poland 1."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.1510627255",
+              "minutesElapsed":"117",
+              "comment":"Falta de Johan Djourou (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.1140368168",
+              "minutesElapsed":"117",
+              "comment":"Slawomir Peszko (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"3",
+              "id":"a.1564527516",
+              "minutesElapsed":"117",
+              "comment":"Remate rechazado de Ricardo Rodríguez (Switzerland),  zurdazo desde el lado izquierdo dentro del área. Asistencia de Granit Xhaka."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"3",
+              "id":"a.1878647736",
+              "minutesElapsed":"116",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Slawomir Peszko."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"3",
+              "id":"a.115407971",
+              "minutesElapsed":"114",
+              "comment":"disparo que sale desviado de Eren Derdiyok (Switzerland) Disparo con la derecha desde fuera del área que se le va demasiado alto de tiro libre directo."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.271666397",
+              "minutesElapsed":"113",
+              "comment":"Granit Xhaka (Switzerland) ha recibido una falta en campo contrario."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.148882740",
+              "minutesElapsed":"113",
+              "comment":"Falta de Slawomir Peszko (Poland)."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"3",
+              "id":"a.799266540",
+              "minutesElapsed":"113",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Michal Pazdan."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"3",
+              "id":"a.1430738523",
+              "minutesElapsed":"113",
+              "comment":"Tiro atajado junto al lado derecho de la portería. Eren Derdiyok (Switzerland) disparo de cabeza desde el centro del área. Asistencia de Xherdan Shaqiri."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.227635825",
+              "minutesElapsed":"111",
+              "comment":"Eren Derdiyok (Switzerland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.1250167275",
+              "minutesElapsed":"111",
+              "comment":"Falta de Michal Pazdan (Poland)."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.771776447",
+              "minutesElapsed":"111",
+              "comment":"Falta de Xherdan Shaqiri (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.1932225119",
+              "minutesElapsed":"111",
+              "comment":"Robert Lewandowski (Poland) ha recibido una falta en la banda izquierda."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.251798607",
+              "minutesElapsed":"111",
+              "comment":"Falta de Gelson Fernandes (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.1607202068",
+              "minutesElapsed":"111",
+              "comment":"Robert Lewandowski (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"3",
+              "id":"a.382491560",
+              "minutesElapsed":"109",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Lukasz Piszczek."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"3",
+              "id":"a.24110301",
+              "minutesElapsed":"109",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Grzegorz Krychowiak."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"3",
+              "id":"a.1790839249",
+              "minutesElapsed":"109",
+              "comment":"disparo que sale desviado de Johan Djourou (Switzerland) disparo de cabeza desde el centro del área el balón se pierde por el lado derecho de la portería. Asistencia de Ricardo Rodríguez con un centro al área tras un saque de esquina."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"3",
+              "id":"a.933952705",
+              "minutesElapsed":"108",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Kamil Glik."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"3",
+              "id":"a.1657855632",
+              "minutesElapsed":"108",
+              "comment":"disparo que sale desviado de Fabian Schär (Switzerland) Disparo con la derecha desde fuera del área que se va alto y desviado por la derecha. Asistencia de Gelson Fernandes."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.135238301",
+              "minutesElapsed":"106",
+              "comment":"Falta de Gelson Fernandes (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.1199019466",
+              "minutesElapsed":"106",
+              "comment":"Slawomir Peszko (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"3",
+              "id":"a.164140540",
+              "minutesElapsed":"106",
+              "comment":"Remate rechazado de Haris Seferovic (Switzerland),  zurdazo desde el lado izquierdo dentro del área. Asistencia de Ricardo Rodríguez."
+            },
+            {
+              "play-type":"period-start",
+              "period-time":"3",
+              "id":"a.146725004",
+              "minutesElapsed":"106",
+              "comment":"Empieza tiempo de descuento de la segunda parte Switzerland 1, Poland 1."
+            },
+            {
+              "play-type":"period-end",
+              "period-time":"3",
+              "id":"a.1253585199",
+              "minutesElapsed":"106",
+              "comment":"Final tiempo de descuento del primer tiempo' Switzerland 1, Poland 1."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.820568263",
+              "minutesElapsed":"105",
+              "comment":"Stephan Lichtsteiner (Switzerland) ha recibido una falta en la banda derecha."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.1189465563",
+              "minutesElapsed":"105",
+              "comment":"Falta de Slawomir Peszko (Poland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.1677213479",
+              "minutesElapsed":"104",
+              "comment":"Eren Derdiyok (Switzerland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.1478153166",
+              "minutesElapsed":"104",
+              "comment":"Falta de Michal Pazdan (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"3",
+              "id":"a.876151769",
+              "minutesElapsed":"97",
+              "comment":"Remate rechazado de Kamil Grosicki (Poland),  Disparo con la derecha desde fuera del área. Asistencia de Artur Jedrzejczyk."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.581354225",
+              "minutesElapsed":"96",
+              "comment":"Falta de Breel Embolo (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.365492733",
+              "minutesElapsed":"96",
+              "comment":"Grzegorz Krychowiak (Poland) ha recibido una falta en campo contrario."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"3",
+              "id":"a.531551106",
+              "minutesElapsed":"96",
+              "comment":"disparo que sale desviado de Xherdan Shaqiri (Switzerland) zurdazo desde el lado izquierdo dentro del área que se va alto y por la izquierda. Asistencia de Ricardo Rodríguez."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"3",
+              "id":"a.1976890075",
+              "minutesElapsed":"92",
+              "comment":"Remate rechazado de Granit Xhaka (Switzerland),  zurdazo desde fuera del área."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"3",
+              "id":"a.614022120",
+              "minutesElapsed":"91",
+              "comment":"Eren Derdiyok (Switzerland) ha recibido una falta en la banda izquierda."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"3",
+              "id":"a.1015828763",
+              "minutesElapsed":"91",
+              "comment":"Falta de Kamil Glik (Poland)."
+            },
+            {
+              "play-type":"period-start",
+              "period-time":"3",
+              "id":"a.1066092727",
+              "minutesElapsed":"91",
+              "comment":"Empieza tiempo de descuento del primer tiempo Switzerland 1, Poland 1."
+            },
+            {
+              "play-type":"period-end",
+              "period-time":"2",
+              "id":"a.1858261780",
+              "minutesElapsed":"95",
+              "comment":"Final segunda parte' Switzerland 1, Poland 1."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.1102884569",
+              "minutesElapsed":"94",
+              "comment":"Falta de Breel Embolo (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.29717581",
+              "minutesElapsed":"94",
+              "comment":"Grzegorz Krychowiak (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"2",
+              "id":"a.698491808",
+              "minutesElapsed":"93",
+              "comment":"disparo que sale desviado de Arkadiusz Milik (Poland) zurdazo desde fuera del área que se va alto y por la izquierda de tiro libre directo."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.1679239201",
+              "minutesElapsed":"92",
+              "comment":"Falta de Johan Djourou (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.307640793",
+              "minutesElapsed":"92",
+              "comment":"Robert Lewandowski (Poland) ha recibido una falta en campo contrario."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"2",
+              "id":"a.157979729",
+              "minutesElapsed":"90",
+              "comment":"Remate rechazado de Breel Embolo (Switzerland),  Disparo con la derecha desde el centro del área. Asistencia de Haris Seferovic con un centro al área."
+            },
+            {
+              "play-type":"offside",
+              "period-time":"2",
+              "id":"a.2098460732",
+              "minutesElapsed":"89",
+              "comment":"Fuera de lugar, Poland. Krzysztof Maczynski intentó un pase en profundidad pero Kamil Grosicki estaba en posición adelantada."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"2",
+              "id":"a.551299559",
+              "minutesElapsed":"88",
+              "comment":"disparo que sale desviado de Michal Pazdan (Poland) zurdazo desde fuera del área que se le va demasiado alto tras un saque de esquina."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"2",
+              "id":"a.1447123108",
+              "minutesElapsed":"88",
+              "comment":"Remate rechazado de Kamil Glik (Poland),  Disparo con la derecha desde el centro del área. Asistencia de Grzegorz Krychowiak con un pase de cabeza."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"2",
+              "id":"a.250409789",
+              "minutesElapsed":"88",
+              "comment":"Saque de esquina,  Poland. Saque de esquina cometido por Stephan Lichtsteiner."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"2",
+              "id":"a.711691752",
+              "minutesElapsed":"81",
+              "comment":"Remate rechazado de Ricardo Rodríguez (Switzerland),  zurdazo desde fuera del área."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"2",
+              "id":"a.1976983778",
+              "minutesElapsed":"81",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Arkadiusz Milik."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"2",
+              "id":"a.963340321",
+              "minutesElapsed":"80",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Jakub Blaszczykowski."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"2",
+              "id":"a.713554246",
+              "minutesElapsed":"79",
+              "comment":"Tiro atajado junto al lado derecho de la portería. Ricardo Rodríguez (Switzerland) Disparo con la derecha desde fuera del área. Asistencia de Johan Djourou."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"off-post",
+              "period-time":"2",
+              "id":"a.846570423",
+              "minutesElapsed":"78",
+              "comment":"Haris Seferovic (Switzerland) remata al travesaño,  zurdazo desde el lado derecho dentro del área tras el cobro de una falta."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"2",
+              "id":"a.2025454717",
+              "minutesElapsed":"78",
+              "comment":"Remate rechazado de Johan Djourou (Switzerland),  Disparo con la derecha desde el centro del área. Asistencia de Granit Xhaka."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.904671761",
+              "minutesElapsed":"78",
+              "comment":"Breel Embolo (Switzerland) ha recibido una falta en campo contrario."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.28795893",
+              "minutesElapsed":"78",
+              "comment":"Falta de Jakub Blaszczykowski (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"2",
+              "id":"a.1787682890",
+              "minutesElapsed":"78",
+              "comment":"Remate rechazado de Fabian Schär (Switzerland),  Disparo con la derecha desde fuera del área. Asistencia de Gelson Fernandes."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"2",
+              "id":"a.1848525735",
+              "minutesElapsed":"76",
+              "comment":"disparo que sale desviado de Robert Lewandowski (Poland) Disparo con la derecha desde la banda izquierda que se pierde por la izquierda. Asistencia de Arkadiusz Milik."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.1523877683",
+              "minutesElapsed":"76",
+              "comment":"Falta de Granit Xhaka (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.275485464",
+              "minutesElapsed":"76",
+              "comment":"Krzysztof Maczynski (Poland) ha recibido una falta en la banda derecha."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"2",
+              "id":"a.1819044107",
+              "minutesElapsed":"74",
+              "comment":"disparo que sale desviado de Fabian Schär (Switzerland) disparo de cabeza desde el centro del área que se pierde por la izquierda. Asistencia de Xherdan Shaqiri con un centro al área tras un saque de esquina."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"2",
+              "id":"a.1959167323",
+              "minutesElapsed":"73",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Lukasz Fabianski."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"2",
+              "id":"a.1985486310",
+              "minutesElapsed":"73",
+              "comment":"Tiro atajado al ángulo superior derecho. Ricardo Rodríguez (Switzerland) zurdazo desde fuera del área."
+            },
+            {
+              "play-type":"delayed-end",
+              "period-time":"2",
+              "id":"a.1008907209",
+              "minutesElapsed":"73",
+              "comment":"Se reanuda el partido."
+            },
+            {
+              "play-type":"delayed-start",
+              "period-time":"2",
+              "id":"a.43052178",
+              "minutesElapsed":"72",
+              "comment":"El juego está detenido  debido a una lesión de Eren Derdiyok (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.1271136314",
+              "minutesElapsed":"72",
+              "comment":"Stephan Lichtsteiner (Switzerland) ha recibido una falta en campo contrario."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.546297754",
+              "minutesElapsed":"72",
+              "comment":"Falta de Krzysztof Maczynski (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"2",
+              "id":"a.1524303864",
+              "minutesElapsed":"71",
+              "comment":"disparo que sale desviado de Lukasz Piszczek (Poland) zurdazo desde fuera del área que se le va demasiado alto. Asistencia de Jakub Blaszczykowski."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.500929960",
+              "minutesElapsed":"70",
+              "comment":"Falta de Valon Behrami (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.1922009522",
+              "minutesElapsed":"70",
+              "comment":"Jakub Blaszczykowski (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"delayed-end",
+              "period-time":"2",
+              "id":"a.1275085023",
+              "minutesElapsed":"68",
+              "comment":"Se reanuda el partido."
+            },
+            {
+              "play-type":"delayed-start",
+              "period-time":"2",
+              "id":"a.1683615000",
+              "minutesElapsed":"68",
+              "comment":"El juego está detenido  debido a una lesión de Arkadiusz Milik (Poland)."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"2",
+              "id":"a.318839329",
+              "minutesElapsed":"67",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Artur Jedrzejczyk."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.413202634",
+              "minutesElapsed":"65",
+              "comment":"Falta de Breel Embolo (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.316790397",
+              "minutesElapsed":"65",
+              "comment":"Lukasz Fabianski (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.580717594",
+              "minutesElapsed":"62",
+              "comment":"Falta de Xherdan Shaqiri (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.886469281",
+              "minutesElapsed":"62",
+              "comment":"Artur Jedrzejczyk (Poland) ha recibido una falta en la banda izquierda."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.401169186",
+              "minutesElapsed":"61",
+              "comment":"Falta de Breel Embolo (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.941315228",
+              "minutesElapsed":"61",
+              "comment":"Robert Lewandowski (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"offside",
+              "period-time":"2",
+              "id":"a.1055976177",
+              "minutesElapsed":"60",
+              "comment":"Fuera de lugar, Switzerland. Admir Mehmedi intentó un pase en profundidad pero Haris Seferovic estaba en posición adelantada."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.1512964382",
+              "minutesElapsed":"58",
+              "comment":"Stephan Lichtsteiner (Switzerland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.1387410315",
+              "minutesElapsed":"58",
+              "comment":"Falta de Artur Jedrzejczyk (Poland)."
+            },
+            {
+              "play-type":"delayed-end",
+              "period-time":"2",
+              "id":"a.734973017",
+              "minutesElapsed":"57",
+              "comment":"Se reanuda el partido."
+            },
+            {
+              "play-type":"delayed-start",
+              "period-time":"2",
+              "id":"a.1023914985",
+              "minutesElapsed":"56",
+              "comment":"El juego está detenido  debido a una lesión de Robert Lewandowski (Poland)."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.1095738753",
+              "minutesElapsed":"55",
+              "comment":"Falta de Fabian Schär (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.1967832619",
+              "minutesElapsed":"55",
+              "comment":"Robert Lewandowski (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"2",
+              "id":"a.1531317188",
+              "minutesElapsed":"53",
+              "comment":"Saque de esquina,  Poland. Saque de esquina cometido por Yann Sommer."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"2",
+              "id":"a.1133601681",
+              "minutesElapsed":"53",
+              "comment":"Tiro atajado al ángulo superior derecho. Jakub Blaszczykowski (Poland) zurdazo desde fuera del área."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.1012412539",
+              "minutesElapsed":"52",
+              "comment":"Ricardo Rodríguez (Switzerland) ha recibido una falta en la banda izquierda."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.1902354320",
+              "minutesElapsed":"52",
+              "comment":"Falta de Jakub Blaszczykowski (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"2",
+              "id":"a.636046037",
+              "minutesElapsed":"51",
+              "comment":"Tiro atajado junto al lado derecho de la portería. Xherdan Shaqiri (Switzerland) zurdazo desde fuera del área. Asistencia de Admir Mehmedi."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"2",
+              "id":"a.1883854575",
+              "minutesElapsed":"50",
+              "comment":"Tiro atajado Por arriba en el centro del arco. Robert Lewandowski (Poland) Disparo con la derecha desde el centro del área. Asistencia de Kamil Grosicki."
+            },
+            {
+              "play-type":"offside",
+              "period-time":"2",
+              "id":"a.1010665796",
+              "minutesElapsed":"49",
+              "comment":"Fuera de lugar, Switzerland. Ricardo Rodríguez intentó un pase en profundidad pero Haris Seferovic estaba en posición adelantada."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"2",
+              "id":"a.310028335",
+              "minutesElapsed":"47",
+              "comment":"Ricardo Rodríguez (Switzerland) ha recibido una falta en la banda izquierda."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"2",
+              "id":"a.1555746859",
+              "minutesElapsed":"47",
+              "comment":"Falta de Jakub Blaszczykowski (Poland)."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"2",
+              "id":"a.1734123586",
+              "minutesElapsed":"46",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Jakub Blaszczykowski."
+            },
+            {
+              "play-type":"period-start",
+              "period-time":"2",
+              "id":"a.869754207",
+              "minutesElapsed":"46",
+              "comment":"Empieza segunda parte Switzerland 0, Poland 1."
+            },
+            {
+              "play-type":"period-end",
+              "period-time":"1",
+              "id":"a.1935883032",
+              "minutesElapsed":"48",
+              "comment":"Final primera parte' Switzerland 0, Poland 1."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.198104571",
+              "minutesElapsed":"47",
+              "comment":"disparo que sale desviado de Kamil Grosicki (Poland) Disparo con la derecha desde el centro del área el balón se pierde por el lado derecho de la portería tras el cobro de una falta."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"1",
+              "id":"a.965530334",
+              "minutesElapsed":"46",
+              "comment":"Falta de Blerim Dzemaili (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"1",
+              "id":"a.2080167373",
+              "minutesElapsed":"46",
+              "comment":"Grzegorz Krychowiak (Poland) ha recibido una falta en la banda izquierda."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.921113170",
+              "minutesElapsed":"45",
+              "comment":"disparo que sale desviado de Krzysztof Maczynski (Poland) Disparo con la derecha desde fuera del área que se pierde por la izquierda. Asistencia de Arkadiusz Milik."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"1",
+              "id":"a.1041302692",
+              "minutesElapsed":"43",
+              "comment":"Falta de Valon Behrami (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"1",
+              "id":"a.1285012823",
+              "minutesElapsed":"43",
+              "comment":"Robert Lewandowski (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"1",
+              "id":"a.1960803502",
+              "minutesElapsed":"42",
+              "comment":"Remate rechazado de Admir Mehmedi (Switzerland),  Disparo con la derecha desde fuera del área. Asistencia de Haris Seferovic."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"1",
+              "id":"a.126962601",
+              "minutesElapsed":"42",
+              "comment":"Remate rechazado de Valon Behrami (Switzerland),  Disparo con la derecha desde fuera del área."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"1",
+              "id":"a.1043105783",
+              "minutesElapsed":"41",
+              "comment":"Falta de Valon Behrami (Switzerland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"1",
+              "id":"a.763264476",
+              "minutesElapsed":"41",
+              "comment":"Arkadiusz Milik (Poland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"1",
+              "id":"a.1950544268",
+              "minutesElapsed":"39",
+              "comment":"Tiro atajado al ángulo superior derecho. Johan Djourou (Switzerland) disparo de cabeza a quemarropa desde el lado izquierdo."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"1",
+              "id":"a.2093079816",
+              "minutesElapsed":"38",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Lukasz Fabianski."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"1",
+              "id":"a.1129493310",
+              "minutesElapsed":"38",
+              "comment":"Tiro atajado Por arriba en el centro del arco. Blerim Dzemaili (Switzerland) zurdazo desde fuera del área. Asistencia de Haris Seferovic."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.1776783796",
+              "minutesElapsed":"36",
+              "comment":"disparo que sale desviado de Admir Mehmedi (Switzerland) disparo de cabeza desde el lado derecho dentro del área que se va alto y desviado por la derecha. Asistencia de Stephan Lichtsteiner con un centro al área."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"1",
+              "id":"a.1105499527",
+              "minutesElapsed":"35",
+              "comment":"Tiro atajado raso al centro del arco. Fabian Schär (Switzerland) disparo de cabeza desde el centro del área. Asistencia de Ricardo Rodríguez con un centro al área."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"1",
+              "id":"a.341616516",
+              "minutesElapsed":"35",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Kamil Glik."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"1",
+              "id":"a.1653998849",
+              "minutesElapsed":"34",
+              "comment":"Valon Behrami (Switzerland) ha recibido una falta en campo contrario."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"1",
+              "id":"a.2092899214",
+              "minutesElapsed":"34",
+              "comment":"Falta de Arkadiusz Milik (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.986394054",
+              "minutesElapsed":"33",
+              "comment":"disparo que sale desviado de Arkadiusz Milik (Poland) zurdazo desde el lado izquierdo dentro del área que se le va demasiado alto. Asistencia de Jakub Blaszczykowski con un centro al área."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"1",
+              "id":"a.1729108898",
+              "minutesElapsed":"32",
+              "comment":"Mano de Artur Jedrzejczyk (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.1703054585",
+              "minutesElapsed":"31",
+              "comment":"disparo que sale desviado de Kamil Grosicki (Poland) Disparo con la derecha desde fuera del área que se va alto y desviado por la derecha. Asistencia de Robert Lewandowski."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.1918639251",
+              "minutesElapsed":"29",
+              "comment":"disparo que sale desviado de Grzegorz Krychowiak (Poland) disparo de cabeza desde el centro del área que se va alto y desviado por la derecha. Asistencia de Arkadiusz Milik con un centro al área tras un saque de esquina."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"1",
+              "id":"a.2034662758",
+              "minutesElapsed":"29",
+              "comment":"Saque de esquina,  Poland. Saque de esquina cometido por Valon Behrami."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.990266343",
+              "minutesElapsed":"25",
+              "comment":"disparo que sale desviado de Ricardo Rodríguez (Switzerland) Disparo con la derecha desde fuera del área el balón se pierde por el lado derecho de la portería. Asistencia de Granit Xhaka."
+            },
+            {
+              "play-type":"delayed-end",
+              "period-time":"1",
+              "id":"a.1045091972",
+              "minutesElapsed":"25",
+              "comment":"Se reanuda el partido."
+            },
+            {
+              "play-type":"delayed-start",
+              "period-time":"1",
+              "id":"a.397251002",
+              "minutesElapsed":"25",
+              "comment":"El juego está detenido  debido a una lesión de Jakub Blaszczykowski (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.1924049525",
+              "minutesElapsed":"23",
+              "comment":"disparo que sale desviado de Blerim Dzemaili (Switzerland) disparo de cabeza desde el centro del área que se le va demasiado alto. Asistencia de Ricardo Rodríguez con un centro al área tras un saque de esquina."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"1",
+              "id":"a.1450891673",
+              "minutesElapsed":"22",
+              "comment":"Saque de esquina,  Switzerland. Saque de esquina cometido por Kamil Glik."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"1",
+              "id":"a.661153344",
+              "minutesElapsed":"22",
+              "comment":"Remate rechazado de Ricardo Rodríguez (Switzerland),  zurdazo desde fuera del área."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"1",
+              "id":"a.1150425445",
+              "minutesElapsed":"21",
+              "comment":"Falta de Kamil Glik (Poland)."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"1",
+              "id":"a.1673202474",
+              "minutesElapsed":"21",
+              "comment":"Blerim Dzemaili (Switzerland) ha recibido una falta en campo contrario."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.2061621363",
+              "minutesElapsed":"20",
+              "comment":"disparo que sale desviado de Krzysztof Maczynski (Poland) Disparo con la derecha desde fuera del área que se pierde por la izquierda tras un saque de esquina."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"1",
+              "id":"a.1615968738",
+              "minutesElapsed":"19",
+              "comment":"Saque de esquina,  Poland. Saque de esquina cometido por Haris Seferovic."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"blocked",
+              "period-time":"1",
+              "id":"a.772778083",
+              "minutesElapsed":"19",
+              "comment":"Remate rechazado de Arkadiusz Milik (Poland),  zurdazo desde el lado derecho dentro del área. Asistencia de Jakub Blaszczykowski."
+            },
+            {
+              "play-type":"corner",
+              "score-attempt-type":"corner-kick",
+              "period-time":"1",
+              "id":"a.1678427595",
+              "minutesElapsed":"18",
+              "comment":"Saque de esquina,  Poland. Saque de esquina cometido por Ricardo Rodríguez."
+            },
+            {
+              "play-type":"free-kick",
+              "period-time":"1",
+              "id":"a.175764310",
+              "minutesElapsed":"14",
+              "comment":"Valon Behrami (Switzerland) ha recibido una falta en la zona defensiva."
+            },
+            {
+              "play-type":"foul",
+              "period-time":"1",
+              "id":"a.1679366726",
+              "minutesElapsed":"14",
+              "comment":"Falta de Robert Lewandowski (Poland)."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.897393850",
+              "minutesElapsed":"13",
+              "comment":"disparo que sale desviado de Robert Lewandowski (Poland) Disparo con la derecha desde fuera del área que se pierde por la izquierda. Asistencia de Jakub Blaszczykowski."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.1187925074",
+              "minutesElapsed":"10",
+              "comment":"disparo que sale desviado de Blerim Dzemaili (Switzerland) zurdazo desde el lado izquierdo dentro del área muy cerca del palo izquierdo pero sale ligeramente desviado. Asistencia de Xherdan Shaqiri con un centro al área."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"1",
+              "id":"a.1938085298",
+              "minutesElapsed":"6",
+              "comment":"Tiro atajado raso al centro del arco. Arkadiusz Milik (Poland) disparo de cabeza desde el centro del área. Asistencia de Kamil Grosicki."
+            },
+            {
+              "play-type":"offside",
+              "period-time":"1",
+              "id":"a.1882150302",
+              "minutesElapsed":"3",
+              "comment":"Fuera de lugar, Poland. Arkadiusz Milik intentó un pase en profundidad pero Robert Lewandowski estaba en posición adelantada."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"missed",
+              "period-time":"1",
+              "id":"a.1681371705",
+              "minutesElapsed":"1",
+              "comment":"disparo que sale desviado de Arkadiusz Milik (Poland) zurdazo desde fuera del área que se le va demasiado alto."
+            },
+            {
+              "play-type":"shot",
+              "score-attempt-type":"regular",
+              "score-attempt-result":"saved",
+              "period-time":"1",
+              "id":"a.415230371",
+              "minutesElapsed":"1",
+              "comment":"Tiro atajado raso al centro del arco. Robert Lewandowski (Poland) Disparo con la derecha desde el centro del área."
+            },
+            {
+              "play-type":"game-start",
+              "period-time":"1",
+              "id":"a.551204676",
+              "minutesElapsed":"0",
+              "comment":"Empieza primera parte."
+            },
+            {
+              "play-type":"line-up-announcement",
+              "id":"a.299650422",
+              "comment":"Alineaciones confirmadas por parte de ambos equipos. Los protagonistas saltan al campo para iniciar los ejercicios de calentamiento"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,224 @@
+@use 'sass:math';
+
+// Use this to turn an element into a table with variable width/height
+@mixin display-table($size: auto) {
+  width: $size;
+  height: $size;
+  display: table;
+}
+
+// Use this in conjuntion with @mixin display-table to center child elements
+@mixin display-centered-cell($size: auto) {
+  width: $size;
+  height: $size;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+// Another (simpler) way to center child element in parent container
+// ASSUMPTION: parent container has position:relative CSS property
+@mixin center-position() {
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+}
+
+// Remove units from a number
+@function strip-unit($number) {
+  @if type-of($number) == 'number' and not unitless($number) {
+    @return math.div($number, ($number * 0 + 1));
+  }
+
+  @return $number;
+}
+
+@mixin responsive-font($min, $max: false, $start-breakpoint: false, $end-breakpoint: false, $precise: false) {
+  // We set the minimum font value and strip the unit value
+  $min-unitless: strip-unit($min);
+  // If max value is not defined, we set the min value as the default value
+  $max-unitless: if($max, strip-unit($max), $min-unitless);
+  // We set the starting breakpoint, if not set it will use the min value
+  // other than 0 from bootstrap
+  $_starting-breakpoint: if($start-breakpoint, $start-breakpoint, "xs");
+  // Then we set end breakpoint, if not set it will use the max value from bootstrap
+  $_end-breakpoint: if($end-breakpoint, $end-breakpoint, "xl");
+
+  // We get the breakpoint value from bootstrap and remove the unit
+  $minBreakpoint-unitless: strip-unit(breakpoint-min($_starting-breakpoint, $grid-breakpoints));
+  // Then we get the max breakpoint and remove the unit
+  $maxBreakpointGrid-unitless: strip-unit(breakpoint-min($_end-breakpoint, $grid-breakpoints));
+
+  // Based on the min breakpoint of the site we calculate the context
+  $vw-context: $minBreakpoint-unitless * 0.01;
+  // Then we convert the minimum value to vw based on the above context
+  $vw-value: math.div($min-unitless, $vw-context);
+
+  // Then we set the min breakpoint based on the initial values
+  $min-breakpoint: div.math($min-unitless, $vw-value * 100) * 1px;
+  // We calculate the max-breakpoint value based in the max value
+  $max-breakpoint-calc: div.math($max-unitless, $vw-value * 100);
+  // If the above value is larger than the maximum grid value, we set the latter
+  // as the max value
+  $max-breakpoint: if(
+      $max-breakpoint-calc > $maxBreakpointGrid-unitless or not $max,
+      $maxBreakpointGrid-unitless,
+      $max-breakpoint-calc
+  );
+
+  // Main Breakpoint
+  @if $max {
+    @media (min-width: #{$min-breakpoint}) and (max-width: #{$max-breakpoint * 1px}) {
+      font-size: $vw-value * 1vw;
+    }
+  } @else {
+    // if max was not set it'll continue growing until the end of times, this will only happen
+    // if only $min was set
+    @media (min-width: #{$min-breakpoint}) {
+      font-size: $vw-value * 1vw;
+    }
+  }
+
+  // If it has a max limit and max-breakpoint calc is lower than the defined end breakpoint
+  @if $max-breakpoint-calc < $maxBreakpointGrid-unitless and $max {
+    @media (min-width: #{$max-breakpoint-calc * 1px}) and
+    (max-width: #{$maxBreakpointGrid-unitless - 1px}) {
+      font-size: $max-unitless * 1px;
+    }
+  }
+
+  // If there's a max limit we set the max size after the breakpoint
+  @if $max {
+    @media (min-width: #{$maxBreakpointGrid-unitless * 1px}) {
+      font-size: $max-unitless * 1px;
+    }
+  }
+}
+
+@mixin precise-font($min, $max: false, $start-breakpoint: false, $end-breakpoint: false) {
+  // We set the minimum font value and strip the unit value
+  $min-unitless: strip-unit($min);
+  // If max value is not defined, we set the min value as the default value
+  $max-unitless: if($max, strip-unit($max), $min-unitless);
+  // We set the starting breakpoint, if not set it will use the min value
+  // other than 0 from bootstrap
+  $starting-breakpoint: if($start-breakpoint, $start-breakpoint, "xs");
+  // Then we set end breakpoint, if not set it will use the max value from bootstrap
+  $end-breakpoint: if($end-breakpoint, $end-breakpoint, "xl");
+
+  // If min and max are equal or well... you never know
+  @if $min-unitless >= $max-unitless or $start-breakpoint == $end-breakpoint {
+    font-size: $min-unitless * 1px;
+  } @else {
+    // We get the breakpoint value from bootstrap and remove the unit
+    $minBreakpoint-unitless: strip-unit(breakpoint-min($starting-breakpoint, $grid-breakpoints));
+    // Then we get the max breakpoint and remove the unit
+    $maxBreakpoint-unitless: strip-unit(breakpoint-min($end-breakpoint, $grid-breakpoints));
+
+    $minBreakpoint: $minBreakpoint-unitless * 1px;
+    $min-px: $min-unitless * 1px;
+    $delta-bp: $maxBreakpoint-unitless - $minBreakpoint-unitless;
+    $delta-fonts: $max-unitless - $min-unitless;
+
+    @media (min-width: #{$minBreakpoint}) and (max-width: #{$maxBreakpoint-unitless * 1px}) {
+      font-size: calc(((math.div((100vw - #{$minBreakpoint}), #{$delta-bp})) * #{$delta-fonts}) + #{$min-px});
+    }
+
+    @media (min-width: #{$maxBreakpoint-unitless * 1px}) {
+      font-size: $max-unitless * 1px;
+    }
+  }
+}
+
+/**
+ * Converts units to rem
+ * @param $number to convert, can have any unit
+ * @param $base html base unit
+ */
+@function rem($number, $base: 16) {
+  // Just in case the dev don't use pixels
+  $number-unitless: strip-unit($number);
+  $base-unitless: strip-unit($base);
+
+  @return math.div($number-unitless, $base-unitless) * 1rem;
+}
+
+/**
+ * Simple margin applicator, but can take args, so it cuts down on code size
+ * @param $margin amount of margin to apply
+ * @param $direction of margin (top/right/bottom/left)
+ */
+@mixin margin($margin, $direction: left){
+  @if $direction == 'left' {
+    margin-left: $margin;
+  } @else if $direction == 'right' {
+    margin-right: $margin;
+  } @else if $direction == 'top' {
+    margin-top: $margin;
+  } @else if $direction == 'bottom' {
+    margin-bottom: $margin;
+  }
+}
+
+/**
+ * @param $size number with the offset value related to the column system, in this case 12
+ * @param $breakpoint the breakpoint to apply this calculation
+ */
+
+@mixin make-col-offset($size, $breakpoint: false, $rtl: false, $margin-direction: "left") {
+  $margin: if($size > 0, percentage(math.div($size, 12)), 0);
+
+  @if $rtl {
+    $margin-direction: "right";
+  }
+
+  @if $breakpoint {
+    @media (min-width: breakpoint-min($breakpoint, $grid-breakpoints)) {
+      @include margin($margin, $margin-direction);
+    }
+  } @else {
+    @include margin($margin, $margin-direction);
+  }
+}
+
+@mixin animatedScale($scale: 1.1, $transition-duration: 0.25s, $transition-animation: ease-in-out, $transition-type: transform) {
+
+  & {
+    transition: $transition-type $transition-duration $transition-animation;
+  }
+
+  &:hover {
+    transform: scale($scale);
+  }
+}
+
+
+// MIXIN TO ADD UNIVISION LOGO TO ANCHOR LINK
+@mixin uvn-now-logo($size: 'small') {
+  &.tv-en-vivo {
+    &:after {
+      content: "";
+      background: url($uvn-now-logo) no-repeat;
+      background-size: 100% auto;
+      display: inline-block;
+      margin-left: 4px;
+      vertical-align: middle;
+      @if $size == 'small' {
+        width: 28px;
+        height: 10px;
+      } @else if $size == 'medium' {
+        width: 36px;
+        height: 11px;
+      } @else if $size == 'large' {
+        width: 40px;
+        height: 12px;
+      } @else if $size == 'xlarge' {
+        width: 60px;
+        height: 18px;
+      }
+      .dark & {
+        background-image: url($uvn-now-logo-white);
+      }
+    }
+  }
+}

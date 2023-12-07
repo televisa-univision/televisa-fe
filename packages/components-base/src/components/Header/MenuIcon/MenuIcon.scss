@@ -1,0 +1,63 @@
+.icon {
+  position: relative;
+  height: 10px;
+  width: 12px;
+  margin-left: 10px;
+  transition: all 250ms ease-out;
+
+  &.open {
+    transform: rotate(90deg);
+  }
+}
+
+.bar {
+  position: absolute;
+  height: 1px;
+  background-color: $very-light-grey;
+}
+
+.bar {
+  width: 12px;
+  transition: all 250ms ease-out;
+
+  &:first-of-type,
+  &:last-of-type {
+    width: 8px;
+  }
+
+  &:first-of-type {
+    top: 0;
+  }
+
+  &:nth-child(2) {
+    top: 3px;
+  }
+
+  &:nth-child(3) {
+    top: 6px;
+  }
+
+  &:last-of-type {
+    bottom: 0;
+  }
+}
+
+.open .bar {
+
+  &:first-of-type {
+    transform: translateX(14px);
+    width: 0;
+  }
+
+  &:nth-child(2) {
+    transform: translateY(2px) rotate(45deg);
+  }
+
+  &:nth-child(3) {
+    transform: translateY(-2px) rotate(-45deg);
+  }
+
+  &:last-of-type {
+    width: 0;
+  }
+}

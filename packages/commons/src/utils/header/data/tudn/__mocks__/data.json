@@ -1,0 +1,895 @@
+{
+  "article": {
+    "authors": [],
+    "cardLabel": null,
+    "description": "Luego de nueve temporadas, el receptor abierto dio a conocer su cambio de equipo a través de una publicación en sus redes sociales.",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "national football league",
+        "title": "National Football League",
+        "uri": "https://www.tudn.com/nfl",
+        "uuid": "0000014f-8d97-d4ff-a7ef-9fdfc6400000"
+      }
+    ],
+    "parent": {
+      "name": "national football league",
+      "title": "National Football League",
+      "uri": "https://www.tudn.com/nfl",
+      "uuid": "0000014f-8d97-d4ff-a7ef-9fdfc6400000"
+    },
+    "publishDate": "2019-03-10T01:49:46-05:00",
+    "title": "¡Antonio Brown ya tiene equipo! Steelers y Raiders llegan a un acuerdo",
+    "type": "article",
+    "uid": "00000169-6651-d6d3-a9ed-7e7bdb6b0002",
+    "updateDate": "2019-03-10T03:18:32-04:00",
+    "uri": "https://www.tudn.com/nfl/antonio-brown-ya-tiene-equipo-steelers-y-raiders-llegan-a-un-acuerdo",
+    "vertical": "Deportes"
+  },
+  "entrevistas": {
+    "description": "Entrevista de la semana",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "entrevista de la semana",
+        "title": "Entrevista de la semana",
+        "uri": "https://www.tudn.com/entrevistas",
+        "uuid": "00000162-0be0-d710-a16a-7fffd0e20000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "title": "Entrevista de la semana",
+    "type": "section",
+    "uid": "00000162-0be0-d710-a16a-7fffd0e20000",
+    "uri": "https://www.tudn.com/entrevistas",
+    "vertical": "Deportes"
+  },
+  "europa": {
+    "cardLabel": null,
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "futbol europa",
+        "title": "Fútbol Europa",
+        "uri": "https://www.tudn.com/futbol/europa",
+        "uuid": "00000153-a422-dd44-afd7-f67b627d0000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "Fútbol Europa",
+    "type": "section",
+    "uid": "00000153-a422-dd44-afd7-f67b627d0000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/europa",
+    "vertical": "Deportes"
+  },
+  "futbol": {
+    "cardLabel": null,
+    "description": "Toda la información y noticias sobre lo último del fútbol mundial",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2015-03-25T10:53:44-04:00",
+    "title": "Fútbol",
+    "type": "section",
+    "uid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+    "updateDate": "2019-09-20T21:36:49-04:00",
+    "uri": "https://www.tudn.com/futbol",
+    "vertical": "Deportes"
+  },
+  "home": {
+    "cardLabel": null,
+    "description": "La información de todos los deportes sólo en TUDN.com",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      }
+    ],
+    "parent": {
+      "name": null,
+      "title": null,
+      "uri": null,
+      "uuid": null
+    },
+    "publishDate": "2015-03-24T16:59:32-04:00",
+    "title": "Deportes",
+    "type": "section",
+    "uid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+    "updateDate": "2019-11-08T14:11:42-05:00",
+    "uri": "https://www.tudn.com",
+    "vertical": "Deportes"
+  },
+  "ligaMx": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "liga mx",
+        "title": "Liga MX",
+        "uri": "https://www.tudn.com/futbol/liga-mx",
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2016-01-13T15:30:21-05:00",
+    "title": "Liga MX",
+    "type": "section",
+    "uid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+    "updateDate": "2019-10-24T17:38:37-04:00",
+    "uri": "https://www.tudn.com/futbol/liga-mx",
+    "vertical": "Deportes"
+  },
+  "mexico": {
+    "cardLabel": null,
+    "description": "Selección Mexicana",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "seleccion mx",
+        "title": "Selección MX",
+        "uri": "https://www.tudn.com/futbol/mexico",
+        "uuid": "0000014d-796f-d095-adcd-79fffb8e0000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "Selección MX",
+    "type": "section",
+    "uid": "0000014d-796f-d095-adcd-79fffb8e0000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/mexico",
+    "vertical": "Deportes"
+  },
+  "mls": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "mls",
+        "title": "MLS",
+        "uri": "https://www.tudn.com/futbol/mls",
+        "uuid": "00000152-3cae-d5cc-affa-7dafe52e0000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2016-01-13T15:33:58-05:00",
+    "title": "MLS",
+    "type": "section",
+    "uid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+    "updateDate": "2019-10-24T16:30:04-04:00",
+    "uri": "https://www.tudn.com/futbol/mls",
+    "vertical": "Deportes"
+  },
+  "nflSuperbowl": {
+    "cardLabel": null,
+    "description": "Super Bowl",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "super bowl",
+        "title": "Super Bowl",
+        "uri": "https://www.tudn.com/nfl/super-bowl",
+        "uuid": "0000014d-9ba3-da00-a1ef-dba743120000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2015-05-28T13:51:05-04:00",
+    "title": "Super Bowl",
+    "type": "section",
+    "uid": "0000014d-9ba3-da00-a1ef-dba743120000",
+    "updateDate": "2019-03-05T17:31:26-05:00",
+    "uri": "https://www.tudn.com/nfl/super-bowl",
+    "vertical": "Deportes"
+  },
+  "opinion": {
+    "cardLabel": null,
+    "description": "Opinión Deportes",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "opinion deportes",
+        "title": "Opinión Deportes",
+        "uri": "https://www.tudn.com/opinion-deportes",
+        "uuid": "00000161-f833-d1da-afef-ffb3b2840000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2018-03-05T17:09:46-05:00",
+    "title": "Opinión Deportes",
+    "type": "section",
+    "uid": "00000161-f833-d1da-afef-ffb3b2840000",
+    "updateDate": "2019-09-11T18:46:17-04:00",
+    "uri": "https://www.tudn.com/opinion-deportes",
+    "vertical": "Deportes"
+  },
+  "premiosDpts": {
+    "cardLabel": null,
+    "description": "Premios Deportes",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "premios univision deportes",
+        "title": "Premios Univision Deportes",
+        "uri": "https://www.tudn.com/premios-univision-deportes",
+        "uuid": "00000150-55a5-d892-af79-d5edc4a30000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2015-10-11T02:52:41-04:00",
+    "title": "Premios Univision Deportes",
+    "type": "section",
+    "uid": "00000150-55a5-d892-af79-d5edc4a30000",
+    "updateDate": "2019-07-20T12:49:30-04:00",
+    "uri": "https://www.tudn.com/premios-univision-deportes",
+    "vertical": "Deportes"
+  },
+  "soccerMatch": {
+    "authors": [],
+    "cardLabel": null,
+    "description": "EXCLUSIVO DIGITAL | Querétaro ya puso el cuarto ante Veracruz dentro de la Jornada 7 del Apertura 2019.",
+    "expirationDate": null,
+    "hierarchy": [],
+    "image": {
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "height": 720,
+          "href": "https://st1.uvnimg.com/c7/0d/5a8bfaaf47dcb299e77364ba419e/marcadores-mexico-6.jpg",
+          "width": 1281
+        }
+      },
+      "title": "marcadores mexico (6).jpg",
+      "type": "image",
+      "uid": "0000016c-d598-dd86-a17d-fdbeae550000"
+    },
+    "parent": null,
+    "publishDate": "2019-06-22T11:17:15-04:00",
+    "shortTitle": "VER vs QRO",
+    "title": "EXCLUSIVO DIGITAL | ¡Golazo de Paolo Yrizar!",
+    "type": "soccermatch",
+    "uid": "0000016b-7fc3-d4ff-a7ff-ffcb53be0000",
+    "updateDate": "2019-10-24T10:36:38-04:00",
+    "uri": "https://www.tudn.com/futbol/liga-mx/veracruz-vs-queretaro-liga-mx-apertura-2019-08-27",
+    "vertical": "Deportes"
+  },
+  "tudnxtra": {
+    "cardLabel": null,
+    "description": "TUDNXtra",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "tudnxtra",
+        "title": "TUDNXtra",
+        "uri": "https://www.tudn.com/tudnxtra",
+        "uuid": "0000016c-f8c4-dd85-a36c-fed4e9730076"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2019-09-03T16:16:56-04:00",
+    "title": "TUDNXtra",
+    "type": "section",
+    "uid": "0000016c-f8c4-dd85-a36c-fed4e9730076",
+    "updateDate": "2019-10-24T10:10:53-04:00",
+    "uri": "https://www.tudn.com/tudnxtra",
+    "vertical": "Deportes"
+  },
+  "uefa": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "uefa champions league",
+        "title": "UEFA Champions League",
+        "uri": "https://www.tudn.com/futbol/uefa-champions-league",
+        "uuid": "00000152-3cb4-d0a8-a553-7ebfda1a0000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2016-01-13T15:41:13-05:00",
+    "title": "UEFA Champions League",
+    "type": "section",
+    "uid": "00000152-3cb4-d0a8-a553-7ebfda1a0000",
+    "updateDate": "2019-10-23T18:14:45-04:00",
+    "uri": "https://www.tudn.com/futbol/uefa-champions-league",
+    "vertical": "Deportes"
+  },
+  "uefaEuropa": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "uefa europa league",
+        "title": "UEFA Europa League",
+        "uri": "https://www.tudn.com/futbol/uefa-europa-league",
+        "uuid": "00000152-3cd6-d0a8-a553-7edfd10f0000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2016-01-13T16:18:43-05:00",
+    "title": "UEFA Europa League",
+    "type": "section",
+    "uid": "00000152-3cd6-d0a8-a553-7edfd10f0000",
+    "updateDate": "2019-10-03T13:49:22-04:00",
+    "uri": "https://www.tudn.com/futbol/uefa-europa-league",
+    "vertical": "Deportes"
+  },
+  "uefaNations": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "uefa nations league",
+        "title": "UEFA Nations League",
+        "uri": "https://www.tudn.com/futbol/uefa-nations-league",
+        "uuid": "00000164-a998-d809-a96c-bdbd1c520000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "UEFA Nations League",
+    "type": "section",
+    "uid": "00000164-a998-d809-a96c-bdbd1c520000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/uefa-nations-league",
+    "vertical": "Deportes"
+  },
+  "eurocopa": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "Eurocopa",
+        "title": "Eurocopa",
+        "uri": "https://www.tudn.com/futbol/uefa-euro-2020",
+        "uuid": "00000164-a998-d809-a96c-bdbd1c520000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "Eurocopa",
+    "type": "section",
+    "uid": "00000164-a998-d809-a96c-bdbd1c520000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/uefa-euro-2020",
+    "vertical": "Deportes"
+  },
+  "copaMx": {
+    "cardLabel": null,
+    "coverage": "Special",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "Copa MX",
+        "title": "Copa MX",
+        "uri": "https://www.tudn.com/futbol/uefa-nations-league",
+        "uuid": "00000164-a998-d809-a96c-bdbd1c520000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "Copa MX",
+    "type": "section",
+    "uid": "00000164-a998-d809-a96c-bdbd1c520000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/uefa-nations-league",
+    "vertical": "Deportes",
+    "soccerCompetitionSeason": {
+      "soccerCompetition": {
+        "hasBracketsSupport": true
+      }
+    }
+  },
+  "ligaExpansion": {
+    "cardLabel": null,
+    "coverage": "Basic",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "Copa MX",
+        "title": "Copa MX",
+        "uri": "https://www.tudn.com/futbol/liga-de-expansion-mx",
+        "uuid": "00000164-a998-d809-a96c-bdbd1c520000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "Copa MX",
+    "type": "section",
+    "uid": "00000164-a998-d809-a96c-bdbd1c520000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/liga-de-expansion-mx",
+    "vertical": "Deportes",
+    "soccerCompetitionSeason": {
+      "soccerCompetition": {
+        "hasBracketsSupport": false
+      }
+    }
+  },
+  "verizon": {
+    "cardLabel": null,
+    "description": "Verizon 360",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "verizon 360",
+        "title": "verizon",
+        "uri": "https://www.tudn.com/verizon-360-tudn",
+        "uuid": "0000014d-9ba3-da00-a1ef-dba743120000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2015-05-28T13:51:05-04:00",
+    "title": "Verizon 360",
+    "type": "section",
+    "uid": "0000014d-9ba3-da00-a1ef-dba743120000",
+    "updateDate": "2019-03-05T17:31:26-05:00",
+    "uri": "https://www.tudn.com/verizon-360-tudn",
+    "vertical": "Deportes"
+  },
+  "soccerPerson": {
+    "cardLabel": null,
+    "description": "Leo MEssi",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "Leo Messi",
+        "title": "Leo Messi",
+        "uri": "https://www.tudn.com/jugadores/leo-messi",
+        "uuid": "0000014d-9ba3-da00-a1ef-dba743120000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2015-05-28T13:51:05-04:00",
+    "title": "Leo Messi",
+    "type": "personnel",
+    "uid": "0000014d-9ba3-da00-a1ef-dba743120000",
+    "updateDate": "2019-03-05T17:31:26-05:00",
+    "uri": "https://www.tudn.com/jugadores/leo-messi",
+    "vertical": "Deportes"
+  },
+  "copaOro": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "Copa Oro",
+        "title": "Copa Oro",
+        "uri": "https://www.tudn.com/futbol/copa-oro",
+        "uuid": "00000164-a998-d809-a96c-bdbd1c520000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "Copa Oro",
+    "type": "section",
+    "uid": "00000164-a998-d809-a96c-bdbd1c520000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/copa-oro",
+    "vertical": "Deportes",
+    "soccerCompetitionSeason": {
+      "soccerCompetition": {
+        "hasBracketsSupport": false
+      }
+    }
+  },
+  "copaUnivision": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "copa univision",
+        "title": "Copa Univision",
+        "uri": "https://www.tudn.com/copa-univision",
+        "uuid": "00000179-6173-dd30-ab79-f9ff06180000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2021-05-12T12:41:39-04:00",
+    "title": "Copa Univision",
+    "type": "section",
+    "uid": "00000179-6173-dd30-ab79-f9ff06180000",
+    "updateDate": "2021-12-03T10:11:00-05:00",
+    "uri": "https://www.tudn.com/copa-univision",
+    "vertical": "Deportes"
+  },
+  "copaAmerica": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "futbol",
+        "title": "Fútbol",
+        "uri": "https://www.tudn.com/futbol",
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+      },
+      {
+        "name": "Copa America",
+        "title": "Copa America",
+        "uri": "https://www.tudn.com/futbol/copa-america",
+        "uuid": "00000164-a998-d809-a96c-bdbd1c520000"
+      }
+    ],
+    "parent": {
+      "name": "fútbol",
+      "title": "Fútbol",
+      "uri": "https://www.tudn.com/futbol",
+      "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000"
+    },
+    "publishDate": "2018-07-17T14:56:40-04:00",
+    "title": "Copa America",
+    "type": "section",
+    "uid": "00000164-a998-d809-a96c-bdbd1c520000",
+    "updateDate": "2019-08-26T13:11:53-04:00",
+    "uri": "https://www.tudn.com/futbol/copa-america",
+    "vertical": "Deportes",
+    "soccerCompetitionSeason": {
+      "soccerCompetition": {
+        "hasBracketsSupport": false
+      }
+    }
+  },
+  "qatar2022": {
+    "cardLabel": null,
+    "coverage": "Performance",
+    "description": "",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "name": "deportes",
+        "title": "Deportes",
+        "uri": "https://www.tudn.com",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+      },
+      {
+        "name": "copa univision",
+        "title": "Copa Univision",
+        "uri": "https://www.tudn.com/futbol/mundial-qatar-2022",
+        "uuid": "00000179-6173-dd30-ab79-f9ff06180000"
+      }
+    ],
+    "parent": {
+      "name": "deportes",
+      "title": "Deportes",
+      "uri": "https://www.tudn.com",
+      "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+    },
+    "publishDate": "2021-05-12T12:41:39-04:00",
+    "title": "Mundial Qatar 2020",
+    "type": "section",
+    "uid": "00000179-6173-dd30-ab79-f9ff06180000",
+    "updateDate": "2021-12-03T10:11:00-05:00",
+    "uri": "https://www.tudn.com/futbol/mundial-qatar-2022",
+    "vertical": "Deportes"
+  }
+}

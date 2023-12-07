@@ -1,0 +1,43 @@
+.tapTooltip {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 6px;
+  color: $white;
+  display: flex;
+  height: 35px;
+  justify-content: center;
+  opacity: 0;
+  padding: 0 10px;
+  position: absolute;
+  width: auto;
+  
+  > span {
+    font-size: rem(9px);
+    font-weight: 200;
+  }
+
+  .icon {
+    margin-right: 5px;
+    path {
+      fill: $white;
+    }
+  }
+}
+
+.show {
+  animation-duration: 3s;
+  animation-fill-mode: both;
+  animation-name: show;
+}
+
+@keyframes show {
+  0%, 20%{
+    opacity: 0;
+  }
+  20%, 80%{
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

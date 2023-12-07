@@ -1,0 +1,22 @@
+config:
+  target: 'https://univision-fe-integration.k8s.dev-univision.com'
+  phases:
+    - duration: 600
+      arrivalRate: 1
+scenarios:
+  - name: "Famosos"
+    flow:
+      - get:
+          url: "/famosos"
+      - get:
+          url: "/shows"
+      - get:
+          url: "/shows/novelas"
+      - get:
+          url: "/famosos/mientras-jennifer-lopez-presume-el-talento-de-sus-hijos-alex-rodriguez-revela-como-fue-la-primera-cita-con-ella-video"
+      - get:
+          url: "/famosos/bad-bunny-j-balvin-nicky-jam-y-calibre-50-triunfan-en-los-premios-iheart-radio-music-2019-fotos"
+      - get:
+          url: "/horoscopos/leo"
+      - get:
+          url: "/horoscopos/leo/leo-domingo-17-de-marzo-de-2019-tu-ser-interno-se-estremece-con-un-encuentro-imprevisto-fotos"

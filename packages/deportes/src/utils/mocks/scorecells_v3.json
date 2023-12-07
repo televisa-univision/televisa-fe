@@ -1,0 +1,331 @@
+{
+  "data": [
+    {
+      "fixture": null,
+      "date": "2022-09-22T22:00:00Z",
+      "elapsedTime": "0'",
+      "status": "live",
+      "url": "https://uat.tudn.com/futbol/liga-de-expansion-mx/club-atletico-morelia-vs-cancun-expansion-mx-apertura-2022-09-22",
+      "channels": [],
+      "channelsType": {
+        "en": [],
+        "es": []
+      },
+      "tudnXtraEnglish": false,
+      "eventName": "Atlético Morelia vs Cancún",
+      "leagueKey": "690",
+      "leagueName": "Liga de Expansión MX (Apertura)",
+      "leagueAbbreviation": "Expansión MX",
+      "stadiumName": "Estadio Morelos",
+      "hasLiveStream": false,
+      "tvAuthenticated": false,
+      "tudnXtra": false,
+      "broadcastLanguage": "",
+      "coverage": "Basic",
+      "key": "2292769",
+      "seasonKey": "2022",
+      "leaguePhase": null,
+      "away": {
+        "id": "16922",
+        "url": "/deportes/futbol/cancun",
+        "fullName": "Cancún",
+        "abbreviatedName": "CAN",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/26/57/8bd900cc43f7b4acdc193b96dbde/logo-v3.png",
+        "scoreValue": {
+          "score": 0,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "home": {
+        "id": "1289",
+        "url": "https://uat.tudn.com/futbol/liga-mx/mazatlan-fc",
+        "fullName": "Mazatlán FC",
+        "abbreviatedName": "MOR",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/96/e8/8b42a32a4aaa8a9e4f95102f4f4e/mazatlanfc-72-x72-2x.png",
+        "scoreValue": {
+          "score": 0,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "week": "13",
+      "calienteMetadata": {
+        "isBetOpen": true,
+        "odds": [
+          "+1200",
+          "-3300",
+          "+2800"
+        ],
+        "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=16761211"
+      }
+    },
+    {
+      "fixture": null,
+      "date": "2022-09-22T14:00:00Z",
+      "elapsedTime": "—",
+      "status": "post",
+      "url": "https://uat.tudn.com/futbol/uefa-nations-league/kazajistan-vs-bielorrusia-uefa-nations-league-2022-09-22",
+      "channels": [],
+      "channelsType": {
+        "en": [],
+        "es": []
+      },
+      "tudnXtraEnglish": false,
+      "eventName": "Kazakhstan vs Belarus",
+      "leagueKey": "941",
+      "leagueName": "UEFA Nations League",
+      "leagueAbbreviation": "UEFA Nations",
+      "stadiumName": "Astana Arena",
+      "hasLiveStream": false,
+      "tvAuthenticated": false,
+      "tudnXtra": false,
+      "broadcastLanguage": "",
+      "coverage": "Performance",
+      "key": "2263078",
+      "seasonKey": "2022",
+      "leaguePhase": "Round",
+      "away": {
+        "id": "512",
+        "url": "https://uat.tudn.com/futbol/uefa-mundial-eliminatorias/bielorrusia",
+        "fullName": "Bielorrusia",
+        "abbreviatedName": "BLR",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/e0/83/4cf797944e3ba2ec457033ee8148/belarus-2x.png",
+        "scoreValue": {
+          "score": 1,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "home": {
+        "id": "1846",
+        "url": "https://uat.tudn.com/futbol/uefa-mundial-eliminatorias/kazajistan",
+        "fullName": "Kazajistán",
+        "abbreviatedName": "KAZ",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/f3/88/7af3268240e4b34e085fd88be710/kazakhsta-2x.png",
+        "scoreValue": {
+          "score": 2,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": true
+      },
+      "week": "5"
+    },
+    {
+      "fixture": null,
+      "date": "2022-09-22T16:00:00Z",
+      "elapsedTime": "—",
+      "status": "post",
+      "url": "https://uat.tudn.com/futbol/uefa-nations-league/letonia-vs-moldova-uefa-nations-league-2022-09-22",
+      "channels": [],
+      "channelsType": {
+        "en": [],
+        "es": []
+      },
+      "tudnXtraEnglish": false,
+      "eventName": "Latvia vs Moldova",
+      "leagueKey": "941",
+      "leagueName": "UEFA Nations League",
+      "leagueAbbreviation": "UEFA Nations",
+      "stadiumName": "Skonto Stadions",
+      "hasLiveStream": false,
+      "tvAuthenticated": false,
+      "tudnXtra": false,
+      "broadcastLanguage": "",
+      "coverage": "Performance",
+      "key": "2263103",
+      "seasonKey": "2022",
+      "leaguePhase": "Round",
+      "away": {
+        "id": "506",
+        "url": "https://uat.tudn.com/futbol/uefa-mundial-eliminatorias/moldova",
+        "fullName": "Moldova",
+        "abbreviatedName": "MDA",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/b1/73/c8c274dd458b94d8eed4226f13d9/1351-el.png",
+        "scoreValue": {
+          "score": 2,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": true
+      },
+      "home": {
+        "id": "513",
+        "url": "https://uat.tudn.com/futbol/uefa-mundial-eliminatorias/letonia",
+        "fullName": "Letonia",
+        "abbreviatedName": "LAT",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/a0/72/eea8388a4f64841b8fa67b527507/latvia-2x.png",
+        "scoreValue": {
+          "score": 1,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "week": "5"
+    },
+    {
+      "fixture": null,
+      "date": "2022-09-22T18:45:00Z",
+      "elapsedTime": "—",
+      "status": "post",
+      "url": "https://uat.tudn.com/futbol/uefa-nations-league/croacia-vs-dinamarca-uefa-nations-league-2022-09-22",
+      "channels": [],
+      "channelsType": {
+        "en": [],
+        "es": []
+      },
+      "tudnXtraEnglish": false,
+      "eventName": "Croatia vs Denmark",
+      "leagueKey": "941",
+      "leagueName": "UEFA Nations League",
+      "leagueAbbreviation": "UEFA Nations",
+      "stadiumName": "Maksimir",
+      "hasLiveStream": false,
+      "tvAuthenticated": false,
+      "tudnXtra": false,
+      "broadcastLanguage": "",
+      "coverage": "Performance",
+      "key": "2262942",
+      "seasonKey": "2022",
+      "leaguePhase": "Round",
+      "away": {
+        "id": "369",
+        "url": "https://uat.tudn.com/futbol/copa-mundial/dinamarca",
+        "fullName": "Dinamarca",
+        "abbreviatedName": "DEN",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/73/f6/2944825748f7bf70f8ce5b723991/dinamarca-2x.png",
+        "scoreValue": {
+          "score": 1,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "home": {
+        "id": "535",
+        "url": "https://uat.tudn.com/futbol/copa-mundial/croacia",
+        "fullName": "Croacia",
+        "abbreviatedName": "CRO",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/34/91/c099d58d46a38ae13ae0c0ddba29/279-eb.png",
+        "scoreValue": {
+          "score": 2,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": true
+      },
+      "week": "5"
+    },
+    {
+      "fixture": null,
+      "date": "2022-09-22T18:45:00Z",
+      "elapsedTime": "—",
+      "status": "post",
+      "url": "https://uat.tudn.com/futbol/uefa-nations-league/turquia-vs-luxemburgo-uefa-nations-league-2022-09-22",
+      "channels": [],
+      "channelsType": {
+        "en": [],
+        "es": []
+      },
+      "tudnXtraEnglish": false,
+      "eventName": "Turkey vs Luxembourg",
+      "leagueKey": "941",
+      "leagueName": "UEFA Nations League",
+      "leagueAbbreviation": "UEFA Nations",
+      "stadiumName": "Istanbul Basaksehir Fatih Terim",
+      "hasLiveStream": false,
+      "tvAuthenticated": false,
+      "tudnXtra": false,
+      "broadcastLanguage": "",
+      "coverage": "Performance",
+      "key": "2263055",
+      "seasonKey": "2022",
+      "leaguePhase": "Round",
+      "away": {
+        "id": "496",
+        "url": "https://uat.tudn.com/futbol/uefa-mundial-eliminatorias/luxemburgo",
+        "fullName": "Luxemburgo",
+        "abbreviatedName": "LUX",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/e2/1f/216793074fa6a5e2b91c51d03e72/luxembourg-2x.png",
+        "scoreValue": {
+          "score": 3,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "home": {
+        "id": "362",
+        "url": "https://uat.tudn.com/futbol/uefa-mundial-eliminatorias/turquia",
+        "fullName": "Turquía",
+        "abbreviatedName": "TUR",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/89/31/2c0345e342d39f21bf69b6a2ced9/turkia-2x.png",
+        "scoreValue": {
+          "score": 3,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "week": "5"
+    },
+    {
+      "fixture": null,
+      "date": "2022-09-22T18:45:00Z",
+      "elapsedTime": "—",
+      "status": "post",
+      "url": "https://uat.tudn.com/futbol/uefa-nations-league/belgica-vs-gales-uefa-nations-league-2022-09-22",
+      "channels": [],
+      "channelsType": {
+        "en": [],
+        "es": []
+      },
+      "tudnXtraEnglish": false,
+      "eventName": "Belgium vs Wales",
+      "leagueKey": "941",
+      "leagueName": "UEFA Nations League",
+      "leagueAbbreviation": "UEFA Nations",
+      "stadiumName": "King Baudouin Stadium",
+      "hasLiveStream": false,
+      "tvAuthenticated": false,
+      "tudnXtra": false,
+      "broadcastLanguage": "",
+      "coverage": "Performance",
+      "key": "2262995",
+      "seasonKey": "2022",
+      "leaguePhase": "Round",
+      "away": {
+        "id": "508",
+        "url": "https://uat.tudn.com/futbol/uefa-mundial-eliminatorias/gales",
+        "fullName": "Gales",
+        "abbreviatedName": "WAL",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/32/fd/0a48b35d4412aa17aaefbacbb5f4/wales-2x.png",
+        "scoreValue": {
+          "score": 1,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": false
+      },
+      "home": {
+        "id": "360",
+        "url": "https://uat.tudn.com/futbol/copa-mundial/belgica",
+        "fullName": "Bélgica",
+        "abbreviatedName": "BEL",
+        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/4e/73/18412f99410391b3e966dcd50913/belgium-2x.png",
+        "scoreValue": {
+          "score": 2,
+          "penalty": null,
+          "firstLeg": null
+        },
+        "isWinner": true
+      },
+      "week": "5"
+    }
+  ]
+}

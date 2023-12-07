@@ -1,0 +1,154 @@
+.innerContainer {
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin: 0 auto;
+  @include media-breakpoint-up('lg') {
+    height: 44px;
+  }
+}
+
+.globalNav {
+  background: $very-light-grey;
+  border-bottom: 1px solid $white-grey;
+  &.dark {
+    background: $black-grey;
+    border-bottom-color: $darker-grey;
+  }
+}
+
+.link {
+  font-size: rem(10px);
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  text-transform: uppercase;
+  padding: 0;
+
+  @include uvn-now-logo;
+
+  @include media-breakpoint-up('md') {
+    padding: 0 12px;
+  }
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.sections,
+.more {
+  display: flex;
+  position: initial;
+  > button {
+    margin: 0;
+    flex-shrink: 0;
+    align-self: stretch;
+    height: auto;
+    padding: 12px;
+
+    &:hover {
+      background: $white-grey;
+    }
+  }
+  .dark & {
+    border-right-color: $darker-grey;
+    button {
+      svg {
+        fill: $white;
+      }
+      span {
+        color: $white;
+      }
+      &:hover {
+        background-color: rgba($darker-grey, 0.5);
+      }
+    }
+
+    &:hover {
+      background-color: rgba($darker-grey, 0.5);
+    }
+  }
+}
+
+.more {
+  font-size: rem(10px);
+  font-weight: normal;
+  line-height: 1;
+  transition: all 0.2s;
+  padding: 0;
+
+  .dark & {
+    color: $white;
+    &:hover {
+      background-color: rgba($darker-grey, 0.5);
+    }
+  }
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.linkList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  @include media-breakpoint-up('md') {
+    width: initial;
+  }
+
+  li {
+    display: inline-flex;
+    align-self: stretch;
+    align-items: stretch;
+    &:not(:last-child) {
+      &:nth-child(n+14) {
+        display: none;
+      }
+    }
+    .dark & {
+      &:nth-child(1),
+      &:nth-child(2),
+      &:nth-child(3) {
+        a {
+          span {
+            border-bottom-color: $grey-black !important; // Requerided to override the style inline of black theme
+          }
+        }
+      }
+      a {
+        color: $white;
+        &:hover {
+          color: $light-grey;
+        }
+      }
+    }
+  }
+}
+
+.tv {
+  span:first-of-type {
+    &:after {
+      content: "";
+      background: url($uvn-now-logo) no-repeat;
+      background-size: 100% auto;
+      display: inline-block;
+      margin-left: 4px;
+      vertical-align: middle;
+      width: 28px;
+      height: 10px;
+      .dark & {
+        background-image: url($uvn-now-logo-white);
+      }
+    }
+  }
+}

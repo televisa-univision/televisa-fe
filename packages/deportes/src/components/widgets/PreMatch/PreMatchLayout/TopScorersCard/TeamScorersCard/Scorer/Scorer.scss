@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.playerWrapper {
+  display: flex;
+  flex-direction: column;
+  font-size: rem(13px);
+}
+
+.scoreWrapper {
+  font-size: rem(20px);
+}

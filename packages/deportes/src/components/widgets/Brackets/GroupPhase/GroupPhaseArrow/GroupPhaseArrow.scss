@@ -1,0 +1,38 @@
+.arrow {
+  position: absolute;
+  display: block;
+  cursor: pointer;
+  padding: 0;
+  border: none;
+  outline: none;
+  opacity: 1;
+  transition: opacity 0.3s linear;
+  &:before {
+    display:none;
+  }
+  > img {
+    width: 25px;
+  }
+  &:global(.slick-disabled) {
+    transition: opacity 0.45s ease;
+    cursor: default;
+    opacity: 0;
+  }
+
+  &.groupArrow {
+    &:global(.slick-prev) {
+      left: 0;
+    }
+    &:global(.slick-next) {
+      right: 0;
+    }
+  }
+  &.navArrow {
+    &:global(.slick-prev) {
+      left: -30px;
+    }
+    &:global(.slick-next) {
+      right: -25px;
+    }
+  }
+}

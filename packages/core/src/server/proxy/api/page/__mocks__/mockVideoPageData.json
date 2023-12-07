@@ -1,0 +1,419 @@
+{
+  "status": "success",
+  "data": {
+    "uid": "00000147-fd78-d2f9-a347-fd7e341a0000",
+    "uri": "/shows/despierta-america/asi-de-bello-era-william-levy-de-bebe-video",
+    "type": "video",
+    "updateDate": "2018-05-30T12:57:50-04:00",
+    "publishDate": "2014-08-15T09:21:00-04:00",
+    "expirationDate": "2024-08-14T09:21:00-04:00",
+    "title": "Así de  bello era William Levy de bebé",
+    "shortTitle": "Así de  bello era William Levy de bebé",
+    "description": "Escucha las noticias del Revoltlillo y mira cómo se prepara Juanes para su nuevo disco y lo que hizo Gloria Estefan por una buena causa.",
+    "shortDescription": "Escucha las noticias del Revoltlillo y mira cómo se prepara Juanes para su nuevo disco y lo que hizo Gloria Estefan por una buena causa.",
+    "richTextDescription": null,
+    "longformPlaylist": [],
+    "image": {
+      "type": "image",
+      "uid": "00000148-c633-dfb2-a9f9-ef7bf5ea0000",
+      "title": "Así de  bello era William Levy de bebé",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://cdn2.uvnimg.com/2b/88/d7795b504f9980410e8aedddbedf/2968055",
+          "width": 1920,
+          "height": 1080
+        },
+        "16x9-med": {
+          "href": "https://cdn1.uvnimg.com/dims4/default/7ef4110/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F88%2Fd7795b504f9980410e8aedddbedf%2F2968055",
+          "width": 400,
+          "height": 225
+        },
+        "16x9": {
+          "href": "https://cdn1.uvnimg.com/dims4/default/7d1d29b/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F88%2Fd7795b504f9980410e8aedddbedf%2F2968055",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-sm": {
+          "href": "https://cdn1.uvnimg.com/dims4/default/c366c37/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F88%2Fd7795b504f9980410e8aedddbedf%2F2968055",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-mobile": {
+          "href": "https://cdn1.uvnimg.com/dims4/default/4ea8a87/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F88%2Fd7795b504f9980410e8aedddbedf%2F2968055",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-tablet": {
+          "href": "https://cdn1.uvnimg.com/dims4/default/defb584/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F88%2Fd7795b504f9980410e8aedddbedf%2F2968055",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9-extended": {
+          "href": "https://cdn1.uvnimg.com/dims4/default/5a38b8d/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F2b%2F88%2Fd7795b504f9980410e8aedddbedf%2F2968055",
+          "width": 1440,
+          "height": 810
+        }
+      }
+    },
+    "isSensitive": false,
+    "primaryTag": {
+      "name": "Despierta América",
+      "link": "https://www.univision.com/shows/despierta-america"
+    },
+    "primaryTopic": "Programas",
+    "secondaryTags": [
+
+    ],
+    "externalWidgets": {
+      "civicScience": "<script type=\"text/javascript\" defer src=\"https://www.civicscience.com/widget/jspoll/?elt=0d4d2055-925a-3574-4541-870fa2305807&tgtid=16d68c08-5a1c-bf14-c985-291dfc021f7c\"></script><div id=\"0d4d2055-925a-3574-4541-870fa2305807\"></div>"
+    },
+    "contentPriority": "standard",
+    "mcpid": "2968055",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/yHJf1016an0",
+          "redirectUrl": "http://uni.vi/yHJf1016an0",
+          "isFeedDialog": false,
+          "baseUrl": null,
+          "appId": "645138725541385",
+          "title": "Así de  bello era William Levy de bebé",
+          "description": "Escucha las noticias del Revoltlillo y mira cómo se prepara Juanes para su nuevo disco y lo que hizo Gloria Estefan por una buena causa.",
+          "imageUrl": "https://cdn2.uvnimg.com/2b/88/d7795b504f9980410e8aedddbedf/2968055"
+        },
+        "twitter": {
+          "url": "http://uni.vi/yHJf1016an0",
+          "title": "Así de  bello era William Levy de bebé",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/yHJf1016an0",
+          "message": "Así de  bello era William Levy de bebé"
+        },
+        "mail": {
+          "subject": "Así de  bello era William Levy de bebé",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nAsí de  bello era William Levy de bebé\n\nEncuéntralo en este enlace: http://uni.vi/yHJf1016an0\n\nVisitamos www.univision.com"
+        }
+      }
+    },
+    "rating": "TV-G",
+    "genre": "Variety",
+    "durationString": "",
+    "authRequired": false,
+    "longform": false,
+    "longformPlayList": false,
+    "episodeNo": "140815",
+    "seasonName": "2014",
+    "hasNextEpisode": false,
+    "authors": [
+
+    ],
+    "tempAuthors": [
+
+    ],
+    "source": "Univision",
+    "sourceStation": null,
+    "adSettings": {
+      "adTagValue": "video_tv/shows/despiertaamerica",
+      "targeting": {
+        "channel": "videoportal",
+        "subchannel": "despiertaamerica",
+        "section": "contentpage",
+        "content": "videopage",
+        "contenttype": "video",
+        "client": "desktop"
+      },
+      "disableAds": false,
+      "disableVideoAds": false,
+      "freewheel": {
+        "sectionId": "tv_shows_despiertaamerica_video",
+        "assetId": null,
+        "adValue": null,
+        "test": {
+          "displayAdProfilePath": "univision_test",
+          "host": "https://1b656.v.fwmrm.net",
+          "linkTag2Profile": "111976:univision_linktag2_test",
+          "networkCode": "111976",
+          "profilePath": "univision_test_HTML5"
+        },
+        "production": {
+          "displayAdProfilePath": "univision_test",
+          "host": "https://1b656.v.fwmrm.net",
+          "linkTag2Profile": "univision_linktag2_live",
+          "networkCode": "112214",
+          "profilePath": "univision_Live_HTML5"
+        }
+      },
+      "dfp": {
+        "adValue": "/tv/shows/despiertaamerica/video",
+        "production": {
+          "desktopAdValuePrefix": "d.",
+          "mobileAdValuePrefix": "m.",
+          "networkCode": "6881"
+        },
+        "test": {
+          "desktopAdValuePrefix": "d.",
+          "mobileAdValuePrefix": "m.",
+          "networkCode": "7009"
+        }
+      }
+    },
+    "tracking": {
+      "tealium": {
+        "account": "main",
+        "environment": "prod",
+        "data": {
+          "all_tags": [
+            "despierta america",
+            "shows",
+            "programas"
+          ],
+          "content_author": "",
+          "content_created_date": "1408108860000",
+          "content_creator": "00000147-f3a6-d4ea-a95f-fbb6a8ae0000",
+          "content_id": "00000147-fd78-d2f9-a347-fd7e341a0000",
+          "content_modified_date": "1527699470064",
+          "content_priority": "standard",
+          "content_provider_id": "2968055",
+          "content_type": "video",
+          "environment_name": "production",
+          "expiration_date": "1723641660000",
+          "language": "es",
+          "mvpd_auth_required": "false",
+          "network_name": "univision",
+          "page_name": "programas:despierta america:video:asi de  bello era william levy de bebe",
+          "parent_tags": [
+            "despierta america",
+            "shows",
+            "programas"
+          ],
+          "parent_topic": "programas",
+          "permalink": "https://www.univision.com/shows/despierta-america/asi-de-bello-era-william-levy-de-bebe-video",
+          "portal_theme": "entretenimiento",
+          "primary_tag": "despierta america",
+          "primary_tag_uid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+          "primary_tag_en": "despierta america",
+          "promo_title": "asi de  bello era william levy de bebe",
+          "publisher_tags": [
+            "despierta america"
+          ],
+          "season": "2014",
+          "short_title": "asi de  bello era william levy de bebe",
+          "short_title_en": "asi de  bello era william levy de bebe",
+          "show_name": "despierta america",
+          "source": "univision",
+          "tags_en": [
+            "despierta america",
+            "shows",
+            "programs"
+          ],
+          "title": "asi de  bello era william levy de bebe",
+          "title_en": "asi de  bello era william levy de bebe",
+          "topics": [
+            "programas"
+          ],
+          "uci_division": "entertainment",
+          "video_type": "clip",
+          "website": "univision",
+          "uni_platform": "Website"
+        }
+      },
+      "nielsen": {
+        "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid": "c02",
+        "environment": "prod",
+        "primaryTopic": "Programas"
+      }
+    },
+    "metaTagData": {
+      "settings": null,
+      "googlePlus": {
+        "author": null,
+        "publisher": null
+      },
+      "openGraph": {
+        "type": null,
+        "title": "Así de  bello era William Levy de bebé",
+        "description": "Escucha las noticias del Revoltlillo y mira cómo se prepara Juanes para su nuevo disco y lo que hizo Gloria Estefan por una buena causa.",
+        "imageUrl": "https://cdn2.uvnimg.com/2b/88/d7795b504f9980410e8aedddbedf/2968055",
+        "siteName": "Univision",
+        "url": "https://www.univision.com/shows/despierta-america/asi-de-bello-era-william-levy-de-bebe-video"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Así de  bello era William Levy de bebé",
+        "description": "Escucha las noticias del Revoltlillo y mira cómo se prepara Juanes para su nuevo disco y lo que hizo Gloria Estefan por una buena causa.",
+        "creator": null,
+        "imageUrl": "https://cdn2.uvnimg.com/2b/88/d7795b504f9980410e8aedddbedf/2968055"
+      },
+      "facebook": {
+        "pages": "259955926518,173155703431,174725429795,130815470261839"
+      },
+      "extras": [
+
+      ],
+      "additionalSeoKeywords": [
+
+      ]
+    },
+    "seo": {
+      "title": "Así de  bello era William Levy de bebé - Univision",
+      "description": "Escucha las noticias del Revoltlillo y mira cómo se prepara Juanes para su nuevo disco y lo que hizo Gloria Estefan por una buena causa.",
+      "keywords": [
+        "news",
+        "sasha preto",
+        "Satcha Pretto",
+        "videos",
+        "video",
+        "Alan Tatcher",
+        "america",
+        "despierta",
+        "Johnny Lozada",
+        "morning show",
+        "Ana Patricia González",
+        "el revoltillo",
+        "despierta america",
+        "Karla Martínez",
+        "DESPIERTA AMERICA"
+      ],
+      "robots": [
+
+      ],
+      "tagHierarchy": [
+        {
+          "@id": "https://www.univision.com/shows/despierta-america",
+          "name": "Despierta América",
+          "image": "https://cdn3.uvnimg.com/da/95/7134c1cc455092ba98e14cbd103a/DA_2015_TW.jpg"
+        },
+        {
+          "@id": "https://www.univision.com/temas/shows",
+          "name": "Shows",
+          "image": null
+        },
+        {
+          "@id": "https://www.univision.com",
+          "name": "Univision.com",
+          "image": "https://cdn3.uvnimg.com/a8/a8/a07b20854d2f848ac3d26d57fce4/univisionlogo.jpg"
+        }
+      ]
+    },
+    "widgets": [
+
+    ],
+    "brandable": {
+      "uid": "00000147-fd71-d2f9-a347-fd7f60ab0000",
+      "uri": "https://www.univision.com/shows/despierta-america",
+      "type": "show",
+      "updateDate": "2018-04-18T15:27:16-04:00",
+      "publishDate": "2015-09-14T07:00:00-04:00",
+      "expirationDate": null,
+      "title": "Despierta América",
+      "shortTitle": "Despierta América",
+      "description": "Despierta América con las más recientes noticias y lo mejor del entretenimiento: chismes, juegos, concursos, consejos útiles e invitados especiales.  ",
+      "shortDescription": "Despierta América con las más recientes noticias y lo mejor del entretenimiento: chismes, juegos, concursos, consejos útiles e invitados especiales.  ",
+      "richTextDescription": null,
+      "image": {
+        "type": "image",
+        "uid": "00000163-d5d9-d7f3-af7f-f5fff6b70000",
+        "title": "Despierta América Banner",
+        "caption": "Despierta América",
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://cdn3.uvnimg.com/da/95/7134c1cc455092ba98e14cbd103a/DA_2015_TW.jpg",
+            "width": 1500,
+            "height": 500
+          }
+        }
+      },
+      "isSensitive": false,
+      "primaryTag": {
+        "name": "Consulta Dr. Juan",
+        "link": "/temas/consulta-dr-juan"
+      },
+      "primaryTopic": "Programas",
+      "secondaryTags": [
+        {
+          "name": "Despierta América",
+          "link": "https://www.univision.com/shows/despierta-america"
+        }
+      ],
+      "contentPriority": "standard",
+      "show": {
+        "airTimeText": "Lunes a Viernes, 7AM/6C",
+        "socialNetworks": {
+          "facebookUrl": {
+            "text": null,
+            "url": "https://www.facebook.com/despiertamerica",
+            "target": "_blank",
+            "hashTags": [
+
+            ]
+          },
+          "googleUrl": null,
+          "instagramUrl": {
+            "text": null,
+            "url": "https://www.instagram.com/despiertamerica/",
+            "target": "_blank",
+            "hashTags": [
+
+            ]
+          },
+          "linkedInUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": {
+            "text": null,
+            "url": "https://twitter.com/despiertamerica",
+            "target": "_blank",
+            "hashTags": [
+
+            ]
+          },
+          "youTubeUrl": {
+            "text": null,
+            "url": "https://www.youtube.com/channel/UCMVlTv8EXJ2ZC-r6YCS1PIg",
+            "target": "_blank",
+            "hashTags": [
+
+            ]
+          }
+        },
+        "headerLogo": {
+          "original": {
+            "href": "https://cdn3.uvnimg.com/d3/57/f4d3341a400993e53c3126d7b7f9/lg-despierta-america.svg",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "showType": "shows"
+      }
+    },
+    "tagHierarchy": [
+      {
+        "name": "programas",
+        "url": "https://www.univision.com/temas/programas"
+      },
+      {
+        "name": "shows",
+        "url": "https://www.univision.com/temas/shows"
+      },
+      {
+        "name": "despierta america",
+        "url": "https://www.univision.com/shows/despierta-america"
+      }
+    ],
+    "height": 1080,
+    "width": 1920,
+    "hasCustomPlaylist": false,
+    "jwRecommendationChannel": "usbn2Hem",
+    "dynamicPlaylist": false,
+    "videoPlaylist": [
+
+    ],
+    "ttl": 900,
+    "feedGeneratedAt": "2018-06-06T12:07:01-04:00"
+  }
+}

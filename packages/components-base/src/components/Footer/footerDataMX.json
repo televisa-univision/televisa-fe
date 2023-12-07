@@ -1,0 +1,421 @@
+{
+
+    "general": {
+      "mainLinks": [
+        {
+          "text": "ACERCA DE TELEVISA",
+          "href": "https://www.televisa.com/corporativo/",
+          "target": "_blank"
+        },
+        {
+          "text": "SALA DE PRENSA",
+          "href": "https://prensa.televisa.com/",
+          "target": "_blank"
+        },
+        {
+          "text": "INVERSIONISTAS",
+          "href": "https://www.televisair.com/",
+          "target": "_blank"
+        },
+        {
+          "text": "SOSTENIBILIDAD",
+          "href": "https://www.televisair.com/~/media/Files/T/Televisa-IR/documents/sostenibilidad19grif-esp.pdf",
+          "target": "_blank"
+        }
+      ],
+      "links": [
+        {
+          "text": "Apps",
+          "href": "https://www.televisa.com/informacion/aplicaciones",
+          "target": "_blank"
+        },
+        {
+          "text": "Anúnciate",
+          "href": "https://televisallega.com/",
+          "target": "_blank",
+          "setCookie": "DO_NOT_SELL"
+        },
+        {
+          "text": "Contáctanos",
+          "href": "https://www.televisa.com/corporativo/contacto",
+          "target": "_blank"
+        },
+        {
+          "text": "Responsable Derecho de Réplica",
+          "href": "https://www.televisa.com/responsable-derecho-replica/",
+          "target": "_blank",
+          "setCookie": "_blank"
+        },
+        {
+          "text": "Convenio Del Usuario",
+          "href": "https://www.televisa.com/convenio-de-usuario/",
+          "target": "_blank"
+        },
+        {
+          "text": "Politica de Privacidad",
+          "href": "https://www.televisa.com/politica-de-privacidad/",
+          "target": "_blank"
+        },
+        {
+          "text": "Oferta Pública de Infraestructura",
+          "href": "https://www.televisa.com/opi/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "apps": {
+      "title": {
+        "text": "APPS"
+      },
+      "links": [
+        {
+          "text": "Las Estrellas",
+          "href": "https://www.lasestrellas.tv/",
+          "icon": "lasEstrellasApp",
+          "target": "_blank"
+        },
+        {
+          "text": "TUDN",
+          "href": "https://www.tudn.com/aplicacion-de-deportes",
+          "icon": "tudnApp",
+          "target": "_blank"
+        }
+      ]
+    },
+    "main": {
+      "title": {
+        "text": "Portada",
+        "href": "https://www.univision.com",
+        "target": "_self"
+      },
+      "links": [
+        {
+          "text": "Portada Televisa",
+          "href": "https://www.univision.com",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Famosos",
+          "href": "https://www.univision.com/famosos",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Horóscopos",
+          "href": "https://www.univision.com/horoscopos",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Tv En Vivo",
+          "href": "https://smart.link/5c75a80bcee04?site_id=univisioncom&creative_id=nav-footer&cp_3=TVE-2019&cp_0=browse&web_page=page/landing&utm_source=univisioncom&utm_medium=nav-footer&utm_content=TVE-2019&utm_campaign=TVE-2019",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Guía TV",
+          "href": "https://www.univision.com/shows/univision-guia-programacion-de-television-shows-novelas-y-series",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Delicioso",
+          "href": "https://www.univision.com/delicioso",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "A Bordo",
+          "href": "https://www.univision.com/carros",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Tu Ciudad",
+          "href": "https://www.univision.com/local",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Shows",
+          "href": "https://www.univision.com/shows",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Radio",
+          "href": "https://www.univision.com/radio",
+          "target": "_self",
+          "isMain": true
+        },
+        {
+          "text": "Música",
+          "href": "https://www.univision.com/musica",
+          "target": "_self"
+        },
+        {
+          "text": "Podcasts",
+          "href": "https://www.univision.com/radio/podcasts",
+          "target": "_self"
+        }
+      ]
+    },
+    "deportes": {
+      "title": {
+        "text": "Deportes",
+        "href": "https://www.univision.com/deportes",
+        "target": "_self"
+      },
+      "links": [
+        {
+          "text": "Fútbol",
+          "href": "https://www.univision.com/deportes/futbol",
+          "target": "_self"
+        },
+        {
+          "text": "Boxeo",
+          "href": "https://www.univision.com/deportes/boxeo",
+          "target": "_self"
+        },
+        {
+          "text": "Fórmula 1",
+          "href": "https://www.univision.com/deportes/formula-1",
+          "target": "_self"
+        },
+        {
+          "text": "MLB",
+          "href": "https://www.univision.com/deportes/mlb",
+          "target": "_self"
+        },
+        {
+          "text": "NBA",
+          "href": "https://www.univision.com/deportes/nba",
+          "target": "_self"
+        },
+        {
+          "text": "NFL",
+          "href": "https://www.univision.com/deportes/nfl",
+          "target": "_self"
+        },
+        {
+          "text": "Sensación Deporte",
+          "href": "https://www.univision.com/deportes/sensacion-deporte",
+          "target": "_self"
+        },
+        {
+          "text": "Tenis",
+          "href": "https://www.univision.com/deportes/tenis",
+          "target": "_self"
+        },
+        {
+          "text": "UFC",
+          "href": "https://www.univision.com/deportes/ufc",
+          "target": "_self"
+        },
+        {
+          "text": "Combate Américas",
+          "href": "https://www.univision.com/deportes/combate-americas",
+          "target": "_self"
+        },
+        {
+          "text": "Más Deportes",
+          "href": "https://www.univision.com/deportes/mas-deportes",
+          "target": "_self"
+        },
+        {
+          "text": "Premios Univision Deportes",
+          "href": "https://www.univision.com/deportes/premios-univision-deportes",
+          "target": "_self"
+        }
+      ]
+    },
+    "noticias": {
+      "title": {
+        "text": "Noticias",
+        "href": "https://www.univision.com/noticias",
+        "target": "_self"
+      },
+      "links": [
+        {
+          "text": "América Latina",
+          "href": "https://www.univision.com/noticias/america-latina",
+          "target": "_self"
+        },
+        {
+          "text": "Ataques",
+          "href": "https://www.univision.com/noticias/ataques",
+          "target": "_self"
+        },
+        {
+          "text": "Ciencia",
+          "href": "https://www.univision.com/noticias/ciencia",
+          "target": "_self"
+        },
+        {
+          "text": "Comunidad",
+          "href": "https://www.univision.com/noticias/comunidad",
+          "target": "_self"
+        },
+        {
+          "text": "Criminalidad",
+          "href": "https://www.univision.com/noticias/criminalidad ",
+          "target": "_self"
+        },
+        {
+          "text": "Dinero",
+          "href": "https://www.univision.com/noticias/dinero ",
+          "target": "_self"
+        },
+        {
+          "text": "Educación",
+          "href": "https://www.univision.com/noticias/educacion ",
+          "target": "_self"
+        },
+        {
+          "text": "Especiales",
+          "href": "https://www.univision.com/noticias/especiales ",
+          "target": "_self"
+        },
+        {
+          "text": "Estados Unidos",
+          "href": "https://www.univision.com/noticias/estados-unidos",
+          "target": "_self"
+        },
+        {
+          "text": "Fenómenos Naturales",
+          "href": "https://www.univision.com/noticias/fenomenos-naturales",
+          "target": "_self"
+        },
+        {
+          "text": "Hispanos",
+          "href": "https://www.univision.com/noticias/hispanos",
+          "target": "_self"
+        },
+        {
+          "text": "Inmigración",
+          "href": "https://www.univision.com/noticias/inmigracion",
+          "target": "_self"
+        },
+        {
+          "text": "Justicia",
+          "href": "https://www.univision.com/noticias/justicia",
+          "target": "_self"
+        },
+        {
+          "text": "Meteorología",
+          "href": "https://www.univision.com/noticias/meteorologia",
+          "target": "_self"
+        },
+        {
+          "text": "Mundo",
+          "href": "https://www.univision.com/noticias/medio-ambiente",
+          "target": "_self"
+        },
+        {
+          "text": "Narcotráfico",
+          "href": "https://www.univision.com/noticias/narcotrafico",
+          "target": "_self"
+        },
+        {
+          "text": "Opinión",
+          "href": "https://www.univision.com/noticias/opinion",
+          "target": "_self"
+        },
+        {
+          "text": "Pandillas",
+          "href": "https://www.univision.com/noticias/pandillas",
+          "target": "_self"
+        },
+        {
+          "text": "Planeta",
+          "href": "https://www.univision.com/noticias/medio-ambiente",
+          "target": "_self"
+        },
+        {
+          "text": "Política",
+          "href": "https://www.univision.com/noticias/politica",
+          "target": "_self"
+        },
+        {
+          "text": "Racismo",
+          "href": "https://www.univision.com/noticias/politica",
+          "target": "_self"
+        },
+        {
+          "text": "Religión",
+          "href": "https://www.univision.com/noticias/religion",
+          "target": "_self"
+        },
+        {
+          "text": "Reto-28",
+          "href": "https://www.univision.com/noticias/reto-28",
+          "target": "_self"
+        },
+        {
+          "text": "Salud",
+          "href": "https://www.univision.com/noticias/salud",
+          "target": "_self"
+        },
+        {
+          "text": "Sucesos",
+          "href": "https://www.univision.com/noticias/sucesos",
+          "target": "_self"
+        },
+        {
+          "text": "Tecnología",
+          "href": "https://www.univision.com/noticias/tecnologia",
+          "target": "_self"
+        },
+        {
+          "text": "Tiroteos",
+          "href": "https://www.univision.com/noticias/tiroteos",
+          "target": "_self"
+        },
+        {
+          "text": "Trending",
+          "href": "https://www.univision.com/noticias/trending",
+          "target": "_self"
+        }
+      ]
+    },
+    "other": {
+      "title": {
+        "text": "OTRAS PÁGINAS"
+      },
+      "links": [
+        {
+          "text": "Univision Deportes Network",
+          "href": "https://www.univision.com/deportes/udn",
+          "target": "_self"
+        },
+        {
+          "text": "Tarjeta Prepagada",
+          "href": "https://www.univisiontarjeta.com/?utm_source=univision.com&utm_medium=referral&utm_content=topnav-texthref&utm_campaign=UIM-Website",
+          "target": "_self"
+        },
+        {
+          "text": "Fusion",
+          "href": "https://fusion.tv/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "otherChains": {
+      "title": {
+        "text":  "OTRAS CADENAS"
+      },
+      "links": [
+        {
+          "text": "Galavisión",
+          "href": "https://www.univision.com/galavision",
+          "target": "_self"
+        },
+        {
+          "text": "Unimás TV",
+          "href": "https://www.univision.com/unimas",
+          "target": "_self"
+        }
+      ]
+    }
+  }

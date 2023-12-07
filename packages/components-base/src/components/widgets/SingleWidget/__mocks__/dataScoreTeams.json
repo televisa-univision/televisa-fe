@@ -1,0 +1,1525 @@
+{
+    "id": "soccer:event-commentary:es-419:2261429",
+    "sports-content": {
+        "xmlns": "",
+        "xmlns:xts": "http://www.xmlteam.com",
+        "xmlns:bbc": "",
+        "sports-metadata": {
+            "date-time": "2022-09-21T15:48:26Z",
+            "language": "es-419",
+            "fixture-key": "event-commentary",
+            "fixture-name": "Event Commentary",
+            "document-class": "event-summary",
+            "sports-content-codes": {
+                "sports-content-code": [
+                    {
+                        "code-name": "Opta",
+                        "code-key": "optasports.com",
+                        "code-type": "publisher"
+                    },
+                    {
+                        "code-name": "Soccer",
+                        "code-key": "15054000",
+                        "code-type": "sport"
+                    },
+                    {
+                        "code-name": "opta-sport-feed",
+                        "code-key": "Soccer::F13",
+                        "code-type": "article-ref"
+                    },
+                    {
+                        "code-key": "98",
+                        "code-type": "tournament"
+                    },
+                    {
+                        "code-key": "2022",
+                        "code-type": "season"
+                    },
+                    {
+                        "code-key": "2077",
+                        "code-type": "team"
+                    },
+                    {
+                        "code-key": "6900",
+                        "code-type": "team"
+                    }
+                ]
+            },
+            "sports-property": [
+                {
+                    "formal-name": "compound-key",
+                    "value": "soccer:event-commentary:es-419:2261429"
+                }
+            ]
+        },
+        "sports-event": {
+            "event-metadata": {
+                "event-key": "2261429",
+                "event-status": "post-event",
+                "event-status-note": "Result",
+                "start-date-time": "2022-09-17T23:30:00Z",
+                "event-type": "Regular",
+                "event-name": "Orlando City SC vs Toronto FC",
+                "event-outcome-type": "regular",
+                "event-metadata-soccer": {
+                    "week": "32",
+                    "minutes-elapsed": 35,
+                    "period-value": "2",
+                    "time-adjustment": {
+                        "period-extra-time-elapsed": "0"
+                    }
+                },
+                "site": {
+                    "site-metadata": {
+                        "site-key": "11698",
+                        "name": {
+                            "full": "Exploria Stadium"
+                        },
+                        "home-location": {
+                            "city": "Orlando, Florida"
+                        }
+                    }
+                },
+                "date-coverage-type": "event",
+                "season-key": "2022",
+                "period-start-date-time": "2022-09-21T16:00:21Z",
+                "sports-property": [
+                    {
+                        "formal-name": "league-key",
+                        "value": "98"
+                    },
+                    {
+                        "formal-name": "match-uid",
+                        "value": "2261429"
+                    },
+                    {
+                        "formal-name": "opta-detail-id",
+                        "value": "1"
+                    },
+                    {
+                        "formal-name": "opta-timing-id",
+                        "value": "1"
+                    },
+                    {
+                        "formal-name": "opta-accuracy-id",
+                        "value": "1"
+                    },
+                    {
+                        "formal-name": "maximum-number-of-weeks",
+                        "value": "38"
+                    },
+                    {
+                        "formal-name": "feature-event",
+                        "value": "false"
+                    },
+                    {
+                        "formal-name": "livestream-enabled",
+                        "value": "true"
+                    },
+                    {
+                        "formal-name": "tve-authenticated",
+                        "value": "false"
+                    },
+                    {
+                        "formal-name": "tudn-xtra",
+                        "value": "false"
+                    },
+                    {
+                        "formal-name": "broadcast-language",
+                        "value": ""
+                    },
+                    {
+                        "formal-name": "television-coverage",
+                        "value": "prende"
+                    },
+                    {
+                        "formal-name": "television-coverage-english",
+                        "value": ""
+                    },
+                    {
+                        "formal-name": "permalink",
+                        "value": "https://uat.tudn.com/futbol/mls/orlando-city-sc-vs-toronto-fc-mls-2022-09-17"
+                    },
+                    {
+                        "formal-name": "brightspot-id",
+                        "value": "0000017d-bf79-df39-adfd-bffb3aca0000"
+                    },
+                    {
+                        "formal-name": "tag-hierarchy",
+                        "value": "Deportes, Fútbol"
+                    },
+                    {
+                        "formal-name": "mcp-video-id",
+                        "value": ""
+                    },
+                    {
+                        "formal-name": "mcp-stream-start-time",
+                        "value": "2022-09-17T19:30:00-04:00"
+                    },
+                    {
+                        "formal-name": "mcp-stream-end-time",
+                        "value": "2022-09-17T21:30:00-04:00"
+                    },
+                    {
+                        "formal-name": "league-abbreviation",
+                        "value": "MLS"
+                    },
+                    {
+                        "formal-name": "league-coverage",
+                        "value": "Basic"
+                    }
+                ],
+                "sports-content-codes": {
+                    "sports-content-code": [
+                        {
+                            "code-name": "US Major League Soccer",
+                            "code-key": "98",
+                            "code-type": "tournament"
+                        },
+                        {
+                            "code-name": "US Major League Soccer",
+                            "code-key": "US_ML",
+                            "code-type": "league"
+                        },
+                        {
+                            "code-name": "Season 2022/2023",
+                            "code-key": "2022",
+                            "code-type": "season"
+                        }
+                    ]
+                }
+            },
+            "team": [
+                {
+                    "team-metadata": {
+                        "team-key": "6900",
+                        "alignment": "home",
+                        "name": {
+                            "full": "Orlando City SC",
+                            "abbreviation": "ORL"
+                        },
+                        "sports-property": [
+                            {
+                                "formal-name": "logo",
+                                "value": "https://uvn-brightspot.s3.amazonaws.com/90/33/f31bdf3b45b38258ccbc30758a38/orlando-city-2x.png"
+                            },
+                            {
+                                "formal-name": "permalink",
+                                "value": "https://uat.tudn.com/futbol/mls/orlando-city-sc"
+                            }
+                        ]
+                    },
+                    "team-stats": {
+                        "score": "4",
+                        "score-opposing": "0",
+                        "event-outcome": "win",
+                        "penalty-stats": {
+                            "count": ""
+                        }
+                    },
+                    "player": [
+                        {
+                            "id": "474038",
+                            "player-metadata": {
+                                "player-key": "474038",
+                                "name": {
+                                    "first": "Facundo",
+                                    "last": "Torres"
+                                },
+                                "sports-property": [
+                                    {
+                                        "formal-name": "permalink",
+                                        "value": "https://uat.x.univision.com/temas/facundo-torres"
+                                    }
+                                ],
+                                "sports-content-codes": [
+                                    {
+                                        "sports-content-code": [
+                                            {
+                                                "code-name": "CONMEBOL Mundial Eliminatorias",
+                                                "code-key": "342",
+                                                "code-type": "tournament",
+                                                "code-source": "brightspot"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "430360",
+                            "player-metadata": {
+                                "player-key": "430360",
+                                "name": {
+                                    "first": "Ercan",
+                                    "last": "Kara"
+                                },
+                                "sports-property": [
+                                    {
+                                        "formal-name": "permalink",
+                                        "value": "https://uat.tudn.com/futbol/jugadores/ercan-kara"
+                                    }
+                                ],
+                                "sports-content-codes": [
+                                    {
+                                        "sports-content-code": [
+                                            {
+                                                "code-name": "UEFA Europa League",
+                                                "code-key": "6",
+                                                "code-type": "tournament",
+                                                "code-source": "brightspot"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "481367",
+                            "player-metadata": {
+                                "player-key": "481367",
+                                "name": {
+                                    "first": "Lukas",
+                                    "last": "MacNaughton"
+                                },
+                                "sports-property": [
+                                    {
+                                        "formal-name": "permalink",
+                                        "value": "https://uat.tudn.com/futbol/jugadores/lukas-macnaughton"
+                                    }
+                                ],
+                                "sports-content-codes": [
+                                    {
+                                        "sports-content-code": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "177947",
+                            "player-metadata": {
+                                "player-key": "177947",
+                                "name": {
+                                    "first": "Tesho",
+                                    "last": "Akindele"
+                                },
+                                "sports-property": [
+                                    {
+                                        "formal-name": "permalink",
+                                        "value": "https://uat.tudn.com/futbol/jugadores/tesho-akindele"
+                                    }
+                                ],
+                                "sports-content-codes": [
+                                    {
+                                        "sports-content-code": []
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team-metadata": {
+                        "team-key": "2077",
+                        "alignment": "away",
+                        "name": {
+                            "full": "Toronto FC",
+                            "abbreviation": "TOR"
+                        },
+                        "sports-property": [
+                            {
+                                "formal-name": "logo",
+                                "value": "https://uvn-brightspot.s3.amazonaws.com/0c/15/6a55cec94aa98094467e4ec9bd39/toronto-2x.png"
+                            },
+                            {
+                                "formal-name": "permalink",
+                                "value": "https://uat.tudn.com/futbol/mls/toronto-fc"
+                            }
+                        ]
+                    },
+                    "team-stats": {
+                        "score": "0",
+                        "score-opposing": "4",
+                        "event-outcome": "loss",
+                        "penalty-stats": {
+                            "count": ""
+                        }
+                    }
+                }
+            ],
+            "event-actions": {
+                "event-actions-soccer": {
+                    "action-soccer-penalty": [
+                        {
+                            "id": "a.2461594627",
+                            "created": "2022-09-18T01:24:42Z",
+                            "minutesElapsed": "90",
+                            "seconds": "2",
+                            "period-time": "2",
+                            "comment": "Federico Bernardeschi (Toronto FC) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                            "player-id": "147297",
+                            "penalty-level": "yellow-card"
+                        },
+                        {
+                            "id": "a.2461588677",
+                            "created": "2022-09-18T01:16:51Z",
+                            "minutesElapsed": "82",
+                            "seconds": "11",
+                            "period-time": "2",
+                            "comment": "Lukas MacNaughton (Toronto FC) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                            "player-id": "481367",
+                            "penalty-level": "yellow-card"
+                        },
+                        {
+                            "id": "a.2461552263",
+                            "created": "2022-09-18T00:15:45Z",
+                            "minutesElapsed": "38",
+                            "seconds": "39",
+                            "period-time": "1",
+                            "comment": "João Moutinho (Orlando City SC) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                            "player-id": "443002",
+                            "penalty-level": "yellow-card"
+                        },
+                        {
+                            "id": "a.2461547919",
+                            "created": "2022-09-18T00:09:12Z",
+                            "minutesElapsed": "32",
+                            "seconds": "5",
+                            "period-time": "1",
+                            "comment": "Domenico Criscito (Toronto FC) ha sido amonestado con tarjeta amarilla por juego peligroso.",
+                            "player-id": "19821",
+                            "penalty-level": "yellow-card"
+                        }
+                    ],
+                    "action-soccer-score": [
+                        {
+                            "id": "a.2461590557",
+                            "created": "2022-09-18T01:19:38Z",
+                            "minutesElapsed": "84",
+                            "seconds": "58",
+                            "period-time": "2",
+                            "comment": "¡Gol!  Orlando City SC 4, Toronto FC 0. Tesho Akindele (Orlando City SC) zurdazo desde el lado izquierdo dentro del área por el lado derecho de la portería. Asistencia de Iván Angulo después de un pase en profundidad.",
+                            "player-id": "177947",
+                            "score-attempt-type": "regular"
+                        },
+                        {
+                            "id": "a.2461566429",
+                            "created": "2022-09-18T00:42:19Z",
+                            "minutesElapsed": "47",
+                            "seconds": "38",
+                            "period-time": "2",
+                            "comment": "Autogol de Lukas MacNaughton, Toronto FC.  Orlando City SC 3, Toronto FC 0.",
+                            "player-id": "481367",
+                            "score-attempt-type": "own-goal"
+                        },
+                        {
+                            "id": "a.2461543145",
+                            "created": "2022-09-18T00:00:03Z",
+                            "minutesElapsed": "22",
+                            "seconds": "56",
+                            "period-time": "1",
+                            "comment": "¡Gol!  Orlando City SC 2, Toronto FC 0. Ercan Kara (Orlando City SC) zurdazo desde el lado izquierdo dentro del área disparo rastrero, junto al palo izquierdo. Asistencia de Mauricio Pereyra después de un pase en profundidad tras un contragolpe.",
+                            "player-id": "430360",
+                            "score-attempt-type": "regular"
+                        },
+                        {
+                            "id": "a.2461535405",
+                            "created": "2022-09-17T23:46:47Z",
+                            "minutesElapsed": "9",
+                            "seconds": "41",
+                            "period-time": "1",
+                            "comment": "¡Gol!  Orlando City SC 1, Toronto FC 0. Facundo Torres (Orlando City SC) zurdazo desde fuera del área por el lado derecho de la portería. Asistencia de Antônio Carlos.",
+                            "player-id": "474038",
+                            "score-attempt-type": "regular"
+                        }
+                    ],
+                    "action-soccer-substitution": [
+                        {
+                            "id": "a.2461591083",
+                            "created": "2022-09-18T01:20:32Z",
+                            "minutesElapsed": "85",
+                            "seconds": "52",
+                            "period-time": "2",
+                            "comment": "Cambio en Orlando City SC, ingresa al campo Nicholas Gioacchini sustituyendo a Wilder Cartagena.",
+                            "player-id": "494252"
+                        },
+                        {
+                            "id": "a.2461590051",
+                            "created": "2022-09-18T01:18:54Z",
+                            "minutesElapsed": "84",
+                            "seconds": "13",
+                            "period-time": "2",
+                            "comment": "Cambio en Toronto FC, ingresa al campo Jahkeele Marshall-Rutty sustituyendo a Richie Laryea.",
+                            "player-id": "475879"
+                        },
+                        {
+                            "id": "a.2461587353",
+                            "created": "2022-09-18T01:15:44Z",
+                            "minutesElapsed": "81",
+                            "seconds": "3",
+                            "period-time": "2",
+                            "comment": "Cambio en Orlando City SC, ingresa al campo Tesho Akindele sustituyendo a Facundo Torres.",
+                            "player-id": "177947"
+                        },
+                        {
+                            "id": "a.2461587273",
+                            "created": "2022-09-18T01:15:41Z",
+                            "minutesElapsed": "80",
+                            "seconds": "0",
+                            "period-time": "2",
+                            "comment": "Cambio en Orlando City SC, ingresa al campo Kyle Smith sustituyendo a Ruan.",
+                            "player-id": "227733"
+                        },
+                        {
+                            "id": "a.2461582669",
+                            "created": "2022-09-18T01:07:03Z",
+                            "minutesElapsed": "72",
+                            "seconds": "23",
+                            "period-time": "2",
+                            "comment": "Cambio en Toronto FC, ingresa al campo Jonathan Osorio sustituyendo a Mark-Anthony Kaye.",
+                            "player-id": "153647"
+                        },
+                        {
+                            "id": "a.2461582583",
+                            "created": "2022-09-18T01:06:51Z",
+                            "minutesElapsed": "72",
+                            "seconds": "11",
+                            "period-time": "2",
+                            "comment": "Cambio en Toronto FC, ingresa al campo Luca Petrasso sustituyendo a Domenico Criscito debido a una lesión.",
+                            "player-id": "224764"
+                        },
+                        {
+                            "id": "a.2461582229",
+                            "created": "2022-09-18T01:06:18Z",
+                            "minutesElapsed": "71",
+                            "seconds": "37",
+                            "period-time": "2",
+                            "comment": "Cambio en Orlando City SC, ingresa al campo Andrés Perea sustituyendo a Mauricio Pereyra.",
+                            "player-id": "429548"
+                        },
+                        {
+                            "id": "a.2461582179",
+                            "created": "2022-09-18T01:06:03Z",
+                            "minutesElapsed": "71",
+                            "seconds": "22",
+                            "period-time": "2",
+                            "comment": "Cambio en Orlando City SC, ingresa al campo Benji Michel sustituyendo a Ercan Kara.",
+                            "player-id": "451038"
+                        },
+                        {
+                            "id": "a.2461570485",
+                            "created": "2022-09-18T00:47:58Z",
+                            "minutesElapsed": "53",
+                            "seconds": "17",
+                            "period-time": "2",
+                            "comment": "Cambio en Toronto FC, ingresa al campo Jesús Jiménez sustituyendo a Ayo Akinola.",
+                            "player-id": "434867"
+                        },
+                        {
+                            "id": "a.2461570439",
+                            "created": "2022-09-18T00:47:53Z",
+                            "minutesElapsed": "53",
+                            "seconds": "13",
+                            "period-time": "2",
+                            "comment": "Cambio en Toronto FC, ingresa al campo Deandre Kerr sustituyendo a Kosi Thompson.",
+                            "player-id": "433012"
+                        }
+                    ],
+                    "action-soccer-play": [
+                        {
+                            "id": "a.2461597937",
+                            "created": "2022-09-18T01:31:13Z",
+                            "minutesElapsed": "96",
+                            "seconds": "0",
+                            "period-time": "2",
+                            "comment": "Final del partido' Orlando City SC 4, Toronto FC 0.",
+                            "play-type": "game-end"
+                        },
+                        {
+                            "id": "a.2461597689",
+                            "created": "2022-09-18T01:30:44Z",
+                            "minutesElapsed": "96",
+                            "seconds": "4",
+                            "period-time": "2",
+                            "comment": "Final segunda parte' Orlando City SC 4, Toronto FC 0.",
+                            "play-type": "period-end"
+                        },
+                        {
+                            "id": "a.2461597449",
+                            "created": "2022-09-18T01:30:19Z",
+                            "minutesElapsed": "95",
+                            "seconds": "39",
+                            "period-time": "2",
+                            "comment": "Deandre Kerr (Toronto FC) ha recibido una falta en la banda izquierda.",
+                            "player-id": "433012",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461597441",
+                            "created": "2022-09-18T01:30:19Z",
+                            "minutesElapsed": "95",
+                            "seconds": "39",
+                            "period-time": "2",
+                            "comment": "Falta de Kyle Smith (Orlando City SC).",
+                            "player-id": "227733",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461597233",
+                            "created": "2022-09-18T01:29:52Z",
+                            "minutesElapsed": "95",
+                            "seconds": "11",
+                            "period-time": "2",
+                            "comment": "disparo que sale desviado de Andrés Perea (Orlando City SC) disparo de cabeza desde el centro del área muy cerca del palo izquierdo pero sale ligeramente desviado. Asistencia de Kyle Smith con un centro al área.",
+                            "player-id": "429548",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461596409",
+                            "created": "2022-09-18T01:28:18Z",
+                            "minutesElapsed": "93",
+                            "seconds": "37",
+                            "period-time": "2",
+                            "comment": "Falta de Jahkeele Marshall-Rutty (Toronto FC).",
+                            "player-id": "475879",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461596385",
+                            "created": "2022-09-18T01:28:18Z",
+                            "minutesElapsed": "93",
+                            "seconds": "37",
+                            "period-time": "2",
+                            "comment": "João Moutinho (Orlando City SC) ha recibido una falta en la banda izquierda.",
+                            "player-id": "443002",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461596245",
+                            "created": "2022-09-18T01:28:00Z",
+                            "minutesElapsed": "93",
+                            "seconds": "20",
+                            "period-time": "2",
+                            "comment": "Tiro atajado por abajo a la izquierda. Antônio Carlos (Orlando City SC) Disparo con la derecha desde fuera del área. Asistencia de Júnior Urso pase largo.",
+                            "player-id": "116400",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "saved"
+                        },
+                        {
+                            "id": "a.2461595757",
+                            "created": "2022-09-18T01:27:00Z",
+                            "minutesElapsed": "92",
+                            "seconds": "20",
+                            "period-time": "2",
+                            "comment": "Saque de esquina,  Orlando City SC. Saque de esquina cometido por Lukas MacNaughton.",
+                            "player-id": "481367",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461595729",
+                            "created": "2022-09-18T01:26:58Z",
+                            "minutesElapsed": "92",
+                            "seconds": "18",
+                            "period-time": "2",
+                            "comment": "Remate rechazado de Andrés Perea (Orlando City SC),  Disparo con la derecha desde fuera del área. Asistencia de Tesho Akindele.",
+                            "player-id": "429548",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "blocked"
+                        },
+                        {
+                            "id": "a.2461595069",
+                            "created": "2022-09-18T01:25:52Z",
+                            "minutesElapsed": "91",
+                            "seconds": "12",
+                            "period-time": "2",
+                            "comment": "disparo que sale desviado de Lorenzo Insigne (Toronto FC) Disparo con la derecha desde fuera del área que se le va demasiado alto de tiro libre directo.",
+                            "player-id": "75592",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461593889",
+                            "created": "2022-09-18T01:24:10Z",
+                            "minutesElapsed": "89",
+                            "seconds": "30",
+                            "period-time": "2",
+                            "comment": "Federico Bernardeschi (Toronto FC) ha recibido una falta en campo contrario.",
+                            "player-id": "147297",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461593893",
+                            "created": "2022-09-18T01:24:10Z",
+                            "minutesElapsed": "89",
+                            "seconds": "30",
+                            "period-time": "2",
+                            "comment": "Falta de Andrés Perea (Orlando City SC).",
+                            "player-id": "429548",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461592795",
+                            "created": "2022-09-18T01:22:48Z",
+                            "minutesElapsed": "88",
+                            "seconds": "7",
+                            "period-time": "2",
+                            "comment": "Tiro atajado raso al centro del arco. Jesús Jiménez (Toronto FC) Disparo con la derecha desde el centro del área. Asistencia de Lorenzo Insigne.",
+                            "player-id": "434867",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "saved"
+                        },
+                        {
+                            "id": "a.2461591235",
+                            "created": "2022-09-18T01:20:46Z",
+                            "minutesElapsed": "86",
+                            "seconds": "6",
+                            "period-time": "2",
+                            "comment": "Jonathan Osorio (Toronto FC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "153647",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461591279",
+                            "created": "2022-09-18T01:20:46Z",
+                            "minutesElapsed": "86",
+                            "seconds": "6",
+                            "period-time": "2",
+                            "comment": "Falta de Andrés Perea (Orlando City SC).",
+                            "player-id": "429548",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461590237",
+                            "created": "2022-09-18T01:19:03Z",
+                            "minutesElapsed": "84",
+                            "seconds": "22",
+                            "period-time": "2",
+                            "comment": "Falta de Michael Bradley (Toronto FC).",
+                            "player-id": "37368",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461590219",
+                            "created": "2022-09-18T01:19:03Z",
+                            "minutesElapsed": "84",
+                            "seconds": "22",
+                            "period-time": "2",
+                            "comment": "Júnior Urso (Orlando City SC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "106916",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461589183",
+                            "created": "2022-09-18T01:17:35Z",
+                            "minutesElapsed": "82",
+                            "seconds": "55",
+                            "period-time": "2",
+                            "comment": "Fuera de lugar, Orlando City SC. Kyle Smith intentó un pase en profundidad pero Tesho Akindele estaba en posición adelantada.",
+                            "player-id": "227733",
+                            "play-type": "offside"
+                        },
+                        {
+                            "id": "a.2461588571",
+                            "created": "2022-09-18T01:16:45Z",
+                            "minutesElapsed": "82",
+                            "seconds": "5",
+                            "period-time": "2",
+                            "comment": "Falta de Lukas MacNaughton (Toronto FC).",
+                            "player-id": "481367",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461588567",
+                            "created": "2022-09-18T01:16:45Z",
+                            "minutesElapsed": "82",
+                            "seconds": "5",
+                            "period-time": "2",
+                            "comment": "Iván Angulo (Orlando City SC) ha recibido una falta en la banda izquierda.",
+                            "player-id": "243810",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461586625",
+                            "created": "2022-09-18T01:13:49Z",
+                            "minutesElapsed": "79",
+                            "seconds": "9",
+                            "period-time": "2",
+                            "comment": "disparo que sale desviado de Facundo Torres (Orlando City SC) zurdazo desde fuera del área sale rozando por arriba a la izquierda. Asistencia de Andrés Perea.",
+                            "player-id": "474038",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461586249",
+                            "created": "2022-09-18T01:13:18Z",
+                            "minutesElapsed": "78",
+                            "seconds": "37",
+                            "period-time": "2",
+                            "comment": "Falta de Jesús Jiménez (Toronto FC).",
+                            "player-id": "434867",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461586237",
+                            "created": "2022-09-18T01:13:18Z",
+                            "minutesElapsed": "78",
+                            "seconds": "37",
+                            "period-time": "2",
+                            "comment": "Andrés Perea (Orlando City SC) ha recibido una falta en campo contrario.",
+                            "player-id": "429548",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461584207",
+                            "created": "2022-09-18T01:09:57Z",
+                            "minutesElapsed": "75",
+                            "seconds": "17",
+                            "period-time": "2",
+                            "comment": "Falta de Shane O'Neill (Toronto FC).",
+                            "player-id": "118230",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461584197",
+                            "created": "2022-09-18T01:09:57Z",
+                            "minutesElapsed": "75",
+                            "seconds": "17",
+                            "period-time": "2",
+                            "comment": "Facundo Torres (Orlando City SC) ha recibido una falta en campo contrario.",
+                            "player-id": "474038",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461583763",
+                            "created": "2022-09-18T01:08:57Z",
+                            "minutesElapsed": "74",
+                            "seconds": "16",
+                            "period-time": "2",
+                            "comment": "Falta de Lukas MacNaughton (Toronto FC).",
+                            "player-id": "481367",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461583735",
+                            "created": "2022-09-18T01:08:57Z",
+                            "minutesElapsed": "74",
+                            "seconds": "16",
+                            "period-time": "2",
+                            "comment": "Rodrigo Schlegel (Orlando City SC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "421184",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461583531",
+                            "created": "2022-09-18T01:08:31Z",
+                            "minutesElapsed": "73",
+                            "seconds": "50",
+                            "period-time": "2",
+                            "comment": "Saque de esquina,  Toronto FC. Saque de esquina cometido por Facundo Torres.",
+                            "player-id": "474038",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461583349",
+                            "created": "2022-09-18T01:08:15Z",
+                            "minutesElapsed": "73",
+                            "seconds": "34",
+                            "period-time": "2",
+                            "comment": "Remate rechazado de Deandre Kerr (Toronto FC),  Disparo con la derecha desde el centro del área. Asistencia de Jesús Jiménez.",
+                            "player-id": "433012",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "blocked"
+                        },
+                        {
+                            "id": "a.2461580565",
+                            "created": "2022-09-18T01:02:44Z",
+                            "minutesElapsed": "68",
+                            "seconds": "4",
+                            "period-time": "2",
+                            "comment": "Domenico Criscito (Toronto FC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "19821",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461580551",
+                            "created": "2022-09-18T01:02:44Z",
+                            "minutesElapsed": "68",
+                            "seconds": "4",
+                            "period-time": "2",
+                            "comment": "Falta de Ercan Kara (Orlando City SC).",
+                            "player-id": "430360",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461580063",
+                            "created": "2022-09-18T01:01:41Z",
+                            "minutesElapsed": "66",
+                            "seconds": "0",
+                            "period-time": "2",
+                            "comment": "Falta de Jesús Jiménez (Toronto FC).",
+                            "player-id": "434867",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461580071",
+                            "created": "2022-09-18T01:01:41Z",
+                            "minutesElapsed": "66",
+                            "seconds": "0",
+                            "period-time": "2",
+                            "comment": "Iván Angulo (Orlando City SC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "243810",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461577577",
+                            "created": "2022-09-18T00:57:10Z",
+                            "minutesElapsed": "62",
+                            "seconds": "29",
+                            "period-time": "2",
+                            "comment": "Tiro atajado Por arriba en el centro del arco. Lorenzo Insigne (Toronto FC) disparo de cabeza a quemarropa desde el lado izquierdo. Asistencia de Federico Bernardeschi pase largo.",
+                            "player-id": "75592",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "saved"
+                        },
+                        {
+                            "id": "a.2461576917",
+                            "created": "2022-09-18T00:56:04Z",
+                            "minutesElapsed": "61",
+                            "seconds": "24",
+                            "period-time": "2",
+                            "comment": "Tiro atajado raso al centro del arco. Jesús Jiménez (Toronto FC) Disparo con la derecha desde fuera del área. Asistencia de Mark-Anthony Kaye.",
+                            "player-id": "434867",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "saved"
+                        },
+                        {
+                            "id": "a.2461575841",
+                            "created": "2022-09-18T00:54:26Z",
+                            "minutesElapsed": "59",
+                            "seconds": "45",
+                            "period-time": "2",
+                            "comment": "disparo que sale desviado de Ercan Kara (Orlando City SC) Disparo con la derecha desde fuera del área que se le va demasiado alto. Asistencia de João Moutinho tras un saque de esquina.",
+                            "player-id": "430360",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461575681",
+                            "created": "2022-09-18T00:54:13Z",
+                            "minutesElapsed": "59",
+                            "seconds": "33",
+                            "period-time": "2",
+                            "comment": "Remate rechazado de Iván Angulo (Orlando City SC),  zurdazo desde fuera del área. Asistencia de Mauricio Pereyra.",
+                            "player-id": "243810",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "blocked"
+                        },
+                        {
+                            "id": "a.2461575177",
+                            "created": "2022-09-18T00:53:20Z",
+                            "minutesElapsed": "58",
+                            "seconds": "40",
+                            "period-time": "2",
+                            "comment": "Saque de esquina,  Orlando City SC. Saque de esquina cometido por Shane O'Neill.",
+                            "player-id": "118230",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461574873",
+                            "created": "2022-09-18T00:53:04Z",
+                            "minutesElapsed": "58",
+                            "seconds": "23",
+                            "period-time": "2",
+                            "comment": "Falta de Jesús Jiménez (Toronto FC).",
+                            "player-id": "434867",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461574837",
+                            "created": "2022-09-18T00:53:04Z",
+                            "minutesElapsed": "58",
+                            "seconds": "23",
+                            "period-time": "2",
+                            "comment": "Mauricio Pereyra (Orlando City SC) ha recibido una falta en campo contrario.",
+                            "player-id": "78103",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461574591",
+                            "created": "2022-09-18T00:52:46Z",
+                            "minutesElapsed": "58",
+                            "seconds": "5",
+                            "period-time": "2",
+                            "comment": "Tiro atajado por abajo a la izquierda. Iván Angulo (Orlando City SC) zurdazo sin ángulo desde la izquierda.",
+                            "player-id": "243810",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "saved"
+                        },
+                        {
+                            "id": "a.2461572371",
+                            "created": "2022-09-18T00:50:10Z",
+                            "minutesElapsed": "55",
+                            "seconds": "29",
+                            "period-time": "2",
+                            "comment": "Falta de Mark-Anthony Kaye (Toronto FC).",
+                            "player-id": "227731",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461572359",
+                            "created": "2022-09-18T00:50:10Z",
+                            "minutesElapsed": "55",
+                            "seconds": "29",
+                            "period-time": "2",
+                            "comment": "Júnior Urso (Orlando City SC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "106916",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461571277",
+                            "created": "2022-09-18T00:48:58Z",
+                            "minutesElapsed": "54",
+                            "seconds": "18",
+                            "period-time": "2",
+                            "comment": "Tiro atajado raso al centro del arco. Iván Angulo (Orlando City SC) Disparo con la derecha desde fuera del área. Asistencia de Wilder Cartagena.",
+                            "player-id": "243810",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "saved"
+                        },
+                        {
+                            "id": "a.2461570185",
+                            "created": "2022-09-18T00:47:34Z",
+                            "minutesElapsed": "52",
+                            "seconds": "53",
+                            "period-time": "2",
+                            "comment": "disparo que sale desviado de Domenico Criscito (Toronto FC) zurdazo desde fuera del área que se va alto y desviado por la derecha. Asistencia de Lorenzo Insigne tras un saque de esquina.",
+                            "player-id": "19821",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461569961",
+                            "created": "2022-09-18T00:47:13Z",
+                            "minutesElapsed": "52",
+                            "seconds": "33",
+                            "period-time": "2",
+                            "comment": "Saque de esquina,  Toronto FC. Saque de esquina cometido por Rodrigo Schlegel.",
+                            "player-id": "421184",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461569863",
+                            "created": "2022-09-18T00:47:11Z",
+                            "minutesElapsed": "52",
+                            "seconds": "31",
+                            "period-time": "2",
+                            "comment": "Remate rechazado de Michael Bradley (Toronto FC),  zurdazo desde fuera del área. Asistencia de Kosi Thompson.",
+                            "player-id": "37368",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "blocked"
+                        },
+                        {
+                            "id": "a.2461569255",
+                            "created": "2022-09-18T00:46:26Z",
+                            "minutesElapsed": "51",
+                            "seconds": "46",
+                            "period-time": "2",
+                            "comment": "Domenico Criscito (Toronto FC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "19821",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461569243",
+                            "created": "2022-09-18T00:46:26Z",
+                            "minutesElapsed": "51",
+                            "seconds": "46",
+                            "period-time": "2",
+                            "comment": "Falta de Mauricio Pereyra (Orlando City SC).",
+                            "player-id": "78103",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461567437",
+                            "created": "2022-09-18T00:43:47Z",
+                            "minutesElapsed": "49",
+                            "seconds": "7",
+                            "period-time": "2",
+                            "comment": "disparo que sale desviado de Lorenzo Insigne (Toronto FC) Disparo con la derecha desde el lado izquierdo dentro del área que sale rozando el travesaño. Asistencia de Mark-Anthony Kaye.",
+                            "player-id": "75592",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461565759",
+                            "created": "2022-09-18T00:41:18Z",
+                            "minutesElapsed": "46",
+                            "seconds": "37",
+                            "period-time": "2",
+                            "comment": "Falta de Lorenzo Insigne (Toronto FC).",
+                            "player-id": "75592",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461565553",
+                            "created": "2022-09-18T00:41:18Z",
+                            "minutesElapsed": "46",
+                            "seconds": "37",
+                            "period-time": "2",
+                            "comment": "Mauricio Pereyra (Orlando City SC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "78103",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461565065",
+                            "created": "2022-09-18T00:40:40Z",
+                            "minutesElapsed": "46",
+                            "seconds": "0",
+                            "period-time": "2",
+                            "comment": "Empieza segunda parte Orlando City SC 2, Toronto FC 0.",
+                            "play-type": "period-start"
+                        },
+                        {
+                            "id": "a.2461557249",
+                            "created": "2022-09-18T00:24:14Z",
+                            "minutesElapsed": "47",
+                            "seconds": "7",
+                            "period-time": "1",
+                            "comment": "Final primera parte' Orlando City SC 2, Toronto FC 0.",
+                            "play-type": "period-end"
+                        },
+                        {
+                            "id": "a.2461556903",
+                            "created": "2022-09-18T00:23:29Z",
+                            "minutesElapsed": "46",
+                            "seconds": "23",
+                            "period-time": "1",
+                            "comment": "Tiro atajado junto al lado derecho de la portería. Júnior Urso (Orlando City SC) Disparo con la derecha desde fuera del área. Asistencia de Facundo Torres.",
+                            "player-id": "106916",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "saved"
+                        },
+                        {
+                            "id": "a.2461555785",
+                            "created": "2022-09-18T00:21:39Z",
+                            "minutesElapsed": "44",
+                            "seconds": "32",
+                            "period-time": "1",
+                            "comment": "Falta de Michael Bradley (Toronto FC).",
+                            "player-id": "37368",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461555775",
+                            "created": "2022-09-18T00:21:39Z",
+                            "minutesElapsed": "44",
+                            "seconds": "32",
+                            "period-time": "1",
+                            "comment": "Ercan Kara (Orlando City SC) ha recibido una falta en campo contrario.",
+                            "player-id": "430360",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461555097",
+                            "created": "2022-09-18T00:20:19Z",
+                            "minutesElapsed": "43",
+                            "seconds": "12",
+                            "period-time": "1",
+                            "comment": "Saque de esquina,  Toronto FC. Saque de esquina cometido por João Moutinho.",
+                            "player-id": "443002",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461554721",
+                            "created": "2022-09-18T00:19:36Z",
+                            "minutesElapsed": "42",
+                            "seconds": "30",
+                            "period-time": "1",
+                            "comment": "Facundo Torres (Orlando City SC) remata al poste izquierdo,  zurdazo desde el lado izquierdo dentro del área. Asistencia de Iván Angulo.",
+                            "player-id": "474038",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "off-post"
+                        },
+                        {
+                            "id": "a.2461552211",
+                            "created": "2022-09-18T00:15:38Z",
+                            "minutesElapsed": "38",
+                            "seconds": "32",
+                            "period-time": "1",
+                            "comment": "Falta de João Moutinho (Orlando City SC).",
+                            "player-id": "443002",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461552169",
+                            "created": "2022-09-18T00:15:38Z",
+                            "minutesElapsed": "38",
+                            "seconds": "32",
+                            "period-time": "1",
+                            "comment": "Federico Bernardeschi (Toronto FC) ha recibido una falta en la banda derecha.",
+                            "player-id": "147297",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461552051",
+                            "created": "2022-09-18T00:15:19Z",
+                            "minutesElapsed": "38",
+                            "seconds": "13",
+                            "period-time": "1",
+                            "comment": "Juego peligroso de Wilder Cartagena (Orlando City SC).",
+                            "player-id": "178615",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461552043",
+                            "created": "2022-09-18T00:15:19Z",
+                            "minutesElapsed": "38",
+                            "seconds": "13",
+                            "period-time": "1",
+                            "comment": "Kosi Thompson (Toronto FC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "485703",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461550975",
+                            "created": "2022-09-18T00:13:56Z",
+                            "minutesElapsed": "36",
+                            "seconds": "49",
+                            "period-time": "1",
+                            "comment": "Saque de esquina,  Orlando City SC. Saque de esquina cometido por Lukas MacNaughton.",
+                            "player-id": "481367",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461549907",
+                            "created": "2022-09-18T00:12:18Z",
+                            "minutesElapsed": "35",
+                            "seconds": "12",
+                            "period-time": "1",
+                            "comment": "disparo que sale desviado de Federico Bernardeschi (Toronto FC) zurdazo desde el centro del área muy cerca del palo izquierdo pero sale ligeramente desviado. Asistencia de Lorenzo Insigne.",
+                            "player-id": "147297",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461549357",
+                            "created": "2022-09-18T00:11:31Z",
+                            "minutesElapsed": "34",
+                            "seconds": "25",
+                            "period-time": "1",
+                            "comment": "Falta de João Moutinho (Orlando City SC).",
+                            "player-id": "443002",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461549339",
+                            "created": "2022-09-18T00:11:31Z",
+                            "minutesElapsed": "34",
+                            "seconds": "25",
+                            "period-time": "1",
+                            "comment": "Richie Laryea (Toronto FC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "221403",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461548803",
+                            "created": "2022-09-18T00:10:42Z",
+                            "minutesElapsed": "33",
+                            "seconds": "35",
+                            "period-time": "1",
+                            "comment": "disparo que sale desviado de Ruan (Orlando City SC) Disparo con la derecha desde fuera del área que se le va demasiado alto. Asistencia de Júnior Urso.",
+                            "player-id": "246099",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461547789",
+                            "created": "2022-09-18T00:08:58Z",
+                            "minutesElapsed": "31",
+                            "seconds": "52",
+                            "period-time": "1",
+                            "comment": "Facundo Torres (Orlando City SC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "474038",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461547787",
+                            "created": "2022-09-18T00:08:58Z",
+                            "minutesElapsed": "31",
+                            "seconds": "52",
+                            "period-time": "1",
+                            "comment": "Falta de Domenico Criscito (Toronto FC).",
+                            "player-id": "19821",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461546593",
+                            "created": "2022-09-18T00:07:14Z",
+                            "minutesElapsed": "30",
+                            "seconds": "7",
+                            "period-time": "1",
+                            "comment": "Remate rechazado de Antônio Carlos (Orlando City SC),  Disparo con la derecha desde fuera del área. Asistencia de Rodrigo Schlegel.",
+                            "player-id": "116400",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "blocked"
+                        },
+                        {
+                            "id": "a.2461545857",
+                            "created": "2022-09-18T00:05:35Z",
+                            "minutesElapsed": "28",
+                            "seconds": "29",
+                            "period-time": "1",
+                            "comment": "Mano de Iván Angulo (Orlando City SC).",
+                            "player-id": "243810",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461542371",
+                            "created": "2022-09-17T23:58:31Z",
+                            "minutesElapsed": "21",
+                            "seconds": "25",
+                            "period-time": "1",
+                            "comment": "Falta de Ercan Kara (Orlando City SC).",
+                            "player-id": "430360",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461542365",
+                            "created": "2022-09-17T23:58:31Z",
+                            "minutesElapsed": "21",
+                            "seconds": "25",
+                            "period-time": "1",
+                            "comment": "Domenico Criscito (Toronto FC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "19821",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461540427",
+                            "created": "2022-09-17T23:54:52Z",
+                            "minutesElapsed": "17",
+                            "seconds": "46",
+                            "period-time": "1",
+                            "comment": "Facundo Torres (Orlando City SC) ha recibido una falta en la banda derecha.",
+                            "player-id": "474038",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461540433",
+                            "created": "2022-09-17T23:54:52Z",
+                            "minutesElapsed": "17",
+                            "seconds": "46",
+                            "period-time": "1",
+                            "comment": "Falta de Mark-Anthony Kaye (Toronto FC).",
+                            "player-id": "227731",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461540153",
+                            "created": "2022-09-17T23:54:13Z",
+                            "minutesElapsed": "17",
+                            "seconds": "7",
+                            "period-time": "1",
+                            "comment": "Mauricio Pereyra (Orlando City SC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "78103",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461540159",
+                            "created": "2022-09-17T23:54:13Z",
+                            "minutesElapsed": "17",
+                            "seconds": "7",
+                            "period-time": "1",
+                            "comment": "Falta de Michael Bradley (Toronto FC).",
+                            "player-id": "37368",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461538955",
+                            "created": "2022-09-17T23:52:08Z",
+                            "minutesElapsed": "15",
+                            "seconds": "2",
+                            "period-time": "1",
+                            "comment": "disparo que sale desviado de Iván Angulo (Orlando City SC) Disparo con la derecha desde fuera del área el balón se pierde por el lado derecho de la portería. Asistencia de Wilder Cartagena.",
+                            "player-id": "243810",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461537903",
+                            "created": "2022-09-17T23:50:30Z",
+                            "minutesElapsed": "13",
+                            "seconds": "24",
+                            "period-time": "1",
+                            "comment": "disparo que sale desviado de Ayo Akinola (Toronto FC) Disparo con la derecha desde el lado derecho dentro del área el balón se pierde por el lado derecho de la portería. Asistencia de Kosi Thompson.",
+                            "player-id": "215474",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461537139",
+                            "created": "2022-09-17T23:49:21Z",
+                            "minutesElapsed": "12",
+                            "seconds": "15",
+                            "period-time": "1",
+                            "comment": "disparo que sale desviado de Lorenzo Insigne (Toronto FC) Disparo con la derecha desde fuera del área que se va alto y desviado por la derecha.",
+                            "player-id": "75592",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461534757",
+                            "created": "2022-09-17T23:45:54Z",
+                            "minutesElapsed": "8",
+                            "seconds": "47",
+                            "period-time": "1",
+                            "comment": "Saque de esquina,  Orlando City SC. Saque de esquina cometido por Richie Laryea.",
+                            "player-id": "221403",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461534705",
+                            "created": "2022-09-17T23:45:53Z",
+                            "minutesElapsed": "8",
+                            "seconds": "46",
+                            "period-time": "1",
+                            "comment": "Remate rechazado de Iván Angulo (Orlando City SC),  Disparo con la derecha desde el lado izquierdo dentro del área. Asistencia de Ercan Kara.",
+                            "player-id": "243810",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "blocked"
+                        },
+                        {
+                            "id": "a.2461533823",
+                            "created": "2022-09-17T23:44:30Z",
+                            "minutesElapsed": "7",
+                            "seconds": "24",
+                            "period-time": "1",
+                            "comment": "Facundo Torres (Orlando City SC) ha recibido una falta en campo contrario.",
+                            "player-id": "474038",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461533789",
+                            "created": "2022-09-17T23:44:30Z",
+                            "minutesElapsed": "7",
+                            "seconds": "24",
+                            "period-time": "1",
+                            "comment": "Falta de Shane O'Neill (Toronto FC).",
+                            "player-id": "118230",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461532189",
+                            "created": "2022-09-17T23:42:03Z",
+                            "minutesElapsed": "4",
+                            "seconds": "57",
+                            "period-time": "1",
+                            "comment": "disparo que sale desviado de Wilder Cartagena (Orlando City SC) Disparo con la derecha desde fuera del área que se pierde por la izquierda.",
+                            "player-id": "178615",
+                            "play-type": "shot",
+                            "score-attempt-type": "regular",
+                            "score-attempt-result": "missed"
+                        },
+                        {
+                            "id": "a.2461531661",
+                            "created": "2022-09-17T23:41:18Z",
+                            "minutesElapsed": "4",
+                            "seconds": "12",
+                            "period-time": "1",
+                            "comment": "Falta de Federico Bernardeschi (Toronto FC).",
+                            "player-id": "147297",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461531647",
+                            "created": "2022-09-17T23:41:18Z",
+                            "minutesElapsed": "4",
+                            "seconds": "12",
+                            "period-time": "1",
+                            "comment": "João Moutinho (Orlando City SC) ha recibido una falta en la banda izquierda.",
+                            "player-id": "443002",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461531167",
+                            "created": "2022-09-17T23:40:34Z",
+                            "minutesElapsed": "3",
+                            "seconds": "28",
+                            "period-time": "1",
+                            "comment": "Saque de esquina,  Toronto FC. Saque de esquina cometido por Facundo Torres.",
+                            "player-id": "474038",
+                            "play-type": "corner",
+                            "score-attempt-type": "corner-kick"
+                        },
+                        {
+                            "id": "a.2461530787",
+                            "created": "2022-09-17T23:39:39Z",
+                            "minutesElapsed": "2",
+                            "seconds": "32",
+                            "period-time": "1",
+                            "comment": "Mark-Anthony Kaye (Toronto FC) ha recibido una falta en la zona defensiva.",
+                            "player-id": "227731",
+                            "play-type": "free-kick"
+                        },
+                        {
+                            "id": "a.2461530583",
+                            "created": "2022-09-17T23:39:39Z",
+                            "minutesElapsed": "2",
+                            "seconds": "32",
+                            "period-time": "1",
+                            "comment": "Juego peligroso de Mauricio Pereyra (Orlando City SC).",
+                            "player-id": "78103",
+                            "play-type": "foul"
+                        },
+                        {
+                            "id": "a.2461529505",
+                            "created": "2022-09-17T23:38:06Z",
+                            "minutesElapsed": "0",
+                            "seconds": "0",
+                            "period-time": "1",
+                            "comment": "Empieza primera parte.",
+                            "play-type": "game-start"
+                        },
+                        {
+                            "id": "a.2461512889",
+                            "created": "2022-09-17T22:42:30Z",
+                            "comment": "Alineaciones confirmadas por parte de ambos equipos. Los protagonistas saltan al campo para iniciar los ejercicios de calentamiento",
+                            "play-type": "line-up-announcement"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "type": "article",
+  "uid": "00000164-eccf-d476-a377-ecef915c0000",
+  "uri": "https://uat2.x.univision.com/delicioso/recetas/tacos-sudados-o-de-canasta",
+  "vertical": "Entretenimiento",
+  "parent": {
+    "uuid": "00000163-9805-d84a-a1ff-bab5ebe60000",
+    "uri": "https://uat2.x.univision.com/delicioso",
+    "name": "delicioso",
+    "title": "Delicioso"
+  },
+  "title": "Tacos sudados o de canasta",
+  "description": "Este es uno de los platos más populares de la cocina mexicana. Mira qué fácil es hacerlos en casa.",
+  "image": {
+    "type": "image",
+    "uid": "00000164-ecd1-d476-a377-ecfb887e0000",
+    "title": "Tacos sudados ",
+    "caption": null,
+    "credit": "Harry Castiblanco",
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot.s3.amazonaws.com/c3/6e/40342ed4495d9fd2aa85269ef4df/tacos-sudados.jpg",
+        "width": 1920,
+        "height": 1280
+      }
+    }
+  },
+  "authors": [
+
+  ],
+  "cardLabel": null,
+  "updateDate": "2019-10-11T15:30:46-04:00",
+  "publishDate": "2018-07-30T16:23:46-04:00",
+  "expirationDate": "3000-01-01T00:00:00-05:00",
+  "hierarchy": [
+    {
+      "uuid": "00000163-9805-d84a-a1ff-bab5ebe60000",
+      "uri": "https://uat2.x.univision.com/delicioso",
+      "name": "delicioso",
+      "title": "Delicioso"
+    }
+  ],
+  "contentPriority": "STANDARD",
+  "recipeData": {
+    "mealTypes": ["Vegetariana"],
+    "totalMinutes": 90,
+    "difficulty": "Intermedio"
+  },
+  "leadType": "image",
+  "articleType": "Recipe",
+  "body": [
+
+  ],
+  "jwRecommendationChannel": "1ndde4fa",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "http://uni.vi/dVU5101bG6f",
+        "isFeedDialog": false,
+        "title": "Tacos sudados o de canasta",
+        "description": "Este es uno de los platos más populares de la cocina mexicana. Mira qué fácil es hacerlos en casa.",
+        "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/c3/6e/40342ed4495d9fd2aa85269ef4df/tacos-sudados.jpg",
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "http://uni.vi/dVU5101bG6f",
+        "title": "Tacos sudados o de canasta",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "http://uni.vi/dVU5101bG6f",
+        "message": "Tacos sudados o de canasta"
+      },
+      "mail": {
+        "subject": "Tacos sudados o de canasta",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTacos sudados o de canasta\n\nEncuéntralo en este enlace:http://uni.vi/dVU5101bG6f\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "useWebviewInApps": false,
+  "primaryTag": {
+    "name": "Cenas Delicioso",
+    "link": "https://uat2.x.univision.com/temas/cenas-delicioso"
+  }
+}

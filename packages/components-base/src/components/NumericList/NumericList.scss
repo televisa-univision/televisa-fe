@@ -1,0 +1,61 @@
+.wrapper {
+  background: $white;
+  padding: 10px 13px 20px 13px;
+  margin-top: 20px;
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+}
+
+.text {
+  color: $black-grey;
+  font-size: rem(14px);
+  line-height: rem(17px);
+  font-weight: bold;
+  &:visited, &:active, &:focus{
+    color: $black-grey;
+    text-decoration: none;
+  }
+  &:hover {
+    color: $grey;
+    text-decoration: none;
+  }
+}
+
+.topicModifier {
+  @include media-breakpoint-up('md') {
+    padding: 16px 0 10px;
+  }
+}
+
+.topicModifier div {
+  font-size: 0.875rem;
+  line-height: 1.0625rem;
+}
+
+.list {
+  counter-reset: item;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 12px 0 0 0;
+
+}
+.listItem {
+  display: flex;
+  margin-bottom: 30px;
+  counter-increment: item;
+
+  &:before {
+    display: flex;
+    font-size: rem(36px);
+    line-height: rem(39px);
+    color: #D2D2D2;
+    content: counter(item)'.';
+    min-width: 57px;
+    padding-left: 10px;
+    align-self: flex-start;
+    -webkit-font-smoothing: antialiased;
+  }
+}

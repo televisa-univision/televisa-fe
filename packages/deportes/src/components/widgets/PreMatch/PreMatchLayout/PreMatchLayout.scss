@@ -1,0 +1,54 @@
+.container {
+  width: 100%;
+}
+
+.card {
+  margin-bottom: 32px;
+  @include media-breakpoint-up("sm") {
+    margin-bottom: 22px;
+  }
+  @include media-breakpoint-up("md") {
+    margin-bottom: 0;
+  }
+}
+
+.col {
+  &:not(:first-child) {
+    padding-left: 5px;
+  }
+  &:not(:last-child) {
+    padding-right: 5px;
+  }
+
+  &:first-child {
+    @include media-breakpoint-down("sm") {
+      padding-right: 0;
+    }
+  }
+  &:nth-child(2) {
+    @include media-breakpoint-down("sm") {
+      padding-left: 0;
+    }
+    @include media-breakpoint-down("xs") {
+      padding-right: 0;
+    }
+  }
+  &:last-child {
+    @include media-breakpoint-down("xs") {
+      padding-left: 0;
+    }
+  }
+}
+
+.last {
+  margin-bottom: 0;
+}
+
+.noInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 0;
+  text-transform: uppercase;
+  font-size: rem(14px);
+}

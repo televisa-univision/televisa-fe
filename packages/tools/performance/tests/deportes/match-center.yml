@@ -1,0 +1,22 @@
+config:
+  target: 'https://dev.webapp.univision.com'
+  phases:
+    - duration: 60
+      arrivalCount: 2400
+      name: "Warm up"
+    - duration: 300
+      arrivalRate: 80
+      name: "Sustained max load"
+scenarios:
+  - name: "Deportes"
+    flow:
+      - get:
+          url: "/deportes/futbol/uefa-champions-league/barcelona-vs-celtic-uefa-champions-league-2016-09-13"
+      - get:
+          url: "/proxy/api/cached/sports/v1/stats/soccer/888092"
+      - get:
+          url: "/proxy/api/cached/sports/v1/schedule-results/soccer/888092"
+      - get:
+          url: "/proxy/api/cached/sports/v1/commentary/soccer/888092"
+      - get:
+          url: "/proxy/api/cached/sports/v1/standings/soccer/2016/5"

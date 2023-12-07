@@ -1,0 +1,113 @@
+{
+  "name": "@univision/fe-utilities",
+  "version": "10.680.1",
+  "description": "Shared and agnostics utilities package for Univision",
+  "author": "UVN Platform Engineers",
+  "license": "MIT",
+  "homepage": "https://github.com/univision/univision-fe/packages/utilities#readme",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision/univision-fe.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "yarn": ">=1.22.0"
+  },
+  "bugs": {
+    "url": "https://github.com/univision/univision-fe/issues"
+  },
+  "type": "commonjs",
+  "main": "./cjs/",
+  "module": "./esm/",
+  "exports": {
+    "./cjs/helpers/object/getKey": "./cjs/helpers/object/getKey.js",
+    "./cjs/utils/consola": {
+      "require": "./cjs/utils/consola.js"
+    },
+    "./": {
+      "require": "./cjs/",
+      "default": "./esm/"
+    }
+  },
+  "scripts": {
+    "start": "NODE_OPTIONS=--openssl-legacy-provider npm-run-all lint jest storybook",
+    "docs": "jsdoc -c .jsdoc.json",
+    "test": "npm run jest",
+    "test:watch": "npm run jest -- --watch",
+    "test:skip": "npm run jest:parallel",
+    "jest": "NODE_ENV=test jest --coverage --runInBand --colors",
+    "jest:parallel": "jest --coverage",
+    "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:src lint:test",
+    "lint:src": "eslint --config .eslintrc './**/*.js' --ignore-pattern 'src/**/*.spec.js' --ignore-pattern '*.stories.js'",
+    "lint:test": "eslint --config .eslintrc.spec 'src/**/*.spec.js' './**/*.stories.js'",
+    "storybook": "npm run docs && http-server -p 6008 docs | start-storybook -p 6007",
+    "clean": "rimraf dist",
+    "export": "build-storybook -c .storybook -o dist/story",
+    "babel": "npm-run-all babel:esm babel:cjs",
+    "babel:esm": "TARGET=esm babel src --out-dir esm --copy-files --no-copy-ignored && node scripts/esmPackage",
+    "babel:cjs": "TARGET=cjs babel src --out-dir cjs --copy-files --no-copy-ignored",
+    "build": "npm-run-all clean babel build:post",
+    "build:post": "rimraf '+(esm|cjs)/**/+(__tests__|__mocks__|*.stories.*)'",
+    "build:watch": "npm-run-all clean 'babel --watch'"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "lodash.get": "^4.4.2",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "4.1.18",
+    "@storybook/addon-info": "4.1.18",
+    "@storybook/addon-links": "4.1.18",
+    "@storybook/addons": "4.1.18",
+    "@storybook/react": "4.1.18",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "eslint": "6.5.1",
+    "http-server": "^0.12.3",
+    "jest": "^26.6.3",
+    "mkdirp": "^0.5.1",
+    "react": "^16.13.1",
+    "rimraf": "^2.6.2"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    },
+    "modulePathIgnorePatterns": [
+      "<rootDir>/dist/"
+    ],
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!**/*.stories.*"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "statements": 100,
+        "branches": 100,
+        "functions": 100,
+        "lines": 100
+      }
+    },
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/node_modules/",
+      "<rootDir>/config/",
+      "<rootDir>/doc/",
+      "<rootDir>/dist/"
+    ],
+    "testMatch": [
+      "**/__tests__/**/*.spec.[jt]s?(x)"
+    ],
+    "setupFiles": [
+      "<rootDir>/config/tests.env.js"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/config/tests.setup.js"
+    ],
+    "testEnvironment": "jest-environment-jsdom-global"
+  }
+}

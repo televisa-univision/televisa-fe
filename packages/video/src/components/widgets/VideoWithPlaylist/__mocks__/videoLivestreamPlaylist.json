@@ -1,0 +1,1870 @@
+{
+  "settings": {
+    "type": "allvideoplaylistvideo",
+    "uid": "00000174-91a8-ddf2-ad7e-d5ff635e0007",
+    "livestream": {
+      "type": "livestream",
+      "uid": "0000016c-9213-d30a-a1ed-96b794270000",
+      "uri": "https://uat.tudn.com/test/test-hls-livestream",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://uat.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      },
+      "title": "TEST HLS",
+      "description": "",
+      "image": {
+        "type": null,
+        "uid": null,
+        "title": null,
+        "caption": null,
+        "credit": null,
+        "renditions": null
+      },
+      "authors": [],
+      "cardLabel": "EN VIVO",
+      "updateDate": "2020-09-11T13:16:01-04:00",
+      "publishDate": "2019-08-14T17:41:25-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri": "https://uat.tudn.com/futbol/liga-mx",
+          "name": "liga mx",
+          "title": "Liga MX"
+        }
+      ],
+      "disableReactions": false,
+      "livestreamId": "201908141741",
+      "autoPlay": true,
+      "tvssUrl": "auth.dev.y.univision.com",
+      "mainImage": null,
+      "unauthenticatedVideoTvssUrl": "https://auth.dev.y.univision.com/api/v2/video-auth/adhoc-url-signature-token",
+      "hlsRenditionUrl": "https://usapr-i.akamaihd.net/hls/live/702697/tudn247/master.m3u8",
+      "liveStreamType": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/dF861022IQx",
+            "isFeedDialog": false,
+            "title": "TEST HLS",
+            "description": null,
+            "imageUrl": null,
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/dF861022IQx",
+            "title": "TEST HLS",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/dF861022IQx",
+            "message": "TEST HLS"
+          },
+          "mail": {
+            "subject": "TEST HLS",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTEST HLS\n\nEncuéntralo en este enlace:http://uni.vi/dF861022IQx\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "enableDai": false,
+      "jwRecommendationChannel": null,
+      "isDigitalChannelLiveStream": false,
+      "isAkamaiTokenEnabled": true,
+      "auth": false,
+      "active": true,
+      "isAuth": false,
+      "player": "JW",
+      "isActive": true,
+      "isVertical": "Deportes"
+    },
+    "otherTabs": [
+      null
+    ],
+    "mainTabLabel": null,
+    "title": "DVL 2",
+    "titleLink": null,
+    "lazyLoaded": false
+  },
+  "analyticsData": {
+    "widget": {
+      "widget_pos": 2,
+      "widget_title": "dvl 2",
+      "widget_type": "all - video playlist - video"
+    }
+  },
+  "contents": [
+    {
+      "type": "livestream",
+      "uid": "0000016c-9213-d30a-a1ed-96b794270000",
+      "uri": "https://uat.tudn.com/test/test-hls-livestream",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+        "uri": "https://uat.tudn.com/futbol/liga-mx",
+        "name": "liga mx",
+        "title": "Liga MX"
+      },
+      "title": "TEST HLS",
+      "description": "",
+      "image": {
+        "type": null,
+        "uid": null,
+        "title": null,
+        "caption": null,
+        "credit": null,
+        "renditions": null
+      },
+      "authors": [],
+      "cardLabel": "EN VIVO",
+      "updateDate": "2020-09-11T13:16:01-04:00",
+      "publishDate": "2019-08-14T17:41:25-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        },
+        {
+          "uuid": "00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "uri": "https://uat.tudn.com/futbol/liga-mx",
+          "name": "liga mx",
+          "title": "Liga MX"
+        }
+      ],
+      "disableReactions": false,
+      "livestreamId": "201908141741",
+      "autoPlay": true,
+      "tvssUrl": "auth.dev.y.univision.com",
+      "mainImage": null,
+      "unauthenticatedVideoTvssUrl": "https://auth.dev.y.univision.com/api/v2/video-auth/adhoc-url-signature-token",
+      "hlsRenditionUrl": "https://usapr-i.akamaihd.net/hls/live/702697/tudn247/master.m3u8",
+      "liveStreamType": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/dF861022IQx",
+            "isFeedDialog": false,
+            "title": "TEST HLS",
+            "description": null,
+            "imageUrl": null,
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/dF861022IQx",
+            "title": "TEST HLS",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/dF861022IQx",
+            "message": "TEST HLS"
+          },
+          "mail": {
+            "subject": "TEST HLS",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTEST HLS\n\nEncuéntralo en este enlace:http://uni.vi/dF861022IQx\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "enableDai": false,
+      "jwRecommendationChannel": null,
+      "isDigitalChannelLiveStream": false,
+      "isAkamaiTokenEnabled": true,
+      "auth": false,
+      "active": true,
+      "primaryTag": {
+        "name": "Liga MX",
+        "link": "https://uat.tudn.com/futbol/liga-mx"
+      }
+    },
+    {
+      "type": "soccermatch",
+      "uid": "00000168-29fc-d462-a3ef-a9fde0b80000",
+      "uri": "https://uat.tudn.com/futbol/mls/minnesota-united-fc-vs-sporting-kansas-c-mls-2019-09-25",
+      "vertical": null,
+      "parent": null,
+      "title": "Minnesota United FC vs Sporting Kansas City",
+      "description": "Minnesota United FC vs Sporting Kansas City",
+      "image": {
+        "type": "image",
+        "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title": "Univision Fallback Image",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-09-13T08:27:14-04:00",
+      "publishDate": "2019-02-13T04:00:58-05:00",
+      "expirationDate": "3000-01-01T00:00:00-05:00",
+      "hierarchy": [],
+      "disableReactions": false,
+      "streamId": null,
+      "shortTitle": "MIN vs SKC",
+      "matchId": 1040234,
+      "soccerCompetitionSeason": {
+        "seasonId": "2019",
+        "seasonName": "Season 2019/2020",
+        "soccerCompetition": {
+          "id": "98",
+          "name": "MLS",
+          "league": {
+            "type": "league",
+            "uid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+            "uri": "https://uat.tudn.com/futbol/mls",
+            "id": "l.mlsnet.com",
+            "image": {
+              "type": null,
+              "uid": null,
+              "title": null,
+              "caption": null,
+              "credit": null,
+              "renditions": null
+            },
+            "logo": {
+              "type": "image",
+              "uid": "0000014d-1fac-d645-af5f-5fec02c90000",
+              "title": "mls-2x.png",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/6d/ae/a7ebf8f1478d99159b092c9bdc77/mls-2x.png",
+                  "width": 144,
+                  "height": 144
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/feeefc5/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/85185c5/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/69015c5/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/944f84e/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/7df5f26/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                  "width": 30,
+                  "height": 17
+                }
+              }
+            },
+            "abbreviation": "MLS",
+            "includesVideo": true,
+            "coverage": "Performance",
+            "activeSoccerCompetitionURL": null,
+            "hierarchy": [
+              {
+                "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                "uri": "https://uat.tudn.com",
+                "name": "deportes",
+                "title": "Deportes"
+              },
+              {
+                "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                "uri": "https://uat.tudn.com/futbol",
+                "name": "futbol",
+                "title": "Fútbol"
+              },
+              {
+                "uuid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+                "uri": "https://uat.tudn.com/futbol/mls",
+                "name": "mls",
+                "title": "MLS"
+              }
+            ]
+          },
+          "hasBracketsSupport": true
+        }
+      },
+      "homeTeamSeason": {
+        "type": "teamseason",
+        "uid": "00000167-cce1-d6ad-a5ff-fefb34d70000",
+        "uri": null,
+        "vertical": null,
+        "parent": null,
+        "title": "Minnesota United FC | MLS | 2019",
+        "description": "Minnesota United FC | MLS | 2019",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": null,
+        "publishDate": null,
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "hierarchy": [],
+        "disableReactions": false,
+        "teamId": 6977,
+        "teamName": "Minnesota United FC",
+        "teamAbbreviatedName": "MIN",
+        "teamLogo": {
+          "type": "image",
+          "uid": "0000015a-48d3-d7d6-a97b-daf3ba7e0000",
+          "title": "Minnesota United FC",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/ae/4c/b76774be441c85df0f01e3e15aab/minnesota-united-fc-mls-primary-2x.png",
+              "width": 144,
+              "height": 144
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/26fa4e2/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fae%2F4c%2Fb76774be441c85df0f01e3e15aab%2Fminnesota-united-fc-mls-primary-2x.png",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/f076c04/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fae%2F4c%2Fb76774be441c85df0f01e3e15aab%2Fminnesota-united-fc-mls-primary-2x.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/0a6ae2c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fae%2F4c%2Fb76774be441c85df0f01e3e15aab%2Fminnesota-united-fc-mls-primary-2x.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/1d5e23c/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fae%2F4c%2Fb76774be441c85df0f01e3e15aab%2Fminnesota-united-fc-mls-primary-2x.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/2e3103f/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fae%2F4c%2Fb76774be441c85df0f01e3e15aab%2Fminnesota-united-fc-mls-primary-2x.png",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "soccerCompetitionSeason": {
+          "seasonId": "2019",
+          "seasonName": "Season 2019/2020",
+          "soccerCompetition": {
+            "id": "98",
+            "name": "MLS",
+            "league": {
+              "type": "league",
+              "uid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+              "uri": "https://uat.tudn.com/futbol/mls",
+              "id": "l.mlsnet.com",
+              "image": {
+                "type": null,
+                "uid": null,
+                "title": null,
+                "caption": null,
+                "credit": null,
+                "renditions": null
+              },
+              "logo": {
+                "type": "image",
+                "uid": "0000014d-1fac-d645-af5f-5fec02c90000",
+                "title": "mls-2x.png",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/6d/ae/a7ebf8f1478d99159b092c9bdc77/mls-2x.png",
+                    "width": 144,
+                    "height": 144
+                  },
+                  "16x9-med": {
+                    "href": "https://uat2.x.univision.com/dims4/default/feeefc5/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href": "https://uat2.x.univision.com/dims4/default/85185c5/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/69015c5/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-tablet": {
+                    "href": "https://uat2.x.univision.com/dims4/default/944f84e/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-loading": {
+                    "href": "https://uat2.x.univision.com/dims4/default/7df5f26/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 30,
+                    "height": 17
+                  }
+                }
+              },
+              "abbreviation": "MLS",
+              "includesVideo": true,
+              "coverage": "Performance",
+              "activeSoccerCompetitionURL": null,
+              "hierarchy": [
+                {
+                  "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                  "uri": "https://uat.tudn.com",
+                  "name": "deportes",
+                  "title": "Deportes"
+                },
+                {
+                  "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                  "uri": "https://uat.tudn.com/futbol",
+                  "name": "futbol",
+                  "title": "Fútbol"
+                },
+                {
+                  "uuid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+                  "uri": "https://uat.tudn.com/futbol/mls",
+                  "name": "mls",
+                  "title": "MLS"
+                }
+              ]
+            },
+            "hasBracketsSupport": true
+          }
+        }
+      },
+      "awayTeamSeason": {
+        "type": "teamseason",
+        "uid": "00000167-cce1-d6ad-a5ff-fefb32e00000",
+        "uri": null,
+        "vertical": null,
+        "parent": null,
+        "title": "Sporting Kansas City | MLS | 2019",
+        "description": "Sporting Kansas City | MLS | 2019",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": null,
+        "publishDate": null,
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "hierarchy": [],
+        "disableReactions": false,
+        "teamId": 421,
+        "teamName": "Sporting Kansas C.",
+        "teamAbbreviatedName": "SKC",
+        "teamLogo": {
+          "type": "image",
+          "uid": "0000014d-0873-ddc6-a5dd-19f78eac0000",
+          "title": "Sporting Kansas City Logo",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/97/0a/db33ce4d4f83a22f5cf716336908/sporting-kansas-city-2x.png",
+              "width": 144,
+              "height": 144
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/464886f/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F97%2F0a%2Fdb33ce4d4f83a22f5cf716336908%2Fsporting-kansas-city-2x.png",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/9218aad/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F97%2F0a%2Fdb33ce4d4f83a22f5cf716336908%2Fsporting-kansas-city-2x.png",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/9e24089/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F97%2F0a%2Fdb33ce4d4f83a22f5cf716336908%2Fsporting-kansas-city-2x.png",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/a9a83c0/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F97%2F0a%2Fdb33ce4d4f83a22f5cf716336908%2Fsporting-kansas-city-2x.png",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/a880a06/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F97%2F0a%2Fdb33ce4d4f83a22f5cf716336908%2Fsporting-kansas-city-2x.png",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "soccerCompetitionSeason": {
+          "seasonId": "2019",
+          "seasonName": "Season 2019/2020",
+          "soccerCompetition": {
+            "id": "98",
+            "name": "MLS",
+            "league": {
+              "type": "league",
+              "uid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+              "uri": "https://uat.tudn.com/futbol/mls",
+              "id": "l.mlsnet.com",
+              "image": {
+                "type": null,
+                "uid": null,
+                "title": null,
+                "caption": null,
+                "credit": null,
+                "renditions": null
+              },
+              "logo": {
+                "type": "image",
+                "uid": "0000014d-1fac-d645-af5f-5fec02c90000",
+                "title": "mls-2x.png",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/6d/ae/a7ebf8f1478d99159b092c9bdc77/mls-2x.png",
+                    "width": 144,
+                    "height": 144
+                  },
+                  "16x9-med": {
+                    "href": "https://uat2.x.univision.com/dims4/default/feeefc5/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href": "https://uat2.x.univision.com/dims4/default/85185c5/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/69015c5/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-tablet": {
+                    "href": "https://uat2.x.univision.com/dims4/default/944f84e/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-loading": {
+                    "href": "https://uat2.x.univision.com/dims4/default/7df5f26/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6d%2Fae%2Fa7ebf8f1478d99159b092c9bdc77%2Fmls-2x.png",
+                    "width": 30,
+                    "height": 17
+                  }
+                }
+              },
+              "abbreviation": "MLS",
+              "includesVideo": true,
+              "coverage": "Performance",
+              "activeSoccerCompetitionURL": null,
+              "hierarchy": [
+                {
+                  "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+                  "uri": "https://uat.tudn.com",
+                  "name": "deportes",
+                  "title": "Deportes"
+                },
+                {
+                  "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+                  "uri": "https://uat.tudn.com/futbol",
+                  "name": "futbol",
+                  "title": "Fútbol"
+                },
+                {
+                  "uuid": "00000152-3cae-d5cc-affa-7dafe52e0000",
+                  "uri": "https://uat.tudn.com/futbol/mls",
+                  "name": "mls",
+                  "title": "MLS"
+                }
+              ]
+            },
+            "hasBracketsSupport": true
+          }
+        }
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-36d5-d964-abff-b6dff46c0000",
+      "uri": "https://uat.x.univision.com/local/nueva-york-wxtv/habitantes-de-manhattan-opinan-sobre-el-mural-de-black-lives-matter-hecho-frente-a-la-torre-trump-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+        "uri": "https://uat.x.univision.com/local/nueva-york-wxtv",
+        "name": "univision 41 nueva york",
+        "title": "Univision 41 Nueva York"
+      },
+      "title": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+      "description": "“Es un recordatorio de que necesitamos una sociedad más equitativa y una sociedad donde las personas sean tratadas según su carácter sin importar el color”, dijo Ysabel Abreu, portavoz de la presidencia de Manhattan. Entretanto, simpatizantes del presidente Donald Trump criticaron la pieza artística.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-36d6-dc03-a7f7-f7df97940000",
+        "title": "93da9e6b121e4fdda6ab305c4d16ea1c",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/e7/93/0b6fbae64ec585f92710e2ff9a33/93da9e6b121e4fdda6ab305c4d16ea1c",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/455d178/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/6f5616f/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F1500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/1723d05/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/48bdee4/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F1500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/569190b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe7%2F93%2F0b6fbae64ec585f92710e2ff9a33%2Fresizes%2F500%2F93da9e6b121e4fdda6ab305c4d16ea1c",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-10T00:06:25-04:00",
+      "publishDate": "2020-07-09T23:13:00-04:00",
+      "expirationDate": "2030-07-09T23:13:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://uat.x.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-0712-d7c0-a1dd-ef564db40000",
+          "uri": "https://uat.x.univision.com/local/nueva-york-wxtv",
+          "name": "univision 41 nueva york",
+          "title": "Univision 41 Nueva York"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884829",
+      "durationString": "3:58",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/1H3Q102irl2",
+            "isFeedDialog": false,
+            "title": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+            "description": "“Es un recordatorio de que necesitamos una sociedad más equitativa y una sociedad donde las personas sean tratadas según su carácter sin importar el color”, dijo Ysabel Abreu, portavoz de la presidencia de Manhattan. Entretanto, simpatizantes del presidente Donald Trump criticaron la pieza artística.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/e7/93/0b6fbae64ec585f92710e2ff9a33/93da9e6b121e4fdda6ab305c4d16ea1c",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/1H3Q102irl2",
+            "title": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+            "via": "univisionNY"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/1H3Q102irl2",
+            "message": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump"
+          },
+          "mail": {
+            "subject": "Habitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nHabitantes de Manhattan opinan sobre el mural de Black Lives Matter hecho frente a la Torre Trump\n\nEncuéntralo en este enlace:http://uni.vi/1H3Q102irl2\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/nuevayork/wxtv",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "racismo",
+            "blacklivesmatter",
+            "pinturaydibujo",
+            "manhattan",
+            "criticas",
+            "artesvisuales",
+            "artecallejero",
+            "nuevayork",
+            "victorjaviersolano"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Television",
+        "Noticias",
+        "Locales"
+      ],
+      "primaryTag": {
+        "name": "Univision 41 Nueva York",
+        "link": "https://uat.x.univision.com/local/nueva-york-wxtv"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-36ce-d299-a377-feffd2a10000",
+      "uri": "https://uat.x.univision.com/local/houston-kxln/cifras-bajas-de-casos-de-coronavirus-en-texas-se-deben-a-falla-en-el-sistema-segun-departamento-de-salud-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-071a-d7c0-a1dd-ef5e405a0000",
+        "uri": "https://uat.x.univision.com/local/houston-kxln",
+        "name": "univision 45 houston",
+        "title": "Univision 45 Houston"
+      },
+      "title": "Cifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud",
+      "description": "Autoridades en Houston también indicaron que el número de llamadas a los bomberos para avisar sobre muertes han aumentado en comparación con el año 2019 y creen que esto se deba a que el conteo de decesos relacionados al virus es mayor a lo que muestran las cifras oficiales.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-36cf-dc03-a7f7-f7cf22890000",
+        "title": "ef3d1b56453f4707885dfd530ef8c5ee",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/ca/30/ef1381e947dfad5acd2669aa9117/ef3d1b56453f4707885dfd530ef8c5ee",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/f308216/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fca%2F30%2Fef1381e947dfad5acd2669aa9117%2Fresizes%2F500%2Fef3d1b56453f4707885dfd530ef8c5ee",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/ccf9be7/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fca%2F30%2Fef1381e947dfad5acd2669aa9117%2Fresizes%2F1500%2Fef3d1b56453f4707885dfd530ef8c5ee",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/10a4aec/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fca%2F30%2Fef1381e947dfad5acd2669aa9117%2Fresizes%2F500%2Fef3d1b56453f4707885dfd530ef8c5ee",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/4845c75/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fca%2F30%2Fef1381e947dfad5acd2669aa9117%2Fresizes%2F1500%2Fef3d1b56453f4707885dfd530ef8c5ee",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/aa3a9f5/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fca%2F30%2Fef1381e947dfad5acd2669aa9117%2Fresizes%2F500%2Fef3d1b56453f4707885dfd530ef8c5ee",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-10T00:04:58-04:00",
+      "publishDate": "2020-07-09T23:30:00-04:00",
+      "expirationDate": "2030-07-09T23:30:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://uat.x.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-071a-d7c0-a1dd-ef5e405a0000",
+          "uri": "https://uat.x.univision.com/local/houston-kxln",
+          "name": "univision 45 houston",
+          "title": "Univision 45 Houston"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884839",
+      "durationString": "2:26",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/IEDy102irkO",
+            "isFeedDialog": false,
+            "title": "Cifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud",
+            "description": "Autoridades en Houston también indicaron que el número de llamadas a los bomberos para avisar sobre muertes han aumentado en comparación con el año 2019 y creen que esto se deba a que el conteo de decesos relacionados al virus es mayor a lo que muestran las cifras oficiales.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/ca/30/ef1381e947dfad5acd2669aa9117/ef3d1b56453f4707885dfd530ef8c5ee",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/IEDy102irkO",
+            "title": "Cifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud",
+            "via": "noticiashouston"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/IEDy102irkO",
+            "message": "Cifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud"
+          },
+          "mail": {
+            "subject": "Cifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCifras bajas de casos de coronavirus en Texas se deben a falla en el sistema, según Departamento de Salud\n\nEncuéntralo en este enlace:http://uni.vi/IEDy102irkO\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/houston/kxln",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "coronavirus",
+            "houston",
+            "bomberos",
+            "muertes",
+            "comunidad"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Television",
+        "Noticias",
+        "Locales"
+      ],
+      "primaryTag": {
+        "name": "Univision 45 Houston",
+        "link": "https://uat.x.univision.com/local/houston-kxln"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-36a6-dc03-a7f7-f7afce4b0000",
+      "uri": "https://uat.tudn.com/futbol/gerardo-arteaga-es-buscado-desde-el-futbol-europeo-video",
+      "vertical": "Deportes",
+      "parent": {
+        "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri": "https://uat.tudn.com/futbol",
+        "name": "fútbol",
+        "title": "Fútbol"
+      },
+      "title": "Gerardo Arteaga es buscado desde el futbol europeo",
+      "description": "El defensor de 21 años está en el radar del Genk de Bélgica, club que ya se comunicó con Santos.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-36a7-d6d2-a973-7eefa0820000",
+        "title": "1131341532e6406ebc8acfc89e51fb4a",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/f2/a8/e4ae544146aa9cffb2b80dc4bfc8/1131341532e6406ebc8acfc89e51fb4a",
+            "width": 1281,
+            "height": 720
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/d7a7806/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2Fa8%2Fe4ae544146aa9cffb2b80dc4bfc8%2Fresizes%2F500%2F1131341532e6406ebc8acfc89e51fb4a",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/f3cde6b/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2Fa8%2Fe4ae544146aa9cffb2b80dc4bfc8%2F1131341532e6406ebc8acfc89e51fb4a",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/a1d03f8/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2Fa8%2Fe4ae544146aa9cffb2b80dc4bfc8%2Fresizes%2F500%2F1131341532e6406ebc8acfc89e51fb4a",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/687a194/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2Fa8%2Fe4ae544146aa9cffb2b80dc4bfc8%2F1131341532e6406ebc8acfc89e51fb4a",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/06b0a91/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2Fa8%2Fe4ae544146aa9cffb2b80dc4bfc8%2Fresizes%2F500%2F1131341532e6406ebc8acfc89e51fb4a",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-10T00:01:57-04:00",
+      "publishDate": "2020-07-09T22:49:00-04:00",
+      "expirationDate": "2030-07-09T22:49:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri": "https://uat.tudn.com",
+          "name": "deportes",
+          "title": "Deportes"
+        },
+        {
+          "uuid": "0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri": "https://uat.tudn.com/futbol",
+          "name": "futbol",
+          "title": "Fútbol"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884821",
+      "durationString": "1:03",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/tZA7102irj0",
+            "isFeedDialog": false,
+            "title": "Gerardo Arteaga es buscado desde el futbol europeo",
+            "description": "El defensor de 21 años está en el radar del Genk de Bélgica, club que ya se comunicó con Santos.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/f2/a8/e4ae544146aa9cffb2b80dc4bfc8/1131341532e6406ebc8acfc89e51fb4a",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/tZA7102irj0",
+            "title": "Gerardo Arteaga es buscado desde el futbol europeo",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/tZA7102irj0",
+            "message": "Gerardo Arteaga es buscado desde el futbol europeo"
+          },
+          "mail": {
+            "subject": "Gerardo Arteaga es buscado desde el futbol europeo",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nGerardo Arteaga es buscado desde el futbol europeo\n\nEncuéntralo en este enlace:http://uni.vi/tZA7102irj0\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_deportes/futbol",
+        "targeting": {
+          "vertical": "deportes",
+          "tag": [
+            "gerardodanielarteagazamora",
+            "futbol",
+            "krcgenk",
+            "santoslaguna"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Futbol",
+        "Deportes"
+      ],
+      "primaryTag": {
+        "name": "Fútbol",
+        "link": "https://uat.tudn.com/futbol"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-2fe8-d082-a9ff-ffe88dfb0000",
+      "uri": "https://uat.x.univision.com/shows/amor-eterno/amor-eterno-capitulo-243-video",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "0000016b-46f2-da08-a97f-7ef211120000",
+        "uri": "https://uat.x.univision.com/shows/amor-eterno",
+        "name": "amor eterno",
+        "title": "Amor Eterno"
+      },
+      "title": "Amor Eterno Capítulo 243",
+      "description": "Emir lanza su ataque final mientras que su salud empeora. Nihan es secuestrada y puesta a cargo de Asu. Con la ayuda de Adem, Baran logra secuestrar a Ayhan y Zehir. Emir le ofrece un trato para salvar a sus seres queridos.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-353e-d6e1-a7fb-7dbffd290000",
+        "title": "2ad1a2d427f2483ab79a398a3154f86a",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/1e/35/36e0c0464d81bcc7bec959ca436e/2ad1a2d427f2483ab79a398a3154f86a",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/d7b50ca/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1e%2F35%2F36e0c0464d81bcc7bec959ca436e%2Fresizes%2F500%2F2ad1a2d427f2483ab79a398a3154f86a",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/feaa292/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1e%2F35%2F36e0c0464d81bcc7bec959ca436e%2Fresizes%2F1500%2F2ad1a2d427f2483ab79a398a3154f86a",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/1156826/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1e%2F35%2F36e0c0464d81bcc7bec959ca436e%2Fresizes%2F500%2F2ad1a2d427f2483ab79a398a3154f86a",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/14689d4/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1e%2F35%2F36e0c0464d81bcc7bec959ca436e%2Fresizes%2F1500%2F2ad1a2d427f2483ab79a398a3154f86a",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/0cda4e2/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1e%2F35%2F36e0c0464d81bcc7bec959ca436e%2Fresizes%2F500%2F2ad1a2d427f2483ab79a398a3154f86a",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": "NUEVO",
+      "updateDate": "2020-07-10T00:01:01-04:00",
+      "publishDate": "2020-07-10T00:00:00-04:00",
+      "expirationDate": "2020-07-22T00:00:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://uat.x.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "0000016b-46f2-da08-a97f-7ef211120000",
+          "uri": "https://uat.x.univision.com/shows/amor-eterno",
+          "name": "amor eterno",
+          "title": "Amor Eterno"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3879772",
+      "durationString": "50:07",
+      "episodeNo": null,
+      "authRequired": true,
+      "longform": true,
+      "longformPlayList": true,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": {
+        "type": "show",
+        "uid": "0000016b-46f2-da08-a97f-7ef211120000",
+        "uri": "https://uat.x.univision.com/shows/amor-eterno",
+        "vertical": null,
+        "parent": null,
+        "title": "Amor Eterno",
+        "description": "Kemal y Nihan viven un amor imposible por la diferencia de clases, pero ellos se las arreglan para estar siempre juntos, hasta el día en que Kemal tiene que mudarse a otra ciudad, desconociendo que ella se casará obligada con Emir Kozcuoglu",
+        "image": {
+          "type": "image",
+          "uid": "0000016b-9b3d-de36-a9fb-9b7f24c00000",
+          "title": "Amor eterno shows promo shows section",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/eb/79/7171a0bd4dc3baca07163addb1d5/featuredshows-2x.jpg",
+              "width": 1200,
+              "height": 674
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/8073298/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Feb%2F79%2F7171a0bd4dc3baca07163addb1d5%2Fresizes%2F500%2Ffeaturedshows-2x.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/9272586/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Feb%2F79%2F7171a0bd4dc3baca07163addb1d5%2Ffeaturedshows-2x.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/1c94e54/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Feb%2F79%2F7171a0bd4dc3baca07163addb1d5%2Fresizes%2F500%2Ffeaturedshows-2x.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/675fea2/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Feb%2F79%2F7171a0bd4dc3baca07163addb1d5%2Ffeaturedshows-2x.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/e8df378/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Feb%2F79%2F7171a0bd4dc3baca07163addb1d5%2Fresizes%2F500%2Ffeaturedshows-2x.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2020-07-09T01:41:38-04:00",
+        "publishDate": "2019-06-11T10:34:03-04:00",
+        "expirationDate": null,
+        "hierarchy": [],
+        "disableReactions": false,
+        "airTime": "Lun - Vie 9P/8C",
+        "headerLogo": {
+          "type": "image",
+          "uid": "0000016b-b927-d555-ad6f-bbf7f5870000",
+          "title": "Logo_AmorEterno.svg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/64/d6/f0425a3a4b78b20230eb295f5c2e/logo-amoreterno.svg",
+              "width": 750,
+              "height": 240
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/65c4981/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2Fd6%2Ff0425a3a4b78b20230eb295f5c2e%2Flogo-amoreterno.svg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/f8b5206/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2Fd6%2Ff0425a3a4b78b20230eb295f5c2e%2Flogo-amoreterno.svg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/8bc3c2a/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2Fd6%2Ff0425a3a4b78b20230eb295f5c2e%2Flogo-amoreterno.svg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/1af6310/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F64%2Fd6%2Ff0425a3a4b78b20230eb295f5c2e%2Flogo-amoreterno.svg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/3a2a9cb/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2a%2F11%2F7e4b9c854538a137801f2718c9f2%2Fresizes%2F500%2Flogo-3x.png",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "highImpactImages": {
+          "mobile": {
+            "type": "image",
+            "uid": "0000016f-86aa-db7a-a57f-a6fe72e90000",
+            "title": "LF_AltoImpacto_Mobile-amorE@2x.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/7f/ea/03e31f964a93b053114390f24021/lf-altoimpacto-mobile-amore-2x.jpg",
+                "width": 828,
+                "height": 466
+              }
+            }
+          },
+          "desktop": {
+            "type": "image",
+            "uid": "0000016f-86a6-df30-ad6f-9ff71e0d0000",
+            "title": "LF_AltoImpacto_Desktop-amoret.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/47/0e/d2757d1d4f8b97b549121a0d6e56/lf-altoimpacto-desktop-amoret.jpg",
+                "width": 1440,
+                "height": 466
+              }
+            }
+          }
+        },
+        "showCardArtwork": {
+          "type": "image",
+          "uid": "0000016f-86ad-db7a-a57f-a6ff88580000",
+          "title": "ShowCard-Rectangle-amorE.jpg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/17/81/541c91214907be530e379f3ec3b9/showcard-rectangle-amore.jpg",
+              "width": 376,
+              "height": 188
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/161f1bd/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F17%2F81%2F541c91214907be530e379f3ec3b9%2Fshowcard-rectangle-amore.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/a7fa2a2/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F17%2F81%2F541c91214907be530e379f3ec3b9%2Fshowcard-rectangle-amore.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/0fbce5f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F17%2F81%2F541c91214907be530e379f3ec3b9%2Fshowcard-rectangle-amore.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/6d99966/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F17%2F81%2F541c91214907be530e379f3ec3b9%2Fshowcard-rectangle-amore.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/a7f47c8/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F17%2F81%2F541c91214907be530e379f3ec3b9%2Fshowcard-rectangle-amore.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "socialNetworks": [
+          {
+            "text": null,
+            "name": "Facebook",
+            "url": "https://www.facebook.com/UniNovelas",
+            "target": "_blank"
+          },
+          {
+            "text": null,
+            "name": "Instagram",
+            "url": "https://www.instagram.com/uninovelas/",
+            "target": "_blank"
+          },
+          {
+            "text": null,
+            "name": "YouTube",
+            "url": "https://www.youtube.com/uninovelas",
+            "target": "_blank"
+          }
+        ]
+      },
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/x76U102irlW",
+            "isFeedDialog": false,
+            "title": "Amor Eterno Capítulo 243",
+            "description": "Emir lanza su ataque final mientras que su salud empeora. Nihan es secuestrada y puesta a cargo de Asu. Con la ayuda de Adem, Baran logra secuestrar a Ayhan y Zehir. Emir le ofrece un trato para salvar a sus seres queridos.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/1e/35/36e0c0464d81bcc7bec959ca436e/2ad1a2d427f2483ab79a398a3154f86a",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/x76U102irlW",
+            "title": "Amor Eterno Capítulo 243",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/x76U102irlW",
+            "message": "Amor Eterno Capítulo 243"
+          },
+          "mail": {
+            "subject": "Amor Eterno Capítulo 243",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmor Eterno Capítulo 243\n\nEncuéntralo en este enlace:http://uni.vi/x76U102irlW\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_entretenimiento/shows/amoreterno",
+        "targeting": {
+          "vertical": "entretenimiento",
+          "tag": [
+            "hussainnihan",
+            "capituloscompletos",
+            "amoreterno",
+            "estambul"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Novelas"
+      ],
+      "primaryTag": {
+        "name": "Amor Eterno",
+        "link": "https://uat.x.univision.com/shows/amor-eterno"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-2fdb-d299-a377-ffff4c720000",
+      "uri": "https://uat.x.univision.com/shows/que-culpa-tiene-fatmagul/que-culpa-tiene-fatmagul-capitulo-81-video",
+      "vertical": "Entretenimiento",
+      "parent": {
+        "uuid": "00000171-0d5e-dbc0-a9ff-3ffff4a60000",
+        "uri": "https://uat.x.univision.com/shows/que-culpa-tiene-fatmagul",
+        "name": "qué culpa tiene fatmagul?",
+        "title": "¿Qué culpa tiene Fatmagül?"
+      },
+      "title": "¿Qué Culpa Tiene Fatmagül? Capítulo 81",
+      "description": "La hermana de Kerim decide dar el primer paso y va a buscarlo a su casa para conocerlo. Fatmagul acepta estar enamorada de Kerim al verlo enfermo en su cama.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-2fe5-ddfd-a37b-bffde7200000",
+        "title": "426ff4a24c4e40e99c940f2e961808b1",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/b5/f8/2d6fefa64b4ab22eb9fc9a997e08/426ff4a24c4e40e99c940f2e961808b1",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/950665a/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb5%2Ff8%2F2d6fefa64b4ab22eb9fc9a997e08%2Fresizes%2F500%2F426ff4a24c4e40e99c940f2e961808b1",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/dbbda65/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb5%2Ff8%2F2d6fefa64b4ab22eb9fc9a997e08%2Fresizes%2F1500%2F426ff4a24c4e40e99c940f2e961808b1",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/795566f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb5%2Ff8%2F2d6fefa64b4ab22eb9fc9a997e08%2Fresizes%2F500%2F426ff4a24c4e40e99c940f2e961808b1",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/d7cd50d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb5%2Ff8%2F2d6fefa64b4ab22eb9fc9a997e08%2Fresizes%2F1500%2F426ff4a24c4e40e99c940f2e961808b1",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/5b17c06/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb5%2Ff8%2F2d6fefa64b4ab22eb9fc9a997e08%2Fresizes%2F500%2F426ff4a24c4e40e99c940f2e961808b1",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": "GRATIS",
+      "updateDate": "2020-07-10T00:00:59-04:00",
+      "publishDate": "2020-07-10T00:00:00-04:00",
+      "expirationDate": "2021-02-15T00:00:00-05:00",
+      "hierarchy": [
+        {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://uat.x.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        },
+        {
+          "uuid": "00000171-0d5e-dbc0-a9ff-3ffff4a60000",
+          "uri": "https://uat.x.univision.com/shows/que-culpa-tiene-fatmagul",
+          "name": "que culpa tiene fatmagul?",
+          "title": "¿Qué culpa tiene Fatmagül?"
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3879732",
+      "durationString": "41:37",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": true,
+      "longformPlayList": false,
+      "hasNextEpisode": true,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": {
+        "type": "show",
+        "uid": "00000171-0d5e-dbc0-a9ff-3ffff4a60000",
+        "uri": "https://uat.x.univision.com/shows/que-culpa-tiene-fatmagul",
+        "vertical": null,
+        "parent": null,
+        "title": "¿Qué culpa tiene Fatmagül?",
+        "description": "Fatmagül es una joven que vive en una ciudad costera con su hermano y su esposa. Ella cuenta los días para casarse con su prometido, Mustafá. Sin embargo, el destino la enfrenta a una situación que cambiará su vida para siempre.",
+        "image": {
+          "type": "image",
+          "uid": "00000171-1e15-dc48-af77-7e772eec0000",
+          "title": "UNIVERSAL.jpg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/99/50/77e1df59404e96fc8ed42e34931a/universal.jpg",
+              "width": 1200,
+              "height": 675
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/8149d4e/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F50%2F77e1df59404e96fc8ed42e34931a%2Fresizes%2F500%2Funiversal.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/beeb95f/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F50%2F77e1df59404e96fc8ed42e34931a%2Funiversal.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/374c249/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F50%2F77e1df59404e96fc8ed42e34931a%2Fresizes%2F500%2Funiversal.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/f81699d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F50%2F77e1df59404e96fc8ed42e34931a%2Funiversal.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/ff46ca1/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F50%2F77e1df59404e96fc8ed42e34931a%2Fresizes%2F500%2Funiversal.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2020-04-16T11:24:46-04:00",
+        "publishDate": "2020-03-24T12:38:43-04:00",
+        "expirationDate": null,
+        "hierarchy": [],
+        "disableReactions": false,
+        "airTime": "Lun - Vie 7P/6C UniMás",
+        "headerLogo": {
+          "type": "image",
+          "uid": "00000171-1d8d-d6eb-a17b-5fdd787c0001",
+          "title": "SVG (fatm).svg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/37/85/5f6ef8f749c288f481b766b95dba/svg-fatm.svg",
+              "width": 0,
+              "height": 0
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/ef0c813/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2F5f6ef8f749c288f481b766b95dba%2Fsvg-fatm.svg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/38f9846/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2F5f6ef8f749c288f481b766b95dba%2Fsvg-fatm.svg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/303ae50/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2F5f6ef8f749c288f481b766b95dba%2Fsvg-fatm.svg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/e36e56a/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2F5f6ef8f749c288f481b766b95dba%2Fsvg-fatm.svg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/90f0416/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F37%2F85%2F5f6ef8f749c288f481b766b95dba%2Fsvg-fatm.svg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "highImpactImages": {
+          "mobile": {
+            "type": "image",
+            "uid": "00000171-1e14-d6eb-a17b-5edd0e0f0000",
+            "title": "LF_AltoImpacto_Mobile@2x.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/ff/58/4cbce77741a8b14d0d822dcc53a4/lf-altoimpacto-mobile-2x.jpg",
+                "width": 828,
+                "height": 466
+              }
+            }
+          },
+          "desktop": {
+            "type": "image",
+            "uid": "00000171-1e13-dc48-af77-7e7375eb0000",
+            "title": "LF_AltoImpacto_Desktop.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/31/ad/ab1ede1e40ea8c370e6cdf131d36/lf-altoimpacto-desktop.jpg",
+                "width": 1440,
+                "height": 466
+              }
+            }
+          }
+        },
+        "showCardArtwork": {
+          "type": "image",
+          "uid": "00000171-1e14-d6eb-a17b-5edd93f60000",
+          "title": "ShowCard-Rectangle (1).jpg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/13/ae/f04fcac844dab2d2f9d4b459a8e3/showcard-rectangle-1.jpg",
+              "width": 376,
+              "height": 188
+            },
+            "16x9-med": {
+              "href": "https://uat2.x.univision.com/dims4/default/7c9a5a1/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F13%2Fae%2Ff04fcac844dab2d2f9d4b459a8e3%2Fshowcard-rectangle-1.jpg",
+              "width": 400,
+              "height": 225
+            },
+            "16x9": {
+              "href": "https://uat2.x.univision.com/dims4/default/641fac3/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F13%2Fae%2Ff04fcac844dab2d2f9d4b459a8e3%2Fshowcard-rectangle-1.jpg",
+              "width": 1240,
+              "height": 698
+            },
+            "16x9-mobile": {
+              "href": "https://uat2.x.univision.com/dims4/default/aedde4e/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F13%2Fae%2Ff04fcac844dab2d2f9d4b459a8e3%2Fshowcard-rectangle-1.jpg",
+              "width": 480,
+              "height": 270
+            },
+            "16x9-tablet": {
+              "href": "https://uat2.x.univision.com/dims4/default/544133d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F13%2Fae%2Ff04fcac844dab2d2f9d4b459a8e3%2Fshowcard-rectangle-1.jpg",
+              "width": 1024,
+              "height": 576
+            },
+            "16x9-loading": {
+              "href": "https://uat2.x.univision.com/dims4/default/3f477fc/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F13%2Fae%2Ff04fcac844dab2d2f9d4b459a8e3%2Fshowcard-rectangle-1.jpg",
+              "width": 30,
+              "height": 17
+            }
+          }
+        },
+        "socialNetworks": []
+      },
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/9UF3102irlV",
+            "isFeedDialog": false,
+            "title": "¿Qué Culpa Tiene Fatmagül? Capítulo 81",
+            "description": "La hermana de Kerim decide dar el primer paso y va a buscarlo a su casa para conocerlo. Fatmagul acepta estar enamorada de Kerim al verlo enfermo en su cama.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/b5/f8/2d6fefa64b4ab22eb9fc9a997e08/426ff4a24c4e40e99c940f2e961808b1",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/9UF3102irlV",
+            "title": "¿Qué Culpa Tiene Fatmagül? Capítulo 81",
+            "via": "Univision"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/9UF3102irlV",
+            "message": "¿Qué Culpa Tiene Fatmagül? Capítulo 81"
+          },
+          "mail": {
+            "subject": "¿Qué Culpa Tiene Fatmagül? Capítulo 81",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Qué Culpa Tiene Fatmagül? Capítulo 81\n\nEncuéntralo en este enlace:http://uni.vi/9UF3102irlV\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_entretenimiento/shows/queculpatienefatmagul",
+        "targeting": {
+          "vertical": "entretenimiento",
+          "tag": [
+            "capituloscompletos"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Drama",
+        "Romance"
+      ],
+      "primaryTag": {
+        "name": "¿Qué culpa tiene Fatmagül?",
+        "link": "https://uat.x.univision.com/shows/que-culpa-tiene-fatmagul"
+      }
+    },
+    {
+      "type": "video",
+      "uid": "00000173-35bb-d082-a9ff-fdbb58880000",
+      "uri": "https://uat.x.univision.com/local/chicago-wgbo/chicago-se-prepara-para-una-manana-de-viernes-con-algunas-precipitaciones-segun-el-pronostico-video",
+      "vertical": "Local",
+      "parent": {
+        "uuid": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+        "uri": "https://uat.x.univision.com/local/chicago-wgbo",
+        "name": "univision chicago ",
+        "title": "Univision Chicago "
+      },
+      "title": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago",
+      "description": "El pronóstico indica que las temperaturas máximas en la Ciudad de los Vientos alcanzarán los 89 grados Fahrenheit y las mínimas los 71 grados. Se espera que el termómetro se mantenga en niveles similares durante el fin de semana.",
+      "image": {
+        "type": "image",
+        "uid": "00000173-36e8-d964-abff-b6eff1060000",
+        "title": "5b41f5852d774e4283d3c5356f73de45",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/af/94/44fd6c1648368a703463038c167c/5b41f5852d774e4283d3c5356f73de45",
+            "width": 1920,
+            "height": 1080
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/a887b69/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F94%2F44fd6c1648368a703463038c167c%2Fresizes%2F500%2F5b41f5852d774e4283d3c5356f73de45",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/c03def6/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F94%2F44fd6c1648368a703463038c167c%2Fresizes%2F1500%2F5b41f5852d774e4283d3c5356f73de45",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/2a5d441/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F94%2F44fd6c1648368a703463038c167c%2Fresizes%2F500%2F5b41f5852d774e4283d3c5356f73de45",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/f7d27fd/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F94%2F44fd6c1648368a703463038c167c%2Fresizes%2F1500%2F5b41f5852d774e4283d3c5356f73de45",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/f19cf4b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faf%2F94%2F44fd6c1648368a703463038c167c%2Fresizes%2F500%2F5b41f5852d774e4283d3c5356f73de45",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-10T00:09:09-04:00",
+      "publishDate": "2020-07-09T18:24:00-04:00",
+      "expirationDate": "2030-07-09T18:24:00-04:00",
+      "hierarchy": [
+        {
+          "uuid": "00000162-d00b-d00d-ab7f-dbeb3e8c0000",
+          "uri": "https://uat.x.univision.com/local",
+          "name": "tu ciudad",
+          "title": "Tu Ciudad"
+        },
+        {
+          "uuid": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+          "uri": "https://uat.x.univision.com/local/chicago-wgbo",
+          "name": "univision chicago ",
+          "title": "Univision Chicago "
+        }
+      ],
+      "disableReactions": false,
+      "contentPriority": "STANDARD",
+      "mcpid": "3884637",
+      "durationString": "3:07",
+      "episodeNo": null,
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/wMIV102ir1h",
+            "isFeedDialog": false,
+            "title": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago",
+            "description": "El pronóstico indica que las temperaturas máximas en la Ciudad de los Vientos alcanzarán los 89 grados Fahrenheit y las mínimas los 71 grados. Se espera que el termómetro se mantenga en niveles similares durante el fin de semana.",
+            "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/af/94/44fd6c1648368a703463038c167c/5b41f5852d774e4283d3c5356f73de45",
+            "appId": "645138725541385"
+          },
+          "twitter": {
+            "url": "http://uni.vi/wMIV102ir1h",
+            "title": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago",
+            "via": "unichicago"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/wMIV102ir1h",
+            "message": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago"
+          },
+          "mail": {
+            "subject": "Probabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nProbabilidad de algunas lluvias y descenso en las temperaturas para este viernes en Chicago\n\nEncuéntralo en este enlace:http://uni.vi/wMIV102ir1h\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_local/tv/chicago/wgbo",
+        "targeting": {
+          "vertical": "local",
+          "tag": [
+            "clima",
+            "meteorologia",
+            "chicago",
+            "erickapino",
+            "medioambiente",
+            "fenomenosnaturales",
+            "tiempo",
+            "pronostico"
+          ]
+        },
+        "contentSpecificSettings": {}
+      },
+      "categories": [
+        "Television",
+        "Noticias",
+        "Locales"
+      ],
+      "primaryTag": {
+        "name": "Univision Chicago ",
+        "link": "https://uat.x.univision.com/local/chicago-wgbo"
+      }
+    }
+  ],
+  "breakingNewsMode": false,
+  "id": "00000174-91a8-ddf2-ad7e-d5ff635e0007",
+  "type": "AllVideoPlaylistVideo",
+  "commonRootSection": null
+}

@@ -1,0 +1,17 @@
+/.storybook
+/config
+/coverage
+/node_modules
+/src
+/.babelrc
+babel.*
+.editorconfig
+.eslintignore
+.eslintrc
+.eslintrc.spec
+.gitignore
+circle.yml
+postcss.config.js
+
+.DS_Store
+.idea

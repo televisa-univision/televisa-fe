@@ -1,0 +1,12 @@
+{
+  "desktop": [
+    "NoticiasCardLottery"
+  ],
+  "tablet": [
+    "NoticiasCardLottery"
+  ],
+  "mobile": [
+    "NoticiasCardLottery",
+    "GridWidget"
+  ]
+}

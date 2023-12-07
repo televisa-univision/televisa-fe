@@ -1,0 +1,47 @@
+{
+  "uri": "/noticias/inmigracion/revelan-la-estrategia-de-ice-para-recibir-informacion-de-policias-en-ciudades-santuario-y-arrestar-a-indocumentados",
+  "ads": {
+    "mobile": {
+      "topAd": "client=mobile&pos=inline_teads&vertical=noticias"
+    },
+    "desktop": {
+      "topAd": "client=desktop&pos=inline_teads&vertical=noticias"
+    }
+  },
+  "tracking": {
+    "dataLayer": {
+      "mobile": {
+        "adtag_value": "article_noticias/inmigracion"
+      },
+      "desktop": {
+        "adtag_value": "article_noticias/inmigracion"
+      }
+    }
+  },
+  "selectors": {
+    "bottom": "> div > div > div:last",
+    "main": "div[data-content-loaded]",
+    "topAd": ".uvs-ad-full-width:first",
+    "mainArticle": "div[data-content-loaded]:visible:first",
+    "progressBar": ".Progress__progress"
+  },
+  "data": {
+    "articleList": [
+      {
+        "uri": "/noticias/inmigracion/revelan-la-estrategia-de-ice-para-recibir-informacion-de-policias-en-ciudades-santuario-y-arrestar-a-indocumentados"
+      },
+      {
+        "uri": "/noticias/politica/interactivo-estos-democratas-quieren-ser-presidente-en-2020-y-esto-es-lo-que-proponen"
+      },
+      {
+        "uri": "/noticias/politica/los-democratas-no-organizaran-debates-con-fox-news-tras-una-investigacion-que-presenta-al-canal-como-propaganda-pro-trump"
+      },
+      {
+        "uri": "/noticias/politica/hillary-clinton-descarta-una-nueva-postulacion-a-la-presidencia-en-2020"
+      },
+      {
+        "uri": "/noticias/politica/ocasio-cortez-defiende-a-omar-y-pide-al-congreso-intolerancia-con-todas-la-expresiones-contra-minorias-no-solo-el-antisemitismo"
+      }
+    ]
+  }
+}

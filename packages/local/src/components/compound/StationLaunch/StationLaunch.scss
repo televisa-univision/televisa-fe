@@ -1,0 +1,110 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  text-transform: uppercase;
+  color: $white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  @include media-breakpoint-up("sm") {
+    padding-top: 1rem;
+    margin: 0;
+  }
+}
+
+.soundbar {
+  color: $very-light-grey;
+  path {
+    fill: $very-light-grey;
+  }
+}
+
+.onAir {
+  border-radius: 30px;
+  border: 1px solid;
+  padding: 0 20px;
+  border-width: 0 2px;
+  position: relative;
+  font-size: .8rem;
+
+  &:after {
+    content: '';
+    position: absolute;
+    left: -8px;
+    right: -8px;
+    top: -1px;
+    bottom: -1px;
+    border-radius: 30px;
+    border: 1px solid;
+    padding: 0 2rem;
+    border-width: 0 2px;
+  }
+}
+
+.action {
+  flex: 5 0 0;
+  max-width: 40%;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  @include media-breakpoint-up('sm') {
+    padding: 0 16px;
+  }
+  svg {
+    flex-shrink: 0;
+  }
+
+  a {
+    display: block;
+    color: $very-light-grey;
+    font-size: rem(9px);
+    line-height: rem(11px);
+    padding: 0;
+    @include media-breakpoint-up("sm") {
+      text-align: right;
+    }
+
+    &.appLink {
+      text-align: right;
+
+      @include media-breakpoint-up("sm") {
+        display: none;
+      }
+    }
+  }
+
+  &.uforia {
+    justify-content: flex-end;
+    @include media-breakpoint-up("sm") {
+      display: none;
+    }
+  }
+}
+
+.mobileLiveLink {
+  @include media-breakpoint-up("sm") {
+    padding: 0 20px;
+    a {
+        display: none;
+    }
+  }
+}
+
+.desktopLiveLink {
+  display: none;
+  @include media-breakpoint-up("sm") {
+    display: block;
+  }
+}
+
+.cta {
+  flex: 2 0 0;
+  opacity: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}

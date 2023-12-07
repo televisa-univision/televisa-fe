@@ -1,0 +1,48 @@
+{
+  "withLinks": {
+    "links": [0,1],
+    "brandable": {
+      "data": {
+        "title": "Title",
+        "uri": "/",
+        "type": "section"
+      }
+    },
+    "subNavBackground": {
+      "image": "/",
+      "color": "#000"
+    },
+    "variant": "dark"
+  },
+  "withoutLinks": {
+    "links": [],
+    "brandable": {
+      "data": {
+        "title": "Title",
+        "uri": "/",
+        "type": "section"
+      }
+    },
+    "subNavBackground": {
+      "image": "/",
+      "color": "#000"
+    },
+    "variant": "dark"
+  },
+  "articleType": {
+    "links": [0,1],
+    "pageType": "article",
+    "brandable": {
+      "data": {
+        "title": "Title",
+        "uri": "/",
+        "type": "article"
+      }
+    },
+    "subNavBackground": {
+      "image": "/",
+      "color": "#000"
+    },
+    "variant": "dark"
+  }
+}

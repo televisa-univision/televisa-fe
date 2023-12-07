@@ -1,0 +1,32 @@
+.hand {
+  animation: inAndOut 2s;
+  animation-fill-mode: forwards;
+  position: absolute;
+  right: 50px;
+  margin-top: 30px;
+  z-index: 1;
+  filter: drop-shadow(1px 1px 1px $black);
+  pointer-events: none;
+  @include media-breakpoint-up('md') {
+    display: none;
+  }
+}
+
+@keyframes inAndOut {
+  0% {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  15% {
+    opacity: .95;
+    transform: translateX(0%);
+  }
+  85% {
+    opacity: .95;
+    transform: translateX(0%);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+}

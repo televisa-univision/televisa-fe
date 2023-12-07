@@ -1,0 +1,30 @@
+{
+  "uri": "/shows/despierta-america/dos-heroes-mas-del-tiroteo-en-colorado-joven-relata-como-junto-a-kendrick-castillo-frenaron-la-agresion-video?mode=prod",
+  "tracking": {
+    "dataLayer": {
+      "adtag_value": "sensitive",
+      "content_created_date": "2019-05-15",
+      "content_id": "0000016a-bbcb-d48e-ab6a-fbfb5bda0000",
+      "content_type": "video",
+      "content_vertical": "entretenimiento",
+      "mvpd_auth_required": "false",
+      "permalink": "https://uat2.x.univision.com/shows/despierta-america/dos-heroes-mas-del-tiroteo-en-colorado-joven-relata-como-junto-a-kendrick-castillo-frenaron-la-agresion-video",
+      "platform": "website",
+      "section_level1": "shows",
+      "section_level2": "despierta america",
+      "title": "dos heroes mas del tiroteo en colorado: joven relata como junto a kendrick castillo frenaron la agresion",
+      "video_id": "3682504",
+      "video_length": "64",
+      "video_length_group": "1-2m",
+      "video_type": "clip",
+      "adtag_platform_prefix": "/rm"
+    }
+  },
+  "selectors": {
+    "videoPlayer": ".fmg-video-sdk",
+    "playButton": ".jw-media",
+    "nextVideoButton": "button[data-href]:nth(1)",
+    "anchorVideo": ".anchor-mobile",
+    "facebookShare": "path[d='M608 192h160v-192h-160c-123.514 0-224 100.486-224 224v96h-128v192h128v512h192v-512h160l32-192h-192v-96c0-17.346 14.654-32 32-32z']:visible:first"
+  }
+}

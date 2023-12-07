@@ -1,0 +1,75 @@
+{
+  "Top Ad": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "TOP"
+    }
+  },
+  "In Body Ad": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "MID"
+    }
+  },
+  "In Slide Ad": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "position": "MID"
+    },
+    "sequenceable": false
+  },
+
+  "Slideshow Top Ad": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "TOP",
+      "refreshable": true
+    }
+  },
+
+  "Slideshow Inline Ad": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 320,
+          "height": 50
+        }
+      ],
+      "position": "MID"
+    }
+  },
+
+  "Yieldmo Footer Ad": {
+    "mobileSettings": {
+      "sizes": [
+        {
+          "width": 300,
+          "height": 472
+        }
+      ],
+      "position": "BOT"
+    },
+    "refreshable": false,
+    "sequenceable": false
+  }
+}

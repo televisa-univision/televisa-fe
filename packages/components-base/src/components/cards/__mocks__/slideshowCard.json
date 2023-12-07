@@ -1,0 +1,445 @@
+{
+  "type": "slideshow",
+  "uid": "00000169-6537-d6d3-a9ed-7d7f96db0000",
+  "uri": "https://www.univision.com/noticias/elecciones-en-eeuu-2020/el-latino-no-vota-porque-se-siente-ignorado-pero-es-ignorado-porque-no-vota-electores-que-pueden-cambiar-a-texas-fotos-fotos",
+  "vertical": "Noticias",
+  "parent": {
+    "uuid": "0000016b-9557-d588-a7ef-95d71c730000",
+    "uri": "https://www.univision.com/noticias/elecciones-en-eeuu-2020",
+    "name": "elecciones en eeuu 2020",
+    "title": "Elecciones en EEUU 2020"
+  },
+  "title": "“El latino no vota porque se siente ignorado, pero es ignorado porque no vota”: electores que pueden cambiar a Texas (fotos)",
+  "description": "Fort Bend, suroeste de Houston, una zona que el Partido Demócrata puso como objetivo en las elecciones de 2020. Este condado (25% hispano) domina el Distrito 22 del Congreso, escaño de un republicano que anunció su retiro. Aquí perdió Barack Obama, pero en 2016 Hillary Clinton le ganó a Donald Trump. 2018 trajo un cambio político sustancial que anima ahora a los demócratas.",
+  "image": {
+    "type": "image",
+    "uid": "00000162-48f7-da2a-a7e6-6eff002c0000",
+    "title": "Dinosaur Valley State Park",
+    "caption": null,
+    "credit": "Liliana Cadavid/Univision",
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot.s3.amazonaws.com/82/32/90f0393a4f489531c89453aa2902/dinosaurvalley13.jpg",
+        "width": 5632,
+        "height": 3755
+      },
+      "16x9-med": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/012dcc9/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F82%2F32%2F90f0393a4f489531c89453aa2902%2Fresizes%2F500%2Fdinosaurvalley13.jpg",
+        "width": 400,
+        "height": 225
+      },
+      "16x9": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/7e2fcbd/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F82%2F32%2F90f0393a4f489531c89453aa2902%2Fresizes%2F1500%2Fdinosaurvalley13.jpg",
+        "width": 1240,
+        "height": 698
+      },
+      "16x9-mobile": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/c71a13e/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F82%2F32%2F90f0393a4f489531c89453aa2902%2Fresizes%2F500%2Fdinosaurvalley13.jpg",
+        "width": 480,
+        "height": 270
+      },
+      "16x9-sm": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/c87481e/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F82%2F32%2F90f0393a4f489531c89453aa2902%2Fresizes%2F500%2Fdinosaurvalley13.jpg",
+        "width": 246,
+        "height": 138
+      },
+      "16x9-tablet": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/c3766cd/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F82%2F32%2F90f0393a4f489531c89453aa2902%2Fresizes%2F1500%2Fdinosaurvalley13.jpg",
+        "width": 1024,
+        "height": 576
+      },
+      "16x9-extended": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/e5304b9/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F82%2F32%2F90f0393a4f489531c89453aa2902%2Fresizes%2F1500%2Fdinosaurvalley13.jpg",
+        "width": 1440,
+        "height": 810
+      },
+      "16x9-loading": {
+        "href": "https://uat.uvn.psdops.com/dims4/default/4d0a59b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F82%2F32%2F90f0393a4f489531c89453aa2902%2Fresizes%2F500%2Fdinosaurvalley13.jpg",
+        "width": 30,
+        "height": 17
+      }
+    }
+  },
+  "authors": [
+    {
+      "fullName": "Liliana Cadavid",
+      "image": {
+        "type": "image",
+        "uid": "00000157-91db-d59f-ad5f-dffb3c910000",
+        "title": "Liliana Cadavid",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/8d/b1/a3540cb94b14bfae859399fc4f86/liliana-cadavid.jpg",
+            "width": 1500,
+            "height": 1500
+          },
+          "16x9-med": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/94f349e/2147483647/crop/500x281%2B0%2B151/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fb1%2Fa3540cb94b14bfae859399fc4f86%2Fresizes%2F500%2Fliliana-cadavid.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/f82af0e/2147483647/crop/1500x844%2B0%2B454/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fb1%2Fa3540cb94b14bfae859399fc4f86%2Fliliana-cadavid.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-mobile": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/6f38c0a/2147483647/crop/500x281%2B0%2B151/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fb1%2Fa3540cb94b14bfae859399fc4f86%2Fresizes%2F500%2Fliliana-cadavid.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-sm": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/873010c/2147483647/crop/500x280%2B0%2B153/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fb1%2Fa3540cb94b14bfae859399fc4f86%2Fresizes%2F500%2Fliliana-cadavid.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/092ea75/2147483647/crop/1500x844%2B0%2B454/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fb1%2Fa3540cb94b14bfae859399fc4f86%2Fliliana-cadavid.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9-extended": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/6035a98/2147483647/crop/1500x844%2B0%2B454/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fb1%2Fa3540cb94b14bfae859399fc4f86%2Fliliana-cadavid.jpg",
+            "width": 1440,
+            "height": 810
+          },
+          "16x9-loading": {
+            "href": "https://uat.uvn.psdops.com/dims4/default/42a94ab/2147483647/crop/500x283%2B0%2B152/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fb1%2Fa3540cb94b14bfae859399fc4f86%2Fresizes%2F500%2Fliliana-cadavid.jpg",
+            "width": 30,
+            "height": 17
+          }
+        }
+      },
+      "uri": "https://uat2.x.univision.com/temas/liliana-cadavid",
+      "socialNetworks": {
+        "facebookUrl": null,
+        "googleUrl": null,
+        "instagramUrl": {
+          "text": null,
+          "name": "Instagram",
+          "url": "https://www.instagram.com/licace",
+          "target": "_blank"
+        },
+        "pinterestUrl": null,
+        "snapchatUrl": null,
+        "twitterUrl": {
+          "text": null,
+          "name": "Twitter",
+          "url": "https://twitter.com/licacepa",
+          "target": "_blank"
+        },
+        "youTubeUrl": null
+      },
+      "miniBio": null,
+      "link": null,
+      "mediaCompany": null,
+      "designation": null
+    }
+  ],
+  "updateDate": "2019-08-07T10:40:45-04:00",
+  "publishDate": "2019-03-09T20:29:30-05:00",
+  "expirationDate": "3000-01-01T00:00:00-05:00",
+  "contentPriority": "STANDARD",
+  "slideshowType": "verticalslideshow",
+  "slideCount": 36,
+  "cardImages": [
+    {
+      "type": "image",
+      "uid": "0000016d-2472-d9af-a5ef-f57e8bde0000",
+      "title": "_A2A4855.jpg",
+      "caption": "<b>“No estamos aquí para que nos den las cosas, estamos aquí para trabajar”.</b> Los abuelos de Ana Gonzales nacieron en la ciudad de México y llegaron directo a Richmond, en el condado de Fort Bend, a trabajar como agricultores. Cree que los hispanos “tenemos el poder de ganar, pero no sabemos que lo tenemos\". Es directora servicios sociales del condado y cree que “la comunidad latina no está consciente de que esta vez tenemos los votos, de que somos la mayoría”. Piensa que muchos latinos no se hacen ciudadanos para votar porque es costoso, muchos no tienen el dinero para abogados o las clases. Para ella lo más importante es que las comunidades hispanas se involucren y formen parte de las decisiones en los temas importantes: la educación, el trabajo y el sistema de salud.\n<br>",
+      "credit": "David Maris",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/a6/d8/811e30c9417cacd3cf9e555be96d/a2a4855.jpg",
+          "width": 5760,
+          "height": 3840
+        },
+        "slideshow-mobile-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/99c2c6f/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F1500%2Fa2a4855.jpg",
+          "width": 414,
+          "height": 550
+        },
+        "slideshow-4x3-vertical": {
+          "href": "https://st1.uvnimg.com/dims4/default/0217777/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F1500%2Fa2a4855.jpg",
+          "width": 1093,
+          "height": 820
+        },
+        "horizontal-slideshow-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/6d3340e/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F500%2Fa2a4855.jpg",
+          "width": 150,
+          "height": 50
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/af82699/2147483647/crop/1500x844%2B0%2B118/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F1500%2Fa2a4855.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/388fcc9/2147483647/crop/500x281%2B0%2B39/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F500%2Fa2a4855.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/a43222b/2147483647/crop/1500x844%2B0%2B119/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F1500%2Fa2a4855.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "slideshow-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/882f04d/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F1500%2Fa2a4855.jpg",
+          "width": 935,
+          "height": 645
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/f7d4f9b/2147483647/crop/500x283%2B0%2B38/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F500%2Fa2a4855.jpg",
+          "width": 30,
+          "height": 17
+        },
+        "slideshow-4x3-vertical-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/82db8e3/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa6%2Fd8%2F811e30c9417cacd3cf9e555be96d%2Fresizes%2F1500%2Fa2a4855.jpg",
+          "width": 420,
+          "height": 620
+        }
+      }
+    },
+    {
+      "type": "image",
+      "uid": "0000016d-2472-d9af-a5ef-f57e8be40001",
+      "title": "_A2A4932.jpg",
+      "caption": "<b>“Las decisiones políticas afectan directamente a mi familia”</b>. Lydia Ozuna nació en Del Río, del lado norte de la la frontera entre Coahuila, México, y Texas, una comunidad hispana donde vive su familia desde 1600 y que estuvo gobernada solo por personas de habla inglesa hasta hace 20 años. Para ella es importante que la voz latina llegue a los cargos de poder “pero también todas las voces razonables del pueblo”. Para Ozuna la manera como están dibujados los distritos en Texas hace que los votos de mucha gente no cuenten y eso ha desmotivado a los votantes. “Algunos candidatos no se han tomado el tiempo de conocer a la gente, hablar de los temas importantes y descubrir las razones por las que algunos deciden no ir a votar”.",
+      "credit": "David Maris",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/1b/56/119a1cd042faac8d7f9c159f2ff0/a2a4932.jpg",
+          "width": 5119,
+          "height": 3413
+        },
+        "slideshow-mobile-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/2de6f82/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F1500%2Fa2a4932.jpg",
+          "width": 414,
+          "height": 550
+        },
+        "slideshow-4x3-vertical": {
+          "href": "https://st1.uvnimg.com/dims4/default/82211c6/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F1500%2Fa2a4932.jpg",
+          "width": 1093,
+          "height": 820
+        },
+        "horizontal-slideshow-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/c0ebcdb/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F500%2Fa2a4932.jpg",
+          "width": 150,
+          "height": 50
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/28cf5ae/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F1500%2Fa2a4932.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/4a0523e/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F500%2Fa2a4932.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/c5a1249/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F1500%2Fa2a4932.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "slideshow-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/e505a95/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F1500%2Fa2a4932.jpg",
+          "width": 935,
+          "height": 645
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/757f3ff/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F500%2Fa2a4932.jpg",
+          "width": 30,
+          "height": 17
+        },
+        "slideshow-4x3-vertical-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/1e2b49a/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F56%2F119a1cd042faac8d7f9c159f2ff0%2Fresizes%2F1500%2Fa2a4932.jpg",
+          "width": 420,
+          "height": 620
+        }
+      }
+    },
+    {
+      "type": "image",
+      "uid": "0000016d-2472-d9af-a5ef-f57e8beb0000",
+      "title": "_A2A4970.jpg",
+      "caption": "<b>“Tenemos que lograr que los hispanos entiendan que sí importan”. </b>La madre de Christian Becerra nació en EEUU pero muy pequeña la llevaron a Monterrey y su padre nació en Guanajuato, México. Los dos crecieron en Texas y toda su familia se instaló en el condado de Fort Bend. Becerra es abogado y cree que aunque tradicionalmente las comunidades hispanas no se meten en política “en este momento pueden lograr un cambio, pueden hacer la diferencia”. En su condado desde hace varias décadas solo republicanos blancos ganaban elecciones, “a veces cargados de racismo e ignorando a comunidades hispanas”, lo que desmotivó a los votantes. “Muchos se sienten que no están representados en las contiendas electorales, nacionales o locales, entonces, ¿para qué votar? Si logramos cambiar esta mentalidad no solo cambiaremos el condado, lo hará el estado y el país”.",
+      "credit": "David Maris",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/ad/d0/712468a4413a806e60a486e4b73e/a2a4970.jpg",
+          "width": 5760,
+          "height": 3840
+        },
+        "slideshow-mobile-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/b06777a/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F1500%2Fa2a4970.jpg",
+          "width": 414,
+          "height": 550
+        },
+        "slideshow-4x3-vertical": {
+          "href": "https://st1.uvnimg.com/dims4/default/e93dda5/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F1500%2Fa2a4970.jpg",
+          "width": 1093,
+          "height": 820
+        },
+        "horizontal-slideshow-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/bc08c5f/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F500%2Fa2a4970.jpg",
+          "width": 150,
+          "height": 50
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/3d95127/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F1500%2Fa2a4970.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/7ad3710/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F500%2Fa2a4970.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/8280892/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F1500%2Fa2a4970.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "slideshow-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/74b1f4f/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F1500%2Fa2a4970.jpg",
+          "width": 935,
+          "height": 645
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/fe22d8c/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F500%2Fa2a4970.jpg",
+          "width": 30,
+          "height": 17
+        },
+        "slideshow-4x3-vertical-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/5b6523e/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fad%2Fd0%2F712468a4413a806e60a486e4b73e%2Fresizes%2F1500%2Fa2a4970.jpg",
+          "width": 420,
+          "height": 620
+        }
+      }
+    },
+    {
+      "type": "image",
+      "uid": "0000016d-2472-d9af-a5ef-f57e8bf10001",
+      "title": "_A2A5034.jpg",
+      "caption": "<b>“Hay que explicarle a los hispanos lo grande que es el poder que tienen como votantes, es ahora o nunca”.</b> La madre de Jennifer Cazares nació en México, hija de una estadounidense de Filadelphia, y su padre es de Chicago, donde también ella nació. “Soy mitad y mitad, pero me identifico como latina y el voto latino siempre ha sido decisivo”, aseguró. Cree que los dos partidos deben invertir en la comunidad hispana, hablar con los electores, y darles razones para votar. Para Cazares, la retórica de Trump ha afectado la motivación de los votantes, por ejemplo la pregunta sobre la nacionalidad propuesta por el gobierno para el próximo censo.",
+      "credit": "David Maris",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/67/04/10a1cb3d40e78341d6d17e9a6193/a2a5034.jpg",
+          "width": 5760,
+          "height": 3840
+        },
+        "slideshow-mobile-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/9ba68e3/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F1500%2Fa2a5034.jpg",
+          "width": 414,
+          "height": 550
+        },
+        "slideshow-4x3-vertical": {
+          "href": "https://st1.uvnimg.com/dims4/default/0a77bab/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F1500%2Fa2a5034.jpg",
+          "width": 1093,
+          "height": 820
+        },
+        "horizontal-slideshow-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/e8fc04f/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F500%2Fa2a5034.jpg",
+          "width": 150,
+          "height": 50
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/8aa3d67/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F1500%2Fa2a5034.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/fec2309/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F500%2Fa2a5034.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/0dc94cb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F1500%2Fa2a5034.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "slideshow-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/428ba60/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F1500%2Fa2a5034.jpg",
+          "width": 935,
+          "height": 645
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/8ea5c35/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F500%2Fa2a5034.jpg",
+          "width": 30,
+          "height": 17
+        },
+        "slideshow-4x3-vertical-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/318faf9/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F67%2F04%2F10a1cb3d40e78341d6d17e9a6193%2Fresizes%2F1500%2Fa2a5034.jpg",
+          "width": 420,
+          "height": 620
+        }
+      }
+    },
+    {
+      "type": "image",
+      "uid": "0000016d-2472-d9af-a5ef-f57e8bf80000",
+      "title": "_A2A5081.jpg",
+      "caption": "<b>“Igual que los latinos, los afroamericanos piensan que el voto no cuenta, que no importa, y debemos cambiar esa mentalidad”. </b>Sam Hayes se mudó con su familia desde Louisiana cuando era muy joven y es jefe de la policía del condado Harris desde hace 14 años, ahora lucha por el cargo de alguacil en el condado de Fort Bend. Cree que mucha gente se está dando cuenta que votar puede hacer los cambios necesarios. “No podemos quedarnos sentados esperando, hay que salir a votar por el candidato adecuado”. Hayes invita a todas las minorías a “montarse en el tren del voto, si no lo haces no llegarás al próximo lugar. El voto cuenta”.",
+      "credit": "David Maris",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/74/7a/3f53e71d40538144bd25ef974de9/a2a5081.jpg",
+          "width": 4793,
+          "height": 3195
+        },
+        "slideshow-mobile-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/ce2c02e/2147483647/resize/414x550%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F1500%2Fa2a5081.jpg",
+          "width": 414,
+          "height": 550
+        },
+        "slideshow-4x3-vertical": {
+          "href": "https://st1.uvnimg.com/dims4/default/1047e61/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F1500%2Fa2a5081.jpg",
+          "width": 1093,
+          "height": 820
+        },
+        "horizontal-slideshow-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/e1a4f46/2147483647/resize/150x50%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F500%2Fa2a5081.jpg",
+          "width": 150,
+          "height": 50
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/20accf6/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F1500%2Fa2a5081.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/ec8cb6b/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F500%2Fa2a5081.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/e0e85bd/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F1500%2Fa2a5081.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "slideshow-horizontal": {
+          "href": "https://st1.uvnimg.com/dims4/default/9772cd1/2147483647/resize/935x645%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F1500%2Fa2a5081.jpg",
+          "width": 935,
+          "height": 645
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/22632cb/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F500%2Fa2a5081.jpg",
+          "width": 30,
+          "height": 17
+        },
+        "slideshow-4x3-vertical-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/c026eb7/2147483647/resize/420x620%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F74%2F7a%2F3f53e71d40538144bd25ef974de9%2Fresizes%2F1500%2Fa2a5081.jpg",
+          "width": 420,
+          "height": 620
+        }
+      }
+    }
+  ],
+  "cardLabel": "BREAKING_NEWS"
+}

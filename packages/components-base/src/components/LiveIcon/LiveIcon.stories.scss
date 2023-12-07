@@ -1,0 +1,15 @@
+.content{
+  background-color: $light-grey;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-content: center;    
+  flex-direction: column;
+  width: 60px;
+  height: 60px;
+}
+.green {
+  path{
+    fill: $bright-purple;
+  }
+}

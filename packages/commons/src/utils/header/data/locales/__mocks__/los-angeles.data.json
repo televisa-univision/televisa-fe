@@ -1,0 +1,2030 @@
+{
+  "type": "section",
+  "uid": "0000014d-070d-ddc6-a5dd-179f207d0000",
+  "uri": "/local/los-angeles-kmex",
+  "vertical": "Local",
+  "parent": {
+    "uri": "/local",
+    "name": "tu ciudad",
+    "title": "Tu Ciudad"
+  },
+  "title": "Univision 34 Los Angeles",
+  "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+  "updateDate": "2019-07-11T15:32:05-04:00",
+  "publishDate": "2015-11-26T15:00:00-05:00",
+  "expirationDate": "3000-01-01T00:00:00-05:00",
+  "adSettings": {
+    "disable3rdPartyAds": false,
+    "disableAds": false,
+    "disableVideoAds": false,
+    "adTagValue": "section_local/tv/losangeles/kmex/inicio",
+    "targeting": {
+      "vertical": "local"
+    },
+    "contentSpecificSettings": {}
+  },
+  "tracking": {
+    "analytics": {
+      "data": {
+        "adtag_value": "section_local/tv/losangeles/kmex/inicio",
+        "all_tags": [],
+        "brand": "univision 34 los angeles",
+        "brand_market": "los angeles",
+        "brand_station_call_letters": "kmex",
+        "brand_station_name": "univision 34 los angeles",
+        "brand_station_type": "tvstation",
+        "canonical_url": "https://www.univision.com/local/los-angeles-kmex",
+        "content_created_date": "2015-11-26",
+        "content_id": "0000014d-070d-ddc6-a5dd-179f207d0000",
+        "content_modified_date": "2019-07-11",
+        "content_type": "tvstation",
+        "content_vertical": "local",
+        "environment_name": "prod",
+        "nielsenVcid": "c05",
+        "permalink": "https://www.univision.com/local/los-angeles-kmex",
+        "platform": "website",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "local",
+          "kmex"
+        ],
+        "section_level1": "local",
+        "section_level2": "kmex",
+        "title": "univision 34 los angeles",
+        "uci_division": "local:los angeles:kmex"
+      }
+    },
+    "nielsen": {
+      "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+      "vcid": "c05",
+      "environment": "prod",
+      "primaryTopic": "Tu Ciudad"
+    }
+  },
+  "analyticsData": {
+    "apps": {
+      "common": {
+        "adtag_value": "section_local/tv/losangeles/kmex/inicio",
+        "all_tags": [],
+        "brand_station_call_letters": "kmex",
+        "content_created_date": "2015-11-26",
+        "content_id": "0000014d-070d-ddc6-a5dd-179f207d0000",
+        "content_type": "tvstation",
+        "section": "kmex",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "local",
+          "kmex"
+        ],
+        "section_level1": "local",
+        "section_level2": "kmex",
+        "title": "univision 34 los angeles"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014d-070d-ddc6-a5dd-179f207d0000",
+          "section": "tvstation",
+          "type": "static",
+          "vcid": "c05"
+        },
+        "contentSpecific": {}
+      }
+    },
+    "web": {
+      "common": {
+        "adtag_value": "section_local/tv/losangeles/kmex/inicio",
+        "all_tags": [],
+        "brand_market": "los angeles",
+        "brand_station_call_letters": "kmex",
+        "brand_station_name": "univision 34 los angeles",
+        "brand_station_type": "tvstation",
+        "content_created_date": "2015-11-26",
+        "content_id": "0000014d-070d-ddc6-a5dd-179f207d0000",
+        "content_modified_date": "2019-07-11",
+        "content_type": "tvstation",
+        "content_vertical": "local",
+        "permalink": "https://www.univision.com/local/los-angeles-kmex",
+        "platform": "website",
+        "section": "kmex",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "local",
+          "kmex"
+        ],
+        "section_level1": "local",
+        "section_level2": "kmex",
+        "seo_optimized ": true,
+        "title": "univision 34 los angeles",
+        "uci_division": "local:los angeles:kmex"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014d-070d-ddc6-a5dd-179f207d0000",
+          "section": "tvstation",
+          "type": "static",
+          "vcid": "c05"
+        },
+        "contentSpecific": {}
+      }
+    }
+  },
+  "metaTagData": {
+    "openGraph": {
+      "type": null,
+      "title": "Univision 34 Los Angeles",
+      "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+      "url": "https://www.univision.com/local/los-angeles-kmex",
+      "siteName": "Univision"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Univision 34 Los Angeles",
+      "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+      "creator": null,
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48"
+    },
+    "facebook": {
+      "pages": null
+    }
+  },
+  "seo": {
+    "title": "Univision 34 Los Angeles, CA - Noticias, Servicios - Estacion KMEX | Univision",
+    "description": "Univision 34 Los Angeles, CA - Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en San Los Angeles | Univision",
+    "canonicalUrl": "https://www.univision.com/local/los-angeles-kmex",
+    "keywords": [
+      "34",
+      "kmex",
+      "ls",
+      "loteria",
+      "local",
+      "inmigracion",
+      "servicios",
+      "trafico",
+      "noticias",
+      "tiempo",
+      "univision",
+      "horoscopo",
+      "california",
+      "estacion",
+      "los angeles",
+      "ca"
+    ],
+    "robots": [],
+    "news_keywords": []
+  },
+  "hierarchy": [
+    {
+      "uri": "/local",
+      "name": "tu ciudad",
+      "title": "Tu Ciudad"
+    },
+    {
+      "uri": "/local/los-angeles-kmex",
+      "name": "univision 34 los angeles",
+      "title": "Univision 34 Los Angeles"
+    }
+  ],
+  "externalWidgets": null,
+  "widgets": [
+    {
+      "settings": {
+        "type": "allvideoplaylistvideo",
+        "uid": "0000016b-758f-d573-ad7f-758f39660010",
+        "livestream": {
+          "type": "livestream",
+          "uid": "0000015a-d837-d37d-ad5f-f9ff02d60000",
+          "uri": "/local/los-angeles-kmex/los-angeles/kmex/edicion-digital-california-livestream",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "Edición Digital California",
+          "description": "Edición Digital California",
+          "image": {
+            "type": "image",
+            "uid": "00000168-8769-dbde-ade8-efff80820001",
+            "title": "ED_CALIFORNIA_SPLASH.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/60/80/af23d9c648da8afab012a5c2c514/ed-california-splash.jpg",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/26b9480/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/f709956/2147483647/crop/495x281%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/55f469b/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/388f139/2147483647/crop/1500x844%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F1500%2Fed-california-splash.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/70a6685/2147483647/crop/1499x844%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F1500%2Fed-california-splash.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/39e79f8/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/42b4c45/2147483647/crop/1500x844%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F1500%2Fed-california-splash.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/dd36bdb/2147483647/crop/281x281%2B89%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F60%2F80%2Faf23d9c648da8afab012a5c2c514%2Fresizes%2F500%2Fed-california-splash.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-03-21T16:43:41-04:00",
+          "publishDate": "2017-03-16T14:07:24-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "livestreamId": "201703161343",
+          "autoPlay": true,
+          "tvssUrl": "auth.univision.com",
+          "mainImage": "https://st1.uvnimg.com/60/80/af23d9c648da8afab012a5c2c514/ed-california-splash.jpg",
+          "auth": false,
+          "active": true,
+          "isAuth": false,
+          "player": "JW"
+        },
+        "otherTabs": [
+          null
+        ],
+        "mainTabLabel": null,
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016b-758f-d573-ad7f-758f39660010",
+      "type": "AllVideoPlaylistVideo",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allbannermovingbanner",
+        "uid": "0000016b-6f92-dc91-a9eb-efd22f9a0000",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016b-6f92-dc91-a9eb-efd22f9a0000",
+      "type": "AllBannerMovingBanner",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allvideoplaylistvideo",
+        "uid": "00000167-eb85-dddd-afff-ff858c550039",
+        "otherTabs": [
+          null
+        ],
+        "mainTabLabel": null,
+        "title": "VISTO EN EL 34",
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "00000167-eb85-dddd-afff-ff858c550039",
+      "type": "AllVideoPlaylistVideo",
+      "contents": [
+        {
+          "type": "video",
+          "uid": "0000016b-e1b4-df36-a1ef-ebbe20570000",
+          "uri": "/local/los-angeles-kmex/muere-empleado-del-departamento-de-agua-y-energia-de-los-angeles-que-fue-presuntamente-atacado-en-una-plataforma-de-metro-video",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "Muere empleado del Departamento de Agua y Energía de Los Ángeles que fue presuntamente atacado en una plataforma de Metro",
+          "description": "El pasado 2 de julio, Julius Rondez fue víctima de una agresión que le causó un traumatismo craneal. Las autoridades buscan a un hombre de interés que quedó grabado por cámaras de seguridad tras el incidente.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-e1b4-d803-a97b-e7bd371f0000",
+            "title": "c1b0894e68da4de29cb38e1845815d25",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/e8/d5/3ae81f1f47d49aba96da6272d4e1/c1b0894e68da4de29cb38e1845815d25",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/0530e49/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/c1e68de/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/3010238/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/c603d0b/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F1500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/376f730/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F1500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/ba6f785/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/0b7eb0c/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F1500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/963dbaf/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe8%2Fd5%2F3ae81f1f47d49aba96da6272d4e1%2Fresizes%2F500%2Fc1b0894e68da4de29cb38e1845815d25",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T11:44:49-04:00",
+          "publishDate": "2019-07-11T11:25:00-04:00",
+          "expirationDate": "2029-07-10T11:25:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3709852",
+          "durationString": "0:35",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/JbZ2101FByz",
+                "isFeedDialog": false,
+                "title": "Muere empleado del Departamento de Agua y Energía de Los Ángeles que fue presuntamente atacado en una plataforma de Metro",
+                "description": "El pasado 2 de julio, Julius Rondez fue víctima de una agresión que le causó un traumatismo craneal. Las autoridades buscan a un hombre de interés que quedó grabado por cámaras de seguridad tras el incidente.",
+                "imageUrl": "https://st1.uvnimg.com/e8/d5/3ae81f1f47d49aba96da6272d4e1/c1b0894e68da4de29cb38e1845815d25",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/JbZ2101FByz",
+                "title": "Muere empleado del Departamento de Agua y Energía de Los Ángeles que fue presuntamente atacado en una plataforma de Metro",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/JbZ2101FByz",
+                "message": "Muere empleado del Departamento de Agua y Energía de Los Ángeles que fue presuntamente atacado en una plataforma de Metro"
+              },
+              "mail": {
+                "subject": "Muere empleado del Departamento de Agua y Energía de Los Ángeles que fue presuntamente atacado en una plataforma de Metro",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMuere empleado del Departamento de Agua y Energía de Los Ángeles que fue presuntamente atacado en una plataforma de Metro\n\nEncuéntralo en este enlace:http://uni.vi/JbZ2101FByz\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Los Angeles",
+            "link": "/local/los-angeles-kmex/temas/los-angeles"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-e199-d751-a1ef-e1db31e20000",
+          "uri": "/local/los-angeles-kmex/estos-consejos-te-ayudaran-a-controlar-el-panico-en-una-situacion-de-peligro-o-en-una-emergencia-video",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "Estos consejos te ayudarán a controlar el pánico en una situación de peligro o en una emergencia",
+          "description": "Los sismos, terremotos, incendios o inundaciones hacen que las personas entren en un periodo de estrés severo por el temor de que algo malo pase con su vida. El médico familiar, Kaseín González, recomienda respirar profundo y mirar al alrededor para hacer un balance de la situación. Agrega que tocarse y abrazarse a sí mismo puede dar sensación de seguridad y confort.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-e1e5-d945-af7f-f5ff00fa0000",
+            "title": "17d838dfb3714141ba8fab35c32d802d",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/bc/63/f8b21c884f76ae8b52bf7b0ed57e/17d838dfb3714141ba8fab35c32d802d",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/7681c2b/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/7d10844/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/34321df/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/9130f40/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F1500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/1a91924/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F1500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/67e0ed1/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/056c28d/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F1500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/f49d6b6/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fbc%2F63%2Ff8b21c884f76ae8b52bf7b0ed57e%2Fresizes%2F500%2F17d838dfb3714141ba8fab35c32d802d",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T12:37:17-04:00",
+          "publishDate": "2019-07-11T11:05:00-04:00",
+          "expirationDate": "2029-07-10T11:05:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3709841",
+          "durationString": "3:19",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/YPIK101FBof",
+                "isFeedDialog": false,
+                "title": "Estos consejos te ayudarán a controlar el pánico en una situación de peligro o en una emergencia",
+                "description": "Los sismos, terremotos, incendios o inundaciones hacen que las personas entren en un periodo de estrés severo por el temor de que algo malo pase con su vida. El médico familiar, Kaseín González, recomienda respirar profundo y mirar al alrededor para hacer un balance de la situación. Agrega que tocarse y abrazarse a sí mismo puede dar sensación de seguridad y confort.",
+                "imageUrl": "https://st1.uvnimg.com/bc/63/f8b21c884f76ae8b52bf7b0ed57e/17d838dfb3714141ba8fab35c32d802d",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/YPIK101FBof",
+                "title": "Estos consejos te ayudarán a controlar el pánico en una situación de peligro o en una emergencia",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/YPIK101FBof",
+                "message": "Estos consejos te ayudarán a controlar el pánico en una situación de peligro o en una emergencia"
+              },
+              "mail": {
+                "subject": "Estos consejos te ayudarán a controlar el pánico en una situación de peligro o en una emergencia",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEstos consejos te ayudarán a controlar el pánico en una situación de peligro o en una emergencia\n\nEncuéntralo en este enlace:http://uni.vi/YPIK101FBof\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Entrevistas",
+            "link": "/local/los-angeles-kmex/temas/entrevistas"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-e187-d3db-ad7f-f1d755ea0000",
+          "uri": "/local/los-angeles-kmex/policia-de-anaheim-busca-a-un-sujeto-que-estaria-relacionado-con-la-explosion-en-un-negocio-video",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "Policía de Anaheim busca a un sujeto que estaría relacionado con la explosión en un negocio",
+          "description": "Según el informe, el hombre huyó caminando y tenía quemaduras en la cara, los brazos y las piernas. Investigan si en el negocio funcionaba como fábrica de drogas porque encontraron varias latas de butano.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-e187-d3db-ad7f-f1d758f60000",
+            "title": "26836971c00540e3ba3c807cfff29492",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/b4/0c/f074e59e43bab4d9460a85c0354f/26836971c00540e3ba3c807cfff29492",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/bafdba2/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/5f53d72/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/77430af/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/26ba201/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F1500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/bcaae6e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F1500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/6c2078c/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/511594a/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F1500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/d507814/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2F0c%2Ff074e59e43bab4d9460a85c0354f%2Fresizes%2F500%2F26836971c00540e3ba3c807cfff29492",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T10:55:06-04:00",
+          "publishDate": "2019-07-11T10:51:00-04:00",
+          "expirationDate": "2029-07-10T10:51:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3709833",
+          "durationString": "0:27",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/Fig8101FBjI",
+                "isFeedDialog": false,
+                "title": "Policía de Anaheim busca a un sujeto que estaría relacionado con la explosión en un negocio",
+                "description": "Según el informe, el hombre huyó caminando y tenía quemaduras en la cara, los brazos y las piernas. Investigan si en el negocio funcionaba como fábrica de drogas porque encontraron varias latas de butano.",
+                "imageUrl": "https://st1.uvnimg.com/b4/0c/f074e59e43bab4d9460a85c0354f/26836971c00540e3ba3c807cfff29492",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/Fig8101FBjI",
+                "title": "Policía de Anaheim busca a un sujeto que estaría relacionado con la explosión en un negocio",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/Fig8101FBjI",
+                "message": "Policía de Anaheim busca a un sujeto que estaría relacionado con la explosión en un negocio"
+              },
+              "mail": {
+                "subject": "Policía de Anaheim busca a un sujeto que estaría relacionado con la explosión en un negocio",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPolicía de Anaheim busca a un sujeto que estaría relacionado con la explosión en un negocio\n\nEncuéntralo en este enlace:http://uni.vi/Fig8101FBjI\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Explosiones",
+            "link": "/local/los-angeles-kmex/temas/explosiones"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-e180-d751-a1ef-e1d3547e0000",
+          "uri": "/local/los-angeles-kmex/ofrecen-recompensa-de-5-000-por-datos-del-conductor-que-atropello-mortalmente-a-una-abuela-en-la-mirada-video",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "Ofrecen recompensa de $5,000 por datos del conductor que atropelló mortalmente a una abuela en La Mirada",
+          "description": "La mujer de 68 años regresaba a su casa con sus dos nietos el pasado 20 de febrero cuando fue atropellada por un conductor que no se detuvo a ayudarla y escapó. Las autoridades piden ayuda de la comunidad para encontrarlo.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-e180-d751-a1ef-e1d358650000",
+            "title": "ae99eb96d2de461c9b7f8176edba3d7a",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/a3/4c/4415b02e4eca8081799cf290f7e0/ae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/8acca76/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/36eebd1/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/2222891/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/a118dc7/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F1500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/e3ef498/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F1500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/8983b18/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/65da4c9/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F1500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/1be2ba3/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa3%2F4c%2F4415b02e4eca8081799cf290f7e0%2Fresizes%2F500%2Fae99eb96d2de461c9b7f8176edba3d7a",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T10:47:37-04:00",
+          "publishDate": "2019-07-11T10:43:00-04:00",
+          "expirationDate": "2029-07-10T10:43:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3709831",
+          "durationString": "0:28",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/6ja0101FBhZ",
+                "isFeedDialog": false,
+                "title": "Ofrecen recompensa de $5,000 por datos del conductor que atropelló mortalmente a una abuela en La Mirada",
+                "description": "La mujer de 68 años regresaba a su casa con sus dos nietos el pasado 20 de febrero cuando fue atropellada por un conductor que no se detuvo a ayudarla y escapó. Las autoridades piden ayuda de la comunidad para encontrarlo.",
+                "imageUrl": "https://st1.uvnimg.com/a3/4c/4415b02e4eca8081799cf290f7e0/ae99eb96d2de461c9b7f8176edba3d7a",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/6ja0101FBhZ",
+                "title": "Ofrecen recompensa de $5,000 por datos del conductor que atropelló mortalmente a una abuela en La Mirada",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/6ja0101FBhZ",
+                "message": "Ofrecen recompensa de $5,000 por datos del conductor que atropelló mortalmente a una abuela en La Mirada"
+              },
+              "mail": {
+                "subject": "Ofrecen recompensa de $5,000 por datos del conductor que atropelló mortalmente a una abuela en La Mirada",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nOfrecen recompensa de $5,000 por datos del conductor que atropelló mortalmente a una abuela en La Mirada\n\nEncuéntralo en este enlace:http://uni.vi/6ja0101FBhZ\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Sucesos",
+            "link": "/local/los-angeles-kmex/temas/sucesos"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-e17a-d3db-ad7f-f17b89120000",
+          "uri": "/local/los-angeles-kmex/el-nino-que-murio-por-ahogamiento-en-palmdale-habria-rogado-que-no-lo-regresaran-con-sus-padres-segun-su-bisabuela-video",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "El niño que murió por ahogamiento en Palmdale habría rogado que no lo regresaran con sus padres, según su bisabuela",
+          "description": "Aunque la mujer cuidó de Noah desde que tenía 3 meses de edad, el pequeño tuvo que volver a vivir con sus progenitores varias veces. La pareja está siendo investigada y podría enfrentar cargos criminales por los extraños golpes encontrados en el cuerpo del menor.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-e1e5-d053-a76f-f9ef58470000",
+            "title": "54de58547af64ef9833eb536cb52f93a",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/dc/92/2df56cb846a7b316a1627722d972/54de58547af64ef9833eb536cb52f93a",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/6152ed0/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/e790829/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/88785d9/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/426bbab/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F1500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/917f37a/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F1500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/13243a8/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/b741a5e/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F1500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/7b28dd9/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2F92%2F2df56cb846a7b316a1627722d972%2Fresizes%2F500%2F54de58547af64ef9833eb536cb52f93a",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T12:37:34-04:00",
+          "publishDate": "2019-07-11T10:32:00-04:00",
+          "expirationDate": "2029-07-10T10:32:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3709829",
+          "durationString": "0:32",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/MZtJ101FBgz",
+                "isFeedDialog": false,
+                "title": "El niño que murió por ahogamiento en Palmdale habría rogado que no lo regresaran con sus padres, según su bisabuela",
+                "description": "Aunque la mujer cuidó de Noah desde que tenía 3 meses de edad, el pequeño tuvo que volver a vivir con sus progenitores varias veces. La pareja está siendo investigada y podría enfrentar cargos criminales por los extraños golpes encontrados en el cuerpo del menor.",
+                "imageUrl": "https://st1.uvnimg.com/dc/92/2df56cb846a7b316a1627722d972/54de58547af64ef9833eb536cb52f93a",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/MZtJ101FBgz",
+                "title": "El niño que murió por ahogamiento en Palmdale habría rogado que no lo regresaran con sus padres, según su bisabuela",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/MZtJ101FBgz",
+                "message": "El niño que murió por ahogamiento en Palmdale habría rogado que no lo regresaran con sus padres, según su bisabuela"
+              },
+              "mail": {
+                "subject": "El niño que murió por ahogamiento en Palmdale habría rogado que no lo regresaran con sus padres, según su bisabuela",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEl niño que murió por ahogamiento en Palmdale habría rogado que no lo regresaran con sus padres, según su bisabuela\n\nEncuéntralo en este enlace:http://uni.vi/MZtJ101FBgz\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "A Primera Hora - Los Ángeles",
+            "link": "/local/los-angeles-kmex/temas/a-primera-hora-los-angeles"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-e178-d945-af7f-f57a65a40000",
+          "uri": "/local/los-angeles-kmex/elementos-esenciales-para-curar-o-proteger-una-herida-en-momentos-de-emergencia-video",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "Elementos esenciales para curar o proteger una herida en momentos de emergencia",
+          "description": "El doctor Kaseín González explica algunas técnicas de primeros auxilios para atender cortadas y heridas durante un temblor u otros sucesos de este tipo. Dice cuáles son los productos más importantes que se deben incluir en los kits de emergencia.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-e17a-d053-a76f-f97e68fc0000",
+            "title": "942ba5264d2241e1b48c2d26343e18c2",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/b0/02/0cf9e8ac4985a4afe564391eb2c1/942ba5264d2241e1b48c2d26343e18c2",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/7efb028/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/8b871f1/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/6ea6a0a/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/a0130b2/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F1500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/b1f29a8/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F1500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/1b10a68/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/5450662/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F1500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/7165f24/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb0%2F02%2F0cf9e8ac4985a4afe564391eb2c1%2Fresizes%2F500%2F942ba5264d2241e1b48c2d26343e18c2",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T10:41:15-04:00",
+          "publishDate": "2019-07-11T10:31:00-04:00",
+          "expirationDate": "2029-07-10T10:31:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3709827",
+          "durationString": "4:28",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": false,
+          "longformPlayList": false,
+          "hasNextEpisode": false,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/jk7l101FBfy",
+                "isFeedDialog": false,
+                "title": "Elementos esenciales para curar o proteger una herida en momentos de emergencia",
+                "description": "El doctor Kaseín González explica algunas técnicas de primeros auxilios para atender cortadas y heridas durante un temblor u otros sucesos de este tipo. Dice cuáles son los productos más importantes que se deben incluir en los kits de emergencia.",
+                "imageUrl": "https://st1.uvnimg.com/b0/02/0cf9e8ac4985a4afe564391eb2c1/942ba5264d2241e1b48c2d26343e18c2",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/jk7l101FBfy",
+                "title": "Elementos esenciales para curar o proteger una herida en momentos de emergencia",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/jk7l101FBfy",
+                "message": "Elementos esenciales para curar o proteger una herida en momentos de emergencia"
+              },
+              "mail": {
+                "subject": "Elementos esenciales para curar o proteger una herida en momentos de emergencia",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nElementos esenciales para curar o proteger una herida en momentos de emergencia\n\nEncuéntralo en este enlace:http://uni.vi/jk7l101FBfy\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Recomendaciones ",
+            "link": "/local/los-angeles-kmex/temas/recomendaciones"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "agnosticepisodeswidget",
+        "uid": "0000016b-b3d0-dff4-afef-bff2de00001c",
+        "title": "TV Shows: Capítulos Gratis",
+        "titleLink": {
+          "href": "https://www.univision.com/shows",
+          "target": "_self",
+          "text": "Shows",
+          "uid": "0000016b-b3d0-dff4-afef-bff2ddf50001"
+        },
+        "lazyLoaded": false
+      },
+      "id": "0000016b-b3d0-dff4-afef-bff2de00001c",
+      "type": "ShowsLFGridAgnosticEpisodes",
+      "contents": [
+        {
+          "type": "video",
+          "uid": "0000016b-ba71-d3a8-a1eb-fbf1286a0000",
+          "uri": "/local/los-angeles-kmex/shows/simon-dice/simon-dice-como-veo-doy-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uri": "/shows/simon-dice",
+            "name": "simón dice",
+            "title": "Simón Dice"
+          },
+          "title": "Simón Dice - Como veo doy",
+          "description": "El padre de Diana llega a cenar con su nueva novia el mismo día del aniversario de los jueves de Tornillos y Simón tiene que ingeniárselas para evitar que Diana descubra a sus amigos festejando en el cuarto de juegos.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-ba7a-dac7-af7b-ff7f05740000",
+            "title": "095db1b7616f46da802b96508595d27f",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/99/8e/1d9e6606466f9de5f4249637c702/095db1b7616f46da802b96508595d27f",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/96ab30c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F500%2F095db1b7616f46da802b96508595d27f",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/fb913dc/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F500%2F095db1b7616f46da802b96508595d27f",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/b6b1d34/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F500%2F095db1b7616f46da802b96508595d27f",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/f7aadc1/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F1500%2F095db1b7616f46da802b96508595d27f",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/02af8cf/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F1500%2F095db1b7616f46da802b96508595d27f",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/6630dbd/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F500%2F095db1b7616f46da802b96508595d27f",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/b770e5e/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F1500%2F095db1b7616f46da802b96508595d27f",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/5390c63/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F99%2F8e%2F1d9e6606466f9de5f4249637c702%2Fresizes%2F500%2F095db1b7616f46da802b96508595d27f",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-03T20:54:46-04:00",
+          "publishDate": "2019-07-03T00:00:00-04:00",
+          "expirationDate": "2019-08-29T00:00:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3699852",
+          "durationString": "22:29",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": true,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/imBY101EWFM",
+                "isFeedDialog": false,
+                "title": "Simón Dice - Como veo doy",
+                "description": "El padre de Diana llega a cenar con su nueva novia el mismo día del aniversario de los jueves de Tornillos y Simón tiene que ingeniárselas para evitar que Diana descubra a sus amigos festejando en el cuarto de juegos.",
+                "imageUrl": "https://st1.uvnimg.com/99/8e/1d9e6606466f9de5f4249637c702/095db1b7616f46da802b96508595d27f",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/imBY101EWFM",
+                "title": "Simón Dice - Como veo doy",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/imBY101EWFM",
+                "message": "Simón Dice - Como veo doy"
+              },
+              "mail": {
+                "subject": "Simón Dice - Como veo doy",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSimón Dice - Como veo doy\n\nEncuéntralo en este enlace:http://uni.vi/imBY101EWFM\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Simón Dice",
+            "link": "/shows/simon-dice"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-ba74-d28f-af7f-ffffa2400000",
+          "uri": "/local/los-angeles-kmex/shows/simon-dice/simon-dice-aplicale-la-castigadora-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uri": "/shows/simon-dice",
+            "name": "simón dice",
+            "title": "Simón Dice"
+          },
+          "title": "Simón Dice - Aplícale la castigadora",
+          "description": "Bartolomé se pone celoso porque el nuevo y guapo vecino es exnovio de Carla. Simón le recomienda a Bartolomé aplicarle la castigadora y comunicarse con una exnovia para darle celos a su esposa, pero le marca a la persona equivocada.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-ba98-dac7-af7b-fffd383e0000",
+            "title": "e965d9e2848d4572b19d116c40beacb6",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/c5/b4/5f22f4504aaf9324bfbf0defd498/e965d9e2848d4572b19d116c40beacb6",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/2847f4c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/1ec8228/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/b71f565/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/ed29aa7/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F1500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/82e7761/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F1500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/2a8b8a8/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/3ade400/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F1500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/02c1466/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fc5%2Fb4%2F5f22f4504aaf9324bfbf0defd498%2Fresizes%2F500%2Fe965d9e2848d4572b19d116c40beacb6",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-03T21:27:45-04:00",
+          "publishDate": "2019-07-03T00:00:00-04:00",
+          "expirationDate": "2019-08-29T00:00:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3685382",
+          "durationString": "21:18",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": true,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/BVIe101EWFZ",
+                "isFeedDialog": false,
+                "title": "Simón Dice - Aplícale la castigadora",
+                "description": "Bartolomé se pone celoso porque el nuevo y guapo vecino es exnovio de Carla. Simón le recomienda a Bartolomé aplicarle la castigadora y comunicarse con una exnovia para darle celos a su esposa, pero le marca a la persona equivocada.",
+                "imageUrl": "https://st1.uvnimg.com/c5/b4/5f22f4504aaf9324bfbf0defd498/e965d9e2848d4572b19d116c40beacb6",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/BVIe101EWFZ",
+                "title": "Simón Dice - Aplícale la castigadora",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/BVIe101EWFZ",
+                "message": "Simón Dice - Aplícale la castigadora"
+              },
+              "mail": {
+                "subject": "Simón Dice - Aplícale la castigadora",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSimón Dice - Aplícale la castigadora\n\nEncuéntralo en este enlace:http://uni.vi/BVIe101EWFZ\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Simón Dice",
+            "link": "/shows/simon-dice"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-8b07-d178-a16b-ff1771450000",
+          "uri": "/local/los-angeles-kmex/shows/sin-tu-mirada/sin-tu-mirada-capitulo-67-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uri": "/shows/sin-tu-mirada",
+            "name": "sin tu mirada",
+            "title": "Sin tu mirada"
+          },
+          "title": "Sin Tu Mirada Capítulo 67",
+          "description": "Marina descubre que Alberto trabaja en el hospital y decide renunciar para no volver a verlo. Isauro decide tomar terapia para superar sus problemas sin imaginar que la doctora es novia de Alberto.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-8b14-d4ff-a7ff-bb9d57ec0000",
+            "title": "2522d866a8f548d591614b7def5820a1",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/a4/bf/0a1cfae745429b0f5ac816bad735/2522d866a8f548d591614b7def5820a1",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/a4cad87/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/d44f32c/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/14eec88/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/d327c74/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F1500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/3e4d97d/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F1500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/407089f/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/53ab724/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F1500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/3e2610f/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa4%2Fbf%2F0a1cfae745429b0f5ac816bad735%2Fresizes%2F500%2F2522d866a8f548d591614b7def5820a1",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-26T00:05:43-04:00",
+          "publishDate": "2019-06-26T00:00:00-04:00",
+          "expirationDate": "2019-11-20T00:00:00-05:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3698787",
+          "durationString": "41:54",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": true,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/oWcp101Efpn",
+                "isFeedDialog": false,
+                "title": "Sin Tu Mirada Capítulo 67",
+                "description": "Marina descubre que Alberto trabaja en el hospital y decide renunciar para no volver a verlo. Isauro decide tomar terapia para superar sus problemas sin imaginar que la doctora es novia de Alberto.",
+                "imageUrl": "https://st1.uvnimg.com/a4/bf/0a1cfae745429b0f5ac816bad735/2522d866a8f548d591614b7def5820a1",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/oWcp101Efpn",
+                "title": "Sin Tu Mirada Capítulo 67",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/oWcp101Efpn",
+                "message": "Sin Tu Mirada Capítulo 67"
+              },
+              "mail": {
+                "subject": "Sin Tu Mirada Capítulo 67",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nSin Tu Mirada Capítulo 67\n\nEncuéntralo en este enlace:http://uni.vi/oWcp101Efpn\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Sin tu mirada",
+            "link": "/shows/sin-tu-mirada"
+          }
+        },
+        {
+          "type": "video",
+          "uid": "0000016b-8b79-da70-a7eb-ab7b4c750000",
+          "uri": "/local/los-angeles-kmex/shows/por-amar-sin-ley/por-amar-sin-ley-capitulo-70-video",
+          "vertical": "Entretenimiento",
+          "parent": {
+            "uri": "/shows/por-amar-sin-ley",
+            "name": "por amar sin ley",
+            "title": "Por Amar Sin Ley"
+          },
+          "title": "Por Amar Sin Ley Capítulo 70",
+          "description": "Ricardo se reúne con Paula y Jaime después de un largo tiempo sin visitarlos. Alan es arrestado por ser el principal sospechoso de la muerte de Téllez.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-90eb-dbd8-ad7b-bfff29ff0000",
+            "title": "6ff7c15eb2c947ee9e039620682e7aa8",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/75/d5/37fd18c5433f810956f4f2de59ec/6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/30c2c85/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/5ce5acd/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/65b7c6b/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/63a7af8/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F1500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/3227573/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F1500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/54d77e0/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/8a4c652/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F1500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/fe63280/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2Fd5%2F37fd18c5433f810956f4f2de59ec%2Fresizes%2F500%2F6ff7c15eb2c947ee9e039620682e7aa8",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-26T00:06:02-04:00",
+          "publishDate": "2019-06-26T00:00:00-04:00",
+          "expirationDate": "2019-10-18T00:00:00-04:00",
+          "contentPriority": "STANDARD",
+          "mcpid": "3695087",
+          "durationString": "43:38",
+          "episodeNo": null,
+          "authRequired": false,
+          "longform": true,
+          "longformPlayList": true,
+          "hasNextEpisode": true,
+          "source": "Univision",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "http://uni.vi/cqh8101Efpp",
+                "isFeedDialog": false,
+                "title": "Por Amar Sin Ley Capítulo 70",
+                "description": "Ricardo se reúne con Paula y Jaime después de un largo tiempo sin visitarlos. Alan es arrestado por ser el principal sospechoso de la muerte de Téllez.",
+                "imageUrl": "https://st1.uvnimg.com/75/d5/37fd18c5433f810956f4f2de59ec/6ff7c15eb2c947ee9e039620682e7aa8",
+                "appId": "645138725541385"
+              },
+              "twitter": {
+                "url": "http://uni.vi/cqh8101Efpp",
+                "title": "Por Amar Sin Ley Capítulo 70",
+                "via": "Univision34LA"
+              },
+              "whatsapp": {
+                "url": "http://uni.vi/cqh8101Efpp",
+                "message": "Por Amar Sin Ley Capítulo 70"
+              },
+              "mail": {
+                "subject": "Por Amar Sin Ley Capítulo 70",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPor Amar Sin Ley Capítulo 70\n\nEncuéntralo en este enlace:http://uni.vi/cqh8101Efpp\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "primaryTag": {
+            "name": "Por Amar Sin Ley",
+            "link": "/shows/por-amar-sin-ley"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "allcarouselhighimpact",
+        "uid": "00000167-eb85-dddd-afff-ff858c550059",
+        "title": "NOTICIAS EN IMÁGENES",
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "00000167-eb85-dddd-afff-ff858c550059",
+      "type": "AllCarouselHighImpact",
+      "contents": [
+        {
+          "type": "slideshow",
+          "uid": "0000016b-d920-d232-a56f-ddb5f1030001",
+          "uri": "/local/los-angeles-kmex/en-fotos-detalles-del-caso-de-la-joven-de-17-anos-asesinada-por-la-policia-en-california-fotos",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "En fotos: detalles del caso de la joven de 17 años asesinada por la policía en California",
+          "description": "Hannah Williams murió tras recibir disparos por parte de un oficial de la policía de Fullerton, quien reportó un tiroteo con \"una mujer sospechosa\" y en las investigaciones iniciales se informó sobre el hallazgo de una \"posible pistola”. Sin embargo, la oficina del fiscal de Orange ahora confirma que se trata de la répicla de una pistola.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-d92c-d232-a56f-ddbd332d0000",
+            "title": "Hannah_Williams.JPG",
+            "caption": null,
+            "credit": "Familia Williams",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/aa/f7/5f35e8414405a486b12e0a32b297/hannah-williams.JPG",
+                "width": 511,
+                "height": 475
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/bfe04a3/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Ff7%2F5f35e8414405a486b12e0a32b297%2Fresizes%2F500%2Fhannah-williams.JPG",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/7ad68f9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Ff7%2F5f35e8414405a486b12e0a32b297%2Fhannah-williams.JPG",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/fd9ca6e/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Ff7%2F5f35e8414405a486b12e0a32b297%2Fresizes%2F500%2Fhannah-williams.JPG",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/c0195db/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Ff7%2F5f35e8414405a486b12e0a32b297%2Fresizes%2F500%2Fhannah-williams.JPG",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/c06cbde/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Ff7%2F5f35e8414405a486b12e0a32b297%2Fhannah-williams.JPG",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/062ae09/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Faa%2Ff7%2F5f35e8414405a486b12e0a32b297%2Fresizes%2F500%2Fhannah-williams.JPG",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-09T20:37:48-04:00",
+          "publishDate": "2019-07-09T20:22:38-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "primaryTag": {
+            "name": "Tiroteos",
+            "link": "/local/los-angeles-kmex/temas/tiroteos"
+          }
+        },
+        {
+          "type": "slideshow",
+          "uid": "0000016b-cdd0-d3c4-a1ff-efd8de6f0001",
+          "uri": "/local/los-angeles-kmex/estos-son-los-sismos-mas-fuertes-que-han-azotado-al-estado-de-california-fotos",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "Estos son los sismos más fuertes que han azotado al estado de California",
+          "description": "Según el Departamento de Conservación de California, estos son los sismos más fuertes y más destructivos que se han vivido en el estado dorado.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-c7fb-d3c4-a1ff-effb49f20000",
+            "title": "Earthquake aftermath in California",
+            "caption": "Ridgecrest (United States), 04/07/2019.- A long trench formed by an earthquake, near Ridgecrest, California, USA, 04 July 2019. On 04 July, a 6.4 magnitude earthquake shook Southern California. Its epicenter is located 240 kilometers north of Los Angeles, in Ridgecrest and Trona. (Terremoto/sismo, Estados Unidos) EFE/EPA/ETIENNE LAURENT",
+            "credit": "ETIENNE LAURENT/EFE",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/05/c1/53f8991a44cfa7e3b25a78d96e49/636979046902860857.jpg",
+                "width": 5000,
+                "height": 3333
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/e4d2346/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F05%2Fc1%2F53f8991a44cfa7e3b25a78d96e49%2Fresizes%2F500%2F636979046902860857.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/1cd0f26/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F05%2Fc1%2F53f8991a44cfa7e3b25a78d96e49%2Fresizes%2F1500%2F636979046902860857.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/a1b530a/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F05%2Fc1%2F53f8991a44cfa7e3b25a78d96e49%2Fresizes%2F500%2F636979046902860857.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/ac654f1/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F05%2Fc1%2F53f8991a44cfa7e3b25a78d96e49%2Fresizes%2F500%2F636979046902860857.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/dc49b42/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F05%2Fc1%2F53f8991a44cfa7e3b25a78d96e49%2Fresizes%2F1500%2F636979046902860857.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/38e880b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F05%2Fc1%2F53f8991a44cfa7e3b25a78d96e49%2Fresizes%2F500%2F636979046902860857.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-07T17:43:31-04:00",
+          "publishDate": "2019-07-07T17:43:31-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "primaryTag": {
+            "name": "Desastres Naturales",
+            "link": "/local/los-angeles-kmex/temas/desastres-naturales"
+          }
+        },
+        {
+          "type": "slideshow",
+          "uid": "0000016b-c8e2-d2c0-a1fb-f9fe9ad10001",
+          "uri": "/local/los-angeles-kmex/en-fotos-imagenes-de-ridgecrest-y-zonas-cercanas-tras-sismo-de-7-1-fotos",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "En fotos: Así luce Ridgecrest tras el terremoto de 7.1 que azotó el sur de California",
+          "description": "Casas destruidas, carreteras agrietadas, destrozos en almacenes y mucho miedo en el sur de California tras un \n<b><a href=\"https://www.univision.com/local/los-angeles-kmex/se-reporta-sismo-de-7-1-grados-de-intensidad-a-11-millas-de-ridgecrest-california\">sismo de 7.1</a></b> que mantuvo a las comunidades de Ridgecrest y zonas cercanas fuera de sus casa la noche del viernes 5 de julio y fue catalogado por los expertos como el más fuerte en la región desde 1999.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-c8e6-d3c4-a1ff-eeeec2fd0000",
+            "title": "Eugene Johnson",
+            "caption": "Eugene Johnson, right, looks at the chimney collapsed by an earthquake Saturday, July 6, 2019, at his home in Trona, Calif. Crews in Southern California assessed damage to cracked and burned buildings, broken roads, leaking water and gas lines and other infrastructure Saturday after the largest earthquake the region has seen in nearly 20 years jolted an area from Sacramento to Las Vegas to Mexico. (AP Photo/Marcio Jose Sanchez)",
+            "credit": "AP",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/dc/d2/754640994c35be7ce8ff31f3e153/ap-19187703006368.jpg",
+                "width": 3228,
+                "height": 2152
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/eb0c2e1/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2Fd2%2F754640994c35be7ce8ff31f3e153%2Fresizes%2F500%2Fap-19187703006368.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/02d89d8/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2Fd2%2F754640994c35be7ce8ff31f3e153%2Fresizes%2F1500%2Fap-19187703006368.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/cffb526/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2Fd2%2F754640994c35be7ce8ff31f3e153%2Fresizes%2F500%2Fap-19187703006368.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/4b8cb35/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2Fd2%2F754640994c35be7ce8ff31f3e153%2Fresizes%2F500%2Fap-19187703006368.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/14eaf42/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2Fd2%2F754640994c35be7ce8ff31f3e153%2Fresizes%2F1500%2Fap-19187703006368.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/445d4f9/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fdc%2Fd2%2F754640994c35be7ce8ff31f3e153%2Fresizes%2F500%2Fap-19187703006368.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-06T18:10:11-04:00",
+          "publishDate": "2019-07-06T17:29:00-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "primaryTag": {
+            "name": "Terremotos",
+            "link": "/local/los-angeles-kmex/temas/terremotos"
+          }
+        },
+        {
+          "type": "slideshow",
+          "uid": "0000016b-c2a8-d045-a37b-cead2c1a0001",
+          "uri": "/local/los-angeles-kmex/en-fotos-patriotismo-y-nerviosismo-los-protagonistas-del-4-de-julio-en-el-sur-de-california-fotos",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "En fotos: patriotismo y nerviosismo, los protagonistas del 4 de julio en el sur de California",
+          "description": "El Día de la Independencia de Estados Unidos en la región no solo marcó el 243 aniversario de la unión, sino que también pasó a la historia por un sismo de 6.4 grados de magnitud, el más fuerte en zona desde 1999. Hasta el momento se han reportado más de 200 réplicas por el Servicio de Sismología de Estados Unidos.\n<br>",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-c2af-d046-af7f-ceef424e0000",
+            "title": "APTOPIX July Fourth California",
+            "caption": "A trumpeter who went only by the name Lenny plays a tune during the Santa Monica Fourth of July parade Thursday, July 4, 2019 in Santa Monica, Calif. (AP Photo/Richard Vogel)",
+            "credit": "AP",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/7c/bb/9c17e9b84226aa6c055f9cbd47e6/ap-19185677259601.jpg",
+                "width": 1800,
+                "height": 1200
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/ca02b7e/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7c%2Fbb%2F9c17e9b84226aa6c055f9cbd47e6%2Fresizes%2F500%2Fap-19185677259601.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/cd0b0f9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7c%2Fbb%2F9c17e9b84226aa6c055f9cbd47e6%2Fresizes%2F1500%2Fap-19185677259601.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/1298c1d/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7c%2Fbb%2F9c17e9b84226aa6c055f9cbd47e6%2Fresizes%2F500%2Fap-19185677259601.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/91c9aed/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7c%2Fbb%2F9c17e9b84226aa6c055f9cbd47e6%2Fresizes%2F500%2Fap-19185677259601.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/cd18f24/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7c%2Fbb%2F9c17e9b84226aa6c055f9cbd47e6%2Fresizes%2F1500%2Fap-19185677259601.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/74eb8bd/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7c%2Fbb%2F9c17e9b84226aa6c055f9cbd47e6%2Fresizes%2F500%2Fap-19185677259601.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-05T13:05:56-04:00",
+          "publishDate": "2019-07-05T12:58:10-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "primaryTag": {
+            "name": "4 de julio",
+            "link": "/local/los-angeles-kmex/temas/4-de-julio"
+          }
+        },
+        {
+          "type": "slideshow",
+          "uid": "0000016b-bef3-d045-a37b-bef763240002",
+          "uri": "/local/los-angeles-kmex/en-fotos-las-consecuencias-del-sismo-de-6-4-grados-que-sacudio-el-sur-de-california-este-4-de-julio-fotos",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/los-angeles-kmex",
+            "name": "univision 34 los angeles",
+            "title": "Univision 34 Los Angeles"
+          },
+          "title": "En fotos: las consecuencias del sismo de 6.4 grados que sacudió el sur de California este 4 de julio",
+          "description": "Grietas en las vías, incendios, emergencias médicas, apagones, y algunos destrozos en locales y viviendas se registran tras el temblor de 6.4 grados de magnitud, con epicentro en la ciudad Ridgecrest en el desierto de Mojave al sur de California.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-bf04-d046-af7f-bfcc2a930000",
+            "title": "Terremoto 4 de julio.png",
+            "caption": null,
+            "credit": "USGS",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/96/93/93a1fda948b8ae6baf4e50a523a2/terremoto-4-de-julio.png",
+                "width": 2004,
+                "height": 1054
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/1d59d3e/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F96%2F93%2F93a1fda948b8ae6baf4e50a523a2%2Fresizes%2F500%2Fterremoto-4-de-julio.png",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/3624f6c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F96%2F93%2F93a1fda948b8ae6baf4e50a523a2%2Fresizes%2F1500%2Fterremoto-4-de-julio.png",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/034a15c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F96%2F93%2F93a1fda948b8ae6baf4e50a523a2%2Fresizes%2F1500%2Fterremoto-4-de-julio.png",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/bcee7a9/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F96%2F93%2F93a1fda948b8ae6baf4e50a523a2%2Fresizes%2F500%2Fterremoto-4-de-julio.png",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/3cb6d36/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F96%2F93%2F93a1fda948b8ae6baf4e50a523a2%2Fresizes%2F1500%2Fterremoto-4-de-julio.png",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/b5995a4/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F96%2F93%2F93a1fda948b8ae6baf4e50a523a2%2Fresizes%2F500%2Fterremoto-4-de-julio.png",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-04T18:40:37-04:00",
+          "publishDate": "2019-07-04T18:34:04-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "primaryTag": {
+            "name": "Terremotos",
+            "link": "/local/los-angeles-kmex/temas/terremotos"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "allbannermovingbanner",
+        "uid": "0000016b-b3d1-df49-abfb-b7f765d30000",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016b-b3d1-df49-abfb-b7f765d30000",
+      "type": "AllBannerMovingBanner",
+      "contents": []
+    }
+  ],
+  "source": "Univision",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "https://www.univision.com/local/los-angeles-kmex",
+        "isFeedDialog": false,
+        "title": "Univision 34 Los Angeles",
+        "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "https://www.univision.com/local/los-angeles-kmex",
+        "title": "Univision 34 Los Angeles",
+        "via": "Univision34LA"
+      },
+      "whatsapp": {
+        "url": "https://www.univision.com/local/los-angeles-kmex",
+        "message": "Univision 34 Los Angeles"
+      },
+      "mail": {
+        "subject": "Univision 34 Los Angeles",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nUnivision 34 Los Angeles\n\nEncuéntralo en este enlace:https://www.univision.com/local/los-angeles-kmex\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "secondaryTags": null,
+  "sectionType": "tvstation",
+  "socialNetworks": [
+    {
+      "text": "Univision 34 YouTube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCzOrrheF99HIxv9Do2K5ghw",
+      "target": "_blank"
+    },
+    {
+      "text": "Univision 34 Twitter",
+      "name": "Twitter",
+      "url": "https://twitter.com/Univision34LA",
+      "target": "_blank"
+    },
+    {
+      "text": "Univision 34 Facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Univision34/",
+      "target": "_blank"
+    }
+  ],
+  "jwRecommendationChannel": "FxAiYXAY",
+  "dynamicPlaylist": true,
+  "tvStation": {
+    "type": "tvstation",
+    "uid": "0000014d-070d-ddc6-a5dd-179f207d0000",
+    "uri": "/local/los-angeles-kmex",
+    "vertical": null,
+    "parent": null,
+    "title": "Univision 34 Los Angeles",
+    "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Los Angeles",
+    "image": {
+      "type": "image",
+      "uid": "0000014c-9ee5-d8b4-ab7c-fef5363e0000",
+      "title": "KMEX Univision 3 Los Ángeles",
+      "caption": "KMEX Univision 3 Los Ángeles",
+      "credit": "Univision 34",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/b4/eb/cd4db9b2464aa05faec538cd84ed/e71289572ec1476cb90b58ce96881b48",
+          "width": 323,
+          "height": 216
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/6956fec/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/0cacb43/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/c0ca7e3/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/3737518/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-med": {
+          "href": "https://st1.uvnimg.com/dims4/default/5b55b07/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 400,
+          "height": 225
+        },
+        "16x9-extended": {
+          "href": "https://st1.uvnimg.com/dims4/default/b677c11/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-person-profile": {
+          "href": "https://st1.uvnimg.com/dims4/default/c8e8765/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 182,
+          "height": 182
+        }
+      }
+    },
+    "authors": [],
+    "updateDate": "2019-07-11T15:32:05-04:00",
+    "publishDate": "2015-11-26T15:00:00-05:00",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "call": "KMEX",
+    "logo": {
+      "type": "image",
+      "uid": "0000014c-9ee5-d8b4-ab7c-fef5363e0000",
+      "title": "KMEX Univision 3 Los Ángeles",
+      "caption": "KMEX Univision 3 Los Ángeles",
+      "credit": "Univision 34",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/b4/eb/cd4db9b2464aa05faec538cd84ed/e71289572ec1476cb90b58ce96881b48",
+          "width": 323,
+          "height": 216
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/6956fec/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/0cacb43/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/c0ca7e3/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/3737518/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/002b3bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-med": {
+          "href": "https://st1.uvnimg.com/dims4/default/5b55b07/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 400,
+          "height": 225
+        },
+        "16x9-extended": {
+          "href": "https://st1.uvnimg.com/dims4/default/b677c11/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-person-profile": {
+          "href": "https://st1.uvnimg.com/dims4/default/c8e8765/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fb4%2Feb%2Fcd4db9b2464aa05faec538cd84ed%2Fe71289572ec1476cb90b58ce96881b48",
+          "width": 182,
+          "height": 182
+        }
+      }
+    },
+    "alternativeLogo": {
+      "type": null,
+      "uid": null,
+      "title": null,
+      "caption": null,
+      "credit": null,
+      "renditions": null
+    },
+    "localMarket": {
+      "title": "Los Angeles",
+      "zipCodes": [
+        "90034"
+      ]
+    },
+    "localMarketFooter": {
+      "title": "PÁGINAS DE LOS ÁNGELES",
+      "links": [
+        {
+          "href": "https://cdn4.uvnimg.com/74/be/7344f06547afb3a73dd5b5671223/tv-radio-combined-eeo-public-file-report-local-media-la-8-1-17-through-7-31-18.pdf",
+          "target": "_blank",
+          "text": "Univision LA EEO Report",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0000"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/tv-profile/kmex-dt",
+          "target": "_blank",
+          "text": "Univision 34 LA Public File",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0001"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/fm-profile/klve",
+          "target": "_blank",
+          "text": "Online Public File KLVE",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0002"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/am-profile/ktnq",
+          "target": "_blank",
+          "text": "Online Public File KTNQ (AM)",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0003"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/fm-profile/ksca",
+          "target": "_blank",
+          "text": "Online Public File KSCA",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0004"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/fm-profile/krcv",
+          "target": "_blank",
+          "text": "Online Public File KRCV",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0005"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/fm-profile/krcd",
+          "target": "_blank",
+          "text": "Online Public File KRCD",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0006"
+        },
+        {
+          "href": "https://www.univision.com/los-angeles/kmex/univision-y-unimas-aviso-del-servicio-de-subtitulos-closed-captioning",
+          "target": "_blank",
+          "text": "Aviso de subtítulos e información para personas con discapacidad",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0007"
+        },
+        {
+          "href": "https://www.univision.com/los-angeles/kmex/somos-univision-34-los-angeles",
+          "target": "_blank",
+          "text": "Somos Univision 34, Los Angeles",
+          "uid": "00000168-8769-dbde-ade8-efffe7cc0008"
+        }
+      ]
+    },
+    "contact": {
+      "aboutStation": "/local/los-angeles-kmex/los-angeles/kmex/somos-univision-34-los-angeles"
+    }
+  },
+  "ttl": 90,
+  "feedGeneratedAt": "2019-07-11T16:25:04-04:00"
+}

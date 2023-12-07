@@ -1,0 +1,30 @@
+.moreEpisodes {
+  margin-top: 16px;
+  @include media-breakpoint-up('md') {
+    margin-top: 40px;
+  }
+}
+
+.center {
+  justify-content: center;
+}
+
+.titleWrapper {
+  font-size: rem(22px);
+  line-height: rem(26px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 5px 0 20px;
+
+  .title {
+    margin-left: 10px;
+    color: $white;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+}
+
+.cardWrapper {
+  display: flex;
+}

@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  overflow-x: hidden;
+  @include media-breakpoint-up('sm') {
+    overflow-x: visible;
+  }
+}
+
+.containerLiveMatches {
+  width: 100%;
+  overflow-x: visible;
+}
+
+.withBorder {
+  border: 10px solid $white-grey;
+  padding-top: 14px;
+}

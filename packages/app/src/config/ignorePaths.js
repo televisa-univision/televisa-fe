@@ -1,0 +1,15 @@
+export default [
+  'amp_preconnect_polyfill',
+  '\\.css',
+  '\\.jpg',
+  '\\.jpeg',
+  '\\.js',
+  '\\.map',
+  '\\.map',
+  '\\.png',
+  '\\.php',
+  '\\.xml',
+  'wp-content',
+  'wp-includes',
+  'wp-login',
+];

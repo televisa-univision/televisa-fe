@@ -1,0 +1,1162 @@
+{
+  "themes": {
+    "black": {
+      "primary": "#000000",
+      "secondary": "#333333"
+    },
+    "blue": {
+      "name": "blue",
+      "primary": "#2358bf",
+      "secondary": "#23a2ee"
+    },
+    "blueDark": {
+      "name": "blueDark",
+      "primary": "#232F59",
+      "secondary": "#0F1732"
+    },
+    "darkGrey": {
+      "primary": "#3a3a3a",
+      "secondary": "#000000",
+      "custom": {
+        "a": "#23a2ee",
+        "a:hover": "#23a2ee"
+      }
+    },
+    "emerald": {
+      "primary": "#0dbc56",
+      "secondary": "#009940"
+    },
+    "greyBlack": {
+      "primary": "#808080",
+      "secondary": "#000000"
+    },
+    "lightGrey": {
+      "primary": "#797979",
+      "secondary": "#4e4e4e"
+    },
+    "mustard": {
+      "primary": "#e2be25",
+      "secondary": "#c7a104"
+    },
+    "orchid": {
+      "primary": "#650dbc",
+      "secondary": "#3f007d"
+    },
+    "peach": {
+      "primary": "#d3761d",
+      "secondary": "#be5d01"
+    },
+    "pink": {
+      "primary": "#B5008F",
+      "secondary": "#E41F7B"
+    },
+    "purple": {
+      "primary": "#863699",
+      "secondary": "#DF128D"
+    },
+    "purpleEnt": {
+      "primary": "#B5008F",
+      "secondary": "#E41F7B"
+    },
+    "rose": {
+      "primary": "#BC0D0D",
+      "secondary": "#97061b"
+    },
+    "sapphire": {
+      "primary": "#0d63bc",
+      "secondary": "#003d7c"
+    },
+    "sports": {
+      "primary": "#00C473",
+      "secondary": "#25D366"
+    },
+    "tudn": {
+      "primary": "#007350",
+      "secondary": "#007350",
+      "tertiary": "#1B2F2A"
+    },
+    "uforia": {
+      "primary": "#ec1b23",
+      "secondary": "#e63e10"
+    },
+    "velvet": {
+      "primary": "#DE252C",
+      "secondary": "#BC0D0D"
+    },
+    "white": {
+      "primary": "#FFFFFF",
+      "secondary": "#FFFFFF"
+    },
+    "locales": {
+      "name": "locales",
+      "primary": "#232F59",
+      "secondary": "#0F1732",
+      "custom": {
+        "a": "#2358bf",
+        "a:hover": "#23a2ee"
+      }
+    }
+  },
+  "urls": {
+    "noticias/*": {
+      "theme": "blue",
+      "variant": "light"
+    },
+    "musica": {
+      "theme": "rose"
+    },
+    "musica/*": {
+      "theme": "sapphire"
+    },
+    "entretenimiento/*": {
+      "theme": "purple"
+    },
+    "horoscopos/*": {
+      "theme": "purple"
+    },
+    "carros/*": {
+      "theme": "darkGrey",
+      "variant": "light"
+    },
+    "albuquerque/kjfa": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "fresno/kond": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/fresno-kond-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "mcallen/kgbt": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/mcallen-kgbt-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-francisco/ksol": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-francisco-ksol-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "austin/klqb": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/austin-klqb-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "chicago/wojo": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/chicago-wojo-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "arizona/khot": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/arizona-khot-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-diego/klnv": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-diego-klnv-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "nueva-york/wqbu": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/nueva-york-wqbu-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-antonio/krom": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-antonio-krom-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "dallas/klno": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/dallas-klno-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-francisco/kvvf": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-francisco-kvvf-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "nueva-york/wxny": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/nueva-york-wxny-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "los-angeles/ktnq-am": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/los-angeles-ktnq-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "miami/waqi-am": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/miami-waqi-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "houston/kltn": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/houston-kltn-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "los-angeles/ksca": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/los-angeles-ksca-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "las-vegas/kisf": {
+      "theme": "velvet",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/las-vegas-kisf-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "los-angeles/klve": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/los-angeles-klve-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "albuquerque/kiot": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-diego/klqv": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-diego-klqv-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "arizona/komr": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/arizona-komr-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "houston/kove": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/houston-kove-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "austin/klja": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/austin-klja-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-francisco/kbrg": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-francisco-kbrg-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "chicago/wppn": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/chicago-wppn-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "miami/wamr": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/miami-wamr-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "fresno/krda": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/fresno-krda-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "los-angeles/krcd": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/los-angeles-krcd-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "mcallen/kbtq": {
+      "theme": "sapphire",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/mcallen-kbtq-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "fresno/klle": {
+      "theme": "emerald",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/fresno-klle-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "nueva-york/wado-am": {
+      "theme": "emerald",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/nueva-york-wado-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "houston/kqbu": {
+      "theme": "emerald",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "dallas/kfzo": {
+      "theme": "emerald",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/dallas-kfzo-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "albuquerque/kkss": {
+      "theme": "orchid",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-antonio/kxtn": {
+      "theme": "orchid",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-antonio-kxtn-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "miami/wqba-am": {
+      "theme": "mustard",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/miami-wqba-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-antonio/kbbt": {
+      "theme": "mustard",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-antonio-kbbt-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "miami/wrto": {
+      "theme": "mustard",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/miami-wrto-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "puerto-rico/wkaq": {
+      "theme": "mustard",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/puerto-rico-wkaq-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "puerto-rico/wkaq-am": {
+      "theme": "peach",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/puerto-rico-wkaq-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "albuquerque/kkrg": {
+      "theme": "peach",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "dallas/kdxx": {
+      "theme": "darkGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/dallas-kdxx-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "arizona/kqmr": {
+      "theme": "darkGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/arizona-kqmr-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "houston/kama": {
+      "theme": "darkGrey"
+    },
+    "radio/houston-kama-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "chicago/wviv": {
+      "theme": "darkGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/chicago-wviv-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-antonio/kmyo": {
+      "theme": "darkGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-antonio-kmyo-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "las-vegas/krgt": {
+      "theme": "darkGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/las-vegas-krgt-fm": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "houston/klat-am": {
+      "theme": "lightGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/houston-klat-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "mcallen/kgbt-am": {
+      "theme": "lightGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/mcallen-kgbt-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "san-antonio/kcor": {
+      "theme": "lightGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/san-antonio-kcor-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "dallas/kflc-am": {
+      "theme": "lightGrey",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "radio/dallas-kflc-am": {
+      "theme": "uforia",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "deportes/*": {
+      "theme": "tudn"
+    },
+    "tudn.com/*": {
+      "theme": "tudn"
+    },
+    "delicioso/*": {
+      "theme": "velvet"
+    },
+    "estilo-de-vida/*": {
+      "theme": "pink"
+    },
+    "famosos/*": {
+      "theme": "purpleEnt"
+    },
+    "novelas": {
+      "theme": "purple"
+    },
+    "shows/*": {
+      "theme": "darkGrey"
+    },
+    "series": {
+      "theme": "purple"
+    },
+    "entretenimiento/udisea": {
+      "theme": "purple"
+    },
+    "shows/futbol-club": {
+      "theme": "tudn"
+    },
+    "shows/futbol-central": {
+      "theme": "tudn"
+    },
+    "shows/mision-europa": {
+      "theme": "tudn"
+    },
+    "shows/locura-deportiva": {
+      "theme": "tudn"
+    },
+    "shows/mision-rusia": {
+      "theme": "tudn"
+    },
+    "shows/linea-de-cuatro": {
+      "theme": "tudn"
+    },
+    "shows/sabado-futbolero": {
+      "theme": "tudn"
+    },
+    "shows/contacto-deportivo-udn": {
+      "theme": "tudn"
+    },
+    "shows/contacto-deportivo": {
+      "theme": "tudn"
+    },
+    "shows/republica-deportiva": {
+      "theme": "tudn"
+    },
+    "shows/al-punto": {
+      "theme": "darkGrey",
+      "variant": "dark",
+      "vertical": "noticias"
+    },
+    "shows/aqui-y-ahora": {
+      "theme": "darkGrey",
+      "variant": "dark",
+      "vertical": "noticias"
+    },
+    "shows/cronicas-de-sabado": {
+      "theme": "darkGrey",
+      "variant": "dark",
+      "vertical": "noticias"
+    },
+    "shows/cronicas": {
+      "theme": "darkGrey",
+      "variant": "dark",
+      "vertical": "noticias"
+    },
+    "shows/noticiero-univision": {
+      "theme": "darkGrey",
+      "variant": "dark",
+      "vertical": "noticias"
+    },
+    "shows/primer-impacto": {
+      "theme": "darkGrey",
+      "variant": "dark",
+      "vertical": "noticias"
+    },
+    "noticias/edicion-digital": {
+      "theme": "darkGrey",
+      "variant": "dark",
+      "vertical": "noticias"
+    },
+    "temas/nu-edicion-nocturna": {
+      "theme": "darkGrey",
+      "variant": "light",
+      "vertical": "noticias"
+    },
+    "contigo/*": {
+      "theme": "blue",
+      "variant": "light"
+    },
+    "seguridad-online/*": {
+      "theme": "blue",
+      "variant": "light"
+    },
+    "local/*": {
+      "theme": "locales",
+      "variant": "light"
+    },
+    "local/san-francisco-kdtv": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/miami-wltv": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/nueva-york-wxtv": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/houston-kxln": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/chicago-wgbo": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/los-angeles-kmex": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/dallas-kuvn": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/bakersfield-kabe": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/salt-lake-city-kuth": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/atlanta-wuvg": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/philadelphia-wuvp": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/north-carolina-wuvc": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/fresno-kftv": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/sacramento-kuvs": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/arizona-ktvw": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/austin-kakw": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/san-antonio-kwex": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    },
+    "local/puerto-rico-wlii": {
+      "theme": "locales",
+      "variant": "light",
+      "variants": {
+        "horizontalSlideshow": "dark",
+        "video": "dark"
+      }
+    }
+  }
+}

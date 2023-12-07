@@ -1,0 +1,184 @@
+{
+  "univision": {
+    "uri": "/",
+    "vertical": "Global",
+    "parent": {
+      "uri": null,
+      "name": null,
+      "title": null
+    },
+    "title": "Univision | Shows, Entretenimiento, Noticias, Deportes y Novelas",
+    "hierarchy": [
+      {
+        "uri": "/"
+      }
+    ]
+  },
+  "noticias": {
+    "uri": "/noticias",
+    "vertical": "Noticias",
+    "parent": {
+      "uri": null,
+      "name": null,
+      "title": null
+    },
+    "title": "Noticias Univision"
+  },
+  "noticiasSection": {
+    "uri": "/noticias/politica",
+    "vertical": "Noticias",
+    "parent": {
+      "uri": "/noticias",
+      "name": "noticias",
+      "title": "Noticias"
+    },
+    "title": "Noticias de Política",
+    "type": "section"
+  },
+  "noticiasContent": {
+    "uri": "/noticias/narcotrafico/el-chapo-es-culpable-que-sigue-despues-del-juicio-mas-caro-en-la-historia-de-eeuu",
+    "vertical": "Noticias",
+    "parent": {
+      "uri": "/noticias/narcotrafico",
+      "name": "narcotráfico",
+      "title": "Narcotráfico"
+    },
+    "title": "'El Chapo' es culpable: qué sigue ahora y por qué no puede ser condenado a muerte"
+  },
+  "famosos": {
+    "uri": "/famosos",
+    "vertical": "Entretenimiento",
+    "parent": {
+      "uri": null,
+      "name": null,
+      "title": null
+    },
+    "title": "Famosos"
+  },
+  "famososSection": {
+    "uri": "/famosos/section",
+    "vertical": "Entretenimiento",
+    "type": "section",
+    "parent": {
+      "uri": "/famosos/section"
+    },
+    "hierarchy": [
+      { "uri": "/famosos" },
+      { "uri": "/famosos/section" }
+    ]
+  },
+  "famososContent": {
+    "uri": "/famosos/estoy-enfermito-manden-buena-vibra-suplica-ricky-martin-desde-venecia-video",
+    "vertical": "Entretenimiento",
+    "parent": {
+      "uri": "/famosos",
+      "name": "famosos",
+      "title": "Famosos"
+    },
+    "tagHierarchy": [{
+      "uri": "/famosos"
+    }],
+    "title": "“Estoy enfermito... manden buena vibra”, suplica Ricky Martin desde Venecia",
+    "type": "article",
+    "hierarchy": [
+      { "uri": "/famosos" },
+      { "uri": "/famosos/section" },
+      { "uri": "/famosos/estoy-enfermito-manden-buena-vibra-suplica-ricky-martin-desde-venecia-video" }
+    ]
+  },
+  "famososSectionSection": {
+    "uri": "/famosos/section/section",
+    "vertical": "Entretenimiento",
+    "type": "section",
+    "parent": {
+      "uri": "/famosos/section"
+    },
+    "hierarchy": [
+      { "uri": "/famosos" },
+      { "uri": "/famosos/section" },
+      { "uri": "/famosos/section/section" }
+    ]
+  },
+  "radioSection": {
+    "uri": "https://www.univision.com/radio/omar-y-argelia-show",
+    "vertical": "Local Radio",
+    "type": "section",
+    "parent": {
+      "uuid": "0000015d-b7b1-d99b-a97f-f7fd93a60000",
+      "uri": "https://www.univision.com/radio",
+      "name": "estaciones de radio",
+      "title": "Estaciones de Radio"
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000015d-b7b1-d99b-a97f-f7fd93a60000",
+        "uri": "https://www.univision.com/radio",
+        "name": "estaciones de radio",
+        "title": "Estaciones de Radio"
+      },
+      {
+        "uuid": "00000151-16ad-df7f-a5fd-96afe33c0001",
+        "uri": "https://www.univision.com/radio/omar-y-argelia-show",
+        "name": "omar y argelia show",
+        "title": "Omar y Argelia Show"
+      }
+    ]
+  },
+  "tudnArticle": {
+    "uri": "https://www.tudn.com/nfl/antonio-brown-ya-tiene-equipo-steelers-y-raiders-llegan-a-un-acuerdo",
+    "vertical": "Deportes",
+    "type": "article",
+    "parent": {
+      "uuid": "0000014f-8d97-d4ff-a7ef-9fdfc6400000",
+      "uri": "https://www.tudn.com/nfl",
+      "name": "national football league",
+      "title": "National Football League"
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+        "uri": "https://www.tudn.com",
+        "name": "deportes",
+        "title": "Deportes"
+      },
+      {
+        "uuid": "0000014f-8d97-d4ff-a7ef-9fdfc6400000",
+        "uri": "https://www.tudn.com/nfl",
+        "name": "national football league",
+        "title": "National Football League"
+      }
+    ]
+  },
+  "noticiasArticle": {
+    "uri": "https://www.univision.com/noticias/america-latina/quien-es-jeanine-anez-la-opositora-que-se-proclamo-presidenta-interina-de-la-convulsionada-bolivia",
+    "vertical": "Noticias",
+    "type": "article",
+    "parent": {
+      "uuid": "0000014f-6edb-d67e-adff-7fdf1c1b0000",
+      "uri": "https://www.univision.com/noticias/america-latina",
+      "name": "américa latina",
+      "title": "América Latina"
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://www.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      {
+        "uuid": "0000014f-6edb-d67e-adff-7fdf1c1b0000",
+        "uri": "https://www.univision.com/noticias/america-latina",
+        "name": "america latina",
+        "title": "América Latina"
+      }
+    ]
+  },
+  "temasPerson": {
+    "uri": "https://webapp.univision.com/temas/jorge-ramos",
+    "vertical": null,
+    "type": "person",
+    "parent": null,
+    "hierarchy": []
+  }
+}

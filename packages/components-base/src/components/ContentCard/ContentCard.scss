@@ -1,0 +1,400 @@
+.contentCard {
+  text-align: left;
+  &:hover {
+    picture {
+      filter: brightness(1.1);
+    }
+  }
+  &.vertical {
+    display: flex;
+    flex-direction: column;
+  }
+  &.horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+button {
+  background: transparent;
+  padding: 0;
+  * {
+    pointer-events: none;
+  }
+}
+
+.cardNumber {
+  background-color: $black;
+  margin: 0 $grid-gutter-width 8px 0;
+  height: 24px;
+  width: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $white;
+  font-size: rem(14px);
+  text-indent: -1px;
+
+  @include media-breakpoint-up("sm") {
+    height: 32px;
+    width: 32px;
+    font-size: rem(18px);
+  }
+}
+
+.listNumber {
+  background-color: $white-grey;
+  color: $black;
+  float: left;
+  font-size: rem(18px);
+  line-height: rem(40px);
+  height: 40px;
+  padding-left: 12px;
+  width: 40px;
+  @include media-breakpoint-up("sm") {
+    font-size: rem(22px);
+    line-height: rem(48px);
+    height: 48px;
+    padding-left: 15px;
+    width: 48px;
+  }
+  & + .textWrapper {
+    width: calc(100% - 48px);
+    padding: 0 $grid-gutter-width;
+  }
+}
+
+.imageWrapper {
+  border-radius: 4px;
+  margin-bottom: 8px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  .horizontal & {
+    margin-bottom: 0;
+  }
+
+  .link,
+  .videoPlayer {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+     > div:first-child {
+       height: 100%;
+     }
+  }
+
+  .pictureWrapper {
+    height: 100%;
+  }
+
+  .secondaryLabelWrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 60%;
+    max-height: 20%;
+    overflow: hidden;
+  }
+
+  @include media-breakpoint-up("md") {
+    .horizontal & {
+      margin: 0;
+    }
+  }
+
+  &WithNumber {
+    display: flex;
+    .link,
+    .videoPlayer {
+      width: calc(100% - 48px);
+    }
+  }
+
+  &Icon {
+    padding: 10px;
+  }
+}
+
+.overlayImage {
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg,rgba($black-grey, 0) 0%,$black-grey 100%);
+  }
+}
+
+.imageFull{
+  @include media-breakpoint-up("sm") {
+    width: 100%;
+  }
+}
+
+.isConecta {
+  &:after {
+    content: " ";
+    position: absolute;
+    display: block;
+    height: 2px;
+    width: 100%;
+    left: 0;
+    bottom: -2px;
+    background: $longform-gradient-left;
+  }
+}
+
+.textWrapper {
+  position: relative;
+
+  .title {
+    margin: 0;
+    display: block;
+    padding-bottom: 8px;
+    width: 100%;
+
+    @include media-breakpoint-up("sm") {
+      &.isMain {
+        margin-bottom: 8px;
+      }
+    }
+    .dark & a,
+    .dark & div,
+    .dark & span {
+      color: $white;
+    }
+  }
+
+  .description {
+    margin-bottom: 0.5rem;
+    color: $darker-grey;
+    .dark & {
+      color: $white;
+    }
+
+    .horizontal & {
+      display: none;
+      @include media-breakpoint-up("md") {
+        display: block;
+      }
+    }
+  }
+
+  &.wrapperConecta {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .airTime {
+    margin-bottom: 0.5rem;
+    color: $grey;
+    text-transform: uppercase;
+    font-size: rem(11px);
+    line-height: rem(13px);
+    .dark & {
+      color: $grey-black;
+    }
+  }
+
+  &Info {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    > :after {
+      content: "";
+      border-left: 1px solid $grey;
+      margin: 0 8px;
+      font-size: 9px;
+      line-height: 9px;
+    }
+    > :last-child:after {
+      display: none;
+    }
+    + .longform {
+      margin-top: 8px;
+    }
+    .showInPlaylist & {
+      justify-content: space-between;
+      > :after {
+        display: none;
+      }
+    }
+  }
+
+  .author {
+    span {
+      color: $grey;
+    }
+  }
+
+  .date {
+    text-transform: uppercase;
+    font-size: rem(10px);
+    line-height: rem(16px);
+    color: $darker-grey;
+    .dark & {
+      color: $white;
+    }
+  }
+
+  .duration {
+    color: $grey;
+    font-weight: 700;
+    padding: 0;
+    background: transparent;
+  }
+
+  .longform {
+    background: $white-grey;
+    color: $black;
+  }
+
+  .icon {
+    position: relative;
+    background: $darker-grey;
+    padding: 5px;
+  }
+
+  .simpleTag {
+    @include media-breakpoint-up("sm") {
+      display: block;
+      margin-bottom: 2px;
+    }
+    .dark & {
+      color: $white;
+    }
+  }
+
+  .viewEpisode {
+    align-items: center;
+    color: $darker-grey;
+    display: flex;
+    font-size: rem(10px);
+    letter-spacing: 0.4px;
+    line-height: rem(16px);
+    text-transform: uppercase;
+    svg {
+      margin-left: 5px;
+    }
+    .dark & {
+      color: $white;
+    }
+  }
+}
+
+.label {
+  z-index: 3;
+  .imageWrapper & {
+    position: absolute;
+    bottom: 0;
+  }
+  .title & {
+    margin-right: 6px;
+  }
+  a:hover {
+    color: $white;
+  }
+}
+
+.contentLabel {
+  background-color: $crimson-50;
+  background: $purple-to-violet;
+
+  color: $white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: rem(9px);
+  line-height: rem(11px);
+  z-index: 100;
+  padding: 8px;
+  height: 24px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+
+  &.isMain {
+    font-size: rem(11px);
+    line-height: rem(13px);
+  }
+}
+
+.cardImage {
+  max-width: 100%;
+}
+
+.durationPlaylist {
+  justify-self: flex-end;
+}
+
+.showInPlaylist {
+  &.horizontal {
+    align-items: stretch;
+  }
+  .videoPlayer {
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .textWrapper {
+    display: flex;
+    flex-direction: column;    
+    justify-content: space-between;
+    .containerMeta {
+      display: flex;
+      flex-direction: column;
+      height: 100%;   
+    }
+    .title {
+      font-size: rem(14px);
+      line-height: rem(18px);  
+      &.isAnchor {
+        font-size: rem(12px);
+        line-height: rem(16px);
+      }
+      > span {
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        display: -webkit-box;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      @include media-breakpoint-up("sm") {
+        font-size: rem(14px);
+        line-height: rem(18px);
+      }
+    }
+    .bottonInfo {
+      position: absolute;
+      bottom: 0;
+      display: flex;
+      align-items: center;
+      > * {
+        &:after { 
+          content: '';
+          width: 1px;
+          height: 1px;
+          background: $grey-black;
+          margin-right: 6px;
+        }
+        &:last-child:after {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+.videoResume {
+  position: absolute !important;
+  bottom: 0;
+}

@@ -1,0 +1,9 @@
+{
+  "server": {
+    "input": "./src/server/cluster.js",
+    "output": "./build/server/server.js"
+  },
+  "excludeFromExternals": [
+		"react-native-web"
+	]
+}

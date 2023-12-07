@@ -1,0 +1,31 @@
+.container {
+  background: #f8f8f8; /* Same color in the external widget */
+  margin-bottom: 30px;
+}
+
+.externalWidget {
+  min-height: 300px;
+}
+
+.placeholder {
+  height: 300px;
+}
+
+.sponsorship {
+  padding-left: 20px;
+  padding-bottom: 20px;
+  align-items: center;
+  display: none;
+  font-size: rem(11px);
+  line-height: rem(13px);
+
+  img {
+    width: 32px;
+    height: 32px;
+    margin-left: 8px;
+  }
+
+  &.loaded {
+    display: flex;
+  }
+}

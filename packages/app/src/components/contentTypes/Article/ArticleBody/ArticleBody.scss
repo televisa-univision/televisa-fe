@@ -1,0 +1,262 @@
+.header {
+  margin-top: 1rem;
+}
+.headerWithBreakingNews {
+  margin-top: 1rem;
+  @include media-breakpoint-down('sm') {
+    margin-top: 0rem;
+  }
+}
+.breakingNews {
+  margin-bottom: 16px;
+  @include media-breakpoint-down('sm') {
+    margin-bottom: 8px;
+  }
+}
+.header,
+.body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.header .primaryTag,
+.headerWithBreakingNews .primaryTag {
+  background-color: transparent;
+  font-size: rem(10px);
+  line-height: rem(16px);
+  margin-bottom: .5rem;
+  padding: 0;
+
+  @include media-breakpoint-up('sm') {
+    margin-bottom: 1rem;
+  }
+}
+
+.secondaryTags {
+  font-size: rem(10px);
+  line-height: rem(16px);
+  padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 40px;
+  @include media-breakpoint-up('md') {
+    padding-bottom: 24px;
+  }
+}
+
+.centered {
+  text-align: center;
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin: 1rem 0;
+
+  @include media-breakpoint-up('sm') {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  &.isOpinion {
+    align-items: center;
+    border-top: 1px solid #d2d2d2;
+    padding-top: 11px;
+  }
+}
+
+.date {
+  padding-top: .5rem;
+  color: $grey;
+  font-size: rem(11px);
+
+  @include media-breakpoint-up('sm') {
+    padding-top: 0;
+  }
+}
+
+.sharingBar {
+  margin-top: 20px;
+  text-align: center;
+
+  @include media-breakpoint-up('sm') {
+    margin-top: 0;
+  }
+}
+
+.opinion {
+  margin: 1rem 0;
+}
+
+.askExpertAuthor {
+  flex: auto;
+
+  @include media-breakpoint-up('sm') {
+    flex: 1.5;
+  }
+}
+
+.callWrapper {
+  flex: 2;
+  margin: 16px 0 8px;
+  order: 2;
+
+  @include media-breakpoint-up('sm') {
+    margin-top: 0;
+    order: 1;
+  }
+}
+
+.callInnerWrapper {
+  @include media-breakpoint-up('sm') {
+    max-width: 175px;
+  }
+}
+
+.askExpertSharingBar {
+  margin: 24px 0 8px;
+  order: 1;
+
+  @include media-breakpoint-up('sm') {
+    margin: 0;
+    order: 2;
+  }
+}
+
+.body {
+  @include uvs-font('a', 'regular');
+
+  margin-top: 16px;
+  font-size: rem(16px);
+  line-height: rem(20px);
+
+  a {
+    font-weight: 700;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  h2,
+  h3,
+  h4,
+  h5 {
+    @include uvs-font('b', 'bold');
+    margin-bottom: 8px;
+  }
+
+  p {
+    margin-bottom: 16px;
+  }
+
+  h1 {
+    font-size: rem(20px);
+    line-height: rem(24px);
+
+    @include media-breakpoint-up('md') {
+      font-size: rem(32px);
+      line-height: rem(36px);
+    }
+  }
+
+  h2 {
+    font-size: rem(18px);
+    line-height: rem(24px);
+
+    @include media-breakpoint-up('md') {
+      font-size: rem(24px);
+      line-height: rem(29px);
+    }
+  }
+
+  h3 {
+    font-size: rem(16x);
+    line-height: rem(20px);
+
+    @include media-breakpoint-up('md') {
+      font-size: rem(20px);
+      line-height: rem(24px);
+    }
+  }
+
+  h4 {
+    font-size: rem(14px);
+    line-height: rem(18px);
+
+    @include media-breakpoint-up('md') {
+      font-size: rem(18px);
+      line-height: rem(24px);
+    }
+  }
+
+  h5 {
+    font-size: rem(12px);
+    line-height: rem(16px);
+
+    @include media-breakpoint-up('md') {
+      font-size: rem(16px);
+      line-height: rem(20px);
+    }
+  }
+
+  ul, ol {
+    @include media-breakpoint-down('sm') {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  sub, sup {
+    left: rem(-2px);
+  }
+}
+
+.askExpertBody{
+  color: $black-grey;
+  font-size: rem(16px);
+  margin-top: 24px;
+
+  @include media-breakpoint-up('sm') {
+    margin-top: 32px;
+  }
+}
+
+.actionBarWrapper {
+  height: 48px;
+  padding-top: 5px;
+  @include media-breakpoint-up('sm') {
+    height: 54px;
+    margin-top: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 55%;
+  }
+}
+
+.bottomActionBar {
+  border-top: 1px solid $gray-30;
+  display: flex;
+  margin-bottom: 32px;
+  width: 100%;
+  @include media-breakpoint-up('sm') {
+    justify-content: flex-end;
+  }
+}
+
+.listTitle {
+  @include uvs-font('b', 'bold');
+
+  color: $black;
+  font-size: rem(26px);
+  line-height : rem(38px);
+  margin: 5px 20px;
+  padding: 0;
+  text-align: center;
+}
+
+.isWorldCupMVP {
+  font-family: 'Poppins', sans-serif;
+  line-height: rem(27px);
+}

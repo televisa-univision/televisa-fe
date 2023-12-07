@@ -1,0 +1,155 @@
+:global {
+  .lock-body{
+    touch-action: none;
+    overflow: hidden;
+    overscroll-behavior: none;
+    -webkit-overflow-scrolling: none;
+  }
+}
+
+.playerModal {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: $black;
+  z-index: $zindex-above-navigation;
+}
+
+.playerModalInner {
+  max-width: 1440px;
+  margin: auto;
+  position: relative;
+  text-align: right;
+  @include media-breakpoint-up('md') {
+    text-align: left;
+  }
+}
+
+.playerWrapper {
+  max-width: 980px;
+  margin: auto;
+}
+
+.close {
+  background: transparent;
+  padding: 10px;
+  right: 0;
+  top: 0;
+
+  @include media-breakpoint-up('md') {
+    position: absolute;
+  }
+}
+
+.titleCard {
+  position: relative;
+}
+
+.inlineVideo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.videoWrapper {
+  display: block;
+  max-width: 1279px;
+  overflow-y: hidden;
+  z-index: $zindex-above-navigation;
+}
+
+.isAnchor {
+  margin-top: 0;
+  position: fixed;
+  top: auto;
+  left: auto;
+  z-index: $zindex-above-reaction;
+}
+
+@include media-breakpoint-between('xxs', 'xs') {
+  .isAnchor.sticky {
+    left: 0;
+    max-width: 100%;
+  }
+}
+
+.anchorSection {
+  bottom: 0;
+}
+
+.sticky {
+  height: 202px;
+  top:0;
+  :global(.anchor-info) {
+    visibility: hidden;
+  }
+}
+
+.isSticky {
+  padding-top: 56.25%;
+
+  .titleCard {
+    z-index: $zindex-base;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+}
+
+.isSticky :global .anchor-info {
+  display: none;
+}
+
+:global {
+  div.jwplayer {
+    visibility: visible;
+    + .anchor-info:not(#pip-player-anchor) {
+      display: none;
+    }
+  }
+}
+
+.anchorTitle {
+  display: none;
+  .isAnchor & {
+    display: block;
+  }
+}
+
+.isAnchor .anchorTitle {
+  margin: 0 16px;
+}
+
+.anchorBox {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.playerContainer {
+  background-color: $black;
+  height: 0;
+  padding-bottom: 56.25%;
+  width: 100%;
+}
+
+.tooltip {
+  position: relative;
+  top: 10px;
+
+  > div {
+    left: initial;
+    max-width: 335px;
+    right: 54px;
+    text-align: left;
+    z-index: $zindex-above-reaction;
+
+    @include media-breakpoint-up('md') {
+      left: initial;
+      max-width: none;
+    }
+  }
+}

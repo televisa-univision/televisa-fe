@@ -1,0 +1,118 @@
+.nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  margin-top: 0;
+  width: 100%;
+
+  > div {
+    flex-direction: row;
+    margin-right: 0;
+    justify-content: center;
+  }
+  @include media-breakpoint-up('sm') {
+    justify-content: center;
+  }
+
+  &.noScroll {
+    justify-content: center;
+  }
+}
+
+.navWrapper {
+  background: $white-grey;
+  width: 100%;
+  display: flex;
+  border-top: 1px solid $light-grey;
+
+  @include media-breakpoint-up('sm') {
+    justify-content: center;
+  }
+
+  &.withScroll {
+    &::-webkit-scrollbar {
+      display: none; // Safari and Chrome
+    }
+    overflow-x: auto;
+    // to hide scrollbar
+    -ms-overflow-style: none;  // IE 10+
+    overflow: -moz-scrollbars-none;  // Firefox
+    @include media-breakpoint-up('sm') {
+      overflow-x: visible;
+    }
+  }
+
+  &.tudn {
+    background: $very-light-grey;
+    border-top: none;
+  }
+}
+.navButtonBottom {
+  border-bottom-color: $deep-sea !important;
+}
+.navButton {
+  padding: 0 10px;
+  width: auto;
+
+  &:hover {
+    > div {
+      p {
+        color: $white;
+      }
+    }
+  }
+
+  &.active {
+    > div {
+      p {
+        color: $white;
+      }
+    }
+  }
+
+  &.tudn {
+    padding: 0 10px;
+    height: 52px;
+
+    > div {
+      p {
+        color: $grey-black;
+      }
+    }
+
+    &:hover {
+      > div {
+        p {
+          color: $black;
+        }
+      }
+    }
+
+    &.active {
+      > div {
+        p {
+          color: $black;
+        }
+      }
+    }
+  }
+
+  &.uppercase {
+    text-transform: uppercase;
+  }
+
+  @include media-breakpoint-up('sm') {
+    > div {
+      p {
+        font-size: 14px;
+      }
+    }
+  }
+  
+  .isWorldCupMVP{
+    font-family: 'Roboto Flex', Helvetica, Arial, sans-serif;
+    font-size: rem(16px);
+    line-height: rem(120);
+  }
+}

@@ -1,0 +1,89 @@
+image:
+  repository: 626604290616.dkr.ecr.us-east-1.amazonaws.com/prod-univision-fe-k8s
+  tag: latest
+  pullPolicy: IfNotPresent
+
+hpa:
+  minReplicas: 20
+  maxReplicas: 100
+  targetUtilization: 80
+
+pdb:
+  maxUnavailable: 1
+
+resources:
+  limits:
+    cpu: 1500m
+    memory: 2048Mi
+  requests:
+    cpu: 600m
+    memory: 500Mi
+
+service:
+  type: NodePort
+  port: 80
+
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: alb
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/waf-acl-id: 641869de-01f7-4530-861a-bab66a964908
+    alb.ingress.kubernetes.io/certificate-arn: "arn:aws:acm:us-east-1:626604290616:certificate/11f7e2b4-7e44-437a-bb02-cd8a0694d203"
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTPS": 443}]'
+    alb.ingress.kubernetes.io/healthcheck-path: /health
+  paths:
+    - /*
+  hosts:
+    - univision-fe.k8s.prod-univision.com
+  tls:
+    - univision-fe.k8s.prod-univision.com
+
+vanityingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: alb
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/waf-acl-id: 641869de-01f7-4530-861a-bab66a964908
+    alb.ingress.kubernetes.io/certificate-arn: "arn:aws:acm:us-east-1:626604290616:certificate/b452efaa-121f-4c0a-b5f0-ce0d8c2420e6"
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80},{"HTTPS": 443}]'
+    alb.ingress.kubernetes.io/healthcheck-path: /health
+    alb.ingress.kubernetes.io/ssl-policy: "ELBSecurityPolicy-TLS-1-2-2017-01"
+  paths:
+    - /*
+
+config_map:
+  AWS_S3_ASSETS_BUCKET: webapp-static-prod.univision.com
+  CDN_URL: https://www.univision.com
+  CMS_API_URL: https://syndicator.univision.com
+  MULTI_DOMAIN_DISABLED: false
+  DD_ENV: prod
+  DD_LOGS_INJECTION: true
+  DD_SERVICE_NAME: web-app
+  DD_TRACE_AGENT_HOSTNAME: datadog-statsd.datadog
+  DD_TRACE_AGENT_PORT: 8126
+  DD_TRACE_DEBUG: false
+  DD_TRACE_ENABLED: true
+  DEPLOY_ENV: production
+  ENVIRONMENT: prod
+  GRAPHQL_API_URL: https://graphql.univision.com
+  NEW_RELIC_APP_NAME: univision-fe-prod-k8
+  NEW_RELIC_ENABLED: true
+  NEW_RELIC_LOG_LEVEL: error
+  NODE_ENV: production
+  SPA_MONITORING_ENABLED: false
+  SENTRY_ENVIRONMENT: webapp.univision.com
+  SPORT_API_URL: https://sports-api.univision.com
+  SSO_IFRAME_URL: https://sso.univision.com
+  VIDEO_HUB_ENV: prod
+
+secret:
+  enabled: true
+  name: univision-fe
+
+strategy:
+  rollingUpdate:
+    maxSurge: 40%
+    maxUnavailable: 10%
+
+replicaCount: 20

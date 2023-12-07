@@ -1,0 +1,1520 @@
+{
+  "settings":{
+    "type":"listwidget",
+    "uid":"00000173-3f28-dc45-a5f7-bffacd510018",
+    "title":"Las que te perdiste",
+    "titleLink":null,
+    "lazyLoaded":false
+  },
+  "analyticsData":{
+    "widget":{
+      "widget_pos":19,
+      "widget_title":"las que te perdiste",
+      "widget_type":"list widget"
+    }
+  },
+  "content":[
+    {
+      "type":"slideshow",
+      "uid":"00000173-2ad0-d54d-a573-6bf245d90003",
+      "uri":"https://uat.tudn.com/extra-cancha/alexa-dellanos-la-hermosa-rubia-que-te-dejara-perplejo-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+        "uri":"https://uat.tudn.com/extra-cancha",
+        "name":"extra cancha",
+        "title":"Extra Cancha"
+      },
+      "title":"Alexa Dellanos, la hermosa rubia que te dejará perplejo",
+      "description":"Las pronunciadas líneas de la bella modelo enmarcan su profunda y penetrante mirada.",
+      "image":{
+        "type":"image",
+        "uid":"00000173-2ad2-d54d-a573-6bf2e43c0001",
+        "title":"Alexa Dellanos (16).jpg",
+        "caption":"Las pronunciadas líneas de la bella modelo enmarcan su profunda y penetrante mirada.",
+        "credit":"Instagram Alexa Dellanos | @alexadellanos",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/91/b0/51f95da74757b8523c6af1f7c9d2/alexa-dellanos-16.jpg",
+            "width":1080,
+            "height":835,
+            "focusPoint":{
+              "x":0.6418173003670614,
+              "y":0.28555301706759845
+            }
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-08T07:57:06-04:00",
+      "publishDate":"2020-07-08T07:57:06-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":39,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"00000173-2ad2-d54d-a573-6bf2e43c0001",
+          "title":"Alexa Dellanos (16).jpg",
+          "caption":"Las pronunciadas líneas de la bella modelo enmarcan su profunda y penetrante mirada.",
+          "credit":"Instagram Alexa Dellanos | @alexadellanos",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/91/b0/51f95da74757b8523c6af1f7c9d2/alexa-dellanos-16.jpg",
+              "width":1080,
+              "height":835,
+              "focusPoint":{
+                "x":0.6418173003670614,
+                "y":0.28555301706759845
+              }
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-2ad2-d54d-a573-6bf2e4c30000",
+          "title":"Alexa Dellanos (36).jpg",
+          "caption":"Las pronunciadas líneas de la bella modelo enmarcan su profunda y penetrante mirada.",
+          "credit":"Instagram Alexa Dellanos | @alexadellanos",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/76/14/63836dba4a928ca5c27ebcd25e75/alexa-dellanos-36.jpg",
+              "width":1080,
+              "height":1349,
+              "focusPoint":{
+                "x":0.5428583742773259,
+                "y":0.27293822514894944
+              }
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-2ad2-d54d-a573-6bf2e40d0001",
+          "title":"Alexa Dellanos (9).jpg",
+          "caption":"Las pronunciadas líneas de la bella modelo enmarcan su profunda y penetrante mirada.",
+          "credit":"Instagram Alexa Dellanos | @alexadellanos",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/f8/ae/3f7917134bc6908441a4d160c7a1/alexa-dellanos-9.jpg",
+              "width":1080,
+              "height":1350,
+              "focusPoint":{
+                "x":0.5475966971072348,
+                "y":0.31422299870089143
+              }
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/5zw8102ilhG",
+            "isFeedDialog":false,
+            "title":"Alexa Dellanos, la hermosa rubia que te dejará perplejo",
+            "description":"Las pronunciadas líneas de la bella modelo enmarcan su profunda y penetrante mirada.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/91/b0/51f95da74757b8523c6af1f7c9d2/alexa-dellanos-16.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/5zw8102ilhG",
+            "title":"Alexa Dellanos, la hermosa rubia que te dejará perplejo",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/5zw8102ilhG",
+            "message":"Alexa Dellanos, la hermosa rubia que te dejará perplejo"
+          },
+          "mail":{
+            "subject":"Alexa Dellanos, la hermosa rubia que te dejará perplejo",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAlexa Dellanos, la hermosa rubia que te dejará perplejo\n\nEncuéntralo en este enlace:http://uni.vi/5zw8102ilhG\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"Extra Cancha",
+        "link":"https://uat.tudn.com/extra-cancha"
+      }
+    },
+    {
+      "type":"slideshow",
+      "uid":"00000173-26d2-d518-a7fb-b7deb9130048",
+      "uri":"https://uat.tudn.com/extra-cancha/daisy-keech-la-modelo-que-pensaras-que-es-un-ilusion-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+        "uri":"https://uat.tudn.com/extra-cancha",
+        "name":"extra cancha",
+        "title":"Extra Cancha"
+      },
+      "title":"Daisy Keech, la modelo que pensarás que es una ilusión",
+      "description":"La modelo estadounidense de 20 años cuenta con más de 1 millón de seguidores en su cuenta de Instagram, donde presume su espectacular figura.",
+      "image":{
+        "type":"image",
+        "uid":"0000016d-ad41-d361-a17d-ededee420000",
+        "title":"thumbnail_IMG_4736.jpg",
+        "caption":null,
+        "credit":"Instagram",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/99/0b/a6c840dc4b6e9822c15a78677d50/thumbnail-img-4736.jpg",
+            "width":1012,
+            "height":1280
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-07T18:32:07-04:00",
+      "publishDate":"2020-07-07T17:46:55-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":34,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"0000016d-ad41-d361-a17d-ededee420000",
+          "title":"thumbnail_IMG_4736.jpg",
+          "caption":null,
+          "credit":"Instagram",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/99/0b/a6c840dc4b6e9822c15a78677d50/thumbnail-img-4736.jpg",
+              "width":1012,
+              "height":1280
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"0000016d-ad41-d361-a17d-edededa40000",
+          "title":"IMG_4747.jpg",
+          "caption":null,
+          "credit":"Instagram",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/25/73/5f4b1a2c48bfbdb185ecb8890bb9/img-4747.jpg",
+              "width":1082,
+              "height":1280
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"0000016d-ad41-d361-a17d-edededb90000",
+          "title":"thumbnail_IMG_4715.jpg",
+          "caption":null,
+          "credit":"Instagram",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/26/52/8d2971294077ae428ceefb200cd8/thumbnail-img-4715.jpg",
+              "width":894,
+              "height":1280
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/Dvdz102iifT",
+            "isFeedDialog":false,
+            "title":"Daisy Keech, la modelo que pensarás que es una ilusión",
+            "description":"La modelo estadounidense de 20 años cuenta con más de 1 millón de seguidores en su cuenta de Instagram, donde presume su espectacular figura.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/99/0b/a6c840dc4b6e9822c15a78677d50/thumbnail-img-4736.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/Dvdz102iifT",
+            "title":"Daisy Keech, la modelo que pensarás que es una ilusión",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/Dvdz102iifT",
+            "message":"Daisy Keech, la modelo que pensarás que es una ilusión"
+          },
+          "mail":{
+            "subject":"Daisy Keech, la modelo que pensarás que es una ilusión",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDaisy Keech, la modelo que pensarás que es una ilusión\n\nEncuéntralo en este enlace:http://uni.vi/Dvdz102iifT\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"Extra Cancha",
+        "link":"https://uat.tudn.com/extra-cancha"
+      }
+    },
+    {
+      "type":"slideshow",
+      "uid":"00000173-1c3c-d518-a7fb-9fbcd2a40001",
+      "uri":"https://uat.tudn.com/extra-cancha/yuli-cagna-la-refinada-belleza-del-nuevo-mundo-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+        "uri":"https://uat.tudn.com/extra-cancha",
+        "name":"extra cancha",
+        "title":"Extra Cancha"
+      },
+      "title":"Yuli Cagna, la refinada belleza del nuevo mundo",
+      "description":"Su espectacular belleza te cautivará y se robará todos tus suspiros.",
+      "image":{
+        "type":"image",
+        "uid":"00000173-1c3e-d66a-ab77-5fbf69330001",
+        "title":"Yuli Cagna (28).jpg",
+        "caption":"Su espectacular belleza te cautivará y se robará todos tus suspiros.",
+        "credit":"Instagram Yuli Cagna | @yulicagna",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/00/64/0e99915549eab4b446b3577c0ecf/yuli-cagna-28.jpg",
+            "width":1080,
+            "height":1349,
+            "focusPoint":{
+              "x":0.4918032318231271,
+              "y":0.4025039307024483
+            }
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-06T18:48:28-04:00",
+      "publishDate":"2020-07-06T18:48:28-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":33,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"00000173-1c3e-d66a-ab77-5fbf69330001",
+          "title":"Yuli Cagna (28).jpg",
+          "caption":"Su espectacular belleza te cautivará y se robará todos tus suspiros.",
+          "credit":"Instagram Yuli Cagna | @yulicagna",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/00/64/0e99915549eab4b446b3577c0ecf/yuli-cagna-28.jpg",
+              "width":1080,
+              "height":1349,
+              "focusPoint":{
+                "x":0.4918032318231271,
+                "y":0.4025039307024483
+              }
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-1c3e-d66a-ab77-5fbf68e30001",
+          "title":"Yuli Cagna (16).jpg",
+          "caption":"Su espectacular belleza te cautivará y se robará todos tus suspiros.",
+          "credit":"Instagram Yuli Cagna | @yulicagna",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/f2/49/9c143f574dc0bce605863d25c638/yuli-cagna-16.jpg",
+              "width":1080,
+              "height":1349,
+              "focusPoint":{
+                "x":0.4871193915200497,
+                "y":0.32375316165196927
+              }
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-1c3e-d66a-ab77-5fbf68c10001",
+          "title":"Yuli Cagna (11).jpg",
+          "caption":"Su espectacular belleza te cautivará y se robará todos tus suspiros.",
+          "credit":"Instagram Yuli Cagna | @yulicagna",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/1a/4d/d0c5216c46c5baa661d428c4adc2/yuli-cagna-11.jpg",
+              "width":1080,
+              "height":1327,
+              "focusPoint":{
+                "x":0.48238701579049864,
+                "y":0.3725036377308372
+              }
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/ASD3102ieg9",
+            "isFeedDialog":false,
+            "title":"Yuli Cagna, la refinada belleza del nuevo mundo",
+            "description":"Su espectacular belleza te cautivará y se robará todos tus suspiros.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/00/64/0e99915549eab4b446b3577c0ecf/yuli-cagna-28.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/ASD3102ieg9",
+            "title":"Yuli Cagna, la refinada belleza del nuevo mundo",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/ASD3102ieg9",
+            "message":"Yuli Cagna, la refinada belleza del nuevo mundo"
+          },
+          "mail":{
+            "subject":"Yuli Cagna, la refinada belleza del nuevo mundo",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nYuli Cagna, la refinada belleza del nuevo mundo\n\nEncuéntralo en este enlace:http://uni.vi/ASD3102ieg9\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"Extra Cancha",
+        "link":"https://uat.tudn.com/extra-cancha"
+      }
+    },
+    {
+      "type":"slideshow",
+      "uid":"00000173-1282-df43-a9ff-f6c7d6f30070",
+      "uri":"https://uat.tudn.com/extra-cancha/ludovica-pagani-la-periodista-mas-hermosa-en-el-mundo-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+        "uri":"https://uat.tudn.com/extra-cancha",
+        "name":"extra cancha",
+        "title":"Extra Cancha"
+      },
+      "title":"Ludovica Pagani, la periodista más hermosa en el mundo",
+      "description":"La modelo y periodisita italiana ha deslumbrado al mundo con sus inigualables fotos en redes sociales.",
+      "image":{
+        "type":"image",
+        "uid":"0000016f-2020-d917-ab7f-646e1ba10001",
+        "title":"72362167_151412912769698_5714191642122264861_n.jpg",
+        "caption":"La modelo y periosita italiana a deslumbrado al mundo con sus inigualables fotos en redes sociales.",
+        "credit":"Instagram|@ludovicapagani",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/e9/43/5c5a565a4f05a2e773bb98f271f5/72362167-151412912769698-5714191642122264861-n.jpg",
+            "width":1080,
+            "height":1350
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-05T12:34:29-04:00",
+      "publishDate":"2020-07-05T12:34:29-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-cde5-d162-ab6e-eded3c3c0000",
+          "uri":"https://uat.tudn.com/extra-cancha",
+          "name":"extra cancha",
+          "title":"Extra Cancha"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":55,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"0000016f-2020-d917-ab7f-646e1ba10001",
+          "title":"72362167_151412912769698_5714191642122264861_n.jpg",
+          "caption":"La modelo y periosita italiana a deslumbrado al mundo con sus inigualables fotos en redes sociales.",
+          "credit":"Instagram|@ludovicapagani",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/e9/43/5c5a565a4f05a2e773bb98f271f5/72362167-151412912769698-5714191642122264861-n.jpg",
+              "width":1080,
+              "height":1350
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"0000016f-2020-d917-ab7f-646e1b640001",
+          "title":"69381661_392765557964903_9089439459011309811_n.jpg",
+          "caption":"La modelo y periosita italiana a deslumbrado al mundo con sus inigualables fotos en redes sociales.",
+          "credit":"Instagram|@ludovicapagani",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/5a/ee/7ed090d44a6b81517a0952771e8a/69381661-392765557964903-9089439459011309811-n.jpg",
+              "width":1080,
+              "height":1350
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"0000016f-2020-d917-ab7f-646e1a810001",
+          "title":"58599241_2355395501189575_7660160959391543466_n.jpg",
+          "caption":"La modelo y periosita italiana a deslumbrado al mundo con sus inigualables fotos en redes sociales.",
+          "credit":"Instagram|@ludovicapagani",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/c2/27/76fdb5134dffa284e6dca9c9f41a/58599241-2355395501189575-7660160959391543466-n.jpg",
+              "width":1080,
+              "height":1350
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/gLZM102ibq3",
+            "isFeedDialog":false,
+            "title":"Ludovica Pagani, la periodista más hermosa en el mundo",
+            "description":"La modelo y periodisita italiana ha deslumbrado al mundo con sus inigualables fotos en redes sociales.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/e9/43/5c5a565a4f05a2e773bb98f271f5/72362167-151412912769698-5714191642122264861-n.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/gLZM102ibq3",
+            "title":"Ludovica Pagani, la periodista más hermosa en el mundo",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/gLZM102ibq3",
+            "message":"Ludovica Pagani, la periodista más hermosa en el mundo"
+          },
+          "mail":{
+            "subject":"Ludovica Pagani, la periodista más hermosa en el mundo",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLudovica Pagani, la periodista más hermosa en el mundo\n\nEncuéntralo en este enlace:http://uni.vi/gLZM102ibq3\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"Extra Cancha",
+        "link":"https://uat.tudn.com/extra-cancha"
+      }
+    },
+    {
+      "type":"slideshow",
+      "uid":"00000173-353d-d7d9-adff-3dfd1da30001",
+      "uri":"https://uat.tudn.com/futbol/premier-league/dos-empates-y-una-victoria-en-la-jornada-34-de-la-premier-league-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"00000152-3b9f-d0a8-a553-7f9fafe20000",
+        "uri":"https://uat.tudn.com/futbol/premier-league",
+        "name":"premier league",
+        "title":"Premier League"
+      },
+      "title":"Dos empates y una victoria en la jornada 34 de la Premier League",
+      "description":"Manchester United es el único equipo que consigue los tres puntos en el cierre del día en Premier League.",
+      "image":{
+        "type":"image",
+        "uid":"00000173-3567-da6d-a377-bf6f342f0001",
+        "title":"Britain Soccer Premier League",
+        "caption":"Manchester United vuelve a ganar y se acerca al Leicester City en la búqueda por puestos de Champions League.",
+        "credit":"Shaun Botterill/AP",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/91/2c/d24259be45a889fdd8e1c496176e/aston-villa-vs-manchester-united-3.jpg",
+            "width":4188,
+            "height":2853
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-09T17:09:47-04:00",
+      "publishDate":"2020-07-09T17:09:47-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri":"https://uat.tudn.com/futbol",
+          "name":"futbol",
+          "title":"Fútbol"
+        },
+        {
+          "uuid":"00000152-3b9f-d0a8-a553-7f9fafe20000",
+          "uri":"https://uat.tudn.com/futbol/premier-league",
+          "name":"premier league",
+          "title":"Premier League"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":15,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"00000173-3567-da6d-a377-bf6f342f0001",
+          "title":"Britain Soccer Premier League",
+          "caption":"Manchester United vuelve a ganar y se acerca al Leicester City en la búqueda por puestos de Champions League.",
+          "credit":"Shaun Botterill/AP",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/91/2c/d24259be45a889fdd8e1c496176e/aston-villa-vs-manchester-united-3.jpg",
+              "width":4188,
+              "height":2853
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-3567-da6d-a377-bf6f34370001",
+          "title":"Britain Soccer Premier League",
+          "caption":"Manchester United vuelve a ganar y se acerca al Leicester City en la búqueda por puestos de Champions League.",
+          "credit":"Shaun Botterill/AP",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/81/f0/b7a8ef7c472fa97dec9a92d3c0f8/aston-villa-vs-manchester-united-2.jpg",
+              "width":3492,
+              "height":2143
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-3567-da6d-a377-bf6f343e0000",
+          "title":"Britain Soccer Premier League",
+          "caption":"Manchester United vuelve a ganar y se acerca al Leicester City en la búqueda por puestos de Champions League.",
+          "credit":"Andrew Boyers/AP",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/91/fd/0fe908364a1f80aeab16b247ce97/aston-villa-vs-manchester-united-1.jpg",
+              "width":3231,
+              "height":2228
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/vVrH102iqU4",
+            "isFeedDialog":false,
+            "title":"Dos empates y una victoria en la jornada 34 de la Premier League",
+            "description":"Manchester United es el único equipo que consigue los tres puntos en el cierre del día en Premier League.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/91/2c/d24259be45a889fdd8e1c496176e/aston-villa-vs-manchester-united-3.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/vVrH102iqU4",
+            "title":"Dos empates y una victoria en la jornada 34 de la Premier League",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/vVrH102iqU4",
+            "message":"Dos empates y una victoria en la jornada 34 de la Premier League"
+          },
+          "mail":{
+            "subject":"Dos empates y una victoria en la jornada 34 de la Premier League",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDos empates y una victoria en la jornada 34 de la Premier League\n\nEncuéntralo en este enlace:http://uni.vi/vVrH102iqU4\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"Premier League",
+        "link":"https://uat.tudn.com/futbol/premier-league"
+      }
+    },
+    {
+      "type":"slideshow",
+      "uid":"00000173-3102-d8ef-a77f-bbc63ebe0001",
+      "uri":"https://uat.tudn.com/futbol/mls/la-mls-regresa-con-apoyo-a-black-lives-matter-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"00000152-3cae-d5cc-affa-7dafe52e0000",
+        "uri":"https://uat.tudn.com/futbol/mls",
+        "name":"mls",
+        "title":"MLS"
+      },
+      "title":"La MLS regresa con un protocolo en apoyo a Black Lives Matter",
+      "description":"Los Jugadores del Orlando City y del Inter Miami se unen a la protesta momentos previos al arranque del partido.",
+      "image":{
+        "type":"image",
+        "uid":"00000173-3113-d526-a97f-f5dfe5440001",
+        "title":"Twitter Orlando City.jpg",
+        "caption":"Así fue como los jugadores de la MLS rindieron homenaje y apoyaron al movimiento 'Black Lives Matter' momentos antes del pitazo inicial.",
+        "credit":"Twitter Orlando City",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/5a/66/d9b418444f07be826dc86886303d/twitter-orlando-city.jpg",
+            "width":1600,
+            "height":900
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-08T22:11:38-04:00",
+      "publishDate":"2020-07-08T20:58:10-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri":"https://uat.tudn.com/futbol",
+          "name":"futbol",
+          "title":"Fútbol"
+        },
+        {
+          "uuid":"00000152-3cae-d5cc-affa-7dafe52e0000",
+          "uri":"https://uat.tudn.com/futbol/mls",
+          "name":"mls",
+          "title":"MLS"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":18,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"00000173-3113-d526-a97f-f5dfe5440001",
+          "title":"Twitter Orlando City.jpg",
+          "caption":"Así fue como los jugadores de la MLS rindieron homenaje y apoyaron al movimiento 'Black Lives Matter' momentos antes del pitazo inicial.",
+          "credit":"Twitter Orlando City",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/5a/66/d9b418444f07be826dc86886303d/twitter-orlando-city.jpg",
+              "width":1600,
+              "height":900
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-3156-d526-a97f-f5def6aa0000",
+          "title":"black_players_for_change_demonstration___pregame_on_07_08_-_orlando_city_vs_inter_miami_-_wide_world_of_sports_m4225.jpg",
+          "caption":"Así fue como los jugadores de la MLS rindieron homenaje y apoyaron al movimiento 'Black Lives Matter' momentos antes del pitazo inicial.",
+          "credit":null,
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/be/70/7bc6a22d42a9a2dceefb6daedc0b/black-players-for-change-demonstration-pregame-on-07-08-orlando-city-vs-inter-miami-wide-world-of-sports-m4225.jpg",
+              "width":5163,
+              "height":2904
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-312c-d526-a97f-f5ece6e00000",
+          "title":"black_players_for_change_demonstration___pregame_on_07_08_-_orlando_city_vs_inter_miami_-_wide_world_of_sports_m4238.jpg",
+          "caption":"Así fue como los jugadores de la MLS rindieron homenaje y apoyaron al movimiento 'Black Lives Matter' momentos antes del pitazo inicial.",
+          "credit":"MLS",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/98/d9/37b252284bb4ab2bf2732525f793/black-players-for-change-demonstration-pregame-on-07-08-orlando-city-vs-inter-miami-wide-world-of-sports-m4238.jpg",
+              "width":2736,
+              "height":1824
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/Llts102imYT",
+            "isFeedDialog":false,
+            "title":"La MLS regresa con apoyo a Black Lives Matter",
+            "description":"Los Jugadores del Orlando City y del Inter Miami se unen a la protesta momentos previos al arranque del partido.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/5a/66/d9b418444f07be826dc86886303d/twitter-orlando-city.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/Llts102imYT",
+            "title":"La MLS regresa con apoyo a Black Lives Matter",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/Llts102imYT",
+            "message":"La MLS regresa con apoyo a Black Lives Matter"
+          },
+          "mail":{
+            "subject":"La MLS regresa con apoyo a Black Lives Matter",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa MLS regresa con apoyo a Black Lives Matter\n\nEncuéntralo en este enlace:http://uni.vi/Llts102imYT\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"MLS",
+        "link":"https://uat.tudn.com/futbol/mls"
+      }
+    },
+    {
+      "type":"slideshow",
+      "uid":"00000173-311e-d526-a97f-f5de86f80001",
+      "uri":"https://uat.tudn.com/futbol/mls/orlando-city-regresa-a-la-mls-con-victoria-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"00000152-3cae-d5cc-affa-7dafe52e0000",
+        "uri":"https://uat.tudn.com/futbol/mls",
+        "name":"mls",
+        "title":"MLS"
+      },
+      "title":"Nani le da los tres puntos al orlando City en el último minuto",
+      "description":"Inter de Miami no logra aguantar el resultado y terminan cayendo en su visita al Orlando City.",
+      "image":{
+        "type":"image",
+        "uid":"00000173-318c-d526-a97f-f5cc96bb0001",
+        "title":"Jhegson Mendez, Nani",
+        "caption":"Con goles de Nani y Christopher Mueller, Orlando City logra sumar puntos en su regreso a la acción.",
+        "credit":"John Raoux/AP",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/39/cd/fe915daa4c52b95183620c0b005c/ap-20191103067300.jpg",
+            "width":2341,
+            "height":1559
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-08T23:11:49-04:00",
+      "publishDate":"2020-07-08T23:10:10-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri":"https://uat.tudn.com/futbol",
+          "name":"futbol",
+          "title":"Fútbol"
+        },
+        {
+          "uuid":"00000152-3cae-d5cc-affa-7dafe52e0000",
+          "uri":"https://uat.tudn.com/futbol/mls",
+          "name":"mls",
+          "title":"MLS"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":11,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"00000173-318c-d526-a97f-f5cc96bb0001",
+          "title":"Jhegson Mendez, Nani",
+          "caption":"Con goles de Nani y Christopher Mueller, Orlando City logra sumar puntos en su regreso a la acción.",
+          "credit":"John Raoux/AP",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/39/cd/fe915daa4c52b95183620c0b005c/ap-20191103067300.jpg",
+              "width":2341,
+              "height":1559
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-318c-d526-a97f-f5cc967f0000",
+          "title":"Dom Dwyer, Matias Pellegrini",
+          "caption":"Con goles de Nani y Christopher Mueller, Orlando City logra sumar puntos en su regreso a la acción.",
+          "credit":"John Raoux/AP",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/c6/8d/2d2dff97447885958b2a5ae7630b/orlando-city-vs-inter-miami-8.jpg",
+              "width":1647,
+              "height":2671
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-318c-d526-a97f-f5cc96a40000",
+          "title":"Chris Mueller, Ben Sweat",
+          "caption":"Con goles de Nani y Christopher Mueller, Orlando City logra sumar puntos en su regreso a la acción.",
+          "credit":"John Raoux/AP",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/f8/06/5643be054159a95558000a973188/orlando-city-vs-inter-miami-2.jpg",
+              "width":3846,
+              "height":2427
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/wv77102in70",
+            "isFeedDialog":false,
+            "title":"Orlando City regresa a la MLS con victoria ",
+            "description":"Inter de Miami no logra aguantar el resultado y terminan cayendo en su visita al Orlando City.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/39/cd/fe915daa4c52b95183620c0b005c/ap-20191103067300.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/wv77102in70",
+            "title":"Orlando City regresa a la MLS con victoria ",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/wv77102in70",
+            "message":"Orlando City regresa a la MLS con victoria "
+          },
+          "mail":{
+            "subject":"Orlando City regresa a la MLS con victoria ",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nOrlando City regresa a la MLS con victoria \n\nEncuéntralo en este enlace:http://uni.vi/wv77102in70\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"MLS",
+        "link":"https://uat.tudn.com/futbol/mls"
+      }
+    },
+    {
+      "type":"slideshow",
+      "uid":"00000173-3153-d8ef-a77f-bbd794ec0001",
+      "uri":"https://uat.tudn.com/futbol/chivas-cae-en-casa-con-los-tigres-fotos",
+      "vertical":"Deportes",
+      "parent":{
+        "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+        "uri":"https://uat.tudn.com/futbol",
+        "name":"fútbol",
+        "title":"Fútbol"
+      },
+      "title":"Tigres le pega a las Chivas en su casa",
+      "description":"De la mano de André Pierre Gignac, los Tigres vencen en la casa del Guadalajara.",
+      "image":{
+        "type":"image",
+        "uid":"00000173-31ba-dd97-ab77-37bed7d20001",
+        "title":"_GNP_CUP_GDL_UANL_",
+        "caption":"Con goles de Gignac al minuto 43 y 53, los Tigres consiguen su primera victoria en la Copa GNP por México.",
+        "credit":"Cristian de Marchena/MEXSPORT",
+        "renditions":{
+          "original":{
+            "href":"https://uvn-brightspot.s3.amazonaws.com/fc/f5/c906d69c4bf0a7a2cd6e82d16e47/chivas-vs-tigres-2.jpg",
+            "width":4000,
+            "height":2662
+          }
+        }
+      },
+      "authors":[
+
+      ],
+      "cardLabel":null,
+      "updateDate":"2020-07-09T00:04:04-04:00",
+      "publishDate":"2020-07-09T00:01:53-04:00",
+      "expirationDate":null,
+      "hierarchy":[
+        {
+          "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+          "uri":"https://uat.tudn.com",
+          "name":"deportes",
+          "title":"Deportes"
+        },
+        {
+          "uuid":"0000014c-516b-d0b2-a3cf-59eb3a980000",
+          "uri":"https://uat.tudn.com/futbol",
+          "name":"futbol",
+          "title":"Fútbol"
+        }
+      ],
+      "disableReactions":false,
+      "contentPriority":"STANDARD",
+      "slideshowType":"verticalslideshow",
+      "slideCount":15,
+      "cardImages":[
+        {
+          "type":"image",
+          "uid":"00000173-31ba-dd97-ab77-37bed7d20001",
+          "title":"_GNP_CUP_GDL_UANL_",
+          "caption":"Con goles de Gignac al minuto 43 y 53, los Tigres consiguen su primera victoria en la Copa GNP por México.",
+          "credit":"Cristian de Marchena/MEXSPORT",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/fc/f5/c906d69c4bf0a7a2cd6e82d16e47/chivas-vs-tigres-2.jpg",
+              "width":4000,
+              "height":2662
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-31ba-dd97-ab77-37bed7620000",
+          "title":"_GNP_CUP_GDL_UANL_",
+          "caption":"Con goles de Gignac al minuto 43 y 53, los Tigres consiguen su primera victoria en la Copa GNP por México.",
+          "credit":"Isaac Ortiz/MEXSPORT",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/af/50/cfa17d094d53953b4fb95f6a9e4d/chivas-vs-tigres-13.jpg",
+              "width":4000,
+              "height":2666
+            }
+          }
+        },
+        {
+          "type":"image",
+          "uid":"00000173-31ba-dd97-ab77-37bed7820000",
+          "title":"_GNP_CUP_GDL_UANL_",
+          "caption":"Con goles de Gignac al minuto 43 y 53, los Tigres consiguen su primera victoria en la Copa GNP por México.",
+          "credit":"Isaac Ortiz/MEXSPORT",
+          "renditions":{
+            "original":{
+              "href":"https://uvn-brightspot.s3.amazonaws.com/f8/12/7b6c3e0643b2beec79e4007eb227/chivas-vs-tigres-10.jpg",
+              "width":4000,
+              "height":2668
+            }
+          }
+        }
+      ],
+      "jwRecommendationChannel":"3xQGeJjl",
+      "sharing":{
+        "options":{
+          "facebook":{
+            "url":"http://uni.vi/IEV1102in9g",
+            "isFeedDialog":false,
+            "title":"Chivas cae en casa con los Tigres",
+            "description":"De la mano de André Pierre Gignac, los Tigres vencen en la casa del Guadalajara.",
+            "imageUrl":"https://uvn-brightspot.s3.amazonaws.com/fc/f5/c906d69c4bf0a7a2cd6e82d16e47/chivas-vs-tigres-2.jpg",
+            "appId":"645138725541385"
+          },
+          "twitter":{
+            "url":"http://uni.vi/IEV1102in9g",
+            "title":"Chivas cae en casa con los Tigres",
+            "via":"Univision"
+          },
+          "whatsapp":{
+            "url":"http://uni.vi/IEV1102in9g",
+            "message":"Chivas cae en casa con los Tigres"
+          },
+          "mail":{
+            "subject":"Chivas cae en casa con los Tigres",
+            "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nChivas cae en casa con los Tigres\n\nEncuéntralo en este enlace:http://uni.vi/IEV1102in9g\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "primaryTag":{
+        "name":"Fútbol",
+        "link":"https://uat.tudn.com/futbol"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "0000016d-6f82-de52-a5ed-ffd249720002",
+      "uri": "/noticias/inmigracion/trump-recorta-drasticamente-el-programa-de-refugiados-a-casi-la-mitad-solo-18-000-para-los-proximos-12-meses",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+        "uri": "/noticias/inmigracion",
+        "name": "inmigración",
+        "title": "Inmigración"
+      },
+      "title": "Trump recorta drásticamente el programa de refugiados a casi la mitad: solo 18,000 para los próximos 12 meses",
+      "description": "El anuncio fue hecho este jueves por el Departamento de Estado. Se trata del número más bajo de admisiones en la historia moderna del programa de refugiados del país, que funciona desde 1980.",
+      "image": {
+        "type": "image",
+        "uid": "00000151-e9c7-da86-a5d7-fbc709790000",
+        "title": "Refugiados",
+        "caption": "Oraciones y protestas en favor de los derechos de los refugiados en Europa.",
+        "credit": "Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/74/1d/dbcc9d1e4b6ba8a21a23810188e1/GettyImages-487192362.jpg",
+            "width": 4900,
+            "height": 3273,
+            "focusPoint": {
+              "x": 51.9,
+              "y": 66.31736526946108
+            }
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2019-09-26T18:56:20-04:00",
+      "publishDate": "2019-09-26T17:51:24-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+          "uri": "/noticias/inmigracion",
+          "name": "inmigracion",
+          "title": "Inmigración"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>El Departamento de Estado <a href=\"https://www.state.gov/report-to-congress-on-proposed-refugee-admissions-for-fy-2020/\" target=\"_blank\">anunció este jueves</a> un recorte drástico del programa de refugiados para el año 2020, llevándolo de 30,000 que establecieron en 2019 a apenas 18,000. Se trata del nivel más bajo que ha tenido el prigrama desde su implementación hace cuatro décadas.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Inmigración",
+        "link": "/noticias/inmigracion"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "0000016d-6ea6-d25a-a96d-ffae63010002",
+      "uri": "/noticias/inmigracion/ice-denuncia-que-las-jurisdicciones-santuario-amenazan-la-seguridad-publica-de-estados-unidos",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+        "uri": "/noticias/inmigracion",
+        "name": "inmigración",
+        "title": "Inmigración"
+      },
+      "title": "ICE denuncia que las jurisdicciones santuario amenazan la seguridad pública de Estados Unidos",
+      "description": "El director interino de ICE dijo que las jurisdicciones locales “que se niegan a cooperar con ICE, son cómplices de los delitos cometidos por extranjeros\" a quienes la agencia \"podría haber arrestado y deportado” del país.",
+      "image": {
+        "type": "image",
+        "uid": "0000016d-6eab-d25a-a96d-ffaf026a0000",
+        "title": "2019decDetBanner.jpg",
+        "caption": "Agente de ICE durante un operativo.",
+        "credit": "ICE/DHS",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/47/8e/1c02e8ba469495cdb3b9589ed411/2019decdetbanner.jpg",
+            "width": 800,
+            "height": 679
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Jorge Cancino",
+          "image": {
+            "type": "image",
+            "uid": "00000156-c7ab-d070-a55f-c7fbf2e70000",
+            "title": "Jorge Cancino",
+            "caption": "Jorge Cancino",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/49/11/4c4aed1249fead3b9606370f8a37/cancino-jorge1.jpg",
+                "width": 0,
+                "height": 0,
+                "focusPoint": {
+                  "x": 0.5568627450980392,
+                  "y": 0.4216417910447761
+                }
+              }
+            }
+          },
+          "uri": "/temas/jorge-cancino",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/jorge.cancino3",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": {
+              "text": null,
+              "name": "LinkedIn",
+              "url": "https://www.linkedin.com/in/jorge-cancino-04516030",
+              "target": "_blank"
+            },
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/cancino_jorge",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "miniBio": "Editor Principal de Inmigración",
+          "link": null,
+          "mediaCompany": null,
+          "designation": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2019-09-26T17:02:35-04:00",
+      "publishDate": "2019-09-26T17:02:35-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+          "uri": "/noticias/inmigracion",
+          "name": "inmigracion",
+          "title": "Inmigración"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>El director interino de la Oficina de Inmigración y Aduanas (ICE), Matthew T. Albence, dijo este jueves que las llamadas jurisdicciones (ciudades) santuario “amenazan la seguridad pública” de Estados Unidos y pidió al público responsabilizar de ello a “sus legisladores locales”.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Inmigración",
+        "link": "/noticias/inmigracion"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "0000016d-6e8a-d6d0-a5ff-7fefab260002",
+      "uri": "/noticias/inmigracion/eeuu-lo-deporto-a-honduras-y-horas-despues-fue-acribillado-a-tiros-mientras-conversaba-con-un-amigo",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+        "uri": "/noticias/inmigracion",
+        "name": "inmigración",
+        "title": "Inmigración"
+      },
+      "title": "EEUU lo deportó a Honduras y horas después fue acribillado a tiros mientras conversaba con un amigo",
+      "description": "La familia de Luis Alonzo Tábora lo buscó en el aeropuerto. Habían llegado al municipio en el que vivía antes de marcharse a Estados Unidos y compraban unas golosinas cuando varios sujetos le dispararon.",
+      "image": {
+        "type": "image",
+        "uid": "0000016d-6edf-d368-affd-7fffa1580000",
+        "title": "ICE Deports Guatemalan Families Under New Expedited Process",
+        "caption": "Un centroamericano llegando a su país tras ser deportado por ICE recién en agosto.",
+        "credit": "John Moore/Getty Images",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/3b/1d/935bacf242418f4c55b3989c3678/gettyimages-1170987932.jpg",
+            "width": 3918,
+            "height": 2664
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2019-09-26T15:16:42-04:00",
+      "publishDate": "2019-09-26T15:16:42-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+          "uri": "/noticias/inmigracion",
+          "name": "inmigracion",
+          "title": "Inmigración"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Luis Alonzo Tábora tenía apenas horas de haber llegado a su natal Honduras. Los <b><a href=\"https://www.laprensa.hn/sucesos/1321283-410/matan-hondure%C3%B1o-deportado-estados-unidos-\" target=\"_blank\">diarios locales narran</a></b> que su familia apenas le había dado la bienvenida en el aeropuerto internacional Ramón Villeda Morales y de allí partieron al municipio donde residían, Pimienta, a unas 19 millas (31 kilómetros) al sur de San Pedro Sula. En el camino, se detuvieron a comprar golosinas y refrescos en una tienda, pero no hubo tiempo para celebrar.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Inmigración",
+        "link": "/noticias/inmigracion"
+      }
+    },
+    {
+      "type": "article",
+      "uid": "0000016d-6e5f-d25a-a96d-ff7f2fea0002",
+      "uri": "/noticias/inmigracion/migrantes-devueltos-a-mexico-tras-pedir-asilo-en-eeuu-expuestos-a-secuestro-extorsion-y-violencia",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+        "uri": "/noticias/inmigracion",
+        "name": "inmigración",
+        "title": "Inmigración"
+      },
+      "title": "Migrantes devueltos a México tras pedir asilo en EEUU expuestos a \"secuestro, extorsión y violencia\"",
+      "description": "La denuncia señala que los solicitantes de asilo en Estados Unidos “son enviados de regreso a ciudades de México sin suficiente capacidad de albergue y con altas tasas de criminalidad, mientras esperan una audiencia de asilo en los tribunales migratorios estadounidenses”.",
+      "image": {
+        "type": "image",
+        "uid": "0000016d-6e70-d25a-a96d-ff7e291c0000",
+        "title": "Immigration Remain in Mexico",
+        "caption": "Migrantes centroamericanos regresados a México esperan por sus citas en las cortes de inmigración estadounidenses acampando en las calles.",
+        "credit": "Veronica G. Cardenas/AP",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/2f/a5/81b8a00e4af9880670540d57a434/ap-19246730814807.jpg",
+            "width": 4000,
+            "height": 2668
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Jorge Cancino",
+          "image": {
+            "type": "image",
+            "uid": "00000156-c7ab-d070-a55f-c7fbf2e70000",
+            "title": "Jorge Cancino",
+            "caption": "Jorge Cancino",
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://uvn-brightspot.s3.amazonaws.com/49/11/4c4aed1249fead3b9606370f8a37/cancino-jorge1.jpg",
+                "width": 0,
+                "height": 0,
+                "focusPoint": {
+                  "x": 0.5568627450980392,
+                  "y": 0.4216417910447761
+                }
+              }
+            }
+          },
+          "uri": "/temas/jorge-cancino",
+          "socialNetworks": {
+            "facebookUrl": {
+              "text": null,
+              "name": "Facebook",
+              "url": "https://www.facebook.com/jorge.cancino3",
+              "target": "_blank"
+            },
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": {
+              "text": null,
+              "name": "LinkedIn",
+              "url": "https://www.linkedin.com/in/jorge-cancino-04516030",
+              "target": "_blank"
+            },
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": {
+              "text": null,
+              "name": "Twitter",
+              "url": "https://twitter.com/cancino_jorge",
+              "target": "_blank"
+            },
+            "youTubeUrl": null
+          },
+          "miniBio": "Editor Principal de Inmigración",
+          "link": null,
+          "mediaCompany": null,
+          "designation": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2019-09-26T12:50:34-04:00",
+      "publishDate": "2019-09-26T12:50:34-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+          "uri": "/noticias/inmigracion",
+          "name": "inmigracion",
+          "title": "Inmigración"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "video",
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>Los migrantes arrestados en la frontera y devueltos a México a esperar la resolución de sus casos en las cortes de inmigración de Estados Unidos, corren serios riesgos de ser secuestrados, extorsionados y “otras modalidades de violencia”, revela un reciente <b><a href=\"https://www.hrw.org/news/2019/09/25/us-move-puts-more-asylum-seekers-risk\" target=\"_blank\">informe de Human Rights Watch</a></b> (HRW).</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Inmigración",
+        "link": "/noticias/inmigracion"
+      },
+      "readTime": 3
+    },
+    {
+      "type": "article",
+      "uid": "0000016d-6e3f-d25a-a96d-ff3f2fe60002",
+      "uri": "/noticias/inmigracion/si-a-mi-esposa-la-deportan-voy-a-salir-por-mi-voluntad-las-redadas-cambiaron-la-vida-de-los-hispanos-en-mississippi",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+        "uri": "/noticias/inmigracion",
+        "name": "inmigración",
+        "title": "Inmigración"
+      },
+      "title": "\"Si a mi esposa la deportan, voy a salir por mi voluntad\": las redadas cambiaron la vida de los hispanos en Mississippi",
+      "description": "<a href=\"https://www.facebook.com/RealAmericaWithJorgeRamos/\" target=\"_blank\">'Real America with Jorge Ramos'</a> viajó a Mississippi para averiguar qué ha pasado con las familias hispanas afectadas por las redadas del pasado 7 de agosto, el operativo más grande que ha ejecutado ICE hasta ahora en un solo estado.",
+      "image": {
+        "type": "image",
+        "uid": "0000016d-702d-dd94-a37d-762f043e0000",
+        "title": "Rolando (1).jpg",
+        "caption": "La esposa de Félix está detenida en un centro de ICE desde el 7 de agosto, no tiene abogado y tampoco ha tenido audiencia ante un juez de Inmigración para defender su caso.",
+        "credit": "Mauricio Rodríguez",
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/62/20/454bcaaa459bb80adc478c7ffda8/rolando-1.jpg",
+            "width": 2500,
+            "height": 1667,
+            "focusPoint": {
+              "x": 0.5139195956172065,
+              "y": 0.5840329749292229
+            }
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2019-09-26T21:02:59-04:00",
+      "publishDate": "2019-09-26T12:12:42-04:00",
+      "expirationDate": null,
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        },
+        {
+          "uuid": "0000014f-6aaa-dedf-abdf-6aaad3210000",
+          "uri": "/noticias/inmigracion",
+          "name": "inmigracion",
+          "title": "Inmigración"
+        }
+      ],
+      "contentPriority": "STANDARD",
+      "leadType": "image",
+      "articleType": "Standard",
+      "body": [
+        {
+          "type": "text",
+          "value": "<p>El 7 agosto pasado, <a href=\"https://www.univision.com/noticias/inmigracion/fabricas-y-escuelas-vacias-e-iglesias-llenas-el-miedo-toma-varias-ciudades-de-mississippi-tras-la-redada-masiva\">ICE tomó por asalto siete sedes de cinco compañías polleras en distintos pueblos de Mississippi y se llevó consigo a 687 trabajadores</a>; casi la totalidad de ellos eran hispanos indocumentados. Es la mayor redada de migración realizada en la historia en un solo estado.</p>"
+        }
+      ],
+      "jwRecommendationChannel": "eWP6Mwpy",
+      "useWebviewInApps": false,
+      "primaryTag": {
+        "name": "Inmigración",
+        "link": "/noticias/inmigracion"
+      },
+      "readTime": 12
+    }
+  ],
+  "breakingNewsMode":false,
+  "id":"00000173-3f28-dc45-a5f7-bffacd510018",
+  "type":"ListWidget",
+  "commonRootSection":{
+    "uuid":"0000014c-4d94-d0b2-a3cf-4dbfba390000",
+    "uri":"https://uat.tudn.com",
+    "name":"deportes",
+    "title":"Deportes"
+  },
+  "widgetContext": {
+    "id": "0000016d-fef2-dd1e-a77f-fffeaa650016"
+  }
+}

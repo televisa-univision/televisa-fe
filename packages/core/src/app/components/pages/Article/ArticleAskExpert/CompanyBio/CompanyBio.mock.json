@@ -1,0 +1,21 @@
+{
+  "name": "Medical Care",
+  "description": "Medical Care description.",
+  "address": "13565 SW 287th Ln, Homestead, FL 33033",
+  "website": "www.medicalcenter.com",
+  "phone": "(786) 486 9453",
+  "image": {
+    "type": "image",
+    "uid": "0000016f-aece-d258-a17f-bfce68ff0000",
+    "title": "LOGO.jpg",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot-lower.s3.amazonaws.com/51/69/c73b8668478b8ce5985345df9704/logo.jpg",
+        "width": 924,
+        "height": 924
+      }
+    }
+  }
+}

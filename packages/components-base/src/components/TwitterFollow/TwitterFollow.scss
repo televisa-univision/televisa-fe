@@ -1,0 +1,21 @@
+.twitterButton {
+  height: 20px;
+  width: auto;
+  padding: 0 7px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: $twitterFill;
+  color: $white;
+  border-radius: 3px;
+
+  &:hover {
+    background: $twitterHover;
+  }
+}
+
+.twitterIcon {
+  width: 13px;
+  height: 13px;
+  margin-right: 3px;
+}

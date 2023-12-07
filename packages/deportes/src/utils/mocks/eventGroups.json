@@ -1,0 +1,69 @@
+[
+    {
+        "date": "2022-10-06T16:45:00Z",
+        "events": [
+            {
+                "fixture": null,
+                "date": "2022-10-06T16:45:00Z",
+                "elapsedTime": "—",
+                "status": "post",
+                "url": "https://uat.tudn.com/futbol/uefa-europa-league/sheriff-tiraspol-vs-real-sociedad-uefa-europa-league-2022-10-06",
+                "channels": [
+                    "udn",
+                    "tudnxtra"
+                ],
+                "channelsType": {
+                    "en": [],
+                    "es": [
+                        "udn",
+                        "tudnxtra"
+                    ]
+                },
+                "tudnXtraEnglish": false,
+                "eventName": "Sheriff Tiraspol vs Real Sociedad",
+                "leagueKey": "6",
+                "leagueName": "UEFA Europa League",
+                "leagueAbbreviation": "Liga Europa",
+                "stadiumName": "Stadionul Zimbru",
+                "hasLiveStream": true,
+                "tvAuthenticated": true,
+                "tudnXtra": true,
+                "broadcastLanguage": "",
+                "coverage": "Performance",
+                "id": "2326848",
+                "week": "3",
+                "totalWeeks": "6",
+                "round": "Round",
+                "teams": {
+                    "away": {
+                        "id": "188",
+                        "url": "https://uat.tudn.com/futbol/la-liga/real-sociedad",
+                        "fullName": "Real Sociedad",
+                        "abbreviatedName": "RSO",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/e7/ef/a88229b941f68be5bb419cc17d8c/40-eb.png",
+                        "scoreValue": {
+                            "score": 2,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": true
+                    },
+                    "home": {
+                        "id": "936",
+                        "url": "https://uat.tudn.com/futbol/eurocopa/sheriff-tiraspol",
+                        "fullName": "Sheriff Tiraspol",
+                        "abbreviatedName": "TIR",
+                        "imageURI": "https://uvn-brightspot.s3.amazonaws.com/0c/34/2e64aae848b0af71d0f566d40a1c/default.svg",
+                        "scoreValue": {
+                            "score": 0,
+                            "penalty": null,
+                            "firstLeg": null
+                        },
+                        "isWinner": false
+                    }
+                },
+                "featureEvent": true
+            }
+        ]
+    }
+]

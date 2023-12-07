@@ -1,0 +1,14 @@
+{
+  "webserver":
+  {
+    "port": 8080
+  },
+  "webpack":
+  {
+    "devserver":
+    {
+      "host": "localhost",
+      "port": 8081
+    }
+  }
+}

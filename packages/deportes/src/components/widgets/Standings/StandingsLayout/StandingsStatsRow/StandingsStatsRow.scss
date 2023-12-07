@@ -1,0 +1,96 @@
+.statsSmall {
+  display: flex;
+  flex-direction: row;
+  height: 48px;
+  border-bottom: 1px solid $very-light-grey;
+  padding: 0 8px;
+}
+
+.stats {
+  @include media-breakpoint-up("sm") {
+    padding: 0 10px;
+  }
+}
+
+.teamSizeSmall {
+  width: 80px;
+  > div:first-of-type {
+    flex: 0 1 auto;
+    margin-right: 0;
+  }
+}
+
+.teamSize {
+  @include media-breakpoint-up("sm") {
+    width: 220px;
+    > div:first-of-type {
+      margin-right: 8px;
+    }
+  }
+}
+
+.counterSmall {
+  width: 30px;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  font-size: rem(14px);
+  color: $black;
+}
+
+.counter {
+  @include media-breakpoint-up("sm") {
+    width: 50px;
+  }
+}
+
+.team {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.outcome {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 0;
+  font-size: rem(14px);
+  color: $black;
+}
+
+.rank {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+
+  &.up {
+    border-bottom: 7px solid $green;
+    &.isTudn {
+      border-bottom-color: $green-darker;
+    }
+  }
+  &.down {
+    border-top: 7px solid $red;
+  }
+}
+
+.rankCollapsed {
+  @include media-breakpoint-up("md") {
+    margin-left: 60px;
+  }
+}
+
+.hideMobile {
+  display: none;
+  @include media-breakpoint-up("sm") {
+    display: flex;
+  }
+}
+
+.hide {
+  display: none;
+}

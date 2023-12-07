@@ -1,0 +1,365 @@
+{
+  "paging":{
+    "totalPages":1,
+    "totalElements":1,
+    "numberOfElements":1,
+    "size":50,
+    "number":0,
+    "first":true,
+    "last":true
+  },
+  "sports-content":{
+    "sports-metadata":{
+      "doc-id":"schedule-results:2018-02-15T07:24:57Z",
+      "fixture-key":"schedule-results",
+      "fixture-name":"Results Schedule",
+      "sports-title":"Results Schedule"
+    },
+    "schedule":[
+      {
+        "schedule-metadata":{
+          "team-coverage":"multi-team"
+        },
+        "sports-event":[
+          {
+            "event-metadata":{
+              "event-key":"964773",
+              "event-status":"post-event",
+              "event-status-note":"Result",
+              "start-date-time":"2018-02-13T17:00:00Z",
+              "event-type":"1st Leg",
+              "event-name":"Crvena Zvezda vs CSKA Moscow",
+              "event-outcome-type":"regular",
+              "event-metadata-soccer":{
+                "week":"7"
+              },
+              "site":{
+                "site-metadata":{
+                  "site-key":"1298",
+                  "name":{
+                    "full":"Rajko Mitic Stadium"
+                  },
+                  "capacity":"30000",
+                  "home-location":{
+
+                  }
+                }
+              },
+              "date-coverage-type":"event",
+              "season-key":"2017",
+              "sports-property":[
+                {
+                  "formal-name":"league-key",
+                  "value":"6"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"964773"
+                },
+                {
+                  "formal-name":"opta-detail-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-timing-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"opta-accuracy-id",
+                  "value":"1"
+                },
+                {
+                  "formal-name":"match-uid",
+                  "value":"964773"
+                }
+              ],
+              "sports-content-codes":{
+                "sports-content-code":[
+                  {
+                    "code-name":"Round of 32",
+                    "code-key":"Round of 32",
+                    "code-type":"tournament-round-type",
+                    "code-source":"optasports.com"
+                  },
+                  {
+                    "code-name":"Round of 32",
+                    "code-key":"2",
+                    "code-type":"tournament-round-number",
+                    "code-source":"optasports.com"
+                  },
+                  {
+                    "code-name":"UEFA Europa League",
+                    "code-key":"6",
+                    "code-type":"tournament"
+                  },
+                  {
+                    "code-name":"UEFA Europa League",
+                    "code-key":"EU_UC",
+                    "code-type":"league"
+                  },
+                  {
+                    "code-name":"Season 2017/2018",
+                    "code-key":"2017",
+                    "code-type":"season"
+                  },
+                  {
+                    "code-name":"2nd Leg",
+                    "code-type":"series-pairing"
+                  }
+                ]
+              }
+            },
+            "previousEvents": [
+              {
+                "event-metadata": {
+                  "event-key": "963356",
+                  "start-date-time": "2017-12-03T01:00:00Z"
+                },
+                "team": [
+                  {
+                    "id": "t.1292",
+                    "team-metadata": {
+                      "team-key": "1292",
+                      "alignment": "home",
+                      "name": {
+                        "full": "América",
+                        "abbreviation": "AME"
+                      }
+                    },
+                    "team-stats": {
+                      "score": "1"
+                    },
+                    "image": "https://cdn1.uvnimg.com/b6/56/7d3d29fd492faa7c7de2bd4df4d0/104-eb.png"
+                  },
+                  {
+                    "id": "t.1294",
+                    "team-metadata": {
+                      "team-key": "1294",
+                      "alignment": "away",
+                      "name": {
+                        "full": "Tigres",
+                        "abbreviation": "TIG"
+                      }
+                    },
+                    "team-stats": {
+                      "score": "3"
+                    },
+                    "image": "https://cdn3.uvnimg.com/d1/6c/f94687194cb384e7d1940c122d48/logotrigresestrellas.png"
+                  }
+                ]
+              },
+              {
+                "event-metadata": {
+                  "event-key": "963357",
+                  "start-date-time": "2017-12-03T01:00:00Z"
+                },
+                "team": [
+                  {
+                    "id": "t.1292",
+                    "team-metadata": {
+                      "team-key": "1292",
+                      "alignment": "away",
+                      "name": {
+                        "full": "América",
+                        "abbreviation": "AME"
+                      }
+                    },
+                    "team-stats": {
+                      "score": "2"
+                    },
+                    "image": "https://cdn1.uvnimg.com/b6/56/7d3d29fd492faa7c7de2bd4df4d0/104-eb.png"
+                  },
+                  {
+                    "id": "t.1294",
+                    "team-metadata": {
+                      "team-key": "1294",
+                      "alignment": "home",
+                      "name": {
+                        "full": "Tigres",
+                        "abbreviation": "TIG"
+                      }
+                    },
+                    "team-stats": {
+                      "score": "3"
+                    },
+                    "image": "https://cdn3.uvnimg.com/d1/6c/f94687194cb384e7d1940c122d48/logotrigresestrellas.png"
+                  }
+                ]
+              },
+              {
+                "event-metadata": {
+                  "event-key": "963358",
+                  "start-date-time": "2017-12-03T01:00:00Z"
+                },
+                "team": [
+                  {
+                    "id": "t.1292",
+                    "team-metadata": {
+                      "team-key": "1292",
+                      "alignment": "away",
+                      "name": {
+                        "full": "América",
+                        "abbreviation": "AME"
+                      }
+                    },
+                    "team-stats": {
+                      "score": "0"
+                    },
+                    "image": "https://cdn1.uvnimg.com/b6/56/7d3d29fd492faa7c7de2bd4df4d0/104-eb.png"
+                  },
+                  {
+                    "id": "t.1294",
+                    "team-metadata": {
+                      "team-key": "1294",
+                      "alignment": "home",
+                      "name": {
+                        "full": "Tigres",
+                        "abbreviation": "TIG"
+                      }
+                    },
+                    "team-stats": {
+                      "score": "5"
+                    },
+                    "image": "https://cdn3.uvnimg.com/d1/6c/f94687194cb384e7d1940c122d48/logotrigresestrellas.png"
+                  }
+                ]
+              }
+            ],
+            "team":[
+              {
+                "team-metadata":{
+                  "team-key":"214",
+                  "alignment":"home",
+                  "name":{
+                    "full":"Crvena Zvezda",
+                    "abbreviation":"CRV"
+                  }
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"0",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"41125",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"41125",
+                      "name":{
+                        "first":"Vladan",
+                        "last":"Milojevic",
+                        "full":"Vladan Milojevic"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata":{
+                  "team-key":"1340",
+                  "alignment":"away",
+                  "name":{
+                    "full":"CSKA Moscow",
+                    "abbreviation":"CSK"
+                  }
+                },
+                "team-stats":{
+                  "score":"0",
+                  "score-opposing":"0",
+                  "event-outcome":"tie"
+                },
+                "associate":[
+                  {
+                    "id":"38133",
+                    "associate-metadata":{
+                      "position":"Manager",
+                      "associate-key":"38133",
+                      "name":{
+                        "first":"Viktor",
+                        "last":"Goncharenko",
+                        "full":"Viktor Goncharenko"
+                      }
+                    }
+                  },
+                  {
+                    "id":"46056",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"46056",
+                      "name":{
+                        "first":"Viktor",
+                        "last":"Onopko",
+                        "full":"Viktor Onopko"
+                      }
+                    }
+                  },
+                  {
+                    "id":"38459",
+                    "associate-metadata":{
+                      "position":"Assistant Manager",
+                      "associate-key":"38459",
+                      "name":{
+                        "first":"Sergei",
+                        "last":"Ovchinnikov",
+                        "full":"Sergei Ovchinnikov"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials":{
+              "official":[
+                {
+                  "official-metadata":{
+                    "official-key":"42001",
+                    "position":"Referee",
+                    "name":{
+                      "first":"Pawel",
+                      "last":"Raczkowski",
+                      "full":"Pawel Raczkowski"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"45008",
+                    "position":"Lineman#1",
+                    "name":{
+                      "first":"Michal",
+                      "last":"Obukowicz",
+                      "full":"Michal Obukowicz"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46343",
+                    "position":"Lineman#2",
+                    "name":{
+                      "first":"Tomasz",
+                      "last":"Listkiewicz",
+                      "full":"Tomasz Listkiewicz"
+                    }
+                  }
+                },
+                {
+                  "official-metadata":{
+                    "official-key":"46344",
+                    "position":"Fourth official",
+                    "name":{
+                      "first":"Radoslaw",
+                      "last":"Siejka",
+                      "full":"Radoslaw Siejka"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

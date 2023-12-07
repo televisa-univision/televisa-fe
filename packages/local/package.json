@@ -1,0 +1,151 @@
+{
+  "name": "@univision/fe-local",
+  "version": "10.682.0",
+  "description": "Univision local",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision/univision-fe.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "yarn": ">=1.22.0"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "main": "./dist",
+  "scripts": {
+    "start": "npm-run-all lint jest storybook",
+    "docs": "esdoc",
+    "test": "NODE_ENV=test npm run jest",
+    "test:skip": "npm run jest:parallel",
+    "jest": "jest --coverage --runInBand --colors",
+    "jest:parallel": "jest --coverage",
+    "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:src lint:test lint:css",
+    "lint:css": "stylelint './src/**/*.styles.js'",
+    "lint:src": "eslint --config ../../.eslintrc 'src/**/*.js' --ignore-pattern 'src/**/*.spec.js'",
+    "lint:test": "eslint --config ../../.eslintrc.spec 'src/**/*.spec.js'",
+    "storybook": "start-storybook -p 6008",
+    "clean": "rimraf dist",
+    "export": "build-storybook -c .storybook -o dist/story",
+    "babel": "babel src --out-dir dist --copy-files",
+    "build": "npm-run-all clean babel",
+    "build:watch": "npm-run-all clean 'babel --watch'"
+  },
+  "author": "UVN Platform Engineers",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "@univision/fe-commons": "^10.680.2",
+    "@univision/fe-components-base": "^10.682.0",
+    "@univision/fe-graphql-services": "^10.680.1",
+    "@univision/fe-icons": "^10.680.1",
+    "@univision/fe-utilities": "^10.680.1",
+    "@univision/fe-video": "^10.682.0",
+    "@univision/fmg-video-sdk": "4.461.1-rc.0",
+    "@univision/shared-components": "0.5.152-rc.2",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "core-js": "^2.6.5",
+    "css-loader": "^1.0.1",
+    "device": "^0.3.9",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^2.0.0",
+    "forever": "^0.15.3",
+    "framer-motion": "^1.8.4",
+    "healthcheck-ping": "^1.1.0",
+    "helmet": "^3.20.0",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.get": "^4.4.2",
+    "lodash.throttle": "^4.1.1",
+    "mkdirp": "^0.5.1",
+    "npm-run-all": "^4.1.5",
+    "pascalcase": "^0.1.1",
+    "prop-types": "^15.7.2",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-helmet": "^5.2.1",
+    "react-hot-loader": "^4.12.19",
+    "react-lazyload": "2.6.2",
+    "react-loadable": "^5.5.0",
+    "react-onclickoutside": "^6.9.0",
+    "react-redux": "^7.2.0",
+    "react-sticky": "^6.0.3",
+    "react-swipeable": "^4.3.2",
+    "react-timeago": "^4.4.0",
+    "react-visibility-sensor": "^5.1.1",
+    "rimraf": "^2.6.2",
+    "sass-loader": "^7.1.0",
+    "sass-resources-loader": "^1.3.5",
+    "serve-favicon": "^2.5.0",
+    "style-loader": "^0.23.1",
+    "styled-components": "^5.0.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.40.3",
+    "webpack-cli": "^3.3.9",
+    "whatwg-fetch": "^2.0.4"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "4.1.18",
+    "@storybook/addon-info": "4.1.18",
+    "@storybook/addon-links": "4.1.18",
+    "@storybook/addon-viewport": "4.1.18",
+    "@storybook/addons": "4.1.18",
+    "@storybook/react": "4.1.18",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "esdoc": "^1.1.0",
+    "eslint": "6.5.1",
+    "gpt-mock": "^1.0.2",
+    "html-webpack-plugin": "^4.0.0-beta.5",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^26.6.3",
+    "nodemon": "^1.18.10",
+    "react-test-renderer": "16.13.0",
+    "webpack-bundle-analyzer": "^3.5.1",
+    "webpack-dev-middleware": "^3.7.1",
+    "webpack-dev-server": "^3.8.0",
+    "webpack-hot-middleware": "^2.25.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "/node_modules/(?!(@univision/|react-(.*)))"
+    ],
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|less|scss)$": "identity-obj-proxy",
+      "^@univision\\/([^/]+)/(?!(dist|src|esm))(.*)": "@univision/$1/esm/$3",
+      "^config(.*)$": "<rootDir>/config$1"
+    },
+    "modulePathIgnorePatterns": [
+      "<rootDir>/dist/"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "statements": 100,
+        "branches": 100,
+        "functions": 100,
+        "lines": 100
+      }
+    },
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/config/",
+      "<rootDir>/node_modules/",
+      "<rootDir>/doc/",
+      "<rootDir>/dist/"
+    ],
+    "setupFiles": [
+      "<rootDir>/config/testsConfig.js"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/config/setupTests.js"
+    ]
+  }
+}

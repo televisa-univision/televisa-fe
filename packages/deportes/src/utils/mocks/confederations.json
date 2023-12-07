@@ -1,0 +1,411 @@
+[
+    {
+        "name": "Concacaf",
+        "id": 1,
+        "items": [
+            {
+                "id": 1,
+                "name": "Liga MX",
+                "url": "https://www.univision.com/deportes/futbol/liga-mx-apertura",
+                "logo": "https://cdn3.uvnimg.com/e6/21/35cf9f84468ca4b56f7cdf9234df/liga-mx-2x.png",
+                "calreply": {
+                    "href": "",
+                    "code": "",
+                    "promo_name": ""  
+                }
+            },
+            {
+                "id": 2,
+                "name": "MLS",
+                "url": "https://www.univision.com/deportes/futbol/mls",
+                "logo": "https://cdn3.uvnimg.com/6d/ae/a7ebf8f1478d99159b092c9bdc77/mls-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 3,
+                "name": "Copa Oro",
+                "url": "https://www.univision.com/deportes/futbol/copa-oro",
+                "logo": "https://cdn3.uvnimg.com/81/04/513bf4c2451383b7580c7000fd32/copa-oro-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 4,
+                "name": "CONCACAF Champions League",
+                "url": "https://www.univision.com/deportes/futbol/liga-campeones-concacaf",
+                "logo": "https://cdn2.uvnimg.com/98/b9/2b76ec1b458890d57352a23afa0d/scotiabannk-champions-league-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 5,
+                "name": "Copa MX",
+                "url": "https://www.univision.com/deportes/futbol/copa-mx",
+                "logo": "https://cdn3.uvnimg.com/47/a6/76e729a842ef946e8d93bab23cd6/copamx-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 6,
+                "name": "Ascenso MX",
+                "url": "https://www.univision.com/deportes/futbol/ascenso-mx-apertura",
+                "logo": "https://cdn4.uvnimg.com/27/59/91eb91c04ed3a7d9afcb748cdcb2/ascenso-mx.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            }
+        ]
+    },
+    {
+        "name": "UEFA",
+        "id": 2,
+        "items": [
+            {
+                "id": 1,
+                "name": "La Liga",
+                "url": "https://www.univision.com/deportes/futbol/la-liga",
+                "logo": "https://cdn4.uvnimg.com/60/ad/cdac60164a9a805d3c8d5f53ac6f/la-liga-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 2,
+                "name": "UEFA Champions League",
+                "url": "https://www.univision.com/deportes/futbol/uefa-champions-league",
+                "logo": "https://cdn2.uvnimg.com/75/8c/155e581a4702b7dde50d48b97b9f/champions-league-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 3,
+                "name": "Premier League",
+                "url": "https://www.univision.com/deportes/futbol/premier-league",
+                "logo": "https://cdn3.uvnimg.com/59/54/e3ca6282482d8b3f6865520aee4f/premier-league-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 4,
+                "name": "Bundesliga",
+                "url": "https://www.univision.com/deportes/futbol/bundesliga",
+                "logo": "https://cdn4.uvnimg.com/39/72/e33f4d2a40dcbe0dd50f6e02455e/bundesliga-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 5,
+                "name": "Serie A",
+                "url": "https://www.univision.com/deportes/futbol/serie-a",
+                "logo": "https://cdn3.uvnimg.com/10/ca/af7b02e94f64a7f4c028018bc72d/seriea-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 6,
+                "name": "Ligue 1",
+                "url": "https://www.univision.com/deportes/futbol/ligue-1",
+                "logo": "https://cdn1.uvnimg.com/99/34/111bb04c4c618b1efecda30a12b9/ligue1-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 7,
+                "name": "Liga Portugal",
+                "url": "https://www.univision.com/deportes/futbol/liga-portugal",
+                "logo": "https://static.univision.com/fragments/deportes/confederaciones/images/liga_portugal.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 8,
+                "name": "Eredivisie",
+                "url": "https://www.univision.com/deportes/futbol/eredivisie",
+                "logo": "https://cdn4.uvnimg.com/d8/d8/650f6607490caceb736b45a1fda5/eredivisie-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 9,
+                "name": "UEFA Europa League",
+                "url": "https://www.univision.com/deportes/futbol/uefa-europa-league",
+                "logo": "https://cdn2.uvnimg.com/76/f8/b03f5d6b4171bf0ecfac978252d2/uefa-europa-league-2x-1.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 10,
+                "name": "UEFA Nations League",
+                "url": "https://www.univision.com/deportes/futbol/uefa-nations-league",
+                "logo": "https://cdn2.uvnimg.com/be/78/e630ed1f4c59adf47f9deb371cdc/uefa-nations-league-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 11,
+                "name": "Euro 2016 Eliminatorias",
+                "url": "https://www.univision.com/deportes/futbol/euro-2016-eliminatorias",
+                "logo": "https://static.univision.com/fragments/deportes/confederaciones/images/EURO2016.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            }
+        ]
+    },
+    {
+        "name": "Conmebol",
+        "id": 3,
+        "items": [
+            {
+                "id": 1,
+                "name": "Copa libertadores",
+                "url": "https://www.univision.com/deportes/futbol/copa-libertadores",
+                "logo": "https://cdn1.uvnimg.com/96/0d/1828e09f4d9a9d83a35cc51b88bc/lbertadores-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 2,
+                "name": "Argentina Primera",
+                "url": "https://www.univision.com/deportes/futbol/argentina-primera",
+                "logo": "https://cdn3.uvnimg.com/29/0d/f8c1c790462c8e61b802e617dec5/argentina-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 3,
+                "name": "Brasileño Serie A",
+                "url": "https://www.univision.com/deportes/futbol/brasileno-serie-a",
+                "logo": "https://cdn2.uvnimg.com/57/29/6702fb914bfba07b76e913b462c2/brasl-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 4,
+                "name": "Colombia Primera A",
+                "url": "https://www.univision.com/deportes/futbol/colombia-primera-a-apertura",
+                "logo": "https://cdn1.uvnimg.com/6a/7a/37ee45bf4a1ca273fb9ed3f871c7/colombia-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 5,
+                "name": "Chile Primera",
+                "url": "https://www.univision.com/deportes/futbol/chile-primera-clausura",
+                "logo": "https://cdn3.uvnimg.com/e7/27/51ed38624e2182f603b28dcb90b2/chile-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 6,
+                "name": "Copa Sudamericana",
+                "url": "https://www.univision.com/deportes/futbol/copa-sudamericana",
+                "logo": "https://cdn1.uvnimg.com/44/9e/ac0b0bf844ca841e4237d7b14899/sudamercana-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 7,
+                "name": "Venezuela Primera",
+                "url": "https://www.univision.com/deportes/futbol/venezuela-primera-apertura",
+                "logo": "https://cdn4.uvnimg.com/6f/8f/fea614394ee2ace344fbe8be793a/venezuela-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 8,
+                "name": "Liga Carioca",
+                "url": "https://www.univision.com/deportes/futbol/liga-carioca",
+                "logo": "https://static.univision.com/fragments/deportes/confederaciones/images/liga-carioca.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 9,
+                "name": "Liga Gaucha",
+                "url": "https://www.univision.com/deportes/futbol/liga-gaucho",
+                "logo": "https://static.univision.com/fragments/deportes/confederaciones/images/liga-gaucha.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 10,
+                "name": "Uruguay Primera",
+                "url": "https://www.univision.com/deportes/futbol/uruguay-primera-clausura",
+                "logo": "https://cdn2.uvnimg.com/71/6f/5ade10bf48eb9956796b1927dacb/uruguay-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 11,
+                "name": "Paraguay Primera",
+                "url": "https://www.univision.com/deportes/futbol/paraguay-primera-apertura",
+                "logo": "https://cdn3.uvnimg.com/31/90/f472b2f246799a67dd61676de6b3/paraguay-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 12,
+                "name": "Bolivia Primera",
+                "url": "https://www.univision.com/deportes/futbol/bolivia-primera-clausura",
+                "logo": "https://cdn2.uvnimg.com/73/3e/76ad4823493c94b3bbe2247b47d3/boliva-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 13,
+                "name": "Ecuador Serie A",
+                "url": "https://www.univision.com/deportes/futbol/ecuador-serie-a-primera-etapa",
+                "logo": "https://cdn1.uvnimg.com/e3/86/88038927439199e4f214fa732cff/ecuador-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 14,
+                "name": "Perú Primera",
+                "url": "https://www.univision.com/deportes/futbol/peru-primera-apertura",
+                "logo": "https://cdn4.uvnimg.com/8c/29/4b01938c4ec38e0987a785b447e4/peru-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            }
+        ]
+    },
+    {
+        "name": "FIFA",
+        "id": 4,
+        "items": [
+            {
+                "id": 1,
+                "name": "Copa Mundial",
+                "url": "https://www.univision.com/deportes/futbol/copa-mundial",
+                "logo": "https://cdn3.uvnimg.com/e7/eb/1fa1df434e0f954dca39ac706e91/fifa-word-cup-2018-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 2,
+                "name": "Mundial Femenino",
+                "url": "https://www.univision.com/deportes/futbol/mundial-femenino",
+                "logo": "https://cdn1.uvnimg.com/3b/2c/76eabb2c4a589ccbcd0a027f29f0/women-france-2019-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 3,
+                "name": "U-20 Copa Mundial",
+                "url": "https://www.univision.com/deportes/futbol/u-20-copa-mundial",
+                "logo": "https://static.univision.com/fragments/deportes/confederaciones/images/u_20_copa_mundial.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            },
+            {
+                "id": 4,
+                "name": "FIFA Mundial de Clubes",
+                "url": "https://www.univision.com/deportes/futbol/fifa-mundial-de-clubes",
+                "logo": "https://cdn1.uvnimg.com/5c/7c/5d1907144a519161e9f9f33a556f/fifa-2x.png",
+                "calreply": {
+                  "href": "",
+                  "code": "",
+                  "promo_name": ""
+                }
+            }
+        ]
+    }
+]

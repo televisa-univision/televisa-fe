@@ -1,0 +1,27 @@
+{
+  "socialNetworks": {
+    "facebookUrl": {
+    "text": "Facebook",
+    "name": "Facebook",
+    "url": "https://www.facebook.com/ChiquisOficial",
+    "target": "_blank"
+    },
+    "googleUrl": null,
+    "instagramUrl": {
+    "text": "Instagram",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/chiquis",
+    "target": "_blank"
+    },
+    "linkedinUrl": null,
+    "pinterestUrl": null,
+    "snapchatUrl": null,
+    "twitterUrl": {
+    "text": "Twitter",
+    "name": "Twitter",
+    "url": "https://twitter.com/Chiquis626",
+    "target": "_blank"
+    },
+    "youtubeUrl": null
+    }
+}

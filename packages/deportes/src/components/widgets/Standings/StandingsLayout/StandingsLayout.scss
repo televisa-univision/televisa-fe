@@ -1,0 +1,136 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  @include media-breakpoint-up("sm") {
+    padding: 0;
+  }
+}
+
+.light {
+  background: $very-light-grey;
+}
+
+.hidden {
+  display: none;
+}
+
+.standingsButton {
+  text-align: center;
+}
+
+.standingsType {
+  margin-bottom: 0;
+  &.tudn {
+    display: flex;
+    justify-content: center;
+    background: $white-grey;
+  }
+  &.tudnMvp {
+    display: flex;
+    justify-content: center;
+    background: $snow-flurry;
+  }
+}
+
+
+.table {
+  width: 100%;
+  margin-bottom: 14px;
+
+  &.noMargin {
+    margin-bottom: 2px;
+  }
+  &.relegationBottom {
+    margin-bottom: 0;
+    border-bottom: 1px solid $light-grey;
+  }
+}
+
+.leagueHeadline {
+  width: 100%;
+  padding: 12px 6px;
+  background: $white;
+  border-bottom: 2px solid $light-grey;
+
+  span {
+    font-size: rem(14px);
+    line-height: 13px;
+    color: $black;
+
+    @include media-breakpoint-up("sm") {
+      font-size: rem(16px);
+      line-height: 17px;
+    }
+    @include media-breakpoint-up("md") {
+      font-size: rem(20px);
+      line-height: 21px;
+    }
+  }
+
+  @include media-breakpoint-up("sm") {
+    padding: 12px;
+  }
+}
+
+.leagueHeadlineTudn {
+  width: 70%;
+  @include media-breakpoint-up("sm") {
+    width: 528px;
+  }
+}
+
+.leagueHeadlineTudnUni {
+  background: $white-grey;
+  &:hover {
+    background: $white-grey;
+  }
+}
+.leagueHeadlineTudnMvp {
+  background: $snow-flurry !important;
+  &:hover {
+    background: $snow-flurry;
+  }
+}
+
+
+.borderHighlight {
+  position: relative;
+  &:before {
+    content: "";
+    width: 4px;
+    height: 45px;
+    position: absolute;
+    left: 0;
+    top: 1px;
+  }
+  &.top {
+    &:before{
+      background-color: $green;
+    }
+    &.isTudn {
+      &:before {
+        background-color: $green-darker;
+      }
+    }
+  }
+  &.topMpv {
+    &:before{
+      background-color: $deep-sea;
+    }
+    &.isTudn {
+      &:before {
+        background-color:  $green-darker;
+      }
+    }
+  }
+  &.relegation {
+    &:before{
+      background-color: $light-red;
+    }
+  }
+}
+
+.dashedBorder {
+  border-bottom: 1px dashed black;
+}

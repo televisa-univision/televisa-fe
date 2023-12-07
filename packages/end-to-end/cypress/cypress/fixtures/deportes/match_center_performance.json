@@ -1,0 +1,33 @@
+{
+  "uri": "/deportes/futbol/liga-mx-clausura/monarcas-morelia-vs-atlas-liga-mx-clausura-2019-02-01",
+  "ads": {
+    "desktop": {
+      "mid": "client=desktop&pos=MID&seq=D-F300-1&vertical=deportes"
+    },
+    "mobile": {
+      "mid": "client=mobile&pos=MID&seq=M-320-1&vertical=deportes"
+    }
+  },
+  "selectors": {
+    "MatchHeader": "[data-element-name='SectionTitle']",
+    "MatchCenterStickyHeader": "[data-widget-type='DeportesGridSoccerMatchCenterOpening']",
+    "MatchCenterOpening": "[data-widget-type='DeportesGridSoccerMatchCenterOpening'] > div > div",
+    "AllVideoPlaylistVideo": "[data-widget-type='AllVideoPlaylistVideo'] > div > div",
+    "MatchSummary": "[data-widget-type='DeportesMatchSummary'] > div > div",
+    "MatchStats": "[data-widget-type='DeportesGridSoccerMatchStats'] > div > div",
+    "DeportesExternalScript": "[data-widget-type='DeportesGridExternalScript'] iframe",
+    "SoccerStandings": "[data-widget-type='DeportesGridSoccerStandings'] > div > div",
+    "PlayByPlay": "[data-widget-type='DeportesCardPlayByPlay'] > div > div",
+    "MatchCenterLineup": "[data-widget-type='DeportesMatchCenterLineup'] > div > div"
+  },
+  "tracking": {
+    "dataLayer": {
+      "adtag_value": "section_deportes/futbol/ligamx",
+      "content_type": "soccermatch",
+      "permalink": "https://uat.tudn.com/futbol/liga-mx-clausura/monarcas-morelia-vs-atlas-liga-mx-clausura-2019-02-01"
+    }
+  },
+  "video": {
+    "anchor": ".anchor-wrapper"
+  }
+}

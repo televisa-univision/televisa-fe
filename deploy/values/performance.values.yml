@@ -1,0 +1,82 @@
+image:
+  repository: 626604290616.dkr.ecr.us-east-1.amazonaws.com/prod-univision-fe-k8s
+  tag: latest
+  pullPolicy: IfNotPresent
+
+hpa:
+  minReplicas: 1
+  maxReplicas: 100
+  targetUtilization: 80
+
+pdb:
+  maxUnavailable: 1
+
+resources:
+  limits:
+    cpu: 1500m
+    memory: 2048Mi
+  requests:
+    cpu: 600m
+    memory: 500Mi
+
+service:
+  type: NodePort
+  port: 80
+
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: alb
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/waf-acl-id: bbdced31-c4eb-4e35-8e17-3c57d55777d8
+    alb.ingress.kubernetes.io/certificate-arn: "arn:aws:acm:us-east-1:127705864914:certificate/58f327b1-6cb3-4474-b7db-62342c85610d"
+  paths:
+    - /*
+  hosts:
+    - univision-fe.k8s.dev-univision.com
+  tls:
+    - univision-fe.k8s.dev-univision.com
+
+vanityingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: alb
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/waf-acl-id: bbdced31-c4eb-4e35-8e17-3c57d55777d8
+    alb.ingress.kubernetes.io/certificate-arn: "arn:aws:acm:us-east-1:127705864914:certificate/478539b5-2114-4dfe-bd23-d6d51ed4a459"
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80},{"HTTPS": 443}]'
+    alb.ingress.kubernetes.io/healthcheck-path: /health
+    alb.ingress.kubernetes.io/ssl-policy: "ELBSecurityPolicy-TLS-1-2-2017-01"
+  paths:
+    - /*
+
+config_map:
+  AWS_S3_ASSETS_BUCKET: webapp-static-dev.univision.com
+  CMS_API_URL: https://syndicator.performance.univision.com
+  DD_ENV: dev
+  DD_LOGS_INJECTION: true
+  DD_SERVICE_NAME: web-app
+  DD_TRACE_AGENT_HOSTNAME: datadog-statsd.datadog
+  DD_TRACE_AGENT_PORT: 8126
+  DD_TRACE_DEBUG: true
+  DD_TRACE_ENABLED: true
+  DEPLOY_ENV: test
+  GRAPHQL_API_URL: https://graphql.test-univision.com
+  NODE_ENV: production
+  SPA_MONITORING_ENABLED: false
+  SPORT_API_URL: https://sports-api-dev.univision.com
+  SSO_IFRAME_URL: https://sso-performance.webapp.univision.com
+  TUDN_SITE_HOST: performance.tudn.com
+  VIDEO_HUB_ENV: prod
+
+secret:
+  enabled: true
+  name: univision-fe
+
+strategy:
+  rollingUpdate:
+    maxSurge: 40%
+    maxUnavailable: 10%
+
+replicaCount: 2
+

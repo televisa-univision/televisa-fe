@@ -1,0 +1,24 @@
+{
+  "uri": "/deportes/futbol/uefa-supercup/liverpool-vs-chelsea-uefa-super-cup-2019-08-14",
+  "ads": {
+    "desktop": {
+      "midAd": "client=desktop&pos=MID&seq=D-F300-1&vertical=deportes&contenttype=soccermatch&bkpt=1024"
+    },
+    "mobile": {
+      "midAd": "client=mobile&pos=MID&seq=M-320-1&vertical=deportes&contenttype=soccermatch&bkpt=320"
+    }
+  },
+  "selectors": {
+    "MatchHeader": "[data-element-name=\"SectionTitle\"]",
+    "MatchCenterOpening": "[data-widget-type=\"DeportesGridSoccerMatchCenterOpening\"] > div > div",
+    "MatchCenterLineup": "[data-widget-type=\"DeportesMatchCenterLineup\"] > div > div",
+    "SoccerStandings": "[data-widget-type=\"DeportesGridSoccerStandings\"] > div > div"
+  },
+  "tracking": {
+    "dataLayer": {
+      "adtag_value": "section_deportes/futbol/uefasupercup",
+      "content_type": "soccermatch",
+      "permalink": "https://uat.tudn.com/futbol/uefa-supercup/liverpool-vs-chelsea-uefa-super-cup-2019-08-14"
+    }
+  }
+}

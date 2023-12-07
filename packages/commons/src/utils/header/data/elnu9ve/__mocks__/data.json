@@ -1,0 +1,28 @@
+{
+"home": {
+    "cardLabel": null,
+    "description": "La información de todos los shows",
+    "expirationDate": null,
+    "hierarchy": [
+        {
+        "name": "las estrellas",
+        "title": "las estrellas",
+        "uri": "https://www.lasestrellas.tv",
+        "uuid": "0000014c-4d94-d0b2-a3cf-4dbfba390000"
+        }
+    ],
+    "parent": {
+        "name": null,
+        "title": null,
+        "uri": null,
+        "uuid": null
+    },
+    "publishDate": "2015-03-24T16:59:32-04:00",
+    "title": "Home",
+    "type": "section",
+    "uid": "0000014c-4d94-d0b2-a3cf-4dbfba390000",
+    "updateDate": "2019-11-08T14:11:42-05:00",
+    "uri": "https://www.lasestrellas.tv",
+    "vertical": "lasestrellas"
+    }
+}

@@ -1,0 +1,2084 @@
+{
+  "paging": {
+    "totalPages": 3,
+    "totalElements": 119,
+    "numberOfElements": 50,
+    "size": 50,
+    "number": 0,
+    "first": true,
+    "last": false
+  },
+  "sports-content": {
+    "sports-metadata": {
+      "doc-id": "schedule-results:2018-03-06T12:59:15Z",
+      "fixture-key": "schedule-results",
+      "fixture-name": "Results Schedule",
+      "sports-title": "Results Schedule"
+    },
+    "schedule": [
+      {
+        "schedule-metadata": {
+          "team-coverage": "multi-team"
+        },
+        "sports-event": [
+          {
+            "event-metadata": {
+              "event-key": "964763",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-14T19:45:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Barcelona vs Chelsea",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "8"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "1349",
+                  "name": {
+                    "full": "Camp Nou"
+                  },
+                  "capacity": "41798",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964763"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964763"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964763"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://univision.com/deportes/futbol/uefa-champions-league"
+                },
+                {
+                  "formal-name": "television-coverage",
+                  "value": "univision,unimas"
+                },
+                {
+                  "formal-name": "broadcast-language",
+                  "value": "English"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964755",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "178",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Barcelona",
+                    "abbreviation": "BCN"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "43849",
+                    "associate-metadata": {
+                      "position": "President",
+                      "associate-key": "43849",
+                      "name": {
+                        "first": "Josep María",
+                        "last": "Bartomeu",
+                        "full": "Josep María Bartomeu"
+                      }
+                    }
+                  },
+                  {
+                    "id": "110",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "110",
+                      "name": {
+                        "first": "Ernesto",
+                        "last": "Valverde",
+                        "full": "Ernesto Valverde"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "8",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Chelsea",
+                    "abbreviation": "CHE"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "47128",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47128",
+                      "name": {
+                        "first": "Angelo",
+                        "last": "Alessio",
+                        "full": "Angelo Alessio"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37788",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37788",
+                      "name": {
+                        "first": "Antonio",
+                        "last": "Conte",
+                        "full": "Antonio Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "47129",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47129",
+                      "name": {
+                        "first": "Gianluca",
+                        "last": "Conte",
+                        "full": "Gianluca Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37611",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37611",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Holland",
+                        "full": "Steve Holland"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964758",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-14T17:00:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Besiktas vs FC Bayern München",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "8"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "11180",
+                  "name": {
+                    "full": "Vodafone Arena"
+                  },
+                  "capacity": "75000",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964758"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964758"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964758"
+                },
+                {
+                  "formal-name": "permalink",
+                  "value": "https://univision.com/deportes/futbol/uefa-champions-league"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964756",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "378",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Besiktas",
+                    "abbreviation": "BJK"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "3",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "3",
+                      "name": {
+                        "first": "Senol",
+                        "last": "Gunes",
+                        "full": "Senol Gunes"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "156",
+                  "alignment": "away",
+                  "name": {
+                    "full": "FC Bayern München",
+                    "abbreviation": "FCB"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "945",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "945",
+                      "name": {
+                        "first": "Hermann",
+                        "last": "Gerland",
+                        "full": "Hermann Gerland"
+                      }
+                    }
+                  },
+                  {
+                    "id": "681",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "681",
+                      "name": {
+                        "first": "Peter",
+                        "last": "Hermann",
+                        "full": "Peter Hermann"
+                      }
+                    }
+                  },
+                  {
+                    "id": "951",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "951",
+                      "name": {
+                        "first": "Josef",
+                        "last": "Heynckes",
+                        "full": "Josef Heynckes"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964764",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-13T19:45:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Roma vs Shakhtar Donetsk",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "7"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "1336",
+                  "name": {
+                    "full": "Olimpico"
+                  },
+                  "capacity": "35000",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964764"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964764"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964754",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "121",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Roma",
+                    "abbreviation": "RMA"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "38012",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "38012",
+                      "name": {
+                        "first": "Eusebio",
+                        "last": "Di Francesco",
+                        "full": "Eusebio Di Francesco"
+                      }
+                    }
+                  },
+                  {
+                    "id": "38244",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "38244",
+                      "name": {
+                        "first": "Marco",
+                        "last": "Domenichini",
+                        "full": "Marco Domenichini"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "455",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Shakhtar Donetsk",
+                    "abbreviation": "SDK"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "45843",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45843",
+                      "name": {
+                        "first": "Nuno",
+                        "last": "Campos",
+                        "full": "Nuno Campos"
+                      }
+                    }
+                  },
+                  {
+                    "id": "41216",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "41216",
+                      "name": {
+                        "first": "Paulo",
+                        "last": "Fonseca",
+                        "full": "Paulo Fonseca"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964761",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-13T19:45:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Manchester United vs Sevilla",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "7"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "28",
+                  "name": {
+                    "full": "Old Trafford"
+                  },
+                  "capacity": "45500",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964761"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964761"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964761"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964752",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "1",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Manchester United",
+                    "abbreviation": "MUN"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "39216",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "39216",
+                      "name": {
+                        "first": "Rui Filipe",
+                        "last": "Da Cunha Farìa",
+                        "full": "Rui Filipe Da Cunha Farìa"
+                      }
+                    }
+                  },
+                  {
+                    "id": "134",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "134",
+                      "name": {
+                        "first": "José",
+                        "last": "Mourinho",
+                        "full": "José Mourinho"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "179",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Sevilla",
+                    "abbreviation": "SEV"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "43707",
+                    "associate-metadata": {
+                      "position": "President",
+                      "associate-key": "43707",
+                      "name": {
+                        "first": "José",
+                        "last": "Castro",
+                        "full": "José Castro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49228",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49228",
+                      "name": {
+                        "first": "Carlos",
+                        "last": "Kisluk",
+                        "full": "Carlos Kisluk"
+                      }
+                    }
+                  },
+                  {
+                    "id": "48549",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "48549",
+                      "name": {
+                        "first": "Enzo",
+                        "last": "Maresca",
+                        "full": "Enzo Maresca"
+                      }
+                    }
+                  },
+                  {
+                    "id": "40510",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "40510",
+                      "name": {
+                        "first": "Vincenzo",
+                        "last": "Montella",
+                        "full": "Vincenzo Montella"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964757",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-07T19:45:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Manchester City vs Basel",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "6"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "2691",
+                  "name": {
+                    "full": "Etihad Stadium"
+                  },
+                  "capacity": "38000",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964757"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964757"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964757"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964750",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "43",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Manchester City",
+                    "abbreviation": "MCI"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "37974",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37974",
+                      "name": {
+                        "first": "Josep",
+                        "last": "Guardiola",
+                        "full": "Josep Guardiola"
+                      }
+                    }
+                  },
+                  {
+                    "id": "42700",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "42700",
+                      "name": {
+                        "first": "Domènec",
+                        "last": "Torrent",
+                        "full": "Domènec Torrent"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "481",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Basel",
+                    "abbreviation": "BAS"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "38393",
+                    "associate-metadata": {
+                      "position": "Fitness Trainer",
+                      "associate-key": "38393",
+                      "name": {
+                        "first": "Romain",
+                        "last": "Crevoisier",
+                        "full": "Romain Crevoisier"
+                      }
+                    }
+                  },
+                  {
+                    "id": "38391",
+                    "associate-metadata": {
+                      "position": "President",
+                      "associate-key": "38391",
+                      "name": {
+                        "first": "Gisela",
+                        "last": "Oeri",
+                        "full": "Gisela Oeri"
+                      }
+                    }
+                  },
+                  {
+                    "id": "48669",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "48669",
+                      "name": {
+                        "first": "Raphaël",
+                        "last": "Wicky",
+                        "full": "Raphaël Wicky"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964759",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-07T19:45:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Tottenham Hotspur vs Juventus",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "6"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "5",
+                  "name": {
+                    "full": "Wembley Stadium"
+                  },
+                  "capacity": "41507",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964759"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964759"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964759"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964749",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "6",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Tottenham Hotspur",
+                    "abbreviation": "TOT"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "38223",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "38223",
+                      "name": {
+                        "first": "Mauricio",
+                        "last": "Pochettino",
+                        "full": "Mauricio Pochettino"
+                      }
+                    }
+                  },
+                  {
+                    "id": "42462",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "42462",
+                      "name": {
+                        "first": "Jesús",
+                        "last": "Pérez",
+                        "full": "Jesús Pérez"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "128",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Juventus",
+                    "abbreviation": "JUV"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "37970",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37970",
+                      "name": {
+                        "first": "Massimiliano",
+                        "last": "Allegri",
+                        "full": "Massimiliano Allegri"
+                      }
+                    }
+                  },
+                  {
+                    "id": "38248",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "38248",
+                      "name": {
+                        "first": "Marco",
+                        "last": "Landucci",
+                        "full": "Marco Landucci"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964760",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-06T19:45:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Liverpool vs FC Porto",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "5"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "39",
+                  "name": {
+                    "full": "Anfield"
+                  },
+                  "capacity": "50431",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964760"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964760"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964760"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "-1"
+                },
+                {
+                  "formal-name": "neulion-ap"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964751",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              },
+              "coverage-attributes": {
+                "period-value": "pre-event"
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "14"
+                },
+                "team-stats": {
+                  "score": "0",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "associate": [
+                  {
+                    "id": "873",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "873",
+                      "name": {
+                        "first": "Zeljko",
+                        "last": "Buvac",
+                        "full": "Zeljko Buvac"
+                      }
+                    }
+                  },
+                  {
+                    "id": "279",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "279",
+                      "name": {
+                        "first": "Jürgen",
+                        "last": "Klopp",
+                        "full": "Jürgen Klopp"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "201"
+                },
+                "team-stats": {
+                  "score": "0",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "associate": [
+                  {
+                    "id": "41289",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "41289",
+                      "name": {
+                        "first": "Sérgio",
+                        "last": "Conceição",
+                        "full": "Sérgio Conceição"
+                      }
+                    }
+                  },
+                  {
+                    "id": "38382",
+                    "associate-metadata": {
+                      "position": "President",
+                      "associate-key": "38382",
+                      "name": {
+                        "first": "Jorge",
+                        "last": "Pinto da Costa",
+                        "full": "Jorge Pinto da Costa"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964762",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-03-06T19:45:00Z",
+              "event-type": "2nd Leg Away Goal",
+              "event-name": "Paris Saint-Germain vs Real Madrid",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "5"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "1311",
+                  "name": {
+                    "full": "Parc des Princes"
+                  },
+                  "capacity": "85454",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964762"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964762"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964762"
+                },
+                {
+                  "formal-name": "neulion-gs",
+                  "value": "-1"
+                },
+                {
+                  "formal-name": "neulion-ap"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "1st Leg",
+                    "code-key": "964753",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              },
+              "coverage-attributes": {
+                "period-value": "pre-event"
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "149"
+                },
+                "team-stats": {
+                  "score": "0",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "associate": [
+                  {
+                    "id": "43650",
+                    "associate-metadata": {
+                      "position": "President",
+                      "associate-key": "43650",
+                      "name": {
+                        "first": "Nasser",
+                        "last": "Al-Khelaifi",
+                        "full": "Nasser Al-Khelaifi"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37569",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37569",
+                      "name": {
+                        "first": "Unai",
+                        "last": "Emery",
+                        "full": "Unai Emery"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "186"
+                },
+                "team-stats": {
+                  "score": "0",
+                  "penalty-stats": {
+                    "count": ""
+                  }
+                },
+                "associate": [
+                  {
+                    "id": "46440",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "46440",
+                      "name": {
+                        "first": "David",
+                        "last": "Bettoni",
+                        "full": "David Bettoni"
+                      }
+                    }
+                  },
+                  {
+                    "id": "41317",
+                    "associate-metadata": {
+                      "position": "President",
+                      "associate-key": "41317",
+                      "name": {
+                        "first": "Florentino",
+                        "last": "Pérez",
+                        "full": "Florentino Pérez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "44585",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "44585",
+                      "name": {
+                        "first": "Zinedine",
+                        "last": "Zidane",
+                        "full": "Zinedine Zidane"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "964754",
+              "event-status": "post-event",
+              "event-status-note": "Result",
+              "start-date-time": "2018-02-21T19:45:00Z",
+              "event-type": "1st Leg",
+              "event-name": "Shakhtar Donetsk vs Roma",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "4"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "3570",
+                  "name": {
+                    "full": "Metalist Stadium"
+                  },
+                  "capacity": "72698",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964754"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964754"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "2nd Leg",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "455",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Shakhtar Donetsk",
+                    "abbreviation": "SDK"
+                  }
+                },
+                "team-stats": {
+                  "score": "2",
+                  "score-opposing": "1",
+                  "event-outcome": "win"
+                },
+                "associate": [
+                  {
+                    "id": "45843",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45843",
+                      "name": {
+                        "first": "Nuno",
+                        "last": "Campos",
+                        "full": "Nuno Campos"
+                      }
+                    }
+                  },
+                  {
+                    "id": "41216",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "41216",
+                      "name": {
+                        "first": "Paulo",
+                        "last": "Fonseca",
+                        "full": "Paulo Fonseca"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "121",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Roma",
+                    "abbreviation": "RMA"
+                  }
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "2",
+                  "event-outcome": "loss"
+                },
+                "associate": [
+                  {
+                    "id": "38012",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "38012",
+                      "name": {
+                        "first": "Eusebio",
+                        "last": "Di Francesco",
+                        "full": "Eusebio Di Francesco"
+                      }
+                    }
+                  },
+                  {
+                    "id": "38244",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "38244",
+                      "name": {
+                        "first": "Marco",
+                        "last": "Domenichini",
+                        "full": "Marco Domenichini"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "41004",
+                    "position": "Referee",
+                    "name": {
+                      "first": "William",
+                      "last": "Collum",
+                      "full": "William Collum"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "43178",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "David",
+                      "last": "McGeachie",
+                      "full": "David McGeachie"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "43166",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Frank",
+                      "last": "Connor",
+                      "full": "Frank Connor"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "43398",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Dougie",
+                      "last": "Potter",
+                      "full": "Dougie Potter"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "964752",
+              "event-status": "post-event",
+              "event-status-note": "Result",
+              "start-date-time": "2018-02-21T19:45:00Z",
+              "event-type": "1st Leg",
+              "event-name": "Sevilla vs Manchester United",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "4"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "2474",
+                  "name": {
+                    "full": "Ramón Sánchez-Pizjuán"
+                  },
+                  "capacity": "75635",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "5"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964752"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "964752"
+                },
+                {
+                  "formal-name": "neulion-match-id",
+                  "value": "g964752"
+                },
+                {
+                  "formal-name": "soccer-match-section",
+                  "value": "https://uat.x.univision.com/deportes/futbol/la-liga-2"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "Round of 16",
+                    "code-type": "tournament-round-type",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Round of 16",
+                    "code-key": "2",
+                    "code-type": "tournament-round-number",
+                    "code-source": "optasports.com"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "5",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "Champions League",
+                    "code-key": "EU_CL",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  },
+                  {
+                    "code-name": "2nd Leg",
+                    "code-type": "series-pairing"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "179",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Sevilla",
+                    "abbreviation": "SEV"
+                  }
+                },
+                "team-stats": {
+                  "score": "0",
+                  "score-opposing": "0",
+                  "event-outcome": "tie"
+                },
+                "associate": [
+                  {
+                    "id": "43707",
+                    "associate-metadata": {
+                      "position": "President",
+                      "associate-key": "43707",
+                      "name": {
+                        "first": "José",
+                        "last": "Castro",
+                        "full": "José Castro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49228",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49228",
+                      "name": {
+                        "first": "Carlos",
+                        "last": "Kisluk",
+                        "full": "Carlos Kisluk"
+                      }
+                    }
+                  },
+                  {
+                    "id": "48549",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "48549",
+                      "name": {
+                        "first": "Enzo",
+                        "last": "Maresca",
+                        "full": "Enzo Maresca"
+                      }
+                    }
+                  },
+                  {
+                    "id": "40510",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "40510",
+                      "name": {
+                        "first": "Vincenzo",
+                        "last": "Montella",
+                        "full": "Vincenzo Montella"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "1",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Manchester United",
+                    "abbreviation": "MUN"
+                  }
+                },
+                "team-stats": {
+                  "score": "0",
+                  "score-opposing": "0",
+                  "event-outcome": "tie"
+                },
+                "associate": [
+                  {
+                    "id": "39216",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "39216",
+                      "name": {
+                        "first": "Rui Filipe",
+                        "last": "Da Cunha Farìa",
+                        "full": "Rui Filipe Da Cunha Farìa"
+                      }
+                    }
+                  },
+                  {
+                    "id": "134",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "134",
+                      "name": {
+                        "first": "José",
+                        "last": "Mourinho",
+                        "full": "José Mourinho"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "40845",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Clément",
+                      "last": "Turpin",
+                      "full": "Clément Turpin"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "45030",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Nicolas",
+                      "last": "Danos",
+                      "full": "Nicolas Danos"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "46057",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Cyril",
+                      "last": "Gringore",
+                      "full": "Cyril Gringore"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "46082",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Hicham",
+                      "last": "Zakrani",
+                      "full": "Hicham Zakrani"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "analyticsData":{
+    "web":{
+      "common":{
+        "section_category":"navigation taxonomy",
+        "content_created_date":"2016-01-13",
+        "content_id":"00000152-3caa-d5cc-affa-7daf0a6c0000-resultados",
+        "content_modified_date":"2019-09-09",
+        "content_vertical":"deportes",
+        "section":"liga mx",
+        "title":"liga mx resultados",
+        "section_full_hierarchy":[
+          "deportes",
+          "futbol",
+          "liga mx"
+        ],
+        "section_level1":"deportes",
+        "uci_division":"sports",
+        "content_type":"league",
+        "all_tags":[
+          "liga mx (apertura) | 2019",
+          "Jornada 14"
+        ],
+        "permalink":"https://www.tudn.com/futbol/liga-mx/resultados",
+        "section_level3":"liga mx",
+        "section_level2":"futbol",
+        "adtag_value":"section_deportes/futbol/ligamx/inicio",
+        "seo_optimized ":true,
+        "seo_optimized":"true"
+      },
+      "nielsen":{
+        "common":{
+          "assetID":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "section":"league",
+          "type":"static",
+          "vcid":"c03"
+        },
+        "contentSpecific":{
+
+        }
+      },
+      "contentSpecific":{
+        "section_category":"navigation taxonomy"
+      }
+    },
+    "apps":{
+      "common":{
+        "section_category":"navigation taxonomy",
+        "section_full_hierarchy":[
+          "deportes",
+          "futbol",
+          "liga mx"
+        ],
+        "section_level1":"deportes",
+        "content_created_date":"2016-01-13",
+        "content_type":"league",
+        "content_id":"00000152-3caa-d5cc-affa-7daf0a6c0000-resultados",
+        "all_tags":[
+          "liga mx (apertura) | 2019",
+          "Jornada 14"
+        ],
+        "section":"liga mx",
+        "section_level3":"liga mx",
+        "title":"liga mx resultados",
+        "section_level2":"futbol",
+        "adtag_value":"section_deportes/futbol/ligamx/inicio"
+      },
+      "nielsen":{
+        "common":{
+          "assetID":"00000152-3caa-d5cc-affa-7daf0a6c0000",
+          "section":"league",
+          "type":"static",
+          "vcid":"c03"
+        },
+        "contentSpecific":{
+
+        }
+      },
+      "contentSpecific":{
+        "section_category":"navigation taxonomy"
+      }
+    }
+  }
+}

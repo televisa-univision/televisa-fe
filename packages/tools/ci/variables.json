@@ -1,0 +1,154 @@
+{
+  "API_ENV": {
+    "bash": true,
+    "inTask": true
+  },
+  "APP_VERSION": {
+    "bash": true,
+    "inTask": true
+  },
+  "ASSETS_PREFIX": {
+    "bash": true,
+    "inTask": true
+  },
+  "AWS_ACCESS_KEY_ID": {
+    "bash": true
+  },
+  "AWS_ACCOUNT_ID": {
+    "bash": false
+  },
+  "AWS_ECR_IMAGE_NAME": {
+    "bash": true
+  },
+  "AWS_ECR_REPO_NAME": {
+    "bash": false
+  },
+  "AWS_ECS_CONTAINER": {
+    "bash": false
+  },
+  "AWS_ECS_TASK_FAMILY": {
+    "bash": false
+  },
+  "AWS_LOG_GROUP": {
+    "bash": false
+  },
+  "AWS_REGION": {
+    "bash": true
+  },
+  "AWS_S3_ASSETS_BUCKET": {
+    "bash": true,
+    "inTask": true
+  },
+  "AWS_SECRET_ACCESS_KEY": {
+    "bash": true
+  },
+  "BUILD_NUMBER": {
+    "bash": false,
+    "inTask": true,
+    "keyOverride": "CIRCLE_PREVIOUS_BUILD_NUM"
+  },
+  "CDN_URL": {
+    "bash": false,
+    "inTask": true
+  },
+  "CI_CLIENT": {
+    "bash": true,
+    "inTask": false
+  },
+  "CMS_API_CLIENT_ID": {
+    "bash": false,
+    "inTask": true
+  },
+  "CMS_API_SECRET": {
+    "bash": false,
+    "inTask": true
+  },
+  "CMS_API_URL": {
+    "bash": false,
+    "inTask": true
+  },
+  "DEPLOY_ENV": {
+    "bash": true,
+    "inTask": true
+  },
+  "DD_FORWARDER": {
+    "bash": true,
+    "inTask": true
+  },
+  "ENVIRONMENT": {
+    "bash": false,
+    "inTask": true
+  },
+  "FEATURES": {
+    "bash": false,
+    "inTask": true
+  },
+  "GRAPHQL_API_URL": {
+    "bash": false,
+    "inTask": true
+  },
+  "SSO_IFRAME_URL": {
+    "bash": false,
+    "inTask": true
+  },
+  "NEW_RELIC_APP_NAME": {
+    "bash": false,
+    "inTask": true
+  },
+  "NEW_RELIC_ENABLED": {
+    "bash": false,
+    "envFile": true
+  },
+  "NEW_RELIC_LICENSE_KEY": {
+    "bash": false,
+    "inTask": true
+  },
+  "NEW_RELIC_LOG_LEVEL": {
+    "bash": false,
+    "inTask": true
+  },
+  "NODE_ENV": {
+    "bash": true,
+    "inTask": true
+  },
+  "PROXY_API_URL": {
+    "bash": true,
+    "inTask": true
+  },
+  "SENTRY_DSN": {
+    "bash": false,
+    "inTask": true
+  },
+  "SENTRY_ENVIRONMENT": {
+    "bash": false,
+    "inTask": true
+  },
+  "SPORT_API_KEY": {
+    "bash": false,
+    "inTask": true
+  },
+  "SPORT_API_URL": {
+    "bash": false,
+    "inTask": true
+  },
+  "VERSION": {
+    "bash": true,
+    "inTask": true
+  },
+  "VIDEO_HUB_API_KEY": {
+    "bash": false,
+    "inTask": true
+  },
+  "VIDEO_HUB_ENV": {
+    "bash": false,
+    "inTask": true
+  },
+  "VIDEO_HUB_PROFILE": {
+    "bash": false,
+    "inTask": true
+  },
+  "WEATHER_API_KEY": {
+    "bash": false,
+    "inTask": true
+  }
+}

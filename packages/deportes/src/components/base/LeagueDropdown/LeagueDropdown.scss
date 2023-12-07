@@ -1,0 +1,462 @@
+.container {
+  position: relative;
+  display: inline-flex;
+}
+
+.selectMobile{
+  display: flex;
+  margin: 0;
+  border-radius: 0;
+  overflow: hidden;
+  width: 100%;
+  background: $white;
+
+  @include media-breakpoint-up("sm") {
+    display: none;
+  }
+
+  select {
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    background-color: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: auto;
+    width: 103%\9;
+    outline: none;
+
+    &:focus {
+      width: auto;
+      outline-style: none;
+    }
+  }
+}
+
+.downArrow {
+  display: flex;
+  align-items: center;
+
+  svg {
+    fill: $darker-grey;
+  }
+
+  @include media-breakpoint-up("sm") {
+    pointer-events: none;
+  }
+}
+
+.selectDesktop {
+  display: none;
+  @include media-breakpoint-up("sm") {
+    display: block;
+  }
+}
+
+.topButton {
+  display: flex;
+  align-items: center;
+
+  svg {
+    transition: transform 300ms ease;
+  }
+}
+
+.dropDownList {
+  position: absolute;
+  left: 0;
+  display: none;
+  flex-direction: column;
+  z-index: $zindex-navigation;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.item {
+  &.tudn {
+    font-size: 14px;
+  }
+  display: inline-flex;
+  width: auto;
+  height: 50px;
+  align-items: flex-end;
+  padding: 0 20px 0 20px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: left;
+}
+
+.container:not(.blackType):not(.tudnType) {
+  .selectDesktop, .selectMobile {
+    > button:first-of-type, > select {
+      padding: 5px 5px 8px;
+      font-size: rem(11px);
+      line-height: rem(13px);
+      height: 35px;
+      color: $darker-grey;
+      max-width: 60%;
+      @include uvs-font('a', 'bold');
+
+      @include media-breakpoint-up("sm") {
+        max-width: 100%;
+        font-size: rem(13px);
+        line-height: rem(15px);
+        @include uvs-font('a', 'regular');
+      }
+    }
+
+    &.activeLeague {
+      > button:first-of-type, > select {
+        border-bottom: 2px solid $green;
+
+        @include uvs-font('a', 'bold');
+        color: $green;
+
+        option {
+          color: $black;
+        }
+      }
+
+      .downArrow {
+        margin-top: 3px;
+      }
+
+      svg {
+        fill: $green;
+      }
+    }
+  }
+
+  .downArrow {
+    margin-top: 4px;
+    margin-left: -28px;
+    padding: 2px;
+    @include media-breakpoint-up("sm") {
+      margin-top: 0;
+      margin-left: 2px;
+      padding: 0;
+    }
+  }
+
+  .dropDownList {
+    top: 44px;
+    border: 1px solid $grey;
+  }
+
+  .item {
+    font-size: rem(14px);
+    background-color: $white;
+    &:hover {
+      background-color: $light-grey;
+    }
+    &.active {
+      background-color: $light-grey;
+      @include uvs-font('a', 'bold');
+    }
+  }
+}
+
+.blackType {
+  max-width: 120px;
+  @include media-breakpoint-up("sm") {
+    max-width: 100%;
+  }
+}
+
+.container.blackType {
+  .selectDesktop, .selectMobile {
+    background: $black;
+
+    > button:first-of-type, > select {
+      font-size: rem(14px);
+      color: $white;
+      height: 40px;
+      padding: 11px 16px;
+      background-color: $black;
+
+      &:hover {
+        background-color: $light-red;
+      }
+
+      @include media-breakpoint-up("sm") {
+        padding: 6px 24px;
+      }
+    }
+
+    > select {
+      font-weight: 700;
+      padding-right: 25px;
+      white-space: nowrap;
+      overflow: hidden;
+      width: 80%;
+      text-overflow: ellipsis;
+    }
+
+    &.activeLeague {
+      > button:first-of-type, > select {
+        background-color: $light-red;
+      }
+    }
+  }
+
+  .downArrow {
+    margin-top: 8px;
+    margin-left: -25px;
+    padding: 1px;
+
+    svg {
+      fill: $white;
+    }
+
+    @include media-breakpoint-up("sm") {
+      margin-top: 0;
+      margin-left: 2px;
+      padding: 0;
+    }
+  }
+
+  .dropDownList {
+    top: 40px;
+  }
+
+  .item {
+    font-size: rem(14px);
+    color: $white;
+    background-color: $darker-grey;
+
+    @include media-breakpoint-up("md") {
+      font-size: rem(14px);
+    }
+
+    &:hover {
+      background-color: $black;
+    }
+    &.active {
+      background-color: $black;
+    }
+  }
+}
+
+.active {
+  svg {
+    transform: rotate(-180deg);
+  }
+}
+
+.open {
+  display: inline-flex;
+  min-width: 255px;
+}
+
+.container.tudnType {
+  .selectDesktop, .selectMobile {
+    background: $very-light-grey;
+
+    > button:first-of-type, > select {
+      font-size: rem(14px);
+      color: $grey-black;
+      height: 40px;
+      padding: 0 16px;
+      background-color: $very-light-grey;
+      font-weight: 800;
+      &.tudnMvp {
+        background-color: $snow-flurry;
+        border-bottom: 3px solid $very-light-grey;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 120%;
+        color: $black;
+      }
+      &.tudn {
+        text-transform: uppercase;
+        padding-top: 0;
+        padding-bottom: 3px;
+        line-height: 1rem;
+      }
+
+      &:hover {
+        background-color: $white-grey;
+        color: $black;
+        &.tudnMvp {
+          background-color: $snow-flurry;
+          border-bottom: 3px solid $green-darker;
+        }
+      }
+
+      @include media-breakpoint-up("sm") {
+        padding: 6px 24px;
+      }
+    }
+
+    > select {
+      font-weight: 700;
+      padding-right: 25px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 105px;
+    }
+
+    &.activeLeague {
+      > button:first-of-type, > select {
+        background-color: $very-light-grey;
+        border-bottom: 3px solid $green-darker;
+        color: $black;
+        &.tudnMvp {
+          background-color: $snow-flurry;
+        }
+      }
+      > select {
+        padding-top: 3px;
+      }
+    }
+  }
+
+  .downArrow {
+    margin-top: 8px;
+    margin-left: -25px;
+    padding: 1px;
+
+    svg {
+      fill: $grey-black;
+    }
+
+    @include media-breakpoint-up("sm") {
+      margin-top: 0;
+      margin-left: 2px;
+      padding: 0;
+    }
+  }
+
+  .dropDownList {
+    top: 40px;
+  }
+
+  .item {
+    font-size: rem(14px);
+    color: $grey-black;
+    background-color: $very-light-grey;
+    align-items: center;
+
+    @include media-breakpoint-up("md") {
+      font-size: rem(14px);
+    }
+
+    &:hover {
+      background-color: $white-grey;
+    }
+    &.active {
+      background-color: $white-grey;
+    }
+  }
+}
+
+.container.tudnType.rebrandButton {
+  .selectDesktop, .selectMobile {
+    background: $wood-smoke;
+    width: 100%;
+    > button:first-of-type, > select {
+      font-family: 'Roboto Flex', sans-serif;
+      font-size: rem(14px);
+      color: $white;
+      height: 40px;
+      padding: 0 16px;
+      background-color: $wood-smoke;
+      font-weight: 800;
+      border-bottom: 3px solid $wood-smoke;
+      text-transform: capitalize;      
+      width: 100%;
+      justify-content: center;
+      &:hover {
+        background-color: $wood-smoke;
+        color: $spring-green;
+        border-bottom-color: $spring-green;
+      }
+      @include media-breakpoint-up("sm") {
+        padding: 6px 24px;
+      }
+      @include media-breakpoint-up("lg") {
+        padding: 0px 10px;
+      }      
+    }
+
+    > select {
+      font-weight: 700;
+      padding-right: 25px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      width: 100%;
+      max-width: 100%;
+      justify-content: center; 
+    }
+
+    &.activeLeague {
+      > button:first-of-type, > select {
+        background-color: $wood-smoke;
+        border-bottom: 3px solid $spring-green;
+        color: $white;        
+      }
+      > select {
+        padding-top: 3px;
+      }
+    }
+  }
+
+  .downArrow {
+    margin-top: 8px;
+    margin-left: -25px;
+    padding: 1px;
+
+    svg {
+      fill: $white;
+    }
+
+    @include media-breakpoint-up("sm") {
+      margin-top: 0;
+      margin-left: 2px;
+      padding: 0;
+    }
+  }
+
+  .dropDownList {
+    top: 40px;
+    background-color: $green;
+    @include media-breakpoint-up("xs") {
+      background-color: $wood-smoke;
+    }
+  }
+
+  .item {
+    font-size: rem(14px);
+    color: $white;
+    background-color: $wood-smoke;
+    align-items: left;
+    font-family: 'Roboto Flex', sans-serif;
+
+    @include media-breakpoint-up("md") {
+      font-size: rem(14px);
+    }
+    @include media-breakpoint-up("xs") {
+      font-size: rem(14px);
+    }
+
+    &:hover {
+      background-color: $dark-charcoal;
+    }
+    &.active {
+      background-color: $dark-charcoal;
+    }
+  }
+}
+
+.condensed {
+  > button:first-of-type, > select {
+    @include uvs-font('c', 'regular');
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
+  }
+}

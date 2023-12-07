@@ -1,0 +1,466 @@
+{
+  "WLTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "KDTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "KXLN": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "WXTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "KMEX": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "WGBO": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "KAKW": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "KTVW": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/pregunta-al-experto"
+      },
+      {
+        "name": "Salud",
+        "link": "/pregunta-al-experto/salud"
+      },
+      {
+        "name": "Electricidad",
+        "link": "/pregunta-al-experto/electricidad"
+      },
+      {
+        "name": "Control de plagas",
+        "link": "/pregunta-al-experto/control-de-plagas"
+      },
+      {
+        "name": "Limpieza",
+        "link": "/pregunta-al-experto/limpieza"
+      },
+      {
+        "name": "Mudanzas",
+        "link": "/pregunta-al-experto/mudanzas"
+      }
+    ]
+  },
+  "KUVS": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-sacramento"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-sacramento/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-sacramento/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-sacramento/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-sacramento/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-sacramento/hospitalidad"
+      }
+    ]
+  },
+  "WUVC": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-north-carolina"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-north-carolina/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-north-carolina/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-north-carolina/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-north-carolina/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-north-carolina/hospitalidad"
+      }
+    ]
+  },
+  "WUVG": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-atlanta"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-atlanta/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-atlanta/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-atlanta/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-atlanta/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-atlanta/hospitalidad"
+      }
+    ]
+  },
+  "WLII": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-puerto-rico"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-puerto-rico/hospitalidad"
+      }
+    ]
+  },
+  "KFTV": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-fresno"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-fresno/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-fresno/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-fresno/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-fresno/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-fresno/hospitalidad"
+      }
+    ]
+  },
+  "WUVP": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-philadelphia"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-philadelphia/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-philadelphia/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-philadelphia/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-philadelphia/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-philadelphia/hospitalidad"
+      }
+    ]
+  },
+  "KUVN": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-dallas"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-dallas/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-dallas/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-dallas/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-dallas/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-dallas/hospitalidad"
+      }
+    ]
+  },
+  "KWEX": {
+    "isActive": false,
+    "options": [
+      {
+        "name": "Todos",
+        "link": "/ofertas-de-trabajo-en-san-antonio"
+      },
+      {
+        "name": "Salud",
+        "link": "/ofertas-de-trabajo-en-san-antonio/salud"
+      },
+      {
+        "name": "Construcción",
+        "link": "/ofertas-de-trabajo-en-san-antonio/construccion"
+      },
+      {
+        "name": "Mantenimiento",
+        "link": "/ofertas-de-trabajo-en-san-antonio/mantenimiento"
+      },
+      {
+        "name": "Fabricación",
+        "link": "/ofertas-de-trabajo-en-san-antonio/fabricacion"
+      },
+      {
+        "name": "Hospitalidad",
+        "link": "/ofertas-de-trabajo-en-san-antonio/hospitalidad"
+      }
+    ]
+  }
+}

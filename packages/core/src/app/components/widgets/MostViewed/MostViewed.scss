@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  align-self: center;
+  max-width: 300px;
+  margin-bottom: 20px;
+
+  @include media-breakpoint-up('sm') {
+    max-width: 350px;
+  }
+
+  @include media-breakpoint-up('md') {
+    max-width: 300px;
+  }
+}

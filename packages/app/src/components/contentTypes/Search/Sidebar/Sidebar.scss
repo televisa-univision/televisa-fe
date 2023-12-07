@@ -1,0 +1,28 @@
+.sidebar {
+  display: none;
+  .content {
+    background: url($striped-background);
+    padding: 20px 0;
+    top: 0;
+    min-height: 400px;
+  }
+  @include media-breakpoint-up('md') {
+    display: block;
+  }
+}
+
+.sticky {
+  .content {
+    position: fixed;
+    top: 50px;
+    width: 100%;
+  }
+}
+
+.absolute {
+  .content {
+    position: absolute;
+    bottom: 0;
+    top: inherit;
+  }
+}

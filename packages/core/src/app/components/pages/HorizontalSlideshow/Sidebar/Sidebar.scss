@@ -1,0 +1,130 @@
+$bg-color: #1A1A1A;
+
+.container {
+  width: 320px;
+  background-color: $bg-color;
+  color: $white;
+
+  > :last-child {
+    margin-top: 1rem;
+  }
+
+  @include media-breakpoint-down('sm') {
+    display: none;
+  }
+}
+
+.shareBar {
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.captionContainer {
+  padding: 0 15px;
+  margin-top: 12px;
+  a {
+    color: $white;
+    text-decoration: underline;
+    &:hover {
+      color: $light-grey;
+    }
+  }
+  > div, p {
+    color: $light-grey;
+    font-size: rem(14px);
+    line-height: rem(17px);
+    margin-bottom: 11px;
+    span {
+      display: block;
+    }
+    button {
+      border-radius: 2px;
+      margin-left: 0;
+      margin-top: 5px;
+      padding-right: 6px;
+    }
+  }
+}
+
+.title {
+  border-bottom: 1px solid $darker-grey;
+  color: $white;
+  font-size: rem(22px);
+  line-height: rem(26px);
+  margin: 16px 15px 12px;
+  padding-bottom: 12px;
+  @include uvs-font('a', 'bold');
+}
+
+.pollQuestion {
+  color: $white;
+  font-size: rem(16px);
+  margin: 12px 15px 0;
+  .pollQuestionTitle {
+    margin: 0;
+  }
+  .captionContainer {
+    padding: rem(14px) 0 0;
+  }
+}
+
+.meta {
+  padding: 0 15px 16px;
+  display: block;
+  div {
+    background-color: $bg-color;
+  }
+  span {
+    font-size: rem(11px);
+    line-height: rem(13px);
+    position: relative;
+    @include uvs-font('a', 'regular');
+    span {
+      color: $white;
+      background-color: $bg-color;
+    }
+    &::after {
+      color: $grey-black;
+    }
+  }
+}
+
+.sidebarReactions {
+  display: initial;
+}
+
+.startButton.startButton {
+  border: 1px solid $darker-grey;
+  margin-left: 15px;
+  margin-top: 24px;
+  max-height: 36px;
+  padding: 11px 27px 11px 32px;
+  svg {
+    margin: -2px 0 0 16px;
+  }
+}
+
+.adContainer {
+  .title {
+    color: $grey-black;
+  }
+  .shareBar {
+    > div:nth-child(1) {
+      color: $grey-black;
+    }
+    > div:nth-child(2) {
+      > div:first-of-type {
+        > a {
+          > svg {
+            fill: $grey-black;
+          }
+        }
+      }
+    }
+  }
+}
+
+.hideAd {
+  visibility: hidden;
+}

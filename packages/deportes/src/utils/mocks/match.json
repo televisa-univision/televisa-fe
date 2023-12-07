@@ -1,0 +1,1832 @@
+{
+  "sports-content": {
+    "sports-metadata": {
+      "doc-id": "schedule-results:2018-03-06T01:17:08Z",
+      "fixture-key": "schedule-results",
+      "fixture-name": "Results Schedule",
+      "sports-title": "Results Schedule"
+    },
+    "schedule": [
+      {
+        "schedule-metadata": {
+          "team-coverage": "multi-team"
+        },
+        "sports-event": [
+          {
+            "event-metadata": {
+              "event-key": "919256",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-05-05T15:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Chelsea vs Liverpool",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "37"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "35",
+                  "name": {
+                    "full": "Stamford Bridge"
+                  },
+                  "capacity": "54074",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919256"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919256"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "8"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "8",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Chelsea",
+                    "abbreviation": "CHE"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "47128",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47128",
+                      "name": {
+                        "first": "Angelo",
+                        "last": "Alessio",
+                        "full": "Angelo Alessio"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37788",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37788",
+                      "name": {
+                        "first": "Antonio",
+                        "last": "Conte",
+                        "full": "Antonio Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "47129",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47129",
+                      "name": {
+                        "first": "Gianluca",
+                        "last": "Conte",
+                        "full": "Gianluca Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37611",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37611",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Holland",
+                        "full": "Steve Holland"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "14",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Liverpool",
+                    "abbreviation": "LIV"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "873",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "873",
+                      "name": {
+                        "first": "Zeljko",
+                        "last": "Buvac",
+                        "full": "Zeljko Buvac"
+                      }
+                    }
+                  },
+                  {
+                    "id": "279",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "279",
+                      "name": {
+                        "first": "Jürgen",
+                        "last": "Klopp",
+                        "full": "Jürgen Klopp"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919036",
+              "event-status": "post-event",
+              "event-status-note": "Result",
+              "start-date-time": "2017-12-02T12:30:00Z",
+              "event-type": "Regular",
+              "event-name": "Chelsea vs Newcastle United",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "15",
+                "minutes-elapsed": 0,
+                "period-value": "2",
+                "time-adjustment": {
+                  "period-extra-time-elapsed": "0"
+                }
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "35",
+                  "name": {
+                    "full": "Stamford Bridge"
+                  },
+                  "capacity": "52405",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "period-start-date-time": "2017-12-02T14:22:01Z",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919036"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919036"
+                },
+                {
+                  "formal-name": "previous-three-games-between-teams-for-event",
+                  "value": "919268"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              },
+              "period-value": "2",
+              "coverage-attributes": {
+                "period-value": "pre-event"
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "8",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Chelsea",
+                    "abbreviation": "CHE"
+                  }
+                },
+                "team-stats": {
+                  "score": "3",
+                  "score-opposing": "1",
+                  "event-outcome": "win"
+                },
+                "associate": [
+                  {
+                    "id": "47128",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47128",
+                      "name": {
+                        "first": "Angelo",
+                        "last": "Alessio",
+                        "full": "Angelo Alessio"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37788",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37788",
+                      "name": {
+                        "first": "Antonio",
+                        "last": "Conte",
+                        "full": "Antonio Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "47129",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47129",
+                      "name": {
+                        "first": "Gianluca",
+                        "last": "Conte",
+                        "full": "Gianluca Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37611",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37611",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Holland",
+                        "full": "Steve Holland"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "4",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Newcastle United",
+                    "abbreviation": "NEW"
+                  }
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "3",
+                  "event-outcome": "loss"
+                },
+                "associate": [
+                  {
+                    "id": "36",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "36",
+                      "name": {
+                        "first": "Rafael",
+                        "last": "Benítez",
+                        "full": "Rafael Benítez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "45702",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45702",
+                      "name": {
+                        "first": "Ian",
+                        "last": "Cathro",
+                        "full": "Ian Cathro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49140",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49140",
+                      "name": {
+                        "first": "Paco",
+                        "last": "de Miguel Moreno",
+                        "full": "Paco de Miguel Moreno"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": {
+              "official": [
+                {
+                  "official-metadata": {
+                    "official-key": "40928",
+                    "position": "Referee",
+                    "name": {
+                      "first": "Kevin",
+                      "last": "Friend",
+                      "full": "Kevin Friend"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "43523",
+                    "position": "Lineman#1",
+                    "name": {
+                      "first": "Constantine",
+                      "last": "Hatzidakis",
+                      "full": "Constantine Hatzidakis"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "43278",
+                    "position": "Lineman#2",
+                    "name": {
+                      "first": "Matt",
+                      "last": "Wilkes",
+                      "full": "Matt Wilkes"
+                    }
+                  }
+                },
+                {
+                  "official-metadata": {
+                    "official-key": "40961",
+                    "position": "Fourth official",
+                    "name": {
+                      "first": "Roger",
+                      "last": "East",
+                      "full": "Roger East"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "event-metadata": {
+              "event-key": "919248",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-04-28T15:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Newcastle United vs West Bromwich Albion",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "36"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "31",
+                  "name": {
+                    "full": "St. James' Park"
+                  },
+                  "capacity": "26445",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919248"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919248"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "4"
+                },
+                {
+                  "formal-name": "1st-leg-for-event",
+                  "value": "8"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "4",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Newcastle United",
+                    "abbreviation": "NEW"
+                  }
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "36",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "36",
+                      "name": {
+                        "first": "Rafael",
+                        "last": "Benítez",
+                        "full": "Rafael Benítez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "45702",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45702",
+                      "name": {
+                        "first": "Ian",
+                        "last": "Cathro",
+                        "full": "Ian Cathro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49140",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49140",
+                      "name": {
+                        "first": "Paco",
+                        "last": "de Miguel Moreno",
+                        "full": "Paco de Miguel Moreno"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "35",
+                  "alignment": "away",
+                  "name": {
+                    "full": "West Bromwich Albion",
+                    "abbreviation": "WBA"
+                  }
+                },
+                "team-stats": {
+                  "score": "1",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "37377",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37377",
+                      "name": {
+                        "first": "John",
+                        "last": "Carver",
+                        "full": "John Carver"
+                      }
+                    }
+                  },
+                  {
+                    "id": "168",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "168",
+                      "name": {
+                        "first": "Alan",
+                        "last": "Pardew",
+                        "full": "Alan Pardew"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919237",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-04-21T15:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Everton vs Newcastle United",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "35"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "37",
+                  "name": {
+                    "full": "Goodison Park"
+                  },
+                  "capacity": "52405",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919237"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919237"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "4"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "11",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Everton",
+                    "abbreviation": "EVE"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "83",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "83",
+                      "name": {
+                        "first": "Sam",
+                        "last": "Allardyce",
+                        "full": "Sam Allardyce"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "4",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Newcastle United",
+                    "abbreviation": "NEW"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "36",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "36",
+                      "name": {
+                        "first": "Rafael",
+                        "last": "Benítez",
+                        "full": "Rafael Benítez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "45702",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45702",
+                      "name": {
+                        "first": "Ian",
+                        "last": "Cathro",
+                        "full": "Ian Cathro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49140",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49140",
+                      "name": {
+                        "first": "Paco",
+                        "last": "de Miguel Moreno",
+                        "full": "Paco de Miguel Moreno"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919236",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-04-21T15:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Chelsea vs Huddersfield Town",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "35"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "35",
+                  "name": {
+                    "full": "Stamford Bridge"
+                  },
+                  "capacity": "24500",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919236"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919236"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "8"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "8",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Chelsea",
+                    "abbreviation": "CHE"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "47128",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47128",
+                      "name": {
+                        "first": "Angelo",
+                        "last": "Alessio",
+                        "full": "Angelo Alessio"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37788",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37788",
+                      "name": {
+                        "first": "Antonio",
+                        "last": "Conte",
+                        "full": "Antonio Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "47129",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47129",
+                      "name": {
+                        "first": "Gianluca",
+                        "last": "Conte",
+                        "full": "Gianluca Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37611",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37611",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Holland",
+                        "full": "Steve Holland"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "38",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Huddersfield Town",
+                    "abbreviation": "HUD"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "41681",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "41681",
+                      "name": {
+                        "first": "David",
+                        "last": "Wagner",
+                        "full": "David Wagner"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919228",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-04-15T13:30:00Z",
+              "event-type": "Regular",
+              "event-name": "Newcastle United vs Arsenal",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "34"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "31",
+                  "name": {
+                    "full": "St. James' Park"
+                  },
+                  "capacity": "60272",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919228"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919228"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "4"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "4",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Newcastle United",
+                    "abbreviation": "NEW"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "36",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "36",
+                      "name": {
+                        "first": "Rafael",
+                        "last": "Benítez",
+                        "full": "Rafael Benítez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "45702",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45702",
+                      "name": {
+                        "first": "Ian",
+                        "last": "Cathro",
+                        "full": "Ian Cathro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49140",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49140",
+                      "name": {
+                        "first": "Paco",
+                        "last": "de Miguel Moreno",
+                        "full": "Paco de Miguel Moreno"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "3",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Arsenal",
+                    "abbreviation": "ARS"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "42456",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "42456",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Bould",
+                        "full": "Steve Bould"
+                      }
+                    }
+                  },
+                  {
+                    "id": "51",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "51",
+                      "name": {
+                        "first": "Arsène",
+                        "last": "Wenger",
+                        "full": "Arsène Wenger"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919229",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-04-14T12:30:00Z",
+              "event-type": "Regular",
+              "event-name": "Southampton vs Chelsea",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "34"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "2370",
+                  "name": {
+                    "full": "St. Mary's Stadium"
+                  },
+                  "capacity": "41798",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919229"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919229"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "8"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "20",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Southampton",
+                    "abbreviation": "SOU"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "41736",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "41736",
+                      "name": {
+                        "first": "Mauricio",
+                        "last": "Pellegrino",
+                        "full": "Mauricio Pellegrino"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "8",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Chelsea",
+                    "abbreviation": "CHE"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "47128",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47128",
+                      "name": {
+                        "first": "Angelo",
+                        "last": "Alessio",
+                        "full": "Angelo Alessio"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37788",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37788",
+                      "name": {
+                        "first": "Antonio",
+                        "last": "Conte",
+                        "full": "Antonio Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "47129",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47129",
+                      "name": {
+                        "first": "Gianluca",
+                        "last": "Conte",
+                        "full": "Gianluca Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37611",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37611",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Holland",
+                        "full": "Steve Holland"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919261",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-05-05T15:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Watford vs Newcastle United",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "37"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "73",
+                  "name": {
+                    "full": "Vicarage Road"
+                  },
+                  "capacity": "52405",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919261"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919261"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "4"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "57",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Watford",
+                    "abbreviation": "WAT"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "40824",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "40824",
+                      "name": {
+                        "first": "Javier",
+                        "last": "Gracia",
+                        "full": "Javier Gracia"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "4",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Newcastle United",
+                    "abbreviation": "NEW"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "36",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "36",
+                      "name": {
+                        "first": "Rafael",
+                        "last": "Benítez",
+                        "full": "Rafael Benítez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "45702",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45702",
+                      "name": {
+                        "first": "Ian",
+                        "last": "Cathro",
+                        "full": "Ian Cathro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49140",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49140",
+                      "name": {
+                        "first": "Paco",
+                        "last": "de Miguel Moreno",
+                        "full": "Paco de Miguel Moreno"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919250",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-04-28T17:30:00Z",
+              "event-type": "Regular",
+              "event-name": "Swansea City vs Chelsea",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "36"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "2867",
+                  "name": {
+                    "full": "Liberty Stadium"
+                  },
+                  "capacity": "41798",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919250"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919250"
+                },
+                {
+                  "formal-name": "previous-four-games-for-team",
+                  "value": "8"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "80",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Swansea City",
+                    "abbreviation": "SWA"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "37411",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37411",
+                      "name": {
+                        "first": "Carlos",
+                        "last": "Carvalhal",
+                        "full": "Carlos Carvalhal"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "8",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Chelsea",
+                    "abbreviation": "CHE"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "47128",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47128",
+                      "name": {
+                        "first": "Angelo",
+                        "last": "Alessio",
+                        "full": "Angelo Alessio"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37788",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37788",
+                      "name": {
+                        "first": "Antonio",
+                        "last": "Conte",
+                        "full": "Antonio Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "47129",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47129",
+                      "name": {
+                        "first": "Gianluca",
+                        "last": "Conte",
+                        "full": "Gianluca Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37611",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37611",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Holland",
+                        "full": "Steve Holland"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          },
+          {
+            "event-metadata": {
+              "event-key": "919268",
+              "event-status": "pre-event",
+              "event-status-note": "pre-event",
+              "start-date-time": "2018-05-13T15:00:00Z",
+              "event-type": "Regular",
+              "event-name": "Newcastle United vs Chelsea",
+              "event-outcome-type": "regular",
+              "event-metadata-soccer": {
+                "week": "38"
+              },
+              "site": {
+                "site-metadata": {
+                  "site-key": "31",
+                  "name": {
+                    "full": "St. James' Park"
+                  },
+                  "capacity": "41798",
+                  "home-location": null
+                }
+              },
+              "date-coverage-type": "event",
+              "season-key": "2017",
+              "sports-property": [
+                {
+                  "formal-name": "league-key",
+                  "value": "8"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919268"
+                },
+                {
+                  "formal-name": "opta-detail-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-timing-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "opta-accuracy-id",
+                  "value": "1"
+                },
+                {
+                  "formal-name": "match-uid",
+                  "value": "919268"
+                }
+              ],
+              "sports-content-codes": {
+                "sports-content-code": [
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "8",
+                    "code-type": "tournament"
+                  },
+                  {
+                    "code-name": "English Premier League",
+                    "code-key": "EN_PR",
+                    "code-type": "league"
+                  },
+                  {
+                    "code-name": "Season 2017/2018",
+                    "code-key": "2017",
+                    "code-type": "season"
+                  }
+                ]
+              }
+            },
+            "team": [
+              {
+                "team-metadata": {
+                  "team-key": "4",
+                  "alignment": "home",
+                  "name": {
+                    "full": "Newcastle United",
+                    "abbreviation": "NEW"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "36",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "36",
+                      "name": {
+                        "first": "Rafael",
+                        "last": "Benítez",
+                        "full": "Rafael Benítez"
+                      }
+                    }
+                  },
+                  {
+                    "id": "45702",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "45702",
+                      "name": {
+                        "first": "Ian",
+                        "last": "Cathro",
+                        "full": "Ian Cathro"
+                      }
+                    }
+                  },
+                  {
+                    "id": "49140",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "49140",
+                      "name": {
+                        "first": "Paco",
+                        "last": "de Miguel Moreno",
+                        "full": "Paco de Miguel Moreno"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "team-metadata": {
+                  "team-key": "8",
+                  "alignment": "away",
+                  "name": {
+                    "full": "Chelsea",
+                    "abbreviation": "CHE"
+                  }
+                },
+                "team-stats": {
+                  "score": "",
+                  "score-opposing": "",
+                  "event-outcome": "undecided"
+                },
+                "associate": [
+                  {
+                    "id": "47128",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47128",
+                      "name": {
+                        "first": "Angelo",
+                        "last": "Alessio",
+                        "full": "Angelo Alessio"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37788",
+                    "associate-metadata": {
+                      "position": "Manager",
+                      "associate-key": "37788",
+                      "name": {
+                        "first": "Antonio",
+                        "last": "Conte",
+                        "full": "Antonio Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "47129",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "47129",
+                      "name": {
+                        "first": "Gianluca",
+                        "last": "Conte",
+                        "full": "Gianluca Conte"
+                      }
+                    }
+                  },
+                  {
+                    "id": "37611",
+                    "associate-metadata": {
+                      "position": "Assistant Manager",
+                      "associate-key": "37611",
+                      "name": {
+                        "first": "Steve",
+                        "last": "Holland",
+                        "full": "Steve Holland"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "officials": null
+          }
+        ]
+      }
+    ]
+  }
+}

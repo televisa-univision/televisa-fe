@@ -1,0 +1,91 @@
+{
+  "uid": "0000016f-13f9-ded6-a76f-f7fb7ec60003",
+  "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech/cto-alphabet",
+  "vertical": "Local",
+  "parent": {
+    "uuid": "0000016f-165c-ded6-a76f-f67fd3d50000",
+    "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech",
+    "name": "tech",
+    "title": "Tech"
+  },
+  "title": "Profesional en enfermería y cuidados de la tercera edad para pacientes crónicos y anacrónicos",
+  "description": "We are looking the CTO Alphabet",
+  "image": {
+    "type": "image",
+    "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+    "title": "Univision Fallback Image",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+        "width": 1200,
+        "height": 630
+      }
+    }
+  },
+  "authors": [],
+  "cardLabel": null,
+  "updateDate": "2019-12-17T19:19:20-05:00",
+  "publishDate": "2019-12-17T08:09:11-05:00",
+  "expirationDate": null,
+  "hierarchy": [
+    {
+      "uuid": "0000016f-13f6-ded6-a76f-f7ff66620000",
+      "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs",
+      "name": "jobs",
+      "title": "Jobs"
+    },
+    {
+      "uuid": "0000016f-165c-ded6-a76f-f67fd3d50000",
+      "uri": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech",
+      "name": "tech",
+      "title": "Tech"
+    }
+  ],
+  "contentPriority": "STANDARD",
+  "jobListingData": {
+    "cityName": "Mountain View, CA",
+    "employment": "FLEX_TIME",
+    "website": "https://abc.xyz"
+  },
+  "leadType": null,
+  "articleType": "JobListing",
+  "body": [
+    {
+      "type": "text",
+      "value": "<p>We are looking for a talented Graphic Designer to cover a 10-month maternity leave role. We seek a high calibre individual with exceptional design skills, strong design principles and leadership qualities. Opportunity to extend the contract during this period for outstanding candidates.</p>"
+    }
+  ],
+  "jwRecommendationChannel": "usbn2Hem",
+  "useWebviewInApps": false,
+  "primaryTag": {
+    "name": "Tech",
+    "link": "https://qa.uvn.psdops.com/local/san-francisco-kdtv/jobs/tech"
+  },
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "http:\/\/uni.vi\/If8j101N2Ce",
+        "isFeedDialog": false,
+        "title": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+        "description": "EN VIVO | Veracruz recibe al Toluca en actividad de la Copa MX. SIGUE EL PARTIDO AQU\u00cd",
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "http:\/\/uni.vi\/If8j101N2Ce",
+        "title": "Profesional en enfermería y cuidados de la tercera edad para pacientes crónicos y anacrónicos",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "http:\/\/uni.vi\/If8j101N2Ce",
+        "message": "EN VIVO | Veracruz vs Toluca en la Copa MX"
+      },
+      "mail": {
+        "subject": "EN VIVO | Veracruz vs Toluca en la Copa MX",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu inter\u00e9s.\n\nEN VIVO | Veracruz vs Toluca en la Copa MX\n\nEncu\u00e9ntralo en este enlace:http:\/\/uni.vi\/If8j101N2Ce\n\nVis\u00edtanos https:\/\/www.univision.com"
+      }
+    }
+  }
+}

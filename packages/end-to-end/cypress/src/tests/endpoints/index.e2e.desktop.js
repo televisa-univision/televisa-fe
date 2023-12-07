@@ -1,0 +1,10 @@
+import './deportes/brackets.e2e.spec';
+import './deportes/events.e2e.spec';
+import './deportes/matches.e2e.spec';
+import './deportes/score-cell.e2e.spec';
+import './deportes/squad.e2e.spec';
+import './deportes/stats.e2e.spec';
+import './poll/poll-api.e2e.spec';
+import './weather/weather.e2e.spec';
+import './weather/weatherAlerts.e2e.spec';
+import './weather/weatherLocation.e2e.spec';

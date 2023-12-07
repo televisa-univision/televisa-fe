@@ -1,0 +1,2192 @@
+{
+  "status": "success",
+  "data": {
+      "uid": "0000014d-5370-dd32-ad6d-53f22e490000",
+      "uri": "/austin/kakw/loteria",
+      "type": "section",
+      "updateDate": "2018-05-02T15:10:47-04:00",
+      "publishDate": "2015-05-14T13:20:50-04:00",
+      "expirationDate": null,
+      "title": "Univision 62 Austin Lotería",
+      "shortTitle": "Univision 62 Austin  Lotería",
+      "description": "Univision 62 Austin Lotería",
+      "shortDescription": null,
+      "richTextDescription": null,
+      "primaryTag": {
+          "name": "Univision 62 Austin",
+          "link": "https://www.univision.com/austin/kakw"
+      },
+      "primaryTopic": "Local",
+      "secondaryTags": [],
+      "adSettings": {
+          "adTagValue": "section_local/austin/univisionaustin62/loteria",
+          "targeting": {
+              "contenttype": "section",
+              "client": "desktop",
+              "tag": [
+                  "local"
+              ]
+          },
+          "disableAds": false,
+          "disableVideoAds": false,
+          "freewheel": {
+              "sectionId": "local_austin_univisionaustin62",
+              "assetId": null,
+              "adValue": null,
+              "test": {
+                  "displayAdProfilePath": "univision_test",
+                  "host": "https://1b656.v.fwmrm.net",
+                  "linkTag2Profile": "111976:univision_linktag2_test",
+                  "networkCode": "111976",
+                  "profilePath": "univision_test_HTML5"
+              },
+              "production": {
+                  "displayAdProfilePath": "univision_test",
+                  "host": "https://1b656.v.fwmrm.net",
+                  "linkTag2Profile": "univision_linktag2_live",
+                  "networkCode": "112214",
+                  "profilePath": "univision_Live_HTML5"
+              }
+          },
+          "dfp": {
+              "adValue": "/local/austin/univisionaustin62",
+              "production": {
+                  "desktopAdValuePrefix": "d.",
+                  "mobileAdValuePrefix": "m.",
+                  "networkCode": "6881"
+              },
+              "test": {
+                  "desktopAdValuePrefix": "d.",
+                  "mobileAdValuePrefix": "m.",
+                  "networkCode": "7009"
+              }
+          }
+      },
+      "tracking": {
+          "tealium": {
+              "account": "main",
+              "environment": "prod",
+              "data": {
+                  "all_tags": [
+                      "univision 62 austin",
+                      "austin",
+                      "local"
+                  ],
+                  "brand": "univision 62 austin",
+                  "content_created_date": "1431624050894",
+                  "content_creator": "00000147-f450-de63-a157-fe5b202e0000",
+                  "content_id": "0000014d-5370-dd32-ad6d-53f22e490000",
+                  "content_modified_date": "1525288247446",
+                  "content_priority": "standard",
+                  "content_type": "section",
+                  "environment_name": "production",
+                  "language": "es",
+                  "market": "austin",
+                  "page_name": "local:univision 62 austin:section:univision 62 austin  loteria",
+                  "parent_tags": [
+                      "univision 62 austin",
+                      "austin",
+                      "local"
+                  ],
+                  "parent_topic": "local",
+                  "permalink": "https://www.univision.com/austin/kakw/loteria",
+                  "portal_theme": "local_tv",
+                  "primary_tag": "univision 62 austin",
+                  "primary_tag_uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                  "primary_tag_en": "univision 62 austin",
+                  "promo_title": "univision 62 austin loteria",
+                  "publisher_tags": [
+                      "univision 62 austin",
+                      "local"
+                  ],
+                  "short_title": "univision 62 austin  loteria",
+                  "short_title_en": "univision 62 austin  loteria",
+                  "station_call_letters": "kakw",
+                  "station_name": "univision 62 austin",
+                  "station_type": "tvstation",
+                  "tags_en": [
+                      "univision 62 austin",
+                      "austin",
+                      "local"
+                  ],
+                  "title": "univision 62 austin loteria",
+                  "title_en": "univision 62 austin loteria",
+                  "topics": [
+                      "local"
+                  ],
+                  "uci_division": "local",
+                  "website": "univision",
+                  "uni_platform": "Website"
+              }
+          },
+          "nielsen": {
+              "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+              "vcid": "c05",
+              "environment": "prod",
+              "primaryTopic": "Local"
+          }
+      },
+      "sharing": {
+          "options": {
+              "facebook": {
+                  "url": "https://www.univision.com/austin/kakw/loteria",
+                  "redirectUrl": "https://www.univision.com/austin/kakw/loteria",
+                  "isFeedDialog": false,
+                  "baseUrl": null,
+                  "appId": "645138725541385",
+                  "title": "Univision 62 Austin  Lotería",
+                  "description": null,
+                  "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+              },
+              "twitter": {
+                  "url": "https://www.univision.com/austin/kakw/loteria",
+                  "title": "Univision 62 Austin  Lotería",
+                  "via": "Univision62"
+              },
+              "whatsapp": {
+                  "url": "https://www.univision.com/austin/kakw/loteria",
+                  "message": "Univision 62 Austin  Lotería"
+              },
+              "mail": {
+                  "subject": "Univision 62 Austin  Lotería",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nUnivision 62 Austin  Lotería\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/loteria\n\nVisitamos www.univision.com"
+              }
+          }
+      },
+      "metaTagData": {
+          "settings": null,
+          "googlePlus": {
+              "author": null,
+              "publisher": null
+          },
+          "openGraph": {
+              "type": null,
+              "title": "Univision 62 Austin  Lotería",
+              "description": "Lotería - Univision 62 Austin Lotería",
+              "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "siteName": "Univision",
+              "url": "https://www.univision.com/austin/kakw/loteria"
+          },
+          "twitter": {
+              "card": "summary_large_image",
+              "title": "Univision 62 Austin  Lotería",
+              "description": "Lotería - Univision 62 Austin Lotería",
+              "creator": null,
+              "imageUrl": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+          },
+          "facebook": {
+              "pages": "259955926518,173155703431,174725429795,130815470261839"
+          },
+          "extras": [],
+          "additionalSeoKeywords": []
+      },
+      "seo": {
+          "title": "Univision 62 Austin Lotería - Univision 62 Austin - Univision",
+          "description": "Univision 62 Austin Lotería",
+          "keywords": [],
+          "robots": [],
+          "tagHierarchy": [
+              {
+                  "@id": "https://www.univision.com/austin/kakw/loteria",
+                  "name": "Univision 62 Austin Lotería",
+                  "image": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+              },
+              {
+                  "@id": "https://www.univision.com/noticias",
+                  "name": "Noticias",
+                  "image": "https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+              },
+              {
+                  "@id": "https://www.univision.com",
+                  "name": "Univision.com",
+                  "image": "https://cdn3.uvnimg.com/a8/a8/a07b20854d2f848ac3d26d57fce4/univisionlogo.jpg"
+              }
+          ]
+      },
+      "brandable": {
+          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+          "uri": "https://www.univision.com/austin/kakw",
+          "type": "tvstation",
+          "updateDate": "2018-05-03T16:35:44-04:00",
+          "publishDate": "2015-04-29T17:47:35-04:00",
+          "title": "Univision 62 Austin",
+          "shortTitle": "Univision 62 Austin",
+          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+          "shortDescription": "Univision 62 Austin",
+          "richTextDescription": null,
+          "image": {
+              "type": "image",
+              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+              "caption": "",
+              "credit": null,
+              "renditions": {
+                  "original": {
+                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                      "width": 158,
+                      "height": 98
+                  }
+              }
+          },
+          "primaryTag": {
+              "name": "Univision 62 Austin",
+              "link": "https://www.univision.com/austin/kakw"
+          },
+          "primaryTopic": "Local",
+          "secondaryTags": [],
+          "localMarketFooter": {
+              "title": "PÁGINAS DE AUSTIN",
+              "links": [
+                  {
+                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                      "uri": null,
+                      "type": "externallink",
+                      "versionCreated": null,
+                      "text": "EEO Report Austin",
+                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                      "target": "_blank"
+                  },
+                  {
+                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                      "uri": null,
+                      "type": "externallink",
+                      "versionCreated": null,
+                      "text": "Radio EEO Report",
+                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                      "target": "_blank"
+                  },
+                  {
+                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                      "uri": null,
+                      "type": "externallink",
+                      "versionCreated": null,
+                      "text": "Public Files KAKW",
+                      "href": "https://publicfiles.fcc.gov/",
+                      "target": "_blank"
+                  },
+                  {
+                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                      "uri": null,
+                      "type": "externallink",
+                      "versionCreated": null,
+                      "text": "Aviso de subtítulos ",
+                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                      "target": "_blank"
+                  }
+              ]
+          },
+          "tvStation": {
+              "uri": "/austin/kakw",
+              "call": "KAKW",
+              "localMarket": {
+                  "title": "Austin"
+              },
+              "logo": {
+                  "type": "image",
+                  "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                  "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                  "caption": "",
+                  "credit": null,
+                  "renditions": {
+                      "original": {
+                          "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                          "width": 158,
+                          "height": 98
+                      },
+                      "16x9-mobile": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/b3d05ef/2147483647/crop/158x89%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 480,
+                          "height": 270
+                      },
+                      "16x9-loading": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/ed9ed28/2147483647/crop/158x90%2B0%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 30,
+                          "height": 17
+                      },
+                      "16x9-sm": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/ec29d88/2147483647/crop/158x89%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 246,
+                          "height": 138
+                      },
+                      "16x9-tablet": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/802d253/2147483647/crop/158x89%2B0%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 1024,
+                          "height": 576
+                      },
+                      "16x9": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/22253c7/2147483647/crop/158x89%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 1240,
+                          "height": 698
+                      },
+                      "16x9-med": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/b1ebf2d/2147483647/crop/158x89%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 400,
+                          "height": 225
+                      }
+                  }
+              },
+              "headerLogo": {
+                  "type": "image",
+                  "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                  "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                  "caption": "",
+                  "credit": null,
+                  "renditions": {
+                      "original": {
+                          "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                          "width": 158,
+                          "height": 98
+                      },
+                      "16x9-mobile": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/b3d05ef/2147483647/crop/158x89%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 480,
+                          "height": 270
+                      },
+                      "16x9-loading": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/ed9ed28/2147483647/crop/158x90%2B0%2B0/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 30,
+                          "height": 17
+                      },
+                      "16x9-sm": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/ec29d88/2147483647/crop/158x89%2B0%2B0/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 246,
+                          "height": 138
+                      },
+                      "16x9-tablet": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/802d253/2147483647/crop/158x89%2B0%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 1024,
+                          "height": 576
+                      },
+                      "16x9": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/22253c7/2147483647/crop/158x89%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 1240,
+                          "height": 698
+                      },
+                      "16x9-med": {
+                          "href": "https://cdn4.uvnimg.com/dims4/default/b1ebf2d/2147483647/crop/158x89%2B0%2B0/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F44%2F18%2Fa7edcb1d4b8e9dd6656a9e8c7d47%2Fdesktop-univision-62-austin-158x98.png",
+                          "width": 400,
+                          "height": 225
+                      }
+                  }
+              },
+              "alternativeLogo": null,
+              "contact": {
+                  "aboutStation": "/austin/kakw/somos-univision62"
+              },
+              "socialNetworks": [
+                  {
+                      "name": "FACEBOOK",
+                      "href": "https://www.facebook.com/univision62/",
+                      "text": "Univision 62 Austin Facebook "
+                  },
+                  {
+                      "name": "TWITTER",
+                      "href": "https://twitter.com/Univision62",
+                      "text": "Univision 62 Austin Twitter"
+                  }
+              ]
+          },
+          "adValue": "/local/austin/univisionaustin62"
+      },
+      "tagHierarchy": [
+          {
+              "name": "local",
+              "url": "https://www.univision.com/temas/local"
+          },
+          {
+              "name": "austin",
+              "url": null
+          },
+          {
+              "name": "univision 62 austin",
+              "url": "https://www.univision.com/austin/kakw"
+          }
+      ],
+      "widgets": [
+          {
+              "type": "AllVideoPlaylistVideo",
+              "settings": {
+                  "uid": "8c3fdef6-03af-4da5-b3ae-0cb4ebb4946f",
+                  "type": "AllVideoPlaylistVideo",
+                  "title": "Videos"
+              },
+              "contents": [
+                  {
+                      "uid": "00000161-a076-df31-a96f-abfef6220000",
+                      "uri": "/austin/kakw/masacre-en-escuela-de-florida-reaviva-el-debate-del-acceso-a-las-armas-video",
+                      "type": "video",
+                      "updateDate": "2018-02-16T16:21:40-05:00",
+                      "publishDate": "2018-02-15T18:37:00-05:00",
+                      "expirationDate": "2028-02-15T18:37:00-05:00",
+                      "title": "Masacre en escuela de Florida reaviva el debate del acceso a las armas",
+                      "shortTitle": "Masacre en escuela de Florida reaviva el debate del acceso a las armas",
+                      "description": "Ante la masacre que dejó 17 muertos, continúa la polémica del acceso a las armas automáticas usadas en estos incidentes.",
+                      "shortDescription": "Ante la masacre que dejó 17 muertos, continúa la polémica del acceso a las armas automáticas usadas en estos incidentes.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-a07e-df31-a96f-abfe7dec0001",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn4.uvnimg.com/c1/94/05094e5146b1b966b3099cecad9d/78055576daa24d3b9df3d7d81596dcd6",
+                                  "width": 1920,
+                                  "height": 1080
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn2.uvnimg.com/dims4/default/bd2fadb/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F94%2F05094e5146b1b966b3099cecad9d%2F78055576daa24d3b9df3d7d81596dcd6",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn2.uvnimg.com/dims4/default/5f9cff1/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F94%2F05094e5146b1b966b3099cecad9d%2F78055576daa24d3b9df3d7d81596dcd6",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn2.uvnimg.com/dims4/default/d3c927e/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F94%2F05094e5146b1b966b3099cecad9d%2F78055576daa24d3b9df3d7d81596dcd6",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn2.uvnimg.com/dims4/default/6617f39/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F94%2F05094e5146b1b966b3099cecad9d%2F78055576daa24d3b9df3d7d81596dcd6",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn2.uvnimg.com/dims4/default/1e3b821/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F94%2F05094e5146b1b966b3099cecad9d%2F78055576daa24d3b9df3d7d81596dcd6",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn2.uvnimg.com/dims4/default/1990d00/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc1%2F94%2F05094e5146b1b966b3099cecad9d%2F78055576daa24d3b9df3d7d81596dcd6",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [],
+                      "mcpid": "3481088",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/masacre-en-escuela-de-florida-reaviva-el-debate-del-acceso-a-las-armas-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/masacre-en-escuela-de-florida-reaviva-el-debate-del-acceso-a-las-armas-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Masacre en escuela de Florida reaviva el debate del acceso a las armas",
+                                  "description": "Ante la masacre que dejó 17 muertos, continúa la polémica del acceso a las armas automáticas usadas en estos incidentes.",
+                                  "imageUrl": "https://cdn4.uvnimg.com/c1/94/05094e5146b1b966b3099cecad9d/78055576daa24d3b9df3d7d81596dcd6"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/masacre-en-escuela-de-florida-reaviva-el-debate-del-acceso-a-las-armas-video",
+                                  "title": "Masacre en escuela de Florida reaviva el debate del acceso a las armas",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/masacre-en-escuela-de-florida-reaviva-el-debate-del-acceso-a-las-armas-video",
+                                  "message": "Masacre en escuela de Florida reaviva el debate del acceso a las armas"
+                              },
+                              "mail": {
+                                  "subject": "Masacre en escuela de Florida reaviva el debate del acceso a las armas",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nMasacre en escuela de Florida reaviva el debate del acceso a las armas\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/masacre-en-escuela-de-florida-reaviva-el-debate-del-acceso-a-las-armas-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "2:36",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-96c7-d943-a57f-9fc7fb730000",
+                      "uri": "/austin/kakw/reportaje-especial-amor-movil-video",
+                      "type": "video",
+                      "updateDate": "2018-02-14T19:09:42-05:00",
+                      "publishDate": "2018-02-14T18:57:00-05:00",
+                      "expirationDate": "2028-02-14T18:57:00-05:00",
+                      "title": "Reportaje especial: Amor móvil",
+                      "shortTitle": "Reportaje especial: Amor móvil",
+                      "description": "Las plataformas en línea como Match o Tinder ponen a la tecnología al alcance del corazón, pero ¿realmente funcionan?",
+                      "shortDescription": "Las plataformas en línea como Match o Tinder ponen a la tecnología al alcance del corazón, pero ¿realmente funcionan?",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-96cb-d943-a57f-9fcf9cef0000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn4.uvnimg.com/d0/d6/d6d2ce5b4c529cd14b62c27d5ceb/46d783d77bbc4178a635740c3d7c1385",
+                                  "width": 1920,
+                                  "height": 1080
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/1365ca5/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fd0%2Fd6%2Fd6d2ce5b4c529cd14b62c27d5ceb%2F46d783d77bbc4178a635740c3d7c1385",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/e21e823/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fd0%2Fd6%2Fd6d2ce5b4c529cd14b62c27d5ceb%2F46d783d77bbc4178a635740c3d7c1385",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/db200b0/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fd0%2Fd6%2Fd6d2ce5b4c529cd14b62c27d5ceb%2F46d783d77bbc4178a635740c3d7c1385",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/8c430ea/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fd0%2Fd6%2Fd6d2ce5b4c529cd14b62c27d5ceb%2F46d783d77bbc4178a635740c3d7c1385",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/fa1ef0f/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fd0%2Fd6%2Fd6d2ce5b4c529cd14b62c27d5ceb%2F46d783d77bbc4178a635740c3d7c1385",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/9cef927/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fd0%2Fd6%2Fd6d2ce5b4c529cd14b62c27d5ceb%2F46d783d77bbc4178a635740c3d7c1385",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [],
+                      "mcpid": "3480449",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/reportaje-especial-amor-movil-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/reportaje-especial-amor-movil-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Reportaje especial: Amor móvil",
+                                  "description": "Las plataformas en línea como Match o Tinder ponen a la tecnología al alcance del corazón, pero ¿realmente funcionan?",
+                                  "imageUrl": "https://cdn4.uvnimg.com/d0/d6/d6d2ce5b4c529cd14b62c27d5ceb/46d783d77bbc4178a635740c3d7c1385"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/reportaje-especial-amor-movil-video",
+                                  "title": "Reportaje especial: Amor móvil",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/reportaje-especial-amor-movil-video",
+                                  "message": "Reportaje especial: Amor móvil"
+                              },
+                              "mail": {
+                                  "subject": "Reportaje especial: Amor móvil",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nReportaje especial: Amor móvil\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/reportaje-especial-amor-movil-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "5:01",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-6d79-dab3-a56b-7fff8ce50000",
+                      "uri": "/austin/kakw/greg-abbott-busca-combatir-el-trafico-humano-video",
+                      "type": "video",
+                      "updateDate": "2018-02-06T18:39:04-05:00",
+                      "publishDate": "2018-02-06T18:29:00-05:00",
+                      "expirationDate": "2028-02-06T18:29:00-05:00",
+                      "title": "Greg Abbott busca combatir el tráfico humano",
+                      "shortTitle": "Greg Abbott busca combatir el tráfico humano",
+                      "description": "El gobernador de Texas, Greg Abbott, trabaja en un plan para combatir el tráfico humano, reforzar los protocolos de denuncias de hostigamiento sexual en lugares de trabajo y castigar a los explotadores sexuales.",
+                      "shortDescription": "El gobernador de Texas, Greg Abbott, trabaja en un plan para combatir el tráfico humano, reforzar los protocolos de denuncias de hostigamiento sexual en lugares de trabajo y castigar a los explotadores sexuales.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-6d7c-dab3-a56b-7ffeaebc0000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn3.uvnimg.com/b9/a6/2f9c763546f18998bd67defc6230/9cb1d27900d546f3827723dfa01c455f",
+                                  "width": 1920,
+                                  "height": 1080
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/28c8d74/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb9%2Fa6%2F2f9c763546f18998bd67defc6230%2F9cb1d27900d546f3827723dfa01c455f",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/1ee9593/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb9%2Fa6%2F2f9c763546f18998bd67defc6230%2F9cb1d27900d546f3827723dfa01c455f",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/2b19308/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb9%2Fa6%2F2f9c763546f18998bd67defc6230%2F9cb1d27900d546f3827723dfa01c455f",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/22247ca/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb9%2Fa6%2F2f9c763546f18998bd67defc6230%2F9cb1d27900d546f3827723dfa01c455f",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/b8d469e/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb9%2Fa6%2F2f9c763546f18998bd67defc6230%2F9cb1d27900d546f3827723dfa01c455f",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/4c8a66a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2Fb9%2Fa6%2F2f9c763546f18998bd67defc6230%2F9cb1d27900d546f3827723dfa01c455f",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [],
+                      "mcpid": "3477167",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/greg-abbott-busca-combatir-el-trafico-humano-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/greg-abbott-busca-combatir-el-trafico-humano-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Greg Abbott busca combatir el tráfico humano",
+                                  "description": "El gobernador de Texas, Greg Abbott, trabaja en un plan para combatir el tráfico humano, reforzar los protocolos de denuncias de hostigamiento sexual en lugares de trabajo y castigar a los explotadores sexuales.",
+                                  "imageUrl": "https://cdn3.uvnimg.com/b9/a6/2f9c763546f18998bd67defc6230/9cb1d27900d546f3827723dfa01c455f"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/greg-abbott-busca-combatir-el-trafico-humano-video",
+                                  "title": "Greg Abbott busca combatir el tráfico humano",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/greg-abbott-busca-combatir-el-trafico-humano-video",
+                                  "message": "Greg Abbott busca combatir el tráfico humano"
+                              },
+                              "mail": {
+                                  "subject": "Greg Abbott busca combatir el tráfico humano",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nGreg Abbott busca combatir el tráfico humano\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/greg-abbott-busca-combatir-el-trafico-humano-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "1:47",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-58ea-d7ec-a17f-7dfe841b0000",
+                      "uri": "/austin/kakw/arrestan-a-tres-estudiantes-por-distribuir-fotos-sexuales-de-sus-companeras-de-clase-video",
+                      "type": "video",
+                      "updateDate": "2018-02-03T10:07:25-05:00",
+                      "publishDate": "2018-02-02T18:41:00-05:00",
+                      "expirationDate": "2028-02-02T18:41:00-05:00",
+                      "title": "Arrestan a tres estudiantes por distribuir fotos sexuales de sus compañeras de clase",
+                      "shortTitle": "Arrestan a tres estudiantes por distribuir fotos sexuales de sus compañeras de clase",
+                      "description": "Un reporte de una preparatoria en Austin, Texas inició la investigación que concluyó con el arresto de estos tres menores de edad.",
+                      "shortDescription": "Un reporte de una preparatoria en Austin, Texas inició la investigación que concluyó con el arresto de estos tres menores de edad.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-5c35-d7ec-a17f-7d752f4e0000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn2.uvnimg.com/da/14/b82c7a714b27ab9c517a38b60c1a/ea9307aa84954f4a9d63486afc281ce2",
+                                  "width": 1920,
+                                  "height": 1080
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/0437069/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fda%2F14%2Fb82c7a714b27ab9c517a38b60c1a%2Fea9307aa84954f4a9d63486afc281ce2",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/f83a0ea/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fda%2F14%2Fb82c7a714b27ab9c517a38b60c1a%2Fea9307aa84954f4a9d63486afc281ce2",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/19dc935/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fda%2F14%2Fb82c7a714b27ab9c517a38b60c1a%2Fea9307aa84954f4a9d63486afc281ce2",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/14dd61f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fda%2F14%2Fb82c7a714b27ab9c517a38b60c1a%2Fea9307aa84954f4a9d63486afc281ce2",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/a89c3cf/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fda%2F14%2Fb82c7a714b27ab9c517a38b60c1a%2Fea9307aa84954f4a9d63486afc281ce2",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/2e3b079/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2Fda%2F14%2Fb82c7a714b27ab9c517a38b60c1a%2Fea9307aa84954f4a9d63486afc281ce2",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [
+                          {
+                              "name": "Acoso Cibernético",
+                              "link": "/temas/acoso-cibernetico"
+                          }
+                      ],
+                      "mcpid": "3475751",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/arrestan-a-tres-estudiantes-por-distribuir-fotos-sexuales-de-sus-companeras-de-clase-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/arrestan-a-tres-estudiantes-por-distribuir-fotos-sexuales-de-sus-companeras-de-clase-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Arrestan a tres estudiantes por distribuir fotos sexuales de sus compañeras de clase",
+                                  "description": "Un reporte de una preparatoria en Austin, Texas inició la investigación que concluyó con el arresto de estos tres menores de edad.",
+                                  "imageUrl": "https://cdn2.uvnimg.com/da/14/b82c7a714b27ab9c517a38b60c1a/ea9307aa84954f4a9d63486afc281ce2"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/arrestan-a-tres-estudiantes-por-distribuir-fotos-sexuales-de-sus-companeras-de-clase-video",
+                                  "title": "Arrestan a tres estudiantes por distribuir fotos sexuales de sus compañeras de clase",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/arrestan-a-tres-estudiantes-por-distribuir-fotos-sexuales-de-sus-companeras-de-clase-video",
+                                  "message": "Arrestan a tres estudiantes por distribuir fotos sexuales de sus compañeras de clase"
+                              },
+                              "mail": {
+                                  "subject": "Arrestan a tres estudiantes por distribuir fotos sexuales de sus compañeras de clase",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nArrestan a tres estudiantes por distribuir fotos sexuales de sus compañeras de clase\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/arrestan-a-tres-estudiantes-por-distribuir-fotos-sexuales-de-sus-companeras-de-clase-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "1:47",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-33ba-ddae-a7ff-33bf9d690000",
+                      "uri": "/austin/kakw/arrestan-a-una-adolescente-de-17-anos-acusada-de-apunalar-en-la-cara-a-otra-mujer-video",
+                      "type": "video",
+                      "updateDate": "2018-01-26T13:31:25-05:00",
+                      "publishDate": "2018-01-26T02:24:00-05:00",
+                      "expirationDate": "2028-01-26T13:24:00-05:00",
+                      "title": "Arrestan a una adolescente de 17 años acusada de apuñalar en la cara a otra mujer",
+                      "shortTitle": "Arrestan a una adolescente de 17 años acusada de apuñalar en la cara a otra mujer",
+                      "description": "Las autoridades investigan un caso en el que una mujer de 17 años presuntamente apuñaló en la cara a otra mujer con unas tijeras. El ataque podría provocar que la víctima pierda los dos ojos.",
+                      "shortDescription": "Las autoridades investigan un caso en el que una mujer de 17 años presuntamente apuñaló en la cara a otra mujer con unas tijeras. El ataque podría provocar que la víctima pierda los dos ojos.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-33bd-ddae-a7ff-33bd12c80000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn1.uvnimg.com/f3/35/555494b94044aa059a940ef9e3a2/088ad8cde7364226bcb7d0415d609424",
+                                  "width": 1509,
+                                  "height": 982
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/07e8754/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ff3%2F35%2F555494b94044aa059a940ef9e3a2%2F088ad8cde7364226bcb7d0415d609424",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/ec8de68/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ff3%2F35%2F555494b94044aa059a940ef9e3a2%2F088ad8cde7364226bcb7d0415d609424",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/33ab31d/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ff3%2F35%2F555494b94044aa059a940ef9e3a2%2F088ad8cde7364226bcb7d0415d609424",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/1afe314/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ff3%2F35%2F555494b94044aa059a940ef9e3a2%2F088ad8cde7364226bcb7d0415d609424",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/ef2b593/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ff3%2F35%2F555494b94044aa059a940ef9e3a2%2F088ad8cde7364226bcb7d0415d609424",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/24d9685/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Ff3%2F35%2F555494b94044aa059a940ef9e3a2%2F088ad8cde7364226bcb7d0415d609424",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [
+                          {
+                              "name": "Sospechosos",
+                              "link": "/temas/sospechosos"
+                          },
+                          {
+                              "name": "Violencia",
+                              "link": "/temas/violencia"
+                          },
+                          {
+                              "name": "Heridos",
+                              "link": "/temas/heridos"
+                          },
+                          {
+                              "name": "Arrestos",
+                              "link": "/temas/arrestos"
+                          }
+                      ],
+                      "mcpid": "3472665",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/arrestan-a-una-adolescente-de-17-anos-acusada-de-apunalar-en-la-cara-a-otra-mujer-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/arrestan-a-una-adolescente-de-17-anos-acusada-de-apunalar-en-la-cara-a-otra-mujer-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Arrestan a una adolescente de 17 años acusada de apuñalar en la cara a otra mujer",
+                                  "description": "Las autoridades investigan un caso en el que una mujer de 17 años presuntamente apuñaló en la cara a otra mujer con unas tijeras. El ataque podría provocar que la víctima pierda los dos ojos.",
+                                  "imageUrl": "https://cdn1.uvnimg.com/f3/35/555494b94044aa059a940ef9e3a2/088ad8cde7364226bcb7d0415d609424"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/arrestan-a-una-adolescente-de-17-anos-acusada-de-apunalar-en-la-cara-a-otra-mujer-video",
+                                  "title": "Arrestan a una adolescente de 17 años acusada de apuñalar en la cara a otra mujer",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/arrestan-a-una-adolescente-de-17-anos-acusada-de-apunalar-en-la-cara-a-otra-mujer-video",
+                                  "message": "Arrestan a una adolescente de 17 años acusada de apuñalar en la cara a otra mujer"
+                              },
+                              "mail": {
+                                  "subject": "Arrestan a una adolescente de 17 años acusada de apuñalar en la cara a otra mujer",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nArrestan a una adolescente de 17 años acusada de apuñalar en la cara a otra mujer\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/arrestan-a-una-adolescente-de-17-anos-acusada-de-apunalar-en-la-cara-a-otra-mujer-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "1:37",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-33af-ddae-a7ff-33afd8220000",
+                      "uri": "/austin/kakw/una-madre-de-austin-que-perdio-todo-en-un-incendio-pide-la-ayuda-de-la-comunidad-para-empezar-de-nuevo-video",
+                      "type": "video",
+                      "updateDate": "2018-01-26T13:19:47-05:00",
+                      "publishDate": "2018-01-26T02:09:00-05:00",
+                      "expirationDate": "2028-01-26T13:09:00-05:00",
+                      "title": "Una madre de Austin que perdió todo en un incendio pide la ayuda de la comunidad para empezar de nuevo",
+                      "shortTitle": "Una madre de Austin que perdió todo en un incendio pide la ayuda de la comunidad para empezar de nuevo",
+                      "description": "Anahí y su hija de 6 años, ambas sobrevivientes de violencia doméstica, llevaban tres semanas viviendo en su casa cuando este se incendió dejándolas sin nada.",
+                      "shortDescription": "Anahí y su hija de 6 años, ambas sobrevivientes de violencia doméstica, llevaban tres semanas viviendo en su casa cuando este se incendió dejándolas sin nada.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-33b2-ddae-a7ff-33bf6d7d0000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn4.uvnimg.com/57/5d/4ecc991346d7b2b0c3689244231e/47158391cc4746b5bc05ce5995393cb4",
+                                  "width": 1505,
+                                  "height": 853
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/23aecaf/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F57%2F5d%2F4ecc991346d7b2b0c3689244231e%2F47158391cc4746b5bc05ce5995393cb4",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/1f34505/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F57%2F5d%2F4ecc991346d7b2b0c3689244231e%2F47158391cc4746b5bc05ce5995393cb4",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/aeb8903/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F57%2F5d%2F4ecc991346d7b2b0c3689244231e%2F47158391cc4746b5bc05ce5995393cb4",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/122fea2/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F57%2F5d%2F4ecc991346d7b2b0c3689244231e%2F47158391cc4746b5bc05ce5995393cb4",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/2544ee7/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F57%2F5d%2F4ecc991346d7b2b0c3689244231e%2F47158391cc4746b5bc05ce5995393cb4",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/a9e7d34/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2F57%2F5d%2F4ecc991346d7b2b0c3689244231e%2F47158391cc4746b5bc05ce5995393cb4",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [
+                          {
+                              "name": "Interés Humano",
+                              "link": "/temas/interes-humano"
+                          }
+                      ],
+                      "mcpid": "3472657",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/una-madre-de-austin-que-perdio-todo-en-un-incendio-pide-la-ayuda-de-la-comunidad-para-empezar-de-nuevo-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/una-madre-de-austin-que-perdio-todo-en-un-incendio-pide-la-ayuda-de-la-comunidad-para-empezar-de-nuevo-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Una madre de Austin que perdió todo en un incendio pide la ayuda de la comunidad para empezar de nuevo",
+                                  "description": "Anahí y su hija de 6 años, ambas sobrevivientes de violencia doméstica, llevaban tres semanas viviendo en su casa cuando este se incendió dejándolas sin nada.",
+                                  "imageUrl": "https://cdn4.uvnimg.com/57/5d/4ecc991346d7b2b0c3689244231e/47158391cc4746b5bc05ce5995393cb4"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/una-madre-de-austin-que-perdio-todo-en-un-incendio-pide-la-ayuda-de-la-comunidad-para-empezar-de-nuevo-video",
+                                  "title": "Una madre de Austin que perdió todo en un incendio pide la ayuda de la comunidad para empezar de nuevo",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/una-madre-de-austin-que-perdio-todo-en-un-incendio-pide-la-ayuda-de-la-comunidad-para-empezar-de-nuevo-video",
+                                  "message": "Una madre de Austin que perdió todo en un incendio pide la ayuda de la comunidad para empezar de nuevo"
+                              },
+                              "mail": {
+                                  "subject": "Una madre de Austin que perdió todo en un incendio pide la ayuda de la comunidad para empezar de nuevo",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nUna madre de Austin que perdió todo en un incendio pide la ayuda de la comunidad para empezar de nuevo\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/una-madre-de-austin-que-perdio-todo-en-un-incendio-pide-la-ayuda-de-la-comunidad-para-empezar-de-nuevo-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "2:44",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-33c9-ddae-a7ff-33cd323a0000",
+                      "uri": "/austin/kakw/el-consulado-de-mexico-en-austin-ofrece-becas-para-ayudar-a-pagar-la-universidad-video",
+                      "type": "video",
+                      "updateDate": "2018-01-26T13:50:55-05:00",
+                      "publishDate": "2018-01-26T01:34:00-05:00",
+                      "expirationDate": "2028-01-26T13:34:00-05:00",
+                      "title": "El consulado de México en Austin ofrece becas para ayudar a pagar la universidad",
+                      "shortTitle": "El consulado de México en Austin ofrece becas para ayudar a pagar la universidad",
+                      "description": "El cónsul de México en Austin, Carlos Gutiérrez, habló con Univision sobre las becas que ofrecen para los inmigrantes mexicanos que necesitan ayuda para costear a la universidad.",
+                      "shortDescription": "El cónsul de México en Austin, Carlos Gutiérrez, habló con Univision sobre las becas que ofrecen para los inmigrantes mexicanos que necesitan ayuda para costear a la universidad.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-33ce-ddae-a7ff-33cfea7e0000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn3.uvnimg.com/91/30/79215aa6467fb5187cab6e63e79a/a6fc4562b02d429fb8f8c02fcfe20031",
+                                  "width": 1920,
+                                  "height": 1080
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/083ed25/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F91%2F30%2F79215aa6467fb5187cab6e63e79a%2Fa6fc4562b02d429fb8f8c02fcfe20031",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/616f48e/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F91%2F30%2F79215aa6467fb5187cab6e63e79a%2Fa6fc4562b02d429fb8f8c02fcfe20031",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/ce07afc/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F91%2F30%2F79215aa6467fb5187cab6e63e79a%2Fa6fc4562b02d429fb8f8c02fcfe20031",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/22ec9dd/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F91%2F30%2F79215aa6467fb5187cab6e63e79a%2Fa6fc4562b02d429fb8f8c02fcfe20031",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/0ed3407/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F91%2F30%2F79215aa6467fb5187cab6e63e79a%2Fa6fc4562b02d429fb8f8c02fcfe20031",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn4.uvnimg.com/dims4/default/4d66119/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F91%2F30%2F79215aa6467fb5187cab6e63e79a%2Fa6fc4562b02d429fb8f8c02fcfe20031",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [
+                          {
+                              "name": "Inmigración",
+                              "link": "/temas/inmigracion"
+                          },
+                          {
+                              "name": "Becas",
+                              "link": "/temas/becas"
+                          }
+                      ],
+                      "mcpid": "3472669",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/el-consulado-de-mexico-en-austin-ofrece-becas-para-ayudar-a-pagar-la-universidad-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/el-consulado-de-mexico-en-austin-ofrece-becas-para-ayudar-a-pagar-la-universidad-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "El consulado de México en Austin ofrece becas para ayudar a pagar la universidad",
+                                  "description": "El cónsul de México en Austin, Carlos Gutiérrez, habló con Univision sobre las becas que ofrecen para los inmigrantes mexicanos que necesitan ayuda para costear a la universidad.",
+                                  "imageUrl": "https://cdn3.uvnimg.com/91/30/79215aa6467fb5187cab6e63e79a/a6fc4562b02d429fb8f8c02fcfe20031"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/el-consulado-de-mexico-en-austin-ofrece-becas-para-ayudar-a-pagar-la-universidad-video",
+                                  "title": "El consulado de México en Austin ofrece becas para ayudar a pagar la universidad",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/el-consulado-de-mexico-en-austin-ofrece-becas-para-ayudar-a-pagar-la-universidad-video",
+                                  "message": "El consulado de México en Austin ofrece becas para ayudar a pagar la universidad"
+                              },
+                              "mail": {
+                                  "subject": "El consulado de México en Austin ofrece becas para ayudar a pagar la universidad",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEl consulado de México en Austin ofrece becas para ayudar a pagar la universidad\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/el-consulado-de-mexico-en-austin-ofrece-becas-para-ayudar-a-pagar-la-universidad-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "4:23",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-241d-de83-a5f3-efddec230000",
+                      "uri": "/austin/kakw/actos-de-exceso-de-fuerza-de-policias-de-austin-llevan-a-la-policia-de-la-ciudad-a-plantear-opciones-de-arresto-para-evitar-la-violencia-video",
+                      "type": "video",
+                      "updateDate": "2018-01-23T13:41:03-05:00",
+                      "publishDate": "2018-01-23T03:37:00-05:00",
+                      "expirationDate": "2028-01-23T12:37:00-05:00",
+                      "title": "Casos de exceso de fuerza de policías de Austin llevan a la Policía de la ciudad a plantear opciones de arresto para evitar la violencia ",
+                      "shortTitle": "Casos de exceso de fuerza de policías de Austin llevan a la Policía de la ciudad a plantear opciones de arresto para evitar la violencia ",
+                      "description": "Oficiales de la Policía de Austin discutieron este lunes las distintas formas de actuar cuando tengan que arrestar a una persona sin llegar a la violencia.",
+                      "shortDescription": "Oficiales de la Policía de Austin discutieron este lunes las distintas formas de actuar cuando tengan que arrestar a una persona sin llegar a la violencia.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-241e-de83-a5f3-efdfff470000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn3.uvnimg.com/25/23/d5c79db34819a2c355f9680ed1be/08404938e84349c1ab4b47ccdcfdba6f",
+                                  "width": 1241,
+                                  "height": 801
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/af7344e/2147483647/crop/1241x698%2B0%2B24/resize/480x270/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F25%2F23%2Fd5c79db34819a2c355f9680ed1be%2F08404938e84349c1ab4b47ccdcfdba6f",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/36023db/2147483647/crop/1241x703%2B0%2B22/resize/30x17/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F25%2F23%2Fd5c79db34819a2c355f9680ed1be%2F08404938e84349c1ab4b47ccdcfdba6f",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/5f0c225/2147483647/crop/1241x696%2B0%2B25/resize/246x138/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F25%2F23%2Fd5c79db34819a2c355f9680ed1be%2F08404938e84349c1ab4b47ccdcfdba6f",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/5409bfc/2147483647/crop/1241x698%2B0%2B24/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F25%2F23%2Fd5c79db34819a2c355f9680ed1be%2F08404938e84349c1ab4b47ccdcfdba6f",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/500b7de/2147483647/crop/1241x699%2B0%2B24/resize/1240x698/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F25%2F23%2Fd5c79db34819a2c355f9680ed1be%2F08404938e84349c1ab4b47ccdcfdba6f",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/6841302/2147483647/crop/1241x698%2B0%2B24/resize/400x225/quality/75/?url=https%3A%2F%2Fcdn3.uvnimg.com%2F25%2F23%2Fd5c79db34819a2c355f9680ed1be%2F08404938e84349c1ab4b47ccdcfdba6f",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [
+                          {
+                              "name": "Arrestos",
+                              "link": "/temas/arrestos"
+                          }
+                      ],
+                      "mcpid": "3471261",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/actos-de-exceso-de-fuerza-de-policias-de-austin-llevan-a-la-policia-de-la-ciudad-a-plantear-opciones-de-arresto-para-evitar-la-violencia-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/actos-de-exceso-de-fuerza-de-policias-de-austin-llevan-a-la-policia-de-la-ciudad-a-plantear-opciones-de-arresto-para-evitar-la-violencia-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Casos de exceso de fuerza de policías de Austin llevan a la Policía de la ciudad a plantear opciones de arresto para evitar la violencia ",
+                                  "description": "Oficiales de la Policía de Austin discutieron este lunes las distintas formas de actuar cuando tengan que arrestar a una persona sin llegar a la violencia.",
+                                  "imageUrl": "https://cdn3.uvnimg.com/25/23/d5c79db34819a2c355f9680ed1be/08404938e84349c1ab4b47ccdcfdba6f"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/actos-de-exceso-de-fuerza-de-policias-de-austin-llevan-a-la-policia-de-la-ciudad-a-plantear-opciones-de-arresto-para-evitar-la-violencia-video",
+                                  "title": "Casos de exceso de fuerza de policías de Austin llevan a la Policía de la ciudad a plantear opciones de arresto para evitar la violencia ",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/actos-de-exceso-de-fuerza-de-policias-de-austin-llevan-a-la-policia-de-la-ciudad-a-plantear-opciones-de-arresto-para-evitar-la-violencia-video",
+                                  "message": "Casos de exceso de fuerza de policías de Austin llevan a la Policía de la ciudad a plantear opciones de arresto para evitar la violencia "
+                              },
+                              "mail": {
+                                  "subject": "Casos de exceso de fuerza de policías de Austin llevan a la Policía de la ciudad a plantear opciones de arresto para evitar la violencia ",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nCasos de exceso de fuerza de policías de Austin llevan a la Policía de la ciudad a plantear opciones de arresto para evitar la violencia \n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/actos-de-exceso-de-fuerza-de-policias-de-austin-llevan-a-la-policia-de-la-ciudad-a-plantear-opciones-de-arresto-para-evitar-la-violencia-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "0:45",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000161-249b-de83-a5f3-efdb53340000",
+                      "uri": "/austin/kakw/las-autoridades-del-condado-bastrop-investigan-la-muerte-de-un-hombre-hallado-calcinado-video",
+                      "type": "video",
+                      "updateDate": "2018-01-23T15:02:09-05:00",
+                      "publishDate": "2018-01-22T20:55:00-05:00",
+                      "expirationDate": "2028-01-23T14:55:00-05:00",
+                      "title": "Las autoridades del condado Bastrop investigan la muerte de un hombre hallado calcinado",
+                      "shortTitle": "Las autoridades del condado Bastrop investigan la muerte de un hombre hallado calcinado",
+                      "description": "Los agentes de la Oficina del Alguacil del condado Bastrop encontraron el cuerpo de un hombre quemado el jueves pasado a un lado de una vía.",
+                      "shortDescription": "Los agentes de la Oficina del Alguacil del condado Bastrop encontraron el cuerpo de un hombre quemado el jueves pasado a un lado de una vía.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000161-249d-de83-a5f3-efdd11f80000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn2.uvnimg.com/55/d2/cb406bac472ba31e82eebd5879b6/47a9b649b9ce46ccbd9e4af469601036",
+                                  "width": 1521,
+                                  "height": 845
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/a015566/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F55%2Fd2%2Fcb406bac472ba31e82eebd5879b6%2F47a9b649b9ce46ccbd9e4af469601036",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/b31b7ad/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F55%2Fd2%2Fcb406bac472ba31e82eebd5879b6%2F47a9b649b9ce46ccbd9e4af469601036",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/75f511c/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F55%2Fd2%2Fcb406bac472ba31e82eebd5879b6%2F47a9b649b9ce46ccbd9e4af469601036",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/5cbd39f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F55%2Fd2%2Fcb406bac472ba31e82eebd5879b6%2F47a9b649b9ce46ccbd9e4af469601036",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/c77c105/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F55%2Fd2%2Fcb406bac472ba31e82eebd5879b6%2F47a9b649b9ce46ccbd9e4af469601036",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn3.uvnimg.com/dims4/default/b0fb4da/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn2.uvnimg.com%2F55%2Fd2%2Fcb406bac472ba31e82eebd5879b6%2F47a9b649b9ce46ccbd9e4af469601036",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [
+                          {
+                              "name": "Asesinatos",
+                              "link": "/temas/asesinatos"
+                          },
+                          {
+                              "name": "Muertes",
+                              "link": "/temas/muertes"
+                          }
+                      ],
+                      "mcpid": "3471342",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/las-autoridades-del-condado-bastrop-investigan-la-muerte-de-un-hombre-hallado-calcinado-video",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/las-autoridades-del-condado-bastrop-investigan-la-muerte-de-un-hombre-hallado-calcinado-video",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Las autoridades del condado Bastrop investigan la muerte de un hombre hallado calcinado",
+                                  "description": "Los agentes de la Oficina del Alguacil del condado Bastrop encontraron el cuerpo de un hombre quemado el jueves pasado a un lado de una vía.",
+                                  "imageUrl": "https://cdn2.uvnimg.com/55/d2/cb406bac472ba31e82eebd5879b6/47a9b649b9ce46ccbd9e4af469601036"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/las-autoridades-del-condado-bastrop-investigan-la-muerte-de-un-hombre-hallado-calcinado-video",
+                                  "title": "Las autoridades del condado Bastrop investigan la muerte de un hombre hallado calcinado",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/las-autoridades-del-condado-bastrop-investigan-la-muerte-de-un-hombre-hallado-calcinado-video",
+                                  "message": "Las autoridades del condado Bastrop investigan la muerte de un hombre hallado calcinado"
+                              },
+                              "mail": {
+                                  "subject": "Las autoridades del condado Bastrop investigan la muerte de un hombre hallado calcinado",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nLas autoridades del condado Bastrop investigan la muerte de un hombre hallado calcinado\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/las-autoridades-del-condado-bastrop-investigan-la-muerte-de-un-hombre-hallado-calcinado-video\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "0:27",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "uid": "00000160-b967-dadb-a1f0-bb6f7fb20000",
+                      "uri": "/austin/kakw/continuan-las-bajas-temperaturas-en-austin-1-video1",
+                      "type": "video",
+                      "updateDate": "2018-01-02T19:28:50-05:00",
+                      "publishDate": "2018-01-02T19:16:00-05:00",
+                      "expirationDate": "2028-01-02T19:16:00-05:00",
+                      "title": "Continúan las bajas temperaturas en Austin",
+                      "shortTitle": "Continúan las bajas temperaturas en Austin",
+                      "description": "Un día con temperaturas por debajo del punto de congelación, la alerta por helada estará vigente las próximas 24 horas, para mañana miércoles se espera una máxima de 50 grados.",
+                      "shortDescription": "Un día con temperaturas por debajo del punto de congelación, la alerta por helada estará vigente las próximas 24 horas, para mañana miércoles se espera una máxima de 50 grados.",
+                      "richTextDescription": null,
+                      "image": {
+                          "type": "image",
+                          "uid": "00000160-b96b-dadb-a1f0-bb6fab8c0000",
+                          "title": "preview",
+                          "caption": null,
+                          "credit": null,
+                          "renditions": {
+                              "original": {
+                                  "href": "https://cdn4.uvnimg.com/c2/f3/28693f68420d959e91bd61fb5f40/442a3cdd456747fcb5b06c429ffdeb94",
+                                  "width": 1920,
+                                  "height": 1080
+                              },
+                              "16x9-mobile": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/407bf8c/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc2%2Ff3%2F28693f68420d959e91bd61fb5f40%2F442a3cdd456747fcb5b06c429ffdeb94",
+                                  "width": 480,
+                                  "height": 270
+                              },
+                              "16x9-loading": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/8e2c5d9/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc2%2Ff3%2F28693f68420d959e91bd61fb5f40%2F442a3cdd456747fcb5b06c429ffdeb94",
+                                  "width": 30,
+                                  "height": 17
+                              },
+                              "16x9-sm": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/16def6f/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc2%2Ff3%2F28693f68420d959e91bd61fb5f40%2F442a3cdd456747fcb5b06c429ffdeb94",
+                                  "width": 246,
+                                  "height": 138
+                              },
+                              "16x9-tablet": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/6294b9f/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc2%2Ff3%2F28693f68420d959e91bd61fb5f40%2F442a3cdd456747fcb5b06c429ffdeb94",
+                                  "width": 1024,
+                                  "height": 576
+                              },
+                              "16x9": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/c18a8e9/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc2%2Ff3%2F28693f68420d959e91bd61fb5f40%2F442a3cdd456747fcb5b06c429ffdeb94",
+                                  "width": 1240,
+                                  "height": 698
+                              },
+                              "16x9-med": {
+                                  "href": "https://cdn1.uvnimg.com/dims4/default/5492dda/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fcdn4.uvnimg.com%2Fc2%2Ff3%2F28693f68420d959e91bd61fb5f40%2F442a3cdd456747fcb5b06c429ffdeb94",
+                                  "width": 400,
+                                  "height": 225
+                              }
+                          }
+                      },
+                      "primaryTag": {
+                          "name": "Univision 62 Austin",
+                          "link": "https://www.univision.com/austin/kakw"
+                      },
+                      "primaryTopic": "Local",
+                      "secondaryTags": [],
+                      "mcpid": "3463505",
+                      "sharing": {
+                          "options": {
+                              "facebook": {
+                                  "url": "https://www.univision.com/austin/kakw/continuan-las-bajas-temperaturas-en-austin-1-video1",
+                                  "redirectUrl": "https://www.univision.com/austin/kakw/continuan-las-bajas-temperaturas-en-austin-1-video1",
+                                  "isFeedDialog": false,
+                                  "baseUrl": null,
+                                  "appId": "645138725541385",
+                                  "title": "Continúan las bajas temperaturas en Austin",
+                                  "description": "Un día con temperaturas por debajo del punto de congelación, la alerta por helada estará vigente las próximas 24 horas, para mañana miércoles se espera una máxima de 50 grados.",
+                                  "imageUrl": "https://cdn4.uvnimg.com/c2/f3/28693f68420d959e91bd61fb5f40/442a3cdd456747fcb5b06c429ffdeb94"
+                              },
+                              "twitter": {
+                                  "url": "https://www.univision.com/austin/kakw/continuan-las-bajas-temperaturas-en-austin-1-video1",
+                                  "title": "Continúan las bajas temperaturas en Austin",
+                                  "via": "Univision62"
+                              },
+                              "whatsapp": {
+                                  "url": "https://www.univision.com/austin/kakw/continuan-las-bajas-temperaturas-en-austin-1-video1",
+                                  "message": "Continúan las bajas temperaturas en Austin"
+                              },
+                              "mail": {
+                                  "subject": "Continúan las bajas temperaturas en Austin",
+                                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nContinúan las bajas temperaturas en Austin\n\nEncuéntralo en este enlace: https://www.univision.com/austin/kakw/continuan-las-bajas-temperaturas-en-austin-1-video1\n\nVisitamos www.univision.com"
+                              }
+                          }
+                      },
+                      "rating": "TV-Y",
+                      "genre": null,
+                      "durationString": "3:21",
+                      "authRequired": false,
+                      "longform": false,
+                      "longformPlayList": false,
+                      "episodeNo": "0",
+                      "seasonName": null,
+                      "hasNextEpisode": false,
+                      "authors": [],
+                      "tempAuthors": [],
+                      "source": "KAKW",
+                      "sourceStation": {
+                          "uid": "0000014d-0725-ddc6-a5dd-17b74f6b0000",
+                          "type": "tvstation",
+                          "uri": "/austin/kakw",
+                          "title": "Univision 62 Austin",
+                          "shortTitle": "Univision 62 Austin",
+                          "description": "Noticias locales, reportes de tráfico, clima, busca empleos en Austin, deportes, negocios, eventos, cultura y mucho más.",
+                          "shortDescription": "Univision 62 Austin",
+                          "richTextDescription": null,
+                          "logo": {
+                              "type": "image",
+                              "uid": "00000157-fd43-df11-abf7-ffe7e2f10000",
+                              "title": "AUSTIN, TX - UNIVISION 62 - NUEVO LOGO TV",
+                              "caption": "",
+                              "credit": null,
+                              "renditions": {
+                                  "original": {
+                                      "href": "https://cdn2.uvnimg.com/44/18/a7edcb1d4b8e9dd6656a9e8c7d47/desktop-univision-62-austin-158x98.png",
+                                      "width": 158,
+                                      "height": 98
+                                  }
+                              }
+                          },
+                          "alternativeLogo": {
+                              "type": null,
+                              "renditions": null
+                          },
+                          "localMarketFooter": {
+                              "title": "PÁGINAS DE AUSTIN",
+                              "links": [
+                                  {
+                                      "uid": "0000014e-08f4-dda5-a94f-1eff62160000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "EEO Report Austin",
+                                      "href": "https://cdn4.uvnimg.com/48/80/2ba61d1b46d8aaea81e4afa3f46e/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26a8-d2dc-a37f-2eef24e60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Radio EEO Report",
+                                      "href": "https://cdn3.uvnimg.com/2c/16/e1bdb81d4179aa4384a74e337cd2/austin-2017-2018-annual-eeo-public-file-report-20180402.pdf",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014e-26f5-decc-a9de-6ef57bd60000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Public Files KAKW",
+                                      "href": "https://publicfiles.fcc.gov/",
+                                      "target": "_blank"
+                                  },
+                                  {
+                                      "uid": "0000014f-2919-d3cf-a57f-ff19d06a0000",
+                                      "uri": null,
+                                      "type": "externallink",
+                                      "versionCreated": null,
+                                      "text": "Aviso de subtítulos ",
+                                      "href": "https://www.univision.com/austin/aviso-de-subtitulos-austin",
+                                      "target": "_blank"
+                                  }
+                              ]
+                          }
+                      }
+                  }
+              ]
+          }
+      ],
+      "isNationalRadioShow": false,
+      "socialNetworks": [],
+      "ttl": 900,
+      "feedGeneratedAt": "2018-05-25T15:02:31-04:00"
+  }
+}

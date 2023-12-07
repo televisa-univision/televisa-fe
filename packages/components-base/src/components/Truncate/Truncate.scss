@@ -1,0 +1,32 @@
+.button {
+  padding: 3px 0;
+  text-transform: uppercase;
+
+  @include video-font-size('xs');
+
+  svg {
+    margin-left: 5px;
+  }
+}
+
+.button_variant_dark {
+  color: $grey-black;
+}
+
+.button_variant_light {
+  color: $grey-black;
+}
+
+.content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+
+  @include media-breakpoint-up('md') {
+    margin-bottom: rem(24px) !important;
+  }
+}
+
+.content_style_html > :last-child {
+  margin-bottom: 0;
+}

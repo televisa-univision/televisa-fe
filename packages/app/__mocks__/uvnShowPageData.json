@@ -1,0 +1,2422 @@
+{
+  "data": {
+    "type": "section",
+    "uid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+    "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+    "vertical": "Entretenimiento",
+    "parent": {
+      "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+      "uri": "https://uat.x.univision.com/shows",
+      "name": "shows",
+      "title": "Shows"
+    },
+    "title": "Médicos, Línea De Vida",
+    "description": "Livia Brito, Daniel Arenas y Grettell Valdez protagonizan esta historia donde los doctores además de salvar la vida de sus pacientes, tratarán de curar las heridas que el desamor les ha dejado para finalmente vivir plenamente.",
+    "cardLabel": null,
+    "updateDate": "2020-07-09T00:02:09-04:00",
+    "publishDate": "2020-06-11T11:44:12-04:00",
+    "expirationDate": null,
+    "hierarchy": [
+      {
+        "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+        "uri": "https://uat.x.univision.com/shows",
+        "name": "shows",
+        "title": "Shows"
+      },
+      {
+        "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+        "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+        "name": "medicos linea de vida",
+        "title": "Médicos Línea De Vida"
+      }
+    ],
+    "disableReactions": false,
+    "tvStation": {
+      "type": "tvstation",
+      "uid": "0000015d-65e8-d26c-a1fd-f5ea9e1f0000",
+      "uri": "https://uat.x.univision.com/local/bakersfield-kabe",
+      "vertical": null,
+      "parent": null,
+      "title": "Univision 39 Bakersfield",
+      "description": "Univision 39, tu estación local de Univision cubriendo el condado de Kern. Con las noticias, estado del tiempo, eventos locales, entretenimiento, deportes y demás temas de interés que educan y entretienen a nuestra comunidad. Univision 39, Tu Gente.Tu Voz.",
+      "image": {
+        "type": "image",
+        "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+        "title": "Univision Fallback Image",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/af30663/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/faee02d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/ffa03be/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/3daeabb/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/78c9c8e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/1700643/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/792ad33/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fnewversion.jpg",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/33524e3/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F3a%2F60%2Fff8a1c114b0cb94b76cf39d1fdaa%2Fresizes%2F500%2Fnewversion.jpg",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T19:17:26-04:00",
+      "publishDate": "2017-07-21T12:29:05-04:00",
+      "expirationDate": "3000-01-01T00:00:00-05:00",
+      "hierarchy": [],
+      "disableReactions": false,
+      "call": "KABE",
+      "logo": {
+        "type": "image",
+        "uid": "0000015d-7f2f-dc43-a9fd-ff3f81990000",
+        "title": "BAKERSFIELD, CA UNIVISION 39",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/10/c8/20d2f47a4f028613285f7864add6/logo-desktop.svg",
+            "width": 172,
+            "height": 64
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/7d66537/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/3a865da/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/59d786b/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/012904d/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/ad3bca9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/2eea2cf/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/5afbc5d/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/10e9f37/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F10%2Fc8%2F20d2f47a4f028613285f7864add6%2Flogo-desktop.svg",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "alternativeLogo": {
+        "type": null,
+        "uid": null,
+        "title": null,
+        "caption": null,
+        "credit": null,
+        "renditions": null
+      },
+      "localMarket": {
+        "title": "Bakersfield ",
+        "zipCodes": [
+          "93301"
+        ]
+      },
+      "localMarketFooter": {
+        "title": "PÁGINAS DE BAKERSFIELD ",
+        "links": [
+          {
+            "href": "https://st1.uvnimg.com/ed/04/c681e56f4c4fa13e34bb578c93a8/bakersfield-eeo-rpt-08-18-thru-07-19.pdf",
+            "target": "_blank",
+            "text": "EEO Report 2019",
+            "uid": "00000168-8769-dbde-ade8-efffe3650000"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/tv-profile/kuvi-dt",
+            "target": "_blank",
+            "text": "Univision 39 Bakersfield Online Public Files",
+            "uid": "00000168-8769-dbde-ade8-efffe3650001"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/tv-profile/kabe-cd",
+            "target": "_blank",
+            "text": "FCC Online Public File KABE ",
+            "uid": "00000168-8769-dbde-ade8-efffe3650002"
+          },
+          {
+            "href": "https://publicfiles.fcc.gov/tv-profile/kbtf-cd",
+            "target": "_blank",
+            "text": "FCC Online Public File KBTF-CD",
+            "uid": "00000168-8769-dbde-ade8-efffe3650003"
+          },
+          {
+            "href": "https://www.univision.com/bakersfield/kabe/aviso-de-subtitulos-bakersfield-univision",
+            "target": "_blank",
+            "text": "Aviso de subtítulos e información para personas con discapacidad",
+            "uid": "00000168-8769-dbde-ade8-efffe3650004"
+          }
+        ]
+      },
+      "contact": {
+        "aboutStation": null
+      }
+    },
+    "adSettings": {
+      "disable3rdPartyAds": false,
+      "disableAds": false,
+      "disableVideoAds": false,
+      "adTagValue": "section_entretenimiento/shows/medicoslineadevida/inicio",
+      "targeting": {
+        "vertical": "entretenimiento"
+      },
+      "contentSpecificSettings": {}
+    },
+    "tracking": {
+      "analytics": {
+        "data": {
+          "adtag_value": "section_entretenimiento/shows/medicoslineadevida/inicio",
+          "all_tags": [],
+          "brand": "univision 39 bakersfield",
+          "brand_market": "bakersfield ",
+          "brand_station_call_letters": "kabe",
+          "brand_station_name": "univision 39 bakersfield",
+          "brand_station_type": "tvstation",
+          "canonical_url": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+          "content_created_date": "2020-06-11",
+          "content_id": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+          "content_modified_date": "2020-07-09",
+          "content_type": "show",
+          "content_vertical": "local",
+          "environment_name": "qa",
+          "nielsenVcid": "c04",
+          "permalink": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+          "platform": "website",
+          "section_category": "navigation taxonomy",
+          "section_full_hierarchy": [
+            "shows",
+            "medicos linea de vida"
+          ],
+          "section_level1": "shows",
+          "section_level2": "medicos linea de vida",
+          "seo_optimized": "false",
+          "show_type": "novelas",
+          "title": "medicos, linea de vida",
+          "uci_division": "entertainment"
+        }
+      },
+      "nielsen": {
+        "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid": "c04",
+        "environment": "qa",
+        "primaryTopic": "Shows"
+      }
+    },
+    "analyticsData": {
+      "apps": {
+        "common": {
+          "adtag_value": "section_entretenimiento/shows/medicoslineadevida/inicio",
+          "all_tags": [],
+          "brand_station_call_letters": "kabe",
+          "content_created_date": "2020-06-11",
+          "content_id": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+          "content_type": "show",
+          "section": "medicos linea de vida",
+          "section_full_hierarchy": [
+            "shows",
+            "medicos linea de vida"
+          ],
+          "section_level1": "shows",
+          "section_level2": "medicos linea de vida",
+          "show_type": "novelas",
+          "title": "medicos, linea de vida"
+        },
+        "contentSpecific": {
+          "section_category": "navigation taxonomy"
+        },
+        "nielsen": {
+          "common": {
+            "assetid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+            "section": "show",
+            "segB": "noticias",
+            "type": "static",
+            "vcid": "c04"
+          },
+          "contentSpecific": {
+            "segB": "noticias"
+          }
+        }
+      },
+      "web": {
+        "common": {
+          "adtag_value": "section_entretenimiento/shows/medicoslineadevida/inicio",
+          "all_tags": [],
+          "brand_market": "bakersfield ",
+          "brand_station_call_letters": "kabe",
+          "brand_station_name": "univision 39 bakersfield",
+          "brand_station_type": "tvstation",
+          "content_created_date": "2020-06-11",
+          "content_id": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+          "content_modified_date": "2020-07-09",
+          "content_type": "show",
+          "content_vertical": "local",
+          "permalink": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+          "platform": "website",
+          "section": "medicos linea de vida",
+          "section_full_hierarchy": [
+            "shows",
+            "medicos linea de vida"
+          ],
+          "section_level1": "shows",
+          "section_level2": "medicos linea de vida",
+          "seo_focus_keyword": "not defined",
+          "seo_optimized": 0,
+          "show_type": "novelas",
+          "title": "medicos, linea de vida",
+          "uci_division": "entertainment"
+        },
+        "contentSpecific": {
+          "section_category": "navigation taxonomy"
+        },
+        "nielsen": {
+          "common": {
+            "assetid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+            "section": "show",
+            "segB": "noticias",
+            "type": "static",
+            "vcid": "c04"
+          },
+          "contentSpecific": {
+            "segB": "noticias"
+          }
+        }
+      }
+    },
+    "metaTagData": {
+      "openGraph": {
+        "type": null,
+        "title": "Médicos, Línea De Vida",
+        "description": "Livia Brito, Daniel Arenas y Grettell Valdez protagonizan esta historia donde los doctores además de salvar la vida de sus pacientes, tratarán de curar las heridas que el desamor les ha dejado para finalmente vivir plenamente.",
+        "imageUrl": "https://uat2.x.univision.com/dims4/default/4ccb8a9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg",
+        "url": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+        "siteName": "Univision"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Médicos, Línea De Vida",
+        "description": "Livia Brito, Daniel Arenas y Grettell Valdez protagonizan esta historia donde los doctores además de salvar la vida de sus pacientes, tratarán de curar las heridas que el desamor les ha dejado para finalmente vivir plenamente.",
+        "creator": null,
+        "imageUrl": "https://uat2.x.univision.com/dims4/default/4ccb8a9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg"
+      },
+      "facebook": {
+        "pages": null
+      }
+    },
+    "seo": {
+      "title": "Médicos Línea De Vida | Univision",
+      "description": "Livia Brito, Daniel Arenas y Grettell Valdez protagonizan esta historia donde los doctores además de salvar la vida de sus pacientes, tratarán de curar las heridas que el desamor les ha dejado para finalmente vivir plenamente. | Univision",
+      "canonicalUrl": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+      "keywords": [
+        "Daniel Arenas",
+        "Grettell Valdez",
+        "Livia Brito",
+        "Médicos telenovela"
+      ],
+      "robots": [],
+      "ld_json": null,
+      "news_keywords": []
+    },
+    "externalWidgets": {
+      "calReply": {
+        "href": null,
+        "code": null
+      }
+    },
+    "widgets": [
+      {
+        "settings": {
+          "type": "singlewidget",
+          "uid": "00000172-ba87-d819-a9fb-bbffbe7a0015",
+          "title": null,
+          "titleLink": null,
+          "lazyLoaded": false
+        },
+        "analyticsData": {
+          "widget": {
+            "widget_pos": 1,
+            "widget_title": "no title - 00000172-ba87-d819-a9fb-bbffbe7a0015",
+            "widget_type": "single widget"
+          }
+        },
+        "contents": [
+          {
+            "type": "article",
+            "uid": "00000172-dfe4-d817-a1fa-dfee390f0002",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/medicos-linea-de-vida/con-suenos-esperanzas-y-amor-medicos-llega-a-univision-gran-estreno-14-de-julio",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+              "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+              "name": "médicos línea de vida",
+              "title": "Médicos Línea De Vida"
+            },
+            "title": "Con sueños, esperanzas y amor, Médicos llega a Univision: gran estreno 14 de julio",
+            "description": "Un elenco lleno de estrellas, encabezado por Livia Brito y Daniel Arenas, te llevará a un mundo repleto de héroes, sueños, entrega e incansables luchas, y donde conocerás los sentimientos, secretos y temores de un grupo de doctores que noche a noche darán todo por la vida. Vive el gran estreno de Médicos este 14 de julio a las 9P/ 8C por Univision.",
+            "image": {
+              "type": "image",
+              "uid": "00000172-dfe6-d817-a1fa-dfee78030000",
+              "title": "F64D6E20691B4BB18AC044266A779F66.jpg",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/fd/0d/6b0a71894662a6c10e65724c8d94/f64d6e20691b4bb18ac044266a779f66.jpg",
+                  "width": 1280,
+                  "height": 720,
+                  "focusPoint": {
+                    "x": 0.4860314078554001,
+                    "y": 0.150390625
+                  }
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-06-27T00:01:46-04:00",
+            "publishDate": "2020-06-27T00:01:46-04:00",
+            "expirationDate": null,
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+                "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+                "name": "medicos linea de vida",
+                "title": "Médicos Línea De Vida"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "leadType": null,
+            "readTime": null,
+            "articleType": "Standard",
+            "body": null,
+            "jwRecommendationChannel": "78MDrZDv",
+            "dynamicPlaylist": false,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/lfWV102hJbU",
+                  "isFeedDialog": false,
+                  "title": "Con sueños, esperanzas y amor, Médicos llega a Univision: gran estreno 14 de julio",
+                  "description": "Un elenco lleno de estrellas, encabezado por Livia Brito y Daniel Arenas, te llevará a un mundo repleto de héroes, sueños, entrega e incansables luchas, y donde conocerás los sentimientos, secretos y temores de un grupo de doctores que noche a noche darán todo por la vida. Vive el gran estreno de Médicos este 14 de julio a las 9P/ 8C por Univision.",
+                  "imageUrl": null,
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/lfWV102hJbU",
+                  "title": "Con sueños, esperanzas y amor, Médicos llega a Univision: gran estreno 14 de julio",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/lfWV102hJbU",
+                  "message": "Con sueños, esperanzas y amor, Médicos llega a Univision: gran estreno 14 de julio"
+                },
+                "mail": {
+                  "subject": "Con sueños, esperanzas y amor, Médicos llega a Univision: gran estreno 14 de julio",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nCon sueños, esperanzas y amor, Médicos llega a Univision: gran estreno 14 de julio\n\nEncuéntralo en este enlace:http://uni.vi/lfWV102hJbU\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "useWebviewInApps": false,
+            "primaryTag": {
+              "name": "Novelas",
+              "link": "https://uat.x.univision.com/local/bakersfield-kabe/temas/novelas"
+            }
+          }
+        ],
+        "breakingNewsMode": false,
+        "id": "00000172-ba87-d819-a9fb-bbffbe7a0015",
+        "type": "SingleWidget",
+        "commonRootSection": {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://uat.x.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        }
+      },
+      {
+        "settings": {
+          "type": "gridwidget",
+          "uid": "00000172-ba88-d819-a9fb-bbfc53a50011",
+          "title": null,
+          "titleLink": null,
+          "lazyLoaded": false,
+          "seeMoreLink": null,
+          "listTitle": null,
+          "listGrid": false,
+          "personalizationType": null
+        },
+        "analyticsData": {
+          "widget": {
+            "widget_pos": 2,
+            "widget_title": "no title - 00000172-ba88-d819-a9fb-bbfc53a50011",
+            "widget_type": "grid widget"
+          }
+        },
+        "contents": [
+          {
+            "type": "slideshow",
+            "uid": "00000172-df41-d4b2-a5f7-ffe3dd9a0001",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/medicos-linea-de-vida/la-valentia-y-el-amor-los-acompanara-ellos-son-los-personajes-que-te-conquistaran-en-medicos-fotos",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+              "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+              "name": "médicos línea de vida",
+              "title": "Médicos Línea De Vida"
+            },
+            "title": "La valentía y el amor los acompañará: ellos son los personajes que te conquistarán en Médicos",
+            "description": "Con un elenco lleno de estrellas y una trama cargada de emoción, esta historia y sus personajes te robarán el aliento desde el primer episodio. Conócelos desde ahora y vive el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+            "image": {
+              "type": "image",
+              "uid": "00000172-e988-d88c-aff3-fba8544a0000",
+              "title": "Elenco de Médicos, Línea de Vida",
+              "caption": "Elenco de Médicos, Línea de Vida",
+              "credit": "Televisa",
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/f7/f5/2bab94af4cda98981cdd4cb74aa9/daniel-livia-rodolfo-grettell.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-09T00:03:41-04:00",
+            "publishDate": "2020-07-08T23:44:17-04:00",
+            "expirationDate": null,
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+                "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+                "name": "medicos linea de vida",
+                "title": "Médicos Línea De Vida"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "slideshowType": "verticalslideshow",
+            "slideCount": 17,
+            "cardImages": [
+              {
+                "type": "image",
+                "uid": "00000172-df49-d4b2-a5f7-ffeb6cf80001",
+                "title": "L1004510.jpg",
+                "caption": "Personajes de Médicos, Línea de Vida",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/08/ce/ef958ae0455db040c84eed3e58a0/l1004510.jpg",
+                    "width": 2400,
+                    "height": 3000,
+                    "focusPoint": {
+                      "x": 0.5908293278400855,
+                      "y": 0.0859375
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000172-df49-d4b2-a5f7-ffeb6cff0001",
+                "title": "L1004539.jpg",
+                "caption": "Personajes de Médicos, Línea de Vida",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/ac/d0/3ea4dd644bb186e5015dfd32f921/l1004539.jpg",
+                    "width": 2400,
+                    "height": 3000,
+                    "focusPoint": {
+                      "x": 0.5249103532463569,
+                      "y": 0.064453125
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000172-df49-d4b2-a5f7-ffeb6d060000",
+                "title": "L1004578.jpg",
+                "caption": "Personajes de Médicos, Línea de Vida",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/3a/f4/f8eec95b457e9fe06b9e74ae97f4/l1004578.jpg",
+                    "width": 2400,
+                    "height": 3000,
+                    "focusPoint": {
+                      "x": 0.5151445792324711,
+                      "y": 0.076171875
+                    }
+                  }
+                }
+              }
+            ],
+            "jwRecommendationChannel": "78MDrZDv",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/TJJQ102in8f",
+                  "isFeedDialog": false,
+                  "title": "La valentía y el amor los acompañará: ellos son los personajes que te conquistarán en Médicos",
+                  "description": "Con un elenco lleno de estrellas y una trama cargada de emoción, esta historia y sus personajes te robarán el aliento desde el primer episodio. Conócelos desde ahora y vive el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/08/ce/ef958ae0455db040c84eed3e58a0/l1004510.jpg",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/TJJQ102in8f",
+                  "title": "La valentía y el amor los acompañará: ellos son los personajes que te conquistarán en Médicos",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/TJJQ102in8f",
+                  "message": "La valentía y el amor los acompañará: ellos son los personajes que te conquistarán en Médicos"
+                },
+                "mail": {
+                  "subject": "La valentía y el amor los acompañará: ellos son los personajes que te conquistarán en Médicos",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nLa valentía y el amor los acompañará: ellos son los personajes que te conquistarán en Médicos\n\nEncuéntralo en este enlace:http://uni.vi/TJJQ102in8f\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Novelas",
+              "link": "https://uat.x.univision.com/local/bakersfield-kabe/temas/novelas"
+            }
+          },
+          {
+            "type": "slideshow",
+            "uid": "00000172-de8e-d4b2-a5f7-feaf4c9e0001",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/medicos-linea-de-vida/rodolfo-salas-luchara-por-el-amor-de-livia-brito-en-medicos-aunque-daniel-arenas-se-cruzara-en-sus-planes-fotos",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+              "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+              "name": "médicos línea de vida",
+              "title": "Médicos Línea De Vida"
+            },
+            "title": "Rodolfo Salas luchará por el amor de Livia Brito en Médicos (aunque Daniel Arenas se cruzará en sus planes)",
+            "description": "El actor forma parte del elenco de la nueva telenovela de José Alberto Castro, y además de trabajar por salvar vidas, su personaje tratará de rescatar la suya de la mano del amor de Livia Brito. Conoce un poco de su trayectoria y no te pierdas el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-2cc9-d7da-a7fb-6edfa1df0000",
+              "title": "Rodolf_Salas_Medicos_1.jpg",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/89/3a/9feefca94e0082e3657904eac2bf/rodolf-salas-medicos-1.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "focusPoint": {
+                    "x": 0.6168860176626233,
+                    "y": 0.185546875
+                  }
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-08T01:07:25-04:00",
+            "publishDate": "2020-07-08T01:07:25-04:00",
+            "expirationDate": null,
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+                "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+                "name": "medicos linea de vida",
+                "title": "Médicos Línea De Vida"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "slideshowType": "verticalslideshow",
+            "slideCount": 15,
+            "cardImages": [
+              {
+                "type": "image",
+                "uid": "00000172-de96-d4b2-a5f7-feb7cd0d0000",
+                "title": "9813-Medicos087-DanielArenasLiviaBritoRodolfoSalas.jpg",
+                "caption": "Rodolfo Salas",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/03/2b/0190f1894e82a1f5ad09e5d34e4f/9813-medicos087-danielarenasliviabritorodolfosalas.jpg",
+                    "width": 1933,
+                    "height": 2900,
+                    "focusPoint": {
+                      "x": 0.571297779812314,
+                      "y": 0.1875
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000172-de96-d4b2-a5f7-feb7ccf70000",
+                "title": "9813-Medicos053-GrettellValdezRodolfoSalas.jpg",
+                "caption": "Rodolfo Salas",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/87/84/71d9803742159c95068c70598acf/9813-medicos053-grettellvaldezrodolfosalas.jpg",
+                    "width": 2333,
+                    "height": 3500,
+                    "focusPoint": {
+                      "x": 0.571297779812314,
+                      "y": 0.126953125
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000172-de96-d4b2-a5f7-feb7ccfe0001",
+                "title": "9813-Medicos055-RodolfoSalas.jpg",
+                "caption": "Rodolfo Salas",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/64/67/8d478438481c83dba1e46ae0f503/9813-medicos055-rodolfosalas.jpg",
+                    "width": 2333,
+                    "height": 3500,
+                    "focusPoint": {
+                      "x": 0.48926527809567394,
+                      "y": 0.205078125
+                    }
+                  }
+                }
+              }
+            ],
+            "jwRecommendationChannel": "78MDrZDv",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/n47M102ij1o",
+                  "isFeedDialog": false,
+                  "title": "Rodolfo Salas luchará por el amor de Livia Brito en Médicos (aunque Daniel Arenas se cruzará en sus planes)",
+                  "description": "El actor forma parte del elenco de la nueva telenovela de José Alberto Castro, y además de trabajar por salvar vidas, su personaje tratará de rescatar la suya de la mano del amor de Livia Brito. Conoce un poco de su trayectoria y no te pierdas el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/03/2b/0190f1894e82a1f5ad09e5d34e4f/9813-medicos087-danielarenasliviabritorodolfosalas.jpg",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/n47M102ij1o",
+                  "title": "Rodolfo Salas luchará por el amor de Livia Brito en Médicos (aunque Daniel Arenas se cruzará en sus planes)",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/n47M102ij1o",
+                  "message": "Rodolfo Salas luchará por el amor de Livia Brito en Médicos (aunque Daniel Arenas se cruzará en sus planes)"
+                },
+                "mail": {
+                  "subject": "Rodolfo Salas luchará por el amor de Livia Brito en Médicos (aunque Daniel Arenas se cruzará en sus planes)",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRodolfo Salas luchará por el amor de Livia Brito en Médicos (aunque Daniel Arenas se cruzará en sus planes)\n\nEncuéntralo en este enlace:http://uni.vi/n47M102ij1o\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Livia Brito",
+              "link": "https://uat.x.univision.com/local/bakersfield-kabe/temas/livia-brito"
+            }
+          },
+          {
+            "type": "slideshow",
+            "uid": "00000172-a0f4-df3c-a9fa-f9f682190001",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/medicos-linea-de-vida/de-clase-406-a-medicos-este-ha-sido-el-paso-de-grettell-valdez-por-las-telenovelas-fotos",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+              "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+              "name": "médicos línea de vida",
+              "title": "Médicos Línea De Vida"
+            },
+            "title": "De ‘Clase 406’ a Médicos: este ha sido el paso de Grettell Valdez por las telenovelas",
+            "description": "La actriz mexicana, quien es parte del elenco de la nueva producción de José Alberto Castro, tiene una larga trayectoria en los melodramas en los que ha brillado tanto en papeles de heroína como de villana. Recuerda sus personajes más representativos y síguela en el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-27c3-df43-a9ff-f7c706490000",
+              "title": "Grettell_Valdez_Medicos_1.jpg",
+              "caption": null,
+              "credit": "Televisa/Instagram",
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/fa/6f/8c09841f4b949e538549d1b32145/grettell-valdez-medicos-1.jpg",
+                  "width": 1280,
+                  "height": 720,
+                  "focusPoint": {
+                    "x": 0.4695371293082712,
+                    "y": 0.04296875
+                  }
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-07T01:36:16-04:00",
+            "publishDate": "2020-07-07T01:35:24-04:00",
+            "expirationDate": null,
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+                "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+                "name": "medicos linea de vida",
+                "title": "Médicos Línea De Vida"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "slideshowType": "verticalslideshow",
+            "slideCount": 24,
+            "cardImages": [
+              {
+                "type": "image",
+                "uid": "00000172-a0fa-def5-af77-b0fbe5480000",
+                "title": "grettell-medicos.jpg",
+                "caption": "Telenovelas de Grettell Valdez",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/05/12/773d27b14a00a297f56e99952774/grettell-medicos.jpg",
+                    "width": 2400,
+                    "height": 3000,
+                    "focusPoint": {
+                      "x": 0.5322346837567712,
+                      "y": 0.0703125
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000172-a0f8-df3c-a9fa-f9fad2490000",
+                "title": "9813-Medicos053-GrettellValdezRodolfoSalas.jpg",
+                "caption": "Telenovelas de Grettell Valdez",
+                "credit": "Mezcalent",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/62/53/8c5155d144a0bdddf91e39f0084a/9813-medicos053-grettellvaldezrodolfosalas.jpg",
+                    "width": 2333,
+                    "height": 3500,
+                    "focusPoint": {
+                      "x": 0.37500572213321126,
+                      "y": 0.15234375
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000172-a0fa-def5-af77-b0fbe5260000",
+                "title": "grettell-clase406-2.jpg",
+                "caption": "Telenovelas de Grettell Valdez",
+                "credit": "Televisa",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/d4/ea/cc9ba2af4b30a58ed12b853cc6f7/grettell-clase406-2.jpg",
+                    "width": 1040,
+                    "height": 800,
+                    "focusPoint": {
+                      "x": 0.6082936330994344,
+                      "y": 0.05078125
+                    }
+                  }
+                }
+              }
+            ],
+            "jwRecommendationChannel": "78MDrZDv",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/EXRl102ieGi",
+                  "isFeedDialog": false,
+                  "title": "De ‘Clase 406’ a Médicos: este ha sido el paso de Grettell Valdez por las telenovelas",
+                  "description": "La actriz mexicana, quien es parte del elenco de la nueva producción de José Alberto Castro, tiene una larga trayectoria en los melodramas en los que ha brillado tanto en papeles de heroína como de villana. Recuerda sus personajes más representativos y síguela en el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/05/12/773d27b14a00a297f56e99952774/grettell-medicos.jpg",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/EXRl102ieGi",
+                  "title": "De ‘Clase 406’ a Médicos: este ha sido el paso de Grettell Valdez por las telenovelas",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/EXRl102ieGi",
+                  "message": "De ‘Clase 406’ a Médicos: este ha sido el paso de Grettell Valdez por las telenovelas"
+                },
+                "mail": {
+                  "subject": "De ‘Clase 406’ a Médicos: este ha sido el paso de Grettell Valdez por las telenovelas",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nDe ‘Clase 406’ a Médicos: este ha sido el paso de Grettell Valdez por las telenovelas\n\nEncuéntralo en este enlace:http://uni.vi/EXRl102ieGi\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Novelas",
+              "link": "https://uat.x.univision.com/local/bakersfield-kabe/temas/novelas"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-3124-dc03-a7f7-f52fe3c60000",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/medicos-linea-de-vida/amor-drama-ilusion-las-emociones-de-medicos-se-aduenaran-de-tus-noches-video",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+              "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+              "name": "médicos línea de vida",
+              "title": "Médicos Línea De Vida"
+            },
+            "title": "Amor, drama, ilusión… las emociones de Médicos se adueñarán de tus noches",
+            "description": "La telenovela protagonizada por Livia Brito, Daniel Arenas y un elenco sensacional te mantendrá al filo del asiento desde el primer capítulo. No te pierdas el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-3126-d6d2-a973-7bef3a920000",
+              "title": "89cd3ed2ad4d405886b9e86822aa577c",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/d5/12/ed5470e74940bdf9f937ec4d909b/89cd3ed2ad4d405886b9e86822aa577c",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-08T21:17:35-04:00",
+            "publishDate": "2020-07-08T20:00:00-04:00",
+            "expirationDate": "2020-07-16T20:49:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+                "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+                "name": "medicos linea de vida",
+                "title": "Médicos Línea De Vida"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884189",
+            "durationString": "0:30",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/MQvo102in0I",
+                  "isFeedDialog": false,
+                  "title": "Amor, drama, ilusión… las emociones de Médicos se adueñarán de tus noches",
+                  "description": "La telenovela protagonizada por Livia Brito, Daniel Arenas y un elenco sensacional te mantendrá al filo del asiento desde el primer capítulo. No te pierdas el gran estreno de Médicos este martes 14 de julio a las 9P/ 8C por Univision.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/d5/12/ed5470e74940bdf9f937ec4d909b/89cd3ed2ad4d405886b9e86822aa577c",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/MQvo102in0I",
+                  "title": "Amor, drama, ilusión… las emociones de Médicos se adueñarán de tus noches",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/MQvo102in0I",
+                  "message": "Amor, drama, ilusión… las emociones de Médicos se adueñarán de tus noches"
+                },
+                "mail": {
+                  "subject": "Amor, drama, ilusión… las emociones de Médicos se adueñarán de tus noches",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAmor, drama, ilusión… las emociones de Médicos se adueñarán de tus noches\n\nEncuéntralo en este enlace:http://uni.vi/MQvo102in0I\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/bakersfield/kabe",
+              "targeting": {
+                "vertical": "entretenimiento",
+                "tag": [
+                  "danielarenas",
+                  "grettellvaldez",
+                  "carlosdelamota",
+                  "capituloscompletos",
+                  "liviabrito"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Novelas",
+              "Television",
+              "Entretenimiento"
+            ],
+            "primaryTag": {
+              "name": "Daniel Arenas",
+              "link": "https://uat.x.univision.com/local/bakersfield-kabe/temas/daniel-arenas"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000172-9253-d583-a573-9f5bfb490000",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/sal-y-pimienta/daniel-arenas-esta-en-un-trio-amoroso-el-protagonista-de-medicos-linea-de-vida-lo-aclara-video",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000148-12db-dd17-abec-12fba32d0000",
+              "uri": "https://uat.x.univision.com/shows/sal-y-pimienta",
+              "name": "sal y pimienta",
+              "title": "Sal y Pimienta"
+            },
+            "title": "¿Daniel Arenas está en un trío amoroso? El protagonista de Médicos, Línea de Vida lo aclara",
+            "description": "El actor conversó en entrevista con Migbelis Castellanos de su situación amorosa y la reina de belleza coincidió en que también se ha encontrado en el mismo problema. Por otra parte, Daniel también habló de su personaje en la serie que está por estrenarse en las pantallas de Univision, y del tema de la discriminación, que ha causado conmoción en las redes sociales.",
+            "image": {
+              "type": "image",
+              "uid": "00000172-cb0f-db39-abff-cf6fb7710000",
+              "title": "32b0190d6ad140908032224f3b76ea87",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/be/ea/b66a60554078a93c97eb84fcb385/32b0190d6ad140908032224f3b76ea87",
+                  "width": 1920,
+                  "height": 1080
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-06-19T01:31:43-04:00",
+            "publishDate": "2020-06-08T00:36:00-04:00",
+            "expirationDate": "2020-09-07T00:36:00-04:00",
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000148-12db-dd17-abec-12fba32d0000",
+                "uri": "https://uat.x.univision.com/shows/sal-y-pimienta",
+                "name": "sal y pimienta",
+                "title": "Sal y Pimienta"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3870456",
+            "durationString": "2:00",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": "2020-09-07_3870456.mp4",
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/bwkR102gvHa",
+                  "isFeedDialog": false,
+                  "title": "¿Daniel Arenas está en un trío amoroso? El protagonista de Médicos, Línea de Vida lo aclara",
+                  "description": "El actor conversó en entrevista con Migbelis Castellanos de su situación amorosa y la reina de belleza coincidió en que también se ha encontrado en el mismo problema. Por otra parte, Daniel también habló de su personaje en la serie que está por estrenarse en las pantallas de Univision, y del tema de la discriminación, que ha causado conmoción en las redes sociales.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/be/ea/b66a60554078a93c97eb84fcb385/32b0190d6ad140908032224f3b76ea87",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/bwkR102gvHa",
+                  "title": "¿Daniel Arenas está en un trío amoroso? El protagonista de Médicos, Línea de Vida lo aclara",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/bwkR102gvHa",
+                  "message": "¿Daniel Arenas está en un trío amoroso? El protagonista de Médicos, Línea de Vida lo aclara"
+                },
+                "mail": {
+                  "subject": "¿Daniel Arenas está en un trío amoroso? El protagonista de Médicos, Línea de Vida lo aclara",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Daniel Arenas está en un trío amoroso? El protagonista de Médicos, Línea de Vida lo aclara\n\nEncuéntralo en este enlace:http://uni.vi/bwkR102gvHa\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/bakersfield/kabe",
+              "targeting": {
+                "vertical": "entretenimiento",
+                "tag": [
+                  "danielarenas",
+                  "migbeliscastellanos",
+                  "celebridades",
+                  "telenovelas",
+                  "salypimienta"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Talk",
+              "Variety"
+            ],
+            "primaryTag": {
+              "name": "Sal y Pimienta",
+              "link": "https://uat.x.univision.com/shows/sal-y-pimienta"
+            }
+          }
+        ],
+        "breakingNewsMode": false,
+        "id": "00000172-ba88-d819-a9fb-bbfc53a50011",
+        "type": "GridWidget",
+        "commonRootSection": {
+          "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+          "uri": "https://uat.x.univision.com/shows",
+          "name": "shows",
+          "title": "Shows"
+        }
+      },
+      {
+        "settings": {
+          "type": "gridwidget",
+          "uid": "0000016e-8391-d0cb-a1ee-dfb327e00000",
+          "title": "Entérate de más de Novelas y Series",
+          "titleLink": null,
+          "lazyLoaded": false,
+          "seeMoreLink": null,
+          "listTitle": null,
+          "listGrid": false,
+          "personalizationType": null
+        },
+        "analyticsData": {
+          "widget": {
+            "widget_pos": 3,
+            "widget_title": "enterate de mas de novelas y series",
+            "widget_type": "grid widget"
+          }
+        },
+        "contents": [
+          {
+            "type": "slideshow",
+            "uid": "00000173-350d-d7d9-adff-3ddd95480000",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/famosos/lo-compre-ese-dia-marcus-ornellas-revela-que-no-planeo-el-dia-que-le-dio-el-anillo-de-compromiso-a-ariadne-diaz-fotos",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000166-4216-dd50-a166-e73f34130000",
+              "uri": "https://uat.x.univision.com/famosos",
+              "name": "famosos",
+              "title": "Famosos"
+            },
+            "title": "\"Lo compré ese día\": Marcus Ornellas revela que no planeó el día que le dio el anillo de compromiso a Ariadne Díaz ",
+            "description": "El actor recordó el día en que le dio el anillo a su pareja y compartió que fue algo que ni quiera planeó. Todo se dio de repente durante la fiesta de cumpleaños que le organizó a la actriz en agosto del año 2018. Ni siquiera estaba seguro de que le sortija le quedaría a la madre de su hijo.\n<br>",
+            "image": {
+              "type": "image",
+              "uid": "00000173-350d-d7d9-adff-3ddd9547002e",
+              "title": "Thumbnail_9-julio marcus.jpg",
+              "caption": "Marcus Ornellas, Ariadne Díaz y Diego",
+              "credit": "Marcus Ornellas/Instagram",
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/d6/a7/609e3b874cba8db48062f262d820/thumbnail-9-julio-marcus.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-09T17:07:03-04:00",
+            "publishDate": "2020-07-09T17:07:03-04:00",
+            "expirationDate": null,
+            "hierarchy": [
+              {
+                "uuid": "00000166-4216-dd50-a166-e73f34130000",
+                "uri": "https://uat.x.univision.com/famosos",
+                "name": "famosos",
+                "title": "Famosos"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "slideshowType": "verticalslideshow",
+            "slideCount": 25,
+            "cardImages": [
+              {
+                "type": "image",
+                "uid": "0000016f-ecb6-dd1a-a7ff-fcfe43160000",
+                "title": "ariadne_diaz_72671694_595537847652182_5976261421117032982_n.jpg",
+                "caption": "Ariadne Díaz Marcus Ornellas hijo Diego 2020",
+                "credit": "Ariadne Díaz/Instagram",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/c2/59/d34f7bc64fd7b6eb836c91b57d2f/ariadne-diaz-72671694-595537847652182-5976261421117032982-n.jpg",
+                    "width": 1080,
+                    "height": 1350,
+                    "focusPoint": {
+                      "x": 0.4777763574196523,
+                      "y": 0.3197115384615384
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000165-441c-dbb4-a9e5-dfbd8bcf0001",
+                "title": "Ariadne Díaz Marcus Ornellas anillo de compromiso ",
+                "caption": null,
+                "credit": "Instagram @marcusornellas",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/30/58/40dd0b054c92a769c1a81c07aecc/m2.PNG",
+                    "width": 476,
+                    "height": 264,
+                    "focusPoint": {
+                      "x": 0.5012984937407508,
+                      "y": 0.4903846153846153
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000165-441c-dbb4-a9e5-dfbd8bcb0000",
+                "title": "Ariadne Díaz Marcus Ornellas anillo de compromiso ",
+                "caption": null,
+                "credit": "Instagram @marcusornellas",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/c4/af/c06c68974c9fa457be5f73addd9a/m4.PNG",
+                    "width": 474,
+                    "height": 264,
+                    "focusPoint": {
+                      "x": 0.4685996401824191,
+                      "y": 0.47115384615384615
+                    }
+                  }
+                }
+              }
+            ],
+            "jwRecommendationChannel": "78MDrZDv",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/k576102iqTR",
+                  "isFeedDialog": false,
+                  "title": "\"Lo compré ese día\": Marcus Ornellas revela que no planeó el día que le dio el anillo de compromiso a Ariadne Díaz ",
+                  "description": "El actor recordó el día en que le dio el anillo a su pareja y compartió que fue algo que ni quiera planeó. Todo se dio de repente durante la fiesta de cumpleaños que le organizó a la actriz en agosto del año 2018. Ni siquiera estaba seguro de que le sortija le quedaría a la madre de su hijo.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/c2/59/d34f7bc64fd7b6eb836c91b57d2f/ariadne-diaz-72671694-595537847652182-5976261421117032982-n.jpg",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/k576102iqTR",
+                  "title": "\"Lo compré ese día\": Marcus Ornellas revela que no planeó el día que le dio el anillo de compromiso a Ariadne Díaz ",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/k576102iqTR",
+                  "message": "\"Lo compré ese día\": Marcus Ornellas revela que no planeó el día que le dio el anillo de compromiso a Ariadne Díaz "
+                },
+                "mail": {
+                  "subject": "\"Lo compré ese día\": Marcus Ornellas revela que no planeó el día que le dio el anillo de compromiso a Ariadne Díaz ",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"Lo compré ese día\": Marcus Ornellas revela que no planeó el día que le dio el anillo de compromiso a Ariadne Díaz \n\nEncuéntralo en este enlace:http://uni.vi/k576102iqTR\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Famosos",
+              "link": "https://uat.x.univision.com/famosos"
+            }
+          },
+          {
+            "type": "slideshow",
+            "uid": "00000173-34b1-df5c-aff3-feb7575f0001",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/famosos/alfredo-adame-ya-no-quiere-que-su-hijo-mayor-lleve-su-apellido-porque-no-es-digno-de-el-fotos",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000166-4216-dd50-a166-e73f34130000",
+              "uri": "https://uat.x.univision.com/famosos",
+              "name": "famosos",
+              "title": "Famosos"
+            },
+            "title": "Alfredo Adame ya no quiere que su hijo mayor lleve su apellido porque no es \"digno\" de él",
+            "description": "El actor se refiere ahora a su primogénito como Diego Banquells, pues asegura que no quiere que lleve el apellido paterno y reiteró que \"no necesita\" tener una relación con él. El galán de telenovelas también acusó a su hijo de haber golpeado a sus hermanos.\n<br>",
+            "image": {
+              "type": "image",
+              "uid": "00000173-3501-df5c-aff3-ff87920e0000",
+              "title": "Thumbnail_9-julio adame.jpg",
+              "caption": "Alfredo y Diego Adame",
+              "credit": "Mezcalent y Alfredo y Diego Banquells/Instagram",
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/6d/77/41be74e74c138246c7cb1eac7682/thumbnail-9-julio-adame.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-09T15:18:12-04:00",
+            "publishDate": "2020-07-09T15:13:14-04:00",
+            "expirationDate": null,
+            "hierarchy": [
+              {
+                "uuid": "00000166-4216-dd50-a166-e73f34130000",
+                "uri": "https://uat.x.univision.com/famosos",
+                "name": "famosos",
+                "title": "Famosos"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "slideshowType": "verticalslideshow",
+            "slideCount": 26,
+            "cardImages": [
+              {
+                "type": "image",
+                "uid": "0000016a-9e81-dbd5-a37f-feb935d70000",
+                "title": "Alfredo Adame y su hijo Diego",
+                "caption": null,
+                "credit": "Mezcalent, Diego Adame Banquells/Instagram",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/d6/3d/1ae971d7455fb2be615bfe7bb8b6/thumbnail-alfredoadame-080519-b.jpg",
+                    "width": 1920,
+                    "height": 1080,
+                    "focusPoint": {
+                      "x": 0.3004482875119671,
+                      "y": 0.4182692307692308
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000171-7a7c-d152-abf7-ffffa5a20000",
+                "title": "diego_banquells_91342956_2756024658017169_894174511880986159_n.jpg",
+                "caption": "Diego, hijo de Alfredo Adame",
+                "credit": "Diego Banquells/Instagram",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/74/2c/7ab9dd45498b8be984040ae7b979/diego-banquells-91342956-2756024658017169-894174511880986159-n.jpg",
+                    "width": 890,
+                    "height": 890,
+                    "focusPoint": {
+                      "x": 0.5336538461538461,
+                      "y": 0.22115384615384615
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000171-7a7c-d152-abf7-ffffa5ae0001",
+                "title": "diego_banquells_93097771_577166116480328_900819558811065780_n.jpg",
+                "caption": "Diego, hijo de Alfredo Adame",
+                "credit": "Diego Banquells/Instagram",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/63/a9/87bc808e4a6b811eb2b674246fd1/diego-banquells-93097771-577166116480328-900819558811065780-n.jpg",
+                    "width": 960,
+                    "height": 960,
+                    "focusPoint": {
+                      "x": 0.40384615384615385,
+                      "y": 0.4615384615384615
+                    }
+                  }
+                }
+              }
+            ],
+            "jwRecommendationChannel": "78MDrZDv",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/Ud8J102iqJq",
+                  "isFeedDialog": false,
+                  "title": "Alfredo Adame ya no quiere que su hijo mayor lleve su apellido porque no es \"digno\" de él",
+                  "description": "El actor se refiere ahora a su primogénito como Diego Banquells, pues asegura que no quiere que lleve el apellido paterno y reiteró que \"no necesita\" tener una relación con él. El galán de telenovelas también acusó a su hijo de haber golpeado a sus hermanos.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/d6/3d/1ae971d7455fb2be615bfe7bb8b6/thumbnail-alfredoadame-080519-b.jpg",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/Ud8J102iqJq",
+                  "title": "Alfredo Adame ya no quiere que su hijo mayor lleve su apellido porque no es \"digno\" de él",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/Ud8J102iqJq",
+                  "message": "Alfredo Adame ya no quiere que su hijo mayor lleve su apellido porque no es \"digno\" de él"
+                },
+                "mail": {
+                  "subject": "Alfredo Adame ya no quiere que su hijo mayor lleve su apellido porque no es \"digno\" de él",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nAlfredo Adame ya no quiere que su hijo mayor lleve su apellido porque no es \"digno\" de él\n\nEncuéntralo en este enlace:http://uni.vi/Ud8J102iqJq\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Famosos",
+              "link": "https://uat.x.univision.com/famosos"
+            }
+          },
+          {
+            "type": "slideshow",
+            "uid": "00000173-342a-d119-a7f3-352b3f8e0001",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/famosos/basta-nina-silvia-navarro-regana-a-su-hijastra-de-mi-corazon-es-tuyo-por-esta-foto-junto-a-su-novio-fotos",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000166-4216-dd50-a166-e73f34130000",
+              "uri": "https://uat.x.univision.com/famosos",
+              "name": "famosos",
+              "title": "Famosos"
+            },
+            "title": "\"¡Basta niña!\": Silvia Navarro 'regaña' a su hijastra de Mi Corazón Es Tuyo por esta foto junto a su novio",
+            "description": "Isidora Vives, la recordada Lichita en la exitosa telenovela del año 2014, está a punto de cumplir 18 años y ya tiene novio. Silvia Navarro fue nana y madrastra de esta integrante de la 'Tropa Lascuráin' y al parecer todavía está muy pendiente de sus pasos.\n<br>",
+            "image": {
+              "type": "image",
+              "uid": "00000173-346a-dc31-a77b-76fb51cf0000",
+              "title": "Silvia-Navarro-hijastra.jpg",
+              "caption": "Silvia Navarro y el elenco infantil de Mi Corazón es Tuyo",
+              "credit": "Mezcalent y Televisa",
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/7f/6b/89adf1f141f68620b2d221a03beb/silvia-navarro-hijastra.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-09T13:42:07-04:00",
+            "publishDate": "2020-07-09T13:38:40-04:00",
+            "expirationDate": null,
+            "hierarchy": [
+              {
+                "uuid": "00000166-4216-dd50-a166-e73f34130000",
+                "uri": "https://uat.x.univision.com/famosos",
+                "name": "famosos",
+                "title": "Famosos"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "slideshowType": "verticalslideshow",
+            "slideCount": 25,
+            "cardImages": [
+              {
+                "type": "image",
+                "uid": "00000172-5787-d1cc-a97f-fff7b5d60000",
+                "title": "descarga (1).jpeg",
+                "caption": "Así se transformó Emilio Osorio desde Mi corazón es tuyo",
+                "credit": "Televisa.com",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/0d/72/a68937f14c989db20c431486ab95/descarga-1.jpeg",
+                    "width": 818,
+                    "height": 614,
+                    "focusPoint": {
+                      "x": 0.505225133946025,
+                      "y": 0.3701923076923077
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "00000164-2350-db57-abec-ef7f77910000",
+                "title": "Adrián Uribe en Mi Corazón es Tuyo",
+                "caption": null,
+                "credit": "Instagram",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/c6/fc/715801ab4605b71ec7424da5a52b/1-visita-lascurain-teatro.png",
+                    "width": 525,
+                    "height": 535,
+                    "focusPoint": {
+                      "x": 0.1641276888922912,
+                      "y": 0.4423076923076923
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "uid": "0000016d-1748-da12-ab6f-3fcbf5090000",
+                "title": "Silvia Navarro 'Mi corazón es tuyo'",
+                "caption": null,
+                "credit": "Mezcalent",
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/1d/ca/bc1813464e6d825bf708a4508616/thumbnail-silvianavarro-reencuentro-micorazonestuyo.jpg",
+                    "width": 1920,
+                    "height": 1080,
+                    "focusPoint": {
+                      "x": 0.5251453167166805,
+                      "y": 0.2517241379310345
+                    }
+                  }
+                }
+              }
+            ],
+            "jwRecommendationChannel": "78MDrZDv",
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/H8EF102iqyZ",
+                  "isFeedDialog": false,
+                  "title": "\"¡Basta niña!\": Silvia Navarro 'regaña' a su hijastra de Mi Corazón Es Tuyo por esta foto junto a su novio",
+                  "description": "Isidora Vives, la recordada Lichita en la exitosa telenovela del año 2014, está a punto de cumplir 18 años y ya tiene novio. Silvia Navarro fue nana y madrastra de esta integrante de la 'Tropa Lascuráin' y al parecer todavía está muy pendiente de sus pasos.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/0d/72/a68937f14c989db20c431486ab95/descarga-1.jpeg",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/H8EF102iqyZ",
+                  "title": "\"¡Basta niña!\": Silvia Navarro 'regaña' a su hijastra de Mi Corazón Es Tuyo por esta foto junto a su novio",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/H8EF102iqyZ",
+                  "message": "\"¡Basta niña!\": Silvia Navarro 'regaña' a su hijastra de Mi Corazón Es Tuyo por esta foto junto a su novio"
+                },
+                "mail": {
+                  "subject": "\"¡Basta niña!\": Silvia Navarro 'regaña' a su hijastra de Mi Corazón Es Tuyo por esta foto junto a su novio",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n\"¡Basta niña!\": Silvia Navarro 'regaña' a su hijastra de Mi Corazón Es Tuyo por esta foto junto a su novio\n\nEncuéntralo en este enlace:http://uni.vi/H8EF102iqyZ\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "primaryTag": {
+              "name": "Famosos",
+              "link": "https://uat.x.univision.com/famosos"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-36ab-d964-abff-b6ef21670000",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/como-tu-no-hay-dos/como-tu-no-hay-2-luchita-le-confeso-a-ricardo-que-el-bacalao-vendio-a-su-gemelo-recien-nacido-escena-del-dia-video",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000171-1dbe-dc48-af77-7fff6a230000",
+              "uri": "https://uat.x.univision.com/shows/como-tu-no-hay-dos",
+              "name": "como tú no hay dos",
+              "title": "Como Tú No Hay Dos"
+            },
+            "title": "Luchita le confesó a Ricardo que 'El Bacalao' vendió a su gemelo recién nacido",
+            "description": "En la mejor escena del capítulo 55 de Como Tú No Hay 2, después de escuchar al 'Bacalao' admitir que vendió a su hijo recién nacido, Luchita se armó de valor y visitó a Ricardo para confesarle que su padre dio a su gemelo a cambio de dinero, sin saber que en realidad él es el hijo que no creció a su lado. Lunes a viernes 10P/ 9C por Univision.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-36ac-d6e1-a7fb-7ebd41640000",
+              "title": "d8bd3790478e41098124a1bb0a430261",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/f7/e9/c2a9a7b74c849288cb4fa65eefd4/d8bd3790478e41098124a1bb0a430261",
+                  "width": 1920,
+                  "height": 1080,
+                  "focusPoint": {
+                    "x": 0.2857142857142857,
+                    "y": 0.31141868512110726
+                  }
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-09T23:09:49-04:00",
+            "publishDate": "2020-07-09T23:00:00-04:00",
+            "expirationDate": "2020-11-18T23:00:00-05:00",
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000171-1dbe-dc48-af77-7fff6a230000",
+                "uri": "https://uat.x.univision.com/shows/como-tu-no-hay-dos",
+                "name": "como tu no hay dos",
+                "title": "Como Tú No Hay Dos"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884601",
+            "durationString": "1:47",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/GAcT102irj8",
+                  "isFeedDialog": false,
+                  "title": "Como Tú No Hay 2 - Luchita le confesó a Ricardo que 'El Bacalao' vendió a su gemelo recién nacido - Escena del día",
+                  "description": "En la mejor escena del capítulo 55 de Como Tú No Hay 2, después de escuchar al 'Bacalao' admitir que vendió a su hijo recién nacido, Luchita se armó de valor y visitó a Ricardo para confesarle que su padre dio a su gemelo a cambio de dinero, sin saber que en realidad él es el hijo que no creció a su lado. Lunes a viernes 10P/ 9C por Univision.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/f7/e9/c2a9a7b74c849288cb4fa65eefd4/d8bd3790478e41098124a1bb0a430261",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/GAcT102irj8",
+                  "title": "Como Tú No Hay 2 - Luchita le confesó a Ricardo que 'El Bacalao' vendió a su gemelo recién nacido - Escena del día",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/GAcT102irj8",
+                  "message": "Como Tú No Hay 2 - Luchita le confesó a Ricardo que 'El Bacalao' vendió a su gemelo recién nacido - Escena del día"
+                },
+                "mail": {
+                  "subject": "Como Tú No Hay 2 - Luchita le confesó a Ricardo que 'El Bacalao' vendió a su gemelo recién nacido - Escena del día",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nComo Tú No Hay 2 - Luchita le confesó a Ricardo que 'El Bacalao' vendió a su gemelo recién nacido - Escena del día\n\nEncuéntralo en este enlace:http://uni.vi/GAcT102irj8\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/bakersfield/kabe",
+              "targeting": {
+                "vertical": "entretenimiento",
+                "tag": [
+                  "novelas",
+                  "adrianuribe",
+                  "azelarobinson",
+                  "comotunohaydos"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Novelas",
+              "Television",
+              "Entretenimiento"
+            ],
+            "primaryTag": {
+              "name": "Como Tú No Hay Dos",
+              "link": "https://uat.x.univision.com/shows/como-tu-no-hay-dos"
+            }
+          },
+          {
+            "type": "video",
+            "uid": "00000173-36ab-d299-a377-feff28290000",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/como-tu-no-hay-dos/ricardo-tuvo-una-salvaje-pelea-con-el-bacalao-tras-saber-que-el-vendio-a-su-gemelo-video",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000171-1dbe-dc48-af77-7fff6a230000",
+              "uri": "https://uat.x.univision.com/shows/como-tu-no-hay-dos",
+              "name": "como tú no hay dos",
+              "title": "Como Tú No Hay Dos"
+            },
+            "title": "Ricardo tuvo una salvaje pelea con 'El Bacalao' tras saber que él vendió a su gemelo",
+            "description": "En el mejor momento del capítulo 55 de Como Tú No Hay 2, después de que el 'Bacalao' no permitiera que Luchita le confesara a Ricardo todo lo que sabía sobre él y su hermano gemelo, el millonario le dijo a su papá que sabe cuál es su verdadero nombre. Al escucharlo, Félix lo golpeó. Lunes a viernes 10P/ 9C por Univision.",
+            "image": {
+              "type": "image",
+              "uid": "00000173-36ab-d299-a377-feff305c0000",
+              "title": "6c1d5969d29548bf9e02b184637798e7",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot.s3.amazonaws.com/a4/56/3773b991432b819797f18071771c/6c1d5969d29548bf9e02b184637798e7",
+                  "width": 1920,
+                  "height": 1080,
+                  "focusPoint": {
+                    "x": 0.36883116883116884,
+                    "y": 0.3160322952710496
+                  }
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": null,
+            "updateDate": "2020-07-09T23:08:21-04:00",
+            "publishDate": "2020-07-09T23:00:00-04:00",
+            "expirationDate": "2020-11-18T23:00:00-05:00",
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000171-1dbe-dc48-af77-7fff6a230000",
+                "uri": "https://uat.x.univision.com/shows/como-tu-no-hay-dos",
+                "name": "como tu no hay dos",
+                "title": "Como Tú No Hay Dos"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3884594",
+            "durationString": "0:43",
+            "episodeNo": null,
+            "authRequired": false,
+            "longform": false,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": null,
+            "show": null,
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "http://uni.vi/cOt2102irj9",
+                  "isFeedDialog": false,
+                  "title": "Ricardo tuvo una salvaje pelea con 'El Bacalao' tras saber que él vendió a su gemelo",
+                  "description": "En el mejor momento del capítulo 55 de Como Tú No Hay 2, después de que el 'Bacalao' no permitiera que Luchita le confesara a Ricardo todo lo que sabía sobre él y su hermano gemelo, el millonario le dijo a su papá que sabe cuál es su verdadero nombre. Al escucharlo, Félix lo golpeó. Lunes a viernes 10P/ 9C por Univision.",
+                  "imageUrl": "https://uvn-brightspot.s3.amazonaws.com/a4/56/3773b991432b819797f18071771c/6c1d5969d29548bf9e02b184637798e7",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "http://uni.vi/cOt2102irj9",
+                  "title": "Ricardo tuvo una salvaje pelea con 'El Bacalao' tras saber que él vendió a su gemelo",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "http://uni.vi/cOt2102irj9",
+                  "message": "Ricardo tuvo una salvaje pelea con 'El Bacalao' tras saber que él vendió a su gemelo"
+                },
+                "mail": {
+                  "subject": "Ricardo tuvo una salvaje pelea con 'El Bacalao' tras saber que él vendió a su gemelo",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRicardo tuvo una salvaje pelea con 'El Bacalao' tras saber que él vendió a su gemelo\n\nEncuéntralo en este enlace:http://uni.vi/cOt2102irj9\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/bakersfield/kabe",
+              "targeting": {
+                "vertical": "entretenimiento",
+                "tag": [
+                  "novelas",
+                  "adrianuribe",
+                  "comotunohaydos"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Novelas",
+              "Television",
+              "Entretenimiento"
+            ],
+            "primaryTag": {
+              "name": "Como Tú No Hay Dos",
+              "link": "https://uat.x.univision.com/shows/como-tu-no-hay-dos"
+            }
+          }
+        ],
+        "breakingNewsMode": false,
+        "id": "0000016e-8391-d0cb-a1ee-dfb327e00000",
+        "type": "GridWidget",
+        "commonRootSection": null
+      }
+    ],
+    "source": "Univision",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+          "isFeedDialog": false,
+          "title": "Médicos Línea De Vida",
+          "description": "Livia Brito, Daniel Arenas y Grettell Valdez protagonizan esta historia donde los doctores además de salvar la vida de sus pacientes, tratarán de curar las heridas que el desamor les ha dejado para finalmente vivir plenamente.",
+          "imageUrl": null,
+          "appId": "645138725541385"
+        },
+        "twitter": {
+          "url": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+          "title": "Médicos Línea De Vida",
+          "via": "univision39"
+        },
+        "whatsapp": {
+          "url": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+          "message": "Médicos Línea De Vida"
+        },
+        "mail": {
+          "subject": "Médicos Línea De Vida",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMédicos Línea De Vida\n\nEncuéntralo en este enlace:https://uat.x.univision.com/shows/medicos-linea-de-vida\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "secondaryTags": null,
+    "globalWidgets": [],
+    "sectionType": "show",
+    "socialNetworks": [],
+    "jwRecommendationChannel": "78MDrZDv",
+    "dynamicPlaylist": false,
+    "staticWidgets": [
+      {
+        "type": "LongFormVideoList",
+        "contents": [
+          {
+            "type": "video",
+            "uid": "00000174-2fb9-d56a-a1fc-efbf22910000",
+            "uri": "https://uat.x.univision.com/local/bakersfield-kabe/shows/medicos-linea-de-vida/medicos-linea-de-vida-capitulo-31-video",
+            "vertical": "Entretenimiento",
+            "parent": {
+              "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+              "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+              "name": "médicos línea de vida",
+              "title": "Médicos Línea De Vida"
+            },
+            "title": "Médicos Línea de Vida Capítulo 31",
+            "description": "Regina y Victoria acorralan a Sergio con respecto a la demanda de divorcio. Arturo recibe a una paciente con una avanzada fiebre reumática, que necesita un trasplante de corazón. Sergio pretende culpar a David por falsas lesiones y Roberto logra ayudarlo.",
+            "image": {
+              "type": "image",
+              "uid": "00000174-2fb9-d56a-a1fc-efbf2d9d0000",
+              "title": "bf5bd0f07b124557978837b7335e5967",
+              "caption": null,
+              "credit": null,
+              "renditions": {
+                "original": {
+                  "href": "https://uvn-brightspot-lower.s3.amazonaws.com/e2/7d/439fa34d4b09af0a1c18191ba666/bf5bd0f07b124557978837b7335e5967",
+                  "width": 1920,
+                  "height": 1080
+                },
+                "16x9-mobile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/71b0beb/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 480,
+                  "height": 270
+                },
+                "16x9-loading": {
+                  "href": "https://uat2.x.univision.com/dims4/default/c36d1c7/2147483647/thumbnail/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 30,
+                  "height": 17
+                },
+                "16x9-sm": {
+                  "href": "https://uat2.x.univision.com/dims4/default/266f2a1/2147483647/thumbnail/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 246,
+                  "height": 138
+                },
+                "16x9-tablet": {
+                  "href": "https://uat2.x.univision.com/dims4/default/939cc45/2147483647/thumbnail/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F1500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 1024,
+                  "height": 576
+                },
+                "16x9": {
+                  "href": "https://uat2.x.univision.com/dims4/default/146746d/2147483647/thumbnail/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F1500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 1240,
+                  "height": 698
+                },
+                "16x9-med": {
+                  "href": "https://uat2.x.univision.com/dims4/default/1cf75f8/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 400,
+                  "height": 225
+                },
+                "16x9-extended": {
+                  "href": "https://uat2.x.univision.com/dims4/default/10daecb/2147483647/thumbnail/1440x810/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F1500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 1440,
+                  "height": 810
+                },
+                "1x1-person-profile": {
+                  "href": "https://uat2.x.univision.com/dims4/default/b67e03b/2147483647/thumbnail/182x182/quality/75/?url=https%3A%2F%2Fuvn-brightspot-lower.s3.amazonaws.com%2Fe2%2F7d%2F439fa34d4b09af0a1c18191ba666%2Fresizes%2F500%2Fbf5bd0f07b124557978837b7335e5967",
+                  "width": 182,
+                  "height": 182
+                }
+              }
+            },
+            "authors": [],
+            "cardLabel": "NUEVO",
+            "updateDate": "2020-08-27T07:41:37-04:00",
+            "publishDate": "2020-08-27T00:00:00-04:00",
+            "expirationDate": "2021-02-03T00:00:00-05:00",
+            "hierarchy": [
+              {
+                "uuid": "00000153-860f-dd44-afd7-f67fc3280012",
+                "uri": "https://uat.x.univision.com/shows",
+                "name": "shows",
+                "title": "Shows"
+              },
+              {
+                "uuid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+                "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+                "name": "medicos linea de vida",
+                "title": "Médicos Línea De Vida"
+              }
+            ],
+            "disableReactions": false,
+            "contentPriority": "STANDARD",
+            "mcpid": "3899632",
+            "durationString": "1:25:15",
+            "episodeNo": null,
+            "authRequired": true,
+            "longform": true,
+            "longformPlayList": false,
+            "hasNextEpisode": false,
+            "source": "Univision",
+            "previewUrl": "2021-02-03_3899632.mp4",
+            "show": {
+              "type": "show",
+              "uid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+              "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+              "vertical": null,
+              "parent": null,
+              "title": "Médicos, Línea De Vida",
+              "description": "Livia Brito, Daniel Arenas y Grettell Valdez protagonizan esta historia donde los doctores además de salvar la vida de sus pacientes, tratarán de curar las heridas que el desamor les ha dejado para finalmente vivir plenamente.",
+              "image": {
+                "type": "image",
+                "uid": "00000172-c28d-dee7-a173-dacf88370000",
+                "title": "Médicos en linea_ Universal",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/ba/4e/87a079ea475297571f9501b1b34f/universal-3.jpg",
+                    "width": 1200,
+                    "height": 675
+                  },
+                  "16x9-mobile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/36385ad/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-loading": {
+                    "href": "https://uat2.x.univision.com/dims4/default/0bad6ac/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+                    "width": 30,
+                    "height": 17
+                  },
+                  "16x9-sm": {
+                    "href": "https://uat2.x.univision.com/dims4/default/2b3aa5b/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href": "https://uat2.x.univision.com/dims4/default/39baa33/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9": {
+                    "href": "https://uat2.x.univision.com/dims4/default/4ccb8a9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-med": {
+                    "href": "https://uat2.x.univision.com/dims4/default/caf8f58/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9-extended": {
+                    "href": "https://uat2.x.univision.com/dims4/default/7790e8b/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg",
+                    "width": 1440,
+                    "height": 810
+                  },
+                  "1x1-person-profile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/dedea8b/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+                    "width": 182,
+                    "height": 182
+                  }
+                }
+              },
+              "authors": [],
+              "cardLabel": null,
+              "updateDate": "2020-07-09T00:02:09-04:00",
+              "publishDate": "2020-06-11T11:44:12-04:00",
+              "expirationDate": null,
+              "hierarchy": [],
+              "disableReactions": false,
+              "airTime": "Gran estreno 14 de Julio 9P/8C",
+              "headerLogo": {
+                "type": "image",
+                "uid": "00000172-c28c-dee7-a173-daceef250000",
+                "title": "Médicos en linea_Logo",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/7a/c1/cb26136c49d9ac67fdc6536ca45c/svg-4.svg",
+                    "width": 0,
+                    "height": 0
+                  },
+                  "16x9-mobile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/68fb44a/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-loading": {
+                    "href": "https://uat2.x.univision.com/dims4/default/33520e4/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 30,
+                    "height": 17
+                  },
+                  "16x9-sm": {
+                    "href": "https://uat2.x.univision.com/dims4/default/91d2158/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href": "https://uat2.x.univision.com/dims4/default/dd9c509/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9": {
+                    "href": "https://uat2.x.univision.com/dims4/default/561d7c9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-med": {
+                    "href": "https://uat2.x.univision.com/dims4/default/2e3f644/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9-extended": {
+                    "href": "https://uat2.x.univision.com/dims4/default/c0f3252/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 1440,
+                    "height": 810
+                  },
+                  "1x1-person-profile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/32ff3a6/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+                    "width": 182,
+                    "height": 182
+                  }
+                }
+              },
+              "highImpactImages": {
+                "mobile": {
+                  "type": "image",
+                  "uid": "00000172-c28b-dee7-a173-dacb49360000",
+                  "title": "Médicos en linea_Alto impacto mobile",
+                  "caption": null,
+                  "credit": null,
+                  "renditions": {
+                    "original": {
+                      "href": "https://uvn-brightspot.s3.amazonaws.com/bd/89/d5bff28e41dab0b0d4b8aa4f9d19/lf-altoimpacto-mobile-2x.jpg",
+                      "width": 828,
+                      "height": 466
+                    }
+                  }
+                },
+                "desktop": {
+                  "type": "image",
+                  "uid": "00000172-c28a-d03a-abf3-da8b76c00000",
+                  "title": "Médicos en linea_Alto impacto desktop",
+                  "caption": null,
+                  "credit": null,
+                  "renditions": {
+                    "original": {
+                      "href": "https://uvn-brightspot.s3.amazonaws.com/16/dd/1176194f4d3db1508ca12f696d44/lf-altoimpacto-desktop.jpg",
+                      "width": 1440,
+                      "height": 466
+                    }
+                  }
+                }
+              },
+              "showCardArtwork": {
+                "type": "image",
+                "uid": "00000172-c28c-dee7-a173-dace17770000",
+                "title": "Médicos en linea_show card landscape",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://uvn-brightspot.s3.amazonaws.com/4a/d7/00767da64addbf55e471e85d6cc7/showcard-landscape-2.jpg",
+                    "width": 730,
+                    "height": 487
+                  },
+                  "16x9-mobile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/3148ed3/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-loading": {
+                    "href": "https://uat2.x.univision.com/dims4/default/96b420b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+                    "width": 30,
+                    "height": 17
+                  },
+                  "16x9-sm": {
+                    "href": "https://uat2.x.univision.com/dims4/default/fbd9ed7/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href": "https://uat2.x.univision.com/dims4/default/80317d9/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fshowcard-landscape-2.jpg",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9": {
+                    "href": "https://uat2.x.univision.com/dims4/default/8485e20/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fshowcard-landscape-2.jpg",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-med": {
+                    "href": "https://uat2.x.univision.com/dims4/default/8955362/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9-extended": {
+                    "href": "https://uat2.x.univision.com/dims4/default/bfd70d9/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fshowcard-landscape-2.jpg",
+                    "width": 1440,
+                    "height": 810
+                  },
+                  "1x1-person-profile": {
+                    "href": "https://uat2.x.univision.com/dims4/default/89fe1ab/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+                    "width": 182,
+                    "height": 182
+                  }
+                }
+              },
+              "socialNetworks": []
+            },
+            "sharing": {
+              "options": {
+                "facebook": {
+                  "url": "https://uat.x.univision.com/shows/medicos-linea-de-vida/medicos-linea-de-vida-capitulo-31-video",
+                  "isFeedDialog": false,
+                  "title": "Médicos Línea de Vida Capítulo 31",
+                  "description": "Regina y Victoria acorralan a Sergio con respecto a la demanda de divorcio. Arturo recibe a una paciente con una avanzada fiebre reumática, que necesita un trasplante de corazón. Sergio pretende culpar a David por falsas lesiones y Roberto logra ayudarlo.",
+                  "imageUrl": "https://uvn-brightspot-lower.s3.amazonaws.com/e2/7d/439fa34d4b09af0a1c18191ba666/bf5bd0f07b124557978837b7335e5967",
+                  "appId": "645138725541385"
+                },
+                "twitter": {
+                  "url": "https://uat.x.univision.com/shows/medicos-linea-de-vida/medicos-linea-de-vida-capitulo-31-video",
+                  "title": "Médicos Línea de Vida Capítulo 31",
+                  "via": "univision39"
+                },
+                "whatsapp": {
+                  "url": "https://uat.x.univision.com/shows/medicos-linea-de-vida/medicos-linea-de-vida-capitulo-31-video",
+                  "message": "Médicos Línea de Vida Capítulo 31"
+                },
+                "mail": {
+                  "subject": "Médicos Línea de Vida Capítulo 31",
+                  "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nMédicos Línea de Vida Capítulo 31\n\nEncuéntralo en este enlace:https://uat.x.univision.com/shows/medicos-linea-de-vida/medicos-linea-de-vida-capitulo-31-video\n\nVisítanos https://www.univision.com"
+                }
+              }
+            },
+            "adSettings": {
+              "disable3rdPartyAds": false,
+              "disableAds": false,
+              "disableVideoAds": false,
+              "adTagValue": "video_local/tv/bakersfield/kabe",
+              "targeting": {
+                "vertical": "entretenimiento",
+                "tag": [
+                  "danielarenas",
+                  "grettellvaldez",
+                  "carlosdelamota",
+                  "capituloscompletos",
+                  "liviabrito"
+                ]
+              },
+              "contentSpecificSettings": {}
+            },
+            "categories": [
+              "Novelas"
+            ]
+          }
+        ]
+      }
+    ],
+    "show": {
+      "type": "show",
+      "uid": "00000172-a3f3-dd0f-abfa-e7f349af0000",
+      "uri": "https://uat.x.univision.com/shows/medicos-linea-de-vida",
+      "vertical": null,
+      "parent": null,
+      "title": "Médicos, Línea De Vida",
+      "description": "Livia Brito, Daniel Arenas y Grettell Valdez protagonizan esta historia donde los doctores además de salvar la vida de sus pacientes, tratarán de curar las heridas que el desamor les ha dejado para finalmente vivir plenamente.",
+      "image": {
+        "type": "image",
+        "uid": "00000172-c28d-dee7-a173-dacf88370000",
+        "title": "Médicos en linea_ Universal",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/ba/4e/87a079ea475297571f9501b1b34f/universal-3.jpg",
+            "width": 1200,
+            "height": 675
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/36385ad/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/0bad6ac/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/2b3aa5b/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/39baa33/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/4ccb8a9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/caf8f58/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/7790e8b/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Funiversal-3.jpg",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/dedea8b/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fba%2F4e%2F87a079ea475297571f9501b1b34f%2Fresizes%2F500%2Funiversal-3.jpg",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2020-07-09T00:02:09-04:00",
+      "publishDate": "2020-06-11T11:44:12-04:00",
+      "expirationDate": null,
+      "hierarchy": [],
+      "disableReactions": false,
+      "airTime": "Gran estreno 14 de Julio 9P/8C",
+      "headerLogo": {
+        "type": "image",
+        "uid": "00000172-c28c-dee7-a173-daceef250000",
+        "title": "Médicos en linea_Logo",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/7a/c1/cb26136c49d9ac67fdc6536ca45c/svg-4.svg",
+            "width": 0,
+            "height": 0
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/68fb44a/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/33520e4/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/91d2158/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/dd9c509/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/561d7c9/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/2e3f644/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/c0f3252/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/32ff3a6/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F7a%2Fc1%2Fcb26136c49d9ac67fdc6536ca45c%2Fsvg-4.svg",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "highImpactImages": {
+        "mobile": {
+          "type": "image",
+          "uid": "00000172-c28b-dee7-a173-dacb49360000",
+          "title": "Médicos en linea_Alto impacto mobile",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/bd/89/d5bff28e41dab0b0d4b8aa4f9d19/lf-altoimpacto-mobile-2x.jpg",
+              "width": 828,
+              "height": 466
+            }
+          }
+        },
+        "desktop": {
+          "type": "image",
+          "uid": "00000172-c28a-d03a-abf3-da8b76c00000",
+          "title": "Médicos en linea_Alto impacto desktop",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://uvn-brightspot.s3.amazonaws.com/16/dd/1176194f4d3db1508ca12f696d44/lf-altoimpacto-desktop.jpg",
+              "width": 1440,
+              "height": 466
+            }
+          }
+        }
+      },
+      "showCardArtwork": {
+        "type": "image",
+        "uid": "00000172-c28c-dee7-a173-dace17770000",
+        "title": "Médicos en linea_show card landscape",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://uvn-brightspot.s3.amazonaws.com/4a/d7/00767da64addbf55e471e85d6cc7/showcard-landscape-2.jpg",
+            "width": 730,
+            "height": 487
+          },
+          "16x9-mobile": {
+            "href": "https://uat2.x.univision.com/dims4/default/3148ed3/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "16x9-loading": {
+            "href": "https://uat2.x.univision.com/dims4/default/96b420b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+            "width": 30,
+            "height": 17
+          },
+          "16x9-sm": {
+            "href": "https://uat2.x.univision.com/dims4/default/fbd9ed7/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+            "width": 246,
+            "height": 138
+          },
+          "16x9-tablet": {
+            "href": "https://uat2.x.univision.com/dims4/default/80317d9/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fshowcard-landscape-2.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          "16x9": {
+            "href": "https://uat2.x.univision.com/dims4/default/8485e20/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fshowcard-landscape-2.jpg",
+            "width": 1240,
+            "height": 698
+          },
+          "16x9-med": {
+            "href": "https://uat2.x.univision.com/dims4/default/8955362/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+            "width": 400,
+            "height": 225
+          },
+          "16x9-extended": {
+            "href": "https://uat2.x.univision.com/dims4/default/bfd70d9/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fshowcard-landscape-2.jpg",
+            "width": 1440,
+            "height": 810
+          },
+          "1x1-person-profile": {
+            "href": "https://uat2.x.univision.com/dims4/default/89fe1ab/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F4a%2Fd7%2F00767da64addbf55e471e85d6cc7%2Fresizes%2F500%2Fshowcard-landscape-2.jpg",
+            "width": 182,
+            "height": 182
+          }
+        }
+      },
+      "socialNetworks": [],
+      "airTimeText": "Gran estreno 14 de Julio 9P/8C",
+      "showType": "NOVELAS",
+      "liveTimer": null,
+      "liveLandingPage": null,
+      "liveRadio": null
+    },
+    "ttl": 300,
+    "feedGeneratedAt": "2020-09-04T14:59:38-04:00"
+  }
+}

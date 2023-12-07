@@ -1,0 +1,1385 @@
+{
+  "type": "section",
+  "uid": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+  "uri": "/local/chicago-wgbo",
+  "vertical": "Local",
+  "parent": {
+    "uri": "/local",
+    "name": "tu ciudad",
+    "title": "Tu Ciudad"
+  },
+  "title": "Univision Chicago\r\n",
+  "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Chicago",
+  "updateDate": "2019-07-11T15:48:57-04:00",
+  "publishDate": "2015-04-29T17:38:31-04:00",
+  "expirationDate": "3000-01-01T00:00:00-05:00",
+  "adSettings": {
+    "disable3rdPartyAds": false,
+    "disableAds": false,
+    "disableVideoAds": false,
+    "adTagValue": "section_local/tv/chicago/wgbo/inicio",
+    "targeting": {
+      "vertical": "local"
+    },
+    "contentSpecificSettings": {}
+  },
+  "tracking": {
+    "analytics": {
+      "data": {
+        "adtag_value": "section_local/tv/chicago/wgbo/inicio",
+        "all_tags": [],
+        "brand": "univision chicago\r\n",
+        "brand_market": "chicago",
+        "brand_station_call_letters": "wgbo",
+        "brand_station_name": "univision chicago\r\n",
+        "brand_station_type": "tvstation",
+        "canonical_url": "https://www.univision.com/local/chicago-wgbo",
+        "content_created_date": "2015-04-29",
+        "content_id": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+        "content_modified_date": "2019-07-11",
+        "content_type": "tvstation",
+        "content_vertical": "local",
+        "environment_name": "prod",
+        "nielsenVcid": "c05",
+        "permalink": "https://www.univision.com/local/chicago-wgbo",
+        "platform": "website",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "local",
+          "wgbo"
+        ],
+        "section_level1": "local",
+        "section_level2": "wgbo",
+        "title": "univision chicago",
+        "uci_division": "local:chicago:wgbo"
+      }
+    },
+    "nielsen": {
+      "appId": "PDB44FE12-8611-4D9B-8C88-18023F94B474",
+      "vcid": "c05",
+      "environment": "prod",
+      "primaryTopic": "Tu Ciudad"
+    }
+  },
+  "analyticsData": {
+    "apps": {
+      "common": {
+        "adtag_value": "section_local/tv/chicago/wgbo/inicio",
+        "all_tags": [],
+        "brand_station_call_letters": "wgbo",
+        "content_created_date": "2015-04-29",
+        "content_id": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+        "content_type": "tvstation",
+        "section": "wgbo",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "local",
+          "wgbo"
+        ],
+        "section_level1": "local",
+        "section_level2": "wgbo",
+        "title": "univision chicago\r\n"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+          "section": "tvstation",
+          "type": "static",
+          "vcid": "c05"
+        },
+        "contentSpecific": {}
+      }
+    },
+    "web": {
+      "common": {
+        "adtag_value": "section_local/tv/chicago/wgbo/inicio",
+        "all_tags": [],
+        "brand_market": "chicago",
+        "brand_station_call_letters": "wgbo",
+        "brand_station_name": "univision chicago\r\n",
+        "brand_station_type": "tvstation",
+        "content_created_date": "2015-04-29",
+        "content_id": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+        "content_modified_date": "2019-07-11",
+        "content_type": "tvstation",
+        "content_vertical": "local",
+        "permalink": "https://www.univision.com/local/chicago-wgbo",
+        "platform": "website",
+        "section": "wgbo",
+        "section_category": "navigation taxonomy",
+        "section_full_hierarchy": [
+          "local",
+          "wgbo"
+        ],
+        "section_level1": "local",
+        "section_level2": "wgbo",
+        "seo_optimized ": true,
+        "title": "univision chicago\r\n",
+        "uci_division": "local:chicago:wgbo"
+      },
+      "contentSpecific": {},
+      "nielsen": {
+        "common": {
+          "assetID": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+          "section": "tvstation",
+          "type": "static",
+          "vcid": "c05"
+        },
+        "contentSpecific": {}
+      }
+    }
+  },
+  "metaTagData": {
+    "openGraph": {
+      "type": null,
+      "title": "Univision Chicago\r\n",
+      "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Chicago",
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/dd9fe66/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+      "url": "https://www.univision.com/local/chicago-wgbo",
+      "siteName": "Univision"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Univision Chicago\r\n",
+      "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Chicago",
+      "creator": null,
+      "imageUrl": "https://st1.uvnimg.com/dims4/default/dd9fe66/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg"
+    },
+    "facebook": {
+      "pages": null
+    }
+  },
+  "seo": {
+    "title": "Univision Chicago | Univision",
+    "description": "wgbo chicago, noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Chicago | Univision",
+    "canonicalUrl": "https://www.univision.com/local/chicago-wgbo",
+    "keywords": [
+      "inmigracion",
+      "trafico",
+      "noticias",
+      "tiempo",
+      "univision",
+      "horoscopo",
+      "estacion",
+      "wgbo",
+      "loteria",
+      "texas",
+      "chicago",
+      "local"
+    ],
+    "robots": [],
+    "news_keywords": []
+  },
+  "hierarchy": [
+    {
+      "uri": "/local",
+      "name": "tu ciudad",
+      "title": "Tu Ciudad"
+    },
+    {
+      "uri": "/local/chicago-wgbo",
+      "name": "univision chicago\r\n",
+      "title": "Univision Chicago\r\n"
+    }
+  ],
+  "externalWidgets": null,
+  "widgets": [
+    {
+      "settings": {
+        "type": "allvideoplaylistvideo",
+        "uid": "0000016b-df20-d179-a76b-df7995380011",
+        "otherTabs": [
+          null
+        ],
+        "mainTabLabel": null,
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016b-df20-d179-a76b-df7995380011",
+      "type": "AllVideoPlaylistVideo",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allcarouselhighimpact",
+        "uid": "0000016b-e21d-d29b-a17b-e7fd34590002",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016b-e21d-d29b-a17b-e7fd34590002",
+      "type": "AllCarouselHighImpact",
+      "contents": [
+        {
+          "type": "article",
+          "uid": "0000016b-e210-d29b-a17b-e7fdde7b0002",
+          "uri": "/local/chicago-wgbo/comparte-con-nosotros-tu-experiencia-en-taste-of-chicago",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/chicago-wgbo",
+            "name": "univision chicago\r\n",
+            "title": "Univision Chicago\r\n"
+          },
+          "title": "Comparte con nosotros tu experiencia en Taste of Chicago",
+          "description": "¿Vas a estar en Taste of Chicago?",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-e210-d29b-a17b-e7fddf090000",
+            "title": "Taste Of Chicago Carp",
+            "caption": "Cesar Carlos, right, on vacation from California, samples Asian carp at the Taste of Chicago Festival on Wednesday, July 11, 2012 in Chicago. State officials have been trying to change the perception of the pest fish, calling it a nutritious food that could become a consumer item. (AP Photo/Sitthixay Ditthavong)",
+            "credit": "Sitthixay Ditthavong/AP",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/75/9f/35ff3dbc4f1ba1bd504ed63cd1ff/ap-120711031027.jpg",
+                "width": 1920,
+                "height": 1225
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/3c60185/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2F9f%2F35ff3dbc4f1ba1bd504ed63cd1ff%2Fresizes%2F500%2Fap-120711031027.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/80e054c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2F9f%2F35ff3dbc4f1ba1bd504ed63cd1ff%2Fresizes%2F1500%2Fap-120711031027.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/4835a23/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2F9f%2F35ff3dbc4f1ba1bd504ed63cd1ff%2Fresizes%2F500%2Fap-120711031027.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/41dfe59/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2F9f%2F35ff3dbc4f1ba1bd504ed63cd1ff%2Fresizes%2F500%2Fap-120711031027.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/a6f763b/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2F9f%2F35ff3dbc4f1ba1bd504ed63cd1ff%2Fresizes%2F1500%2Fap-120711031027.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/fde0204/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F75%2F9f%2F35ff3dbc4f1ba1bd504ed63cd1ff%2Fresizes%2F500%2Fap-120711031027.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-11T13:37:09-04:00",
+          "publishDate": "2019-07-11T13:37:09-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "leadType": "video",
+          "primaryTag": {
+            "name": "Chicago",
+            "link": "/local/chicago-wgbo/temas/chicago"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "agnosticepisodeswidget",
+        "uid": "0000016b-9555-d51c-a97b-df553e4c001f",
+        "title": "TV Shows: Capítulos Gratis",
+        "titleLink": {
+          "href": "https://www.univision.com/shows",
+          "target": "_self",
+          "text": "Shows",
+          "uid": "0000016b-b3d8-df49-abfb-b7ffb1030001"
+        },
+        "lazyLoaded": false
+      },
+      "id": "0000016b-9555-d51c-a97b-df553e4c001f",
+      "type": "ShowsLFGridAgnosticEpisodes",
+      "contents": [
+        {
+          "type": "show",
+          "uid": "00000148-187d-de6d-ab4c-da7f45e70000",
+          "uri": "/shows/la-rosa-de-guadalupe",
+          "vertical": null,
+          "parent": null,
+          "title": "La Rosa de Guadalupe",
+          "description": "Esta serie de programas responde a la necesidad de creer en los milagros, historias de amor y finales felices, con personajes positivos y aspiracionales donde la fe es el punto de unión.",
+          "image": {
+            "type": "image",
+            "uid": "00000168-810f-d77a-ad78-cdbf9bb30000",
+            "title": "LaRosaDeGuadalupe_FeaturedShows@2x.jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/1b/48/5513c9254854ac82e94c403eae5c/larosadeguadalupe-featuredshows-2x.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/3a2f032/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Fresizes%2F500%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/7b7b2b6/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Fresizes%2F500%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/9eec22f/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Fresizes%2F500%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/54eae13/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/8a0804e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/830c8ae/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Fresizes%2F500%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/9996c88/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/b59553e/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F1b%2F48%2F5513c9254854ac82e94c403eae5c%2Fresizes%2F500%2Flarosadeguadalupe-featuredshows-2x.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-09T22:19:28-04:00",
+          "publishDate": "2014-08-27T15:29:18-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "airTime": "LUN-Vie 7PM/ 6C"
+        },
+        {
+          "type": "show",
+          "uid": "0000016a-0382-d91d-a1ef-43f7aa480000",
+          "uri": "/shows/la-reina-soy-yo",
+          "vertical": null,
+          "parent": null,
+          "title": "La Reina Soy Yo",
+          "description": "Yamelí tiene un gran talento para la composición musical y después de ser traicionada por el hombre que ama, es condenada injustamente a prisión. Después de 17 años, Yamelí sale de la cárcel tras llegar a un acuerdo con la DEA para infiltrarse en una organización criminal. Con una nueva identidad comenzará su venganza contra aquellos que arruinaron su vida.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-0e0f-d91d-a1ef-4eff050b0000",
+            "title": "La Reina soy Yo promo universal ",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/45/c3/1e02b8934b11aecd5f8c98803432/lareinasoyyo-featuredshows-2x.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/ed5c6e5/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/64c5954/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/0f4f669/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/1468c73/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/5f65c60/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/dd730ba/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/21c8e72/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/276775f/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F45%2Fc3%2F1e02b8934b11aecd5f8c98803432%2Fresizes%2F500%2Flareinasoyyo-featuredshows-2x.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-10T21:12:38-04:00",
+          "publishDate": "2019-04-09T15:14:43-04:00",
+          "expirationDate": null,
+          "airTime": "Lun- Vie 8PM/7C"
+        },
+        {
+          "type": "show",
+          "uid": "00000169-4eb3-d0de-a77b-5fbb53e90000",
+          "uri": "/shows/dona-flor-y-sus-dos-maridos",
+          "vertical": null,
+          "parent": null,
+          "title": "Doña Flor y sus dos maridos",
+          "description": "Flor es una alegre y hermosa mujer que un día conoce a Valentín, un estafador profesional tan astuto como seductor pero a ella le gusta tal como es. Todo era alegre, divertido y vivían felices, pero un día Valentín muere. En medio de la soledad y el dolor de haber perdido a su marido, Teodoro, el amigo de Ana y quien siempre estuvo enamorada de ella, decide conquistarla. Todo iba bien hasta que una noche Ana pide “que su marido vuelva”, y de pronto su deseo se hace realidad. Y ahora Ana no sabe cómo convivir con el fantasma de su difunto esposo y su marido actual.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-2882-df76-a17a-3cce65090000",
+            "title": "Doñaflor promoactores",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/6f/bc/1e40dffe4861aed46720d3103672/donaflor-featuredshows-2x.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/dcd47e5/2147483647/crop/499x281%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fresizes%2F500%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/8ecf041/2147483647/crop/495x281%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fresizes%2F500%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/000d550/2147483647/crop/500x280%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fresizes%2F500%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/833c80e/2147483647/crop/1198x674%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/42796b1/2147483647/crop/1197x674%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/feef79d/2147483647/crop/499x281%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fresizes%2F500%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/13148fb/2147483647/crop/1198x674%2B0%2B0/resize/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/91d6f16/2147483647/crop/281x281%2B40%2B0/resize/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F6f%2Fbc%2F1e40dffe4861aed46720d3103672%2Fresizes%2F500%2Fdonaflor-featuredshows-2x.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-05-10T11:59:45-04:00",
+          "publishDate": "2019-03-05T15:32:47-05:00",
+          "expirationDate": null,
+          "airTime": "LUN-VIE 1PM/12C"
+        },
+        {
+          "type": "show",
+          "uid": "00000148-12f2-dd17-abec-12fa21b70000",
+          "uri": "/shows/laura",
+          "vertical": null,
+          "parent": null,
+          "title": "Laura",
+          "description": "Programa que hace que el público apoye a la gente en sus desgracias. Mostrando cosas positivas de algún pueblo, diciendo que es lo que haría en lugar de las personas o poniéndose como ejemplo positivo.",
+          "image": {
+            "type": "image",
+            "uid": "0000016a-c69d-d66c-a3ee-dfdd49010000",
+            "title": "FeaturedShows@2x (10).jpg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/35/4d/dd15428545aeb5aefd8071d011eb/featuredshows-2x-10.jpg",
+                "width": 1200,
+                "height": 674
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/8c0802c/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Fresizes%2F500%2Ffeaturedshows-2x-10.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/62ad04b/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Fresizes%2F500%2Ffeaturedshows-2x-10.jpg",
+                "width": 30,
+                "height": 17
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/bfced6b/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Fresizes%2F500%2Ffeaturedshows-2x-10.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/4ac0d2e/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Ffeaturedshows-2x-10.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/cccc6b1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Ffeaturedshows-2x-10.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/9bad2a4/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Fresizes%2F500%2Ffeaturedshows-2x-10.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9-extended": {
+                "href": "https://st1.uvnimg.com/dims4/default/dae3db3/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Ffeaturedshows-2x-10.jpg",
+                "width": 1440,
+                "height": 810
+              },
+              "1x1-person-profile": {
+                "href": "https://st1.uvnimg.com/dims4/default/702c76a/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F35%2F4d%2Fdd15428545aeb5aefd8071d011eb%2Fresizes%2F500%2Ffeaturedshows-2x-10.jpg",
+                "width": 182,
+                "height": 182
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-18T12:59:23-04:00",
+          "publishDate": "2014-08-27T14:39:11-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "airTime": "LUN- VIE 11AM/10C POR UNIMÁS "
+        }
+      ]
+    },
+    {
+      "settings": {
+        "fullWidth": true,
+        "lazyLoadUrl": "https://static.univision.com/external-content/embed.js?path=%2Ffragments%2Flocales%2Fbanner-nomina-orgullo%2Findex.html&display=iframe&fullWidth=true&nextAd=false",
+        "display": "iframe",
+        "html": "<script src=\"https://static.univision.com/external-content/embed.js?path=%2Ffragments%2Flocales%2Fbanner-nomina-orgullo%2Findex.html&display=iframe&fullWidth=true&nextAd=false\"></script>",
+        "nextAd": "false",
+        "type": "allexternalembed",
+        "lazyLoad": false,
+        "url": "https://static.univision.com/fragments/locales/banner-nomina-orgullo/index.html?fullWidth=true&nextAd=false",
+        "title": "BANNER NOMINA A TU ORGULLO",
+        "titleLink": null,
+        "uid": "0000016b-2335-df1d-af7b-3bf5cf610006",
+        "lazyLoaded": false
+      },
+      "id": "0000016b-2335-df1d-af7b-3bf5cf610006",
+      "type": "AllExternalEmbed",
+      "contents": []
+    },
+    {
+      "settings": {
+        "type": "allcarouselhighimpact",
+        "uid": "0000016b-75f3-d573-ad7f-75f7f0ae0004",
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": false
+      },
+      "id": "0000016b-75f3-d573-ad7f-75f7f0ae0004",
+      "type": "AllCarouselHighImpact",
+      "contents": [
+        {
+          "type": "article",
+          "uid": "0000016b-6c89-d7e6-afff-ffaba4280002",
+          "uri": "/local/chicago-wgbo/que-hacer-si-ice-llega-a-buscarme-a-mi-casa-te-explicamos-tus-derechos",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/chicago-wgbo",
+            "name": "univision chicago\r\n",
+            "title": "Univision Chicago\r\n"
+          },
+          "title": "¿Qué hacer si ICE llega a buscarme a mi casa? Te explicamos tus derechos",
+          "description": "Luego de que Trump amenazara con llevar a cabo deportaciones, es importante rercordar cuáles son los derechos que tienen los inmigrantes. Si agentes de ICE tocan a tu puerta, ACLU tiene algunos consejos que puedes tomar si eres inmigrante y no tienes documentos.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-749a-d7fb-a5ff-7eff6f4a0000",
+            "title": "Activists Rally For Congress To Pass Clean Dream Act",
+            "caption": "Manifestantes protestan afuera de las oficinas del senador Dick Durbin para exigir que pase el 'Dream Act'. Esto durante una protesta de 2017.",
+            "credit": "Scott Olson/Getty Images",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/27/aa/7b7d587145e7a51079d709d44d31/gettyimages-895729692.jpg",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/38b82e1/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2Faa%2F7b7d587145e7a51079d709d44d31%2Fresizes%2F500%2Fgettyimages-895729692.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/8a2faf2/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2Faa%2F7b7d587145e7a51079d709d44d31%2Fresizes%2F1500%2Fgettyimages-895729692.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/2a59734/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2Faa%2F7b7d587145e7a51079d709d44d31%2Fresizes%2F500%2Fgettyimages-895729692.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/7917563/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2Faa%2F7b7d587145e7a51079d709d44d31%2Fresizes%2F500%2Fgettyimages-895729692.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/f694fc3/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2Faa%2F7b7d587145e7a51079d709d44d31%2Fresizes%2F1500%2Fgettyimages-895729692.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/522fbc4/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F27%2Faa%2F7b7d587145e7a51079d709d44d31%2Fresizes%2F500%2Fgettyimages-895729692.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-22T10:13:14-04:00",
+          "publishDate": "2019-06-18T18:03:27-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "leadType": "video",
+          "primaryTag": {
+            "name": "Inmigración",
+            "link": "/local/chicago-wgbo/temas/inmigracion"
+          }
+        },
+        {
+          "type": "article",
+          "uid": "0000016b-c95e-d3c4-a1ff-efdeaac30002",
+          "uri": "/local/chicago-wgbo/vuelve-el-temor-a-la-comunidad-inmigrante-en-chicago-por-redadas-masivas-pospuestas-por-trump",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/chicago-wgbo",
+            "name": "univision chicago\r\n",
+            "title": "Univision Chicago\r\n"
+          },
+          "title": "Vuelve el temor a la comunidad inmigrante en Chicago por redadas masivas pospuestas por Trump",
+          "description": "Personas indocumentadas que residen en barrios como La Villita dicen sentir miedo por las amenazas de deportación. Algunos habitantes han decidido salir de sus hogares mientras que otros han optado por buscar refugio en iglesias santuario. Hasta el momento no se ha emitido ningún comunicado por parte del mandatario sobre su plan de deportaciones.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-c994-d3c4-a1ff-ef9c05f00000",
+            "title": "ICE Agents Take Part In Raids On Human Traffickers In Guatemala",
+            "caption": "GUATEMALA CITY, GUATEMALA - MAY 29: An ICE agent with U.S. Homeland Security Investigations (HSI), watches as Guatemalan police investigate the scene after detaining a suspected human trafficker on May 29, 2019 in Guatemala City. Homeland Security agents accompanied Guatemalan police on an early morning raid, the first since Acting U.S. Homeland Security Secretary Kevin McAleenan signed an agreement with his Guatemalan counterparts, increasing cooperation on human and drug smuggling. McAleenan is on a four-day trip to Guatemala. (Photo by John Moore/Getty Images)",
+            "credit": "John Moore/Getty Images",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/8d/c4/8cc2b4134628beb46566c7167ffa/gettyimages-1152488290.jpg",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/147e2aa/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fc4%2F8cc2b4134628beb46566c7167ffa%2Fresizes%2F500%2Fgettyimages-1152488290.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/e528e3a/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fc4%2F8cc2b4134628beb46566c7167ffa%2Fresizes%2F1500%2Fgettyimages-1152488290.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/7613c69/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fc4%2F8cc2b4134628beb46566c7167ffa%2Fresizes%2F500%2Fgettyimages-1152488290.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/f32115a/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fc4%2F8cc2b4134628beb46566c7167ffa%2Fresizes%2F500%2Fgettyimages-1152488290.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/1ddb83c/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fc4%2F8cc2b4134628beb46566c7167ffa%2Fresizes%2F1500%2Fgettyimages-1152488290.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/b5d6595/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2Fc4%2F8cc2b4134628beb46566c7167ffa%2Fresizes%2F500%2Fgettyimages-1152488290.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-07-06T19:18:39-04:00",
+          "publishDate": "2019-07-06T19:02:22-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "leadType": "video",
+          "primaryTag": {
+            "name": "Inmigración",
+            "link": "/local/chicago-wgbo/temas/inmigracion"
+          }
+        },
+        {
+          "type": "article",
+          "uid": "0000016b-7fd6-dcb1-ab7b-ffd770e50002",
+          "uri": "/local/chicago-wgbo/estas-son-las-lineas-de-respuesta-y-apoyo-en-el-area-de-chicago-en-caso-de-un-encuentro-con-ice",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/chicago-wgbo",
+            "name": "univision chicago\r\n",
+            "title": "Univision Chicago\r\n"
+          },
+          "title": "Estas son las líneas de respuesta y apoyo en el área de Chicago en caso de un encuentro con ICE",
+          "description": "Luego de que Trump amenazara con llevar a cabo deportaciones, es importante rercordar algunas lineas de apoyo que tienen los inmigrantes. Si agentes de ICE tocan a tu puerta, el NIJC tiene algunas líneas al las que puedes llamar si eres inmigrante y no tienes documentos.\n<br>",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-7c29-d4ff-a7ff-fca9e0c00000",
+            "title": "ea2fbc7f4dbc4b41935e56a41f6aaba7",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/0d/99/471286964b97a34f118683061361/ea2fbc7f4dbc4b41935e56a41f6aaba7",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/69eaf71/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0d%2F99%2F471286964b97a34f118683061361%2Fresizes%2F500%2Fea2fbc7f4dbc4b41935e56a41f6aaba7",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/311e1be/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0d%2F99%2F471286964b97a34f118683061361%2Fresizes%2F1500%2Fea2fbc7f4dbc4b41935e56a41f6aaba7",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/8b1b6a7/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0d%2F99%2F471286964b97a34f118683061361%2Fresizes%2F500%2Fea2fbc7f4dbc4b41935e56a41f6aaba7",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/636b745/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0d%2F99%2F471286964b97a34f118683061361%2Fresizes%2F500%2Fea2fbc7f4dbc4b41935e56a41f6aaba7",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/714d66e/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0d%2F99%2F471286964b97a34f118683061361%2Fresizes%2F1500%2Fea2fbc7f4dbc4b41935e56a41f6aaba7",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/d613c7c/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F0d%2F99%2F471286964b97a34f118683061361%2Fresizes%2F500%2Fea2fbc7f4dbc4b41935e56a41f6aaba7",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Estefania Florez Rueda",
+              "image": {
+                "type": "image",
+                "uid": "00000168-d453-d4cd-abed-f6d33a910000",
+                "title": "Estefania Florez Rueda",
+                "caption": "Estefania Florez Rueda, Assignment Desk Editor.",
+                "credit": "Estefania Florez Rueda.",
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/f0/fd/34616f984de0a79309e7751d4497/estefania.jpeg",
+                    "width": 1920,
+                    "height": 1920
+                  },
+                  "16x9-med": {
+                    "href": "https://st1.uvnimg.com/dims4/default/c2f5d56/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff0%2Ffd%2F34616f984de0a79309e7751d4497%2Fresizes%2F500%2Festefania.jpeg",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href": "https://st1.uvnimg.com/dims4/default/52c585e/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff0%2Ffd%2F34616f984de0a79309e7751d4497%2Fresizes%2F1500%2Festefania.jpeg",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href": "https://st1.uvnimg.com/dims4/default/7f0b67d/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff0%2Ffd%2F34616f984de0a79309e7751d4497%2Fresizes%2F500%2Festefania.jpeg",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-sm": {
+                    "href": "https://st1.uvnimg.com/dims4/default/dcf7325/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff0%2Ffd%2F34616f984de0a79309e7751d4497%2Fresizes%2F500%2Festefania.jpeg",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href": "https://st1.uvnimg.com/dims4/default/e472016/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff0%2Ffd%2F34616f984de0a79309e7751d4497%2Fresizes%2F1500%2Festefania.jpeg",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-loading": {
+                    "href": "https://st1.uvnimg.com/dims4/default/73a16a1/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff0%2Ffd%2F34616f984de0a79309e7751d4497%2Fresizes%2F500%2Festefania.jpeg",
+                    "width": 30,
+                    "height": 17
+                  }
+                }
+              },
+              "uri": "/local/chicago-wgbo/temas/estefania-florez-rueda",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": "@ NinaFlorezRueda",
+                  "name": "Twitter",
+                  "url": "https://twitter.com/NinaFlorezRueda",
+                  "target": "_blank"
+                },
+                "youTubeUrl": null
+              },
+              "miniBio": null,
+              "link": null,
+              "mediaCompany": null,
+              "designation": null
+            }
+          ],
+          "updateDate": "2019-06-23T14:17:25-04:00",
+          "publishDate": "2019-06-22T13:16:39-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "leadType": "video",
+          "primaryTag": {
+            "name": "Consejos de Inmigración",
+            "link": "/local/chicago-wgbo/temas/consejos-de-inmigracion"
+          }
+        },
+        {
+          "type": "article",
+          "uid": "0000016b-7b36-d573-ad7f-7bb6542e0002",
+          "uri": "/local/chicago-wgbo/los-mensajes-de-trump-sobre-deportaciones-impactan-economicamente-areas-de-chicago-como-la-villita",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/chicago-wgbo",
+            "name": "univision chicago\r\n",
+            "title": "Univision Chicago\r\n"
+          },
+          "title": "Los mensajes de Trump sobre deportaciones impactan económicamente áreas latinas de Chicago",
+          "description": "Las amenazas que hace el Presidente de los Estados Unidos contra la comunidad inmigrante, termina afectando en Chicago el comercio de áreas como La Villita, una de las zonas económicas más importantes de la ciudad. Univision Chicago habló con \n<a href=\"https://www.ihccbusiness.net/dipaulobio\" target=\"_blank\">Jaime di Paulo</a> sobre el impacto económico que esto genera en áreas como La Villita.",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-7c6e-d054-ab6f-feee4d090000",
+            "title": "Justice Department Accuses 4 \"Sanctuary Cities\" Of Violating Federal Laws",
+            "caption": "<\n<enter caption here>\n > on October 16, 2017 in Chicago, Illinois. (Photo by Scott Olson/Getty Images)\n</enter>",
+            "credit": "Scott Olson/Getty Images",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/e9/a6/5e69be994d2dbde59e9d7589da35/gettyimages-862153982.jpg",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/0531e8d/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fa6%2F5e69be994d2dbde59e9d7589da35%2Fresizes%2F500%2Fgettyimages-862153982.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/9d38a40/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fa6%2F5e69be994d2dbde59e9d7589da35%2Fresizes%2F1500%2Fgettyimages-862153982.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/30c1a5f/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fa6%2F5e69be994d2dbde59e9d7589da35%2Fresizes%2F500%2Fgettyimages-862153982.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/e3ef51c/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fa6%2F5e69be994d2dbde59e9d7589da35%2Fresizes%2F500%2Fgettyimages-862153982.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/3125659/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fa6%2F5e69be994d2dbde59e9d7589da35%2Fresizes%2F1500%2Fgettyimages-862153982.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/711f9f7/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2Fa6%2F5e69be994d2dbde59e9d7589da35%2Fresizes%2F500%2Fgettyimages-862153982.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [
+            {
+              "fullName": "Sebastián González de León",
+              "image": {
+                "type": "image",
+                "uid": "00000168-1add-d69a-afea-dbfdd2620000",
+                "title": "Sebastián González de León",
+                "caption": null,
+                "credit": null,
+                "renditions": {
+                  "original": {
+                    "href": "https://st1.uvnimg.com/8d/5f/52a2e20b4d198d616b10c21a89d9/50784580-10155780670281087-5486404250546208768-n.jpg",
+                    "width": 696,
+                    "height": 696
+                  },
+                  "16x9-med": {
+                    "href": "https://st1.uvnimg.com/dims4/default/4f92a29/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2F5f%2F52a2e20b4d198d616b10c21a89d9%2Fresizes%2F500%2F50784580-10155780670281087-5486404250546208768-n.jpg",
+                    "width": 400,
+                    "height": 225
+                  },
+                  "16x9": {
+                    "href": "https://st1.uvnimg.com/dims4/default/758bc8d/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2F5f%2F52a2e20b4d198d616b10c21a89d9%2F50784580-10155780670281087-5486404250546208768-n.jpg",
+                    "width": 1240,
+                    "height": 698
+                  },
+                  "16x9-mobile": {
+                    "href": "https://st1.uvnimg.com/dims4/default/64f9314/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2F5f%2F52a2e20b4d198d616b10c21a89d9%2Fresizes%2F500%2F50784580-10155780670281087-5486404250546208768-n.jpg",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "16x9-sm": {
+                    "href": "https://st1.uvnimg.com/dims4/default/c6d5592/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2F5f%2F52a2e20b4d198d616b10c21a89d9%2Fresizes%2F500%2F50784580-10155780670281087-5486404250546208768-n.jpg",
+                    "width": 246,
+                    "height": 138
+                  },
+                  "16x9-tablet": {
+                    "href": "https://st1.uvnimg.com/dims4/default/ba42a03/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2F5f%2F52a2e20b4d198d616b10c21a89d9%2F50784580-10155780670281087-5486404250546208768-n.jpg",
+                    "width": 1024,
+                    "height": 576
+                  },
+                  "16x9-loading": {
+                    "href": "https://st1.uvnimg.com/dims4/default/d5e61ce/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8d%2F5f%2F52a2e20b4d198d616b10c21a89d9%2Fresizes%2F500%2F50784580-10155780670281087-5486404250546208768-n.jpg",
+                    "width": 30,
+                    "height": 17
+                  }
+                }
+              },
+              "uri": "/local/chicago-wgbo/temas/sebastian-gonzalez-de-leon",
+              "socialNetworks": {
+                "facebookUrl": null,
+                "googleUrl": null,
+                "instagramUrl": null,
+                "pinterestUrl": null,
+                "snapchatUrl": null,
+                "twitterUrl": {
+                  "text": "@sebuscape",
+                  "name": "Twitter",
+                  "url": "https://twitter.com/Sebuscape",
+                  "target": "_blank"
+                },
+                "youTubeUrl": null
+              },
+              "miniBio": null,
+              "link": null,
+              "mediaCompany": null,
+              "designation": null
+            }
+          ],
+          "updateDate": "2019-06-22T10:14:16-04:00",
+          "publishDate": "2019-06-21T20:04:14-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "leadType": "video",
+          "primaryTag": {
+            "name": "Economía",
+            "link": "/local/chicago-wgbo/temas/economia"
+          }
+        },
+        {
+          "type": "article",
+          "uid": "0000016b-7be5-dcb1-ab7b-fff50eea0002",
+          "uri": "/local/chicago-wgbo/congresista-jesus-chuy-garcia-envia-mensaje-a-comunidad-inmigrante-ante-amenazas-de-redadas",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/chicago-wgbo",
+            "name": "univision chicago\r\n",
+            "title": "Univision Chicago\r\n"
+          },
+          "title": "Congresista Jesús \"Chuy\" García envía mensaje a comunidad inmigrante ante amenazas de redadas",
+          "description": "Las redadas de deportación de Inmigración y Control de Aduanas (ICE) comenzarán este fin de semana según varios informes. El congresista, Jesús \"Chuy Garciá ofrece información de cómo de protegerse.\n<br>",
+          "image": {
+            "type": "image",
+            "uid": "0000016b-8481-dcb1-ab7b-b5959ab10000",
+            "title": "Chicago Holds Run-Off Election For Mayor",
+            "caption": "CHICAGO - APRIL 7: Cook County Commissioner and candidate for mayor of Chicago Jesus 'Chuy' Garcia speaks to reporters during a news conference at his campaign office April 7, 2015 in Chicago, Illinois. In the city's first mayoral run-off election Garcia challenges Chicago's mayor Rahm Emanuel. (Photo by Jonathan Gibby/Getty Images)",
+            "credit": "Jonathan Gibby/Getty Images",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/8b/5b/a3b9d64447669f7db9d4951a1ef1/gettyimages-468816274.jpg",
+                "width": 1920,
+                "height": 1080
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/5d891ad/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8b%2F5b%2Fa3b9d64447669f7db9d4951a1ef1%2Fresizes%2F500%2Fgettyimages-468816274.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/2629fd1/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8b%2F5b%2Fa3b9d64447669f7db9d4951a1ef1%2Fresizes%2F1500%2Fgettyimages-468816274.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/568acc4/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8b%2F5b%2Fa3b9d64447669f7db9d4951a1ef1%2Fresizes%2F500%2Fgettyimages-468816274.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/4c56dc2/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8b%2F5b%2Fa3b9d64447669f7db9d4951a1ef1%2Fresizes%2F500%2Fgettyimages-468816274.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/60e9a43/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8b%2F5b%2Fa3b9d64447669f7db9d4951a1ef1%2Fresizes%2F1500%2Fgettyimages-468816274.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/729e254/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F8b%2F5b%2Fa3b9d64447669f7db9d4951a1ef1%2Fresizes%2F500%2Fgettyimages-468816274.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-23T09:27:41-04:00",
+          "publishDate": "2019-06-21T17:57:02-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "leadType": "video",
+          "primaryTag": {
+            "name": "Inmigración",
+            "link": "/local/chicago-wgbo/temas/inmigracion"
+          }
+        },
+        {
+          "type": "article",
+          "uid": "0000016b-7c84-dcb1-ab7b-fd9543f50002",
+          "uri": "/local/chicago-wgbo/la-alcaldesa-lori-lightfoot-dice-que-la-ciudad-no-cooperara-con-ice",
+          "vertical": "Local",
+          "parent": {
+            "uri": "/local/chicago-wgbo",
+            "name": "univision chicago\r\n",
+            "title": "Univision Chicago\r\n"
+          },
+          "title": "La alcaldesa Lori Lightfoot dice que la ciudad no cooperará con ICE  ",
+          "description": "Las redadas de ICE podrían tener lugar este fin de semana en numerosas ciudades, incluida Chicago.",
+          "image": {
+            "type": "image",
+            "uid": "00000154-1228-d90b-a5d5-3a6c94350000",
+            "title": "Lori Lightfoot",
+            "caption": "Alcaldesa, Lori Lightfoot.",
+            "credit": "Scott Olson/Getty Images",
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/94/a7/cbf46d7d4f28b0d3823f32a8a48b/13_chicago_getty.jpg",
+                "width": 3000,
+                "height": 2036
+              },
+              "16x9-med": {
+                "href": "https://st1.uvnimg.com/dims4/default/13f3ea1/2147483647/crop/3000x1688%2B0%2B0/resize/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F94%2Fa7%2Fcbf46d7d4f28b0d3823f32a8a48b%2F13_chicago_getty.jpg",
+                "width": 400,
+                "height": 225
+              },
+              "16x9": {
+                "href": "https://st1.uvnimg.com/dims4/default/90a8b33/2147483647/crop/3000x1689%2B0%2B0/resize/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F94%2Fa7%2Fcbf46d7d4f28b0d3823f32a8a48b%2F13_chicago_getty.jpg",
+                "width": 1240,
+                "height": 698
+              },
+              "16x9-mobile": {
+                "href": "https://st1.uvnimg.com/dims4/default/339988c/2147483647/crop/3000x1688%2B0%2B0/resize/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F94%2Fa7%2Fcbf46d7d4f28b0d3823f32a8a48b%2F13_chicago_getty.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "16x9-sm": {
+                "href": "https://st1.uvnimg.com/dims4/default/92699e3/2147483647/crop/3000x1683%2B0%2B0/resize/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F94%2Fa7%2Fcbf46d7d4f28b0d3823f32a8a48b%2F13_chicago_getty.jpg",
+                "width": 246,
+                "height": 138
+              },
+              "16x9-tablet": {
+                "href": "https://st1.uvnimg.com/dims4/default/fb23956/2147483647/crop/3000x1688%2B0%2B0/resize/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F94%2Fa7%2Fcbf46d7d4f28b0d3823f32a8a48b%2F13_chicago_getty.jpg",
+                "width": 1024,
+                "height": 576
+              },
+              "16x9-loading": {
+                "href": "https://st1.uvnimg.com/dims4/default/ce07089/2147483647/crop/3000x1700%2B0%2B0/resize/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F94%2Fa7%2Fcbf46d7d4f28b0d3823f32a8a48b%2F13_chicago_getty.jpg",
+                "width": 30,
+                "height": 17
+              }
+            }
+          },
+          "authors": [],
+          "updateDate": "2019-06-22T09:28:14-04:00",
+          "publishDate": "2019-06-21T20:44:32-04:00",
+          "expirationDate": null,
+          "contentPriority": "STANDARD",
+          "leadType": "video",
+          "primaryTag": {
+            "name": "Chicago",
+            "link": "/local/chicago-wgbo/temas/chicago"
+          }
+        }
+      ]
+    },
+    {
+      "settings": {
+        "type": "allvideoplaylistvideo",
+        "uid": "0000016b-85a9-d054-ab6f-cfefeeed0010",
+        "otherTabs": [
+          null
+        ],
+        "mainTabLabel": null,
+        "title": null,
+        "titleLink": null,
+        "lazyLoaded": true
+      },
+      "id": "0000016b-85a9-d054-ab6f-cfefeeed0010",
+      "type": "AllVideoPlaylistVideo",
+      "contents": []
+    }
+  ],
+  "source": "Univision",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "https://www.univision.com/local/chicago-wgbo",
+        "isFeedDialog": false,
+        "title": "Univision Chicago\r\n",
+        "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Chicago",
+        "imageUrl": null,
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "https://www.univision.com/local/chicago-wgbo",
+        "title": "Univision Chicago\r\n",
+        "via": "unichicago"
+      },
+      "whatsapp": {
+        "url": "https://www.univision.com/local/chicago-wgbo",
+        "message": "Univision Chicago\r\n"
+      },
+      "mail": {
+        "subject": "Univision Chicago\r\n",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nUnivision Chicago\r\n\n\nEncuéntralo en este enlace:https://www.univision.com/local/chicago-wgbo\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "secondaryTags": null,
+  "sectionType": "tvstation",
+  "socialNetworks": [
+    {
+      "text": "Univision Chicago Facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/univisionchicago/",
+      "target": "_blank"
+    },
+    {
+      "text": "Univision Chicago Twitter",
+      "name": "Twitter",
+      "url": "https://twitter.com/unichicago",
+      "target": "_blank"
+    },
+    {
+      "text": "Univision Chicago YouTube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UC450q6_DKhU8wsmj9CR3T5g",
+      "target": "_blank"
+    }
+  ],
+  "jwRecommendationChannel": "o1PcywKd",
+  "dynamicPlaylist": true,
+  "tvStation": {
+    "type": "tvstation",
+    "uid": "0000014d-071b-d7c0-a1dd-ef5fe8a30000",
+    "uri": "/local/chicago-wgbo",
+    "vertical": null,
+    "parent": null,
+    "title": "Univision Chicago\r\n",
+    "description": "Noticias locales, estado del tiempo, resultados de la lotería, horóscopos y mucho más en Chicago",
+    "image": {
+      "type": "image",
+      "uid": "00000158-5452-dd28-abf9-f453791a0001",
+      "title": "UNIVISION ESTACIONES DE TV - NUEVOS LOGOS PROMO CARRUSEL",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/55/dc/8a0da77c4ef59d882a4068fd4a3d/desktop-univision-chicago-298x168.jpg",
+          "width": 298,
+          "height": 168
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/def7790/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/1a60c24/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/8ffda2f/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/9d4a294/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/dd9fe66/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-med": {
+          "href": "https://st1.uvnimg.com/dims4/default/7dfa083/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9-extended": {
+          "href": "https://st1.uvnimg.com/dims4/default/41ebf75/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-person-profile": {
+          "href": "https://st1.uvnimg.com/dims4/default/f965393/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F55%2Fdc%2F8a0da77c4ef59d882a4068fd4a3d%2Fdesktop-univision-chicago-298x168.jpg",
+          "width": 182,
+          "height": 182
+        }
+      }
+    },
+    "authors": [],
+    "updateDate": "2019-07-11T15:48:57-04:00",
+    "publishDate": "2015-04-29T17:38:31-04:00",
+    "expirationDate": "3000-01-01T00:00:00-05:00",
+    "call": "WGBO",
+    "logo": {
+      "type": "image",
+      "uid": "00000162-da5c-d39d-ab62-fa5e1fd30000",
+      "title": "CHICAGO, IL  - UNIVISION CHICAGO - NUEVO LOGO HEADER V2",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/9f/e8/924573714107b81f04932b4499da/logo-chicago.svg",
+          "width": 0,
+          "height": 0
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/f47f9dd/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/788657d/2147483647/thumbnail/30x17/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/81177b8/2147483647/thumbnail/246x138/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/7e07bfa/2147483647/thumbnail/1024x576%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/1c5ddcd/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 1240,
+          "height": 698
+        },
+        "16x9-med": {
+          "href": "https://st1.uvnimg.com/dims4/default/567b595/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 400,
+          "height": 225
+        },
+        "16x9-extended": {
+          "href": "https://st1.uvnimg.com/dims4/default/4636dcd/2147483647/thumbnail/1440x810/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 1440,
+          "height": 810
+        },
+        "1x1-person-profile": {
+          "href": "https://st1.uvnimg.com/dims4/default/74ace7a/2147483647/thumbnail/182x182/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9f%2Fe8%2F924573714107b81f04932b4499da%2Flogo-chicago.svg",
+          "width": 182,
+          "height": 182
+        }
+      }
+    },
+    "alternativeLogo": {
+      "type": null,
+      "uid": null,
+      "title": null,
+      "caption": null,
+      "credit": null,
+      "renditions": null
+    },
+    "localMarket": {
+      "title": "Chicago",
+      "zipCodes": [
+        "60611"
+      ]
+    },
+    "localMarketFooter": {
+      "title": "PÁGINAS DE CHICAGO",
+      "links": [
+        {
+          "href": "https://www.univision.com/global/univision-chicago-online-public-files6",
+          "target": "_self",
+          "text": "Univision Chicago",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70000"
+        },
+        {
+          "href": "https://cdn1.uvnimg.com/75/aa/501802f64e4a94350c1788601826/fcc-eeo-public-report-chicago-8-2017-to-7-2018.pdf",
+          "target": "_blank",
+          "text": "EEO Report",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70001"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/tv-profile/wgbo-dt",
+          "target": "_blank",
+          "text": "Univision Chicago Online Public Files",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70002"
+        },
+        {
+          "href": "https://publicfiles.fcc.gov/fm-profile/wppn",
+          "target": "_blank",
+          "text": "Online Public Files WPPN",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70003"
+        },
+        {
+          "href": "https://www.univision.com/chicago/wgbo/aviso-de-subtitulos-chicago-univision-unimas",
+          "target": "_blank",
+          "text": "Aviso de subtítulos e información para personas con discapacidad",
+          "uid": "00000168-8769-dbde-ade8-efffe3b70004"
+        }
+      ]
+    },
+    "contact": {
+      "aboutStation": "/local/chicago-wgbo/quienes-somos-univision-chicago"
+    }
+  },
+  "ttl": 90,
+  "feedGeneratedAt": "2019-07-11T16:38:20-04:00"
+}

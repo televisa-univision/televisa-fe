@@ -1,0 +1,153 @@
+{
+  "date": "2020-08-08T20:00:54-04:00",
+  "sponsor": {
+    "image": {
+      "type": "image",
+      "uid": "00000160-7602-dd32-ad6c-7e37037f0000",
+      "title": "Countdown Clock",
+      "caption": "",
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/ec/13/7def0ba04a04a01fe48deac5dea0/budlight-sponsor-logo.png",
+          "width": 416,
+          "height": 238
+        },
+        "16x9-mobile": {
+          "href": "https://st1.uvnimg.com/dims4/default/747048f/2147483647/crop/416x234%2B0%2B0/resize/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fec%2F13%2F7def0ba04a04a01fe48deac5dea0%2Fbudlight-sponsor-logo.png",
+          "width": 480,
+          "height": 270
+        },
+        "16x9-loading": {
+          "href": "https://st1.uvnimg.com/dims4/default/3ebd85b/2147483647/crop/416x236%2B0%2B2/resize/30x17/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fec%2F13%2F7def0ba04a04a01fe48deac5dea0%2Fbudlight-sponsor-logo.png",
+          "width": 30,
+          "height": 17
+        },
+        "16x9-sm": {
+          "href": "https://st1.uvnimg.com/dims4/default/4d22a59/2147483647/crop/416x233%2B0%2B3/resize/246x138/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fec%2F13%2F7def0ba04a04a01fe48deac5dea0%2Fbudlight-sponsor-logo.png",
+          "width": 246,
+          "height": 138
+        },
+        "16x9-tablet": {
+          "href": "https://st1.uvnimg.com/dims4/default/5dea7c0/2147483647/crop/416x234%2B0%2B0/resize/1024x576%3E/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fec%2F13%2F7def0ba04a04a01fe48deac5dea0%2Fbudlight-sponsor-logo.png",
+          "width": 1024,
+          "height": 576
+        },
+        "16x9": {
+          "href": "https://st1.uvnimg.com/dims4/default/5fd781c/2147483647/crop/416x234%2B0%2B0/resize/1240x698/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fec%2F13%2F7def0ba04a04a01fe48deac5dea0%2Fbudlight-sponsor-logo.png",
+          "width": 1240,
+          "height": 698
+        }
+      }
+    },
+    "name": "Sponsor Honda",
+    "link": {
+      "href": "https://univision.com",
+      "target": "_self",
+      "text": null,
+      "uid": "00000168-88e8-dbde-ade8-e8fe2de40002"
+    },
+    "leadText": "Patrocinada Por:",
+    "trackingCode": "123"
+  },
+  "eventDateString": "Domingo - 10 PM / 9C / 5E",
+  "externalWidgets": {
+    "calReply": {
+      "code": "!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src ='//d2wgn7zv2wvh1n.cloudfront.net/scripts/widget-loader.min.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script', 'calreply-wjs');",
+      "href": "//univision.calreply.net/minuto-45/embed/?utm_source=univision&utm_medium=header_notificame&utm_content=deportes&utm_campaign=minuto45"
+    }
+  },
+  "leadInText": "Prueba",
+  "title": "countime widget test",
+  "eventLink": {
+    "uid": "00000166-f465-d872-a7f6-fcf73ace0001",
+    "uri": null,
+    "type": "externallink",
+    "versionCreated": null,
+    "text": "event link",
+    "href": "https://www.univision.com",
+    "target": "_blank"
+  },
+  "flavor": "v2",
+  "soccerMatch": {
+    "homeTeam": {
+      "name": {
+        "abbreviation": "ATL",
+        "full": "Atlas"
+      },
+      "icon": {
+        "original": "https://cdn1.uvnimg.com/ec/7b/3a9ef9e141b0a8921dcf4e76afcc/497-eb.png",
+        "82x82": "https://cdn3.performance.univision.com/dims4/default/68f5369/2147483647/resize/82x82%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fec%2F7b%2F3a9ef9e141b0a8921dcf4e76afcc%2F497-eb.png",
+        "22x39": "https://cdn3.performance.univision.com/dims4/default/bd4733c/2147483647/resize/22x39%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fec%2F7b%2F3a9ef9e141b0a8921dcf4e76afcc%2F497-eb.png",
+        "124x124": "https://cdn3.performance.univision.com/dims4/default/b6de389/2147483647/resize/124x124%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fec%2F7b%2F3a9ef9e141b0a8921dcf4e76afcc%2F497-eb.png",
+        "56x56": "https://cdn3.performance.univision.com/dims4/default/3b34ae8/2147483647/resize/56x56%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fec%2F7b%2F3a9ef9e141b0a8921dcf4e76afcc%2F497-eb.png",
+        "44x78": "https://cdn3.performance.univision.com/dims4/default/caf807e/2147483647/resize/44x78%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fec%2F7b%2F3a9ef9e141b0a8921dcf4e76afcc%2F497-eb.png",
+        "40x40": "https://cdn3.performance.univision.com/dims4/default/ef2add8/2147483647/thumbnail/40x40/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fec%2F7b%2F3a9ef9e141b0a8921dcf4e76afcc%2F497-eb.png",
+        "224x100": "https://cdn3.performance.univision.com/dims4/default/1e1826f/2147483647/resize/224x100%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2Fec%2F7b%2F3a9ef9e141b0a8921dcf4e76afcc%2F497-eb.png"
+      },
+      "uid": "0000014c-47f6-d0b2-a3cf-4fffb1060000"
+    },
+    "awayTeam": {
+      "name": {
+        "abbreviation": "TOL",
+        "full": "Toluca"
+      },
+      "icon": {
+        "original": "https://cdn1.uvnimg.com/69/69/b284afda41758cd4edc676fc2499/506-eb.png",
+        "82x82": "https://cdn1.performance.univision.com/dims4/default/e4f9616/2147483647/resize/82x82%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F69%2F69%2Fb284afda41758cd4edc676fc2499%2F506-eb.png",
+        "22x39": "https://cdn1.performance.univision.com/dims4/default/4ea9e4e/2147483647/resize/22x39%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F69%2F69%2Fb284afda41758cd4edc676fc2499%2F506-eb.png",
+        "124x124": "https://cdn1.performance.univision.com/dims4/default/4c6da3b/2147483647/resize/124x124%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F69%2F69%2Fb284afda41758cd4edc676fc2499%2F506-eb.png",
+        "56x56": "https://cdn1.performance.univision.com/dims4/default/45f0f3b/2147483647/resize/56x56%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F69%2F69%2Fb284afda41758cd4edc676fc2499%2F506-eb.png",
+        "44x78": "https://cdn1.performance.univision.com/dims4/default/2b89039/2147483647/resize/44x78%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F69%2F69%2Fb284afda41758cd4edc676fc2499%2F506-eb.png",
+        "40x40": "https://cdn1.performance.univision.com/dims4/default/99608f4/2147483647/thumbnail/40x40/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F69%2F69%2Fb284afda41758cd4edc676fc2499%2F506-eb.png",
+        "224x100": "https://cdn1.performance.univision.com/dims4/default/9e1cf32/2147483647/resize/224x100%5E/quality/75/?url=https%3A%2F%2Fcdn1.uvnimg.com%2F69%2F69%2Fb284afda41758cd4edc676fc2499%2F506-eb.png"
+      },
+      "uid": "0000014c-4805-d0b2-a3cf-49af92d50000"
+    },
+    "television-coverage": [
+      "udn",
+      "univision"
+    ]
+  },
+  "background": {
+    "type": "image",
+    "uid": "00000165-c350-d337-a5ef-eff37ab20000",
+    "title": "bachground image test",
+    "caption": "caption",
+    "credit": "Getty Images",
+    "renditions": {
+      "original": {
+        "href": "https://st1.uvnimg.com/93/e2/4f447b9749a48819de461f000618/back-2x.jpg",
+        "width": 1336,
+        "height": 372
+      }
+    }
+  },
+  "startLeadInText": "Faltan",
+  "eventName": "Final Liga Apertura 2019",
+  "logo": {
+    "type": "image",
+    "uid": "00000166-1bc1-d60a-a1f6-9bc1bce50000",
+    "title": "NBL Logo",
+    "caption": "",
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://st1.uvnimg.com/30/42/4861538747e5aa85eb5011d5e3d6/logo-uel-3x.svg",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "timerOverLeadText": "Time Over",
+  "titleLink": null,
+  "timerOverEventLink": {
+    "uid": "00000166-f465-d872-a7f6-fcf73ad10000",
+    "uri": null,
+    "type": "internallink",
+    "versionCreated": null,
+    "text": "Empanadas rellenas de dulce de leche",
+    "href": "/estilo-de-vida/delicioso/empanadas-rellenas-de-dulce-de-leche",
+    "target": null
+  }
+}

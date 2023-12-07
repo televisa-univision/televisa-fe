@@ -1,0 +1,1087 @@
+{
+  "mainLinks": [
+    {
+      "name": "Todos",
+      "link": "/shows"
+    },
+    {
+      "name": "Novelas",
+      "link": "/shows/novelas"
+    },
+    {
+      "name": "Series",
+      "link": "/shows/series"
+    },
+    {
+      "name": "Entretenimiento",
+      "link": "/shows/entretenimiento"
+    },
+    {
+      "name": "Deportes",
+      "link": "/shows/deportes"
+    },
+    {
+      "name": "Noticias",
+      "link": "/shows/noticias"
+    },
+    {
+      "name": "Guía de TV",
+      "link": "/shows/univision-guia-programacion-de-television-shows-novelas-y-series"
+    }
+  ],
+
+  "el gordo y la flaca": [
+    {
+      "name": "Inicio",
+      "link": "/shows/el-gordo-y-la-flaca"
+    },
+    {
+      "name": "Exclusivo digital",
+      "link": "/shows/el-gordo-y-la-flaca/exclusivo-digital"
+    },
+    {
+      "name": "Últimos videos",
+      "link": "/shows/el-gordo-y-la-flaca/ultimos-videos"
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/el-gordo-y-la-flaca/fotos"
+    },
+    {
+      "name": "Conductores",
+      "link": "/shows/el-gordo-y-la-flaca/los-conductores"
+    }
+  ],
+
+  "despierta america": [
+    {
+      "name": "Inicio",
+      "link": "/shows/despierta-america"
+    },
+    {
+      "name": "Entre amigas",
+      "link": "/shows/despierta-america/compartiendo-entre-amigas"
+    },
+    {
+      "name": "Dr. Juan",
+      "link": "/shows/despierta-america/consulta"
+    }
+  ],
+
+  "dona flor y sus dos maridos": [
+    {
+      "name": "Inicio",
+      "link": "/shows/dona-flor-y-sus-dos-maridos"
+    },
+    {
+      "name": "Capítulos",
+      "link": "/shows/dona-flor-y-sus-dos-maridos/capitulos"
+    }
+  ],
+
+  "reto 4 elementos": [
+    {
+      "name": "Inicio",
+      "link": "/shows/reto-4-elementos"
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "va por ti": [
+    {
+      "name": "Inicio",
+      "link": "/shows/va-por-ti"
+    },
+    {
+      "name": "Videos",
+      "link": "/shows/va-por-ti/videos"
+    },
+    {
+      "name": "VPT Extra",
+      "link": "/shows/va-por-ti/extra"
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/va-por-ti/fotos"
+    },
+    {
+      "name": "Zona Gali",
+      "link": "/shows/va-por-ti/zona-gali"
+    },
+    {
+      "name": "Jueces",
+      "link": "/va-por-ti/jueces"
+    },
+    {
+      "name": "Capitanes",
+      "link": "/shows/va-por-ti/capitanes"
+    }
+  ],
+
+  "mira quien baila": [
+    {
+      "name": "Inicio",
+      "link": "/shows/mira-quien-baila"
+    },
+    {
+      "name": "Participantes",
+      "link": "/shows/mira-quien-baila/conoce-a-los-participantes-de-mira-quien-baila"
+    },
+    {
+      "name": "Video",
+      "link": "/shows/mira-quien-baila/mira-quien-baila-video"
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/mira-quien-baila/fotos"
+    }
+  ],
+
+  "la banda": [
+    {
+      "name": "Inicio",
+      "link": "/shows/la-banda"
+    },
+    {
+      "name": "Backstage",
+      "link": "/shows/la-banda/backstage"
+    },
+    {
+      "name": "Participantes",
+      "link": "/shows/la-banda/participantes-la-banda-2016"
+    },
+    {
+      "name": "Videos",
+      "link": "/shows/la-banda/videos"
+    },
+    {
+      "name": "La Banda Extra",
+      "link": "/shows/la-banda/la-banda-extra"
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/la-banda/fotos"
+    },
+    {
+      "name": "Alejandra",
+      "link": "/shows/la-banda/alejandra"
+    },
+    {
+      "name": "Alejandra de Tijuana",
+      "link": "/shows/la-banda/alejandra-la-de-tijuana"
+    },
+    {
+      "name": "CNCO Evolution",
+      "link": "/shows/la-banda/cnco-evolution"
+    }
+  ],
+
+  "pequenos gigantes": [
+    {
+      "name": "Inicio",
+      "link": "/shows/pequenos-gigantes"
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/pequenos-gigantes/fotos"
+    },
+    {
+      "name": "Video",
+      "link": "/shows/pequenos-gigantes/videos"
+    }
+  ],
+
+  "la reina de la cancion": [
+    {
+      "name": "Inicio",
+      "link": "/shows/la-reina-de-la-cancion"
+    },
+    {
+      "name": "La Gran Final",
+      "link": "/shows/la-reina-de-la-cancion/la-gran-final"
+    },
+    {
+      "name": "Videos",
+      "link": "/shows/la-reina-de-la-cancion/videos"
+    },
+    {
+      "name": "De rol con El Recodo",
+      "link": "/shows/la-reina-de-la-cancion/de-rol-con-el-recodo"
+    },
+    {
+      "name": "Alejandra",
+      "link": "/shows/la-reina-de-la-cancion/alejandra-espinoza"
+    },
+    {
+      "name": "Participantes",
+      "link": "/shows/la-reina-de-la-cancion/participantes"
+    },
+    {
+      "name": "Backstage",
+      "link": "/shows/la-reina-de-la-cancion/backstage"
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/la-reina-de-la-cancion/fotos"
+    },
+    {
+      "name": "Capitanes",
+      "link": "/shows/la-reina-de-la-cancion/capitanes"
+    },
+    {
+      "name": "Evelyn",
+      "link": "/temas/evelyn-sicairos"
+    }
+  ],
+
+  "nuestra belleza latina": [
+    {
+      "name": "Inicio",
+      "link": "/shows/nuestra-belleza-latina"
+    },
+    {
+      "name": "Segundo Chance",
+      "link": "/shows/nuestra-belleza-latina/segundo-chance"
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/nuestra-belleza-latina/nbl-fotos"
+    },
+    {
+      "name": "Videos",
+      "link": "/shows/nuestra-belleza-latina/nbl-videos"
+    },
+    {
+      "name": "Tienda NBL",
+      "link": "https://nblboutique.com"
+    }
+  ],
+
+  "al punto": [
+    {
+      "name": "Inicio",
+      "link": "/shows/al-punto"
+    },
+    {
+      "name": "Episodios Completos",
+      "link": "/shows/al-punto/episodios-completos"
+    },
+    {
+      "name": "Entrevistas",
+      "link": "/shows/al-punto/entrevistas"
+    },
+    {
+      "name": "Artistas y Política",
+      "link": "/noticias/artistas-y-politica"
+    }
+  ],
+
+  "aqui y ahora": [
+    {
+      "name": "Inicio",
+      "link": "/shows/aqui-y-ahora"
+    },
+    {
+      "name": "Episodios Completos",
+      "link": "/shows/aqui-y-ahora/episodios-completos"
+    },
+    {
+      "name": "Historias",
+      "link": "/shows/aqui-y-ahora/historias"
+    },
+    {
+      "name": "A fondo",
+      "link": "/shows/aqui-y-ahora/extras"
+    },
+    {
+      "name": "Especiales",
+      "link": "/shows/aqui-y-ahora/especiales"
+    }
+  ],
+
+  "noticiero univision": [
+    {
+      "name": "Inicio",
+      "link": "/shows/noticiero-univision/noticiero-univision",
+      "aliases": ["/shows/noticiero-univision"]
+    },
+    {
+      "name": "Edición Digital",
+      "link": "/noticias/edicion-digital"
+    },
+    {
+      "name": "Edición Nocturna",
+      "link": "/shows/noticiero-univision/edicion-nocturna"
+    },
+    {
+      "name": "Fin de semana",
+      "link": "/shows/noticiero-univision/fin-de-semana"
+    }
+  ],
+
+  "primer impacto": [
+    {
+      "name": "Inicio",
+      "link": "/shows/primer-impacto"
+    },
+    {
+      "name": "Reportajes",
+      "link": "/shows/primer-impacto/reportajes"
+    },
+    {
+      "name": "La Huella de un Crimen",
+      "link": "/shows/primer-impacto/la-huella-de-un-crimen"
+    }
+  ],
+
+  "cronicas": [
+    {
+      "name": "Inicio",
+      "link": "/shows/cronicas-de-sabado"
+    },
+    {
+      "name": "Videos",
+      "link": "/shows/cronicas-de-sabado/especiales"
+    },
+    {
+      "name": "Episodios Completos",
+      "link": "/shows/cronicas-de-sabado/episodios-completos"
+    }
+  ],
+
+  "mision rusia": [
+    {
+      "name": "Inicio",
+      "link": "/shows/mision-rusia"
+    },
+    {
+      "name": "Mundial Rusia 2018",
+      "link": "/deportes/mundial-rusia-2018"
+    },
+    {
+      "name": "Minuto 45",
+      "link": "/shows/minuto-45"
+    },
+    {
+      "name": "Especiales",
+      "link": "/deportes/mundial-rusia-2018/especiales-de-la-copa-del-mundo-de-rusia-2018"
+    }
+  ],
+
+  "el rico y lazaro": [
+    {
+      "name": "Inicio",
+      "link": "/series/el-rico-y-lazaro",
+      "aliases": ["/shows/el-rico-y-lazaro"]
+    }
+  ],
+
+  "la tierra prometida": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-tierra-prometida",
+      "aliases": ["/shows/la-tierra-prometida"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/la-tierra-prometida/capitulos",
+      "aliases": ["/shows/la-tierra-prometida/capitulos"]
+    }
+  ],
+
+  "la rosa de guadalupe": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-rosa-de-guadalupe",
+      "aliases": ["/shows/la-rosa-de-guadalupe"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/la-rosa-de-guadalupe/capitulos",
+      "aliases": ["/shows/la-rosa-de-guadalupe/capitulos"]
+    }
+  ],
+
+  "nosotros los guapos": [
+    {
+      "name": "Inicio",
+      "link": "/series/nosotros-los-guapos",
+      "aliases": ["/shows/nosotros-los-guapos"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/nosotros-los-guapos/capitulos",
+      "aliases": ["/shows/nosotros-los-guapos/capitulos"]
+    }
+  ],
+
+  "mita y mita": [
+    {
+      "name": "Inicio",
+      "link": "/series/mita-y-mita",
+      "aliases": ["/shows/mita-y-mita"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "renta congelada": [
+    {
+      "name": "Inicio",
+      "link": "/series/renta-congelada/capitulos",
+      "aliases": ["/shows/renta-congelada/capitulos"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "soy luna": [
+    {
+      "name": "Inicio",
+      "link": "/series/soy-luna/capitulos",
+      "aliases": ["/shows/soy-luna/capitulos"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "40 y 20": [
+    {
+      "name": "Inicio",
+      "link": "/series/40-y-20",
+      "aliases": ["/shows/40-y-20"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "la nina": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-nina",
+      "aliases": ["/shows/la-nina"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "la viuda negra": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-viuda-negra",
+      "aliases": ["/shows/la-viuda-negra"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "mujeres de negro": [
+    {
+      "name": "Inicio",
+      "link": "/series/mujeres-de-negro",
+      "aliases": ["/shows/mujeres-de-negro"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "bloque de busqueda": [
+    {
+      "name": "Inicio",
+      "link": "/series/bloque-de-busqueda",
+      "aliases": ["/shows/bloque-de-busqueda"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "blue demon": [
+    {
+      "name": "Inicio",
+      "link": "/series/blue-demon",
+      "aliases": ["/shows/blue-demon"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "club de cuervos": [
+    {
+      "name": "Inicio",
+      "link": "/series/club-de-cuervos",
+      "aliases": ["/shows/club-de-cuervos"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "la embajada": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-embajada",
+      "aliases": ["/shows/la-embajada"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "la hermandad": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-hermandad",
+      "aliases": ["/shows/la-hermandad"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "la ronca de oro": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-ronca-de-oro"
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "los mosqueteros": [
+    {
+      "name": "Inicio",
+      "link": "/series/los-mosqueteros",
+      "aliases": ["/shows/los-mosqueteros"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "nuevo rico, nuevo pobre": [
+    {
+      "name": "Inicio",
+      "link": "/series/nuevo-rico-nuevo-pobre",
+      "aliases": ["/shows/nuevo-rico-nuevo-pobre"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "outpost": [
+    {
+      "name": "Inicio",
+      "link": "/series/outpost",
+      "aliases": ["/shows/outpost"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "velvet": [
+    {
+      "name": "Inicio",
+      "link": "/series/velvet",
+      "aliases": ["/shows/velvet"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "los cousins": [
+    {
+      "name": "Inicio",
+      "link": "/series/los-cousins",
+      "aliases": ["/shows/los-cousins"]
+    },
+    {
+      "name": "Galavisión",
+      "link": "/networks/galavision"
+    }
+  ],
+
+  "como dice el dicho": [
+    {
+      "name": "Inicio",
+      "link": "/series/como-dice-el-dicho",
+      "aliases": ["/shows/como-dice-el-dicho"]
+    },
+    {
+      "name": "Galavisión",
+      "link": "/networks/galavision"
+    }
+  ],
+
+  "casate conmigo... mi amor": [
+    {
+      "name": "Inicio",
+      "link": "/series/casate-conmigo-mi-amor",
+      "aliases": ["/shows/casate-conmigo-mi-amor"]
+    },
+    {
+      "name": "Galavisión",
+      "link": "/networks/galavision"
+    }
+  ],
+
+  "los super perez": [
+    {
+      "name": "Inicio",
+      "link": "/series/los-super-perez",
+      "aliases": ["/shows/los-super-perez"]
+    },
+    {
+      "name": "Galavisión",
+      "link": "/networks/galavision"
+    }
+  ],
+
+  "el principe": [
+    {
+      "name": "Inicio",
+      "link": "/series/el-principe",
+      "aliases": ["/shows/el-principe"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/el-principe/capitulos",
+      "aliases": ["/shows/el-principe/capitulos"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "el chapo": [
+    {
+      "name": "Inicio",
+      "link": "/series/el-chapo",
+      "aliases": ["/shows/el-chapo", "/el-chapo"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/el-chapo/capitulos",
+      "aliases": ["/shows/el-chapo/capitulos"]
+    },
+    {
+      "name": "Cómo ver 'El Chapo'",
+      "link": "/series/el-chapo/aqui-te-decimos-como-ver-los-capitulos-completos-de-la-serie-el-chapo-segunda-temporada",
+      "aliases": ["/shows/el-chapo/aqui-te-decimos-como-ver-los-capitulos-completos-de-la-serie-el-chapo-segunda-temporada"]
+    },
+    {
+      "name": "English Version",
+      "link": "/series/el-chapo-english",
+      "aliases": ["/shows/el-chapo-english"]
+    }
+  ],
+
+  "sanson y dalila": [
+    {
+      "name": "Inicio",
+      "link": "/series/sanson-y-dalila",
+      "aliases": ["/shows/sanson-y-dalila"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/sanson-y-dalila/capitulos",
+      "aliases": ["/shows/sanson-y-dalila/capitulos"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "la bella y las bestias": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-bella-y-las-bestias",
+      "aliases": ["/shows/la-bella-y-las-bestias"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/la-bella-y-las-bestias/capitulos",
+      "aliases": ["/shows/la-bella-y-las-bestias/capitulos"]
+    }
+  ],
+
+  "la piloto": [
+    {
+      "name": "Inicio",
+      "link": "/series/la-piloto",
+      "aliases": ["/shows/la-piloto"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/la-piloto/capitulos",
+      "aliases": ["/shows/la-piloto/capitulos"]
+    }
+  ],
+
+  "like, la leyenda": [
+    {
+      "name": "Inicio",
+      "link": "/series/like-la-leyenda",
+      "aliases": ["/shows/like-la-leyenda"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/like-la-leyenda/capitulos",
+      "aliases": ["/shows/like-la-leyenda/capitulos"]
+    },
+    {
+      "name": "Tienda LIKE",
+      "link": "https://liketheshop.com/",
+      "target": "_blank"
+    }
+  ],
+
+  "jesus": [
+    {
+      "name": "Inicio",
+      "link": "/shows/jesus"
+    },
+    {
+      "name": "Capítulos",
+      "link": "/shows/jesus/capitulos"
+    }
+  ],
+
+  "rosario tijeras": [
+    {
+      "name": "Inicio",
+      "link": "/series/rosario-tijeras"
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/rosario-tijeras/capitulos"
+    }
+  ],
+
+  "atrapada": [
+    {
+      "name": "Inicio",
+      "link": "/series/atrapada"
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/atrapada/capitulos"
+    }
+  ],
+
+  "tres milagros": [
+    {
+      "name": "Inicio",
+      "link": "/series/tres-milagros"
+    },
+    {
+      "name": "Capítulos",
+      "link": "/series/tres-milagros/capitulos"
+    }
+  ],
+
+  "caer en tentacion": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/caer-en-tentacion",
+      "aliases": ["/shows/caer-en-tentacion"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/caer-en-tentacion/capitulos",
+      "aliases": ["/shows/caer-en-tentacion/capitulos"]
+    }
+  ],
+
+  "las amazonas": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/las-amazonas",
+      "aliases": ["/shows/las-amazonas"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/las-amazonas/capitulos",
+      "aliases": ["/shows/las-amazonas/capitulos"]
+    }
+  ],
+
+  "papa a toda madre": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/papa-a-toda-madre",
+      "aliases": ["/shows/papa-a-toda-madre"]
+    }
+  ],
+
+  "simplemente maria": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/simplemente-maria",
+      "aliases": ["/shows/simplemente-maria"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/simplemente-maria/capitulos",
+      "aliases": ["/shows/simplemente-maria/capitulos"]
+    }
+  ],
+
+  "totalmente diva": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/totalmente-diva",
+      "aliases": ["/shows/totalmente-diva"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "la candidata": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/la-candidata",
+      "aliases": ["/shows/la-candidata"]
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "por amar sin ley": [
+    {
+      "name": "Inicio",
+      "link": "/shows/por-amar-sin-ley"
+    },
+    {
+      "name": "Capítulos",
+      "link": "/shows/por-amar-sin-ley/capitulos"
+    }
+  ],
+
+  "la jefa del campeon": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/la-jefa-del-campeon",
+      "aliases": ["/shows/la-jefa-del-campeon"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/la-jefa-del-campeon/capitulos",
+      "aliases": ["/shows/la-jefa-del-campeon/capitulos"]
+    }
+  ],
+
+  "el vuelo de la victoria": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/el-vuelo-de-la-victoria",
+      "aliases": ["/shows/el-vuelo-de-la-victoria"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/el-vuelo-de-la-victoria/capitulos",
+      "aliases": ["/shows/el-vuelo-de-la-victoria/capitulos"]
+    }
+  ],
+
+  "mi marido tiene mas familia": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/mi-marido-tiene-mas-familia",
+      "aliases": ["/shows/mi-marido-tiene-mas-familia"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/mi-marido-tiene-mas-familia/capitulos",
+      "aliases": ["/shows/mi-marido-tiene-mas-familia/capitulos"]
+    }
+  ],
+
+  "amar a muerte": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/amar-a-muerte",
+      "aliases": ["/shows/amar-a-muerte"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/amar-a-muerte/capitulos",
+      "aliases": ["/shows/amar-a-muerte/capitulos"]
+    }
+  ],
+
+  "en tierras salvajes": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/en-tierras-salvajes",
+      "aliases": ["/shows/en-tierras-salvajes"]
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/en-tierras-salvajes/capitulos",
+      "aliases": ["/shows/en-tierras-salvajes/capitulos"]
+    }
+  ],
+
+  "tenias que ser tu": [
+    {
+      "name": "Inicio",
+      "link": "/novelas/tenias-que-ser-tu"
+    },
+    {
+      "name": "Capítulos",
+      "link": "/novelas/tenias-que-ser-tu/capitulos"
+    }
+  ],
+
+  "teleton usa": [
+    {
+      "name": "Inicio",
+      "link": "/shows/teleton-usa",
+      "aliases": ["/shows/teleton-usa"]
+    },
+    {
+      "name": "Videos",
+      "link": "/shows/teleton-usa/videos",
+      "aliases": ["/shows/teleton-usa/videos"]
+    },
+    {
+      "name": "Fotos",
+      "link": "/shows/teleton-usa/fotos",
+      "aliases": ["/shows/teleton-usa/fotos"]
+    }
+  ],
+
+  "latin grammy": [
+    {
+      "name": "Inicio",
+      "link": "/shows/latin-grammy",
+      "aliases": ["/shows/latin-grammy"]
+    },
+    {
+      "name": "Nominados",
+      "link": "/especiales/latin-grammy/lista-completa-de-los-nominados-a-los-premios-latin-grammy-2018",
+      "aliases": ["/shows/latin-grammy/lista-completa-de-los-nominados-a-los-premios-latin-grammy-2018"]
+    },
+    {
+      "name": "Ganadores 2018",
+      "link": "/especiales/latin-grammy/ganadores-del-latin-grammy-2018-lista-completa-foto-a-foto-fotos",
+      "aliases": ["/shows/latin-grammy/ganadores-del-latin-grammy-2018-lista-completa-foto-a-foto-fotos"]
+    },
+    {
+      "name": "Moda",
+      "link": "/especiales/latin-grammy/moda",
+      "aliases": ["/shows/latin-grammy/moda"]
+    },
+    {
+      "name": "Video",
+      "link": "/especiales/latin-grammy/video",
+      "aliases": ["/shows/latin-grammy/video"]
+    },
+    {
+      "name": "Fotos",
+      "link": "/especiales/latin-grammy/fotos",
+      "aliases": ["/shows/latin-grammy/fotos"]
+    }
+  ],
+
+  "premios juventud": [
+    {
+      "name": "Inicio",
+      "link": "/especiales/premios-juventud",
+      "aliases": ["/shows/premios-juventud"]
+    },
+    {
+      "name": "PJ Bash",
+      "link": "/especiales/premios-juventud/pj-bash",
+      "aliases": ["/shows/premios-juventud/pj-bash"]
+    },
+    {
+      "name": "Videos",
+      "link": "/especiales/premios-juventud/videos",
+      "aliases": ["/shows/premios-juventud/videos"]
+    }
+  ],
+
+  "simon dice": [
+    {
+      "name": "Inicio",
+      "link": "/shows/simon-dice"
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "mi lista de exes": [
+    {
+      "name": "Inicio",
+      "link": "/shows/mi-lista-de-exes"
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "inseparables": [
+    {
+      "name": "Inicio",
+      "link": "/shows/inseparables"
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ],
+
+  "hoy": [
+    {
+      "name": "Inicio",
+      "link": "/shows/hoy"
+    },
+    {
+      "name": "UniMás",
+      "link": "/unimas"
+    }
+  ]
+}

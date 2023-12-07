@@ -1,0 +1,450 @@
+.container {
+  align-items: center;
+  background-color: $black;
+  border-top: 1px solid $black-grey;
+  bottom: 0;
+  color: $white;
+  display: flex;
+  font-size: 11px;
+  font-style: normal;
+  height: 45px;
+  justify-content: space-between;
+  line-height: rem(13px);
+  padding: 0 16px;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  @include uvs-font('a', 'bold');
+
+  @include media-breakpoint-up('sm') {
+    padding: 15px 18px;
+    position: initial;
+    z-index: initial;
+  }
+  @include media-breakpoint-up('md') {
+    background-color: #1a1a1a;
+    border-bottom: 1px solid $black-grey;
+  }
+}
+
+.simpleContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 16px;
+  width: 43px;
+
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}
+
+.simpleStatusText {
+  margin-top: 0.5rem;
+}
+
+.lead {
+  background: transparent;
+
+  svg {
+    path {
+      fill: $white;
+    }
+  }
+}
+
+.inline {
+  padding: 0;
+
+  &.lead {
+    border-top: 0;
+  }
+
+  .mobileActions {
+    display: none;
+  }
+
+  .inlineWrapper {
+    align-items: center;
+    display: flex;
+    height: auto;
+    padding: 10px;
+    position: relative;
+    flex-direction: column;
+    width: 65px;
+  }
+
+  .adStatus.adStatus {
+    display: none;
+  }
+
+  .statusText {
+    color: $white;
+    font-size: rem(14px);
+    line-height: rem(14px);
+    text-transform: initial;
+  }
+
+  .control {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .statusText,
+  .mobileActions {
+    @include media-breakpoint-up('md') {
+      display: none;
+    }
+  }
+
+  .icon path {
+    fill: $grey-black;
+  }
+
+  .replay {
+    align-items: center;
+    background-color: transparent;
+    color: $white;
+    display: flex;
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: 0;
+    @include media-breakpoint-up('md') {
+      display: none;
+    }
+  }
+
+  .replayIcon {
+    fill: $white;
+    margin-right: 4px;
+  }
+}
+
+.inlineStatusText {
+  color: $darker-grey;
+  font-size: 11px;
+}
+
+.statusText {
+  display: inline-flex;
+  text-transform: uppercase;
+  min-width: 32px;
+  @include uvs-font('a', 'regular');
+  em {
+    font-style: normal;
+    @include uvs-font('a', 'bold');
+  }
+}
+
+.adStatus {
+  color: $grey-black;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+
+  span {
+    line-height: rem(11px);
+    font-size: 9px;
+  }
+}
+
+.control {
+  background-color: transparent;
+}
+
+.control {
+  height: 24px;
+  margin-right: 16px;
+  padding: 0;
+  position: relative;
+  width: 24px;
+
+  &.white .icon path {
+    fill: $white;
+  }
+}
+
+.simpleControl {
+  @extend .control;
+  margin-right: 0;
+}
+
+.icon {
+  left: 0;
+  position: absolute;
+  top: 0;
+  z-index: 1;
+
+  path {
+    fill: $white;
+  }
+}
+
+.mobileActions {
+  align-items: center;
+  display: inline-flex;
+  position: relative;
+  right: 10px;
+
+  @include media-breakpoint-up('sm') {
+    position: initial;
+    margin: initial;
+  }
+}
+
+.arrow {
+  background: transparent;
+  cursor: pointer;
+  height: 35px;
+  padding: 0;
+  width: 35px;
+  display: none;
+
+  &:first-of-type:not(:last-of-type) {
+    svg {
+      transform: translateX(3px); // visually center
+    }
+  }
+
+  &:last-of-type svg {
+    transform: translateX(5px); // visually center
+  }
+
+  svg:hover {
+    path {
+      fill: $grey;
+    }
+  }
+}
+
+.arrowIcon {
+  path {
+    fill: $white;
+  }
+  pointer-events: all;
+}
+
+.shareIcon {
+  button {
+    align-items: center;
+    border-left: 1px solid $black-grey;
+    display: flex;
+    height: 45px;
+    justify-content: center;
+    padding-left: 5px;
+    width: 35px;
+  }
+  @include media-breakpoint-up('md') {
+    display: none;
+  }
+}
+
+.shareButtons {
+  background-color: $black;
+  display: flex;
+  position: absolute;
+  width: 95%;
+  z-index: 10;
+  a:not(:last-child) {
+    border: none;
+  }
+  > div:first-of-type {
+    width: 100%;
+    > div:first-of-type {
+      line-height: rem(43px);
+      width: 100%;
+      > div:first-of-type {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        a:last-child {
+          padding-right: 1.5rem;
+        }
+      }
+    }
+  }
+
+  a {
+    svg {
+      path {
+        fill: $white;
+      }
+    }
+  }
+
+  @include media-breakpoint-up('md') {
+    display: none;
+  }
+}
+
+.show {
+  animation-duration: 0.5s;
+  animation-fill-mode: both;
+  animation-name: fadeInRight;
+}
+
+.hide {
+  animation-duration: 0.5s;
+  animation-fill-mode: both;
+  animation-name: fadeOutRight;
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes fadeOutRight {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+  }
+}
+
+.closeIcon {
+  background: transparent;
+  cursor: pointer;
+  height: 45px;
+  padding: 0;
+  width: 56px;
+  border-left: 1px solid $black-grey;
+
+  svg:hover {
+    fill: $grey;
+  }
+}
+
+.callToStart {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  padding-right: 26px;
+  span {
+    font-size: rem(11px);
+    margin-left: 6px;
+    margin-right: 16px;
+    text-transform: uppercase;
+    @include uvs-font('a', 'regular');
+  }
+  svg {
+    margin-bottom: 2px;
+  }
+}
+
+.reactionShareBar {
+  a:not(:last-child) {
+    border-right: 1px solid $black-grey;
+    line-height: rem(15px);
+    padding: 0 20px;
+  }
+}
+
+.openShareButtons {
+  display: flex;
+  > div:first-of-type {
+    flex-direction: row;
+    > div:first-of-type {
+      justify-content: flex-end;
+      > div:first-of-type {
+        line-height: 20px;
+        margin-right: initial;
+        width: initial;
+        a:not(:last-child) {
+          border-right: 1px solid $black-grey;
+        }
+      }
+    }
+  }
+}
+
+.isEndCard {
+  display: none;
+}
+
+.openCard {
+  align-items: center;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.reactionContainer {
+  height: 48px;
+
+  .left,
+  .mobileActions {
+    display: none;
+  }
+
+  .closeIcon {
+    width: 69px;
+  }
+
+  .shareIcon {
+    button {
+      height: 48px;
+      justify-content: center;
+      width: 48px;
+    }
+  }
+
+  @include media-breakpoint-up('md') {
+    .reactionContainer {
+      border-top: initial;
+      height: 45px;
+    }
+
+    .mobileActions {
+      display: flex;
+    }
+
+    .left,
+    .arrow,
+    .closeIcon,
+    .reactionButtons {
+      display: none;
+    }
+
+    .statusText {
+      color: $grey;
+    }
+
+    .container {
+      height: 45px;
+    }
+  }
+
+  .reactionButtons {
+    width: 100%;
+
+    > div {
+      padding: 0;
+      padding-bottom: 6px;
+    }
+
+    button {
+      background-color: transparent;
+      border: initial;
+      flex-direction: column;
+      height: 44px;
+      margin-right: 0;
+    }
+  }
+}

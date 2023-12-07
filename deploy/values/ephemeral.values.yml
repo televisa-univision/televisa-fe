@@ -1,0 +1,62 @@
+image:
+  repository: 626604290616.dkr.ecr.us-east-1.amazonaws.com/prod-univision-fe-k8s
+  tag: latest
+  pullPolicy: IfNotPresent
+
+hpa:
+  minReplicas: 1
+  maxReplicas: 100
+  targetUtilization: 80
+
+pdb:
+  maxUnavailable: 1
+
+resources:
+  limits:
+    cpu: 1500m
+    memory: 2048Mi
+  requests:
+    cpu: 600m
+    memory: 500Mi
+
+service:
+  type: ClusterIP
+  port: 80
+
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: nginx-ingress-external
+  paths:
+    - /
+  tls: []
+
+vanityingress:
+  enabled: false
+
+config_map:
+  CMS_API_URL: https://syndicator.performance.univision.com
+  MULTI_DOMAIN_DISABLED: true
+  DD_ENV: stage
+  DD_LOGS_INJECTION: true
+  DD_SERVICE_NAME: web-app
+  DD_TRACE_AGENT_HOSTNAME: datadog-statsd.datadog
+  DD_TRACE_AGENT_PORT: 8126
+  DD_TRACE_DEBUG: true
+  DD_TRACE_ENABLED: false
+  DEPLOY_ENV: test
+  GRAPHQL_API_URL: https://graphql.test-univision.com
+  NODE_ENV: production
+  SPA_MONITORING_ENABLED: false
+  SPORT_API_URL: https://sports-api-dev.univision.com
+  SSO_IFRAME_URL: https://sso-performance.webapp.univision.com
+  VIDEO_HUB_ENV: prod
+
+secret:
+  enabled: true
+  name: univision-fe
+
+strategy:
+  rollingUpdate:
+    maxSurge: 25%
+    maxUnavailable: 25%

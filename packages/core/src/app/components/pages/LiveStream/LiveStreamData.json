@@ -1,0 +1,241 @@
+{
+  "status":"success",
+  "data":{
+    "uid":"00000150-8d3e-da10-af5f-bd7f54200000",
+    "uri":"https://performance.univision.com/noticias/en-vivo-ultima-hora-livestream",
+    "type":"livestream",
+    "updateDate":"2018-05-08T14:55:16-04:00",
+    "publishDate":"2015-10-21T21:52:25-04:00",
+    "expirationDate":null,
+    "image":{
+      "type":"image",
+      "uid":"00000153-f1f1-d20a-a97b-fdf934a70000",
+      "title":"Univision Fallback Image",
+      "caption":null,
+      "credit":null,
+      "renditions":{
+        "original":{
+          "href":"https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+          "width":1200,
+          "height":630
+        }
+      }
+    },
+    "isSensitive":false,
+    "primaryTag":{
+      "name":"Noticias",
+      "link":"/temas/noticias"
+    },
+    "primaryTopic":"Noticias",
+    "secondaryTags":[
+
+    ],
+    "externalWidgets":{
+      "civicScience":"<script type=\"text/javascript\" src=\"https://www.civicscience.com/widget/jspoll/?elt=2827b225-3477-7b34-7dea-88a6b5047569&tgtid=baa9bace-d093-7594-014e-f8c8db509e69\" defer></script><div id=\"2827b225-3477-7b34-7dea-88a6b5047569\"></div>"
+    },
+    "contentPriority":"standard",
+    "title":"En vivo: Última hora",
+    "eventName":"En vivo: Última hora",
+    "description":"En vivo: Última hora",
+    "livestreamId":"20170111",
+    "adobeNetworkId":null,
+    "isAuth":false,
+    "playerType":"JW",
+    "tvssUrl":"auth.univision.com",
+    "mainImage":"https://cdn4.uvnimg.com/de/bd/192131a7438087b9d3b6e34282ff/ultima-hora.jpeg",
+    "isActive":true,
+    "showEnVivo":false,
+    "authors":[
+
+    ],
+    "tempAuthors":[
+
+    ],
+    "adSettings":{
+      "isDisable3rdPartyAds":false,
+      "adTagValue":"video_noticias",
+      "targeting":{
+        "client":"desktop"
+      },
+      "disableAds":false,
+      "freewheel":{
+        "sectionId":"news",
+        "assetId":"univision_news_live",
+        "adValue":null,
+        "test":{
+          "displayAdProfilePath":"univision_linktag2_live",
+          "host":"https://1b656.v.fwmrm.net",
+          "linkTag2Profile":"univision_linktag2_live",
+          "networkCode":"111976",
+          "profilePath":"univision_Live_HTML5"
+        },
+        "production":{
+          "displayAdProfilePath":"univision_test",
+          "host":"https://1b656.v.fwmrm.net",
+          "linkTag2Profile":"univision_linktag2_live",
+          "networkCode":"111976",
+          "profilePath":"univision_Live_HTML5"
+        }
+      },
+      "dfp":{
+        "adValue":"/news",
+        "production":{
+          "desktopAdValuePrefix":"d.",
+          "mobileAdValuePrefix":"m.",
+          "networkCode":"7009"
+        },
+        "test":{
+          "desktopAdValuePrefix":"d.",
+          "mobileAdValuePrefix":"m.",
+          "networkCode":"7009"
+        }
+      }
+    },
+    "tracking":{
+      "tealium":{
+        "account":"main",
+        "environment":"dev",
+        "data":{
+          "all_tags":[
+            "noticias"
+          ],
+          "content_author":"",
+          "content_created_date":"1445478745062",
+          "content_creator":"00000147-f450-de63-a157-fe5b202e0000",
+          "content_id":"00000150-8d3e-da10-af5f-bd7f54200000",
+          "content_modified_date":"1525805716289",
+          "content_priority":"standard",
+          "content_type":"livestream",
+          "environment_name":"staging",
+          "language":"es",
+          "page_name":"noticias:noticias:livestream:en vivo: ultima hora",
+          "parent_tags":[
+            "noticias"
+          ],
+          "parent_topic":"noticias",
+          "permalink":"https://performance.univision.com/noticias/en-vivo-ultima-hora-livestream",
+          "portal_theme":"noticias",
+          "primary_tag":"noticias",
+          "primary_tag_uid":"0000014b-a9eb-de67-a74f-b9fb7a770000",
+          "primary_tag_en":"news",
+          "publisher_tags":[
+            "noticias"
+          ],
+          "short_title":"en vivo: ultima hora",
+          "short_title_en":"en vivo: ultima hora",
+          "tags_en":[
+            "news"
+          ],
+          "title":"en vivo: ultima hora",
+          "title_en":"en vivo: ultima hora",
+          "topics":[
+            "noticias"
+          ],
+          "uci_division":"",
+          "website":"univision",
+          "uni_platform":"Website"
+        }
+      },
+      "nielsen":{
+        "appId":"PDB44FE12-8611-4D9B-8C88-18023F94B474",
+        "vcid":"c02",
+        "environment":"dev",
+        "primaryTopic":"Noticias"
+      }
+    },
+    "sharing":{
+      "options":{
+        "facebook":{
+          "url":"http://uni.vi/vltz100Vyee",
+          "redirectUrl":"http://uni.vi/vltz100Vyee",
+          "isFeedDialog":false,
+          "baseUrl":null,
+          "appId":"645138725541385",
+          "title":"En vivo: Última hora",
+          "description":"En vivo: Última hora",
+          "imageUrl":"https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+        },
+        "twitter":{
+          "url":"http://uni.vi/vltz100Vyee",
+          "title":"En vivo: Última hora",
+          "via":"UniNoticias"
+        },
+        "whatsapp":{
+          "url":"http://uni.vi/vltz100Vyee",
+          "message":"En vivo: Última hora"
+        },
+        "mail":{
+          "subject":"En vivo: Última hora",
+          "body":"Un amigo te ha recomendado este contenido que puede ser de tu interés. \n\nEn vivo: Última hora\n\nEncuéntralo en este enlace: http://uni.vi/vltz100Vyee\n\nVisitamos www.univision.com"
+        }
+      }
+    },
+    "metaTagData":{
+      "settings":null,
+      "googlePlus":{
+        "author":null,
+        "publisher":null
+      },
+      "openGraph":{
+        "type":null,
+        "title":"En vivo: Última hora",
+        "description":"En vivo: Última hora",
+        "imageUrl":"https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+        "siteName":"Univision",
+        "url":"https://performance.univision.com/noticias/en-vivo-ultima-hora-livestream"
+      },
+      "twitter":{
+        "card":"summary_large_image",
+        "title":"En vivo: Última hora",
+        "description":"En vivo: Última hora",
+        "creator":null,
+        "imageUrl":"https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+      },
+      "facebook":{
+        "pages":"259955926518,173155703431,174725429795,130815470261839"
+      },
+      "extras":[
+
+      ],
+      "additionalSeoKeywords":[
+
+      ]
+    },
+    "seo":{
+      "title":"null - Univision",
+      "description":"En vivo: Última hora",
+      "keywords":[
+
+      ],
+      "robots":[
+
+      ],
+      "tagHierarchy":[
+        {
+          "@id":"https://performance.univision.com/noticias",
+          "name":"Noticias",
+          "image":"https://cdn2.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg"
+        },
+        {
+          "@id":"https://performance.univision.com",
+          "name":"Univision.com",
+          "image":"https://cdn3.uvnimg.com/a8/a8/a07b20854d2f848ac3d26d57fce4/univisionlogo.jpg"
+        }
+      ]
+    },
+    "source":null,
+    "sourceStation":null,
+    "widgets":[
+
+    ],
+    "brandable":null,
+    "tagHierarchy":[
+      {
+        "name":"noticias",
+        "url":"https://performance.univision.com/temas/noticias"
+      }
+    ],
+    "ttl":3600,
+    "feedGeneratedAt":"2018-06-25T13:21:44-04:00"
+  }
+}

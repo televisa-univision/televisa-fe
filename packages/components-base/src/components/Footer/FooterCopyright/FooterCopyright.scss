@@ -1,0 +1,29 @@
+.footerCopyright {
+  padding: .5rem 0;
+  color: $white-grey;
+  font-size: rem(13px);
+  line-height: rem(31px);
+  text-align: center;
+  background-color: $darker-grey;
+
+  &.light {
+    color: $darker-grey;
+    background-color: $white;
+  }
+
+  @include media-breakpoint-up('sm') {
+    padding: 0;
+    background-color: transparent;
+    text-align: left;
+  }
+
+  @include media-breakpoint-up('md') {
+    text-align: right;
+  }
+}
+
+.break {
+  @include media-breakpoint-up('sm') {
+    display: none;
+  }
+}

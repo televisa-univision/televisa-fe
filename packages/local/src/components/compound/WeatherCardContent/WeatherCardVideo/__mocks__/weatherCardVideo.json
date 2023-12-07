@@ -1,0 +1,44 @@
+{
+  "image": {
+    "type": "image",
+    "uid": "0000016d-2afc-d547-a17f-fffc821d0000",
+    "title": "ff043d64b56946ec95491c0a2c6df728",
+    "caption": null,
+    "credit": null,
+    "renditions": {
+      "original": {
+        "href": "https://st1.uvnimg.com/a1/02/9711ff1c4df280d9df604177be27/ff043d64b56946ec95491c0a2c6df728",
+        "width": 1920,
+        "height": 1080
+      }
+    }
+  },
+  "mcpid": "3741863",
+  "sharing": {
+    "options": {
+      "facebook": {
+        "url": "http://uni.vi/SQC6101LD3u",
+        "isFeedDialog": false,
+        "title": "Francisca le tomó la mano a JLo para ver de cerca (y comparar con el de ella) su anillo de compromiso",
+        "description": "Mientras hablaba sobre la hermosa relación que tiene con su 'macho' Alex Rodríguez, Francisca Lachapel no pudo evitar tomar la mano de la cantante para apreciar de cerca su enorme anillo de compromiso y de paso presumirle que ella también está ya planeando su boda.",
+        "imageUrl": "https://st1.uvnimg.com/a1/02/9711ff1c4df280d9df604177be27/ff043d64b56946ec95491c0a2c6df728",
+        "appId": "645138725541385"
+      },
+      "twitter": {
+        "url": "http://uni.vi/SQC6101LD3u",
+        "title": "Francisca le tomó la mano a JLo para ver de cerca (y comparar con el de ella) su anillo de compromiso",
+        "via": "Univision"
+      },
+      "whatsapp": {
+        "url": "http://uni.vi/SQC6101LD3u",
+        "message": "Francisca le tomó la mano a JLo para ver de cerca (y comparar con el de ella) su anillo de compromiso"
+      },
+      "mail": {
+        "subject": "Francisca le tomó la mano a JLo para ver de cerca (y comparar con el de ella) su anillo de compromiso",
+        "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFrancisca le tomó la mano a JLo para ver de cerca (y comparar con el de ella) su anillo de compromiso\n\nEncuéntralo en este enlace:http://uni.vi/SQC6101LD3u\n\nVisítanos https://www.univision.com"
+      }
+    }
+  },
+  "title": "Weather Card Video Title",
+  "uri": "https://uat2.x.univision.com/local/houston-kxln/houston/kxln/en-vivo-houston-24-7-livestream"
+}

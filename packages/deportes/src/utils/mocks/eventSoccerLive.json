@@ -1,0 +1,67 @@
+{
+    "fixture": null,
+    "date": "2022-11-21T13:00:00Z",
+    "elapsedTime": "—",
+    "status": "post",
+    "url": "https://uat.tudn.com/futbol/mundial-qatar-2022/inglaterra-vs-iran-copa-mundial-2022-11-21",
+    "calienteMetadata": {
+      "isBetOpen": true,
+      "odds": [
+          "+15000",
+          "+800",
+          "-2000"
+      ],
+      "eventUrl": "https://online.caliente.mx/page?member=televisadep&campaign=DEFAULT&channel=DEFAULT&zone=54300998&lp=57943263&ev_id=17949440"
+    },
+    "channels": [],
+    "channelsType": {
+        "en": [],
+        "es": []
+    },
+    "tudnXtraEnglish": false,
+    "eventName": "England vs IR Iran",
+    "leagueKey": "4",
+    "leagueName": "World Cup",
+    "leagueAbbreviation": "Mundial",
+    "soccerMatchContentURL": "https://uat.x.univision.com/deportes/futbol/la-liga-2",
+    "stadiumName": "Khalifa International Stadium",
+    "hasLiveStream": false,
+    "tvAuthenticated": false,
+    "tudnXtra": false,
+    "broadcastLanguage": "",
+    "coverage": "Performance",
+    "vixExternalLink": "",
+    "id": "2277792",
+    "week": "1",
+    "totalWeeks": "8",
+    "round": "Round",
+    "teams": {
+        "away": {
+            "id": "1042",
+            "url": "https://uat.tudn.com/futbol/copa-mundial/iran",
+            "fullName": "Irán",
+            "abbreviatedName": "IRN",
+            "imageURI": "https://uvn-brightspot.s3.amazonaws.com/51/ff/6001ad604540a1167a275c846302/286-eb.png",
+            "scoreValue": {
+                "score": 2,
+                "penalty": null,
+                "firstLeg": null
+            },
+            "isWinner": false
+        },
+        "home": {
+            "id": "114",
+            "url": "https://uat.tudn.com/futbol/copa-mundial/inglaterra",
+            "fullName": "Inglaterra",
+            "abbreviatedName": "ENG",
+            "imageURI": "https://uvn-brightspot.s3.amazonaws.com/a9/b9/7cf4f6ed4a76877674d2462924eb/england-2x.png",
+            "scoreValue": {
+                "score": 6,
+                "penalty": null,
+                "firstLeg": null
+            },
+            "isWinner": true
+        }
+    },
+    "featureEvent": true
+}

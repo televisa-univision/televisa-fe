@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "key": 1,
+      "leagueName": "mexican primera (apertura)",
+      "leaguePhase": "Round",
+      "leagueKey": "199",
+      "week": "5",
+      "fixture": "Vuelta",
+      "status": "post",
+      "home": {
+        "fullName": "Queretaro",
+        "abbreviatedName": "qro",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/4047",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 3,
+          "firstLeg": 0
+        },
+        "isWinner": true
+      },
+      "away": {
+        "fullName": "Gudalajara",
+        "abbreviatedName": "gdl",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1283",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 2,
+          "firstLeg": 0
+        },
+        "isWinner": false
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "url": "http://univision.com"
+    },
+    {
+      "key": 2,
+      "leagueName": "Champions League",
+      "leaguePhase": "round of 8",
+      "fixture": "ida",
+      "status": "post",
+      "home": {
+        "fullName": "Barcelona",
+        "abbreviatedName": "bar",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/178",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 4,
+          "penalty": 2,
+          "firstLeg": 0
+        },
+        "isWinner": false
+      },
+      "away": {
+        "fullName": "Inter de Milan",
+        "abbreviatedName": "int",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/127",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 1,
+          "penalty": 4,
+          "firstLeg": 0
+        },
+        "isWinner": true
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "leagueKey": "5"
+    },
+    {
+      "key": 3,
+      "leagueName": "Copa MX clausura",
+      "leaguePhase": "round of 16",
+      "fixture": "vuelta",
+      "status": "live",
+      "home": {
+        "fullName": "América",
+        "abbreviatedName": "ame",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1292",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 1,
+          "penalty": 5
+        }
+      },
+      "away": {
+        "fullName": "Puebla",
+        "abbreviatedName": "pue",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1296",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 1,
+          "penalty": 3
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "url": "http://univision.com",
+      "leagueKey": "941"
+    },
+    {
+      "key": 4,
+      "leagueName": "Copa Mx",
+      "leaguePhase": "quarter-finals",
+      "fixture": "vuelta",
+      "status": "live",
+      "home": {
+        "fullName": "Monterrey",
+        "abbreviatedName": "MTY",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/741",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 2,
+          "penalty": null
+        }
+      },
+      "away": {
+        "fullName": "Pumas",
+        "abbreviatedName": "pum",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1297",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 1
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false,
+      "reminderAction": null,
+      "hasLiveStream": true,
+      "leagueKey": "385"
+    },
+    {
+      "key": 5,
+      "leagueName": "liga mx (apertura)",
+      "leaguePhase": "Round",
+      "week": "7",
+      "fixture": null,
+      "status": "pre",
+      "home": {
+        "fullName": "Jaguares",
+        "abbreviatedName": "jag",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/1958",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 3
+        }
+      },
+      "away": {
+        "fullName": "Dorados",
+        "abbreviatedName": "dds",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/7581",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 3
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": true,
+      "url": "http://univision.com",
+      "leagueKey": "199"
+    },
+    {
+      "key": 6,
+      "leagueName": "Fifa World Cup 2018",
+      "leaguePhase": "round of 32",
+      "leagueKey": "98",
+      "fixture": "amistoso",
+      "status": "pre",
+      "home": {
+        "fullName": "colombia",
+        "abbreviatedName": "usa",
+        "imageURI": "http://cdn7.uvnimg.com/univision-media/image/upload/v1/prod/sports/teams_logos/596",
+        "lastMatches": ["win", "loss", "loss", "draw"],
+        "scoreValue": {
+          "score": 3,
+          "penalty": null
+        }
+      },
+      "away": {
+        "fullName": "México",
+        "abbreviatedName": "mex",
+        "imageURI": "https://cdn7.uvnimg.com/univision-media/image/upload/v1522268022/prod/sports/teams_logos/659.png",
+        "lastMatches": ["win", "win", "win", "loss"],
+        "scoreValue": {
+          "score": 3
+        }
+      },
+      "date": "2018-01-29T21:00:00Z",
+      "elapsedTime": 28,
+      "isReminderActive": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.header {
+  &.dark {
+    background-color: $black;
+    position: relative;
+    z-index: $zindex-above-navigation;
+  }
+  &.light {
+    background: $white;
+    border-bottom: 1px solid $light-grey;
+  }
+}
+
+.pageTitle {
+  color: $very-light-grey;
+  text-align: center;
+  font-weight: normal;
+  text-transform: uppercase;
+  padding: 16px;
+  font-size: rem(14px);
+  line-height: rem(17px);
+  border-top: 1px solid $darker-grey;
+  letter-spacing: 1px;
+  margin: 0;
+  @include uvs-font('a', 'regular');
+  @include media-breakpoint-up('sm') {
+    font-size: rem(18px);
+    line-height: rem(22px);
+    @include uvs-font('a', 'bold');
+  }
+}
+
+.customSticky {
+  position: fixed;
+  width: 100%;
+}
+
+.hideSubNav {
+  > div > div:nth-child(2) {
+    display: none;
+  }
+}

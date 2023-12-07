@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconWrapper on android should render correctly 1`] = `
+<svg
+  data-name="close"
+  style={Object {}}
+/>
+`;
+
+exports[`IconWrapper on android should render fallback on error 1`] = `<FallbackSvg />`;
+
+exports[`IconWrapper on android should render without fallback on error 1`] = `""`;

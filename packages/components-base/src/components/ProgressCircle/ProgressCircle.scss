@@ -1,0 +1,31 @@
+.indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  circle {
+    fill: transparent;
+    stroke: $grey;
+  }
+
+  &.onlyStroke {
+    transform: rotate(-90deg);
+
+    .onlyStrokeBackground {
+      stroke: $grey-black;
+      opacity: 0.6;
+    }
+  }
+}
+
+.white circle {
+  stroke: $grey-black;
+}
+
+.dark circle {
+  stroke: $darker-grey;
+}
+
+.autoplay circle {
+  stroke: $white;
+}

@@ -1,0 +1,23 @@
+{
+  "feat/integration": {
+    "CI_CLIENT": "true"
+  },
+  "feat/beta_int": {
+    "CI_CLIENT": "true"
+  },
+  "feat/performance": {
+    "CI_CLIENT": "false",
+    "DEPLOY_ENV": "production",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-dev.univision.com"
+  },
+  "tag-hotfix/master": {
+    "CI_CLIENT": "false",
+    "DEPLOY_ENV": "production",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-prod.univision.com"
+  },
+  "master": {
+    "CI_CLIENT": "false",
+    "DEPLOY_ENV": "production",
+    "AWS_S3_ASSETS_BUCKET": "webapp-static-prod.univision.com"
+  }
+}
