@@ -316,7 +316,6 @@ jobs:
                   git push
   deploy-lambda:
     working_directory: ~/univision/univision-fe
-    resource_class: 2xlarge+
     docker:
       - image: univision/fe-webapp-base:8
     parameters:
@@ -347,15 +346,10 @@ jobs:
             chmod +x ./deploy/create_layer.sh
             ./deploy/create_layer.sh
       - run:
-          name: Deploy service 1
+          name: Deploy service
           command: |
             cd packages/app
             yarn deploy << parameters.stage_name >>
-      # - run:
-      #     name: Deploy service 2
-      #     command: |
-      #       cd packages/app
-      #       yarn deploy << parameters.stage_name >>
       - save_cache:
           key: univision-fe-lambda-build-{{ .Environment.CIRCLE_SHA1 }}
           paths: ~/univision/univision-fe 
@@ -549,7 +543,6 @@ workflows:
             branches:
               only:
                 - feat/integration
-                - feat/beta_int
       - export-storybooks:
           stage_name: dev
           context: serverless-webapp-dev
@@ -559,7 +552,6 @@ workflows:
             branches:
               only:
                 - feat/integration
-                - feat/beta_int
       - build-app:
           requires:
             - build-modules
@@ -593,7 +585,6 @@ workflows:
                 - master
                 - tag-hotfix/master
                 - feat/integration
-                - feat/beta_int
                 - feat/performance
                 - feat/qa
                 - /^ephemeral.*/
@@ -617,7 +608,6 @@ workflows:
                 - master
                 - tag-hotfix/master
                 - feat/integration
-                - feat/beta_int
                 - feat/performance
             tags:
               ignore: /.*/
@@ -694,7 +684,6 @@ workflows:
             branches:
               only:
                 - feat/integration
-                - feat/beta_int
 
       - aws-ecs/deploy-service-update:
           name: deploy-performance-fargate
@@ -803,7 +792,6 @@ workflows:
             branches:
               only:
                 - feat/integration
-                - feat/beta_int
       # Deploy nextjs lambda in perf env
       - deploy-lambda:
           name: deploy-lambda-perf
