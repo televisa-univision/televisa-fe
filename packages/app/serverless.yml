@@ -1,4 +1,4 @@
-service: serverless-webapp-nextjs
+service: serverless-televisa-webapp-nextjs
 layers:
   styles:
     package:
@@ -17,7 +17,7 @@ provider:
     restApi: true
   tags:
     env: ${opt:stage, 'dev'}
-    Project: serverless-webapp
+    Project: serverless-televisa-webapp
   environment:
     API_ENV: ${env:API_ENV}
     APP_VERSION: ${env:APP_VERSION}

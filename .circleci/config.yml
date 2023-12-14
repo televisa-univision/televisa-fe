@@ -18,15 +18,15 @@ jobs:
   checkout-and-install:
     docker:
       - image: univision/fe-webapp-base:8
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     steps:
       - checkout
       - restore_cache:
           keys:
-            - univision-fe-install-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-install-{{ .Environment.CIRCLE_SHA1 }}
       - restore_cache:
           keys:
-            - univision-fe-cache-{{ checksum "yarn.lock" }}
+            - televisa-fe-cache-{{ checksum "yarn.lock" }}
       - run:
           name: Setup npm and git credentials
           command: |
@@ -45,18 +45,18 @@ jobs:
           name: Check if should cancel redundant builds
           command: if [ "$CIRCLE_BRANCH" != "feat/integration" && "${CIRCLE_BRANCH}" != 'tag-hotfix/master']; then yarn ci:cancelBuilds; fi
       - save_cache:
-          key: univision-fe-install-{{ .Environment.CIRCLE_SHA1 }}
+          key: televisa-fe-install-{{ .Environment.CIRCLE_SHA1 }}
           paths:
-            - ~/univision/univision-fe
+            - ~/univision/televisa-fe
       - save_cache:
-          key: univision-fe-cache-{{ checksum "yarn.lock" }}
+          key: televisa-fe-cache-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
   build-modules:
     shell: /bin/bash --login
     docker:
       - image: univision/fe-webapp-base:8
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     environment:
 #      CIRCLE_ARTIFACTS: /tmp/circleci-artifacts
 #      CIRCLE_TEST_REPORTS: /tmp/circleci-test-results
@@ -65,27 +65,27 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-install-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-install-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           name: Build all packages
           command: |
             yarn run:core clean
             yarn build:all
       - save_cache:
-          key: univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
-          paths: ~/univision/univision-fe
+          key: televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+          paths: ~/univision/televisa-fe
   lint:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     resource_class: medium+
     docker:
       - image: univision/fe-webapp-base:8
     steps:
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - run: yarn lint:all
   test:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     resource_class: 2xlarge+
     environment:
       TZ: "America/New_York"
@@ -96,10 +96,10 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - run: yarn test:all
   export-docs:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     parameters:
@@ -111,7 +111,7 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - *set_env_sls
       - run:
           name: Export docs
@@ -120,7 +120,7 @@ jobs:
           name: Upload docs assets
           command: yarn ci:docs
   export-storybooks:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     resource_class: medium+
     docker:
       - image: univision/fe-webapp-base:8
@@ -133,7 +133,7 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - *set_env_sls
       - run:
           name: Export storybooks
@@ -144,7 +144,7 @@ jobs:
           name: Upload storybooks assets
           command: yarn ci:storybooks --continue-on-error
   build-app:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     resource_class: 2xlarge+
     docker:
       - image: univision/fe-webapp-base:8
@@ -154,7 +154,7 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           command: |
             yarn ci:setEnvs
@@ -163,16 +163,16 @@ jobs:
           command: yarn run:core prod:build
           no_output_timeout: "15m"
       - save_cache:
-          key: univision-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
-          paths: ~/univision/univision-fe
+          key: televisa-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
+          paths: ~/univision/televisa-fe
   upload-assets:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     steps:
       - restore_cache:
           keys:
-            - univision-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           name: Set Environment Variables
           command: |
@@ -195,14 +195,14 @@ jobs:
             yarn ci:setEnvs
             yarn run:ci ci:uploadAssets
   docker-image:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     steps:
       - setup_remote_docker
       - restore_cache:
           keys:
-            - univision-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           command: |
             yarn ci:setEnvs
@@ -220,7 +220,7 @@ jobs:
           paths:
             - docker-image
   e2e-cypress:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     environment:
@@ -228,10 +228,10 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-prod-build-{{ .Environment.CIRCLE_SHA1 }}
       - restore_cache:
           keys:
-            - univision-fe-cache-{{ checksum "yarn.lock" }}
+            - televisa-fe-cache-{{ checksum "yarn.lock" }}
       - attach_workspace:
           at: workspace
       - run:
@@ -251,12 +251,12 @@ jobs:
           name: Wait for the server and run test
           command: yarn run:e2e
       - store_artifacts:
-          path: ~/univision/univision-fe/packages/end-to-end/cypress/cypress/screenshots
+          path: ~/univision/televisa-fe/packages/end-to-end/cypress/cypress/screenshots
           destination: cypress-screenshots
   npm-publish:
     docker:
       - image: univision/fe-webapp-base:8
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     environment:
       NODE_ENV: production
     parameters:
@@ -266,7 +266,7 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-install-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-install-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           name: Add node_modules bin to path
           command: |
@@ -289,8 +289,8 @@ jobs:
                 command: |
                   lerna publish --loglevel silly --conventional-commits --yes -m "Published %s [skip ci]"
             - save_cache:
-                key: univision-fe-prod-publish-{{ .Environment.CIRCLE_SHA1 }}
-                paths: ~/univision/univision-fe
+                key: televisa-fe-prod-publish-{{ .Environment.CIRCLE_SHA1 }}
+                paths: ~/univision/televisa-fe
       - when:
           condition:
             equal: [ 'prerelease', << parameters.release-type >>]
@@ -315,7 +315,7 @@ jobs:
                   git merge --no-ff -m "Merge branch 'tag-hotfix' into 'master' [ci skip]" origin/tag-hotfix/master
                   git push
   deploy-lambda:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     parameters:
@@ -324,7 +324,7 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - run:
          name: Set Version environment variable
          command: |
@@ -351,19 +351,19 @@ jobs:
             cd packages/app
             yarn deploy << parameters.stage_name >>
       - save_cache:
-          key: univision-fe-lambda-build-{{ .Environment.CIRCLE_SHA1 }}
-          paths: ~/univision/univision-fe 
+          key: televisa-fe-lambda-build-{{ .Environment.CIRCLE_SHA1 }}
+          paths: ~/univision/televisa-fe 
   deploy-lambda-prod:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     steps:
       - restore_cache:
           keys:
-            - univision-fe-lambda-build-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-lambda-build-{{ .Environment.CIRCLE_SHA1 }}
       - restore_cache:
           keys:
-            - univision-fe-prod-publish-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-prod-publish-{{ .Environment.CIRCLE_SHA1 }}
       - run:
          name: Set Version environment variable
          command: |
@@ -378,7 +378,7 @@ jobs:
           command: |
             yarn run:app deploy prod
   publish-github-release:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     steps:
@@ -405,10 +405,10 @@ jobs:
             \"body\": \"${NEW_CHANGE_LOG} ${DEPLOY_WORKFLOW_INFO}\", \
             \"draft\": false, \
             \"prerelease\": false \
-            }" -u "$GIT_HUB_API_USERNAME" -H "Content-Type: application/json" https://api.github.com/repos/univision/univision-fe/releases
+            }" -u "$GIT_HUB_API_USERNAME" -H "Content-Type: application/json" https://api.github.com/repos/univision/televisa-fe/releases
 
   imagepush-fargate:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     steps:
@@ -422,7 +422,7 @@ jobs:
             docker load --input workspace/docker-image/image.tar
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           name: Set Environment Variables
           command: |
@@ -450,13 +450,13 @@ jobs:
             docker push $FARGATE_ECR_IMAGE_NAME:$IMAGE_TAG_ENV >> fg_image_push.txt
 
   tag-release:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     steps:
       - restore_cache:
           keys:
-            - univision-fe-install-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-install-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           name: Tag release
           command: |
@@ -467,7 +467,7 @@ jobs:
             CIRCLE_SHA1=$CIRCLE_SHA1 yarn ci:tagRelease
 
   monitor:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     parameters:
@@ -476,14 +476,14 @@ jobs:
     steps:
       - restore_cache:
           keys:
-            - univision-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
+            - televisa-fe-build-modules-{{ .Environment.CIRCLE_SHA1 }}
       - run:
           name: Run Page Speed Inside
           command: |
             SLS_STAGE="<< parameters.stage_name >>" yarn ci:monitor
 
   tag-fargate-prod-image:
-    working_directory: ~/univision/univision-fe
+    working_directory: ~/univision/televisa-fe
     docker:
       - image: univision/fe-webapp-base:8
     steps:
