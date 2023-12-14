@@ -519,6 +519,7 @@ workflows:
                 - feat/qa
                 - /^ephemeral.*/
                 - feat/serverless
+                - master
             tags:
               ignore: /.*/
       - test:
@@ -532,6 +533,7 @@ workflows:
                 - feat/qa
                 - /^ephemeral.*/
                 - feat/serverless
+                - master
             tags:
               ignore: /.*/
       - export-docs:
