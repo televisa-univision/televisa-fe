@@ -158,38 +158,38 @@ custom:
           alias: Live
         layers:
           - { Ref: StylesLambdaLayer }
-      # telehit:
-      #   events:
-      #     - http:
-      #         path: telehit
-      #         method: get
-      #     - http:
-      #         path: telehit/
-      #         method: get
-      #     - http:
-      #         path: telehit/{proxy+}
-      #         method: get
-      #   deploymentSettings:
-      #     type: Linear10PercentEvery1Minute
-      #     alias: Live
-      #   layers:
-      #     - {Ref: StylesLambdaLayer}
-      # losbingers:
-      #   events:
-      #     - http:
-      #         path: losbingers
-      #         method: get
-      #     - http:
-      #         path: losbingers/
-      #         method: get
-      #     - http:
-      #         path: 'losbingers/{proxy+}'
-      #         method: get
-      #   deploymentSettings:
-      #     type: Linear10PercentEvery1Minute
-      #     alias: Live
-      #   layers:
-      #     - {Ref: StylesLambdaLayer}
+      telehit:
+        events:
+          - http:
+              path: telehit
+              method: get
+          - http:
+              path: telehit/
+              method: get
+          - http:
+              path: telehit/{proxy+}
+              method: get
+        deploymentSettings:
+          type: Linear10PercentEvery1Minute
+          alias: Live
+        layers:
+          - {Ref: StylesLambdaLayer}
+      losbingers:
+        events:
+          - http:
+              path: losbingers
+              method: get
+          - http:
+              path: losbingers/
+              method: get
+          - http:
+              path: 'losbingers/{proxy+}'
+              method: get
+        deploymentSettings:
+          type: Linear10PercentEvery1Minute
+          alias: Live
+        layers:
+          - {Ref: StylesLambdaLayer}
       canal5:
         events:
           - http:
@@ -264,6 +264,22 @@ custom:
               method: get
           - http:
               path: televisa/{proxy+}
+              method: get
+        deploymentSettings:
+          type: Linear10PercentEvery1Minute
+          alias: Live
+        layers:
+          - { Ref: StylesLambdaLayer }
+      bandamax:
+        events:
+          - http:
+              path: bandamax
+              method: get
+          - http:
+              path: bandamax/
+              method: get
+          - http:
+              path: bandamax/{proxy+}
               method: get
         deploymentSettings:
           type: Linear10PercentEvery1Minute
