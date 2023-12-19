@@ -1,9 +1,4 @@
-workflows:
-  my-workflow:
-    jobs:
-      - run-tests:
-          context:
-            - serverless-webapp-dev
+
             
 
 jobs:
@@ -42,3 +37,12 @@ jobs:
       - run:
           name: "echo environment variables from org-global context"
           command: echo $RUM_SAMPLE_RATE_UNIVISION
+
+
+
+
+workflows:
+  build_and_test:
+    jobs:
+      - run-tests:
+        context: serverless-webapp-dev
