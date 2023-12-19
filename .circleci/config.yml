@@ -22,7 +22,7 @@ workflows:
     jobs:
       - run-tests:
         context: serverless-webapp-dev
-        fiilter:
+        filters:
           branches:
             only:
               - feat/performance-mirrror
