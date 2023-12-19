@@ -11,33 +11,7 @@ jobs:
       - run:
           name: "echo environment variables from org-global context"
           command: echo $AWS_ACCESS_KEY_ID
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $AWS_SECRET_ACCESS_KEY
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $CASTING_RECEIVER_ID
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $PSI_KEY
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $RUM_CLIENT_TOKEN_PRENDETV
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $RUM_CLIENT_TOKEN_TUDN
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $RUM_CLIENT_TOKEN_UNIVISION
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $RUM_SAMPLE_RATE_PRENDETV
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $RUM_SAMPLE_RATE_TUDN
-      - run:
-          name: "echo environment variables from org-global context"
-          command: echo $RUM_SAMPLE_RATE_UNIVISION
+
 
 
 
