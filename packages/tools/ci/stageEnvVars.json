@@ -58,9 +58,9 @@
     "AWS_S3_ASSETS_BUCKET": "webapp-static-dev.univision.com",
     "CMS_API_URL": "https://syndicator.performance.univision.com",
     "DD_FORWARDER": "arn:aws:lambda:us-east-1:127705864914:function:DatadogForwarder-common-dev",
-    "DEPLOY_ENV": "test",
+    "DEPLOY_ENV": "development",
     "GRAPHQL_API_URL": "https://graphql.test-univision.com",
-    "SSO_IFRAME_URL": "https://sso-performance.webapp.univision.com",
+    "SSO_IFRAME_URL": "https://int.webapp.univision.com/sso-iframe",
     "NODE_ENV": "production",
     "PROXY_API_URL": "https://performance.univision.com"
   },
