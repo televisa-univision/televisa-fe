@@ -10,7 +10,7 @@ const rootPath = '/shows';
  * active is by adding the ID of the show to the active array. The shows will be displayed in the
  * array order.
  */
-const activeShows = [1, 14, 3, 8];
+const activeShows = [1, 14, 4, 23];
 const shows = [
   {
     id: 1,
@@ -230,6 +230,26 @@ const shows = [
     target,
     renditions: {
       xxs: 'https://st1.uvnimg.com/36/e2/7f40dd74489c96cbd21f3d261336/megamenu.jpg',
+    },
+  },
+  {
+    id: 23,
+    name: 'Al punto',
+    href: `${rootPath}/al-punto`,
+    site,
+    target,
+    renditions: {
+      xxs: 'https://st1.uvnimg.com/e8/ba/6f8a7af2437ba4c247f84fc2b4ce/al-punto-con-jr-2021-fb-pic.png',
+    },
+  },
+  {
+    id: 24,
+    name: 'Teleton USA',
+    href: `${rootPath}/teleton-usa`,
+    site,
+    target,
+    renditions: {
+      xxs: 'https://st1.uvnimg.com/4f/51/cb8bcfed4373acc6e8e9b8fbfa24/megamenu-1-1.jpg',
     },
   },
 ];
