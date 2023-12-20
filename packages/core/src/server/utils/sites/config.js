@@ -31,6 +31,8 @@ import {
   LOS_BINGERS_DEFAULT_HOST,
   BANDAMAX_SITE,
   BANDAMAX_DEFAULT_HOST,
+  LCDLF_SITE,
+  LCDLF_DEFAULT_HOST,
 } from '@univision/fe-commons/dist/constants/sites';
 
 export const GENERIC_SITE_TYPE = 'generic';
@@ -98,6 +100,11 @@ export const SITES_LIST = {
     defaultPath: '',
     defaultHost: LOS_BINGERS_DEFAULT_HOST,
     type: LOS_BINGERS_SITE,
+  },
+  [LCDLF_SITE]: {
+    defaultPath: '',
+    defaultHost: LCDLF_DEFAULT_HOST,
+    type: LCDLF_SITE,
   },
   // This must be at the end of the list to give priority to the other sites
   [TELEVISA_SITE]: {
