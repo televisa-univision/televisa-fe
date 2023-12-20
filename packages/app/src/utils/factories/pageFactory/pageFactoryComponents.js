@@ -17,6 +17,7 @@ import {
   TELEHIT_SITE,
   LOS_BINGERS_SITE,
   BANDAMAX_SITE,
+  LCDLF_SITE,
 } from '@univision/fe-commons/dist/constants/sites';
 
 import ConnectedSlideshowWrapper from '../../../components/contentTypes/SlideshowWrapper';
@@ -31,6 +32,7 @@ import Canal5Layout from '../../../components/layout/Canal5Layout';
 import Elnu9veLayout from '../../../components/layout/elnu9veLayout';
 import DistritocomediaLayout from '../../../components/layout/DistritocomediaLayout';
 import BandamaxLayout from '../../../components/layout/BandamaxLayout';
+import LcdlfLayout from '../../../components/layout/LcdlfLayout';
 // auto-import-end
 import TelevisaLayout from '../../../components/layout/TelevisaLayout';
 import UnicableLayout from '../../../components/layout/UnicableLayout';
@@ -84,4 +86,5 @@ export const layoutsComponents = {
   [TELEHIT_SITE]: TelehitLayout,
   [LOS_BINGERS_SITE]: LosbingersLayout,
   [BANDAMAX_SITE]: BandamaxLayout,
+  [LCDLF_SITE]: LcdlfLayout,
 };
