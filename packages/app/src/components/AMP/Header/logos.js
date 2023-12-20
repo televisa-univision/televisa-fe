@@ -136,7 +136,7 @@ export default (pageData, pageCategory, siteName) => {
     [categories.UNICABLE]: logos.unicable,
     [categories.DISTRITO_COMEDIA]: logos.distritocomedia,
     [categories.ELNU9VE]: logos.elnu9ve,
-    [categories.losbingers]: logos.losbingers,
+    [categories.LOS_BINGERS]: logos.losbingers,
     [categories.LCDLF]: logos.lcdlf,
   };
 
@@ -150,7 +150,7 @@ export default (pageData, pageCategory, siteName) => {
         return true;
       }
       return false;
-  });
+    });
 
   if (hasMatchingCategory) {
     return returnValue;
