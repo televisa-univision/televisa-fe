@@ -39,3 +39,12 @@ export function isPartOfAskExperts(uri) {
 export function isPartOfCoronavirusNav(uri) {
   return new RegExp(`/local/([a-z-]*)${CORONOVIRUS_HOME}`, 'gs').test(uri);
 }
+
+/**
+ * Check if the current URI is part of destino 2024
+ * @param {?string} uri URI to validate if its under destino 2024 path
+ * @returns {boolean}
+ */
+export function isPartOfDestino2024(uri) {
+  return new RegExp(/\/local\/(.*)\/destino-2024/, 'gs').test(uri);
+}
