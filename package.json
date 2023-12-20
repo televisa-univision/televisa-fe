@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": ">=18.0.0",
@@ -163,8 +163,8 @@
     "ci:storybooks": "yarn run:tools ci:storybooks"
   },
   "resolutions": {
-    "@univision/fmg-video-sdk": "4.461.1-rc.0",
-    "@univision/shared-components": "0.5.152-rc.2",
+    "@univision/fmg-video-sdk": "4.462.0",
+    "@univision/shared-components": "0.5.151-tst.2",
     "jsdom": "16.4.0",
     "htmlparser2": "7.2.0",
     "react": "16.13.0",
@@ -243,9 +243,9 @@
     "jest-transform-graphql": "^2.1.0",
     "jsdoc": "~3.6.4",
     "lerna": "3.10.7",
+    "sass": "^1.64.1",
     "npm-run-all": "^4.1.5",
     "react-test-renderer": "^16.13.0",
-    "sass": "^1.64.1",
     "start-server-and-test": "^1.9.1",
     "stylelint": "12.0.1",
     "stylelint-config-recommended": "3.0.0",
