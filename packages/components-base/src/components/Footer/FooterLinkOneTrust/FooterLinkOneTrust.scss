@@ -1,0 +1,22 @@
+.footerLink {
+  color: $white-grey;
+  display: block;
+  text-decoration: none;
+  font-size: rem(13px);
+  line-height: rem(31px);
+  margin: 0;
+
+  &:visited, &:active, &:focus{
+    color: $white-grey;
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: $grey;
+    text-decoration: none;
+  }
+
+  &.light {
+    color: $black-grey;
+  }
+}
