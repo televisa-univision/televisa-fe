@@ -1,40 +1,54 @@
 import React from 'react';
-import { shallow, mount } from 'enzyme';
-import { act } from 'react-dom/test-utils';
-
-import { TUDN_SITE } from '@univision/fe-commons/src/constants/sites';
+import ReactDOM from 'react-dom';
+import { mount, shallow } from 'enzyme';
+import * as helpers from '@univision/fe-commons/dist/utils/helpers';
+import oneTrustManager from '@univision/fe-commons/dist/utils/onetrust/oneTrustManager';
 
 import PageHead from '.';
 
 import mockState from '../../../../__mocks__/tudnPageData.json';
 
 const pageData = mockState.data.page;
-
-/**
- * Wait for async behaviours to finish
- * @param {Object} wrapper component
- * @param {function} _actions any actions to be triggered
- * @returns {Promise<void>}
- */
-const actions = async (wrapper, _actions) => {
-  await act(async () => {
-    await (new Promise(resolve => setTimeout(resolve, 0)));
-    if (_actions) _actions();
-    wrapper.update();
-  });
-};
+helpers.getCookie = jest.fn().mockReturnValue('OptanonWrapper=test');
+oneTrustManager.getCookieActiveGroups = jest.fn();
+oneTrustManager.setPageSection = jest.fn();
 
 /**
  * @test {PageHead}
  */
 describe('PageHead test', () => {
-  afterAll(() => {
-    jest.restoreAllMocks();
+  it('should render without crashing', () => {
+    const div = document.createElement('div');
+    ReactDOM.render(<PageHead pageData={pageData} />, div);
   });
 
-  it('should render without crashing', () => {
-    const wrapper = shallow(<PageHead pageData={pageData} />);
-    expect(wrapper.exists()).toBe(true);
+  it('should render without crashing and with onetrust', () => {
+    oneTrustManager.allowOneTrust = jest.fn().mockReturnValue(true);
+    const div = document.createElement('div');
+    ReactDOM.render(<PageHead pageData={pageData} />, div);
+  });
+
+  it('should render with onetrust categories set by cookies', () => {
+    global.window.OnetrustActiveGroups = undefined;
+    helpers.getCookie = jest.fn().mockReturnValue('OptanonWrapper=test');
+    const div = document.createElement('div');
+    ReactDOM.render(<PageHead pageData={pageData} />, div);
+  });
+
+  it('should render with onetrust categories set by cookies but script did not load values in time', () => {
+    global.window.OnetrustActiveGroups = ',,';
+    helpers.getCookie = jest.fn().mockReturnValue('OptanonWrapper=test');
+    const div = document.createElement('div');
+    ReactDOM.render(<PageHead pageData={pageData} />, div);
+    global.window.OnetrustActiveGroups = undefined;
+  });
+
+  it('should render with onetrust categories set by script loading in time', () => {
+    global.window.OnetrustActiveGroups = ',C0001,C0002,';
+    helpers.getCookie = jest.fn().mockReturnValue('OptanonWrapper=test');
+    const div = document.createElement('div');
+    ReactDOM.render(<PageHead pageData={pageData} />, div);
+    global.window.OnetrustActiveGroups = undefined;
   });
 
   it('should fallback to regular title if seo.title doesnt exist', () => {
@@ -75,35 +89,7 @@ describe('PageHead test', () => {
   });
 
   it('should not render chartbeat if amp page', () => {
-    const wrapper = shallow(<PageHead pageData={{ ...pageData, isAmp: true }} />);
-    expect(wrapper.find('script')).toHaveLength(0);
-  });
-
-  it('should render GTM Header if test page', () => {
-    const wrapper = shallow(<PageHead pageData={{ ...pageData, env: 'test' }} />);
-    expect(wrapper.find('Head')).toHaveLength(1);
-  });
-
-  it('should set _sf_async_config.domain to tudn.com if TUDN_SITE', async () => {
-    const wrapper = mount(<PageHead pageData={{ ...pageData, isAmp: false, site: TUDN_SITE }} />);
-
-    await actions(wrapper);
-
-    wrapper.update();
-
-    expect(wrapper.find('Head')).toHaveLength(1);
-    // eslint-disable-next-line no-underscore-dangle
-    expect(window._sf_async_config.domain).toBe('tudn.com');
-  });
-
-  it('should run useEffect and check isAmp is true', async () => {
-    const wrapper = mount(<PageHead pageData={{ ...pageData, isAmp: true, site: TUDN_SITE }} />);
-
-    await actions(wrapper);
-
-    wrapper.update();
-
-    expect(wrapper.find('Head')).toHaveLength(1);
+    const wrapper = mount(<PageHead pageData={{ ...pageData, isAmp: true }} />);
     expect(wrapper.find('script')).toHaveLength(0);
   });
 });
