@@ -111,6 +111,13 @@ export default {
     uat2: 'https://uat.bandamax.tv',
     performance: 'https://performance.bandamax.tv',
   },
+  lcdlf: {
+    prod: 'https://www.lacasadelosfamososmexico.tv',
+    integration: 'https://int.lacasadelosfamososmexico.tv',
+    qa: 'https://uat.lacasadelosfamososmexico.tv',
+    uat2: 'https://uat.lacasadelosfamososmexico.tv',
+    performance: 'https://performance.lacasadelosfamososmexico.tv',
+  },
 };
 
 export const contentDomains = {
@@ -225,5 +232,12 @@ export const contentDomains = {
     qa: 'https://uat.bandamax.tv',
     uat2: 'https://uat.bandamax.tv',
     performance: 'https://performance.bandamax.tv',
+  },
+  lcdlf: {
+    prod: 'https://www.lacasadelosfamososmexico.tv',
+    integration: 'https://int.lacasadelosfamososmexico.tv',
+    qa: 'https://uat.lacasadelosfamososmexico.tv',
+    uat2: 'https://uat.lacasadelosfamososmexico.tv',
+    performance: 'https://performance.lacasadelosfamososmexico.tv',
   },
 };
