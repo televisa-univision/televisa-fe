@@ -5,7 +5,6 @@ import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import classnames from 'classnames';
 import dynamic from 'next/dynamic';
-import styled from 'styled-components';
 
 import inlineAds from '@univision/fe-commons/dist/utils/ads/Article/inline';
 import {
@@ -25,7 +24,7 @@ import labelTypes from '@univision/fe-commons/dist/constants/labelTypes';
 import SocialTracker from '@univision/fe-commons/dist/utils/tracking/tealium/social/SocialTracker';
 import Features from '@univision/fe-commons/dist/config/features';
 import ArticleTracker from '@univision/fe-commons/dist/utils/tracking/tealium/article/ArticleTracker';
-import { requestParamsSelector } from '@univision/fe-commons/dist/store/selectors/page-selectors';
+import { requestParamsSelector, userLocationSelector } from '@univision/fe-commons/dist/store/selectors/page-selectors';
 import RELATED_COLLECTION_BODY_DEPTH from '@univision/fe-commons/dist/constants/recirculation';
 import LiveLabel from '@univision/fe-components-base/dist/components/LiveLabel';
 import Label from '@univision/fe-components-base/dist/components/Label';
@@ -51,7 +50,6 @@ import AskExpertHelpers from '../ArticleAskExpert/helpers';
 
 import { mergeRawHtmls, isListItemEnhancement } from './helpers';
 import Styles from './ArticleBody.scss';
-import ArticleBodyStyles from './ArticleBody.styles';
 import trackEnhancementClick from '../../../base/Enhancement/util';
 
 const ArticleRecipe = dynamic(() => import(/* webpackChunkName: "articleRecipe" */ '../ArticleRecipe'), {
@@ -63,9 +61,6 @@ const ArticleAskExpert = dynamic(() => import(/* webpackChunkName: "articleAskEx
 });
 
 const vixTagName = 'vix';
-
-const ArticleBodyDiv = styled.div`${ArticleBodyStyles.body}`;
-const CategoryTagDiv = styled.div`${ArticleBodyStyles.categoryTag}`;
 
 /**
  * ArticleBody
@@ -302,9 +297,9 @@ export const ArticleBody = ({
                     article={article}
                     countListItems={countListItems}
                     pageData={pageData}
-                    positionListItem={positionListItem}
                     articleDepth={articleDepth}
                     uri={uri}
+                    positionListItem={positionListItem}
                     onClick={trackEnhancementClick(chunk, article)}
                     listNumber={listNumber}
                     titleListItem={titleListItem}
@@ -392,7 +387,6 @@ export const ArticleBody = ({
           richTextDescription={richTextDescription}
           dark
           theme={theme}
-          featuredTag={secondaryTags.length > 0 ? secondaryTags[0]?.name : null}
           className={classnames({
             [Styles.centered]: lead && lead.type === 'image' && isFullWidth,
           })}
@@ -446,7 +440,11 @@ export const ArticleBody = ({
         {jobApplyButton}
         {articleLead}
       </div>
-      <ArticleBodyDiv theme={theme} isWorldCupMVP={isWorldCupMVP}>
+      <div className={classnames({
+        [Styles.body]: !isAskExpertArticle,
+        [Styles.isWorldCupMVP]: isWorldCupMVP,
+      })}
+      >
         {askExpertBody}
         {articleBody && (
           <ScrollTracker {...articleTrackerScroll(trackingData, 1, true)}>
@@ -485,7 +483,7 @@ export const ArticleBody = ({
             uri={uri}
           />
         )}
-      </ArticleBodyDiv>
+      </div>
     </article>
   );
 };
@@ -534,6 +532,7 @@ ArticleBody.propTypes = {
   theme: PropTypes.object,
   title: PropTypes.string.isRequired,
   uid: PropTypes.string.isRequired,
+  userLocation: PropTypes.string,
   updateDate: PropTypes.string,
   uri: PropTypes.string,
   articleTrackerScroll: PropTypes.func,
@@ -552,6 +551,7 @@ ArticleBody.defaultProps = {
 const mapStateToProps = (state) => {
   return {
     requestParams: requestParamsSelector(state),
+    userLocation: userLocationSelector(state),
   };
 };
 
