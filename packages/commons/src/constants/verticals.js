@@ -19,7 +19,8 @@ export const VERTICAL_TELEVISA_LIST = [
   'telehit(\\.com|\\.tv)?', // TELEHIT home page
   'bandamax(\\.com|\\.tv)?', // Banda Max home page
   'losbingers(\\.com|\\.tv)?', // Los Bingers home page
-  'lacasadelosfamosos(\\.com|\\.tv)?', // La Casa De Los Famosos home page
+  'lacasadelosfamososmexico(\\.com|\\.tv)?', // La Casa De Los Famosos home page
+  'lcdlf(\\.com|\\.tv)?', // La Casa De Los Famosos home page
 ];
 
 export default VERTICAL_HOME_LIST;
