@@ -3,6 +3,95 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.687.0](https://github.com/univision/univision-fe/compare/v10.686.0...v10.687.0) (2023-12-14)
+
+
+### Features
+
+* **app:** [DCENGA-4286] Autoblock OneTrust Script Implementation ([#10037](https://github.com/univision/univision-fe/issues/10037)) ([79acefb](https://github.com/univision/univision-fe/commit/79acefb14744e6a3a50ced9a488c516d0349744c))
+
+
+
+
+
+# [10.686.0](https://github.com/univision/univision-fe/compare/v10.685.0...v10.686.0) (2023-12-13)
+
+**Note:** Version bump only for package @univision/fe-webapp
+
+
+
+
+
+# [10.685.0](https://github.com/univision/univision-fe/compare/v10.684.2...v10.685.0) (2023-12-11)
+
+**Note:** Version bump only for package @univision/fe-webapp
+
+
+
+
+
+## [10.684.2](https://github.com/univision/univision-fe/compare/v10.684.1...v10.684.2) (2023-12-09)
+
+**Note:** Version bump only for package @univision/fe-webapp
+
+
+
+
+
+## [10.684.1](https://github.com/univision/univision-fe/compare/v10.684.0...v10.684.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* **commons:** Gatsby embeds loading trackers scripts for OneTrust ([#10007](https://github.com/univision/univision-fe/issues/10007)) ([67fb588](https://github.com/univision/univision-fe/commit/67fb58887b19898b71641d7a1c52711fc1d66e29))
+
+
+
+
+
+# [10.684.0](https://github.com/univision/univision-fe/compare/v10.683.0...v10.684.0) (2023-11-28)
+
+
+### Features
+
+* **commons:** OneTrust Re-Implementation ([#9919](https://github.com/univision/univision-fe/issues/9919)) ([9c1507b](https://github.com/univision/univision-fe/commit/9c1507b08c39103d54edaa061b420cf4fdc815e4))
+
+
+
+
+
+# [10.683.0](https://github.com/univision/univision-fe/compare/v10.682.3...v10.683.0) (2023-11-27)
+
+**Note:** Version bump only for package @univision/fe-webapp
+
+
+
+
+
+## [10.682.3](https://github.com/univision/univision-fe/compare/v10.682.2...v10.682.3) (2023-11-21)
+
+**Note:** Version bump only for package @univision/fe-webapp
+
+
+
+
+
+## [10.682.2](https://github.com/univision/univision-fe/compare/v10.682.1...v10.682.2) (2023-11-15)
+
+**Note:** Version bump only for package @univision/fe-webapp
+
+
+
+
+
+## [10.682.1](https://github.com/univision/univision-fe/compare/v10.682.0...v10.682.1) (2023-11-14)
+
+**Note:** Version bump only for package @univision/fe-webapp
+
+
+
+
+
 # [10.682.0](https://github.com/univision/univision-fe/compare/v10.681.0...v10.682.0) (2023-11-09)
 
 
