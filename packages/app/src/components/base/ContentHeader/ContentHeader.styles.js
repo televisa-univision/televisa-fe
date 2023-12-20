@@ -29,9 +29,7 @@ export default {
     `}
   `,
 
-  title: ({
-    isArticle, isWorldCupMVP, theme, isTelevisaSite,
-  }) => css`
+  title: ({ isArticle, isWorldCupMVP, theme }) => css`
     font-size: ${rem('30px')};
     line-height: ${rem('33px')};
     ${media.md`
@@ -56,11 +54,6 @@ export default {
         font-size: ${rem('42px')};
         line-height: ${rem('50px')};
       `}
-    `}
-
-    ${isTelevisaSite && css`
-      font-size: ${rem('30px')} !important;
-      line-height: ${rem('34px')} !important;
     `}
   `,
 
@@ -122,10 +115,5 @@ export default {
     li {
       line-height: 1;
     }
-  `,
-  categoryTag: ({ theme }) => css`
-    color: ${theme?.categoryColor ? theme.categoryColor : '#000'};
-    font-family: 'Roboto', sans-serif;
-    font-size: ${rem('10px')};
   `,
 };
