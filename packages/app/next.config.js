@@ -222,5 +222,15 @@ module.exports = withPlugins([
     APP_VERSION: APP_VERSION || '2',
     SERVERLESS,
   },
+  images: {
+    domains: [
+      'localhost',
+      'univision.com',
+      'localhost:3000',
+      'int.x.univision.com',
+      'uat.x.univision.com',
+      'webapp-static-dev.univision.com',
+    ],
+  },
   ...getServerlessConfig(),
 });
