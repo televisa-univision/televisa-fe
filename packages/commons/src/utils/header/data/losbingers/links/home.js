@@ -1,5 +1,4 @@
 import { LOS_BINGERS_SITE } from '../../../../../constants/sites';
-import { MILANO_RED } from '../../../../styled/constants';
 
 export default [
   {
@@ -15,6 +14,11 @@ export default [
   {
     name: 'Top',
     link: '/top',
+    site: LOS_BINGERS_SITE,
+  },
+  {
+    name: 'Test',
+    link: '/test',
     site: LOS_BINGERS_SITE,
   },
 ];
