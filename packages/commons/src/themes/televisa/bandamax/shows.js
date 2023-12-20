@@ -1,10 +1,10 @@
 // TODO: BEX Migration - Placeholder file for one possible Canal 5 Category and its Theme.
 import {
   BLACK,
-  GLOBAL_GRADIENT,
   BLACK_STARTS,
   TRANSPARENT,
   MAGENTA_RGB,
+  SOLID_BRAVE_RED,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
@@ -40,7 +40,10 @@ export default () => ({
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: SOLID_BRAVE_RED,
+    end: SOLID_BRAVE_RED,
+  },
   isBrandedHeaderBlack: true,
   brandedHeaderBackgroundColor: TRANSPARENT,
   brandedHeaderColor: TRANSPARENT,
@@ -64,9 +67,12 @@ export default () => ({
     xl: '33px',
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
-  categoryColor: MAGENTA_RGB,
-  widgetTitleColor: MAGENTA_RGB,
+  categoryColor: SOLID_BRAVE_RED,
+  widgetTitleColor: SOLID_BRAVE_RED,
+  widgetLinkTitleColor: BLACK,
+  listCardWidgetButtonBackgroundColor: SOLID_BRAVE_RED,
+  listCardWidgetButtonBackgroundHoverColor: SOLID_BRAVE_RED,
   // AMP
-  ampHeaderBackgroundColor: MAGENTA_RGB,
-  ampShareLinkBackgroundColor: MAGENTA_RGB,
+  ampHeaderBackgroundColor: SOLID_BRAVE_RED,
+  ampShareLinkBackgroundColor: SOLID_BRAVE_RED,
 });

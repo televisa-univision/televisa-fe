@@ -2,61 +2,80 @@ import {
   TRANSPARENT,
   BLACK_STARTS,
   PRIMARY_PURPLE,
-  BLACK,
+  GLOBAL_GRADIENT,
 } from '@univision/fe-utilities/styled/constants';
 import {
   HEADER_GRADIENT,
   LINK_HOVER_EFFECT,
   NAV_BACKGROUND_GRADIENT,
 } from '../../../utils/styled/constants';
+
+import { VERTICAL_SLIDESHOW } from '../../../constants/slideshowTypes';
+import { ARTICLE, LIVE_BLOG, SLIDESHOW } from '../../../constants/contentTypes';
+
 import LOGOS from '../../../constants/televisaSitesData';
 
 /**
-  * Theme object configuration
+ * Helper to define is dark flag based on content type
+ * @param {Object} data - Page Data
+ * @returns {boolean}
+ */
+function getShowThemeByContentType(data) {
+  const { type, slideshowType } = data;
+  switch (type) {
+    case ARTICLE:
+    case LIVE_BLOG:
+      return false;
+    case SLIDESHOW:
+      return slideshowType !== VERTICAL_SLIDESHOW;
+    default:
+      return true;
+  }
+}
+
+/**
+  * Theme object for shows configuration
+  * @param {Object} data - Page Data
   * @returns {Object}
 */
-const canal5ThemeConfig = () => ({
+const canal5ThemeShowsConfig = data => ({
   card: {
     isDark: {
-      show: true,
-      video: true,
-      tags: false,
-      error: false,
-      author: false,
-      search: false,
       section: true,
+      show: true,
       article: false,
       default: false,
-      liveblog: false,
       slideshow: true,
-      videoLive: false,
       soccermatch: true,
+      video: true,
       videoInline: false,
+      videoLive: false,
+      liveblog: false,
+      tags: false,
+      search: false,
+      author: false,
+      error: false,
     },
     headlineFont: {
       default: 'uvs-font-b-bold',
     },
   },
+  isDark: getShowThemeByContentType(data),
   footerLogo: LOGOS.televisaWithText,
   footerLogoHeight: '54px',
   globalNavBackgroundColor: NAV_BACKGROUND_GRADIENT,
-  globalNavLogoBackground: TRANSPARENT,
   globalNavLink: LINK_HOVER_EFFECT,
   navProviderBackgroundColor: BLACK_STARTS,
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: {
-    start: PRIMARY_PURPLE,
-    end: PRIMARY_PURPLE,
-  },
+  gradient: GLOBAL_GRADIENT,
   isBrandedHeaderBlack: false,
   brandedHeaderBackgroundColor: HEADER_GRADIENT,
   brandedHeaderColor: TRANSPARENT,
   primary: TRANSPARENT,
   secondary: TRANSPARENT,
   widgetTitleColor: PRIMARY_PURPLE,
-  widgetLinkTitleColor: BLACK,
   custom: {
     'a:hover': PRIMARY_PURPLE,
     a: PRIMARY_PURPLE,
@@ -72,19 +91,17 @@ const canal5ThemeConfig = () => ({
   titleLineHeight: {
     sm: '29px',
     md: '33px',
-    lg: '33px',
-    xl: '33px',
+    lg: '34px',
+    xl: '34px',
   },
-  showCategoryTag: true,
   descriptionFontSize: 'regular',
-  tagLabelColor: PRIMARY_PURPLE,
   categoryColor: PRIMARY_PURPLE,
   liveblogPostsTheme: PRIMARY_PURPLE,
-  listCardWidgetButtonBackgroundColor: PRIMARY_PURPLE,
-  listCardWidgetButtonBackgroundHoverColor: PRIMARY_PURPLE,
+  hideNavBottom: getShowThemeByContentType(data),
+  globalNavLogoBackground: TRANSPARENT,
   // AMP
   ampHeaderBackgroundColor: PRIMARY_PURPLE,
   ampShareLinkBackgroundColor: PRIMARY_PURPLE,
 });
 
-export default canal5ThemeConfig;
+export default canal5ThemeShowsConfig;

@@ -10,7 +10,4 @@ export default {
   [pageCategories.LAS_ESTRELLAS_HOROSCOPOS]: index,
   [pageCategories.LAS_ESTRELLAS_EN_VIVO]: index,
   [pageCategories.LAS_ESTRELLAS_SHOW]: index,
-  /* Canal 9 theme configaration */
-  [pageCategories.ELNU9VE]: index,
-  elnu9ve_lasestrellas: index, // TODO: Remove this when the default pageCategory are Elnu9ve
 };

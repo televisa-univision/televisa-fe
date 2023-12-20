@@ -10,10 +10,10 @@
     "mutations",
     "univision"
   ],
-  "homepage": "https://github.com/univision/univision-fe#readme",
+  "homepage": "https://github.com/televisa-univision/univision-fe#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/univision/univision-fe.git"
+    "url": "git+https://github.com/televisa-univision/univision-fe.git"
   },
   "license": "MIT",
   "author": "UVN Platform Engineers",

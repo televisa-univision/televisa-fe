@@ -1,6 +1,5 @@
 import {
   BLACK,
-  GLOBAL_GRADIENT,
   BLACK_STARTS,
   TRANSPARENT,
   MAGENTA_RGB,
@@ -39,7 +38,10 @@ export default () => ({
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: MAGENTA_RGB,
+    end: MAGENTA_RGB,
+  },
   isBrandedHeaderBlack: true,
   brandedHeaderBackgroundColor: TRANSPARENT,
   brandedHeaderColor: TRANSPARENT,
@@ -65,6 +67,9 @@ export default () => ({
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: MAGENTA_RGB,
   widgetTitleColor: MAGENTA_RGB,
+  widgetLinkTitleColor: BLACK,
+  listCardWidgetButtonBackgroundColor: MAGENTA_RGB,
+  listCardWidgetButtonBackgroundHoverColor: MAGENTA_RGB,
   // AMP
   ampHeaderBackgroundColor: BLACK,
   ampShareLinkBackgroundColor: BLACK,

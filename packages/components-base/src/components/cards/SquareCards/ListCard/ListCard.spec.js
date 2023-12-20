@@ -11,7 +11,10 @@ import widgetFlavor from '@univision/fe-commons/dist/constants/widgetFlavors';
 import features from '@univision/fe-commons/dist/config/features';
 import { DARKISH_GRAY, DEEP_SEA, GREEN_DARKER } from '@univision/fe-utilities/esm/styled/constants';
 
+import styled from 'styled-components';
 import data from '../SquareCard/__mocks__/squareCard.json';
+import Styles from './ListCard.styles';
+
 import ListCard from '.';
 
 const props = {
@@ -24,6 +27,18 @@ jest.mock('react-redux', () => ({
   useSelector: jest.fn(fn => fn()),
   useDispatch: () => jest.fn(),
 }));
+
+describe('ListCard styles tests', () => {
+  it('should render linkTitle with widgetLinkTitleColor correct', () => {
+    const theme = {
+      widgetLinkTitleColor: '#000',
+    };
+    const layout = HORIZONTAL;
+    const LinkTitleEl = styled.div`${Styles.linkTitle({ theme, layout })}`;
+    const wrapper = mount(<LinkTitleEl />);
+    expect(wrapper).toHaveStyleRule('color', `${theme.widgetLinkTitleColor} !important`);
+  });
+});
 
 describe('ListCard component tests', () => {
   it('renders without crashing', () => {

@@ -142,15 +142,16 @@ describe('IconPromoCarousel Spec', () => {
       location: { href: '#' },
     });
 
-    instance.onPressHandler('/horoscopos/aries', 'label');
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries', 'label');
     jest.runAllTimers();
     expect(fireEventSpy).toHaveBeenCalled();
-    instance.onPressHandler('/horoscopos/aries');
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries');
     spyOn(storeHelpers, 'getPageData').and.returnValue(null);
     wrapper = shallow(<IconPromoCarousel {...props} />);
     iconPromoCarousel = shallow(wrapper.prop('children')());
     instance = iconPromoCarousel.instance();
-    instance.onPressHandler('/horoscopos/aries', 'label');
+    instance.item = { offsetTop: 0 };
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries', 'label');
 
     windowSpy.mockRestore();
   });
@@ -165,7 +166,7 @@ describe('IconPromoCarousel Spec', () => {
     const iconPromoCarousel = shallow(wrapper.prop('children')({ history }));
     // shallow(wrapper.prop('children')({ history }));
     const instance = iconPromoCarousel.instance();
-    instance.onPressHandler('/horoscopos/aries', 'label');
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries', 'label');
     jest.runAllTimers();
     expect(history.push).toHaveBeenCalled();
   });
@@ -180,7 +181,7 @@ describe('IconPromoCarousel Spec', () => {
     const iconPromoCarousel = shallow(wrapper.prop('children')({ history }));
     // shallow(wrapper.prop('children')({ history }));
     const instance = iconPromoCarousel.instance();
-    instance.onPressHandler('/horoscopos/aries', 'label');
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries', 'label');
     jest.runAllTimers();
     expect(history.push).not.toHaveBeenCalled();
   });

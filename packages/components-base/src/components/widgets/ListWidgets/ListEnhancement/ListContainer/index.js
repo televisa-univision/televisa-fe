@@ -284,6 +284,7 @@ const ListContainer = ({
         {(!isLoading && canLoadMore && content.length > pageLimit) && (
           <ButtonWrapperStyled
             isWorldCupMvp={isWorldCupMVP}
+            theme={theme}
             device={device}
           >
             <ButtonStyled

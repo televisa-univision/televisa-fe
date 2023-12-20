@@ -1231,3 +1231,20 @@ export function phoneFormat(phoneNumber, separator = '.') {
 
   return phoneNumber;
 }
+
+/**
+ * Breaks the link / URL up into its individual components
+ * @param {string} url URL / Link
+ * @returns {Object}
+ */
+export function decomposeUrl(url) {
+  if (!url) return null;
+  const decomposedUrlArray = url.match(/^(?<protocol>https?:\/\/)(?=(?<fqdn>[^:/]+))(?:(?<service>www|ww\d|cdn|ftp|mail|pop\d?|ns\d?|git)\.)?(?:(?<subdomain>[^:/]+)\.)*(?<domain>[^:/]+\.[a-z0-9]+)(?::(?<port>\d+))?(?<path>\/[^?]*)?(?:\?(?<query>[^#]*))?(?:#(?<hash>.*))?/i);
+  if (!decomposedUrlArray) return null;
+  const urlComponents = ['url', 'protocol', 'domain', 'subdomain', 'secondLevelDomain', 'topLevelDomain', 'port', 'path', 'query', 'hash'];
+  const decomposedUrl = {};
+  urlComponents.forEach((component, index) => {
+    decomposedUrl[component] = decomposedUrlArray[index];
+  });
+  return decomposedUrl;
+}

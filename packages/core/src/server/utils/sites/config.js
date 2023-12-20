@@ -46,6 +46,7 @@ export const SITES_LIST = {
   [LAS_ESTRELLAS_SITE]: {
     defaultPath: '',
     defaultHost: LAS_ESTRELLAS_DEFAULT_HOST,
+    type: LAS_ESTRELLAS_SITE,
   },
   [UNIVISION_SITE]: {
     defaultPath: '',

@@ -45,7 +45,7 @@ describe('ArticleBody tests', () => {
       title: 'title',
       lead: { type: 'image' },
       theme: {
-        showCateogryTag: true,
+        showCategoryTag: true,
       },
       body: [
         { type: 'text', value: '<p>hello</p>' },

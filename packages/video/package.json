@@ -4,7 +4,7 @@
   "description": "Univision Video SDK Wrapper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": ">=18.0.0",
@@ -40,7 +40,7 @@
     "@univision/fe-deportes": "^10.682.0",
     "@univision/fe-icons": "^10.680.1",
     "@univision/fe-utilities": "^10.680.1",
-    "@univision/fmg-video-sdk": "4.461.1-rc.0",
+    "@univision/fmg-video-sdk": "4.459.0-beta.11",
     "@use-it/event-listener": "^0.1.3",
     "body-scroll-lock": "^3.0.1",
     "bootstrap": "^4.3.1",

@@ -4,7 +4,7 @@
   "description": "PrendeTV.com WebApp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "private": true,
   "engines": {
@@ -37,9 +37,9 @@
   "author": "UVN ENgineers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/univision/univision-fe/issues"
+    "url": "https://github.com/televisa-univision/univision-fe/issues"
   },
-  "homepage": "https://github.com/univision/univision-fe/tree/master/packages/prendetv",
+  "homepage": "https://github.com/televisa-univision/univision-fe/tree/master/packages/prendetv",
   "dependencies": {
     "@univision/fe-commons": "^10.680.2",
     "@univision/fe-components-base": "^10.680.2",

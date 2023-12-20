@@ -1,9 +1,9 @@
 import {
   TRANSPARENT,
   BRIGHT_GREY,
-  GLOBAL_GRADIENT,
   BLUE_ZODIAC,
   WHITE,
+  BLACK,
 } from '@univision/fe-utilities/styled/constants';
 import {
   LINK_HOVER_EFFECT,
@@ -46,7 +46,10 @@ export default () => ({
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: BLUE_ZODIAC,
+    end: BLUE_ZODIAC,
+  },
   isBrandedHeaderBlack: false,
   brandedHeaderBackgroundColor: WHITE,
   brandedHeaderColor: TRANSPARENT,
@@ -71,7 +74,10 @@ export default () => ({
   descriptionFontSize: 'regular',
   categoryColor: BLUE_ZODIAC,
   widgetTitleColor: BLUE_ZODIAC,
+  widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: BLUE_ZODIAC,
+  listCardWidgetButtonBackgroundColor: BLUE_ZODIAC,
+  listCardWidgetButtonBackgroundHoverColor: BLUE_ZODIAC,
   // AMP
   ampHeaderBackgroundColor: BLUE_ZODIAC,
   ampShareLinkBackgroundColor: BLUE_ZODIAC,

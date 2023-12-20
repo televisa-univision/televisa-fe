@@ -1275,6 +1275,30 @@ describe('getEnv', () => {
   });
 });
 
+describe('getSite', () => {
+  it('should get an site value', () => {
+    const mockWindow = {
+      __NEXT_DATA__: {
+        props: {
+          pageProps: {
+            initialState: {
+              page: {
+                env: 'test',
+                site: 'lasestrellas',
+                parentSite: 'televisa',
+              },
+            },
+          },
+        },
+      },
+    };
+    // mock the global window object
+    const windowSpy = jest.spyOn(global, 'window', 'get');
+    windowSpy.mockImplementation(() => mockWindow);
+    expect(helpers.getSite()).toEqual('lasestrellas');
+  });
+});
+
 describe('getVideoEnv', () => {
   it('should get an environment value', () => {
     const mockWindow = {
@@ -1892,7 +1916,7 @@ describe('getEPGSchedule', () => {
     const schedule = {
       ...epgData[0],
       startTime: null,
-      endTime: null
+      endTime: null,
     };
     const schedules = [schedule];
     const result = helpers.getEPGSchedule(schedules, todayDate);

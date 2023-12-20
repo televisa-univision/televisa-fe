@@ -4,7 +4,7 @@
   "description": "Univision local",
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": ">=18.0.0",
@@ -42,7 +42,7 @@
     "@univision/fe-icons": "^10.680.1",
     "@univision/fe-utilities": "^10.680.1",
     "@univision/fe-video": "^10.682.0",
-    "@univision/fmg-video-sdk": "4.461.1-rc.0",
+    "@univision/fmg-video-sdk": "4.459.0-beta.11",
     "@univision/shared-components": "0.5.152-rc.2",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",

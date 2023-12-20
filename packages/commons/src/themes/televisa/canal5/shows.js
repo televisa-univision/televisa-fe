@@ -2,7 +2,7 @@ import {
   TRANSPARENT,
   BLACK_STARTS,
   PRIMARY_PURPLE,
-  GLOBAL_GRADIENT,
+  BLACK,
 } from '@univision/fe-utilities/styled/constants';
 import {
   HEADER_GRADIENT,
@@ -69,13 +69,17 @@ const canal5ThemeShowsConfig = data => ({
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: PRIMARY_PURPLE,
+    end: PRIMARY_PURPLE,
+  },
   isBrandedHeaderBlack: false,
   brandedHeaderBackgroundColor: HEADER_GRADIENT,
   brandedHeaderColor: TRANSPARENT,
   primary: TRANSPARENT,
   secondary: TRANSPARENT,
   widgetTitleColor: PRIMARY_PURPLE,
+  widgetLinkTitleColor: BLACK,
   custom: {
     'a:hover': PRIMARY_PURPLE,
     a: PRIMARY_PURPLE,
@@ -94,11 +98,15 @@ const canal5ThemeShowsConfig = data => ({
     lg: '34px',
     xl: '34px',
   },
+  showCategoryTag: true,
   descriptionFontSize: 'regular',
   categoryColor: PRIMARY_PURPLE,
+  tagLabelColor: PRIMARY_PURPLE,
   liveblogPostsTheme: PRIMARY_PURPLE,
   hideNavBottom: getShowThemeByContentType(data),
   globalNavLogoBackground: TRANSPARENT,
+  listCardWidgetButtonBackgroundColor: PRIMARY_PURPLE,
+  listCardWidgetButtonBackgroundHoverColor: PRIMARY_PURPLE,
   // AMP
   ampHeaderBackgroundColor: PRIMARY_PURPLE,
   ampShareLinkBackgroundColor: PRIMARY_PURPLE,

@@ -47,7 +47,7 @@
     "typedefs": true,
     "menu": {
       "Github": {
-        "href":"https://github.com/univision/univision-fe/tree/master/packages/utilities",
+        "href":"https://github.com/televisa-univision/univision-fe/tree/master/packages/utilities",
         "target":"_blank"
       },
       "Storybook": {

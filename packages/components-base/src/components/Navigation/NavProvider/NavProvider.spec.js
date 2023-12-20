@@ -46,6 +46,25 @@ describe('NavProvider suite', () => {
     const wrapper = shallow(<NavProvider {...props} isTudnSite />);
     expect(wrapper.find('NavProvider__LogOutBarStyled')).toHaveLength(1);
   });
+
+  it('should render Log Out bar is in televisa site livestream', () => {
+    const wrapper = shallow(<NavProvider
+      {...props}
+      isTelevisaSite
+      contentType="livestream"
+    />);
+    expect(wrapper.find('LogOutBar')).toHaveLength(1);
+  });
+
+  it('should render Log Out bar is in televisa site video', () => {
+    const wrapper = shallow(<NavProvider
+      {...props}
+      isTelevisaSite
+      contentType="video"
+    />);
+    expect(wrapper.find('LogOutBar')).toHaveLength(1);
+  });
+
   it('should not render SubNavProvider component', () => {
     features.content.hasTagPages.mockReturnValueOnce(true);
     helpers.isTemasPage.mockReturnValueOnce(true);

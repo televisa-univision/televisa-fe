@@ -1,9 +1,7 @@
 import {
   BLACK,
-  GLOBAL_GRADIENT,
   BLACK_STARTS,
   TRANSPARENT,
-  MAGENTA_RGB,
   WATER_SPORTS,
   MINE_SHAFT_BLACK,
 } from '@univision/fe-utilities/styled/constants';
@@ -59,13 +57,17 @@ const losBingersThemeConfig = {
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: WATER_SPORTS,
+    end: WATER_SPORTS,
+  },
   isBrandedHeaderBlack: false,
   primary: WATER_SPORTS,
   secondary: BLACK_STARTS,
   custom: {
     'a:hoover': BLACK_STARTS,
     a: BLACK_STARTS,
+    b: WATER_SPORTS,
   },
   // Article configuration
   titleFontSize: {
@@ -81,10 +83,13 @@ const losBingersThemeConfig = {
     xl: '33px',
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
-  categoryColor: MAGENTA_RGB,
-  widgetTitleColor: MAGENTA_RGB,
-  liveblogPostsTheme: MAGENTA_RGB,
+  categoryColor: WATER_SPORTS,
+  widgetTitleColor: WATER_SPORTS,
+  widgetLinkTitleColor: BLACK,
+  liveblogPostsTheme: WATER_SPORTS,
   mainIconIsDark: true,
+  listCardWidgetButtonBackgroundColor: WATER_SPORTS,
+  listCardWidgetButtonBackgroundHoverColor: WATER_SPORTS,
 };
 
 export default () => losBingersThemeConfig;

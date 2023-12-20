@@ -72,6 +72,7 @@ import {
   toRelativeUrl,
   truncate,
   truncateString,
+  decomposeUrl,
 } from '.';
 import Store from '../../store/store';
 import setPageData from '../../store/actions/page-actions';
@@ -1970,5 +1971,54 @@ describe('Phone Helpers', () => {
 
   it('should return null if there is no phone number send', () => {
     expect(phoneFormat()).toBeNull();
+  });
+});
+
+/** @test {decompose Url} */
+describe('Url decomposition', () => {
+  it('should decompose Url into his individual parts', () => {
+    const url = 'https://www.sub.domain.google.com:443/maps/place/Arc+De+Triomphe/@48.8737917,2.2928388,17z?query=1&foo#hash';
+    expect(decomposeUrl(url)).toStrictEqual({
+      domain: 'www.sub.domain.google.com',
+      hash: 'hash',
+      path: '/maps/place/Arc+De+Triomphe/@48.8737917,2.2928388,17z',
+      port: '443',
+      protocol: 'https://',
+      query: 'query=1&foo',
+      secondLevelDomain: 'sub.domain',
+      subdomain: 'www',
+      topLevelDomain: 'google.com',
+      url: 'https://www.sub.domain.google.com:443/maps/place/Arc+De+Triomphe/@48.8737917,2.2928388,17z?query=1&foo#hash',
+    });
+  });
+
+  it('should decompose Url into his individual parts for televisa sites', () => {
+    const url = 'https://performance-elnu9ve.televisa.com/home-test-nu9ve/proyecbex-migration-cms-articulo-canal-nu9ve-test-5';
+    expect(decomposeUrl(url)).toStrictEqual({
+      domain: 'performance-elnu9ve.televisa.com',
+      hash: undefined,
+      path: '/home-test-nu9ve/proyecbex-migration-cms-articulo-canal-nu9ve-test-5',
+      port: undefined,
+      protocol: 'https://',
+      query: undefined,
+      secondLevelDomain: 'performance-elnu9ve',
+      subdomain: undefined,
+      topLevelDomain: 'televisa.com',
+      url: 'https://performance-elnu9ve.televisa.com/home-test-nu9ve/proyecbex-migration-cms-articulo-canal-nu9ve-test-5',
+    });
+  });
+
+  it('should not decompose a path', () => {
+    const url = '/home-test-nu9ve/proyecbex-migration-cms-articulo-canal-nu9ve-test-5';
+    expect(decomposeUrl(url)).toBe(null);
+  });
+
+  it('should return null if sent nothing', () => {
+    expect(decomposeUrl()).toBe(null);
+  });
+
+  it('should return null if not valid url', () => {
+    const url = '#';
+    expect(decomposeUrl(url)).toBe(null);
   });
 });

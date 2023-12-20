@@ -5,7 +5,7 @@
   "description": "Automated e2e testing for univision webapps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe-automation.git"
+    "url": "https://github.com/televisa-univision/univision-fe-automation.git"
   },
   "engines": {
     "node": ">=18.0.0"

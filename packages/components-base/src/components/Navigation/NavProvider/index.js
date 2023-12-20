@@ -93,6 +93,8 @@ const NavProvider = (props) => {
   const isSubNavEmpty = subNavType === subNavTypes.EMPTY_SUBNAV;
   const isMatchCenter = contentType === contentTypes.SOCCER_MATCH;
   const shoulShowTudnMvpdBar = isTudnSite && !isMatchCenter;
+  const shouldShowTelevisaMvpdBar = isTelevisaSite
+    && (contentType === contentTypes.LIVE_STREAM || contentType === contentTypes.VIDEO);
 
   let NavTopComponent = BrandedNavProvider;
   let NavBottomComponent = GlobalNavProvider;
@@ -140,19 +142,18 @@ const NavProvider = (props) => {
 
       {(
         shouldRenderMVPD
-        && !isTudnSite
-        && !isTelevisaSite && <LogOutBar />
+        && !isTudnSite && <LogOutBar />
       )}
 
       {!isTelevisaSite && (!isSubNavEmpty && !showHeaderHub)
-      && (
-        <SubNavProvider
-          subNavType={subNavType}
-          contentType={contentType}
-          pageCategory={pageCategory}
-          withNavigation={withNavigation}
-          {...rest}
-        />
+        && (
+          <SubNavProvider
+            subNavType={subNavType}
+            contentType={contentType}
+            pageCategory={pageCategory}
+            withNavigation={withNavigation}
+            {...rest}
+          />
         )}
 
       {shoulShowTudnMvpdBar && (
@@ -162,6 +163,15 @@ const NavProvider = (props) => {
           setUserLogIn={setUserLogIn}
           setUserLogOut={setUserLogOut}
           isTudnSite={isTudnSite}
+        />
+      )}
+
+      {shouldShowTelevisaMvpdBar && (
+        <LogOutBar
+          variant="light"
+          userLogIn={userLogIn}
+          setUserLogIn={setUserLogIn}
+          setUserLogOut={setUserLogOut}
         />
       )}
 

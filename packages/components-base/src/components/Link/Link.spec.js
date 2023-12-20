@@ -145,6 +145,54 @@ describe('Link', () => {
     expect(linkWrapper.find('.active')).toHaveLength(1);
   });
 
+  it('should let browser navigate for televisa site hub for canal 9', () => {
+    Store.dispatch(setPageData({
+      site: 'televisa',
+      pageCategory: 'televisa',
+      parentSite: 'televisa',
+      domain: 'http://uat.televisa.com',
+    }));
+    const wrapper = shallow(<Link href={'https://performance-elnu9ve.televisa.com/home-test-nu9ve/proyecbex-migration-cms-articulo-canal-nu9ve-test-5'} />);
+    const instance = wrapper.instance();
+    const history = {
+      push: jest.fn(fn => fn),
+    };
+    instance.handleClick({ button: 0, preventDefault: () => { } }, history);
+    expect(history.push).not.toHaveBeenCalled();
+  });
+
+  it('should let browser navigate for televisa site hub for canal 5', () => {
+    Store.dispatch(setPageData({
+      site: 'televisa',
+      pageCategory: 'televisa',
+      parentSite: 'televisa',
+      domain: 'http://uat.televisa.com',
+    }));
+    const wrapper = shallow(<Link href={'https://performance-canal5.televisa.com/show-test-canal-5/bex-migration-pruebas-de-articulo-canal-5-test-1'} />);
+    const instance = wrapper.instance();
+    const history = {
+      push: jest.fn(fn => fn),
+    };
+    instance.handleClick({ button: 0, preventDefault: () => { } }, history);
+    expect(history.push).not.toHaveBeenCalled();
+  });
+
+  it('should not let browser navigate for televisa site hub', () => {
+    Store.dispatch(setPageData({
+      site: 'televisa',
+      pageCategory: 'televisa',
+      parentSite: 'televisa',
+      domain: 'http://uat.televisa.com',
+    }));
+    const wrapper = shallow(<Link href={'/home'} />);
+    const instance = wrapper.instance();
+    const history = {
+      push: jest.fn(fn => fn),
+    };
+    instance.handleClick({ button: 0, preventDefault: () => { } }, history);
+    expect(history.push).toHaveBeenCalled();
+  });
+
   it('should render the active className if activeLink and href match on televisa site', () => {
     Store.dispatch(setPageData({
       site: 'lasestrellas',
@@ -180,7 +228,7 @@ describe('Link', () => {
     const history = {
       push: jest.fn(fn => fn),
     };
-    instance.handleClick({ button: 0, preventDefault: () => {} }, history);
+    instance.handleClick({ button: 0, preventDefault: () => { } }, history);
     expect(history.push).toHaveBeenCalled();
   });
 
@@ -192,7 +240,7 @@ describe('Link', () => {
     };
     instance.handleClick({
       button: 0,
-      preventDefault: () => {},
+      preventDefault: () => { },
       target: {
         getAttribute: () => ('https://www.univision.com/noticias'),
       },
@@ -206,7 +254,7 @@ describe('Link', () => {
     const history = {
       push: jest.fn(fn => fn),
     };
-    instance.handleClick({ button: 0, preventDefault: () => {} }, history);
+    instance.handleClick({ button: 0, preventDefault: () => { } }, history);
     expect(history.push).toHaveBeenCalled();
   });
 
@@ -216,7 +264,7 @@ describe('Link', () => {
     const history = {
       push: jest.fn(fn => fn),
     };
-    instance.handleClick({ button: 0, preventDefault: () => {}, defaultPrevented: true }, history);
+    instance.handleClick({ button: 0, preventDefault: () => { }, defaultPrevented: true }, history);
     expect(history.push).not.toHaveBeenCalled();
   });
 
@@ -227,7 +275,7 @@ describe('Link', () => {
     const history = {
       push: jest.fn(fn => fn),
     };
-    instance.handleClick({ button: 0, preventDefault: () => {} }, history);
+    instance.handleClick({ button: 0, preventDefault: () => { } }, history);
     expect(onClick).toHaveBeenCalled();
   });
 
@@ -254,7 +302,7 @@ describe('Link', () => {
   it('should avoid following up link if preventFollowClick provided', () => {
     spyOn(storeHelpers, 'isPlayingMedia').and.returnValue(true);
     spyOn(spaHelpers, 'shouldSkipSpa').and.returnValue(true);
-    const wrapper = shallow(<Link preventFollowClick href={href} onClick={() => {}} />);
+    const wrapper = shallow(<Link preventFollowClick href={href} onClick={() => { }} />);
     const instance = wrapper.instance();
     instance.anchorRef.current = {
       dataset: {},
@@ -266,7 +314,7 @@ describe('Link', () => {
   it('should set the link target to `_blank` when the pip player is active', () => {
     spyOn(storeHelpers, 'isPlayingMedia').and.returnValue(true);
     spyOn(spaHelpers, 'shouldSkipSpa').and.returnValue(true);
-    const wrapper = shallow(<Link href={href} onClick={() => {}} />);
+    const wrapper = shallow(<Link href={href} onClick={() => { }} />);
     const instance = wrapper.instance();
     instance.anchorRef.current = {
       dataset: {},
@@ -277,7 +325,7 @@ describe('Link', () => {
   it('should change the link target from `_self` to `_blank` when the pip player is active', () => {
     spyOn(storeHelpers, 'isPlayingMedia').and.returnValue(true);
     spyOn(spaHelpers, 'shouldSkipSpa').and.returnValue(true);
-    const wrapper = shallow(<Link href={href} onClick={() => {}} />);
+    const wrapper = shallow(<Link href={href} onClick={() => { }} />);
     const instance = wrapper.instance();
     instance.anchorRef.current = {
       dataset: {},
@@ -351,7 +399,7 @@ describe('Link', () => {
     expect(instance.handleClick).not.toHaveBeenCalled();
   });
   it('should call explicit navigation', () => {
-    const wrapper = shallow(<Link href={href} onClick={() => {}} useExplicitNavigation />);
+    const wrapper = shallow(<Link href={href} onClick={() => { }} useExplicitNavigation />);
     const instance = wrapper.instance();
     instance.anchorRef.current = {
       dataset: {},
@@ -366,7 +414,7 @@ describe('Link', () => {
     const wrapper = shallow(
       <Link
         href={url}
-        onClick={() => {}}
+        onClick={() => { }}
         useExplicitNavigation
         preventFollowClick
       />
@@ -384,7 +432,7 @@ describe('Link', () => {
     const wrapper = mount(
       <Link
         href={url}
-        onClick={() => {}}
+        onClick={() => { }}
         useExplicitNavigation
       />
     );
@@ -396,7 +444,7 @@ describe('Link', () => {
     expect(wrapper.find('a').props().href).toBe(url);
   });
   it('should call explicit navigation and change url', () => {
-    const wrapper = mount(<Link href={href} onClick={() => {}} useExplicitNavigation />);
+    const wrapper = mount(<Link href={href} onClick={() => { }} useExplicitNavigation />);
     const instance = wrapper.instance();
     const url = '#';
     window.location.href = url;
@@ -408,7 +456,7 @@ describe('Link', () => {
   });
   it('should call explicit navigation without href and avoid navigation', () => {
     spyOn(storeHelpers, 'isPlayingMedia').and.returnValue(false);
-    const wrapper = mount(<Link href={href} onClick={() => {}} useExplicitNavigation />);
+    const wrapper = mount(<Link href={href} onClick={() => { }} useExplicitNavigation />);
     const instance = wrapper.instance();
 
     instance.anchorRef.current = {

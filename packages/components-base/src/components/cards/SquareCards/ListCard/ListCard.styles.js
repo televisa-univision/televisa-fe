@@ -80,7 +80,7 @@ const getTitleColor = ({ theme, isDark }) => {
   if (theme?.widgetTitleColor) {
     titleColor = theme?.widgetTitleColor;
   }
-  return titleColor;
+  return `${titleColor}`;
 };
 
 export default {
@@ -130,14 +130,16 @@ export default {
     `}
   `,
   linkTitle: ({
-    isTextOnly, layout, isRelatedCollection, isWorldCupMVP,
+    isTextOnly, layout, isRelatedCollection, isWorldCupMVP, theme,
   }) => {
     const lineClamp = isRelatedCollection && isWorldCupMVP ? 3 : 4;
     return getFromMap(layout, {
       [HORIZONTAL]: css`
+        color: ${theme?.widgetLinkTitleColor ? theme.widgetLinkTitleColor : BLACK} !important;
         ${numberOfLines(isTextOnly ? 2 : 4)}
       `,
       [VERTICAL]: css`
+        color: ${theme?.widgetLinkTitleColor ? theme.widgetLinkTitleColor : BLACK} !important;
         ${numberOfLines(isTextOnly ? 4 : lineClamp)}
         && {
           &:hover {
@@ -204,22 +206,29 @@ export default {
       }
     `}
     `,
-  labelCustom: ({ isWorldCupMVP, isVerticalLayout }) => css`
-    ${isWorldCupMVP && css`
+  labelCustom: ({
+    isWorldCupMVP,
+    isVerticalLayout,
+    theme,
+  }) => css`
     > span {
-      color: ${DEEP_SEA};
-      font-family: 'Roboto Flex', sans-serif;
-      font-size: ${rem('12px')};
-      font-style: normal;
-      font-weight: 700;
-      letter-spacing: 1px;
-      line-height: ${rem('15px')};
-      margin-bottom: 5px;
-      margin-top: 5px;
-      ${isVerticalLayout && css`
-        letter-spacing: 0.48px;
-      `}
+      color: ${theme?.categoryColor || BLACK};
     }
+    ${isWorldCupMVP && css`
+      > span {
+        color: ${DEEP_SEA};
+        font-family: 'Roboto Flex', sans-serif;
+        font-size: ${rem('12px')};
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: 1px;
+        line-height: ${rem('15px')};
+        margin-bottom: 5px;
+        margin-top: 5px;
+        ${isVerticalLayout && css`
+          letter-spacing: 0.48px;
+        `}
+      }
     `}
   `,
 };

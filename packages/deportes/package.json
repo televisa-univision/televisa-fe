@@ -4,7 +4,7 @@
   "description": "Univision Deportes Vertical",
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": ">=18.0.0",
@@ -35,9 +35,9 @@
   "author": "UVN TUDN Engineers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/univision/univision-fe/issues"
+    "url": "https://github.com/televisa-univision/univision-fe/issues"
   },
-  "homepage": "https://github.com/univision/univision-fe/tree/master/packages/deportes",
+  "homepage": "https://github.com/televisa-univision/univision-fe/tree/master/packages/deportes",
   "dependencies": {
     "@babel/runtime": "^7.8.4",
     "@univision/fe-commons": "^10.680.2",

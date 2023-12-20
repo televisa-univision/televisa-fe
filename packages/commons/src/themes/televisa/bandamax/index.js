@@ -3,7 +3,6 @@ import {
   TRANSPARENT,
   BLACK_STARTS,
   SOLID_BRAVE_RED,
-  GLOBAL_GRADIENT,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 import { LINK_HOVER_EFFECT } from '../../../utils/styled/constants';
@@ -43,7 +42,10 @@ export const bandamaxThemeConfig = () => ({
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: SOLID_BRAVE_RED,
+    end: SOLID_BRAVE_RED,
+  },
   isBrandedHeaderBlack: false,
   brandedHeaderBackgroundColor: BLACK,
   brandedHeaderColor: TRANSPARENT,
@@ -68,7 +70,10 @@ export const bandamaxThemeConfig = () => ({
   descriptionFontSize: 'regular',
   categoryColor: SOLID_BRAVE_RED,
   widgetTitleColor: SOLID_BRAVE_RED,
+  widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: SOLID_BRAVE_RED,
+  listCardWidgetButtonBackgroundColor: SOLID_BRAVE_RED,
+  listCardWidgetButtonBackgroundHoverColor: SOLID_BRAVE_RED,
   // AMP
   ampHeaderBackgroundColor: SOLID_BRAVE_RED,
   ampShareLinkBackgroundColor: SOLID_BRAVE_RED,

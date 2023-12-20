@@ -81,14 +81,32 @@ class IconPromoCarousel extends Component {
    */
   onPressHandler(uri, title) {
     const { history } = this.props;
+    let itemUid = null;
+    let itemIndex = null;
+    let itemType = null;
+    const { content } = this.props;
     if (typeof window !== 'undefined' && uri) {
+      content.forEach((item, indexItem) => {
+        if (item.uri === uri) {
+          const { uid, type } = item;
+          itemIndex = indexItem;
+          itemUid = uid;
+          itemType = type;
+        }
+      });
       const pageData = getPageData(Store) || {};
       const { pageCategory } = pageData;
       const label = slugify(title);
       const utagData = {
-        event: 'engagement_widget',
-        event_action: `icon_promo_carousel_${pageCategory}`,
-        event_label: label,
+        event: 'content_click',
+        card_id: itemUid,
+        card_title: label,
+        card_type: 'Icon promo',
+        widget_type: 'Icon Promo Widget',
+        widget_pos: itemIndex,
+        widget_title: `icon_promo_carousel_${pageCategory}`,
+        destination_url: uri,
+        content_type: itemType,
       };
       const path = toRelativeUrl(uri);
       Tracker.fireEvent(utagData);

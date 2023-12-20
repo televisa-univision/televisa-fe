@@ -43,7 +43,7 @@ const ContentHeader = ({
   return (
     <ErrorBoundary>
       <ArticleHeader className={className} isArticle={isArticle}>
-        {isTelevisaSite && theme?.showCateogryTag && featuredTag && (
+        {isTelevisaSite && theme?.showCategoryTag && featuredTag && (
           <CategoryTagDiv>
             {featuredTag}
           </CategoryTagDiv>

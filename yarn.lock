@@ -5603,10 +5603,10 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@univision/fmg-video-sdk@4.461.1-rc.0":
-  version "4.461.1-rc.0"
-  resolved "https://registry.yarnpkg.com/@univision/fmg-video-sdk/-/fmg-video-sdk-4.461.1-rc.0.tgz#097a6d58042a9982000a6e26d09d08642f89fb3c"
-  integrity sha512-wvzDtgC5VLUZT0IUK8vlDKJ+8TnzkoCKzweltTX3GoGL44GUa2oAE7xJpnxY7EEZkIelxVe5eQt4x++BdAu0Kw==
+"@univision/fmg-video-sdk@4.459.0-beta.11":
+  version "4.459.0-beta.11"
+  resolved "https://registry.yarnpkg.com/@univision/fmg-video-sdk/-/fmg-video-sdk-4.459.0-beta.11.tgz#02b9bc549e482dedb030dfae0e0a4a5e8d35ba9c"
+  integrity sha512-SBjreASdTLQ4fKbsomZnXu75hP6HHhnmYWOfVExD28ZLatBDXDEF1A7FHTBJKeU4hT/vjeMM197RBxQRKSiPVA==
 
 "@univision/shared-components@0.5.152-rc.2":
   version "0.5.152-rc.2"

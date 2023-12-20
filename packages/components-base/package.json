@@ -4,7 +4,7 @@
   "description": "Universal React Web App Base Components",
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": ">=18.0.0",

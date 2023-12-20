@@ -4,6 +4,7 @@ import {
   getNodeId,
   getVideoAds,
   getVideoEnv,
+  getSite,
 } from '@univision/fe-commons/dist/utils/video';
 
 /* istanbul ignore next */
@@ -12,11 +13,13 @@ if (global.window) {
   const env = getVideoEnv();
   const nodeId = getNodeId();
   const videoAds = getVideoAds();
+  const site = getSite();
   // Create instance and preload libraries
   new SDKWrapper({ // eslint-disable-line no-new
     adEnv,
     env,
     nodeId,
     videoAds,
+    site,
   });
 }

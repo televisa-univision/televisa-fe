@@ -1,13 +1,15 @@
 import {
   BLACK,
-  GLOBAL_GRADIENT,
   BLACK_STARTS,
   TRANSPARENT,
-  MAGENTA_RGB,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
-export const distritoComediaThemeConfig = {
+/**
+  * Theme object configuration
+  * @returns {Object}
+*/
+const DistritoComediaThemeConfig = () => ({
   card: {
     isDark: {
       section: true,
@@ -38,15 +40,20 @@ export const distritoComediaThemeConfig = {
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: '#662EE4',
+    end: '#662EE4',
+  },
   isBrandedHeaderBlack: false,
   brandedHeaderBackgroundColor: '#B832E0',
   brandedHeaderColor: TRANSPARENT,
   primary: '#B832E0',
   secondary: BLACK,
   custom: {
-    'a:hoover': MAGENTA_RGB,
-    a: MAGENTA_RGB,
+    'a:hover': '#662EE4',
+    a: '#662EE4',
+    'b:hover': '#662EE4',
+    b: '#662EE4',
   },
   titleFontSize: {
     sm: '24px',
@@ -61,12 +68,15 @@ export const distritoComediaThemeConfig = {
     xl: '33px',
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
-  categoryColor: MAGENTA_RGB,
-  widgetTitleColor: MAGENTA_RGB,
-  liveblogPostsTheme: MAGENTA_RGB,
+  categoryColor: '#662EE4',
+  widgetTitleColor: '#662EE4',
+  widgetLinkTitleColor: BLACK,
+  liveblogPostsTheme: '#662EE4',
+  listCardWidgetButtonBackgroundColor: '#662EE4',
+  listCardWidgetButtonBackgroundHoverColor: '#662EE4',
   // AMP
-  ampHeaderBackgroundColor: MAGENTA_RGB,
-  ampShareLinkBackgroundColor: MAGENTA_RGB,
-};
+  ampHeaderBackgroundColor: '#B832E0',
+  ampShareLinkBackgroundColor: '#B832E0',
+});
 
-export default () => distritoComediaThemeConfig;
+export default DistritoComediaThemeConfig;

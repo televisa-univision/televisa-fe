@@ -163,7 +163,7 @@ class MainTracking extends React.Component {
     });
     // trigger pageView just for nextjs
     // core webapp trigger this event in SpaShellContainer
-    // https://github.com/univision/univision-fe/blob/1b307fd1690ad6971e2b8226995dd92fa31e2412/packages/core/src/app/components/pages/SpaShell/SpaShellContainer.js#L104
+    // https://github.com/televisa-univision/univision-fe/blob/1b307fd1690ad6971e2b8226995dd92fa31e2412/packages/core/src/app/components/pages/SpaShell/SpaShellContainer.js#L104
     if (updating && process.env.APP_VERSION === '2') {
       MainTracking.updateSpaTracking(page);
     }

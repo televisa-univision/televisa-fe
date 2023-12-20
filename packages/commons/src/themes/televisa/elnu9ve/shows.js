@@ -1,7 +1,5 @@
 import {
   BLACK,
-  GLOBAL_GRADIENT,
-  MAGENTA_RGB,
   MINE_SHAFT_BLACK,
   MERMAID_NET,
   TRANSPARENT,
@@ -84,12 +82,15 @@ const eln9veShowThemeConfig = (data) => {
     headlineFont: {
       default: 'uvs-font-a-bold',
     },
-    gradient: GLOBAL_GRADIENT,
+    gradient: {
+      start: MERMAID_NET,
+      end: MERMAID_NET,
+    },
     isBrandedHeaderBlack: false,
     primary: MERMAID_NET,
     secondary: MERMAID_NET,
     // Article configuration
-    showCateogryTag: true,
+    showCategoryTag: true,
     custom: {
       'a:hoover': MERMAID_NET,
       a: MERMAID_NET,
@@ -109,9 +110,12 @@ const eln9veShowThemeConfig = (data) => {
     },
     descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
     categoryColor: MERMAID_NET,
-    widgetTitleColor: MAGENTA_RGB,
-    liveblogPostsTheme: MAGENTA_RGB,
+    widgetTitleColor: MERMAID_NET,
+    widgetLinkTitleColor: BLACK,
+    liveblogPostsTheme: MERMAID_NET,
     mainIconIsDark: true,
+    listCardWidgetButtonBackgroundColor: MERMAID_NET,
+    listCardWidgetButtonBackgroundHoverColor: MERMAID_NET,
     // Dark mode for shows
     isDark: getShowThemeByContentType(data),
     hideNavBottom: true,

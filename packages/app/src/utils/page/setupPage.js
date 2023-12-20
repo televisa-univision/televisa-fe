@@ -491,6 +491,11 @@ async function setupPage(ctx, siteName) {
   if (TELEVISA_SITES.includes(siteName)) {
     pageData.parentSite = TELEVISA_SITE;
   }
+  let tagValue = pageData?.data.adSettings?.adTagValue;
+  tagValue = `${pageData?.data.adSettings?.adTagValue?.replace(/\s+/g, '_')}`;
+  if (pageData?.data.adSettings?.adTagValue) {
+    pageData.data.adSettings.adTagValue = tagValue;
+  }
 
   // The header and theme comes with assets that are processed by the webpack
   // on the express.js app, so have the paths from that configuration,

@@ -16,6 +16,7 @@ const props = {
   theme: {
     primary: '#000000',
     secondary: '#000000',
+    listCardWidgetButtonBackgroundColor: '#000000',
   },
   widgetContext: {
     title: 'MÁS NOTICIAS',

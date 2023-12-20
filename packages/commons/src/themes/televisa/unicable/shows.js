@@ -1,11 +1,12 @@
 // TODO: BEX Migration - Placeholder file for one possible Canal 5 Category and its Theme.
 import {
     BLACK,
-    GLOBAL_GRADIENT,
     BLACK_STARTS,
     TRANSPARENT,
-    MAGENTA_RGB,
   } from '@univision/fe-utilities/styled/constants';
+  import {
+    YELLOW_DARK,
+  } from '../../../utils/styled/constants';
   import LOGOS from '../../../constants/televisaSitesData';
 
   export default () => ({
@@ -40,16 +41,19 @@ import {
     headlineFont: {
       default: 'uvs-font-a-bold',
     },
-    gradient: GLOBAL_GRADIENT,
+    gradient: {
+      start: YELLOW_DARK,
+      end: YELLOW_DARK,
+    },
     isBrandedHeaderBlack: true,
     brandedHeaderBackgroundColor: TRANSPARENT,
     brandedHeaderColor: TRANSPARENT,
     primary: BLACK,
     secondary: BLACK,
     custom: {
-      b: MAGENTA_RGB,
-      'a:hoover': MAGENTA_RGB,
-      a: MAGENTA_RGB,
+      b: YELLOW_DARK,
+      'a:hoover': YELLOW_DARK,
+      a: YELLOW_DARK,
     },
     titleFontSize: {
       sm: '24px',
@@ -64,9 +68,12 @@ import {
       xl: '33px',
     },
     descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
-    categoryColor: MAGENTA_RGB,
-    widgetTitleColor: MAGENTA_RGB,
+    categoryColor: YELLOW_DARK,
+    widgetTitleColor: YELLOW_DARK,
+    widgetLinkTitleColor: BLACK,
+    listCardWidgetButtonBackgroundColor: YELLOW_DARK,
+    listCardWidgetButtonBackgroundHoverColor: YELLOW_DARK,
     // AMP
-    ampHeaderBackgroundColor: MAGENTA_RGB,
-    ampShareLinkBackgroundColor: MAGENTA_RGB,
+    ampHeaderBackgroundColor: YELLOW_DARK,
+    ampShareLinkBackgroundColor: YELLOW_DARK,
   });

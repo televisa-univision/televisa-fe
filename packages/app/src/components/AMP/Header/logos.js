@@ -115,16 +115,41 @@ export const logos = {
  * @returns {Object}
  */
 export default (pageData, pageCategory, siteName) => {
+  const categoryRegexMap = {
+    [categories.CANAL5]: logos.canal5,
+    [categories.LAS_ESTRELLAS]: logos.lasestrellas,
+    [categories.TELEHIT]: logos.telehit,
+    [categories.UNICABLE]: logos.unicable,
+    [categories.DISTRITO_COMEDIA]: logos.distritocomedia,
+    [categories.ELNU9VE]: logos.elnu9ve,
+  };
+
+  let returnValue = null;
+
+  const hasMatchingCategory = Object.entries(categoryRegexMap)
+    .some(([category, logo]) => {
+      const regex = new RegExp(category, 'i');
+      if (regex.test(pageCategory)) {
+        returnValue = logo;
+        return true;
+      }
+      return false;
+  });
+
+  if (hasMatchingCategory) {
+    return returnValue;
+  }
+
   switch (pageCategory) {
     case categories.ENTERTAINMENT:
-      return logos.entretenimiento;
     case categories.HOROSCOPE:
       return logos.entretenimiento;
     case categories.RADIO:
-      return Object.assign({}, logos.local, {
+      return {
+        ...logos.local,
         src: univisionWhiteColorLogo,
         url: getKey(getBrandable(Store), 'brandable.uri'),
-      });
+      };
     case categories.SPORTS:
     case categories.SOCCER_FUTBOL:
       return logos.deportes;
@@ -135,46 +160,7 @@ export default (pageData, pageCategory, siteName) => {
       return logos.noticias;
     case categories.SHOW:
       return logos.shows;
-    case categories.LAS_ESTRELLAS_TELENOVELAS:
-    case categories.LAS_ESTRELLAS_PROGRAMAS:
-    case categories.LAS_ESTRELLAS_REALITY:
-    case categories.LAS_ESTRELLAS_CAPITULOS_GRATIS:
-    case categories.LAS_ESTRELLAS_HOROSCOPOS:
-    case categories.LAS_ESTRELLAS_EN_VIVO:
-    case categories.LAS_ESTRELLAS_SHOW:
-      return logos.lasestrellas;
-    // TODO: BEX Migration - Figure out with a PO what are the other categories for Canal 5
-    case categories.CANAL5:
-    case categories.CANAL5_CUAL_ES_BUENO:
-    case categories.CANAL5_EL_RETO_4_ELEMENTOS:
-    case categories.CANAL5_HOTEL_VIP:
-    case categories.CANAL5_REALITIES:
-    case categories.CANAL5_LCDLFM:
-    case categories.CANAL5_ME_CAIGO_DE_RISA:
-    case categories.CANAL5_PELICULAS_DEL_5:
-      return logos.canal5;
-    case categories.ELNU9VE:
-    case categories.ELNU9VE_NOVELA:
-    case categories.ELNU9VE_SHOW:
-      return logos.elnu9ve;
-    case categories.TELEHIT:
-    case categories.TELEHIT_ENTRETENIMIENTO:
-    case categories.TELEHIT_KPOP:
-    case categories.TELEHIT_MUSICA:
-    case categories.TELEHIT_PROGRAMAS:
-    case categories.TELEHIT_URBANO:
-    case categories.TELEHIT_VIRAL:
-      return logos.telehit;
-    case categories.DISTRITO_COMEDIA:
-      return logos.distritocomedia;
-    case categories.UNICABLE:
-    case categories.UNICABLE_CELEBS:
-    case categories.UNICABLE_FELIZMENTE:
-    case categories.UNICABLE_LIFESTYLE:
-    case categories.UNICABLE_PROGRAMAS:
-      return logos.unicable;
     default:
-      // return default televisa logo if no pageCategory was configured
       if (TELEVISA_SITES.includes(siteName)) {
         return logos.televisa;
       }
@@ -186,7 +172,6 @@ export default (pageData, pageCategory, siteName) => {
         }
       }
 
-      // Default to Univision logo
       return {
         src: univisionLogo,
         variant: 'light',

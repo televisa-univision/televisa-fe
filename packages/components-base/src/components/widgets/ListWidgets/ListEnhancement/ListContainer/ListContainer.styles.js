@@ -15,7 +15,15 @@ export default {
       }
     }
   `,
-  buttonWrapper: ({ isWorldCupMvp }) => css`
+  buttonWrapper: ({ isWorldCupMvp, theme }) => css`
+   ${theme?.listCardWidgetButtonBackgroundColor && css`
+      > div > button {
+        background: ${theme.listCardWidgetButtonBackgroundColor};
+      }
+      > div > button:hover {
+        background: ${theme.listCardWidgetButtonBackgroundHoverColor};
+      }
+   `}
     margin: 0;
     padding: 0;
     width: auto;

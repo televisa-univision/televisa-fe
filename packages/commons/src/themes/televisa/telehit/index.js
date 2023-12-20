@@ -1,6 +1,5 @@
 import {
   BLACK,
-  GLOBAL_GRADIENT,
   BLACK_STARTS,
   TRANSPARENT,
   MAGENTA_RGB,
@@ -38,7 +37,10 @@ export default () => ({
   headlineFont: {
     default: 'uvs-font-a-bold',
   },
-  gradient: GLOBAL_GRADIENT,
+  gradient: {
+    start: '#AA32D1',
+    end: '#AA32D1',
+  },
   isBrandedHeaderBlack: false,
   brandedHeaderBackgroundColor: '#B832E0',
   brandedHeaderColor: TRANSPARENT,
@@ -47,6 +49,7 @@ export default () => ({
   custom: {
     'a:hoover': MAGENTA_RGB,
     a: MAGENTA_RGB,
+    b: MAGENTA_RGB,
   },
   titleFontSize: {
     sm: '24px',
@@ -63,5 +66,8 @@ export default () => ({
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: MAGENTA_RGB,
   widgetTitleColor: MAGENTA_RGB,
+  widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: MAGENTA_RGB,
+  listCardWidgetButtonBackgroundColor: MAGENTA_RGB,
+  listCardWidgetButtonBackgroundHoverColor: MAGENTA_RGB,
 });

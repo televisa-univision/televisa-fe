@@ -1,0 +1,4 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence.
+# more on https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+* @alaingoga @tremerex @yanv1991 @jradillo @cuquo @ed-hidalgo @nevermind89x @JohannsisBaires @lizlopez10

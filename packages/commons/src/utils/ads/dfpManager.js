@@ -248,9 +248,9 @@ const dfpManager = {
     this.setWithUserId(getKey(state, 'user.sub') || localStorage.getObject(USER_ID)?.['univision_user_id']);
 
     // Providing skey targeting attr
-    const keySvalue = this.isTelevisaSite ? (window.location.search.match(/skey=(\w+)/)?.[1] || '') : '';
+    const keySvalue = window.location.search.match(/skey=(\w+)/)?.[1];
 
-    if (keySvalue) {
+    if (keySvalue && this.isTelevisaSite) {
       pubads().setTargeting('skey', keySvalue);
     }
 
@@ -624,6 +624,11 @@ const dfpManager = {
       || (cookiesEnabled && Features.advertisement.isPrebidDisplay())
     ) {
       this.load();
+
+      if (!this.isTelevisaSite) {
+        const state = Store.getState();
+        this.isTelevisaSite = isTelevisaSiteSelector(state);
+      }
     }
 
     this.haveScriptsLoaded = true;
@@ -810,7 +815,11 @@ const dfpManager = {
     }
 
     // Provides position in ad
-    slot.setTargeting(this.isTelevisaSite ? 'pos' : 'position', position);
+    if (this.isTelevisaSite) {
+      slot.setTargeting('pos', position);
+    } else {
+      slot.setTargeting('position', position);
+    }
 
     return slot;
   },

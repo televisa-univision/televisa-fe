@@ -995,6 +995,8 @@ class VideoComponent extends React.Component {
       broadcastEvent: this.pageData?.data?.broadcastEvent,
       broadcastEventLogin: this.pageData?.data?.broadcastEventLogin,
       userId,
+      site: this.pageData?.site,
+      isTelevisaSite: this.pageData?.parentSite === 'televisa',
       ...extraOptions,
     };
   }

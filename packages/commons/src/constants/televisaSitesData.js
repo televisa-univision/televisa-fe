@@ -20,7 +20,6 @@ export const TELEVISA_HOSTS = [
   'distritocomedia.com',
   'televisa.com',
   'unicable.tv',
-  // For bandamax we will have to remove one of the hosts
   'bandamax.tv',
 ];
 

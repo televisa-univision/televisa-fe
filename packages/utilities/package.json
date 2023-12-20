@@ -4,20 +4,20 @@
   "description": "Shared and agnostics utilities package for Univision",
   "author": "UVN Platform Engineers",
   "license": "MIT",
-  "homepage": "https://github.com/univision/univision-fe/packages/utilities#readme",
+  "homepage": "https://github.com/televisa-univision/univision-fe/packages/utilities#readme",
   "publishConfig": {
     "access": "restricted"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": ">=18.0.0",
     "yarn": ">=1.22.0"
   },
   "bugs": {
-    "url": "https://github.com/univision/univision-fe/issues"
+    "url": "https://github.com/televisa-univision/univision-fe/issues"
   },
   "type": "commonjs",
   "main": "./cjs/",

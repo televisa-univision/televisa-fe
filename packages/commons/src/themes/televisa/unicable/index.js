@@ -1,8 +1,8 @@
 import {
     TRANSPARENT,
     BLACK_STARTS,
-    GLOBAL_GRADIENT,
     MINE_SHAFT_BLACK,
+    BLACK,
   } from '@univision/fe-utilities/styled/constants';
   import {
     LINK_HOVER_EFFECT,
@@ -48,7 +48,10 @@ import {
     headlineFont: {
       default: 'uvs-font-a-bold',
     },
-    gradient: GLOBAL_GRADIENT,
+    gradient: {
+      start: YELLOW_DARK,
+      end: YELLOW_DARK,
+    },
     isBrandedHeaderBlack: false,
     brandedHeaderBackgroundColor: GRADIENT_UNICABLE,
     hoverGlobalNav: 'linear-gradient(180deg, rgba(0, 0, 0, 0.28) 0%, rgba(0, 0, 0, 0.04) 100%);',
@@ -65,6 +68,7 @@ import {
     custom: {
       'a:hover': WHITE,
       a: YELLOW_DARK,
+      b: YELLOW_DARK,
     },
     titleFontSize: {
       sm: '24px',
@@ -78,10 +82,14 @@ import {
       lg: '33px',
       xl: '33px',
     },
+    tagLabelColor: YELLOW_DARK,
     descriptionFontSize: 'regular',
     categoryColor: YELLOW_DARK,
     widgetTitleColor: YELLOW_DARK,
+    widgetLinkTitleColor: BLACK,
     liveblogPostsTheme: YELLOW_DARK,
+    listCardWidgetButtonBackgroundColor: YELLOW_DARK,
+    listCardWidgetButtonBackgroundHoverColor: YELLOW_DARK,
     // AMP
     ampHeaderBackgroundColor: GRADIENT_UNICABLE,
     ampShareLinkBackgroundColor: GRADIENT_UNICABLE,

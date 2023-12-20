@@ -10,6 +10,7 @@ import {
   isValidString,
   toAbsoluteUrl,
   toRelativeUrl,
+  decomposeUrl,
 } from '@univision/fe-commons/dist/utils/helpers';
 import { shouldSkipSpa } from '@univision/fe-commons/dist/utils/helpers/spa';
 import RouterContext from '@univision/fe-commons/dist/components/RouterContext';
@@ -24,9 +25,12 @@ import {
   userLocationSelector,
   pageUriSelector,
   pageCategorySelector,
+  siteSelector,
 } from '@univision/fe-commons/dist/store/selectors/page-selectors';
 import getSiteDomainFromHref from '@univision/fe-utilities/helpers/url/getSiteDomainFromHref';
-import { TUDN_SITE, TUDN_DEFAULT_HOST } from '@univision/fe-commons/dist/constants/sites';
+import {
+  TUDN_SITE, TUDN_DEFAULT_HOST, TELEVISA_SITE, ELNU9VE_SITE, CANAL5_SITE,
+} from '@univision/fe-commons/dist/constants/sites';
 import { MX } from '@univision/fe-commons/dist/constants/userLocation';
 import features from '@univision/fe-commons/dist/config/features';
 import { isVerticalTelevisaByUri } from '@univision/fe-commons/dist/utils/header/helpers';
@@ -74,6 +78,7 @@ class Link extends React.PureComponent {
     this.isWorldCupMVP = features.deportes.isWorldCupMVP(state);
     this.pageUri = pageUriSelector(state);
     this.pageCategory = pageCategorySelector(state);
+    this.site = siteSelector(state);
   }
 
   /**
@@ -145,6 +150,14 @@ class Link extends React.PureComponent {
     } = this.props;
 
     if (isValidFunction(onClick)) onClick(event);
+
+    // Let browser handle the navigation if we are in the Televisa and need to navigate to subdomain
+    if (this.site === TELEVISA_SITE) {
+      const urlComponents = decomposeUrl(href);
+      if (urlComponents
+        && (urlComponents.domain?.includes(ELNU9VE_SITE)
+          || urlComponents.domain?.includes(CANAL5_SITE))) return;
+    }
 
     if (
       history
@@ -255,7 +268,7 @@ class Link extends React.PureComponent {
     const absoluteUrl = toAbsoluteUrl(
       toRelativeUrl(activeLink),
       getSiteDomainFromHref(activeLink, this.sites)
-      );
+    );
     return absoluteUrl.includes(href);
   }
 

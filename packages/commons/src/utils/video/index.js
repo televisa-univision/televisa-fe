@@ -685,6 +685,14 @@ export function getEnv() {
 }
 
 /**
+ * Get page site
+ * @returns {string}
+ */
+export function getSite() {
+  return getKey(getPageData(), 'site', '');
+}
+
+/**
  * Get video env from legacy or nextjs
  * @returns {string}
  */

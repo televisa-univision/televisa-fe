@@ -114,7 +114,7 @@ export function fetchWeatherData() {
         return data;
       }).catch((err) => {
         // we don't want the entire response to be rejected in web-app-state
-        // https://github.com/univision/univision-fe/blob/a9b09ccd3a424ac248fbf34e7bfae49b30159757/packages/core/src/server/routes/page/page.js#L142
+        // https://github.com/televisa-univision/univision-fe/blob/a9b09ccd3a424ac248fbf34e7bfae49b30159757/packages/core/src/server/routes/page/page.js#L142
         // eslint-disable-next-line no-param-reassign
         err.message = `${WEATHER_FORECAST_ERROR} fetchWeatherForecast rejected: ${err.message}`;
 

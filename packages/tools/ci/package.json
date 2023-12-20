@@ -5,7 +5,7 @@
   "description": "Univision FE CI Scripts.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": "<=9.11.2"

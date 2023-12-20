@@ -24,7 +24,7 @@ const getTVSS = async (
   mcpOrigin,
   tvssDomain,
 ) => {
-  // TODO handle auth videos (https://github.com/univision/mobile-apps/blob/c62bde8ffbf9dd94a794c788c52dec4c648371fb/packages/core/src/helpers/tvss.js#L49)
+  // TODO handle auth videos (https://github.com/televisa-univision/mobile-apps/blob/c62bde8ffbf9dd94a794c788c52dec4c648371fb/packages/core/src/helpers/tvss.js#L49)
   const vodURL = `${getTvssDomain(tvssDomain || configUrls?.TVSS)}/${configUrls?.TVSS_SUFFIX}?mcpids=${id}&mcpOrigin=${mcpOrigin}`;
   const response = await fetch(vodURL);
   return getKey(response, 'data[0].renditionUrl');

@@ -45,7 +45,7 @@ describe('ContentHeader tests', () => {
   beforeEach(() => {
     props = {
       theme: {
-        showCateogryTag: true,
+        showCategoryTag: true,
       },
       featuredTag: 'featuredTag',
       device: 'desktop',

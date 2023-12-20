@@ -69,6 +69,7 @@ const ArticleBody = ({
   description,
   recipeData,
   opinionText,
+  theme,
 }) => {
   const published = publishDate;
   const device = 'mobile';

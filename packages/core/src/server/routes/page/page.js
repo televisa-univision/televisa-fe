@@ -181,7 +181,7 @@ export async function setVerticalNavigation(requestStore) {
   if (isValidObject(navData)) {
     // Set header data to requestStore to prevent tag duplication on page
     // Also added to have dynamic import on the conf files
-    // see: https://github.com/univision/univision-fe/pull/1695/
+    // see: https://github.com/televisa-univision/univision-fe/pull/1695/
     requestStore.dispatch(setHeaderData(navData));
   }
 
