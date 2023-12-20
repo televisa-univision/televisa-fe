@@ -47,6 +47,14 @@ export const TASAUDAVEL_SITE = 'tasaudavel';
 export const PRENDETV_SITE = 'prendetv';
 
 /**
+  * Represent LCDLF site key name
+  * @type {string}
+  */
+export const LCDLF_SITE = 'lcdlf';
+
+// auto-site-constants-end
+
+/**
   * Represent BANDAMAX site key name
   * @type {string}
   */
@@ -139,6 +147,14 @@ export const ZAPPEANDO_DEFAULT_HOST = 'zappeando.com.br';
 export const TASAUDAVEL_DEFAULT_HOST = 'tasaudavel.com.br';
 
 /**
+   * Represent default Lcdlf host
+   * @type {string}
+   */
+export const LCDLF_DEFAULT_HOST = 'lacasadelosfamososmexico.tv';
+
+// auto-default-host-constants-end
+
+/**
    * Represent default Bandamax host
    * @type {string}
    */
@@ -220,6 +236,7 @@ export const TELEVISA_SITES = [
   ELNU9VE_SITE,
   LOS_BINGERS_SITE,
   BANDAMAX_SITE,
+  LCDLF_SITE,
 ];
 
 /**
@@ -243,4 +260,5 @@ export const ALLOWED_SITES_DOMAINS = [
   TELEHIT_DEFAULT_HOST,
   LOS_BINGERS_DEFAULT_HOST,
   BANDAMAX_DEFAULT_HOST,
+  LCDLF_DEFAULT_HOST,
 ];
