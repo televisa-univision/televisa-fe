@@ -27,6 +27,7 @@ export const iFrameAncestorsRegex = [
   /.*\.telehit\.com/,
   /.*\.losbingers\.com/,
   /.*\.bandamax\.tv/,
+  /.*\.lacasadelosfamososmexico\.tv/,
 ];
 
 /**
