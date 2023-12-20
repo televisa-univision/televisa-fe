@@ -35,6 +35,12 @@ function CastReceiver({ config, TagManager }) {
       />
       <ScriptLoader
         type="text/javascript"
+        src="//www.gstatic.com/cast/sdk/libs/devtools/debug_layer/caf_receiver_logger.js"
+        onLoad={receiverInit}
+        onError={clientLogging}
+      />
+      <ScriptLoader
+        type="text/javascript"
         src="//imasdk.googleapis.com/js/sdkloader/cast_dai.js"
         onLoad={receiverInit}
         onError={clientLogging}
