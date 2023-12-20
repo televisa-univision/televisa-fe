@@ -101,10 +101,9 @@ describe('UniNow test', () => {
 describe('TelevisaRebrand test', () => {
   let originalEnvironment;
 
-  // Mock window.open
-  global.open = jest.fn();
-
   beforeEach(() => {
+    // Mock window.open
+    global.open = jest.fn();
     // Save the original process.env.ENVIRONMENT
     originalEnvironment = process.env.ENVIRONMENT;
   });
@@ -129,6 +128,18 @@ describe('TelevisaRebrand test', () => {
     const link = wrapper.find('Link').at(0);
     link.simulate('click');
     expect(global.open).toHaveBeenCalledWith(`${window.location.href}/search`, '_self');
+  });
+
+  it('should coun two links when showVixLogo are set to true', () => {
+    const darkTheme = { showVixLogo: true };
+    process.env.VIX_BANNER_DOMAIN = 'https://vix.com/';
+    process.env.VIX_BANNER_PATH = '/test';
+    jest.spyOn(pageSelectors, 'themeSelector').mockReturnValue(darkTheme);
+    const wrapper = makeTelevisaRebrand({}, mount);
+    const links = wrapper.find('Link');
+    expect(links).toHaveLength(2);
+    links.at(1).simulate('click');
+    expect(global.open).toHaveBeenCalledWith('https://vix.smart.link/46zl6ztg7?&site_id=univision&creative_id=evergreen&lpurl=https://vix.com/canales&cp_1=internal_referral&cp_2=0&cp_3=hamburger&cp_4=0&deeplink=vixapp://canales', '_self');
   });
 });
 
