@@ -11,6 +11,7 @@ const LOGOS = Object.freeze({
   telehit: 'https://st1.uvnimg.com/dd/2b/cc0af15b4bba992fbd63fcb85fd7/img-0680.png',
   losbingers: 'https://st1.uvnimg.com/ad/04/79fd7b964dd985ca957836b45ed4/bingers-color.svg',
   bandamax: 'https://st1.uvnimg.com/15/88/f70de9d14a6e8af3e6e4beb28315/bandamax-solid.svg',
+  lcdlf: 'https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png',
 });
 
 export const TELEVISA_HOSTS = [
