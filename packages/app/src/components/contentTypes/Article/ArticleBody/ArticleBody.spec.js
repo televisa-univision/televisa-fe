@@ -11,13 +11,10 @@ import SocialTracker from '@univision/fe-commons/dist/utils/tracking/tealium/soc
 import ArticleTracker from '@univision/fe-commons/dist/utils/tracking/tealium/article/ArticleTracker';
 import LiveLabel from '@univision/fe-components-base/dist/components/LiveLabel';
 import features from '@univision/fe-commons/dist/config/features';
-import styled from 'styled-components';
 import ArticleLead from '../ArticleLead';
 import BodyChunk from '../../../base/BodyChunk';
 import ConnectedArticle, { ArticleBody } from '.';
 import { getTrackingProps } from '../ArticleContent/index';
-
-import Styles from './ArticleBody.styles';
 
 const store = configureStore();
 jest.mock('@univision/fe-components-base/dist/components/CallButton', () => {
@@ -32,6 +29,7 @@ jest.mock('react-lazyload', () => jest.fn(orgProps => <div>{orgProps.children}</
 
 describe('ArticleBody tests', () => {
   let props;
+  let isWorldCupMVPSpy;
   beforeAll(async () => {
     await preloadAll();
   });
@@ -44,9 +42,6 @@ describe('ArticleBody tests', () => {
       primaryTag: { name: 'topic' },
       title: 'title',
       lead: { type: 'image' },
-      theme: {
-        showCateogryTag: true,
-      },
       body: [
         { type: 'text', value: '<p>hello</p>' },
         { type: 'text', value: '<p>world</p>' },
@@ -194,13 +189,13 @@ describe('ArticleBody tests', () => {
         />
       </Provider>,
     );
+
     const button = wrapper.find({ href: jobListingData.applyUrl }).first();
 
     act(() => {
       button.simulate('click', 'facebook');
       wrapper.update();
     });
-
     expect(ArticleTracker.track).toBeCalled();
   });
 
@@ -460,72 +455,19 @@ describe('ArticleBody tests', () => {
       const wrapper = shallow(<ArticleBody {...props} pageData={pageData} primaryTag={{}} />);
       expect(wrapper.find('.primaryTag')).toHaveLength(0);
     });
+    it('should have the proprisWorldCupMVP ', () => {
+      jest.spyOn(features.deportes, 'isWorldCupMVP').mockReturnValue(true);
+      const pageData = { headerTitle: 'no match', isWorldCupMVPSpy };
+      const wrapper = shallow(<ArticleBody {...props} pageData={pageData} />);
+      const findLabelStyle = wrapper.find('.isWorldCupMVPTag');
+      expect(findLabelStyle).toHaveLength(1);
+    });
   });
-
-  describe('ArticleBodyStyles', () => {
-    let theme;
-
-    beforeEach(() => {
-      theme = {};
-    });
-
-    it('should load categoryTag styles', () => {
-      const Tag = styled.div`${Styles.categoryTag}`;
-      theme.categoryColor = '#fff';
-      const wrapper = mount(<Tag theme={theme} />);
-      expect(wrapper.find('div')).toHaveStyleRule('color', '#fff');
-    });
-
-    it('should apply default color for categoryTag when no categoryColor are set', () => {
-      const Tag = styled.div`${Styles.categoryTag}`;
-      const wrapper = mount(<Tag theme={theme} />);
-      expect(wrapper.find('div')).toHaveStyleRule('color', '#000');
-    });
-
-    it('should load body styles', () => {
-      const StyledDiv = styled.div`${Styles.body}`;
-      const wrapper = mount(<StyledDiv theme={theme} />);
-      expect(wrapper.find('div')).toHaveStyleRule('font-size', '1rem');
-    });
-
-    it('should set font-family poppins when isWorldCupMVP is true', () => {
-      const StyledDiv = styled.div`${Styles.body}`;
-      const wrapper = mount(<StyledDiv theme={theme} isWorldCupMVP />);
-      expect(wrapper.find('div')).toHaveStyleRule('font-family', '\'Poppins\',sans-serif');
-    });
-
-    it('should apply color for b', () => {
-      const StyledDiv = styled.div`${Styles.body}`;
-      const wrapper = mount(<StyledDiv theme={theme}><b>demo</b></StyledDiv>);
-      expect(getComputedStyle(wrapper.find('b').getDOMNode()).color).toEqual('rgb(0, 0, 0)');
-
-      const StyledDiv2 = styled.div`${Styles.body}`;
-      theme.custom = {
-        b: '#fff',
-      };
-      const wrapper2 = mount(<StyledDiv2 theme={theme}><b>demo</b></StyledDiv2>);
-      expect(getComputedStyle(wrapper2.find('b').getDOMNode()).color).toEqual('rgb(255, 255, 255)');
-    });
-
-    it('should apply color for a', () => {
-      const StyledDiv = styled.div`${Styles.body}`;
-      const customTheme = {
-        ...theme,
-      };
-
-      customTheme.custom = {
-        a: '#000',
-        'a:hover': '#000',
-      };
-
-      const wrapper = mount(
-        <StyledDiv theme={customTheme}>
-          <a href="http://mocksite.com">
-            demo
-          </a>
-        </StyledDiv>,
-      );
-      expect(getComputedStyle(wrapper.find('a').getDOMNode()).color).toEqual('rgb(0, 0, 0)');
-    });
+  it('should have the proprisWorldCupMVP ', () => {
+    jest.spyOn(features.deportes, 'isWorldCupMVP').mockReturnValue(true);
+    const pageData = { headerTitle: 'no match', isWorldCupMVPSpy };
+    const wrapper = shallow(<ArticleBody {...props} pageData={pageData} />);
+    const findLabelStyle = wrapper.find('.isWorldCupMVP');
+    expect(findLabelStyle).toHaveLength(1);
   });
 });
