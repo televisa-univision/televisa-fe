@@ -82,7 +82,7 @@ describe('ArticleContent tests', () => {
 
   it('should trigger fullSctroll event', () => {
     spyOn(ArticleTracker, 'track');
-    getTrackingProps({}).onMilestone([100]);
+    getTrackingProps({}).onMilestone([90]);
     const data = { primaryTag: undefined, title: undefined, uid: undefined };
     expect(ArticleTracker.track).toBeCalledWith(ArticleTracker.events.fullScroll, data);
   });
