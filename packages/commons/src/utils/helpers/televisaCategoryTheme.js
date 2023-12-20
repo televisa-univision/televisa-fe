@@ -3,6 +3,7 @@ import {
   TELEVISA_SITE,
   ELNU9VE_SITE,
   CANAL5_SITE,
+  LCDLF_SITE,
 } from '../../constants/sites';
 // eslint-disable-next-line import/no-cycle
 import lasestrellas from './taxonomy/lasestrellas';
@@ -12,6 +13,8 @@ import elnu9ve from './taxonomy/elnueve';
 import canal5 from './taxonomy/canal5';
 // eslint-disable-next-line import/no-cycle
 import televisa from './taxonomy/televisa';
+// eslint-disable-next-line import/no-cycle
+import lcdlf from './taxonomy/lcdlf';
 import { types as matcherTypes } from './taxonomy/matchers/Matcher';
 
 /**
@@ -27,6 +30,9 @@ const televisaVerticals = {
   },
   [CANAL5_SITE]: {
     ...canal5,
+  },
+  [LCDLF_SITE]: {
+    ...lcdlf,
   },
   [TELEVISA_SITE]: {
     ...televisa,
