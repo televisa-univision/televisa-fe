@@ -7,6 +7,7 @@ import elnu9ve from '../elnu9ve/mapping';
 import televisa from '../televisaSite/mapping';
 import losbingers from '../losbingers/mapping';
 import bandamax from '../bandamax/mapping';
+import lcdlf from '../lcdlf/mapping';
 
 export default {
   // Canal 5
@@ -23,4 +24,6 @@ export default {
   [pageCategories.LOS_BINGERS]: losbingers,
   // Bandamax
   [pageCategories.BANDAMAX]: bandamax,
+  // LCDLF
+  [pageCategories.LCDLF]: lcdlf,
 };
