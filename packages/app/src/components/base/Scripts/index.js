@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-sync-scripts */
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 
@@ -6,6 +5,7 @@ import {
   AWS_FILE_URL, GPT_FILE_URL, RUBICON_FILE_URL,
 } from '@univision/fe-commons/dist/constants/ads';
 import { JWP_FILE_PRE_URL, JWP_FILE_POST_URL, JWP_KEY } from '@univision/fe-commons/dist/constants/video';
+import { TARGETING_COOKIES, PERFORMANCE_TARGETING_COOKIES } from '@univision/fe-commons/dist/constants/oneTrust';
 import features from '@univision/fe-commons/dist/config/features';
 
 /**
@@ -29,14 +29,16 @@ const Scripts = ({ disableAds }) => {
       {!disableAds && (
         <script
           async
-          type="text/javascript"
+          type="text/plain"
+          className={TARGETING_COOKIES}
           src={AWS_FILE_URL}
         />
       )}
       {!disableAds && (
         <script
           async
-          type="text/javascript"
+          type="text/plain"
+          className={PERFORMANCE_TARGETING_COOKIES}
           src={RUBICON_FILE_URL}
         />
       )}
