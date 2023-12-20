@@ -1,11 +1,16 @@
-/* eslint-disable react/no-danger */
 /* eslint-disable @next/next/no-sync-scripts */
+/* eslint-disable react/no-danger */
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import Head from 'next/head';
 import seoTags from '@univision/fe-commons/dist/utils/seo/seoTags';
+import oneTrustManager from '@univision/fe-commons/dist/utils/onetrust/oneTrustManager';
+import { getCookie } from '@univision/fe-commons/dist/utils/helpers';
 
 import { TUDN_SITE } from '@univision/fe-commons/src/constants/sites';
+import {
+  PERFORMANCE_COOKIES, ONETRUST_SCRIPT, DATA_DOMAIN_SCRIPT, ONETRUST_COOKIE,
+} from '@univision/fe-commons/dist/constants/oneTrust';
 import ResourceHints from '../ResourceHints';
 
 /**
@@ -18,7 +23,18 @@ import ResourceHints from '../ResourceHints';
  */
 function PageHead({ pageData }) {
   const [loadChartbeatMab, setLoadChartbeatMab] = useState(false);
-  const { isAmp } = pageData || {};
+  const {
+    isAmp,
+    site,
+    data: { analyticsData: { web: { common = {} } = {} } = {} } = {},
+  } = pageData || {};
+  oneTrustManager.setPageSection(common, site);
+  const consentCookie = getCookie(ONETRUST_COOKIE);
+  if (consentCookie && (!global?.window?.OnetrustActiveGroups || global?.window?.OnetrustActiveGroups === ',,')) {
+    oneTrustManager.getCookieActiveGroups(consentCookie);
+  }
+
+  // data.analyticsData.web.common
 
   useEffect(() => {
     if (!isAmp) {
@@ -33,30 +49,60 @@ function PageHead({ pageData }) {
   }, [isAmp, pageData]);
 
   return (
-    <>
-      <Head>
-        {seoTags.title(pageData)}
-        {seoTags.canonical(pageData)}
-        {seoTags.ampHtmlLink(pageData)}
-        {seoTags.metas(pageData)}
-        {pageData?.data?.sectionType !== 'radiostation' && seoTags.getOpenGraphImage(
-          pageData?.hasValidOgImage,
-          { data: pageData?.data, isTudn: pageData?.isTudn },
-        )}
-        {seoTags.language(pageData, 'mx')}
-        {seoTags.language(pageData)}
-        {seoTags.alternateSection(pageData)}
-        {pageData?.enhancedHeader && ResourceHints()}
-        {loadChartbeatMab && !isAmp
-          && (
+    <Head>
+      {oneTrustManager.allowOneTrust
+        && (
+          <>
+            <script type="text/javascript" src={`https://cdn.cookielaw.org/consent/${DATA_DOMAIN_SCRIPT[site]}/OtAutoBlock.js`} />
+            <script type="text/javascript" src="https://cdn.cookielaw.org/scripttemplates/gpp.stub.js" />
+            <script type="text/javascript" src={ONETRUST_SCRIPT} charset="UTF-8" data-domain-script={DATA_DOMAIN_SCRIPT[site]} />
             <script
               type="text/javascript"
-              async
-              src="https://static.chartbeat.com/js/chartbeat_mab.js"
+              dangerouslySetInnerHTML={{
+                __html: `function OptanonWrapper() {
+              const { type, currentTarget: { id = '' } = {} } = event;
+              switch (type) {
+                case 'otloadbanner':
+                  window.dataLayer.push({
+                    event: 'oneTrust_initial_load',
+                    OnetrustActiveGroups: window.OnetrustActiveGroups,
+                  });
+                  break;
+                case 'click':
+                  window.dataLayer.push({
+                    event: id === 'onetrust-accept-btn-handler' ? 'oneTrust_banner_click_accept_all' : 'oneTrust_preference_center_confirm',
+                    OnetrustActiveGroups: window.OnetrustActiveGroups,
+                  });
+                  break;
+              }
+            }`,
+              }}
             />
-          )}
-      </Head>
-    </>
+          </>
+        )
+      }
+      {seoTags.title(pageData)}
+      {seoTags.canonical(pageData)}
+      {seoTags.ampHtmlLink(pageData)}
+      {seoTags.metas(pageData)}
+      {pageData?.data?.sectionType !== 'radiostation' && seoTags.getOpenGraphImage(
+        pageData?.hasValidOgImage,
+        { data: pageData?.data, isTudn: pageData?.isTudn },
+      )}
+      {seoTags.language(pageData, 'mx')}
+      {seoTags.language(pageData)}
+      {seoTags.alternateSection(pageData)}
+      {pageData?.enhancedHeader && ResourceHints()}
+      {loadChartbeatMab && !isAmp
+        && (
+          <script
+            type={oneTrustManager.getScriptType(PERFORMANCE_COOKIES)}
+            className={PERFORMANCE_COOKIES}
+            async
+            src="https://static.chartbeat.com/js/chartbeat_mab.js"
+          />
+        )}
+    </Head>
   );
 }
 
