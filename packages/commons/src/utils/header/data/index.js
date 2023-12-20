@@ -20,6 +20,7 @@ import unicable from './unicable/mapping';
 import telehit from './telehit/mapping';
 import losbingers from './losbingers/mapping';
 import bandamax from './bandamax/mapping';
+import lcdlf from './lcdlf/mapping';
 
 // Generic wrapper, chunks are inside each category
 export default {
@@ -44,4 +45,5 @@ export default {
   ...telehit,
   ...losbingers,
   ...bandamax,
+  ...lcdlf,
 };
