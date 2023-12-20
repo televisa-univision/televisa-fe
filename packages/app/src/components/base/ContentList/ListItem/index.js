@@ -18,7 +18,6 @@ import MainTracking from '@univision/fe-commons/dist/components/tracking/MainTra
 import { VISIBILITY_SENSOR_SCROLL_THROTTLE } from '@univision/fe-commons/dist/constants/spa';
 import clientLogging from '@univision/fe-commons/dist/utils/logging/clientLogging';
 import { getPermutiveSchema } from '@univision/fe-commons/dist/utils/ads/vendors/permutiveLoader';
-import features from '@univision/fe-commons/dist/config/features';
 
 import { getContent } from '../../../../services/webapi';
 import Styles from './ListItem.scss';
@@ -47,7 +46,7 @@ export class ListItem extends React.Component {
   static defaultProps = {
     contentData: {},
     depth: 1,
-    trackItem: () => { },
+    trackItem: () => {},
   };
 
   /**
@@ -134,7 +133,7 @@ export class ListItem extends React.Component {
    * Set the callback from the item
    * @param {function} callback calback function
    */
-  setVisibleCallback(callback) {
+  setVisibleCallback (callback) {
     if (callback && typeof callback === 'function') {
       this.isInViewportCallback = callback;
     }
@@ -228,7 +227,6 @@ export class ListItem extends React.Component {
    */
   renderContent() {
     const { content } = this.state;
-    const isTelevisaSite = features.televisa.isTelevisaSite();
     const {
       depth,
       itemComponent: ItemComponent,
@@ -268,9 +266,7 @@ export class ListItem extends React.Component {
                 intervalCheck={false}
                 scrollThrottle={VISIBILITY_SENSOR_SCROLL_THROTTLE}
               >
-                <div className={isTelevisaSite
-                  ? Styles.moreContentTelevisa : Styles.moreContent}
-                >
+                <div className={Styles.moreContent}>
                   <p>{localization.get('moreContentOfInterest')}</p>
                 </div>
               </VisibilitySensor>
