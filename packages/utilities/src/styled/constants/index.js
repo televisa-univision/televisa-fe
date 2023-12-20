@@ -441,3 +441,6 @@ export const BLUE_ZODIAC = '#102C51';
 
 // Los Bingers
 export const WATER_SPORTS = '#E2FFFF';
+
+// LCDLF
+export const BALL_BLUE = '#16162A';
