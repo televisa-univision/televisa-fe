@@ -4,7 +4,7 @@
 # univision-fe
 React Based Front-End Layer for Univision.com
 
-Features
+Features.
 
 * React 16
 * Next.js
