@@ -25,6 +25,10 @@ import losbingers from './losbingers';
 // Bandamax
 import { bandamaxThemeConfig } from './bandamax';
 
+// LCDLF
+import lcdlf from './lcdlf';
+import lcdlfShow from './lcdlf/show';
+
 // TODO: BEX Migration - Themes for every Televisa site and its categories.
 export default {
   [pageCategories.DISTRITO_COMEDIA]: distritocomedia,
@@ -60,4 +64,7 @@ export default {
   [pageCategories.BANDAMAX_EXCLUSIVAS]: bandamaxThemeConfig,
   [pageCategories.BANDAMAX_PROGRAMAS]: bandamaxThemeConfig,
   [pageCategories.BANDAMAX_TENDENCIAS]: bandamaxThemeConfig,
+  // LCDLF
+  [pageCategories.LCDLF]: lcdlf,
+  [pageCategories.LCDLF_SHOW]: lcdlfShow,
 };
