@@ -3,6 +3,7 @@ import {
   isPartOfLocalesJobs,
   isPartOfAskExperts,
   isPartOfCoronavirusNav,
+  isPartOfDestino2024,
 } from './localesNavHelpers';
 
 import { getKey } from '../../../helpers';
@@ -44,10 +45,29 @@ export default (data = {}) => {
   const isLocalesJob = isPartOfLocalesJobs(localUri);
   const isCoronavirusNav = isPartOfCoronavirusNav(localUri);
   const isAskExperts = isPartOfAskExperts(localUri);
+  const isDestino2024 = isPartOfDestino2024(localUri);
   const { link: jobsHomepage } = getKey(jobMarkets, `${localMarket}.options`, [])[0] || {};
   const { link: askExpertsHomepage } = getKey(askExpertsMarkets, `${localMarket}.options`, [])[0] || {};
   const isMarketActiveForJobs = getKey(jobMarkets, `${localMarket}.isActive`, false) || Features.localMarkets.forceMarketJobs();
   const isMarketActiveForATE = getKey(askExpertsMarkets, `${localMarket}.isActive`, false) || Features.localMarkets.forceAskExperts();
+
+  if (isDestino2024) {
+    return {
+      ...defaultNav,
+      brandableType: brandableTypes.tv,
+      links: getLinks({
+        uri: brandable.uri,
+      }),
+      title: {
+        link: brandable.uri,
+        logo: 'https://st1.uvnimg.com/2f/db/d7d5845c4e6f9d89971e636d1363/destino-2024-wide-199x31px.svg',
+        name: null,
+        target: '_self',
+        maxWidth: '300px',
+        maxHeight: '48px',
+      },
+    };
+  }
 
   if (isLocalesJob && isMarketActiveForJobs) {
     return {
