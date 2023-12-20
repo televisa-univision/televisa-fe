@@ -959,3 +959,10 @@ export const BANDAMAX_PROGRAMAS = 'bandamax_programas';
 export const BANDAMAX_BANDANEWS = 'bandamax_bandanews';
 export const BANDAMAX_TENDENCIAS = 'bandamax_tendencias';
 export const BANDAMAX_EXCLUSIVAS = 'bandamax_exclusivas';
+
+// -----------------------
+// LCDLF (La casa de los famosos) Categories
+// -----------------------
+export const LCDLF = 'lcdlf';
+export const LCDLF_SHOW = 'lcdlf_famosos';
+export const LCDLF_VOTACIONES = 'lcdlf_votaciones';
