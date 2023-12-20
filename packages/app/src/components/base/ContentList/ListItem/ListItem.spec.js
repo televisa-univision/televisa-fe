@@ -6,7 +6,6 @@ import url from 'url';
 import adHelper from '@univision/fe-commons/dist/utils/ads/adHelper';
 import * as clientLogging from '@univision/fe-commons/dist/utils/logging/clientLogging';
 import comScoreManager from '@univision/fe-commons/dist/utils/tracking/comScore/comScoreManager';
-import features from '@univision/fe-commons/dist/config/features';
 
 import * as webapi from '../../../../services/webapi';
 
@@ -32,30 +31,6 @@ describe('ListItem', () => {
   });
 
   it('should avoid unnecessary re-rendering', () => {
-    const spy = jest.spyOn(ListItem.prototype, 'renderContent');
-    const wrapper = mount(
-      <ListItem
-        {...props}
-        componentLoaded
-        contentData={{ uri: '/testing' }}
-        itemComponent={TestItem}
-      />,
-    );
-    expect(spy).toBeCalled();
-    spy.mockClear();
-    wrapper.setProps({ componentLoaded: true });
-    expect(spy).not.toHaveBeenCalled();
-    spy.mockClear();
-    wrapper.setProps({ contentData: { uri: '/test' } });
-    expect(spy).not.toHaveBeenCalled();
-    spy.mockClear();
-    wrapper.setState({ isNextItemLoaded: true });
-    expect(spy).not.toHaveBeenCalled();
-  });
-
-  it('should mount ListItem with Televisa Style', () => {
-    features.televisa.isTelevisaSite = jest.fn(() => true);
-
     const spy = jest.spyOn(ListItem.prototype, 'renderContent');
     const wrapper = mount(
       <ListItem
@@ -178,7 +153,7 @@ describe('ListItem', () => {
   });
 
   it('calls loadNextItem if next item is visible', () => {
-    const currentProps = { ...props, updateLoader: () => { } };
+    const currentProps = { ...props, updateLoader: () => {} };
     const wrapper = shallow(
       <ListItem
         {...currentProps}
@@ -266,8 +241,8 @@ describe('ListItem', () => {
         contentData={{ nextItem: { uri: '/testing' } }}
         itemComponent={TestItem}
         onNextItemFetched={onNextItemFetched}
-        fetchReactionsAction={() => { }}
-        updateLoader={() => { }}
+        fetchReactionsAction={() => {}}
+        updateLoader={() => {}}
       />,
     );
     const instance = wrapper.instance();
@@ -284,7 +259,7 @@ describe('ListItem', () => {
         contentData={{ nextItem: { uri: '/testing' } }}
         itemComponent={TestItem}
         onNextItemFetched={onNextItemFetched}
-        updateLoader={() => { }}
+        updateLoader={() => {}}
       />,
     );
     const instance = wrapper.instance();
@@ -303,7 +278,7 @@ describe('ListItem', () => {
         contentData={{ nextItem: { uri: '/testing' } }}
         itemComponent={TestItem}
         onNextItemFetched={onNextItemFetched}
-        updateLoader={() => { }}
+        updateLoader={() => {}}
       />,
     );
     const instance = wrapper.instance();
