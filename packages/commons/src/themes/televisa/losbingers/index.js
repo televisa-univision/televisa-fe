@@ -88,6 +88,9 @@ const losBingersThemeConfig = {
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: WATER_SPORTS,
   mainIconIsDark: true,
+  // AMP
+  ampHeaderBackgroundColor: BLACK_STARTS,
+  ampShareLinkBackgroundColor: BLACK_STARTS,
   listCardWidgetButtonBackgroundColor: WATER_SPORTS,
   listCardWidgetButtonBackgroundHoverColor: WATER_SPORTS,
 };
