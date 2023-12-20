@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@univision/fe-webapp",
-  "version": "10.682.0",
+  "version": "10.687.0",
   "description": "Main app for Univision sites",
   "author": "UVN Platform Engineers",
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/univision/univision-fe.git"
+    "url": "https://github.com/televisa-univision/univision-fe.git"
   },
   "engines": {
     "node": ">=18.0.0",
@@ -44,15 +44,15 @@
   "dependencies": {
     "@babel/runtime": "^7.8.4",
     "@babel/runtime-corejs2": "^7.8.7",
-    "@univision/fe-commons": "^10.680.2",
-    "@univision/fe-components-base": "^10.682.0",
-    "@univision/fe-deportes": "^10.682.0",
-    "@univision/fe-icons": "^10.680.1",
-    "@univision/fe-local": "^10.682.0",
-    "@univision/fe-prendetv": "^10.680.2",
-    "@univision/fe-video": "^10.682.0",
-    "@univision/fmg-video-sdk": "4.461.1-rc.0",
-    "@univision/shared-components": "0.5.152-rc.2",
+    "@univision/fe-commons": "^10.686.0",
+    "@univision/fe-components-base": "^10.686.0",
+    "@univision/fe-deportes": "^10.686.0",
+    "@univision/fe-icons": "^10.683.0",
+    "@univision/fe-local": "^10.686.0",
+    "@univision/fe-prendetv": "^10.686.0",
+    "@univision/fe-video": "^10.686.0",
+    "@univision/fmg-video-sdk": "4.462.0",
+    "@univision/shared-components": "0.5.151-tst.2",
     "bootstrap": "^4.4.1",
     "classnames": "^2.2.6",
     "css-loader": "^2.1.1",
