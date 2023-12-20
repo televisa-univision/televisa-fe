@@ -28,11 +28,3 @@ export const LightHeader = styled(Header)`
   background: ${WHITE};
   border-bottom: 1px solid ${LIGHT_GREY};
 `;
-
-// eslint-disable-next-line require-jsdoc
-export const CustomHeader = ({ theme }) => {
-  return styled(Header)`
-    background-color: ${theme.ampHeaderBackgroundColor};
-    position: relative;
-  `;
-};
