@@ -929,9 +929,10 @@ export const UNICABLE_PROGRAMAS = 'unicable_programas';
 export const UNICABLE_CELEBS = 'unicable_celebs';
 export const UNICABLE_LIFESTYLE = 'unicable_lifestyle';
 export const UNICABLE_FELIZMENTE = 'unicable_felizmente';
+export const UNICABLE_SHOWS = 'unicable_shows';
 
 // -----------------------
-// Unicable Categories
+// Telehit Categories
 // -----------------------
 // TODO: BEX Migration - Confirm categories with Daniel Hernandez
 // Or any other PO in charge.

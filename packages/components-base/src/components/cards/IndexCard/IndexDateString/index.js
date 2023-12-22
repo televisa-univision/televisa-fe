@@ -22,10 +22,18 @@ const Text = styled.span`
  * @property {string} updateDate - content update date in ISO8601 format
  * @property {string} publishDate - content publish date in ISO8601 format
  * @property {string} showUpdateDate - content show update date
+ * @property {Object} theme.isDark - dark theme flag
  * @returns {JSX}
  */
-const IndexDateString = ({ updateDate, showUpdateDate, publishDate }) => {
+const IndexDateString = ({
+  updateDate,
+  showUpdateDate,
+  publishDate,
+  theme,
+}) => {
   const updatedTime = new Date(updateDate);
+  const { isDark } = theme || {};
+
   let updatedDateString;
   if (showUpdateDate) {
     if (is24HoursAgo(updatedTime)) {
@@ -82,6 +90,7 @@ IndexDateString.propTypes = {
   updateDate: PropTypes.string,
   showUpdateDate: PropTypes.bool,
   publishDate: PropTypes.string,
+  theme: PropTypes.object,
 };
 
 export default IndexDateString;

@@ -3,17 +3,16 @@ import {
   TELEVISA_SITE,
   ELNU9VE_SITE,
   CANAL5_SITE,
+  LOS_BINGERS_SITE,
+  UNICABLE_SITE,
   LCDLF_SITE,
 } from '../../constants/sites';
-// eslint-disable-next-line import/no-cycle
 import lasestrellas from './taxonomy/lasestrellas';
-// eslint-disable-next-line import/no-cycle
 import elnu9ve from './taxonomy/elnueve';
-// eslint-disable-next-line import/no-cycle
 import canal5 from './taxonomy/canal5';
-// eslint-disable-next-line import/no-cycle
+import losbingers from './taxonomy/losbingers';
+import unicable from './taxonomy/unicable';
 import televisa from './taxonomy/televisa';
-// eslint-disable-next-line import/no-cycle
 import lcdlf from './taxonomy/lcdlf';
 import { types as matcherTypes } from './taxonomy/matchers/Matcher';
 
@@ -31,11 +30,17 @@ const televisaVerticals = {
   [CANAL5_SITE]: {
     ...canal5,
   },
+  [LOS_BINGERS_SITE]: {
+    ...losbingers,
+  },
   [LCDLF_SITE]: {
     ...lcdlf,
   },
   [TELEVISA_SITE]: {
     ...televisa,
+  },
+  [UNICABLE_SITE]: {
+    ...unicable,
   },
 };
 

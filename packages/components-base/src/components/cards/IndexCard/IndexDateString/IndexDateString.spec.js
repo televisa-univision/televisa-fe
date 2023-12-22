@@ -1,5 +1,10 @@
 import React from 'react';
 import { mount } from 'enzyme';
+import { ThemeProvider } from 'styled-components';
+
+import {
+  WHITE,
+} from '@univision/fe-utilities/styled/constants';
 
 import IndexDateString from '.';
 
@@ -82,5 +87,20 @@ describe('IndexDateString', () => {
     publishDate.setHours(publishDate.getHours() - 36);
     const wrapper = mount(<IndexDateString publishDate={publishDate.toISOString()} />);
     expect(wrapper.find('IndexDateString__Container')).toHaveLength(1);
+  });
+  it('should render dark mode and WHITE color title', () => {
+    const publishDate = new Date();
+    const wrapper = mount(
+      <ThemeProvider
+        theme={{ isDark: true, widgetTitleColor: null }}
+      >
+        <IndexDateString publishDate={publishDate.toISOString()} />
+      </ThemeProvider>
+    );
+
+    const title = wrapper.find('IndexDateString__Container').first();
+
+    expect(title.exists()).toBe(true);
+    expect(title).toHaveStyleRule('color', WHITE);
   });
 });

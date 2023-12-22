@@ -1,6 +1,6 @@
-import { BANDAMAX_SITE } from '../../../../../dist/constants/sites';
 import contentTypes from '../../../../constants/contentTypes.json';
 import { BANDAMAX } from '../../../../constants/pageCategories';
+import { BANDAMAX_SITE } from '../../../../constants/sites';
 import LOGOS from '../../../../constants/televisaSitesData';
 import genericNavData from '../genericNavData';
 

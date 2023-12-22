@@ -109,6 +109,7 @@ const ArticleContent = ({
 
   const infiniteScrolling = features.article.infiniteScrolling();
   const endOfArticle = !infiniteScrolling || (infiniteScrolling && isLastArticle);
+
   return (
     <div className="uvs-container">
       <ThemeStyle parentCssElement="article">

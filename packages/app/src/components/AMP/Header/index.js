@@ -11,7 +11,10 @@ import { DarkHeader, LightHeader, CustomHeader } from './Header.styles';
  * @constructor
  */
 const AmpHeader = ({
- pageCategory, pageData, siteName, theme,
+ pageCategory,
+ pageData,
+ siteName,
+ theme,
 }) => {
   const logo = getLogo(pageData, pageCategory, siteName);
   const {

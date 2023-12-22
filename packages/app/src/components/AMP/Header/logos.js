@@ -21,6 +21,7 @@ import lasestrellasLogo from '@univision/fe-commons/dist/assets/images/logo-las-
 import elnu9veLogo from '@univision/fe-commons/dist/assets/images/logo-elnu9ve-horizontal-solid.svg';
 import telehitLogo from '@univision/fe-commons/dist/assets/images/logo_telehit_horizontal_solid.svg';
 import distritocomediaLogo from '@univision/fe-commons/dist/assets/images/logo_distritocomedia_horizontal_solid.svg';
+import bandamaxLogo from '@univision/fe-commons/dist/assets/images/logo_bandamax-solid.svg';
 import losbingersLogo from '@univision/fe-commons/dist/assets/images/losbingers-logo-color.svg';
 import lcdlfLogo from '@univision/fe-commons/dist/assets/images/lcdlf-logo-horizontal_solid.png';
 
@@ -101,6 +102,12 @@ export const logos = {
     width: 144,
     height: 29,
   },
+  bandamax: {
+    src: bandamaxLogo,
+    variant: 'dark',
+    width: 128,
+    height: 26,
+  },
   losbingers: {
     src: losbingersLogo,
     variant: 'dark',
@@ -138,6 +145,7 @@ export default (pageData, pageCategory, siteName) => {
     [categories.ELNU9VE]: logos.elnu9ve,
     [categories.LOS_BINGERS]: logos.losbingers,
     [categories.LCDLF]: logos.lcdlf,
+    [categories.BANDAMAX]: logos.bandamax,
   };
 
   let returnValue = null;
@@ -149,6 +157,7 @@ export default (pageData, pageCategory, siteName) => {
         returnValue = logo;
         return true;
       }
+
       return false;
     });
 

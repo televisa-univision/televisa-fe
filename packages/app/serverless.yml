@@ -286,6 +286,22 @@ custom:
           alias: Live
         layers:
           - { Ref: StylesLambdaLayer }
+      lcdlf:
+        events:
+          - http:
+              path: lcdlf
+              method: get
+          - http:
+              path: lcdlf/
+              method: get
+          - http:
+              path: 'lcdlf/{proxy+}'
+              method: get
+        deploymentSettings:
+          type: Linear10PercentEvery1Minute
+          alias: Live
+        layers:
+          - { Ref: StylesLambdaLayer }
   datadog:
     flushMetricsToLogs: true
     # This two flags in false allows to send trace through x-ray integration instead of using the forwarder

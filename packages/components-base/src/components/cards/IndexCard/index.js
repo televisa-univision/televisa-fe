@@ -86,7 +86,7 @@ const IndexCard = (props) => {
           <Title className="uvs-font-b-bold">{title}</Title>
         </StyledTitleLink>
         <IndexAuthor {...props} />
-        <Description>
+        <Description isDarkTheme={isDark}>
           {stripHtmlTags(description)}
         </Description>
         {hideImage && <IndexMeta {...props} />}

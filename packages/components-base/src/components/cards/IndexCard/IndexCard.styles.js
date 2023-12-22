@@ -59,8 +59,8 @@ export default {
       text-align: right;
     `}
   `,
-  description: css`
-    color: ${DARKER_GREY};
+  description: ({ theme, isDarkTheme }) => css`
+    color: ${!isDarkTheme ? DARKER_GREY : getTitleColor({ theme, isDark: true })};
     font-size: ${rem(14)};
     line-height: ${rem(18)};
     margin-bottom: 8px;

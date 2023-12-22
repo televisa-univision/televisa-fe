@@ -18,10 +18,15 @@ import canal5ThemeShowsConfig from './canal5/shows';
 
 // Televisa
 import televisa from './televisa';
+
 // unicable
 import { unicableThemeConfig } from './unicable';
+import unicableShowsThemeConfig from './unicable/shows';
+
 // losbingers
 import losbingers from './losbingers';
+import showLosbingers from './losbingers/shows';
+
 // Bandamax
 import { bandamaxThemeConfig } from './bandamax';
 
@@ -38,6 +43,7 @@ export default {
 
   // Unicable
   [pageCategories.UNICABLE]: unicableThemeConfig,
+  [pageCategories.UNICABLE_SHOWS]: unicableShowsThemeConfig,
 
   // Las Estrellas
   [pageCategories.LAS_ESTRELLAS]: lasestrellas,
@@ -58,6 +64,7 @@ export default {
   [pageCategories.TELEHIT]: telehit,
   // Los Bingers
   [pageCategories.LOS_BINGERS]: losbingers,
+  [pageCategories.LOS_BINGERS_SHOW]: showLosbingers,
   // Bandamax
   [pageCategories.BANDAMAX]: bandamaxThemeConfig,
   [pageCategories.BANDAMAX_BANDANEWS]: bandamaxThemeConfig,

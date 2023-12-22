@@ -13,8 +13,11 @@ import {
 import { shouldSkipSpa } from '@univision/fe-commons/dist/utils/helpers/spa';
 import Tracker from '@univision/fe-commons/dist/utils/tracking/tealium/Tracker';
 import { asDeferrer } from '@univision/fe-commons/dist/utils/deferrer';
+import { TELEVISA_SITES } from '@univision/fe-commons/dist/constants/sites';
 import config from '@univision/fe-commons/dist/config';
 import features from '@univision/fe-commons/dist/config/features';
+import { isTelevisaSiteSelector } from '@univision/fe-commons/dist/store/selectors/page-selectors';
+
 import WidgetTitle from '../WidgetTitle';
 import Carousel from '../../Carousel';
 import Item from './Item';
@@ -44,6 +47,9 @@ class IconPromoCarousel extends Component {
    */
   constructor(props) {
     super(props);
+    const state = Store.getState();
+
+    this.isTelevisaSite = isTelevisaSiteSelector(state);
     this.wrapper = React.createRef();
     this.detectDimensions = this.detectDimensions.bind(this);
     this.onPressHandler = this.onPressHandler.bind(this);
@@ -85,29 +91,38 @@ class IconPromoCarousel extends Component {
     let itemIndex = null;
     let itemType = null;
     const { content } = this.props;
+    const pageData = getPageData(Store) || {};
+    const { site, pageCategory } = pageData;
+    let utagData;
     if (typeof window !== 'undefined' && uri) {
-      content.forEach((item, indexItem) => {
-        if (item.uri === uri) {
-          const { uid, type } = item;
-          itemIndex = indexItem;
-          itemUid = uid;
-          itemType = type;
-        }
-      });
-      const pageData = getPageData(Store) || {};
-      const { pageCategory } = pageData;
       const label = slugify(title);
-      const utagData = {
-        event: 'content_click',
-        card_id: itemUid,
-        card_title: label,
-        card_type: 'Icon promo',
-        widget_type: 'Icon Promo Widget',
-        widget_pos: itemIndex,
-        widget_title: `icon_promo_carousel_${pageCategory}`,
-        destination_url: uri,
-        content_type: itemType,
-      };
+      if (TELEVISA_SITES.includes(site)) {
+        content.forEach((item, indexItem) => {
+          if (item.uri === uri) {
+            const { uid, type } = item;
+            itemIndex = indexItem;
+            itemUid = uid;
+            itemType = type;
+          }
+        });
+        utagData = {
+          event: 'content_click',
+          card_id: itemUid,
+          card_title: label,
+          card_type: 'Icon promo',
+          widget_type: 'Icon Promo Widget',
+          widget_pos: itemIndex,
+          widget_title: `icon_promo_carousel_${pageCategory}`,
+          destination_url: uri,
+          content_type: itemType,
+        };
+      } else {
+      utagData = {
+        event: 'engagement_widget',
+        event_action: `icon_promo_carousel_${pageCategory}`,
+        event_label: label,
+        };
+      }
       const path = toRelativeUrl(uri);
       Tracker.fireEvent(utagData);
       if (history && !shouldSkipSpa({ url: uri })) {
@@ -200,6 +215,7 @@ class IconPromoCarousel extends Component {
         theme={theme}
         title={item.title}
         variant={theme.isDark ? 'dark' : 'light'}
+        isTelevisaSite={this.isTelevisaSite}
       />
     );
   }

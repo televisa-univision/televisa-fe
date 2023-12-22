@@ -79,7 +79,7 @@ describe('SquareVideoInline', () => {
     expect(wrapper.find('SquareVideoInline__LinkStyled')).toHaveLength(1);
     expect(wrapper.find('SquareVideoInline__VideoWrapper').prop('size')).toBe(SMALL);
     expect(wrapper.find('SquareVideoInline__VideoInlineCardTitle')).toHaveStyleRule('top', '69%');
-    expect(wrapper.find('SquareVideoInline__VideoInlineCardTitle')).toHaveStyleRule('color', '#000000');
+    expect(wrapper.find('SquareVideoInline__VideoInlineCardTitle')).toHaveStyleRule('color', '#000000!important');
   });
   it('should update video title and link', () => {
     const wrapper = mount(
@@ -99,7 +99,7 @@ describe('SquareVideoInline', () => {
 
     expect(wrapper.find('Link').last().props().href).toEqual('https://test');
     expect(wrapper.find('Link').last().props().children).toEqual('Video 2');
-    expect(wrapper.find('SquareVideoInline__VideoInlineCardTitle')).toHaveStyleRule('color', '#ffffff');
+    expect(wrapper.find('SquareVideoInline__VideoInlineCardTitle')).toHaveStyleRule('color', '#ffffff!important');
   });
 
   it('should have isWorldCupMVP', () => {

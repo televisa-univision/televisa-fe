@@ -42,6 +42,7 @@ export const LINK_HOVER_EFFECT = 'linear-gradient(180deg, rgba(0, 0, 0, 0.2751) 
 export const GRADIENT_UNICABLE = '#FFD230';
 export const SOLID_COLOR_UNICABLE = '#EBC230';
 export const YELLOW_DARK = '#8A6C00';
+export const TOMATO_RED = '#E02D00';
 
 export const TOP_TO_BOTTOM_WHITE_CONCRETE = `
   linear-gradient(

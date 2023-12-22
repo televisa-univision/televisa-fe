@@ -219,22 +219,26 @@ const ListCard = (props) => {
               <LabelLink href={labelProps?.href} theme={labelTheme}>
                 {
                   (isWorldCupMVP && ctIsValid && device === 'mobile') ? (
-                    <LabelMVP
-                      {...labelProps}
-                      isListItem
-                      isVerticalLayout={isVerticalLayout}
-                      theme={labelTheme}
-                      device={device}
-                    />
-                  )
-                    : (
-                      <LabelCustom
+                    <div>
+                      <LabelMVP
                         {...labelProps}
                         isListItem
                         isVerticalLayout={isVerticalLayout}
                         theme={labelTheme}
-                        isWorldCupMVP={isWorldCupMVP}
+                        device={device}
                       />
+                    </div>
+                  )
+                    : (
+                      <div>
+                        <LabelCustom
+                          {...labelProps}
+                          isListItem
+                          isVerticalLayout={isVerticalLayout}
+                          theme={labelTheme}
+                          isWorldCupMVP={isWorldCupMVP}
+                        />
+                      </div>
                     )
                 }
               </LabelLink>

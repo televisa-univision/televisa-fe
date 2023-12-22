@@ -31,12 +31,13 @@ export default {
       max-width: 130px;
     `}
   `,
-  promoImage: ({ isBigSize, isDark }) => css`
+  promoImage: ({ isBigSize, isDark, isTelevisaSite }) => css`
     background: ${WHITE};
     border: 1px solid ${WHITE_GREY};
     border-radius: 50%;
     display: flex;
     height: 64px;
+    margin: 0 auto;
     margin-bottom: 8px;
     overflow: hidden;
     position: relative;
@@ -54,6 +55,12 @@ export default {
       margin: auto;
       width: 100%;
     }
+
+    ${isTelevisaSite && css`
+      img {
+        width: 250px;
+      }
+    `}
 
     ${isBigSize && css`
       height: 130px;

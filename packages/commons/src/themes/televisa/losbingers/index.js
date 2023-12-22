@@ -1,11 +1,14 @@
 import {
-  BLACK,
   BLACK_STARTS,
   TRANSPARENT,
   WATER_SPORTS,
   MINE_SHAFT_BLACK,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
+
+import {
+  TOMATO_RED,
+} from '../../../utils/styled/constants';
 
 const losBingersThemeConfig = {
   // Global Nav Configuration
@@ -65,9 +68,10 @@ const losBingersThemeConfig = {
   primary: WATER_SPORTS,
   secondary: BLACK_STARTS,
   custom: {
-    'a:hoover': BLACK_STARTS,
-    a: BLACK_STARTS,
-    b: WATER_SPORTS,
+    'a:hover': TOMATO_RED,
+    a: TOMATO_RED,
+    'b:hover': TOMATO_RED,
+    b: TOMATO_RED,
   },
   // Article configuration
   titleFontSize: {
@@ -83,10 +87,9 @@ const losBingersThemeConfig = {
     xl: '33px',
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
-  categoryColor: WATER_SPORTS,
-  widgetTitleColor: WATER_SPORTS,
-  widgetLinkTitleColor: BLACK,
-  liveblogPostsTheme: WATER_SPORTS,
+  categoryColor: TOMATO_RED,
+  widgetTitleColor: TOMATO_RED,
+  liveblogPostsTheme: TOMATO_RED,
   mainIconIsDark: true,
   // AMP
   ampHeaderBackgroundColor: BLACK_STARTS,

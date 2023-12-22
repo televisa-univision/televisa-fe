@@ -49,8 +49,6 @@ export const bandamaxThemeConfig = () => ({
   isBrandedHeaderBlack: false,
   brandedHeaderBackgroundColor: BLACK,
   brandedHeaderColor: TRANSPARENT,
-  primary: TRANSPARENT,
-  secondary: TRANSPARENT,
   custom: {
     'a:hover': SOLID_BRAVE_RED,
     a: SOLID_BRAVE_RED,
@@ -72,11 +70,15 @@ export const bandamaxThemeConfig = () => ({
   widgetTitleColor: SOLID_BRAVE_RED,
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: SOLID_BRAVE_RED,
+  slideshowTitleTheme: SOLID_BRAVE_RED,
   listCardWidgetButtonBackgroundColor: SOLID_BRAVE_RED,
   listCardWidgetButtonBackgroundHoverColor: SOLID_BRAVE_RED,
   // AMP
   ampHeaderBackgroundColor: SOLID_BRAVE_RED,
   ampShareLinkBackgroundColor: SOLID_BRAVE_RED,
+  // undefined values are used to inherit from the default theme
+  primary: undefined,
+  secondary: undefined,
 });
 
 export default bandamaxThemeConfig;

@@ -38,6 +38,13 @@ describe('Item Spec', () => {
     expect(wrapper.find('Item__Promo')).toHaveStyleRule('max-width', '130px');
   });
 
+  it('should return item for Televisa sites', () => {
+    const wrapper = shallow(<Item {...props} isTelevisaSite />);
+    expect(wrapper.find('Item__PromoImage')).toHaveStyleRule('width', '250px', {
+      modifier: 'img',
+    });
+  });
+
   it('should call onPressHandler when the button is clicked', () => {
     const onPressHandler = jest.fn();
     const wrapper = mount(<Item {...props} onPressHandler={onPressHandler} />);

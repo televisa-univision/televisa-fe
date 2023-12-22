@@ -85,6 +85,10 @@ export default {
     `};
 
     ${isTelevisaSite && css`
+      @media (min-width: 1280px) {
+        display: flex;
+        flex-wrap: nowrap;
+      }
       @media (max-width: 820px) {
         height: auto;
         justify-content: space-between;
@@ -133,6 +137,12 @@ export default {
       `};
     `};
 
+    ${isTelevisaSite && css`
+      @media (min-width: 1280px) {
+        display: contents !important;
+      }
+    `}
+
     @media (max-width: 820px) {
       ${isTelevisaParentSite && css`
         & img {
@@ -180,6 +190,9 @@ export default {
     `};
 
     ${isTelevisaSite && css`
+      @media (min-width: 1280px) {
+        min-width: 251px;
+      }
       & img {
         height: 32px;
 

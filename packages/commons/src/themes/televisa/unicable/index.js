@@ -9,7 +9,6 @@ import {
     GRADIENT_UNICABLE,
     SOLID_COLOR_UNICABLE,
     YELLOW_DARK,
-    WHITE,
   } from '../../../utils/styled/constants';
   import LOGOS from '../../../constants/televisaSitesData';
 
@@ -64,9 +63,9 @@ import {
     showVixLogo: false,
     mainIconIsDark: true,
     primary: TRANSPARENT,
-    secondary: TRANSPARENT,
+    secondary: YELLOW_DARK,
     custom: {
-      'a:hover': WHITE,
+      'a:hover': YELLOW_DARK,
       a: YELLOW_DARK,
       b: YELLOW_DARK,
     },

@@ -40,36 +40,37 @@ const Item = ({
   uid,
   uri,
   variant,
+  isTelevisaSite,
 }) => {
   if (image) {
     const img = getKey(
       image,
       'renditions["1x1-mobile"].href',
-      getKey(image, 'renditions.original.href', defaultImage),
+      getKey(image, 'renditions.original.href', defaultImage)
     );
     const isDark = variant === 'dark';
     const borderStyle = isDark ? {} : { borderColor: theme && theme.primary };
 
     return (
-      <Wrapper
-        key={uid}
-        style={style}
-        className={className}
-      >
+      <Wrapper key={uid} style={style} className={className}>
         <Promo
+          isBigSize={bigSize}
           onClick={() => onPressHandler(uri, title)}
           role="button"
           tabIndex={0}
-          isBigSize={bigSize}
         >
-          <PromoImage isBigSize={bigSize} isDark={isDark}>
+          <PromoImage
+            isBigSize={bigSize}
+            isDark={isDark}
+            isTelevisaSite={isTelevisaSite}
+          >
             <PromoBorder isDark={isDark} style={borderStyle} />
             <Image src={img} alt={title} />
           </PromoImage>
           <PromoTitle
-            isDark={isDark}
-            isBigSize={bigSize}
             className="uvs-font-a-regular"
+            isBigSize={bigSize}
+            isDark={isDark}
           >
             {title}
           </PromoTitle>
@@ -104,6 +105,7 @@ Item.propTypes = {
   uid: PropTypes.string,
   uri: PropTypes.string,
   variant: PropTypes.string,
+  isTelevisaSite: PropTypes.bool,
 };
 
 Item.defaultProps = {

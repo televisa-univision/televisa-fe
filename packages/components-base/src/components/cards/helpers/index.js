@@ -418,10 +418,10 @@ export const getSquareCardHeaderStyles = (size, options = {}) => {
   } = options;
 
   return css`
-    color: ${color};
+    color: ${color}!important;
 
     a {
-      color: ${color};
+      color: ${color}!important;
       ${getCardHoverState(hoverColor)}
     }
 

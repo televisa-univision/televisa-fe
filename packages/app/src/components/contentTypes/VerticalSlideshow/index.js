@@ -323,10 +323,10 @@ class VerticalSlideshowPage extends Component {
                 {tagLabel && !features.shows.hideTagLabel() && (
                   <TagLabel
                     className={this.isTelevisaSite
-                      ? LegacyStyles.primaryTagTelevisa : LegacyStyles.primaryTag}
+                        ? LegacyStyles.primaryTagTelevisa : LegacyStyles.primaryTag}
                     style={{
-                      color: pageData.theme?.slideshowTitleTheme || pageData.theme?.primary,
-                    }}
+                        color: pageData.theme?.slideshowTitleTheme || pageData.theme?.primary,
+                      }}
                     tag={tagLabel}
                   />
                 )}

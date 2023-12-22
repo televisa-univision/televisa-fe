@@ -19,8 +19,14 @@ jest.useFakeTimers();
 features.content.hasEnhancement = jest.fn(() => false);
 /** @test {IconPromoCarousel} */
 describe('IconPromoCarousel Spec', () => {
+  let pageDataMock;
   beforeEach(() => {
     jest.clearAllTimers();
+    pageDataMock = {
+      site: 'lasestrellas',
+      pageCategory: 'category1',
+    };
+    storeHelpers.getPageData(pageDataMock);
   });
 
   it('should render without crashing', () => {
@@ -143,10 +149,39 @@ describe('IconPromoCarousel Spec', () => {
     });
 
     instance.onPressHandler('https://www.univision.com/entretenimiento/aries', 'label');
+    spyOn(storeHelpers, 'getPageData').and.returnValue(pageDataMock);
     jest.runAllTimers();
     expect(fireEventSpy).toHaveBeenCalled();
     instance.onPressHandler('https://www.univision.com/entretenimiento/aries');
+    wrapper = shallow(<IconPromoCarousel {...props} />);
+    iconPromoCarousel = shallow(wrapper.prop('children')());
+    instance = iconPromoCarousel.instance();
+    instance.item = { offsetTop: 0 };
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries', 'label');
+
+    windowSpy.mockRestore();
+  });
+
+  it('should fire the track event on when onPressHandler is called and pagedataMock is null', () => {
+    const fireEventSpy = jest.spyOn(Tracker, 'fireEvent');
+    let wrapper = shallow(<IconPromoCarousel {...props} />);
+    jest.runAllTimers();
+    let iconPromoCarousel = shallow(wrapper.prop('children')());
+    let instance = iconPromoCarousel.instance();
+
+    // create a spy on the window
+    const windowSpy = jest.spyOn(global, 'window', 'get');
+    windowSpy.mockReturnValue({
+      ...global.window,
+      location: { href: '#' },
+    });
+
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries', 'label');
     spyOn(storeHelpers, 'getPageData').and.returnValue(null);
+    jest.runAllTimers();
+    expect(fireEventSpy).toHaveBeenCalled();
+    instance.onPressHandler('https://www.univision.com/entretenimiento/aries');
+    // spyOn(storeHelpers, 'getPageData').and.returnValue(null);
     wrapper = shallow(<IconPromoCarousel {...props} />);
     iconPromoCarousel = shallow(wrapper.prop('children')());
     instance = iconPromoCarousel.instance();

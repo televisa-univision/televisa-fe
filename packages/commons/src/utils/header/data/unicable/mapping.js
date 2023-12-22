@@ -8,4 +8,5 @@ export default {
   [pageCategories.UNICABLE_CELEBS]: index,
   [pageCategories.UNICABLE_LIFESTYLE]: index,
   [pageCategories.UNICABLE_FELIZMENTE]: index,
+  [pageCategories.UNICABLE_SHOWS]: index,
 };

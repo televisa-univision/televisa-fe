@@ -61,6 +61,13 @@ export default {
     `}
 
     ${isTelevisaSite && css`
+      @media (min-width: 1280px) {
+        align-items: initial;
+        display: flex;
+        justify-content: left;
+        margin: initial;
+        padding: 0;
+      }
       @media (max-width: 820px) {
         gap: 12px 24px;
       }
@@ -173,6 +180,12 @@ export default {
     ${uppercase && css`
       letter-spacing: ${rem(0.5)};
       text-transform: uppercase;
+    `}
+
+    ${isTelevisaSite && css`
+      @media (min-width: 1280px) {
+        justify-content: left;
+      }
     `}
   `,
 };
