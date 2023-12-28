@@ -3,6 +3,8 @@ import {
   BLACK_STARTS,
   TRANSPARENT,
   MAGENTA_RGB,
+  TELEHIT_BLUE,
+  TELEHIT_BLACK,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
@@ -28,9 +30,9 @@ export default () => ({
       default: 'uvs-font-b-bold',
     },
   },
-  footerLogo: LOGOS.telehit,
+  footerLogo: LOGOS.televisa,
   footerLogoHeight: '54px',
-  globalNavBackgroundColor: '#AA32D1',
+  globalNavBackgroundColor: TELEHIT_BLACK,
   globalNavLogoBackground: TRANSPARENT,
   globalNavLink: BLACK,
   navProviderBackgroundColor: BLACK_STARTS,
@@ -38,18 +40,18 @@ export default () => ({
     default: 'uvs-font-a-bold',
   },
   gradient: {
-    start: '#AA32D1',
-    end: '#AA32D1',
+    start: BLACK_STARTS,
+    end: BLACK_STARTS,
   },
   isBrandedHeaderBlack: false,
-  brandedHeaderBackgroundColor: '#B832E0',
+  brandedHeaderBackgroundColor: BLACK_STARTS,
   brandedHeaderColor: TRANSPARENT,
-  primary: '#B832E0',
+  primary: BLACK_STARTS,
   secondary: BLACK,
   custom: {
-    'a:hoover': MAGENTA_RGB,
-    a: MAGENTA_RGB,
-    b: MAGENTA_RGB,
+    'a:hoover': TELEHIT_BLUE,
+    a: TELEHIT_BLUE,
+    b: TELEHIT_BLUE,
   },
   titleFontSize: {
     sm: '24px',
@@ -64,10 +66,10 @@ export default () => ({
     xl: '33px',
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
-  categoryColor: MAGENTA_RGB,
-  widgetTitleColor: MAGENTA_RGB,
+  categoryColor: BLACK_STARTS,
+  widgetTitleColor: BLACK_STARTS,
   widgetLinkTitleColor: BLACK,
-  liveblogPostsTheme: MAGENTA_RGB,
-  listCardWidgetButtonBackgroundColor: MAGENTA_RGB,
-  listCardWidgetButtonBackgroundHoverColor: MAGENTA_RGB,
+  liveblogPostsTheme: BLACK_STARTS,
+  listCardWidgetButtonBackgroundColor: BLACK_STARTS,
+  listCardWidgetButtonBackgroundHoverColor: BLACK_STARTS,
 });

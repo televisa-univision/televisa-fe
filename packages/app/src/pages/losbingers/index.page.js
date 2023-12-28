@@ -18,7 +18,7 @@ import favicon from '../../assets/losbingers/favicon.ico';
 import Scripts from '../../components/base/Scripts';
 
 /**
- * Las Estrellas page
+ * Los Bingers page
  * @param {Object} props React Props for this component
  * @param {Object} props.pageData - page object from WebApi
  * @param {Object} props.pageData.data - page data from content API

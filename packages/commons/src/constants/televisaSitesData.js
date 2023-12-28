@@ -8,7 +8,7 @@ const LOGOS = Object.freeze({
   canal5PurpleBg: 'https://st1.uvnimg.com/d8/5f/46bbef3341cdaf42ef4f3b1ccac6/safari-pinned-tab.svg',
   televisa: 'https://st1.uvnimg.com/e4/9a/5179580043c2b3fe6183579b7b01/televisa-horizontal-color.svg',
   unicable: 'https://st1.uvnimg.com/fb/74/f88f871c44dea56d93eb6d8196c4/unicable-horizontal-color-1.svg',
-  telehit: 'https://st1.uvnimg.com/dd/2b/cc0af15b4bba992fbd63fcb85fd7/img-0680.png',
+  telehit: 'https://st1.uvnimg.com/3c/d5/f2f8f25046ce85b8057d0324e65a/telehit.svg',
   losbingers: 'https://st1.uvnimg.com/ad/04/79fd7b964dd985ca957836b45ed4/bingers-color.svg',
   bandamax: 'https://st1.uvnimg.com/15/88/f70de9d14a6e8af3e6e4beb28315/bandamax-solid.svg',
   lcdlf: 'https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png',

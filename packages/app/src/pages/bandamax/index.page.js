@@ -14,7 +14,7 @@ import setupPage from '../../utils/page/setupPage';
 import withRedux from '../../components/hocs/withRedux';
 import withRouter from '../../components/hocs/withRouter';
 import ContentTypeWrapper from '../../components/base/ContentTypeWrapper';
-import favicon from '../../assets/canal5/favicon.ico';
+import favicon from '../../assets/bandamax/favicon.ico';
 import Scripts from '../../components/base/Scripts';
 
 /**

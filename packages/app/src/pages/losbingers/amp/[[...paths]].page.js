@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Provider } from 'react-redux';
 import Head from 'next/head';
 
-import { LAS_ESTRELLAS_SITE } from '@univision/fe-commons/dist/constants/sites';
+import { LOS_BINGERS_SITE } from '@univision/fe-commons/dist/constants/sites';
 import configureStore from '@univision/fe-commons/dist/store/configureStore'; // eslint-disable-line
 import seoTags from '@univision/fe-commons/dist/utils/seo/seoTags';
 
@@ -57,7 +57,7 @@ Amp.propTypes = {
 };
 
 Amp.getInitialProps = async (context) => {
-  return setupAmpPage(context, LAS_ESTRELLAS_SITE);
+  return setupAmpPage(context, LOS_BINGERS_SITE);
 };
 
 export default withRedux(configureStore)(Amp);

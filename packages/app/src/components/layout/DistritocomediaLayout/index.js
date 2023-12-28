@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import ThemeProvider from '@univision/fe-commons/dist/components/ThemeProvider/ThemeProviderConnector';
-import ShowHeader from '@univision/fe-components-base/dist/components/Header/Shows/ShowHeader';
 import Navigation from '@univision/fe-components-base/dist/components/Navigation';
 import Footer from '@univision/fe-components-base/dist/components/Footer/FooterLazyWrapper';
 import StickyCTA from '@univision/fe-components-base/dist/components/StickyCTA';

@@ -85,6 +85,9 @@ function DevPage() {
           <LinkStyled href="/bandamax" target="_blank" color={TROPICAL_RAIN_FOREST}>
             Bandamax site
           </LinkStyled>
+          <LinkStyled href="/lcdlf" target="_blank" color={TROPICAL_RAIN_FOREST}>
+            Lcdlf site
+          </LinkStyled>
           {/* auto-domain-link-end */}
         </ButtonsStyled>
       </ContainerStyled>

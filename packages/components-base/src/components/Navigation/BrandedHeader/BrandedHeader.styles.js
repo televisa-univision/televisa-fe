@@ -139,7 +139,8 @@ export default {
 
     ${isTelevisaSite && css`
       @media (min-width: 1280px) {
-        display: contents !important;
+        justify-content: left;
+        padding: 0;
       }
     `}
 

@@ -73,6 +73,7 @@ export const BLACK_70 = `rgba(${BLACK_RGB}, 0.7)`;
 export const BLACK_85 = `rgba(${BLACK_RGB}, 0.85)`;
 export const BLACK_80 = `rgba(${BLACK_RGB}, 0.8)`;
 export const BLACK_BEAN = '#020D02';
+export const TELEHIT_BLACK = '#151517';
 export const BLACK_GREY = '#181818';
 export const BLACK_GREY_RGB = '24,24,24';
 export const BLACK_GREY_00 = `rgba(${BLACK_GREY_RGB}, 0)`;
@@ -444,3 +445,5 @@ export const WATER_SPORTS = '#E2FFFF';
 
 // LCDLF
 export const BALL_BLUE = '#16162A';
+
+export const TELEHIT_BLUE = '#096CFB';

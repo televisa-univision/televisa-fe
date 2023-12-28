@@ -489,7 +489,7 @@ async function setupPage(ctx, siteName) {
   }
   // Override site and create childSite for Televisa sites
   if (TELEVISA_SITES.includes(siteName)) {
-    pageData.pageCategory = siteName;
+    // pageData.pageCategory = siteName;
     pageData.parentSite = TELEVISA_SITE;
   }
   let tagValue = pageData?.data.adSettings?.adTagValue;

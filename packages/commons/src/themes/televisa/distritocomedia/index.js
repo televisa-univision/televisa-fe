@@ -31,7 +31,7 @@ const DistritoComediaThemeConfig = () => ({
       default: 'uvs-font-b-bold',
     },
   },
-  footerLogo: LOGOS.distritocomedia,
+  footerLogo: LOGOS.televisa,
   footerLogoHeight: '54px',
   globalNavBackgroundColor: '#AA32D1',
   globalNavLogoBackground: TRANSPARENT,
