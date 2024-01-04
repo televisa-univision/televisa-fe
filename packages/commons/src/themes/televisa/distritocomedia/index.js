@@ -69,7 +69,7 @@ const DistritoComediaThemeConfig = () => ({
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: '#662EE4',
-  widgetTitleColor: '#662EE4',
+  widgetTitleColor: BLACK,
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: '#662EE4',
   listCardWidgetButtonBackgroundColor: '#662EE4',

@@ -2,8 +2,7 @@ import {
   GLOBAL_GRADIENT,
   BALL_BLUE,
   WHITE,
-  MERMAID_NET,
-  TRANSPARENT,
+  BLACK,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
@@ -80,7 +79,7 @@ const LCDLFThemeConfig = {
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: BALL_BLUE,
-  widgetTitleColor: BALL_BLUE,
+  widgetTitleColor: BLACK,
   liveblogPostsTheme: BALL_BLUE,
   mainIconIsDark: false,
   // AMP

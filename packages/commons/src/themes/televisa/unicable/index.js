@@ -84,7 +84,7 @@ import {
     tagLabelColor: YELLOW_DARK,
     descriptionFontSize: 'regular',
     categoryColor: YELLOW_DARK,
-    widgetTitleColor: YELLOW_DARK,
+    widgetTitleColor: BLACK,
     widgetLinkTitleColor: BLACK,
     liveblogPostsTheme: YELLOW_DARK,
     listCardWidgetButtonBackgroundColor: YELLOW_DARK,

@@ -5,6 +5,7 @@ import {
   TRANSPARENT,
   MAGENTA_RGB,
   SOLID_BRAVE_RED,
+  WHITE,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
@@ -68,7 +69,7 @@ export default () => ({
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: SOLID_BRAVE_RED,
-  widgetTitleColor: SOLID_BRAVE_RED,
+  widgetTitleColor: WHITE,
   widgetLinkTitleColor: BLACK,
   listCardWidgetButtonBackgroundColor: SOLID_BRAVE_RED,
   listCardWidgetButtonBackgroundHoverColor: SOLID_BRAVE_RED,

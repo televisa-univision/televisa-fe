@@ -83,7 +83,7 @@ const eln9veThemeConfig = {
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: MERMAID_NET,
-  widgetTitleColor: MERMAID_NET,
+  widgetTitleColor: BLACK,
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: MERMAID_NET,
   mainIconIsDark: true,

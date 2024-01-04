@@ -55,7 +55,7 @@ const canal5ThemeConfig = () => ({
   brandedHeaderColor: TRANSPARENT,
   primary: TRANSPARENT,
   secondary: TRANSPARENT,
-  widgetTitleColor: PRIMARY_PURPLE,
+  widgetTitleColor: BLACK,
   widgetLinkTitleColor: BLACK,
   custom: {
     'a:hover': PRIMARY_PURPLE,

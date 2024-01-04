@@ -3,6 +3,7 @@ import {
   BLACK_STARTS,
   PRIMARY_PURPLE,
   BLACK,
+  WHITE,
 } from '@univision/fe-utilities/styled/constants';
 import {
   HEADER_GRADIENT,
@@ -78,8 +79,8 @@ const canal5ThemeShowsConfig = data => ({
   brandedHeaderColor: TRANSPARENT,
   primary: TRANSPARENT,
   secondary: TRANSPARENT,
-  widgetTitleColor: PRIMARY_PURPLE,
-  widgetLinkTitleColor: BLACK,
+  widgetTitleColor: WHITE,
+  widgetLinkTitleColor: WHITE,
   custom: {
     'a:hover': PRIMARY_PURPLE,
     a: PRIMARY_PURPLE,
@@ -100,8 +101,8 @@ const canal5ThemeShowsConfig = data => ({
   },
   showCategoryTag: true,
   descriptionFontSize: 'regular',
-  categoryColor: PRIMARY_PURPLE,
-  tagLabelColor: PRIMARY_PURPLE,
+  categoryColor: WHITE,
+  tagLabelColor: WHITE,
   liveblogPostsTheme: PRIMARY_PURPLE,
   hideNavBottom: getShowThemeByContentType(data),
   globalNavLogoBackground: TRANSPARENT,

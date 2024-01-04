@@ -67,7 +67,7 @@ export default () => ({
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: BLACK_STARTS,
-  widgetTitleColor: BLACK_STARTS,
+  widgetTitleColor: BLACK,
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: BLACK_STARTS,
   listCardWidgetButtonBackgroundColor: BLACK_STARTS,

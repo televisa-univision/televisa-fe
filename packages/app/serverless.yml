@@ -141,6 +141,22 @@ custom:
           parameters:
             paths:
               slug: true
+      - src: lcdlf/amp
+        path: lcdlf/amp
+      - src: lcdlf/amp
+        path: lcdlf/amp/{slug+}
+        request:
+          parameters:
+            paths:
+              slug: true
+      - src: losbingers/amp
+        path: losbingers/amp
+      - src: losbingers/amp
+        path: losbingers/amp/{slug+}
+        request:
+          parameters:
+            paths:
+              slug: true
     pageConfig:
       lasestrellas:
         events:

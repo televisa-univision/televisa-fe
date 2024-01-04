@@ -1002,10 +1002,24 @@ class VideoComponent extends React.Component {
   }
 
   /**
+   * Change playlist data to use the replacement video data
+   */
+  processReplacementClip() {
+    const { playlist = [] } = this.props;
+    playlist.forEach((video, index) => {
+      if (video?.replacementClip?.mcpid) {
+        playlist[index].mcpid = video?.replacementClip.mcpid;
+        playlist[index].identifier = video?.replacementClip.mcpid;
+      }
+    });
+  }
+
+  /**
    * format options to pass to the fmg service
    * @param {Object} extraOptions options to pass to the fmg service
    */
   callFmgServices(extraOptions) {
+    this.processReplacementClip();
     const options = this.fmgOptions(extraOptions);
     const { fmgCall, mcpid: mcpId, sharing } = this.props;
     if (fmgCall && typeof hasKey(global.window.FMG, fmgCall.name)) {

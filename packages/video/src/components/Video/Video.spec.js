@@ -727,6 +727,16 @@ describe('Video widget tests', () => {
     expect(wrapper.instance().props.fmgCall.custom).toBeCalled();
   });
 
+  it('should call the proper SDK function with replacement Clip mcpid', () => {
+    const newProps = { ...props, playlist: [{ replacementClip: { mcpid: 931 } }] };
+    const wrapper = shallow(<VideoComponent {...newProps} fmgCall={{ name: 'playlist' }} />);
+    wrapper.setProps({ multitab: true, mcpid: [123, 321] });
+    wrapper.instance().initPlayer();
+    expect(global.window.FMG.callFn).toBeCalledWith('playlist', expect.objectContaining({
+      autoplay: 'viewable',
+    }));
+  });
+
   it('should call the proper SDK function without arguments', () => {
     const wrapper = shallow(<VideoComponent {...props} fmgCall={{ name: 'playLivestream' }} />);
     wrapper.setProps({ multitab: true, mcpid: [123, 321] });

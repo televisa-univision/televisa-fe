@@ -3,6 +3,7 @@ import {
   BLACK_STARTS,
   TRANSPARENT,
   MAGENTA_RGB,
+  WHITE,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
@@ -66,7 +67,7 @@ export default () => ({
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: MAGENTA_RGB,
-  widgetTitleColor: MAGENTA_RGB,
+  widgetTitleColor: WHITE,
   widgetLinkTitleColor: BLACK,
   listCardWidgetButtonBackgroundColor: MAGENTA_RGB,
   listCardWidgetButtonBackgroundHoverColor: MAGENTA_RGB,

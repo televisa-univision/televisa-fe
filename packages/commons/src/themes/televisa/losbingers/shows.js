@@ -4,6 +4,7 @@ import {
   TRANSPARENT,
   WATER_SPORTS,
   MINE_SHAFT_BLACK,
+  WHITE,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
@@ -113,7 +114,7 @@ const losBingersThemeConfig = data => ({
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: TOMATO_RED,
-  widgetTitleColor: TOMATO_RED,
+  widgetTitleColor: WHITE,
   liveblogPostsTheme: TOMATO_RED,
   mainIconIsDark: true,
 });

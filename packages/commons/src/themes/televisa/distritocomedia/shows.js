@@ -3,6 +3,7 @@ import {
   BLACK_STARTS,
   PRIMARY_PURPLE,
   GLOBAL_GRADIENT,
+  WHITE,
 } from '@univision/fe-utilities/styled/constants';
 import {
   HEADER_GRADIENT,
@@ -75,7 +76,7 @@ const canal5ThemeShowsConfig = data => ({
   brandedHeaderColor: TRANSPARENT,
   primary: TRANSPARENT,
   secondary: TRANSPARENT,
-  widgetTitleColor: PRIMARY_PURPLE,
+  widgetTitleColor: WHITE,
   custom: {
     'a:hover': PRIMARY_PURPLE,
     a: PRIMARY_PURPLE,

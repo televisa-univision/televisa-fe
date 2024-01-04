@@ -73,7 +73,7 @@ export default () => ({
   },
   descriptionFontSize: 'regular',
   categoryColor: BLUE_ZODIAC,
-  widgetTitleColor: BLUE_ZODIAC,
+  widgetTitleColor: BLACK,
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: BLUE_ZODIAC,
   listCardWidgetButtonBackgroundColor: BLUE_ZODIAC,

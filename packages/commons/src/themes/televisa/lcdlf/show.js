@@ -100,7 +100,7 @@ const LCDLFThemeConfig = data => ({
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: BALL_BLUE,
-  widgetTitleColor: BALL_BLUE,
+  widgetTitleColor: WHITE,
   liveblogPostsTheme: BALL_BLUE,
   mainIconIsDark: false,
   // Dark mode for shows

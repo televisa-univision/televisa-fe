@@ -92,6 +92,7 @@ class CardTracker extends Tracker {
         widget_type: toDeburr(widgetContext?.name, { lowercase: true }),
         position: content?.position || 0,
         event_label: eventLabel,
+        destination_url: content?.destination_url,
       };
     }
     return null;

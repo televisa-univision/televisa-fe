@@ -3,6 +3,7 @@ import {
   MINE_SHAFT_BLACK,
   MERMAID_NET,
   TRANSPARENT,
+  WHITE,
 } from '@univision/fe-utilities/styled/constants';
 import LOGOS from '../../../constants/televisaSitesData';
 
@@ -110,7 +111,7 @@ const eln9veShowThemeConfig = (data) => {
     },
     descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
     categoryColor: MERMAID_NET,
-    widgetTitleColor: MERMAID_NET,
+    widgetTitleColor: WHITE,
     widgetLinkTitleColor: BLACK,
     liveblogPostsTheme: MERMAID_NET,
     mainIconIsDark: true,

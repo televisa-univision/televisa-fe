@@ -67,7 +67,7 @@ export const bandamaxThemeConfig = () => ({
   },
   descriptionFontSize: 'regular',
   categoryColor: SOLID_BRAVE_RED,
-  widgetTitleColor: SOLID_BRAVE_RED,
+  widgetTitleColor: BLACK,
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: SOLID_BRAVE_RED,
   slideshowTitleTheme: SOLID_BRAVE_RED,

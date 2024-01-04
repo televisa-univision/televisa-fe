@@ -65,7 +65,7 @@ export default () => ({
   },
   descriptionFontSize: 'regular', // could be 'small', 'regular', 'large'
   categoryColor: MAGENTA_RGB,
-  widgetTitleColor: MAGENTA_RGB,
+  widgetTitleColor: BLACK,
   widgetLinkTitleColor: BLACK,
   liveblogPostsTheme: MAGENTA_RGB,
   slideshowTitleTheme: MAGENTA_RGB,

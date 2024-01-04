@@ -3,6 +3,7 @@ import {
   BLACK_STARTS,
   GLOBAL_GRADIENT,
   MINE_SHAFT_BLACK,
+  BLACK,
 } from '@univision/fe-utilities/styled/constants';
 import {
   LINK_HOVER_EFFECT,

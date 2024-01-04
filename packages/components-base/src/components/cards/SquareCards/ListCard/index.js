@@ -146,6 +146,7 @@ const ListCard = (props) => {
     uid,
     uidContent: uid,
     position,
+    destination_url: uri,
     ...(cardType?.isCrossVerticalPromo && {
       uid: uri,
       cardTypeOverride: 'external widget',
