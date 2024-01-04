@@ -72,7 +72,7 @@ export default {
     'uat.webapp.y.univision.com': 'https://www2.univision.com',
     'uat.webapp.univision.com': 'https://www2.univision.com',
   },
-  domainAllowed: /((dev|prod)-univision.*|([a-z0-9]+[.])*univision.*|tudn.com|tudn.tv|unicable.tv|bandamax.tv|canal5.com|prende.tv|mulher.com.br|delicioso.com.br|tasaudavel.com.br|zappeando.com.br|lasestrellas.tv|elnu9ve.com|televisa.com|distritocomedia.com|losbingers.com|lacasadelosfamososmexico.tv|^about:|^null|googleusercontent\.com|google\.com)$/,
+  domainAllowed: /((dev|prod)-univision.*|([a-z0-9]+[.])*univision.*|tudn.com|tudn.tv|unicable.tv|bandamax.tv|canal5.com|prende.tv|mulher.com.br|delicioso.com.br|tasaudavel.com.br|zappeando.com.br|lasestrellas.tv|elnu9ve.com|telehit.com|lacasadelosfamososmexico.tv|lcdlf.tv|televisa.com|distritocomedia.com|losbingers.com|lacasadelosfamososmexico.tv|^about:|^null|googleusercontent\.com|google\.com)$/,
   ssoDomainAllowed: /sso(-uat.webapp|-performance.webapp)?\.univision\.com/,
   ignoredRoutes: ['mraid.js', 'amp_preconnect_polyfill', '.css.map', '.js.map'],
   clusterModeEnabled: false,

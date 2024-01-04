@@ -15,19 +15,9 @@ export const logo = {
   icon: 'televisaApp',
   name: 'televisa',
   site: TELEVISA_SITE,
-  uri: '/televisa',
-  href: '/televisa',
+  uri: 'https://www.televisa.com/',
+  href: 'https://www.televisa.com/',
   viewBox: '-5 7 60 15',
-  text: '',
-};
-
-export const logoDark = {
-  icon: 'televisaAppBlack',
-  name: 'televisa',
-  site: TELEVISA_SITE,
-  uri: '/televisa',
-  href: '/televisa',
-  viewBox: '0 0 60 45',
   text: '',
 };
 
@@ -45,19 +35,23 @@ const TelevisaLink = ({
   isMobile,
   isDark,
 }) => {
-  let {
+  let logoObj = logo;
+
+  if (isDark) {
+    logoObj = {
+      ...logoObj,
+      icon: 'televisaAppBlack',
+      viewBox: '0 0 60 45',
+    };
+  }
+
+  const {
     href,
     text,
     icon,
     viewBox,
-  } = logo;
+  } = logoObj;
 
-  if (isDark) {
-    href = logoDark.href;
-    text = logoDark.text;
-    icon = logoDark.icon;
-    viewBox = logoDark.viewBox;
-  }
   const item = {
     href,
     text,
@@ -72,7 +66,7 @@ const TelevisaLink = ({
         role="menuitem"
         isMobile={isMobile}
       >
-        <LinkStyled href={item.href}>
+        <LinkStyled href={item.href} target="_blank">
           <Icon {...item} name={item.icon} />
         </LinkStyled>
       </ItemListStyled>

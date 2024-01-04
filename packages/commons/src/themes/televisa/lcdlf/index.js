@@ -61,7 +61,7 @@ const LCDLFThemeConfig = {
   // Article configuration
   showCateogryTag: true,
   custom: {
-    'a:hoover': BALL_BLUE,
+    'a:hover': BALL_BLUE,
     a: BALL_BLUE,
     b: BALL_BLUE,
   },

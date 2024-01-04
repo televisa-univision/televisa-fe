@@ -28,7 +28,7 @@ export const genericCanal5Data = (data = {}) => {
     logo: {
       src: logo,
       height: 28,
-      width: 142,
+      width: 'auto',
       alt: `${CANAL5} logo`,
     },
   };

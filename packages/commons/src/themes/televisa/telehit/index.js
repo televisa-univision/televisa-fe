@@ -49,7 +49,7 @@ export default () => ({
   primary: BLACK_STARTS,
   secondary: BLACK,
   custom: {
-    'a:hoover': TELEHIT_BLUE,
+    'a:hover': TELEHIT_BLUE,
     a: TELEHIT_BLUE,
     b: TELEHIT_BLUE,
   },

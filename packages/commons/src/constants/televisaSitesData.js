@@ -22,6 +22,9 @@ export const TELEVISA_HOSTS = [
   'televisa.com',
   'unicable.tv',
   'bandamax.tv',
+  'telehit.com',
+  'losbingers.com',
+  'lacasadelosfamososmexico.tv',
 ];
 
 export const VIX_BANNER_MENU_DESKTOP = 'https://st1.uvnimg.com/cb/93/d1bcc61542609ab7edb4680814ba/banner-1.png';

@@ -93,9 +93,9 @@ const eln9veShowThemeConfig = (data) => {
     // Article configuration
     showCategoryTag: true,
     custom: {
-      'a:hoover': MERMAID_NET,
+      'a:hover': MERMAID_NET,
       a: MERMAID_NET,
-      b: MERMAID_NET,
+      b: BLACK,
     },
     titleFontSize: {
       sm: '24px',

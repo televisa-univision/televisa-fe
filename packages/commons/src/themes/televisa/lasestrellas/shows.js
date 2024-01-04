@@ -50,7 +50,7 @@ export default () => ({
   secondary: BLACK,
   custom: {
     b: MAGENTA_RGB,
-    'a:hoover': MAGENTA_RGB,
+    'a:hover': MAGENTA_RGB,
     a: MAGENTA_RGB,
   },
   titleFontSize: {

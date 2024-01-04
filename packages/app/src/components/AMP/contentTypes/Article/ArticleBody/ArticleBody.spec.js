@@ -116,7 +116,7 @@ describe('ArticleBody tests', () => {
     const theme = {
       custom: {
         b: 'red',
-        'a:hoover': 'red',
+        'a:hover': 'red',
         a: 'red',
       },
       tagLabelColor: 'red',

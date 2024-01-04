@@ -47,9 +47,9 @@ export default () => ({
   primary: BLACK,
   secondary: BLACK,
   custom: {
-    'a:hoover': `${MAGENTA_RGB} !important`,
-    a: `${MAGENTA_RGB} !important`,
-    b: `${MAGENTA_RGB} !important`,
+    'a:hover': `${MAGENTA_RGB}`,
+    a: `${MAGENTA_RGB}`,
+    b: `${MAGENTA_RGB}`,
   },
   titleFontSize: {
     sm: '24px',

@@ -1,6 +1,6 @@
 import React from 'react';
 import { shallow, mount } from 'enzyme';
-import TelevisaLink, { logo, logoDark } from './TelevisaLink';
+import TelevisaLink, { logo } from './TelevisaLink';
 
 describe('<TelevisaLink />', () => {
   it('renders without crashing', () => {
@@ -41,15 +41,13 @@ describe('<TelevisaLink />', () => {
     const {
       href,
       text,
-      icon,
-      viewBox,
-    } = logoDark;
+    } = logo;
     expect(Icon.props()).toEqual({
       href,
       text,
-      name: icon,
-      icon,
-      viewBox,
+      name: 'televisaAppBlack',
+      icon: 'televisaAppBlack',
+      viewBox: '0 0 60 45',
       size: 'medium',
     });
   });
